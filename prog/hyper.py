@@ -20,15 +20,16 @@ class PoincareDisk:
     def mkPoint(self, x, y):
         pass
 
-    def mkLine(self, x1, y1, x2, y2):
+    def mkLine(self, p1, p2):
         pass
 
-    def distanceBetween(self, x1, y1, x2, y2):
+    def distanceBetween(self, p1, p2):
         pass
 
 class Boundary:
 
     def __init__(self):
+        self.kind = 'boundary'
         self.t = np.linspace(0, 2 * np.pi, 1000)
         self.x = np.cos(self.t)
         self.y = np.sin(self.t)
@@ -40,10 +41,10 @@ class Boundary:
 class Point:
 
     def __init__(self):
-        pass
+        self.kind = 'point'
 
 
 class Line:
 
     def __init__(self):
-        pass
+        self.kind = 'line'
