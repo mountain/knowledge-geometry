@@ -13,6 +13,7 @@ class PoincareDisk:
         ax.set_aspect(1)
         self.axis = ax
         self.figure = fig
+        self.plt = plt
 
     def plot(self, shape):
         shape.plot(self)
@@ -36,8 +37,8 @@ class PoincareDisk:
     def distanceBetween(self, o1, o2):
         pass
 
-    def show(self):
-        self.figure.show()
+    def show(self, **xargs):
+        self.plt.show(**xargs)
 
 class Boundary:
 
@@ -82,9 +83,9 @@ class Line:
                                    [a, b, 1]])
             self.det = la.det(self.qform)
             self.eigvals, self.eigvecs = la.eig(self.qform)
-            centerx = -a
+            centerx = a
             centery = -b
-            radius = (self.eigvals[0] + self.eigvals[1]) / 2
+            radius = self.eigvals[1]
 
         if u.kind == 'line' and v.kind == 'point':
             pass
