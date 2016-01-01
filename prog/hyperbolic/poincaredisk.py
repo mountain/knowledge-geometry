@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+import math
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -78,14 +79,14 @@ class Line:
             vy = np.array(v.y)
             a = (uy * (vx * vx + vy * vy) - vy * (ux * ux + uy * uy) + uy - vy) / (2 * (ux * vy - uy * vx))
             b = (vx * (uy * uy + ux * ux) - ux * (vy * vy + vx * vx) + vx - ux) / (2 * (ux * vy - uy * vx))
+            centerx = -a
+            centery = -b
+            radius = math.sqrt(a * a + b * b - 1)
             self.qform = np.array([[1, 0, a],
                                    [0, 1, b],
                                    [a, b, 1]])
             self.det = la.det(self.qform)
             self.eigvals, self.eigvecs = la.eig(self.qform)
-            centerx = a
-            centery = -b
-            radius = self.eigvals[1]
 
         if u.kind == 'line' and v.kind == 'point':
             pass
