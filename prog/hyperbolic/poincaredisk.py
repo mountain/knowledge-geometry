@@ -41,6 +41,7 @@ class PoincareDisk:
     def show(self, **xargs):
         self.plt.show(**xargs)
 
+
 class Boundary:
 
     def __init__(self):
@@ -97,7 +98,6 @@ class Line:
         self.t = np.linspace(0, 2 * np.pi, 1000 * self.radius)
         self.x = self.centerx + self.radius * np.cos(self.t)
         self.y = self.centery + self.radius * np.sin(self.t)
-
 
     def plot(self, pd, **xargs):
         pd.axis.plot(self.x, self.y, **xargs)
