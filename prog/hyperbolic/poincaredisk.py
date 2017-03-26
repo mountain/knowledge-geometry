@@ -98,6 +98,9 @@ class Line:
         self.t = np.linspace(0, 2 * np.pi, 1000 * self.radius)
         self.x = self.centerx + self.radius * np.cos(self.t)
         self.y = self.centery + self.radius * np.sin(self.t)
+        self.r = self.x ** 2 + self.y ** 2
+        self.x = self.x * (self.r < 1)
+        self.y = self.y * (self.r < 1)
 
     def plot(self, pd, **xargs):
         pd.axis.plot(self.x, self.y, **xargs)
