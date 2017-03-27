@@ -48,6 +48,30 @@ class PoincareDisk:
         if o1.kind == 'line' and o2.kind == 'line':
             return 0
 
+    def reflectX(self, p):
+        if p.kind == 'point':
+            q = Point()
+            op = np.mat([[1, 0, 0], [0, -1, 0], [0, 0, 1]])
+            m = op.dot(p.to_weierstrass())
+            q.from_weierstrass(m)
+            return q
+
+    def reflectB(self, p, d):
+        if p.kind == 'point':
+            q = Point()
+            op = np.mat([[-np.cosh(2 * d), 0, np.sinh(2 * d)], [0, 1, 0], [-np.sinh(2 * d), 0, np.cosh(2 * d)]])
+            m = op.dot(p.to_weierstrass())
+            q.from_weierstrass(m)
+            return q
+
+    def reflectTheta(self, p, theta):
+        if p.kind == 'point':
+            q = Point()
+            op = np.mat([[np.cos(2 * theta), np.sin(2 * theta), 0], [np.sinh(2 * theta), -np.cos(2 * theta), 0], [0, 0, 1] ])
+            m = op.dot(p.to_weierstrass())
+            q.from_weierstrass(m)
+            return q
+
     def show(self, **xargs):
         self.plt.show(**xargs)
 
@@ -74,6 +98,16 @@ class Point:
     def plot(self, pd, **xargs):
         pd.axis.plot(self.x, self.y, **xargs)
 
+    def to_weierstrass(self):
+        x = self.x
+        y = self.y
+        p = 1 - x * x - y * y
+        q = 1 + x * x + y * y
+        return np.array([2 * x / p, 2 * y / p, q / p])
+
+    def from_weierstrass(self, x, y, z):
+        self.x = x / (1 + z)
+        self.y = y / (1 + z)
 
 class Line:
 
