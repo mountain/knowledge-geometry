@@ -36,8 +36,8 @@ print ''
 for key in sorted(dmap.keys()):
     x = xmap[key]
     print x
-    p = pd.mkPoint(x, 0)
-    q = pd.mkPoint(x, x)
+    p = pd.mkPoint(x, 1 - x)
+    q = pd.mkPoint(x, x - 1)
     l = pd.mkLine(p, q, color='green', linestyle='', marker=',')
 
 pd.show(block=True)
