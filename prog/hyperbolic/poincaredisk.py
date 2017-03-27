@@ -36,7 +36,17 @@ class PoincareDisk:
         return l
 
     def distanceBetween(self, o1, o2):
-        pass
+        if o1.kind == 'point' and o2.kind == 'point':
+            op2 = o1.x * o1.x + o1.y * o1.y
+            oq2 = o2.x * o2.x + o2.y * o2.y
+            pq2 = (o1.x - o2.x) * (o1.x - o2.x) + (o1.y - o2.y) * (o1.y - o2.y)
+            return np.arccosh(1 + 2 * pq2 / (1 - op2) / (1 - oq2))
+        if o1.kind == 'point' and o2.kind == 'line':
+            return 0
+        if o1.kind == 'line' and o2.kind == 'point':
+            return 0
+        if o1.kind == 'line' and o2.kind == 'line':
+            return 0
 
     def show(self, **xargs):
         self.plt.show(**xargs)
