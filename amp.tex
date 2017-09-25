@@ -1,0 +1,113 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{amsmath, amsthm, amssymb}
+\usepackage{tikz} % 添加绘图
+\usepackage{tabularx}
+\usepackage{enumitem}
+\usepackage{fancyref}
+
+\input{data/style}
+
+\newcommand{\specialcell}[2][c]{%
+  \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
+
+\newtheorem{proposition}{命题}
+
+\title{在庞加莱圆盘上看加法与乘法}
+\author{苑明理}
+\date{2017年9月}
+
+\begin{document}
+
+\maketitle{}
+
+\renewcommand\contentsname{目录}
+\setcounter{tocdepth}{2}
+\tableofcontents
+
+\newpage
+
+\section{预备知识}
+
+\subsection{数字的表示}
+
+我们采用波兰表达式的记法，用两个操作 i 和 d ，以及出发点 0 和 1 ，来表示出不同的数字，其中：
+
+\begin{itemize}
+\item i 表示 increase，即加一的操作
+\item d 表示 double，即乘二的操作
+\end{itemize}
+
+我们作示例如下表
+
+\begin{table}[tbhp]
+\centering
+\begin{tabularx}{\textwidth}
+{|>{\setlength\hsize{0.9\hsize}\setlength\linewidth{\hsize}}X
+ |>{\setlength\hsize{0.9\hsize}\setlength\linewidth{\hsize}}X
+ |>{\setlength\hsize{0.9\hsize}\setlength\linewidth{\hsize}}X
+ |>{\setlength\hsize{0.9\hsize}\setlength\linewidth{\hsize}}X
+ |>{\setlength\hsize{0.9\hsize}\setlength\linewidth{\hsize}}X
+ |>{\setlength\hsize{0.9\hsize}\setlength\linewidth{\hsize}}X
+ |>{\setlength\hsize{0.9\hsize}\setlength\linewidth{\hsize}}X|}
+\hline
+数字 & 1 &  2 &  3 &  4 &  5 & 6 \\
+\hline
+不同表示 &
+\begin{itemize}[leftmargin=*]\item i0\end{itemize} &
+\begin{itemize}[leftmargin=*]\item ii0\item d1\end{itemize} &
+\begin{itemize}[leftmargin=*]\item iii0\item id1\end{itemize} &
+\begin{itemize}[leftmargin=*]\item iiii0\item iid1\item dii0\item dd1\end{itemize} &
+\begin{itemize}[leftmargin=*]\item iiiii0\item iiid1\item idii0\item idd1\end{itemize} &
+\begin{itemize}[leftmargin=*]\item iiiii0\item iiiid1\item iidii0\item iidd1\item did1\end{itemize} \\
+\hline
+最短表示 & i0 & d1 & id1 & dd1 & idd1 & did1 \\
+\hline
+\end{tabularx}
+\caption{六个自然数的表示}
+\end{table}
+
+\newpage
+
+\subsection{四阶无限边形镶嵌}
+
+双曲平面上有许多非常有趣的镶嵌结构，这里我们展示一种称为四阶无限边形镶嵌的构造。
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=3.5in]{images/H2_tiling_24i-1.png}
+\caption{四阶无限边形镶嵌}
+\end{figure}
+
+如果注意到双曲平面是一个齐性空间，并且观察到在上述构造里，有些蓝色测地线之间彼此有交点，但这些交点彼此之间没有任何差别；
+利用对称性，我们容易理解：
+
+\begin{proposition}
+\label{A}
+镶嵌结构上的两条测地线如果彼此之间相交，那么它们就是垂直的；否则这两条测地线就是平行的。
+\end{proposition}
+
+\begin{proposition}
+\label{B}
+对于任意一条镶嵌结构上的测地线，镶嵌结构上的其他测地线可以被归类到与之平行或垂直的两组之中。
+\end{proposition}
+
+\newpage
+
+\section{操作序列与几何}
+
+\subsection{嵌入到镶嵌结构}
+
+给定镶嵌结构上的一条测地线和一个零点，根据 \ref{B} 的结果，我们称与之平行的所有镶嵌结构上的测地线是加性的，
+而与之垂直的所有镶嵌结构上的测地线是乘性的。
+
+接着，我们把操作嵌入进来：赋予加性测地线上两个相邻交点之间的连线的含义为操作 i；赋予乘性测地线上两个相邻交点之间的连线的含义为操作 d。
+
+
+
+
+
+\subsection{希尔伯特曲线}
+
+\section{一种新的Surreal数？}
+
+\end{document}
