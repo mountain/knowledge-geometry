@@ -11,6 +11,7 @@
   \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
 
 \newtheorem{proposition}{命题}
+\newtheorem{grammar}{文法}
 
 \title{在庞加莱圆盘上看加法与乘法}
 \author{苑明理}
@@ -28,9 +29,9 @@
 
 \section{预备知识}
 
-\subsection{数字的表示}
+\subsection{正整数的表示}
 
-我们采用波兰表达式的记法，用两个操作 i 和 d ，以及出发点 0 和 1 ，来表示出不同的数字，其中：
+我们采用波兰表达式的记法，用两个操作 i 和 d ，以及初始操作数 0 和 1 ，来表示出不同的数字，其中：
 
 \begin{itemize}
 \item i 表示 increase，即加一的操作
@@ -66,6 +67,16 @@
 \caption{六个自然数的表示}
 \end{table}
 
+合法的表达式可以由下述文法生成：
+
+\begin{grammar}
+\label{g1}
+合法的表达式
+\begin{itemize}
+\item $E := (i | d)* (0 | 1)$
+\end{itemize}
+\end{grammar}
+
 \newpage
 
 \subsection{四阶无限边形镶嵌}
@@ -79,7 +90,7 @@
 \end{figure}
 
 如果注意到双曲平面是一个齐性空间，并且观察到在上述构造里，有些蓝色测地线之间彼此有交点，但这些交点彼此之间没有任何差别；
-利用对称性，我们容易理解：
+每一个交点都是两个测地线交汇出来的，都有四支分叉。利用对称性，我们容易理解：
 
 \begin{proposition}
 \label{A}
@@ -90,6 +101,22 @@
 \label{B}
 对于任意一条镶嵌结构上的测地线，镶嵌结构上的其他测地线可以被归类到与之平行或垂直的两组之中。
 \end{proposition}
+
+\newpage
+
+\subsection{H-树}
+
+H-树是如下图所示的分形构造。
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=3.5in]{images/2000px-H_tree.png}
+\caption{H-树}
+\end{figure}
+
+四阶无限边形镶嵌按照一定规则剪枝，拓扑上可以得到H-树。
+
+\subsection{序数}
 
 \newpage
 
