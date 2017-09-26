@@ -6,12 +6,27 @@
 \usepackage{fancyref}
 
 \input{data/style}
+\setlength{\parindent}{0em}
 
 \newcommand{\specialcell}[2][c]{%
   \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
 
 \newtheorem{proposition}{命题}
 \newtheorem{grammar}{文法}
+
+\usetikzlibrary{shapes.geometric}
+\tikzset{
+    turtle/.style={
+        draw,
+        shape border rotate=270,
+        regular polygon,
+        regular polygon sides=3,
+        fill=gray,
+        node distance=2cm,
+        minimum height=4em
+    }
+}
+
 
 \title{在庞加莱圆盘上看加法与乘法}
 \author{苑明理}
@@ -29,13 +44,13 @@
 
 \section{预备知识}
 
-\subsection{正整数的表示}
+\subsection{数的表示}
 
 我们采用波兰表达式的记法，用两个操作 i 和 d ，以及初始操作数 0 和 1 ，来表示出不同的数字，其中：
 
 \begin{itemize}
-\item i 表示 increase，即加一的操作
-\item d 表示 double，即乘二的操作
+\item b 表示加一的操作
+\item m 表示乘二的操作
 \end{itemize}
 
 我们作示例如下表
@@ -54,34 +69,86 @@
 数字 & 1 &  2 &  3 &  4 &  5 & 6 \\
 \hline
 不同表示 &
-\begin{itemize}[leftmargin=*]\item i0\end{itemize} &
-\begin{itemize}[leftmargin=*]\item ii0\item d1\end{itemize} &
-\begin{itemize}[leftmargin=*]\item iii0\item id1\end{itemize} &
-\begin{itemize}[leftmargin=*]\item iiii0\item iid1\item dii0\item dd1\end{itemize} &
-\begin{itemize}[leftmargin=*]\item iiiii0\item iiid1\item idii0\item idd1\end{itemize} &
-\begin{itemize}[leftmargin=*]\item iiiii0\item iiiid1\item iidii0\item iidd1\item did1\end{itemize} \\
+\begin{itemize}[leftmargin=*]\item b0\end{itemize} &
+\begin{itemize}[leftmargin=*]\item bb0\item m1\end{itemize} &
+\begin{itemize}[leftmargin=*]\item bbb0\item bm1\end{itemize} &
+\begin{itemize}[leftmargin=*]\item bbbb0\item bbm1\item mbb0\item mm1\end{itemize} &
+\begin{itemize}[leftmargin=*]\item bbbbb0\item bbbm1\item bmbb0\item bmm1\end{itemize} &
+\begin{itemize}[leftmargin=*]\item bbbbbb0\item bbbbm1\item bbmbb0\item bbmm1\item mbm1\end{itemize} \\
 \hline
-最短表示 & i0 & d1 & id1 & dd1 & idd1 & did1 \\
+最短表示 & b0 & m1 & bm1 & mm1 & bmm1 & mbm1 \\
 \hline
 \end{tabularx}
 \caption{六个自然数的表示}
 \end{table}
 
-合法的表达式可以由下述文法生成：
+生成自然数的合法的表达式可以由下述文法给出：
 
 \begin{grammar}
 \label{g1}
 合法的表达式
 \begin{itemize}
-\item $E := (i | d)* (0 | 1)$
+\item $E := (b | m)* (0 | 1)$
+\end{itemize}
+\end{grammar}
+
+当我们引入操作 b 的逆操作 d ，操作 m 的逆操作 w
+
+\begin{itemize}
+\item d 表示减一的操作
+\item w 表示除二的操作
+\end{itemize}
+
+生成有理数的合法的表达式可以由下述文法给出：
+
+\begin{grammar}
+\label{g1}
+合法的表达式
+\begin{itemize}
+\item $E := (b | d | m | w)* (0 | 1)$
 \end{itemize}
 \end{grammar}
 
 \newpage
 
+\subsection{海龟绘图}
+
+许多分形构造或者镶嵌构造可以非常方便的通过一种支持裂解操作的 Logo 语言来实现。
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+
+% nodes
+\node (bk) at (4, 2) {backward};
+\node[turtle] (tt) at (8, 2) {turtle};
+\node (fd) at (12, 2) {forward};
+\node (lt) at (8, 4) {left};
+\node (rt) at (8, 0) {right};
+
+% arrows
+\draw[->] (tt) edge (bk);
+\draw[->] (tt) edge (fd);
+
+\end{tikzpicture}
+\caption{绘图海龟的基本概念}
+\end{figure}
+
+Logo 语言的一个关键构造是绘图小海龟，它维持有一个指向，可以前进、后退若干步长，可以左转、右转若干角度。
+如果在画布上允许多个海龟的存在，并且每个海龟单独维护自己的步长，所谓的裂解是指如下的变换：
+
+\newpage
+
 \subsection{四阶无限边形镶嵌}
 
-双曲平面上有许多非常有趣的镶嵌结构，这里我们展示一种称为四阶无限边形镶嵌的构造。
+双曲平面上有许多非常有趣的镶嵌结构，这里我们展示一种称为四阶无限边形镶嵌的构造。这个镶嵌结构的构造程序如下
+
+\begin{itemize}
+\item 裂解[0, +90, +180, +270; 1]
+\item 对所有的小海龟，反复无限次的执行下述命令
+\begin{itemize}\item 前进一步 \item 裂解[-90, 0, +90; 1] \end{itemize}
+\end{itemize}
+
 
 \begin{figure}[ht]
 \centering
@@ -106,7 +173,14 @@
 
 \subsection{H-树}
 
-H-树是如下图所示的分形构造。
+H-树是如下图所示的分形构造。四阶无限边形镶嵌按照一定规则剪枝，拓扑上可以得到H-树。H-树的构造可以非常方便的通过一种支持裂解操作的 Logo 语言来实现。
+
+H-树的具体构造程序如下
+
+\begin{itemize}
+\item 对所有的小海龟，反复无限次的执行下述命令
+\begin{itemize}\item 前进一步 \item 裂解[-90, +90; $\sqrt{2} / 2$] \end{itemize}
+\end{itemize}
 
 \begin{figure}[ht]
 \centering
@@ -114,7 +188,8 @@ H-树是如下图所示的分形构造。
 \caption{H-树}
 \end{figure}
 
-四阶无限边形镶嵌按照一定规则剪枝，拓扑上可以得到H-树。
+\newpage
+
 
 \subsection{序数}
 
