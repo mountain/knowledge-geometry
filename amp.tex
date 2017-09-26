@@ -13,6 +13,8 @@
 
 \newtheorem{proposition}{命题}
 \newtheorem{grammar}{文法}
+\newtheorem{program}{程序}
+\newtheorem{convention}{约定}
 
 \usetikzlibrary{shapes.geometric}
 \tikzset{
@@ -44,39 +46,42 @@
 
 \section{预备知识}
 
-\subsection{数的表示}
+\subsection{数的一种表示}
 
-我们采用波兰表达式的记法，用两个操作 i 和 d ，以及初始操作数 0 和 1 ，来表示出不同的数字，其中：
+我们采用逆波兰表达式的记法，用两个操作 b 和 m ，以及初始操作数 0 和 1 ，来表示出不同的数字，其中：
 
+\begin{convention}
+正向操作
 \begin{itemize}
 \item b 表示加一的操作
 \item m 表示乘二的操作
 \end{itemize}
+\end{convention}
 
 我们作示例如下表
 
 \begin{table}[tbhp]
 \centering
 \begin{tabularx}{\textwidth}
-{|>{\setlength\hsize{0.9\hsize}\setlength\linewidth{\hsize}}X
- |>{\setlength\hsize{0.9\hsize}\setlength\linewidth{\hsize}}X
- |>{\setlength\hsize{0.9\hsize}\setlength\linewidth{\hsize}}X
- |>{\setlength\hsize{0.9\hsize}\setlength\linewidth{\hsize}}X
- |>{\setlength\hsize{0.9\hsize}\setlength\linewidth{\hsize}}X
- |>{\setlength\hsize{0.9\hsize}\setlength\linewidth{\hsize}}X
- |>{\setlength\hsize{0.9\hsize}\setlength\linewidth{\hsize}}X|}
+{|>{\setlength\hsize{0.95\hsize}\setlength\linewidth{\hsize}}X
+ |>{\setlength\hsize{0.95\hsize}\setlength\linewidth{\hsize}}X
+ |>{\setlength\hsize{0.95\hsize}\setlength\linewidth{\hsize}}X
+ |>{\setlength\hsize{0.95\hsize}\setlength\linewidth{\hsize}}X
+ |>{\setlength\hsize{0.95\hsize}\setlength\linewidth{\hsize}}X
+ |>{\setlength\hsize{0.95\hsize}\setlength\linewidth{\hsize}}X
+ |>{\setlength\hsize{0.95\hsize}\setlength\linewidth{\hsize}}X|}
 \hline
 数字 & 1 &  2 &  3 &  4 &  5 & 6 \\
 \hline
 不同表示 &
-\begin{itemize}[leftmargin=*]\item b0\end{itemize} &
-\begin{itemize}[leftmargin=*]\item bb0\item m1\end{itemize} &
-\begin{itemize}[leftmargin=*]\item bbb0\item bm1\end{itemize} &
-\begin{itemize}[leftmargin=*]\item bbbb0\item bbm1\item mbb0\item mm1\end{itemize} &
-\begin{itemize}[leftmargin=*]\item bbbbb0\item bbbm1\item bmbb0\item bmm1\end{itemize} &
-\begin{itemize}[leftmargin=*]\item bbbbbb0\item bbbbm1\item bbmbb0\item bbmm1\item mbm1\end{itemize} \\
+\begin{itemize}[leftmargin=*]\item 0b\end{itemize} &
+\begin{itemize}[leftmargin=*]\item 0bb\item 1m\end{itemize} &
+\begin{itemize}[leftmargin=*]\item 0bbb\item 1mb\end{itemize} &
+\begin{itemize}[leftmargin=*]\item 0bbbb\item 1mbb\item 0bbm\item 1mm\end{itemize} &
+\begin{itemize}[leftmargin=*]\item 0bbbbb\item 1mbbb\item 0bbmb\item 1mmb\end{itemize} &
+\begin{itemize}[leftmargin=*]\item 0bbbbbb\item 1mbbbb\item 0bbmbb\item 1mmbb\item 1mbm\end{itemize} \\
 \hline
-最短表示 & b0 & m1 & bm1 & mm1 & bmm1 & mbm1 \\
+最简表示 & 0b & 1m & 1mb & 1mm & 1mmb & 1mbm \\
 \hline
 \end{tabularx}
 \caption{六个自然数的表示}
@@ -88,16 +93,19 @@
 \label{g1}
 合法的表达式
 \begin{itemize}
-\item $E := (b | m)* (0 | 1)$
+\item $E := (0 | 1)(b | m)*$
 \end{itemize}
 \end{grammar}
 
-当我们引入操作 b 的逆操作 d ，操作 m 的逆操作 w
+下面，我们引入操作 b 的逆操作 d ，操作 m 的逆操作 w
 
+\begin{convention}
+逆向操作
 \begin{itemize}
 \item d 表示减一的操作
 \item w 表示除二的操作
 \end{itemize}
+\end{convention}
 
 生成有理数的合法的表达式可以由下述文法给出：
 
@@ -105,15 +113,17 @@
 \label{g1}
 合法的表达式
 \begin{itemize}
-\item $E := (b | d | m | w)* (0 | 1)$
+\item $E := (0 | 1)(b | d | m | w)*$
 \end{itemize}
 \end{grammar}
 
-\newpage
+初始操作数有 0 和 1 两个选择，大家可能会对此有一定的疑问。初始操作数 1 的引入主要是为了在求得最简表示时消除一些特定的例子。
+在后面的章节，我们会取消初始操作数 1。
 
-\subsection{海龟绘图}
+\subsection{支持裂解的海龟绘图}
 
-许多分形构造或者镶嵌构造可以非常方便的通过一种支持裂解操作的 Logo 语言来实现。
+Logo 是一种程序设计语言，并以它的绘图执行环境而闻名。Logo 绘图执行环境的一个关键构造是绘图小海龟。
+小海龟维持有一个指向，可以前进、后退若干步长，也可以左转、右转若干角度。
 
 \begin{figure}[ht]
 \centering
@@ -134,27 +144,37 @@
 \caption{绘图海龟的基本概念}
 \end{figure}
 
-Logo 语言的一个关键构造是绘图小海龟，它维持有一个指向，可以前进、后退若干步长，可以左转、右转若干角度。
-如果在画布上允许多个海龟的存在，并且每个海龟单独维护自己的步长，所谓的裂解是指如下的变换：
+许多分形构造或者镶嵌构造可以非常方便的通过一种支持裂解操作的 Logo 语言来实现。我们放宽原始 Logo 语言里的设定，
+允许在画布上有多个海龟的存在，并且每个海龟单独维护自己的步长。于是，所谓的裂解是指一个操作，
+它可以让一个海龟变成按照一定角度排布的多个海龟，同时新生成的海龟有新的步长设定。
 
-\newpage
+\begin{convention}
+裂解采用如下的命令形式：
+\begin{itemize}
+\item 裂解[角度排布;步长设定]
+\end{itemize}
+\end{convention}
 
 \subsection{四阶无限边形镶嵌}
 
-双曲平面上有许多非常有趣的镶嵌结构，这里我们展示一种称为四阶无限边形镶嵌的构造。这个镶嵌结构的构造程序如下
-
-\begin{itemize}
-\item 裂解[0, +90, +180, +270; 1]
-\item 对所有的小海龟，反复无限次的执行下述命令
-\begin{itemize}\item 前进一步 \item 裂解[-90, 0, +90; 1] \end{itemize}
-\end{itemize}
-
+双曲平面上有许多非常有趣的镶嵌结构，这里我们展示一种称为四阶无限边形镶嵌的构造。
 
 \begin{figure}[ht]
 \centering
 \includegraphics[width=3.5in]{images/H2_tiling_24i-1.png}
 \caption{四阶无限边形镶嵌}
 \end{figure}
+
+这个镶嵌结构的构造程序如下
+
+\begin{program}
+四阶无限边形镶嵌的构造一
+\begin{itemize}
+\item 裂解[0, +90, +180, +270; 1]
+\item 对所有的小海龟，反复无限次的执行下述命令
+\begin{itemize}\item 前进一步 \item 裂解[-90, 0, +90; 1] \end{itemize}
+\end{itemize}
+\end{program}
 
 如果注意到双曲平面是一个齐性空间，并且观察到在上述构造里，有些蓝色测地线之间彼此有交点，但这些交点彼此之间没有任何差别；
 每一个交点都是两个测地线交汇出来的，都有四支分叉。利用对称性，我们容易理解：
@@ -169,18 +189,9 @@ Logo 语言的一个关键构造是绘图小海龟，它维持有一个指向，
 对于任意一条镶嵌结构上的测地线，镶嵌结构上的其他测地线可以被归类到与之平行或垂直的两组之中。
 \end{proposition}
 
-\newpage
-
 \subsection{H-树}
 
-H-树是如下图所示的分形构造。四阶无限边形镶嵌按照一定规则剪枝，拓扑上可以得到H-树。H-树的构造可以非常方便的通过一种支持裂解操作的 Logo 语言来实现。
-
-H-树的具体构造程序如下
-
-\begin{itemize}
-\item 对所有的小海龟，反复无限次的执行下述命令
-\begin{itemize}\item 前进一步 \item 裂解[-90, +90; $\sqrt{2} / 2$] \end{itemize}
-\end{itemize}
+H-树是如下图所示的分形构造。四阶无限边形镶嵌按照一定规则剪枝，拓扑上可以得到H-树。
 
 \begin{figure}[ht]
 \centering
@@ -188,35 +199,87 @@ H-树的具体构造程序如下
 \caption{H-树}
 \end{figure}
 
+H-树的具体构造程序如下
+
+\begin{program}
+H-树的构造
+\begin{itemize}
+\item 对所有的小海龟，反复无限次的执行下述命令
+\begin{itemize}\item 前进一步 \item 裂解[-90, +90; $\sqrt{2} / 2$] \end{itemize}
+\end{itemize}
+\end{program}
+
 \newpage
 
+\section{数与几何}
 
-\subsection{序数}
+\subsection{一个特殊零点的引入}
 
-\newpage
+我们还有四阶无限边形镶嵌的另外一种构造程序，这个构造引入了一个特殊的零点。
 
-\section{操作序列与几何}
+\begin{program}
+四阶无限边形镶嵌的构造二
+\begin{itemize}
+\item 裂解[0, +180; 1]
+\item 前进半步
+\item 对所有的小海龟，反复无限次的执行下述命令
+\begin{itemize}
+  \item 前进一步
+  \item 裂解[-90, 0, +90; 1]
+\end{itemize}
+\end{itemize}
+\end{program}
 
-\subsection{嵌入到镶嵌结构}
+上述程序里小海龟的起点就是我们特殊的零点。
 
-给定镶嵌结构上的一条测地线和一个零点，根据 \ref{B} 的结果，我们称与之平行的所有镶嵌结构上的测地线是加性的，
-而与之垂直的所有镶嵌结构上的测地线是乘性的。
+\begin{figure}[ht]
+\centering
+\includegraphics[width=3.5in]{images/H2_tiling_with_zero.png}
+\caption{一个零点的引入}
+\end{figure}
 
-接着，我们把操作嵌入进来：赋予加性测地线上两个相邻交点之间的连线的含义为操作 i；赋予乘性测地线上两个相邻交点之间的连线的含义为操作 d。
+\subsection{一种边着色方案}
 
-\begin{proposition}
-\label{C}
-所有可能的操作序列都被嵌入到镶嵌结构上。
-\end{proposition}
+下面我们给四阶无限边形镶嵌的边着色。着色的基本原则是前进方向的右侧是 b 或者 w，前进方向的左侧是 d 或者 m；同时，b 和 d 作为加性组，
+m 和 w 作为乘性组，它们彼此交替出现。上述过程可以被下面的程序刻画。
 
-\begin{proposition}
-\label{D}
-从规定的零点开始，所有镶嵌结构上的路径，都是合法的操作序列。
-\end{proposition}
+\begin{figure}[ht]
+\centering
+\includegraphics[width=3.5in]{images/H2_tiling_with_color.png}
+\caption{在边上着色}
+\end{figure}
 
+\begin{program}
+四阶无限边形镶嵌的构造三
+\begin{itemize}
+\item 裂解[0, +180; 1]，朝向 0 度的小海龟背着符号 b，朝向 180 度的小海龟背着符号 d
+\item 前进半步
+\item 对所有的小海龟，反复无限次的执行下述命令
+\begin{itemize}
+  \item 前进一步
+  \item 裂解[-90, 0, +90; 1]，朝向 0 度的小海龟背着的符号不变，其余小海龟背着的符号做出变化如下
+    \begin{itemize}
+      \item 如果裂解前海龟背着 b 或者 d，则朝向 -90 度的小海龟背着 m，朝向 90 度的小海龟背着 w
+      \item 前进裂解前海龟背着 m 或者 w，则朝向 -90 度的小海龟背着 d，朝向 90 度的小海龟背着 b
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+\end{program}
 
-\subsection{希尔伯特曲线}
+\subsection{一种赋值方案}
 
-\section{一种新的Surreal数？}
+\begin{figure}[ht]
+\centering
+\includegraphics[width=3.5in]{images/H2_tiling_with_assign.png}
+\caption{给节点赋值}
+\end{figure}
+
+\subsection{更优的方案}
+
+所有的零点都必须特殊处理，当走到 1 或者 -1 时，必须要前进或者后退半步，得到零点。
+
+零点都必须特殊处理的理由是，一旦零点占据了正常格点，所有从该零点乘性支出去的格点都是零。
+
+\subsection{关于最短表示}
 
 \end{document}
