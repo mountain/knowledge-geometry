@@ -11,10 +11,12 @@
 \newcommand{\specialcell}[2][c]{%
   \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
 
+\newtheorem{lemma}{引理}
 \newtheorem{proposition}{命题}
 \newtheorem{grammar}{文法}
 \newtheorem{program}{程序}
 \newtheorem{convention}{约定}
+\renewcommand*{\proofname}{证明}
 
 \usetikzlibrary{shapes.geometric}
 \tikzset{
@@ -120,6 +122,34 @@
 初始操作数有 0 和 1 两个选择，大家可能会对此有一定的疑问。初始操作数 1 的引入主要是为了在求得最简表示时消除一些特定的例子。
 在后面的章节，我们会取消初始操作数 1。
 
+
+\subsection{操作序列的逆}
+
+实际上，初始操作数可以放宽到任何一个有理数。我们假设操作数是 $\alpha$ ，操作序列是 $a_1 a_2 ... a_{n-1} a_n$ ，结果是 $\beta$ ，
+在当前的记法下，我们写作 $\beta = \alpha a_1 a_2 ... a_{n-1} a_n$。
+
+\begin{lemma}
+\label{l1}
+如果有 $\beta = \alpha a_1 a_2 ... a_{n-1} a_n$，则$\alpha = \beta a_n^{-1} a_{n-1}^{-1} ... a_2^{-1} a_1^{-1}$。
+\end{lemma}
+
+\begin{proof}
+注意到 b、d、m、w 都是双射，我们知道操作序列 $\alpha a_1 a_2 ... a_{n-1} a_n$ 对应于函数的复合：
+
+$$\beta = a_n( a_{n-1}( ... a_2( a_1(\alpha) ) ... ) )$$
+
+考虑到函数复合的逆，我们有：
+
+$$\alpha = a_1^{-1}( a_2^{-1}( ... a_{n-1}^{-1}( a_n^{-1}(\beta) ) ... ) )$$
+
+在另外一个记法下，此即有，
+
+$$\alpha = \beta a_n^{-1} a_{n-1}^{-1} ... a_2^{-1} a_1^{-1}$$
+
+\qedhere
+
+\end{proof}
+
 \subsection{支持裂解的海龟绘图}
 
 Logo 是一种程序设计语言，并以它的绘图执行环境而闻名。Logo 绘图执行环境的一个关键构造是绘图小海龟。
@@ -145,8 +175,8 @@ Logo 是一种程序设计语言，并以它的绘图执行环境而闻名。Log
 \end{figure}
 
 许多分形构造或者镶嵌构造可以非常方便的通过一种支持裂解操作的 Logo 语言来实现。我们放宽原始 Logo 语言里的设定，
-允许在画布上有多个海龟的存在，并且每个海龟单独维护自己的步长。于是，所谓的裂解是指一个操作，
-它可以让一个海龟变成按照一定角度排布的多个海龟，同时新生成的海龟有新的步长设定。
+允许在画布上有多个海龟的存在，并且每个海龟单独维护自己的步长标准。于是，所谓的裂解是指一个操作，
+它可以让一个海龟变成按照一定角度排布的多个海龟，同时新生成的海龟有新的步长设定。对于角度的排布，我们规定前进方向右侧转向是正的方向。
 
 \begin{convention}
 裂解采用如下的命令形式：
@@ -211,9 +241,38 @@ H-树的构造
 
 \newpage
 
-\section{数与几何}
+\section{不同的赋值方案}
 
-\subsection{一个特殊零点的引入}
+\subsection{第一种赋值方案}
+
+下面我们给四阶无限边形镶嵌的边着色。着色的基本原则是前进方向的右侧是 b 或者 w，前进方向的左侧是 d 或者 m；同时，b 和 d 作为加性组，
+m 和 w 作为乘性组，它们彼此交替出现。上述过程可以被下面的程序刻画。
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=3.5in]{images/H2_tiling_with_color.png}
+\caption{在边上着色}
+\end{figure}
+
+\begin{program}
+四阶无限边形镶嵌的构造二
+\begin{itemize}
+\item 裂解[0, +90, +180, +270; 1]，朝向 0 度的小海龟背着符号 b，朝向 180 度的小海龟背着符号 d，朝向 90 度的是 m，朝向 270 度的是 w。
+\item 对所有的小海龟，反复无限次的执行下述命令
+\begin{itemize}
+  \item 前进一步
+  \item 裂解[-90, 0, +90; 1]，朝向 0 度的小海龟背着的符号不变，其余小海龟背着的符号做出变化如下
+    \begin{itemize}
+      \item 如果裂解前海龟背着 b 或者 d，则朝向 -90 度的小海龟背着 m，朝向 90 度的小海龟背着 w
+      \item 如果裂解前海龟背着 m 或者 w，则朝向 -90 度的小海龟背着 d，朝向 90 度的小海龟背着 b
+    \end{itemize}
+  \end{itemize}
+\end{itemize}
+\end{program}
+
+\subsection{第二种赋值方案}
+
+\subsubsection{一个特殊零点的引入}
 
 我们还有四阶无限边形镶嵌的另外一种构造程序，这个构造引入了一个特殊的零点。
 
@@ -238,7 +297,7 @@ H-树的构造
 \caption{一个零点的引入}
 \end{figure}
 
-\subsection{一种边着色方案}
+\subsubsection{一种边着色方案}
 
 下面我们给四阶无限边形镶嵌的边着色。着色的基本原则是前进方向的右侧是 b 或者 w，前进方向的左侧是 d 或者 m；同时，b 和 d 作为加性组，
 m 和 w 作为乘性组，它们彼此交替出现。上述过程可以被下面的程序刻画。
@@ -260,13 +319,13 @@ m 和 w 作为乘性组，它们彼此交替出现。上述过程可以被下面
   \item 裂解[-90, 0, +90; 1]，朝向 0 度的小海龟背着的符号不变，其余小海龟背着的符号做出变化如下
     \begin{itemize}
       \item 如果裂解前海龟背着 b 或者 d，则朝向 -90 度的小海龟背着 m，朝向 90 度的小海龟背着 w
-      \item 前进裂解前海龟背着 m 或者 w，则朝向 -90 度的小海龟背着 d，朝向 90 度的小海龟背着 b
+      \item 如果裂解前海龟背着 m 或者 w，则朝向 -90 度的小海龟背着 d，朝向 90 度的小海龟背着 b
     \end{itemize}
   \end{itemize}
 \end{itemize}
 \end{program}
 
-\subsection{一种赋值方案}
+\subsubsection{一种赋值方案}
 
 \begin{figure}[ht]
 \centering
@@ -274,12 +333,19 @@ m 和 w 作为乘性组，它们彼此交替出现。上述过程可以被下面
 \caption{给节点赋值}
 \end{figure}
 
-\subsection{更优的方案}
+\subsubsection{更优的方案}
 
 所有的零点都必须特殊处理，当走到 1 或者 -1 时，必须要前进或者后退半步，得到零点。
 
 零点都必须特殊处理的理由是，一旦零点占据了正常格点，所有从该零点乘性支出去的格点都是零。
 
-\subsection{关于最短表示}
+\subsection{第二方案的等价表达}
+
+
+\section{关于最短表示}
+
+
+\section{问题的给出}
+
 
 \end{document}
