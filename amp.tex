@@ -250,12 +250,12 @@ m 和 w 作为乘性组，它们彼此交替出现。上述过程可以被下面
 
 \begin{figure}[ht]
 \centering
-\includegraphics[width=3.5in]{images/H2_tiling_with_color.png}
+\includegraphics[width=3.5in]{images/H2_tiling_with_color_1.png}
 \caption{在边上着色}
 \end{figure}
 
 \begin{program}
-四阶无限边形镶嵌的构造二
+四阶无限边形镶嵌的着色方案一
 \begin{itemize}
 \item 裂解[0, +90, +180, +270; 1]，朝向 0 度的小海龟背着符号 b，朝向 180 度的小海龟背着符号 d，朝向 90 度的是 m，朝向 270 度的是 w。
 \item 对所有的小海龟，反复无限次的执行下述命令
@@ -270,7 +270,20 @@ m 和 w 作为乘性组，它们彼此交替出现。上述过程可以被下面
 \end{itemize}
 \end{program}
 
+上述程序执行的起点是给定的零点 O。对镶嵌上的任何一点 A，从 O 到 A 只有唯一的一条路径，我们把该路径上边的着色拼接起来，再加上起点的 0，
+就得到一个 文法\ref{g1} 描述的表达式，这个表达式的值给点 A 一个赋值。
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=3.5in]{images/H2_tiling_with_assign_1.png}
+\caption{镶嵌上的第一种赋值}
+\end{figure}
+
+需要指出的是，由于 引理\ref{l1} 的存在，上述赋值是恰当的。（恰当性还需要进一步论述，特别是如果我们考虑了赋值后的镶嵌图案的内在对称性的时候）
+
 \subsection{第二种赋值方案}
+
+在第 1.1 节，我们曾经考虑了一个自然数的最简表达。在本节，我们引入特殊的零点，让符号性质的最简表达，有一个自然的几何表示—最短路径。
 
 \subsubsection{一个特殊零点的引入}
 
@@ -293,23 +306,22 @@ m 和 w 作为乘性组，它们彼此交替出现。上述过程可以被下面
 
 \begin{figure}[ht]
 \centering
-\includegraphics[width=3.5in]{images/H2_tiling_with_zero.png}
-\caption{一个零点的引入}
+\includegraphics[width=3.5in]{images/H2_tiling_with_zero_2.png}
+\caption{一个特殊零点的引入}
 \end{figure}
 
-\subsubsection{一种边着色方案}
+\subsubsection{着色方案一的小修正}
 
-下面我们给四阶无限边形镶嵌的边着色。着色的基本原则是前进方向的右侧是 b 或者 w，前进方向的左侧是 d 或者 m；同时，b 和 d 作为加性组，
-m 和 w 作为乘性组，它们彼此交替出现。上述过程可以被下面的程序刻画。
+基本沿用着色方案一，制作非常小的修正，我们给出如下的程序。
 
 \begin{figure}[ht]
 \centering
-\includegraphics[width=3.5in]{images/H2_tiling_with_color.png}
-\caption{在边上着色}
+\includegraphics[width=3.5in]{images/H2_tiling_with_color_2.png}
+\caption{着色方案一的小修正}
 \end{figure}
 
 \begin{program}
-四阶无限边形镶嵌的构造三
+着色方案一的小修正
 \begin{itemize}
 \item 裂解[0, +180; 1]，朝向 0 度的小海龟背着符号 b，朝向 180 度的小海龟背着符号 d
 \item 前进半步
@@ -325,25 +337,45 @@ m 和 w 作为乘性组，它们彼此交替出现。上述过程可以被下面
 \end{itemize}
 \end{program}
 
-\subsubsection{一种赋值方案}
-
-\begin{figure}[ht]
-\centering
-\includegraphics[width=3.5in]{images/H2_tiling_with_assign.png}
-\caption{给节点赋值}
-\end{figure}
+稍微思考一下，就会发现这种方案的不足：零点会出现无限次，但它们彼此并不等同。
+这就要求我们，对所有的零点都必须特殊处理，当走到 1 或者 -1 时，必须要前进或者后退半步，来得到新的零点。
 
 \subsubsection{更优的方案}
 
-所有的零点都必须特殊处理，当走到 1 或者 -1 时，必须要前进或者后退半步，得到零点。
+我们增强小海龟的装备，除了能背负 b、d、m、w 四种颜色；它还背负了一个计算器—
+当小海龟从零点走到当前点，它的计算器能够计算路径的估值是多少。
 
-零点都必须特殊处理的理由是，一旦零点占据了正常格点，所有从该零点乘性支出去的格点都是零。
+\begin{program}
+更优的着色方案
+\begin{itemize}
+\item 裂解[0, +180; 1]，朝向 0 度的小海龟背着符号 b，朝向 180 度的小海龟背着符号 d
+\item 前进半步
+\item 对所有的小海龟，反复无限次的执行下述命令
+    \begin{itemize}
 
-\subsection{第二方案的等价表达}
+        \item 当前的位置上路径的估值不为 1 或者 -1
+        \begin{itemize}
+            \item 前进一步
+            \item 裂解[-90, 0, +90; 1]，朝向 0 度的小海龟背着的符号不变，其余小海龟背着的符号做出变化如下
+                \begin{itemize}
+                    \item 如果裂解前海龟背着 b 或者 d，则朝向 -90 度的小海龟背着 m，朝向 90 度的小海龟背着 w
+                    \item 如果裂解前海龟背着 m 或者 w，则朝向 -90 度的小海龟背着 d，朝向 90 度的小海龟背着 b
+                \end{itemize}
+        \end{itemize}
 
+        \item 当前的位置上路径的估值为 1 且海龟背着 d，则前进半步，停在一个新的零点
+        \item 当前的位置上路径的估值为 -1 且海龟背着 b，则前进半步，停在一个新的零点
+    \end{itemize}
+\end{itemize}
+\end{program}
+
+更优的着色方案会给出第二种赋值方案。
 
 \section{关于最短表示}
 
+在第二种赋值方案里，对一个数字，我们考察零点到它的最短路径，这个最短路径称为该数字的最短表示。
+
+这个最短表示和该数字的二进制表示之间有对应的关系。
 
 \section{问题的给出}
 
