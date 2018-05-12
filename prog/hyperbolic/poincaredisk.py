@@ -10,15 +10,23 @@ from numpy import linalg as la
 class PoincareDisk:
 
     def __init__(self):
-        fig, ax = plt.subplots(1)
+        fig, ax = plt.subplots(1, 1)
         ax.set_aspect(1)
         self.axis = ax
         self.figure = fig
         self.plt = plt
+        self.figure.set_size_inches(7.5, 7.5)
+        self.plt.axis('off')
+        self.axis.set_xlim([-1.01, 1.01])
+        self.axis.set_ylim([-1.01, 1.01])
+
+        self.boundary = self.mkBoundary()
 
     def plot(self, shape):
         shape.plot(self)
-        plt.show()
+        self.plt.show()
+        mng = self.plt.get_current_fig_manager()
+        mng.frame.Maximize(True)
 
     def mkBoundary(self, **xargs):
         b = Boundary()
@@ -87,16 +95,25 @@ class Boundary:
     def plot(self, pd, **xargs):
         pd.axis.plot(self.x, self.y, **xargs)
 
+    def points(self):
+        for x, y in zip(self.x, self.y):
+            yield Point(x, y, visible=False)
+
+
+instance = PoincareDisk()
+
 
 class Point:
 
-    def __init__(self, x, y):
+    def __init__(self, x, y, visible=False):
         self.kind = 'point'
         self.x = np.array([x])
         self.y = np.array([y])
+        self.visible = visible
 
     def plot(self, pd, **xargs):
-        pd.axis.plot(self.x, self.y, **xargs)
+        if self.visible:
+            pd.axis.plot(self.x, self.y, **xargs)
 
     def to_weierstrass(self):
         x = self.x
@@ -109,10 +126,12 @@ class Point:
         self.x = x / (1 + z)
         self.y = y / (1 + z)
 
+
 class Line:
 
-    def __init__(self, u, v):
+    def __init__(self, u, v, visible=True):
         self.kind = 'line'
+        self.visible = visible
 
         centerx = 0.0
         centery = 0.0
@@ -138,7 +157,9 @@ class Line:
 
         self.centerx = centerx
         self.centery = centery
-        self.radius  = radius
+        self.radius = radius
+        if self.radius > 1000:
+            self.radius = 1000
         self.t = np.linspace(0, 2 * np.pi, 1000 * self.radius)
         self.x = self.centerx + self.radius * np.cos(self.t)
         self.y = self.centery + self.radius * np.sin(self.t)
@@ -147,9 +168,36 @@ class Line:
         self.y = self.y * (self.r < 1)
 
     def plot(self, pd, **xargs):
-        pd.axis.plot(self.x, self.y, **xargs)
+        if self.visible:
+            pd.axis.plot(self.x, self.y, **xargs)
 
     def ideals(self):
         self.kind = 'line'
 
-instance = PoincareDisk()
+    def perpendicularAt(self, p):
+        ux = p.x - self.centerx
+        uy = p.y - self.centery
+
+        mn = 1
+        s = None
+        theta = np.arctan2(self.centerx, self.centery)
+        for alpha in np.linspace(-np.pi, np.pi, 1000):
+            x = np.cos(alpha + theta)
+            y = np.sin(alpha + theta)
+            r = Point(x, y)
+            l = Line(p, r, visible=False)
+            vx = p.x - l.centerx
+            vy = p.y - l.centery
+            test = np.abs(ux * vx + uy * vy) / np.sqrt((ux * ux + uy * uy) * (vx * vx + vy * vy))
+            if mn > test:
+                mn = test
+                s = r
+
+        print("** %f" % mn)
+
+        return Line(p, s, visible=True)
+
+    def points(self):
+        for x, y in zip(self.x, self.y):
+            if x != 0 and y != 0:
+                yield Point(x, y, visible=False)
