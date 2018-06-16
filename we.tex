@@ -1,0 +1,55 @@
+
+\documentclass[a4paper,12pt]{article}
+\usepackage{hieroglf} % 添加古埃及象形文字
+\usepackage{pifont} % 添加 Dingbat
+\usepackage{tikz} % 添加绘图
+
+\input{data/style}
+
+\newcommand{\specialcell}[2][c]{%
+  \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
+
+\pmhgfamily
+
+\title{AlphaGo带来的思考}
+\author{苑明理}
+\date{2016年3月}
+
+\begin{document}
+
+\maketitle{}
+
+\renewcommand\contentsname{目录}
+\setcounter{tocdepth}{2}
+\tableofcontents
+
+\newpage
+
+\section{前言}
+
+\newpage
+
+\section{围棋的复杂性}
+
+\section{围棋的可破解性}
+
+\subsection{\alpha-\beta 剪枝}
+
+\subsection{Zermelo 定理}
+
+\section{人类如何解决围棋}
+
+\subsection{行棋的阶段}
+
+\section{棋感：神经元网络}
+
+\section{棋理：围棋对弈的形式理论}
+
+\section{战略：}
+
+\section{计算：MCST}
+
+\appendix
+\section{First Appendix}
+
+\end{document}
