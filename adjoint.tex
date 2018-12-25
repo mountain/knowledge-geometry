@@ -52,10 +52,10 @@
 \begin{figure}[ht]
 \centering
 \includegraphics[width=3.5in]{images/adjoint/alias_and_alibi.png}
-\caption{互为伴随的两个映射}
+\caption{两对互为伴随的映射，来自维基}
 \end{figure}
 
-仔细体会上述体验的内涵，我们就到达了伴随这一概念。
+仔细体会上图的内涵，我们就到达了伴随这一概念。
 
 \begin{definition}
 \label{d1}
@@ -63,9 +63,33 @@
 当且仅当，对任意的 $ \phi \in X_1 $ 和 $ \psi \in Y_2 $ 下式得到满足：$$ \langle A \phi, \psi \rangle = \langle \phi, B \psi \rangle $$
 \end{definition}
 
-\subsection{一般的约束优化问题}
+\subsection{约束优化问题}
 
-\subsection{一类含时的约束优化问题}
+一般等值的约束优化问题可以写成
+
+$$
+\begin{array}{rcll}
+\min &~& L(\mathbf{x}) & \\
+\mathrm{st} &~& g(\mathbf{x}) = \mathbf{c}
+\end{array}
+$$
+
+几何的看，就是在约束面上寻求 $ L $ 的最小值。
+
+如果约束由一个含时间的微分方程给出：
+
+$$
+\begin{array}{rcll}
+\min &~& L(\mathbf{x}) & \\
+\mathrm{st} &~& \frac{d\mathbf{x}}{dt} = f(\mathbf{x}, t; \theta)
+\end{array}
+$$
+
+几何的看，就是在演化轨道上寻求 $ L $ 的最小值。
+
+\subsection{Lie 的观点}
+
+\subsection{自动微分技术}
 
 \section{第一种推导思路}
 
