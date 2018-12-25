@@ -1,16 +1,21 @@
-
 \documentclass[a4paper,12pt]{article}
-\usepackage{pifont} % 添加 Dingbat
+\usepackage{amsmath, amsthm, amssymb}
 \usepackage{tikz} % 添加绘图
+\usepackage{tabularx}
+\usepackage{enumitem}
+\usepackage{fancyref}
 
 \input{data/style}
+\setlength{\parindent}{0em}
 
-\newcommand{\specialcell}[2][c]{%
-  \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
+\newtheorem{definition}{定义}
+\newtheorem{lemma}{引理}
+\newtheorem{proposition}{命题}
+\newtheorem{program}{程序}
+\newtheorem{convention}{约定}
+\renewcommand*{\proofname}{证明}
 
-\pmhgfamily
-
-\title{关于理解伴随的两种思路}
+\title{关于理解伴随的几种思路}
 \author{苑明理}
 \date{2018年12月}
 
@@ -24,15 +29,54 @@
 
 \newpage
 
-\section{简介与问题的提出}
+\section{问题的提出}
 
-\section{第一种理解思路}
+伴随出现在许多数学领域，它在最优控制、敏感分析、变分同化中都扮演了重要的角色。近来在深度学习同微分方程结合的方向上，人们也发现了伴随的重要价值。
+在学习、理解伴随概念的过程中，我们整理出在相关领域文献里三种推导伴随的思路，并认为这些思路应该是统一的。
 
-\section{第二种理解思路}
+\subsection{基本定义及几何解释}
+
+\begin{definition}
+\label{d0}
+两个向量空间 $X$、$Y$ 通过一个到域 $ F $ 的双线性映射 $ \langle , \rangle : X \times Y \to F $ 构成一个对偶系统 $ \langle X, Y \rangle $。
+\end{definition}
+
+对偶系统的一个例子是 $ E^3 $ 和其上的一个标架系统 $ (x, y, z) $ 。借鉴这个例子，我们做如下约定：
+
+\begin{convention}
+称呼对偶系统 $ \langle X, Y \rangle $ 中的 $ X $ 为底空间， $ Y $ 为标架空间，$ \langle x, y \rangle $ 的值为坐标。
+\end{convention}
+
+在日常生活中，我们都有如下的经验
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=3.5in]{images/adjoint/alias_and_alibi.png}
+\caption{互为伴随的两个映射}
+\end{figure}
+
+仔细体会上述体验的内涵，我们就到达了伴随这一概念。
+
+\begin{definition}
+\label{d1}
+考虑两个对偶系统 $ \langle X_1, Y_1 \rangle $ 和 $ \langle X_2, Y_2 \rangle $ ，两个算符 $ A : X_1 \to X_2$ 和  $B : Y_2 \to Y_1 $ 称为互为伴随的，
+当且仅当，对任意的 $ \phi \in X_1 $ 和 $ \psi \in Y_2 $ 下式得到满足：$$ \langle A \phi, \psi \rangle = \langle \phi, B \psi \rangle $$
+\end{definition}
+
+\subsection{一般的约束优化问题}
+
+\subsection{一类含时的约束优化问题}
+
+\section{第一种推导思路}
+
+\section{第二种推导思路}
+
+\section{第三种推导思路}
 
 \section{进一步讨论}
 
-\appendix
-\section{First Appendix}
+\subsection{三种思路的关系}
+
+\subsection{伴随方法的优点}
 
 \end{document}
