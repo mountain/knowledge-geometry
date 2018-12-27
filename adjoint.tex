@@ -7,6 +7,7 @@
 
 \input{data/style}
 \setlength{\parindent}{0em}
+\setlength{\parskip}{0.5em}
 
 \newtheorem{definition}{定义}
 \newtheorem{lemma}{引理}
@@ -52,7 +53,7 @@
 \begin{figure}[ht]
 \centering
 \includegraphics[width=3.5in]{images/adjoint/alias_and_alibi.png}
-\caption{两对互为伴随的映射，来自维基}
+\caption{两对互为伴随的映射，图片来自维基}
 \end{figure}
 
 仔细体会上图的内涵，我们就到达了伴随这一概念。
@@ -63,31 +64,71 @@
 当且仅当，对任意的 $ \phi \in X_1 $ 和 $ \psi \in Y_2 $ 下式得到满足：$$ \langle A \phi, \psi \rangle = \langle \phi, B \psi \rangle $$
 \end{definition}
 
-\subsection{约束优化问题}
+\subsection{几种约束优化问题}
 
 一般等值的约束优化问题可以写成
 
 $$
 \begin{array}{rcll}
 \min &~& L(\mathbf{x}) & \\
-\mathrm{st} &~& g(\mathbf{x}) = \mathbf{c}
+\mathrm{s.t.} &~& g(\mathbf{x}) = \mathbf{c}
 \end{array}
 $$
 
-几何的看，就是在约束面上寻求 $ L $ 的最小值。
+几何上看，就是在约束面上寻求 $ L $ 的极小值。非常直观的，极值发生在 $ L $ 的梯度同约束面彼此垂直，或者说 $ L $ 的等值线同约束面相切的情况下。
+它的求解是通过 Lagrange 乘子的方法来做的。
 
-如果约束由一个含时间的微分方程给出：
+\begin{figure}[ht]
+\centering
+\includegraphics[width=3.5in]{images/adjoint/lagrange_multiplier.png}
+\caption{一般的等值约束最优化问题，图片来自维基}
+\end{figure}
+
+在应用的很多情况下，约束是由一个含时间的常微分方程给出：
+
+$$
+\frac{d\mathbf{x}}{dt} = f(\mathbf{x}, t; \theta)
+$$
+
+或者，由一组含时间的偏微分方程给出：
+
+$$
+\frac{\partial x_i}{\partial t} = f_i \left( x_1, \ldots x_n; u, \frac{\partial u}{\partial x_1}, \ldots \frac{\partial u}{\partial x_n}; \frac{\partial^2 u}{\partial x_1 \partial x_1}, \ldots \frac{\partial^2 u}{\partial x_1 \partial x_n}; \ldots ; u; \theta \right)
+$$
+
+仅从形式上来考虑，在框架性的分析过程里，我们统一采用常微的记法来表达这个描述约束的微分方程，并不会丢失偏微情况下的信息；只是针对偏微的情况，$ \mathbf{x} $ 的取值来自一个 Banach 空间，数值离散化后，该空间是一个维数非常高的空间。
+
+针对不同的具体问题， $ L $ 的给出略有不同，我们关心的情况包括：资料同化和参数学习。
+
+\subsubsection{资料同化}
+
+从数学的观点看，数值天气预报是求解一个偏微分方程的初值问题。但受限于观测，我们无法直接给出一个确切的初值，因此需要通过一定技术手段来确定初始值。
+本文我们仅讨论四维变分同化技术里基本原理的简化版本。
+
+受演化方程 $ f $ 控制的一个过程，我们需要调整初始时刻的 $ \mathbf{x}_0 $ ，使得在终止时刻的计算值 $ \mathbf{x_1} $ 同观测值 $ \mathbf{x}_1^o $ 之间的误差极小。
 
 $$
 \begin{array}{rcll}
-\min &~& L(\mathbf{x}) & \\
-\mathrm{st} &~& \frac{d\mathbf{x}}{dt} = f(\mathbf{x}, t; \theta)
+\min &~& L(\mathbf{x_1}, \mathbf{x}_1^o) & \\
+\mathrm{s.t.} &~& \dot{\mathbf{x}} = f(\mathbf{x}, t; \mathbf{x}_0; \theta) & \\
+&~& \mathbf{x}|_{ \partial } = g(\mathbf{x}, t; \theta)
 \end{array}
 $$
 
-几何的看，就是在演化轨道上寻求 $ L $ 的最小值。
+\subsubsection{参数学习}
 
-\subsection{Lie 的观点}
+受演化方程 $ f $ 控制的一个过程，给定一个初始值 $ \mathbf{x}_0 $ ，需要调整参数 $ \theta $ ，使得在终止时刻的计算值 $ \mathbf{x_1} $ 同观测值 $ \mathbf{x}_1^o $ 之间的误差极小。
+
+$$
+\begin{array}{rcll}
+\min &~& L(\mathbf{x_1}, \mathbf{x}_1^o) & \\
+\mathrm{s.t.} &~& \dot{\mathbf{x}} = f(\mathbf{x}, t; \mathbf{x}_0; \theta) & \\
+&~& \mathbf{x}|_{ \partial } = g(\mathbf{x}, t; \theta) & \\
+&~& \mathbf{x}(t=0) = \mathbf{x}_0
+\end{array}
+$$
+
+\subsection{针对方程的 Lie 的观点}
 
 \subsection{自动微分技术}
 
