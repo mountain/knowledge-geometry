@@ -75,8 +75,8 @@ $$
 \end{array}
 $$
 
-几何上看，就是在约束面上寻求 $ L $ 的极小值。非常直观的，极值发生在 $ L $ 的梯度同约束面彼此垂直，或者说 $ L $ 的等值线同约束面相切的情况下。
-它的求解是通过 Lagrange 乘子的方法来做的。
+几何上看，就是在约束面上寻求 $ L $ 的最小值。非常直观的，极值发生在 $ L $ 的梯度同约束面彼此垂直，或者说 $ L $ 的等值线同约束面相切的情况下。
+极值的求解是通过 Lagrange 乘子的方法来做的。
 
 \begin{figure}[ht]
 \centering
@@ -84,59 +84,96 @@ $$
 \caption{一般的等值约束最优化问题，图片来自维基}
 \end{figure}
 
-在应用的很多情况下，约束是由一个含时间的常微分方程给出：
+在很多应用情况下，约束是由一个含时演化系统给出，如
+
+含时常微分方程：
 
 $$
 \frac{d\mathbf{x}}{dt} = f(\mathbf{x}, t; \theta)
 $$
 
-或者，由一组含时间的偏微分方程给出：
+或者，含时偏微分方程组：
 
 $$
-\frac{\partial x_i}{\partial t} = f_i \left( x_1, \ldots x_n; u, \frac{\partial u}{\partial x_1}, \ldots \frac{\partial u}{\partial x_n}; \frac{\partial^2 u}{\partial x_1 \partial x_1}, \ldots \frac{\partial^2 u}{\partial x_1 \partial x_n}; \ldots ; u; \theta \right)
+\frac{\partial x_i}{\partial t} = f_i \left( x_1, \ldots x_n; u, \frac{\partial u}{\partial x_1}, \ldots \frac{\partial u}{\partial x_n}; \frac{\partial^2 u}{\partial x_1 \partial x_1}, \ldots \frac{\partial^2 u}{\partial x_1 \partial x_n}; \ldots ; u; \theta \right), i \in \{1, \ldots , n\}
 $$
 
-仅从形式上来考虑，在框架性的分析过程里，我们统一采用常微的记法来表达这个描述约束的微分方程，并不会丢失偏微情况下的信息；只是针对偏微的情况，$ \mathbf{x} $ 的取值来自一个 Banach 空间，数值离散化后，该空间是一个维数非常高的空间。
+上述两种情况，都可以由算子半群给予统一的描述。
 
-针对不同的具体问题， $ L $ 的给出略有不同，我们关心的情况包括：资料同化和参数学习。
+针对不同的具体问题， $ L $ 的给出略有不同，我们关心的情况包括：最优控制、资料同化和参数学习。
+
+\subsubsection{最优控制}
+
+受演化方程 $ f $ 控制的一个过程，我们需要调整边界上的控制变量 $ \mathbf{u} $ ，使得在终止时刻的计算值 $ \mathbf{y_1} $ 同目标值 $ \mathbf{y}_1^o $ 之间的误差极小。
+
+$$
+\begin{array}{rcll}
+\min &~& J(\mathbf{y_1}, \mathbf{y}_1^o) & \\
+\mathrm{s.t.} &~& \dot{\mathbf{y}} = f(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \Omega \times [0, 1] \\
+&~& \mathbf{y} = u(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \partial \Omega \times [0, 1] \\
+&~& \mathbf{y}(\mathbf{x}, 0) = \mathbf{y}_0(\mathbf{x}) & \mathbf{x} \in \Omega
+\end{array}
+$$
+
 
 \subsubsection{资料同化}
 
 从数学的观点看，数值天气预报是求解一个偏微分方程的初值问题。但受限于观测，我们无法直接给出一个确切的初值，因此需要通过一定技术手段来确定初始值。
 本文我们仅讨论四维变分同化技术里基本原理的简化版本。
 
-受演化方程 $ f $ 控制的一个过程，我们需要调整初始时刻的 $ \mathbf{x}_0 $ ，使得在终止时刻的计算值 $ \mathbf{x_1} $ 同观测值 $ \mathbf{x}_1^o $ 之间的误差极小。
+受演化方程 $ f $ 控制的一个过程，我们需要调整初始时刻的 $ \mathbf{y}_0 $ ，使得在终止时刻的计算值 $ \mathbf{y_1} $ 同观测值 $ \mathbf{y}_1^o $ 之间的误差极小。
 
 $$
 \begin{array}{rcll}
-\min &~& L(\mathbf{x_1}, \mathbf{x}_1^o) & \\
-\mathrm{s.t.} &~& \dot{\mathbf{x}} = f(\mathbf{x}, t; \mathbf{x}_0; \theta) & \\
-&~& \mathbf{x}|_{ \partial } = g(\mathbf{x}, t; \theta)
+\min &~& J(\mathbf{y_1}, \mathbf{y}_1^o) & \\
+\mathrm{s.t.} &~& \dot{\mathbf{y}} = f(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \Omega \times [0, 1] \\
+&~& \mathbf{y} = g(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \partial \Omega \times [0, 1] \\
+&~& \mathbf{y}(\mathbf{x}, 0) = \mathbf{y}_0(\mathbf{x}) & \mathbf{x} \in \Omega
 \end{array}
 $$
 
 \subsubsection{参数学习}
 
-受演化方程 $ f $ 控制的一个过程，给定一个初始值 $ \mathbf{x}_0 $ ，需要调整参数 $ \theta $ ，使得在终止时刻的计算值 $ \mathbf{x_1} $ 同观测值 $ \mathbf{x}_1^o $ 之间的误差极小。
+（先用学习的标准语言来陈述，再转化到最优化的语言）
+
+受演化方程 $ f $ 控制的一个过程，给定一个初始值 $ \mathbf{y}_0 $ ，需要调整参数 $ \theta $ ，使得在终止时刻的计算值 $ \mathbf{y_1} $ 同观测值 $ \mathbf{y}_1^o $ 之间的误差最小。
 
 $$
 \begin{array}{rcll}
-\min &~& L(\mathbf{x_1}, \mathbf{x}_1^o) & \\
-\mathrm{s.t.} &~& \dot{\mathbf{x}} = f(\mathbf{x}, t; \mathbf{x}_0; \theta) & \\
-&~& \mathbf{x}|_{ \partial } = g(\mathbf{x}, t; \theta) & \\
-&~& \mathbf{x}(t=0) = \mathbf{x}_0
+\min &~& J(\mathbf{y_1}, \mathbf{y}_1^o) & \\
+\mathrm{s.t.} &~& \dot{\mathbf{y}} = f(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \Omega \times [0, 1] \\
+&~& \mathbf{y} = g(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \partial \Omega \times [0, 1] \\
+&~& \mathbf{y}(\mathbf{x}, 0) = \mathbf{y}_0(\mathbf{x}) & \mathbf{x} \in \Omega
 \end{array}
 $$
 
-\subsection{针对方程的 Lie 的观点}
+\section{几种伴随的推导思路}
 
-\subsection{自动微分技术}
+我们尝试把文献中的不同推导思路应用到一个一维平流扩散方程上的最优控制问题上：
 
-\section{第一种推导思路}
+$$
+\begin{array}{rcll}
+\min &~& (y_1 - y_1^o)^2 & \\
+\mathrm{s.t.} &~& \dot{y} = y_{xx} - y_x & x \in [-1, 1], t \in [0, 1]\\
+&~& y(-1, t) = u(t) & t \in [0, 1]\\
+&~& y(+1, t) = v(t) & t \in [0, 1]\\
+&~& y(x, 0) = y_0(x) & x \in [-1, 1]
+\end{array}
+$$
 
-\section{第二种推导思路}
+\subsection{第一种推导思路}
 
-\section{第三种推导思路}
+$$
+\begin{alignat}{2}
+J(y) & = \int\limits_{-1}^{+1}(y_1 - y_1^o)^2dx + \lambda \int\limits_{0}^{1}(1 + 1)dt \\
+& = \int\limits_{-1}^{+1} (y_1 - y_1^o)^2dx + 2 \lambda \\
+\end{alignat}
+$$
+
+
+\subsection{第二种推导思路}
+
+\subsection{第三种推导思路}
 
 \section{进一步讨论}
 
