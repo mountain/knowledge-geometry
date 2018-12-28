@@ -70,12 +70,12 @@
 
 $$
 \begin{array}{rcll}
-\min &~& L(\mathbf{x}) & \\
+\min &~& J(\mathbf{x}) & \\
 \mathrm{s.t.} &~& g(\mathbf{x}) = \mathbf{c}
 \end{array}
 $$
 
-几何上看，就是在约束面上寻求 $ L $ 的最小值。非常直观的，极值发生在 $ L $ 的梯度同约束面彼此垂直，或者说 $ L $ 的等值线同约束面相切的情况下。
+几何上看，就是在约束面上寻求 $ J $ 的最小值。非常直观的，极值发生在 $ J $ 的梯度同约束面彼此垂直，或者说 $ J $ 的等值线同约束面相切的情况下。
 极值的求解是通过 Lagrange 乘子的方法来做的。
 
 \begin{figure}[ht]
@@ -100,19 +100,26 @@ $$
 
 上述两种情况，都可以由算子半群给予统一的描述。
 
-针对不同的具体问题， $ L $ 的给出略有不同，我们关心的情况包括：最优控制、资料同化和参数学习。
+针对不同的具体问题， $ J $ 的给出略有不同，我们关心的情况包括：最优控制、资料同化和参数学习。
 
 \subsubsection{最优控制}
 
-受演化方程 $ f $ 控制的一个过程，我们需要调整边界上的控制变量 $ \mathbf{u} $ ，使得在终止时刻的计算值 $ \mathbf{y_1} $ 同目标值 $ \mathbf{y}_1^o $ 之间的误差极小。
+为了简化，我们仅仅考虑最优控制的一种可能的情形，受演化方程 $ f $ 控制的一个过程，
+我们需要调整边界上的控制变量 $ \mathbf{u} = \mathbf{y}_{\partial} $ ，使得在终止时刻的计算值 $ \mathbf{y}_1 = \mathbf{y}(\mathbf{x}, 1)$ 同目标值 $ \mathbf{y}_1^o $ 之间的误差最小。
 
 $$
 \begin{array}{rcll}
-\min &~& J(\mathbf{y_1}, \mathbf{y}_1^o) & \\
+\min &~& J(\mathbf{y_1}, \mathbf{y}_1^o, \mathbf{u}) & \\
 \mathrm{s.t.} &~& \dot{\mathbf{y}} = f(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \Omega \times [0, 1] \\
 &~& \mathbf{y} = u(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \partial \Omega \times [0, 1] \\
 &~& \mathbf{y}(\mathbf{x}, 0) = \mathbf{y}_0(\mathbf{x}) & \mathbf{x} \in \Omega
 \end{array}
+$$
+
+其中的 $ J $ 由下式给出：
+
+$$
+J(\mathbf{y_1}, \mathbf{y}_1^o, \mathbf{u}) = \frac{1}{2} \int\limits_{\Omega}|\mathbf{y_1} - \mathbf{y_1^o}|^2dx +  \frac{\lambda}{2} \int\limits_{0}^{1}\int\limits_{\partial \Omega} |\mathbf{u}|^2 dS(x) dt
 $$
 
 
@@ -121,7 +128,7 @@ $$
 从数学的观点看，数值天气预报是求解一个偏微分方程的初值问题。但受限于观测，我们无法直接给出一个确切的初值，因此需要通过一定技术手段来确定初始值。
 本文我们仅讨论四维变分同化技术里基本原理的简化版本。
 
-受演化方程 $ f $ 控制的一个过程，我们需要调整初始时刻的 $ \mathbf{y}_0 $ ，使得在终止时刻的计算值 $ \mathbf{y_1} $ 同观测值 $ \mathbf{y}_1^o $ 之间的误差极小。
+受演化方程 $ f $ 控制的一个过程，我们需要调整初始时刻的 $ \mathbf{y}_0 = \mathbf{y}(\mathbf{x}, 0) $ ，使得在终止时刻的计算值 $ \mathbf{y}_1 = \mathbf{y}(\mathbf{x}, 1) $ 同观测值 $ \mathbf{y}_1^o $ 之间的误差最小。
 
 $$
 \begin{array}{rcll}
@@ -130,6 +137,12 @@ $$
 &~& \mathbf{y} = g(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \partial \Omega \times [0, 1] \\
 &~& \mathbf{y}(\mathbf{x}, 0) = \mathbf{y}_0(\mathbf{x}) & \mathbf{x} \in \Omega
 \end{array}
+$$
+
+其中的 $ J $ 由下式给出：
+
+$$
+J(\mathbf{y_1}, \mathbf{y}_1^o, \mathbf{y}_0) = \frac{1}{2} \int\limits_{\Omega}|\mathbf{y_1} - \mathbf{y_1^o}|^2dx + ?
 $$
 
 \subsubsection{参数学习}
@@ -161,15 +174,9 @@ $$
 \end{array}
 $$
 
+其中的 $ u $ 和 $ v $ 是控制变量。
+
 \subsection{第一种推导思路}
-
-$$
-\begin{alignat}{2}
-J(y) & = \int\limits_{-1}^{+1}(y_1 - y_1^o)^2dx + \lambda \int\limits_{0}^{1}(1 + 1)dt \\
-& = \int\limits_{-1}^{+1} (y_1 - y_1^o)^2dx + 2 \lambda \\
-\end{alignat}
-$$
-
 
 \subsection{第二种推导思路}
 
