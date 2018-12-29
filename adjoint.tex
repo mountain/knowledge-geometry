@@ -128,21 +128,35 @@ $$
 从数学的观点看，数值天气预报是求解一个偏微分方程的初值问题。但受限于观测，我们无法直接给出一个确切的初值，因此需要通过一定技术手段来确定初始值。
 本文我们仅讨论四维变分同化技术里基本原理的简化版本。
 
-受演化方程 $ f $ 控制的一个过程，我们需要调整初始时刻的 $ \mathbf{y}_0 = \mathbf{y}(\mathbf{x}, 0) $ ，使得在终止时刻的计算值 $ \mathbf{y}_1 = \mathbf{y}(\mathbf{x}, 1) $ 同观测值 $ \mathbf{y}_1^o $ 之间的误差最小。
+无法得到确切初值的原因首先是因为观测是不完整的，某个时间只有某些地区是有观测的。我们把有观测的区域定义成一个可以在空间上积分的特征函数：
+
+$$
+O(\mathbf{x}, t) = \begin{cases}
+1, & \text{if }\mathbf{x} \text{ is observable at t} \\
+0, & \text{if }\mathbf{x} \text{ is not observable at t}
+\end{cases}
+$$
+
+另外一个原因是因为观测方法的局限，观测量不直接是大气状态场。我们把观测定义成一个空间位置 $ \mathbf{x} $ 和大气状态 $ \mathbf{y} $ 的函数 $ M(\mathbf{x}, \mathbf{y}) $
+
+受演化方程 $ f $ 控制的一个过程，给定一个初始时刻的背景场 $ \mathbf{y}_0^b = \mathbf{y}(\mathbf{x}, 0) $ ，它会导致终止时刻的计算场 $ \mathbf{y}_1 = \mathbf{y}(\mathbf{x}, 1) $ ，
+也会得到一个反演的观测场 $ \mathbf{m}_1 = M(\mathbf{x}, \mathbf{y}_1) O(\mathbf{x}, 1) $。
+
+我们需要调整控制变量 $ \mathbf{u} = \mathbf{y}_0 - \mathbf{y}_0^b $ ，它的变化会使反演观测场 $ \mathbf{m}_1 $变化，
+我们的目标是使得终止时刻的反演观测场 $ \mathbf{m}_1 $ 同终止时刻的实际观测场 $ \mathbf{m}_1^o $ 之间的误差最小。
 
 $$
 \begin{array}{rcll}
-\min &~& J(\mathbf{y_1}, \mathbf{y}_1^o) & \\
+\min &~& J(\mathbf{m_1}, \mathbf{m}_1^o, \mathbf{u}) & \\
 \mathrm{s.t.} &~& \dot{\mathbf{y}} = f(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \Omega \times [0, 1] \\
 &~& \mathbf{y} = g(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \partial \Omega \times [0, 1] \\
-&~& \mathbf{y}(\mathbf{x}, 0) = \mathbf{y}_0(\mathbf{x}) & \mathbf{x} \in \Omega
 \end{array}
 $$
 
 其中的 $ J $ 由下式给出：
 
 $$
-J(\mathbf{y_1}, \mathbf{y}_1^o, \mathbf{y}_0) = \frac{1}{2} \int\limits_{\Omega}|\mathbf{y_1} - \mathbf{y_1^o}|^2dx + ?
+J(\mathbf{m_1}, \mathbf{m}_1^o, \mathbf{u}) = \frac{1}{2} \int\limits_{\Omega}|\mathbf{u}|^2 dx + \frac{\lambda}{2} \int\limits_{\Omega}|\mathbf{m}_1 - \mathbf{m}_1^o|^2 dx
 $$
 
 \subsubsection{参数学习}
