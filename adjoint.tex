@@ -70,12 +70,12 @@
 
 $$
 \begin{array}{rcll}
-\min &~& J(\mathbf{x}) & \\
+\min &~& L(\mathbf{x}) & \\
 \mathrm{s.t.} &~& g(\mathbf{x}) = \mathbf{c}
 \end{array}
 $$
 
-几何上看，就是在约束面上寻求 $ J $ 的最小值。非常直观的，极值发生在 $ J $ 的梯度同约束面彼此垂直，或者说 $ J $ 的等值线同约束面相切的情况下。
+几何上看，就是在约束面上寻求 $ L $ 的最小值。非常直观的，极值发生在 $ L $ 的梯度同约束面彼此垂直，或者说 $ L $ 的等值线同约束面相切的情况下。
 极值的求解是通过 Lagrange 乘子的方法来做的。
 
 \begin{figure}[ht]
@@ -100,7 +100,7 @@ $$
 
 上述两种情况，都可以由算子半群给予统一的描述。
 
-针对不同的具体问题， $ J $ 的给出略有不同，我们关心的情况包括：最优控制、资料同化和参数学习。
+针对不同的具体问题， $ L $ 或者 $ J $ 的给出略有不同，我们关心的情况包括：最优控制、资料同化和参数学习。
 
 \subsubsection{最优控制}
 
@@ -175,6 +175,19 @@ $$
 &~& \mathbf{y}(\mathbf{x}, 0) = \mathbf{y}_0(\mathbf{x}) & \mathbf{x} \in \Omega
 \end{array}
 $$
+
+\section{一个启发性的例子}
+
+让我们先思考一下一般等值约束优化问题求解过程所蕴含的几何意义。
+
+$$
+\begin{array}{rcll}
+\min &~& L(\mathbf{x}) & \\
+\mathrm{s.t.} &~& g(\mathbf{x}) = \mathbf{c}
+\end{array}
+$$
+
+
 
 \section{几种伴随的推导思路}
 
