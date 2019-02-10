@@ -1,5 +1,6 @@
 \documentclass[a4paper,12pt]{article}
 \usepackage{amsmath, amsthm, amssymb}
+\usepackage{datetime}
 \usepackage{tikz} % 添加绘图
 \usepackage{tabularx}
 \usepackage{enumitem}
@@ -18,11 +19,18 @@
 
 \title{动力系统预测中的几个问题}
 \author{苑明理}
-\date{2019年2月}
+\date{}
 
 \begin{document}
 
+\newdateformat{monthyeardate}{%
+  \THEYEAR 年 \THEMONTH 月}
+
 \maketitle{}
+
+\begin{center}
+  {\sihao \monthyeardate\today}\\[1ex]
+\end{center}
 
 \renewcommand\contentsname{目录}
 \setcounter{tocdepth}{2}
@@ -36,8 +44,9 @@
 但却又在不同尺度上拥有各异的演化机制；问题是在我们建模过程中，能否充分利用上这些不同尺度上的相关信息，构造出一个拥有更高预报能力的模型？
 
 这里有几个相关的视角和彼此关联的问题：
+
 \begin{itemize}
-\item 学习：如何学习到一种演化模型：演化过程中的相关性、因果性各是什么？两者扮演了什么样的角色？因果性和模型先验之间有怎么样的关系？
+\item 学习：如何学习到一种演化模型；演化过程中的相关性、因果性各是什么？两者扮演了什么样的角色？因果性和模型先验之间有怎么样的关系？
 \item 可预测性：给定了学到的一个演化模型，如何理解模型的可预测性？存在完美的模型吗？对不完美的模型，它可预测的界限由什么因素确定？
 \item 信息：如何理解我们常说的模型捕捉了数据中的信息？如何判断模型对观察数据中信息的使用是否充分？如何判断给到的演化观察数据是否完整？不完整情况下如何学习演化？
 \item 多尺度：如何理解不同尺度上各异的演化模型？它们是完美的吗？如果不完美，它们能彼此互补、相互助益吗？
