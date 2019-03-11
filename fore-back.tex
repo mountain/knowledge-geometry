@@ -1,0 +1,92 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{amsmath, amsthm, amssymb}
+\usepackage{pgf,tikz} % 添加绘图
+\usetikzlibrary{positioning}
+\usepackage{tabularx}
+\usepackage{enumitem}
+\usepackage{fancyref}
+
+\input{data/style}
+\setlength{\parindent}{0em}
+\setlength{\parskip}{0.5em}
+
+\newtheorem{definition}{定义}
+\newtheorem{lemma}{引理}
+\newtheorem{proposition}{命题}
+\newtheorem{program}{程序}
+\newtheorem{convention}{约定}
+\renewcommand*{\proofname}{证明}
+
+\title{关于前传与反传的笔记}
+\author{苑明理}
+\date{2018年12月}
+
+\begin{document}
+
+\maketitle{}
+
+\renewcommand\contentsname{目录}
+\setcounter{tocdepth}{2}
+\tableofcontents
+
+\newpage
+
+\section{示例}
+
+\subsection{平流方程}
+
+$$
+\frac{\partial N}{\partial t} = - u \frac{\partial N}{\partial x}
+$$
+
+$$
+N_i^{+} = N_i - \frac{u \tau }{2 \lambda}(N_{i+1} - N_{i-1})
+$$
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+% nodes %
+
+\node[text centered] (p0) {};
+\node[below left = 1 of p0, text centered] (f) {$N_i^{+}$};
+\node[below = 1 of f, text centered] (plus) {$+$};
+\node[below left = 1 of plus, text centered] (c) {$N_i$};
+\node[below right = 1 of plus, text centered] (multi) {$*$};
+\node[below left = 1 of multi, text centered] (tau) {$\tau$};
+\node[below right = 1 of multi, text centered] (multi1) {$*$};
+\node[below left = 1 of multi1, text centered] (u) {$u$};
+\node[below right = 1 of multi1, text centered] (divid) {$/$};
+\node[below left = 1 of divid, text centered] (ratio) {$2 \lambda$};
+\node[below right = 1 of divid, text centered] (minus) {$-$};
+\node[below left = 1 of minus, text centered] (p) {$N_{i-1}$};
+\node[below right = 1 of minus, text centered] (n) {$N_{i+1}$};
+
+% edges %
+\draw[fill=yellow, opacity=0.2]  (6.0, 0) -- (0:-3.5) -- (-113:9.0) -- (-0.2:6.0);
+\draw[->, line width= 1] (plus) -- (f);
+\draw[->, line width= 1] (c) -- (plus);
+\draw[->, line width= 1] (multi) -- (plus);
+\draw[->, line width= 1] (tau) -- (multi);
+\draw[->, line width= 1] (tau) -- (multi);
+\draw[->, line width= 1] (multi1) -- (multi);
+\draw[->, line width= 1] (u) -- (multi1);
+\draw[->, line width= 1] (divid) -- (multi1);
+\draw[->, line width= 1] (ratio) -- (divid);
+\draw[->, line width= 1] (minus) -- (divid);
+\draw[->, line width= 1] (p) -- (minus);
+\draw[->, line width= 1] (n) -- (minus);
+\draw[fill=blue, opacity=0.2]  (5.0, -8.7) -- (-1.0, -8.7) -- (2.0, -5.6) -- (5.0, -8.7);
+
+\end{tikzpicture}
+\caption{表达式树}
+\end{figure}
+
+\newpage
+
+\subsection{扩散方程}
+
+
+\newpage
+
+\end{document}
