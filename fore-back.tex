@@ -82,11 +82,76 @@ $$
 \caption{表达式树}
 \end{figure}
 
+\subsubsection{前传的扰动分析}
+
+$$
+\frac{\partial N}{\partial t} = - u \frac{\partial N}{\partial x}
+$$
+
+
+$$
+(N_i^{+} + \epsilon_i^{+}) = (N_i + \epsilon_i) - \frac{u \tau }{2 \lambda}[(N_{i+1} + \epsilon_{i+1}) - (N_{i-1} + \epsilon_{i-1})]
+$$
+
+\subsubsection{后传的扰动分析}
+
+
+
 \newpage
 
 \subsection{扩散方程}
 
 
 \newpage
+
+\begin{tikzpicture}
+  \draw [thick] (0.25, 0.25) to[out=0, in=180]
+              node [pos=0.0, below] {$\delta$}
+              node [pos=0.0, circle, fill=blue, inner sep=2pt] {}
+              node [pos=0.0, above] {$x_{0}$}
+              node [pos=0.2, circle, fill=orange, inner sep=2pt] {}
+              node [pos=0.2, above] {$x_{1}$}
+              node [pos=0.4, circle, fill=orange, inner sep=2pt] {}
+              node [pos=0.4, above] {$x_{2}$}
+              node [pos=0.6, circle, fill=orange, inner sep=2pt] {}
+              node [pos=0.6, above] {$x_{3}$}
+              node [pos=0.8, circle, fill=orange, inner sep=2pt] {}
+              node [pos=0.8, above] {$x_{4}$}
+              node [pos=1.0, circle, fill=red, inner sep=2pt] {}
+              node [pos=1.0, above] {$x_{5}$} (5.75, 1.125);
+\end{tikzpicture}
+
+$$
+\frac{\partial \delta}{\partial x} = \frac{\partial \delta}{\partial x_0} \frac{\partial x_0}{\partial x_1}
+\frac{\partial x_1}{\partial x_2} \frac{\partial x_2}{\partial x_3} \frac{\partial x_3}{\partial x_4}
+ \frac{\partial x_4}{\partial x_5} \frac{\partial x_5}{\partial x}
+$$
+
+\newpage
+
+\begin{tikzpicture}
+  \draw [thick] (0.25, 0.25) to[out=0, in=180]
+              node [pos=0.0, circle, fill=blue, inner sep=2pt] {}
+              node [pos=0.0, above] {$x_{0}$}
+              node [pos=0.2, circle, fill=orange, inner sep=2pt] {}
+              node [pos=0.2, above] {$x_{1}$}
+              node [pos=0.4, circle, fill=orange, inner sep=2pt] {}
+              node [pos=0.4, above] {$x_{2}$}
+              node [pos=0.6, circle, fill=orange, inner sep=2pt] {}
+              node [pos=0.6, above] {$x_{3}$}
+              node [pos=0.8, circle, fill=orange, inner sep=2pt] {}
+              node [pos=0.8, above] {$x_{4}$}
+              node [pos=1.0, below] {$\delta$}
+              node [pos=1.0, circle, fill=red, inner sep=2pt] {}
+              node [pos=1.0, above] {$x_{5}$} (5.75, 1.125);
+\end{tikzpicture}
+
+$$
+\frac{\partial \delta}{\partial x} = \frac{\partial \delta}{\partial x_5} \frac{\partial x_5}{\partial x_4}
+\frac{\partial x_4}{\partial x_3} \frac{\partial x_3}{\partial x_2} \frac{\partial x_2}{\partial x_1}
+ \frac{\partial x_1}{\partial x_0} \frac{\partial x_0}{\partial x}
+$$
+
+
 
 \end{document}
