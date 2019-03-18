@@ -112,7 +112,7 @@
 生成有理数的合法的表达式可以由下述文法给出：
 
 \begin{grammar}
-\label{g1}
+\label{g2}
 合法的表达式
 \begin{itemize}
 \item $E := (0 | 1)(b | d | m | w)*$
@@ -412,11 +412,31 @@ H-支集
 
 3.确认是否和 Surreal 数之间有一定的关联？
 
-$$(x, y) \mapsto (x, \frac{1}{y})$$
-$$z \mapsto \frac{z}{(x - y)^2}$$
 
+\section{扩域的想法}
 
-$$\prod_a^b c^{dx} = c^{b-a}$$
+$$
+\begin{array}{|c|c|}\hline 1&\space\\\hline n&0\\\hline\end{array} \mapsto n
+$$
 
+$$
+\begin{array}{|c|c|}\hline0&\space\\\hline 1&0\\\hline\end{array} \mapsto o
+$$
+
+$$
+\begin{array}{|c|c|}\hline0&\space\\\hline n&1\\\hline\end{array} \mapsto i_n
+$$
+
+$$
+\begin{array}{|c|c|}\hline1&\space\\\hline n&1\\\hline\end{array} \mapsto j_n
+$$
+
+$$
+\begin{array}{|c|c|}\hline2&\space\\\hline 1&0\\\hline\end{array} \mapsto p
+$$
+
+$$
+\begin{array}{|c|c|}\hline2&\space\\\hline 0&1\\\hline\end{array} \mapsto q
+$$
 
 \end{document}
