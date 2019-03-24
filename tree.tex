@@ -1,0 +1,36 @@
+\documentclass[tikz,border=5]{standalone}
+
+\usetikzlibrary{graphs,graphdrawing,graphs.standard,arrows.meta}
+\usegdlibrary{trees}
+
+\begin{document}
+
+\tikzgraphsset{%
+  levels/.store in=\tikzgraphlevel,
+  levels=1,
+  declare={full_binary_tree}{[
+    /utils/exec={
+      \edef\treenodes{%
+\directlua{%
+  function treenodes(l)
+    if l == 0 then
+      return "/"
+    else
+      return "/ [layer distance=" .. l*10 .. "]-- {" .. treenodes(l-1) .. ", " .. treenodes(l-1) .. "}"
+    end
+  end
+  tex.print(treenodes(\tikzgraphlevel) .. ";")
+}%
+      }
+    },
+    parse/.expand once=\treenodes
+  ]}
+}
+
+\begin{tikzpicture}
+\graph[binary tree layout, grow=down, sibling distance=5pt, significant sep=0pt, nodes={fill=red, draw=none, circle, inner sep=2.5pt, outer sep=0pt}]{
+   full_binary_tree [levels=7];
+};
+\end{tikzpicture}
+
+\end{document}

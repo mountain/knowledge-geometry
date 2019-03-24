@@ -1,11 +1,13 @@
 \documentclass[a4paper,12pt]{article}
 \usepackage{amsmath, amsthm, amssymb}
+\usepackage[dvipsnames]{xcolor}
 \usepackage{tikz} % 添加绘图
 \usepackage{tabularx}
 \usepackage{enumitem}
 \usepackage{fancyref}
 
 \input{data/style}
+
 \setlength{\parindent}{0em}
 
 \newcommand{\specialcell}[2][c]{%
@@ -422,14 +424,26 @@ H-支集
 \centering
 \begin{tikzpicture}
     \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
+    \draw (+1.89, +7.89) node[inner sep=1pt] (p_0) {$-\infty$};
+    \draw (+0.90, +5.50) node[inner sep=1pt] (p_0) {0};
+    \draw (+0.00, +1.85) node[inner sep=1pt] (p_1) {1};
+    \draw (-1.89, -7.89) node[inner sep=1pt] (p_1) {$+\infty$};
 
-    \draw [blue, dotted, thick]
-          (-1.89, -7.39) node[circle, fill=blue, inner sep=1pt] (p_pinf) {}
-       -- (+0.30, +1.35) node[circle, fill=blue, inner sep=1pt] (p_1) {$\odot$ 1}
-       -- (+1.89, +7.39) node[circle, fill=blue, inner sep=1pt] (p_ninf) {};
+    \draw [Black, dotted, thick]
+          (-1.89, -7.39) node[inner sep=1pt] (p_pinf) {}
+       -- (+1.89, +7.39) node[inner sep=1pt] (p_ninf) {};
 
-    \draw [blue, dotted, thick]
+    % line 0 %
+    \draw [green, dotted, thick]
+          (-3.29, 6.84) arc  (240:271.7:18.00);
+
+   % line 1 %
+    \draw [green, dotted, thick]
           (-6.43, 4.05) arc  (240:271.7:26.50);
+
+   % line 2 %
+    \draw [green, dotted, thick]
+          (-7.53, -0.95) arc  (240:271.9:25.70);
 
 \end{tikzpicture}
 \caption{嵌入$n$}
