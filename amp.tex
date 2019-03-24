@@ -33,7 +33,6 @@
     }
 }
 
-
 \title{在庞加莱圆盘上看加法与乘法}
 \author{苑明理}
 \date{2017年9月}
@@ -419,15 +418,21 @@ H-支集
 \section{共形映射的想法}
 
 \subsection{嵌入$n$}
+\begin{figure}[ht]
+\centering
+\caption{超现实数里的$n$}
+\end{figure}
 
 \begin{figure}[ht]
 \centering
 \begin{tikzpicture}
     \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
-    \draw (+1.89, +7.89) node[inner sep=1pt] (p_0) {$-\infty$};
+    \draw (+1.89, +7.89) node[inner sep=1pt] (p_n) {$-\infty$};
     \draw (+0.90, +5.50) node[inner sep=1pt] (p_0) {0};
     \draw (+0.00, +1.85) node[inner sep=1pt] (p_1) {1};
-    \draw (-1.89, -7.89) node[inner sep=1pt] (p_1) {$+\infty$};
+    \draw (-0.82, -1.10) node[inner sep=1pt] (p_2) {2};
+    \draw (-1.35, -3.50) node[inner sep=1pt] (p_2) {3};
+    \draw (-1.89, -7.89) node[inner sep=1pt] (p_p) {$+\infty$};
 
     \draw [Black, dotted, thick]
           (-1.89, -7.39) node[inner sep=1pt] (p_pinf) {}
@@ -435,31 +440,19 @@ H-支集
 
     % line 0 %
     \draw [green, dotted, thick]
-          (-3.29, 6.84) arc  (240:271.7:18.00);
+          (-3.29, 6.84) arc (240:271.7:18.00);
 
    % line 1 %
     \draw [green, dotted, thick]
-          (-6.43, 4.05) arc  (240:271.7:26.50);
+          (-6.43, 4.05) arc (240:271.7:26.50);
 
    % line 2 %
     \draw [green, dotted, thick]
-          (-7.53, -0.95) arc  (240:271.9:25.70);
+          (6.30, -4.30) arc (240:272.7:-25.50);
 
-\end{tikzpicture}
-\caption{嵌入$n$}
-\end{figure}
-
-\subsection{嵌入$2^{-n}$}
-
-\begin{figure}[ht]
-\centering
-\begin{tikzpicture}
-    \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
-
-    \draw [blue, dotted, thick]
-          (-1.89, -7.39) node[circle, fill=blue, inner sep=1pt] (spole) {}
-       -- (+0.00, +0.00) node[circle, fill=blue, inner sep=1pt] (orign) {}
-       -- (+1.89, +7.39) node[circle, fill=blue, inner sep=1pt] (npole) {};
+   % line 3 %
+    \draw [green, dotted, thick]
+          (4.38, -6.15) arc (240:273.0:-20.30);
 
     %additional%
     \draw (-3.8, +6.0) node {3};
@@ -476,14 +469,60 @@ H-支集
     \draw (+3.7, +4.9) node {0};
     \draw (+3.1, +1.7) node {1};
     \draw (+5.2, -2.5) node {2};
-
-    %multiplicative%
-    \draw (-6.2, +2.2) node {6};
-    \draw (-5.35, -1.25) node {$\odot$ 2};
-    \draw (-5.3, -2.2) node {3/2};
-
 \end{tikzpicture}
-\caption{嵌入整数}
+\caption{嵌入$n$}
+\end{figure}
+
+\subsection{嵌入$2^{-n}$}
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+    \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
+    \draw (+1.89, +7.89) node[inner sep=1pt] (p_0) {$-\infty$};
+    \draw (+0.90, +5.50) node[inner sep=1pt] (p_0) {0};
+    \draw (+0.00, +1.85) node[inner sep=1pt] (p_1) {1};
+    \draw (-0.82, -1.10) node[inner sep=1pt] (p_2) {2};
+    \draw (-1.35, -3.50) node[inner sep=1pt] (p_2) {3};
+    \draw (-1.89, -7.89) node[inner sep=1pt] (p_1) {$+\infty$};
+
+    \draw [Black, dotted, thick]
+          (-1.89, -7.39) node[inner sep=1pt] (p_pinf) {}
+       -- (+1.89, +7.39) node[inner sep=1pt] (p_ninf) {};
+
+    % line 0 %
+    \draw [green, dotted, thick]
+          (-3.29, 6.84) arc (240:271.7:18.00);
+
+   % line 1 %
+    \draw [green, dotted, thick]
+          (-6.43, 4.05) arc (240:271.7:26.50);
+
+   % line 2 %
+    \draw [green, dotted, thick]
+          (6.30, -4.30) arc (240:272.7:-25.50);
+
+   % line 3 %
+    \draw [green, dotted, thick]
+          (4.38, -6.15) arc (240:273.0:-20.30);
+
+    %additional%
+    \draw (-3.8, +6.0) node {3};
+    \draw (-4.3, +4.7) node {4};
+    \draw (-5.2, +4.7) node {5};
+
+    %additional%
+    \draw (-0.9, +6.2) node {1};
+    \draw (-1.9, +2.9) node {2};
+    \draw (-5.0, +0.3) node {3};
+    \draw (-7.0, +0.0) node {4};
+
+    %additional%
+    \draw (+3.7, +4.9) node {0};
+    \draw (+3.1, +1.7) node {1};
+    \draw (+5.2, -2.5) node {2};
+\end{tikzpicture}
+\caption{嵌入$2^{-n}$}
 \end{figure}
 
 \newpage
