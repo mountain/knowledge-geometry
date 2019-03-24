@@ -412,13 +412,40 @@ H-支集
 
 3.确认是否和 Surreal 数之间有一定的关联？
 
+\newpage
 
 \section{共形映射的想法}
+
+\subsection{嵌入$n$}
 
 \begin{figure}[ht]
 \centering
 \begin{tikzpicture}
     \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
+
+    \draw [blue, dotted, thick]
+          (-1.89, -7.39) node[circle, fill=blue, inner sep=1pt] (p_pinf) {}
+       -- (+0.30, +1.35) node[circle, fill=blue, inner sep=1pt] (p_1) {$\odot$ 1}
+       -- (+1.89, +7.39) node[circle, fill=blue, inner sep=1pt] (p_ninf) {};
+
+    \draw [blue, dotted, thick]
+          (-6.43, 4.05) arc  (240:271.7:26.50);
+
+\end{tikzpicture}
+\caption{嵌入$n$}
+\end{figure}
+
+\subsection{嵌入$2^{-n}$}
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+    \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
+
+    \draw [blue, dotted, thick]
+          (-1.89, -7.39) node[circle, fill=blue, inner sep=1pt] (spole) {}
+       -- (+0.00, +0.00) node[circle, fill=blue, inner sep=1pt] (orign) {}
+       -- (+1.89, +7.39) node[circle, fill=blue, inner sep=1pt] (npole) {};
 
     %additional%
     \draw (-3.8, +6.0) node {3};
@@ -440,9 +467,12 @@ H-支集
     \draw (-6.2, +2.2) node {6};
     \draw (-5.35, -1.25) node {$\odot$ 2};
     \draw (-5.3, -2.2) node {3/2};
+
 \end{tikzpicture}
-\caption{共形映射}
+\caption{嵌入整数}
 \end{figure}
+
+\newpage
 
 \section{扩域的想法}
 
