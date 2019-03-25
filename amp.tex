@@ -242,6 +242,374 @@ H-树的构造
 
 \newpage
 
+\section{共形映射的想法}
+
+\subsection{预备知识}
+
+\subsubsection{测地线 $\gamma$ 的六个无穷远点}
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+    \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
+    \draw (+0.40, +1.60) node[inner sep=1pt] (g) {$\gamma$};
+    \draw (+1.89, +7.89) node[inner sep=1pt] (p_1) {$\infty_1$};
+    \draw (-4.29, +6.84) node[inner sep=1pt] (p_2) {$\infty_2$};
+    \draw (-7.43, +4.05) node[inner sep=1pt] (p_3) {$\infty_3$};
+    \draw (-2.89, -7.89) node[inner sep=1pt] (p_4) {$\infty_4$};
+    \draw (+8.58, +0.55) node[inner sep=1pt] (p_5) {$\infty_5$};
+    \draw (+6.43, +4.75) node[inner sep=1pt] (p_6) {$\infty_6$};
+
+\end{tikzpicture}
+\caption{六个特殊的无穷远点}
+\end{figure}
+
+\newpage
+
+\subsubsection{引入镜面映射}
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+    \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
+    \draw (-4.00, +4.20) node[inner sep=1pt] (g) {$\gamma$};
+    \draw (+1.80, +5.20) node[inner sep=1pt] (g_0) {$g_0$};
+    \draw (+1.89, +7.89) node[inner sep=1pt] (p_1) {$\infty_1$};
+    \draw (-4.29, +6.84) node[inner sep=1pt] (p_2) {$\infty_2$};
+    \draw (-7.43, +4.05) node[inner sep=1pt] (p_3) {$\infty_3$};
+    \draw (-2.89, -7.89) node[inner sep=1pt] (p_4) {$\infty_4$};
+    \draw (+8.58, +0.55) node[inner sep=1pt] (p_5) {$\infty_5$};
+    \draw (+6.43, +4.75) node[inner sep=1pt] (p_6) {$\infty_6$};
+
+    \draw [black, dotted, line width=1mm]
+          (-1.89, -7.39) node[inner sep=1pt] (p_pinf) {}
+       -- (+1.89, +7.39) node[inner sep=1pt] (p_ninf) {};
+\end{tikzpicture}
+\caption{镜面映射的轴}
+\end{figure}
+
+连接 $\infty_1$ 和 $\infty_4$ 得到镜面映射的轴$g_0$。$g_0$是测地线。
+
+\newpage
+
+\subsubsection{沿测地线 $\gamma$ 推移镜面结构}
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+    \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
+    \draw (+1.50, +1.70) node[inner sep=1pt] (g) {$\gamma$};
+    \draw (-2.50, +4.70) node[inner sep=1pt] (g_n) {$g_{-1}$};
+    \draw (+1.80, +5.20) node[inner sep=1pt] (g_0) {$g_0$};
+    \draw (+5.00, +2.80) node[inner sep=1pt] (g_p) {$g_1$};
+    \draw (+1.89, +7.89) node[inner sep=1pt] (p_1) {$\infty_1$};
+    \draw (-4.29, +6.84) node[inner sep=1pt] (p_2) {$\infty_2$};
+    \draw (-7.43, +4.05) node[inner sep=1pt] (p_3) {$\infty_3$};
+    \draw (-2.89, -7.89) node[inner sep=1pt] (p_4) {$\infty_4$};
+    \draw (+8.58, +0.55) node[inner sep=1pt] (p_5) {$\infty_5$};
+    \draw (+6.43, +4.75) node[inner sep=1pt] (p_6) {$\infty_6$};
+
+    % geodesic 0 %
+    \draw [black, dotted, line width=1mm]
+          (-1.89, -7.39) node[inner sep=1pt] (p_pinf) {}
+       -- (+1.89, +7.39) node[inner sep=1pt] (p_ninf) {};
+
+    % geodesic 1 %
+    \draw [black, dotted, line width=1mm]
+          (-3.29, 6.84) arc (205.0:58.7:-2.20);
+
+    % line 0 %
+    \draw [green, dotted, thick]
+          (-3.29, 6.84) arc (240:271.7:18.00);
+
+    % geodesic 1 %
+    \draw [black, dotted, line width=1mm]
+          (7.58, 0.55) arc (265.0:135.7:2.25);
+
+   % line 1 %
+    \draw [green, dotted, thick]
+          (-6.43, 4.05) arc (240:271.7:26.50);
+
+\end{tikzpicture}
+\caption{沿测地线 $\gamma$ 推移镜面结构}
+\end{figure}
+
+\newpage
+
+\subsection{嵌入$0$}
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+    \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
+    \draw (-1.35, -3.50) node[inner sep=1pt] (p_z) {0};
+
+    % geodesic 0 %
+    \draw [black, dotted, line width=0.3mm]
+          (-1.89, -7.39) node[inner sep=1pt] (p_pinf) {}
+       -- (+1.89, +7.39) node[inner sep=1pt] (p_ninf) {};
+
+    \draw (-0.9, +6.2) node {$-1$};
+    \draw (-1.9, +2.9) node {$-\frac{1}{2}$};
+    \draw (-5.0, +0.3) node {$-\frac{1}{4}$};
+    \draw (-7.0, +0.0) node {$-\frac{1}{8}$};
+
+    \draw (+3.7, +4.9) node {$+1$};
+    \draw (+3.1, +1.7) node {$+\frac{1}{2}$};
+    \draw (+5.2, -2.5) node {$+\frac{1}{4}$};
+\end{tikzpicture}
+\caption{嵌入$0$ 线}
+\end{figure}
+
+\newpage
+
+\subsection{嵌入$n$}
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+    \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
+    \draw (1.00, 2.60) node[inner sep=1pt] (p_z) {0};
+    \draw (-3.4, +3.9) node {$-1$};
+    \draw (+5.2, +1.8) node {$+1$};
+
+    % geodesic 0 %
+    \draw [black, dotted, line width=1mm]
+          (-1.89, -7.39) node[inner sep=1pt] (p_pinf) {}
+       -- (+1.89, +7.39) node[inner sep=1pt] (p_ninf) {};
+
+    % geodesic 1 %
+    \draw [black, dotted, line width=1mm]
+          (-3.29, 6.84) arc (205.0:58.7:-2.20);
+
+    % geodesic 1 %
+    \draw [black, dotted, line width=1mm]
+          (7.58, 0.55) arc (265.0:135.7:2.25);
+
+    \draw (-0.9, +6.2) node {$-1$};
+    \draw (-1.9, +2.9) node {$-\frac{1}{2}$};
+    \draw (-5.0, +0.3) node {$-\frac{1}{4}$};
+    \draw (-7.0, +0.0) node {$-\frac{1}{8}$};
+
+    \draw (+3.7, +4.9) node {$+1$};
+    \draw (+3.1, +1.7) node {$+\frac{1}{2}$};
+    \draw (+5.2, -2.5) node {$+\frac{1}{4}$};
+\end{tikzpicture}
+\caption{嵌入 $n$ 线}
+\end{figure}
+
+\newpage
+
+\subsection{嵌入$2^{-n}$}
+
+为了看到所有的 $2^{-n}$，我们把上图中的观察视角左移 $\frac{1}{2}$，于是黑枝变成蓝枝，就能看到所有的 $2^{-n}$ 分布在右侧的蓝主枝上。
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+    \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
+    \draw (1.00, 2.60) node[inner sep=1pt] (p_z) {$+\frac{1}{2}$};
+    \draw (-3.4, +3.9) node {$-\frac{1}{2}$};
+    \draw (+5.2, +1.8) node {$+\frac{3}{2}$};
+
+    \draw (-0.9, +6.2) node {$+0$};
+    \draw (-1.9, +2.9) node {$+0$};
+    \draw (-5.0, +0.3) node {$+0$};
+    \draw (-7.0, +0.0) node {$+0$};
+
+    \draw (+3.7, +4.9) node {$+2$};
+    \draw (+3.1, +1.7) node {$+1$};
+    \draw (+5.2, -2.5) node {$+\frac{1}{2}$};
+
+    \draw (+0.00, +0.00) node {$+\frac{1}{4}$};
+
+    % geodesic 0 %
+    \draw [black, dotted, line width=1mm]
+          (-1.89, -7.39) node[inner sep=1pt] (p_pinf) {}
+       -- (+1.89, +7.39) node[inner sep=1pt] (p_ninf) {};
+
+    % geodesic 1 %
+    \draw [black, dotted, line width=1mm]
+          (-3.29, 6.84) arc (205.0:58.7:-2.20);
+
+    % line 0 %
+    \draw [green, dotted, thick]
+          (-3.29, 6.84) arc (240:271.7:18.00);
+
+    % geodesic 1 %
+    \draw [black, dotted, line width=1mm]
+          (7.58, 0.55) arc (265.0:135.7:2.25);
+
+    % line 0 %
+    \draw [green, dotted, thick]
+          (-3.29, 6.84) arc (240:271.7:18.00);
+
+   % line 1 %
+    \draw [green, dotted, thick]
+          (-6.43, 4.05) arc (240:271.7:26.50);
+
+   % line 2 %
+    \draw [green, dotted, thick]
+          (6.30, -4.30) arc (240:272.7:-25.50);
+
+   % line 3 %
+    \draw [green, dotted, thick]
+          (4.38, -6.15) arc (240:273.0:-20.30);
+\end{tikzpicture}
+\caption{嵌入$2^{-n}$}
+\end{figure}
+
+\newpage
+
+\subsection{嵌入$1 - 2^{-n}$}
+
+为了看到所有的 $1 - 2^{-n}$，我们把上图中的观察视角再左移 $1$，$1 - 2^{-n}$ 出现在图中，并分布在一条特殊的枝上。
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+    \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
+    \draw (1.00, 2.60) node[inner sep=1pt] (p_z) {$+\frac{3}{2}$};
+    \draw (-3.4, +3.9) node {$+\frac{1}{2}$};
+    \draw (+5.2, +1.8) node {$+\frac{5}{2}$};
+
+    \draw (-0.9, +6.2) node {$+2$};
+    \draw (-1.9, +2.9) node {$+1$};
+    \draw (-5.0, +0.3) node {$+\frac{1}{2}$};
+    \draw (-7.0, +0.0) node {$+\frac{1}{4}$};
+
+    \draw (+3.7, +4.9) node {$+4$};
+    \draw (+3.1, +1.7) node {$+2$};
+    \draw (+5.2, -2.5) node {$+1$};
+
+    \draw (+0.00, +0.00) node {$+\frac{3}{4}$};
+
+    % geodesic 0 %
+    \draw [black, dotted, line width=1mm]
+          (-1.89, -7.39) node[inner sep=1pt] (p_pinf) {}
+       -- (+1.89, +7.39) node[inner sep=1pt] (p_ninf) {};
+
+    % geodesic 1 %
+    \draw [black, dotted, line width=1mm]
+          (-3.29, 6.84) arc (205.0:58.7:-2.20);
+
+    % line 0 %
+    \draw [green, dotted, thick]
+          (-3.29, 6.84) arc (240:271.7:18.00);
+
+    % geodesic 1 %
+    \draw [black, dotted, line width=1mm]
+          (7.58, 0.55) arc (265.0:135.7:2.25);
+
+    % line 0 %
+    \draw [green, dotted, thick]
+          (-3.29, 6.84) arc (240:271.7:18.00);
+
+   % line 1 %
+    \draw [green, dotted, thick]
+          (-6.43, 4.05) arc (240:271.7:26.50);
+
+   % line 2 %
+    \draw [green, dotted, thick]
+          (6.30, -4.30) arc (240:272.7:-25.50);
+
+   % line 3 %
+    \draw [green, dotted, thick]
+          (4.38, -6.15) arc (240:273.0:-20.30);
+\end{tikzpicture}
+\caption{嵌入$1 - 2^{-n}$}
+\end{figure}
+
+\newpage
+
+
+\subsection{嵌入$1 + 2^{-n}$}
+
+为了看到所有的 $1 + 2^{-n}$，我们把上图中的观察视角再左移 $1$，$1 + 2^{-n}$ 出现在图中，并分布在一条特殊的枝上。
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+    \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
+    \draw (1.00, 2.60) node[inner sep=1pt] (p_z) {$+\frac{1}{2}$};
+    \draw (-3.4, +3.9) node {$-\frac{1}{2}$};
+    \draw (+5.2, +1.8) node {$+\frac{3}{2}$};
+
+    \draw (-0.9, +6.2) node {$+0$};
+    \draw (-1.9, +2.9) node {$+0$};
+    \draw (-5.0, +0.3) node {$+0$};
+    \draw (-7.0, +0.0) node {$+0$};
+
+    \draw (+3.7, +4.9) node {$+2$};
+    \draw (+3.1, +1.7) node {$+1$};
+    \draw (+5.2, -2.5) node {$+\frac{1}{2}$};
+
+    \draw (+0.00, +0.00) node {$+\frac{1}{4}$};
+
+    % geodesic 0 %
+    \draw [black, dotted, line width=1mm]
+          (-1.89, -7.39) node[inner sep=1pt] (p_pinf) {}
+       -- (+1.89, +7.39) node[inner sep=1pt] (p_ninf) {};
+
+    % geodesic 1 %
+    \draw [black, dotted, line width=1mm]
+          (-3.29, 6.84) arc (205.0:58.7:-2.20);
+
+    % line 0 %
+    \draw [green, dotted, thick]
+          (-3.29, 6.84) arc (240:271.7:18.00);
+
+    % geodesic 1 %
+    \draw [black, dotted, line width=1mm]
+          (7.58, 0.55) arc (265.0:135.7:2.25);
+
+    % line 0 %
+    \draw [green, dotted, thick]
+          (-3.29, 6.84) arc (240:271.7:18.00);
+
+   % line 1 %
+    \draw [green, dotted, thick]
+          (-6.43, 4.05) arc (240:271.7:26.50);
+
+   % line 2 %
+    \draw [green, dotted, thick]
+          (6.30, -4.30) arc (240:272.7:-25.50);
+
+   % line 3 %
+    \draw [green, dotted, thick]
+          (4.38, -6.15) arc (240:273.0:-20.30);
+\end{tikzpicture}
+\caption{嵌入$1 + 2^{-n}$}
+\end{figure}
+
+\newpage
+
+\section{扩域的想法}
+
+\subsection{基础元素}
+
+$\begin{array}{|c|c|}\hline 1&\space\\\hline n&0\\\hline\end{array} \mapsto n$ 代表整数，整个树都是整数值 $n$
+
+$\begin{array}{|c|c|}\hline0&\space\\\hline 1&0\\\hline\end{array} \mapsto h$ 代表全体横向测地线（加线）的过滤器
+
+$\begin{array}{|c|c|}\hline0&\space\\\hline 0&1\\\hline\end{array} \mapsto i$ 代表全体横向测地线（加线）上的自然增加
+
+$\begin{array}{|c|c|}\hline2&\space\\\hline 1&0\\\hline\end{array} \mapsto j$ 代表全体纵向测地线（乘线）上的自然增加
+
+$\begin{array}{|c|c|}\hline2&\space\\\hline 0&1\\\hline\end{array} \mapsto q$
+
+$p$ 是将 $q$ 的加乘位置互易得到
+
+\subsubsection{问题}
+
+$o_p$ 独点的过滤器存在吗？其中 $p$ 是从原点到达该点路径的二进制编码
+
+$g_p$ 单独一条测地线的过滤器存在吗？其中 $p$ 是从原点到达测地线的路径的二进制编码
+
+$n$ 自己可以构成域，$n$ 与 $q$ 的组合能生成域吗？$n$ 与 $p$、 $q$ 的组合能生成域吗？
+
+生成域的目标是包含 surreal number。
+
 \section{不同的赋值方案}
 
 \subsection{第一种赋值方案}
@@ -414,143 +782,5 @@ H-支集
 3.确认是否和 Surreal 数之间有一定的关联？
 
 \newpage
-
-\section{共形映射的想法}
-
-\subsection{嵌入$n$}
-\begin{figure}[ht]
-\centering
-\caption{超现实数里的$n$}
-\end{figure}
-
-\begin{figure}[ht]
-\centering
-\begin{tikzpicture}
-    \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
-    \draw (+1.89, +7.89) node[inner sep=1pt] (p_n) {$-\infty$};
-    \draw (+0.90, +5.50) node[inner sep=1pt] (p_0) {0};
-    \draw (+0.00, +1.85) node[inner sep=1pt] (p_1) {1};
-    \draw (-0.82, -1.10) node[inner sep=1pt] (p_2) {2};
-    \draw (-1.35, -3.50) node[inner sep=1pt] (p_2) {3};
-    \draw (-1.89, -7.89) node[inner sep=1pt] (p_p) {$+\infty$};
-
-    \draw [Black, dotted, thick]
-          (-1.89, -7.39) node[inner sep=1pt] (p_pinf) {}
-       -- (+1.89, +7.39) node[inner sep=1pt] (p_ninf) {};
-
-    % line 0 %
-    \draw [green, dotted, thick]
-          (-3.29, 6.84) arc (240:271.7:18.00);
-
-   % line 1 %
-    \draw [green, dotted, thick]
-          (-6.43, 4.05) arc (240:271.7:26.50);
-
-   % line 2 %
-    \draw [green, dotted, thick]
-          (6.30, -4.30) arc (240:272.7:-25.50);
-
-   % line 3 %
-    \draw [green, dotted, thick]
-          (4.38, -6.15) arc (240:273.0:-20.30);
-
-    %additional%
-    \draw (-3.8, +6.0) node {3};
-    \draw (-4.3, +4.7) node {4};
-    \draw (-5.2, +4.7) node {5};
-
-    %additional%
-    \draw (-0.9, +6.2) node {1};
-    \draw (-1.9, +2.9) node {2};
-    \draw (-5.0, +0.3) node {3};
-    \draw (-7.0, +0.0) node {4};
-
-    %additional%
-    \draw (+3.7, +4.9) node {0};
-    \draw (+3.1, +1.7) node {1};
-    \draw (+5.2, -2.5) node {2};
-\end{tikzpicture}
-\caption{嵌入$n$}
-\end{figure}
-
-\subsection{嵌入$2^{-n}$}
-
-\begin{figure}[ht]
-\centering
-\begin{tikzpicture}
-    \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
-    \draw (+1.89, +7.89) node[inner sep=1pt] (p_0) {$-\infty$};
-    \draw (+0.90, +5.50) node[inner sep=1pt] (p_0) {0};
-    \draw (+0.00, +1.85) node[inner sep=1pt] (p_1) {1};
-    \draw (-0.82, -1.10) node[inner sep=1pt] (p_2) {2};
-    \draw (-1.35, -3.50) node[inner sep=1pt] (p_2) {3};
-    \draw (-1.89, -7.89) node[inner sep=1pt] (p_1) {$+\infty$};
-
-    \draw [Black, dotted, thick]
-          (-1.89, -7.39) node[inner sep=1pt] (p_pinf) {}
-       -- (+1.89, +7.39) node[inner sep=1pt] (p_ninf) {};
-
-    % line 0 %
-    \draw [green, dotted, thick]
-          (-3.29, 6.84) arc (240:271.7:18.00);
-
-   % line 1 %
-    \draw [green, dotted, thick]
-          (-6.43, 4.05) arc (240:271.7:26.50);
-
-   % line 2 %
-    \draw [green, dotted, thick]
-          (6.30, -4.30) arc (240:272.7:-25.50);
-
-   % line 3 %
-    \draw [green, dotted, thick]
-          (4.38, -6.15) arc (240:273.0:-20.30);
-
-    %additional%
-    \draw (-3.8, +6.0) node {3};
-    \draw (-4.3, +4.7) node {4};
-    \draw (-5.2, +4.7) node {5};
-
-    %additional%
-    \draw (-0.9, +6.2) node {1};
-    \draw (-1.9, +2.9) node {2};
-    \draw (-5.0, +0.3) node {3};
-    \draw (-7.0, +0.0) node {4};
-
-    %additional%
-    \draw (+3.7, +4.9) node {0};
-    \draw (+3.1, +1.7) node {1};
-    \draw (+5.2, -2.5) node {2};
-\end{tikzpicture}
-\caption{嵌入$2^{-n}$}
-\end{figure}
-
-\newpage
-
-\section{扩域的想法}
-
-\subsection{基础元素}
-
-$\begin{array}{|c|c|}\hline 1&\space\\\hline n&0\\\hline\end{array} \mapsto n$ 代表整数，整个树都是整数值 $n$
-
-$\begin{array}{|c|c|}\hline0&\space\\\hline 1&0\\\hline\end{array} \mapsto h$ 代表全体横向测地线（加线）的过滤器
-
-$\begin{array}{|c|c|}\hline0&\space\\\hline 0&1\\\hline\end{array} \mapsto i$ 代表全体横向测地线（加线）上的自然增加
-
-$\begin{array}{|c|c|}\hline2&\space\\\hline 1&0\\\hline\end{array} \mapsto j$ 代表全体纵向测地线（乘线）上的自然增加
-
-$\begin{array}{|c|c|}\hline2&\space\\\hline 0&1\\\hline\end{array} \mapsto q$
-
-$p$ 是将 $q$ 的加乘位置互易得到
-
-\subsubsection{问题}
-
-$o_p$ 独点的过滤器存在吗？其中 $p$ 是从原点到达该点路径的二进制编码
-
-$g_p$ 单独一条测地线的过滤器存在吗？其中 $p$ 是从原点到达测地线的路径的二进制编码
-
-$n$ 自己可以构成域，$n$ 与 $q$ 的组合能生成域吗？$n$ 与 $p$、 $q$ 的组合能生成域吗？
-
-生成域的目标是包含 surreal number。
 
 \end{document}
