@@ -242,9 +242,7 @@ H-树的构造
 
 \newpage
 
-\section{共形映射的想法}
-
-\subsection{预备知识}
+\subsection{镶嵌的其他方面}
 
 \subsubsection{测地线 $\gamma$ 的六个无穷远点}
 
@@ -335,6 +333,24 @@ H-树的构造
 \end{figure}
 
 \newpage
+
+\subsection{Surreal数}
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+    \draw (0, 0) node[inner sep=0] {\includegraphics[width=4in]{images/surreal.png}};
+\end{tikzpicture}
+\caption{Surreal数的生成树}
+\end{figure}
+
+Surreal数按照生成树的先序遍历是严格从小到大的。Surreal数是一种序和代数的结构，有非常强大的序关系。
+
+\newpage
+
+\section{共形嵌入的想法}
+
+Surreal数的生成树具有高度的规律性，我们猜测Surreal数的生成树可以嵌入到加乘树里面，而且每个树枝都是一条测地线。
 
 \subsection{嵌入$0$}
 
@@ -584,6 +600,12 @@ H-树的构造
 
 \newpage
 
+\section{共形嵌入的证明}
+
+上面的构造过程蕴含了共形嵌入的证明思路，在此我们给出严格的证明。
+
+\newpage
+
 \section{扩域的想法}
 
 \subsection{基础元素}
@@ -610,177 +632,16 @@ $n$ 自己可以构成域，$n$ 与 $q$ 的组合能生成域吗？$n$ 与 $p$�
 
 生成域的目标是包含 surreal number。
 
-\section{不同的赋值方案}
-
-\subsection{第一种赋值方案}
-
-下面我们给四阶无限边形镶嵌的边着色。着色的基本原则是前进方向的右侧是 b 或者 w，前进方向的左侧是 d 或者 m；同时，b 和 d 作为加性组，
-m 和 w 作为乘性组，它们彼此交替出现。上述过程可以被下面的程序刻画。
-
-\begin{figure}[ht]
-\centering
-\includegraphics[width=3.5in]{images/H2_tiling_with_color_1.png}
-\caption{在边上着色}
-\end{figure}
-
-\begin{program}
-四阶无限边形镶嵌的着色方案一
-\begin{itemize}
-\item 裂解[0, +90, +180, +270; 1]，朝向 0 度的小海龟背着符号 b，朝向 180 度的小海龟背着符号 d，朝向 90 度的是 m，朝向 270 度的是 w。
-\item 对所有的小海龟，反复无限次的执行下述命令
-\begin{itemize}
-  \item 前进一步
-  \item 裂解[-90, 0, +90; 1]，朝向 0 度的小海龟背着的符号不变，其余小海龟背着的符号做出变化如下
-    \begin{itemize}
-      \item 如果裂解前海龟背着 b 或者 d，则朝向 -90 度的小海龟背着 m，朝向 90 度的小海龟背着 w
-      \item 如果裂解前海龟背着 m 或者 w，则朝向 -90 度的小海龟背着 d，朝向 90 度的小海龟背着 b
-    \end{itemize}
-  \end{itemize}
-\end{itemize}
-\end{program}
-
-上述程序执行的起点是给定的零点 O。对镶嵌上的任何一点 A，从 O 到 A 只有唯一的一条路径，我们把该路径上边的着色拼接起来，再加上起点的 0，
-就得到一个 文法\ref{g1} 描述的表达式，这个表达式的值给点 A 一个赋值。
-
-\begin{figure}[ht]
-\centering
-\includegraphics[width=3.5in]{images/H2_tiling_with_assign_1.png}
-\caption{镶嵌上的第一种赋值}
-\end{figure}
-
-需要指出的是，由于 引理\ref{l1} 的存在，上述赋值是恰当的。（恰当性还需要进一步论述，特别是如果我们考虑了赋值后的镶嵌图案的内在对称性的时候）
-
-\subsection{第二种赋值方案}
-
-在第 1.1 节，我们曾经考虑了一个自然数的最简表达。在本节，我们引入特殊的零点，让符号性质的最简表达，有一个自然的几何表示—最短路径。
-
-\subsubsection{一个特殊零点的引入}
-
-我们还有四阶无限边形镶嵌的另外一种构造程序，这个构造引入了一个特殊的零点。
-
-\begin{program}
-四阶无限边形镶嵌的构造二
-\begin{itemize}
-\item 裂解[0, +180; 1]
-\item 前进半步
-\item 对所有的小海龟，反复无限次的执行下述命令
-\begin{itemize}
-  \item 前进一步
-  \item 裂解[-90, 0, +90; 1]
-\end{itemize}
-\end{itemize}
-\end{program}
-
-上述程序里小海龟的起点就是我们特殊的零点。
-
-\begin{figure}[ht]
-\centering
-\includegraphics[width=3.5in]{images/H2_tiling_with_zero_2.png}
-\caption{一个特殊零点的引入}
-\end{figure}
-
-\subsubsection{着色方案一的小修正}
-
-基本沿用着色方案一，只作非常小的修正，我们给出如下的程序。
-
-\begin{figure}[ht]
-\centering
-\includegraphics[width=3.5in]{images/H2_tiling_with_color_2.png}
-\caption{着色方案一的小修正}
-\end{figure}
-
-\begin{program}
-着色方案一的小修正
-\begin{itemize}
-\item 裂解[0, +180; 1]，朝向 0 度的小海龟背着符号 b，朝向 180 度的小海龟背着符号 d
-\item 前进半步
-\item 对所有的小海龟，反复无限次的执行下述命令
-\begin{itemize}
-  \item 前进一步
-  \item 裂解[-90, 0, +90; 1]，朝向 0 度的小海龟背着的符号不变，其余小海龟背着的符号做出变化如下
-    \begin{itemize}
-      \item 如果裂解前海龟背着 b 或者 d，则朝向 -90 度的小海龟背着 m，朝向 90 度的小海龟背着 w
-      \item 如果裂解前海龟背着 m 或者 w，则朝向 -90 度的小海龟背着 d，朝向 90 度的小海龟背着 b
-    \end{itemize}
-  \end{itemize}
-\end{itemize}
-\end{program}
-
-稍微思考一下，就会发现这种方案的不足：零点会出现无限次，但它们彼此并不等同。
-这就要求我们，对所有的零点都必须特殊处理，当走到 1 或者 -1 时，必须要前进或者后退半步，来得到新的零点。
-
-\subsubsection{更优的方案}
-
-我们增强小海龟的装备，除了能背负 b、d、m、w 四种颜色；它还背负了一个计算器—
-当小海龟从零点走到当前点，它的计算器能够计算路径的估值是多少。
-
-\begin{program}
-更优的着色方案
-\begin{itemize}
-    \item 反复无限次的执行下述命令
-    \begin{itemize}
-        \item 对所有的在零点的小海龟：
-        \begin{itemize}
-            \item 裂解[0, +180; 1]，朝向 0 度的小海龟背着符号 b，朝向 180 度的小海龟背着符号 d
-            \item 如果前方的边没有被着色，则前进半步，否则保持不动
-        \end{itemize}
-        \item 对所有的不在零点的小海龟
-        \begin{itemize}
-            \item 当前的位置上路径的估值不为 1 或者 -1
-            \begin{itemize}
-                \item 前进一步
-                \item 裂解[-90, 0, +90; 1]，朝向 0 度的小海龟背着的符号不变，其余小海龟背着的符号做出变化如下：
-                    如果裂解前海龟背着 b 或者 d，则朝向 -90 度的小海龟背着 m，朝向 90 度的小海龟背着 w；
-                    如果裂解前海龟背着 m 或者 w，则朝向 -90 度的小海龟背着 d，朝向 90 度的小海龟背着 b。
-            \end{itemize}
-            \item 当前的位置上路径的估值为 1 且海龟背着 d，则前进半步，停在一个新的零点，小海龟的指向翻转
-            \item 当前的位置上路径的估值为 -1 且海龟背着 b，则前进半步，停在一个新的零点，小海龟的指向不变
-        \end{itemize}
-    \end{itemize}
-\end{itemize}
-\end{program}
-
-更优的着色方案会给出第二种赋值方案。
-
-\begin{figure}[ht]
-\centering
-\includegraphics[width=3.5in]{images/H2_tiling_with_assign_2.png}
-\caption{第二种赋值方案}
-\end{figure}
-
-\section{赋值上的特殊子树}
-
-单调支集
-
-H-支集
-
-给定一个零点，给定一个数字 n，考察所有的 n 对应的点到该零点的路径。需要考察路径中首次出现的 n。
-给定一个数字 n 的点，考察所有的零点到该点的路径。需要考察路径中首次出现的零点。
-
-\section{赋值上的模式}
-
-乘法的基
-
-\section{关于赋值的对称群}
-
-\subsubsection{赋值的对称群的存在}
-
-我们知道四阶无限边形镶嵌有一个无限多元素的对称群，如果赋值存在一个对称群，那么一定是它的子群。我们首先来论证这个子群是非平凡的，包含了无限多的元素。
-赋值上的所有零点，确定了它的构造。
-
-\section{关于最短表示}
-
-在第二种赋值方案里，对一个数字，我们考察零点到它的最短路径，这个最短路径称为该数字的最短表示。
-这个最短表示和该数字的二进制表示之间有对应的关系。
-
-\section{三个研究的方向}
-
-1.研究四阶无限边形镶嵌上赋值的对称群
-
-2.研究数字的新表示，加法和乘法如何在新表示上计算，它们的复杂度是多少？
-
-3.确认是否和 Surreal 数之间有一定的关联？
-
 \newpage
+
+\section{几个研究的方向}
+
+1、初等数学：一个程序的计算过程体现为一个流动，用函数式的观点，重新考察初等几何、线性代数、微积分和微分方程等。比如圆是什么？
+
+2、计算理论：Chaitin 常数 $\Omega$ 的几何位置在哪里？
+
+3、学习理论：学习过程体现为一个反复迭代的程序，是测地线上的流动，重新考察学习的概念。
+
+4、庞加莱圆盘可以看成复平面上的单位圆盘，黎曼共形映射定理，直觉上，应该会有一个非常简洁的证明。
 
 \end{document}
