@@ -505,188 +505,32 @@ H-树的构造
 \caption{嵌入 $n$ 线}
 \end{figure}
 
-我们声称上图中的黑线是等值线。
+上图中的黑线是我们恰当连接无穷远点得到的，我们声称上图中的黑线是等值线。随着 $-1$ 和 $+1$ 的出现，全体整数都出现在我们的开始寻找零点的那条加线上。
+这样我们就完成了嵌入 $n$ 的任务。
+
+\newpage
+
+\subsection{重新看到加线和所有的倍加线}
+
+\newpage
+
+\subsection{重新看到乘线和所有的倍乘线}
 
 \newpage
 
 \subsection{嵌入$2^{-n}$}
 
-为了看到所有的 $2^{-n}$，我们把上图中的观察视角左移 $\frac{1}{2}$，于是黑枝变成蓝枝。
-
-\begin{figure}[ht]
-\centering
-\begin{tikzpicture}
-    \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
-    \draw (1.00, 2.60) node[inner sep=1pt] (p_z) {$+\frac{1}{2}$};
-    \draw (-3.4, +3.9) node {$-\frac{1}{2}$};
-    \draw (+5.2, +1.8) node {$+\frac{3}{2}$};
-
-    \draw (-0.9, +6.2) node {$+0$};
-    \draw (-1.9, +2.9) node {$+0$};
-    \draw (-5.0, +0.3) node {$+0$};
-    \draw (-7.0, +0.0) node {$+0$};
-
-    \draw (+3.7, +4.9) node {$+2$};
-    \draw (+3.1, +1.7) node {$+1$};
-    \draw (+5.2, -2.5) node {$+\frac{1}{2}$};
-
-    \draw (+0.00, +0.00) node {$+\frac{1}{4}$};
-
-    % geodesic 0 %
-    \draw [black, dotted, line width=1mm]
-          (-1.89, -7.39) node[inner sep=1pt] (p_pinf) {}
-       -- (+1.89, +7.39) node[inner sep=1pt] (p_ninf) {};
-
-    % geodesic 1 %
-    \draw [black, dotted, line width=1mm]
-          (-3.29, 6.84) arc (205.0:58.7:-2.20);
-
-    % line 0 %
-    \draw [green, dotted, thick]
-          (-3.29, 6.84) arc (240:271.7:18.00);
-
-    % geodesic 1 %
-    \draw [black, dotted, line width=1mm]
-          (7.58, 0.55) arc (265.0:135.7:2.25);
-
-    % line 0 %
-    \draw [green, dotted, thick]
-          (-3.29, 6.84) arc (240:271.7:18.00);
-
-   % line 1 %
-    \draw [green, dotted, thick]
-          (-6.43, 4.05) arc (240:271.7:26.50);
-
-   % line 2 %
-    \draw [green, dotted, thick]
-          (6.30, -4.30) arc (240:272.7:-25.50);
-
-   % line 3 %
-    \draw [green, dotted, thick]
-          (4.38, -6.15) arc (240:273.0:-20.30);
-\end{tikzpicture}
-\caption{嵌入$2^{-n}$}
-\end{figure}
+寻找恰当的 $+\frac{1}{2}$ 点。
 
 \newpage
 
 \subsection{嵌入$1 - 2^{-n}$}
 
-为了看到所有的 $1 - 2^{-n}$，我们把上图中的观察视角再左移 $1$。
-
-\begin{figure}[ht]
-\centering
-\begin{tikzpicture}
-    \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
-    \draw (1.00, 2.60) node[inner sep=1pt] (p_z) {$+\frac{3}{2}$};
-    \draw (-3.4, +3.9) node {$+\frac{1}{2}$};
-    \draw (+5.2, +1.8) node {$+\frac{5}{2}$};
-
-    \draw (-0.9, +6.2) node {$+2$};
-    \draw (-1.9, +2.9) node {$+1$};
-    \draw (-5.0, +0.3) node {$+\frac{1}{2}$};
-    \draw (-7.0, +0.0) node {$+\frac{1}{4}$};
-
-    \draw (+3.7, +4.9) node {$+4$};
-    \draw (+3.1, +1.7) node {$+2$};
-    \draw (+5.2, -2.5) node {$+1$};
-
-    \draw (+0.00, +0.00) node {$+\frac{3}{4}$};
-
-    % geodesic 0 %
-    \draw [black, dotted, line width=1mm]
-          (-1.89, -7.39) node[inner sep=1pt] (p_pinf) {}
-       -- (+1.89, +7.39) node[inner sep=1pt] (p_ninf) {};
-
-    % geodesic 1 %
-    \draw [black, dotted, line width=1mm]
-          (-3.29, 6.84) arc (205.0:58.7:-2.20);
-
-    % line 0 %
-    \draw [green, dotted, thick]
-          (-3.29, 6.84) arc (240:271.7:18.00);
-
-    % geodesic 1 %
-    \draw [black, dotted, line width=1mm]
-          (7.58, 0.55) arc (265.0:135.7:2.25);
-
-    % line 0 %
-    \draw [green, dotted, thick]
-          (-3.29, 6.84) arc (240:271.7:18.00);
-
-   % line 1 %
-    \draw [green, dotted, thick]
-          (-6.43, 4.05) arc (240:271.7:26.50);
-
-   % line 2 %
-    \draw [green, dotted, thick]
-          (6.30, -4.30) arc (240:272.7:-25.50);
-
-   % line 3 %
-    \draw [green, dotted, thick]
-          (4.38, -6.15) arc (240:273.0:-20.30);
-\end{tikzpicture}
-\caption{嵌入$1 - 2^{-n}$}
-\end{figure}
+寻找恰当的 $+\frac{3}{2}$ 点。
 
 \newpage
 
 \subsection{嵌入$1 + 2^{-n}$}
-
-\begin{figure}[ht]
-\centering
-\begin{tikzpicture}
-    \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
-    \draw (1.00, 2.60) node[inner sep=1pt] (p_z) {$+\frac{1}{2}$};
-    \draw (-3.4, +3.9) node {$-\frac{1}{2}$};
-    \draw (+5.2, +1.8) node {$+\frac{3}{2}$};
-
-    \draw (-0.9, +6.2) node {$+0$};
-    \draw (-1.9, +2.9) node {$+0$};
-    \draw (-5.0, +0.3) node {$+0$};
-    \draw (-7.0, +0.0) node {$+0$};
-
-    \draw (+3.7, +4.9) node {$+2$};
-    \draw (+3.1, +1.7) node {$+1$};
-    \draw (+5.2, -2.5) node {$+\frac{1}{2}$};
-
-    \draw (+0.00, +0.00) node {$+\frac{1}{4}$};
-
-    % geodesic 0 %
-    \draw [black, dotted, line width=1mm]
-          (-1.89, -7.39) node[inner sep=1pt] (p_pinf) {}
-       -- (+1.89, +7.39) node[inner sep=1pt] (p_ninf) {};
-
-    % geodesic 1 %
-    \draw [black, dotted, line width=1mm]
-          (-3.29, 6.84) arc (205.0:58.7:-2.20);
-
-    % line 0 %
-    \draw [green, dotted, thick]
-          (-3.29, 6.84) arc (240:271.7:18.00);
-
-    % geodesic 1 %
-    \draw [black, dotted, line width=1mm]
-          (7.58, 0.55) arc (265.0:135.7:2.25);
-
-    % line 0 %
-    \draw [green, dotted, thick]
-          (-3.29, 6.84) arc (240:271.7:18.00);
-
-   % line 1 %
-    \draw [green, dotted, thick]
-          (-6.43, 4.05) arc (240:271.7:26.50);
-
-   % line 2 %
-    \draw [green, dotted, thick]
-          (6.30, -4.30) arc (240:272.7:-25.50);
-
-   % line 3 %
-    \draw [green, dotted, thick]
-          (4.38, -6.15) arc (240:273.0:-20.30);
-\end{tikzpicture}
-\caption{嵌入$1 + 2^{-n}$}
-\end{figure}
 
 \newpage
 
@@ -751,5 +595,13 @@ $n$ 自己可以构成域，$n$ 与 $q$ 的组合能生成域吗？$n$ 与 $p$�
 5、学习理论：学习过程体现为一个反复迭代的程序，是测地线上的流动，重新考察学习的概念。
 
 6、几何学：对于一个计算过程，是否存在一个观察角度使得计算流动保持体积不变？$\mathfrak{K}$上的保体积流和测地线流的研究会带来什么？
+
+
+
+\section{物理学？}
+
+Ads/CFT 对应常见的一个例子是庞加莱圆盘和边界。其实边界不应该看成一条线，正确的几何观点是看成无数条彼此垂直的测地线在边界捏合起来。
+这些测地线构成希尔伯特空间，也即量子的几何结构。它是一种多世界的观点。
+
 
 \end{document}
