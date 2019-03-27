@@ -42,7 +42,14 @@
 
 \begin{document}
 
-\maketitle{}
+\begin{center}
+  \sihao \em 过程比结果更重要
+\end{center}
+
+\begingroup
+\let\newpage\relax
+\maketitle
+\endgroup
 
 \renewcommand\contentsname{目录}
 \setcounter{tocdepth}{2}
@@ -154,6 +161,8 @@ $$\alpha = \beta a_n^{-1} a_{n-1}^{-1} ... a_2^{-1} a_1^{-1}$$
 
 \end{proof}
 
+\newpage
+
 \subsection{支持裂解的海龟绘图}
 
 Logo 是一种程序设计语言，并以它的绘图执行环境而闻名。Logo 绘图执行环境的一个关键构造是绘图小海龟。
@@ -188,6 +197,8 @@ Logo 是一种程序设计语言，并以它的绘图执行环境而闻名。Log
 \item 裂解[角度排布;步长设定]
 \end{itemize}
 \end{convention}
+
+\newpage
 
 \subsection{四阶无限边形镶嵌}
 
@@ -224,26 +235,6 @@ Logo 是一种程序设计语言，并以它的绘图执行环境而闻名。Log
 对于任意一条镶嵌结构上的测地线，镶嵌结构上的其他测地线可以被归类到与之平行或垂直的两组之中。
 \end{proposition}
 
-\subsection{H-树}
-
-H-树是如下图所示的分形构造。四阶无限边形镶嵌按照一定规则剪枝，拓扑上可以得到H-树。
-
-\begin{figure}[ht]
-\centering
-\includegraphics[width=3.5in]{images/2000px-H_tree.png}
-\caption{H-树}
-\end{figure}
-
-H-树的具体构造程序如下
-
-\begin{program}
-H-树的构造
-\begin{itemize}
-\item 对所有的小海龟，反复无限次的执行下述命令
-\begin{itemize}\item 前进一步 \item 裂解[-90, +90; $\sqrt{2} / 2$] \end{itemize}
-\end{itemize}
-\end{program}
-
 \newpage
 
 \subsection{镶嵌的其他方面}
@@ -252,7 +243,8 @@ H-树的构造
 
 给到四阶无限边形镶嵌的上任意一条测地线 $\gamma$ 和其上的一点 $O$，非常直观的就会发现，
 点 $O$ 旁边还有两条临近的测地线 $\alpha$ 和 $\beta$。三条测地线$\alpha$、$\beta$、$\gamma$分割出来六个区域，
-对应有六个特殊的无穷远点。这六个特殊的无穷远点在庞加莱圆盘的视觉效果上有特殊的地方，是镶嵌的树结构不同枝在无穷远处的切触点，如下图所示：
+对应有六个特殊的无穷远点。这六个特殊的无穷远点在庞加莱圆盘的视觉效果上有特殊的地方，
+是镶嵌的树结构不同枝在无穷远处的视觉上的切触点，如下图所示：
 
 \begin{figure}[ht]
 \centering
@@ -358,17 +350,64 @@ H-树的构造
 
 \newpage
 
+\subsection{H-树}
+
+H-树是如下图所示的分形构造。四阶无限边形镶嵌按照一定规则剪枝，拓扑上可以得到H-树。
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=3.5in]{images/2000px-H_tree.png}
+\caption{H-树}
+\end{figure}
+
+H-树的具体构造程序如下
+
+\begin{program}
+H-树的构造
+\begin{itemize}
+\item 对所有的小海龟，反复无限次的执行下述命令
+\begin{itemize}\item 前进一步 \item 裂解[-90, +90; $\sqrt{2} / 2$] \end{itemize}
+\end{itemize}
+\end{program}
+
+\newpage
+
+\subsection{希尔伯特曲线}
+
+希尔伯特曲线是另外一种分形构造，可以理解成是围绕着 $\Pi$ 的某种一笔画展开。希尔伯特曲线的相邻各段是彼此垂直的，但长度并不相同。
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=3.5in]{images/hilbert.png}
+\caption{希尔伯特曲线}
+\end{figure}
+
+我们将会看到在双曲空间里，有一种美妙的结果，围绕着 H-树 的某种一笔画展开，将会填充整个空间，而且相邻各段是彼此垂直的。
+这种双曲空间里填充方式和一种称为超现实数的特殊构造联系在一起。
+
+\newpage
+
 \subsection{超现实数}
+
+超现实数按照生成树的先序遍历是严格从小到大的。超现实数是一种序和代数的结构，有非常强大的序关系。
 
 \begin{figure}[ht]
 \centering
 \begin{tikzpicture}
-    \draw (0, 0) node[inner sep=0] {\includegraphics[width=4in]{images/surreal.png}};
+    \draw (0, 0) node[inner sep=0] {\includegraphics[width=3in]{images/surreal.png}};
 \end{tikzpicture}
 \caption{超现实数的生成树}
 \end{figure}
 
-Surreal数按照生成树的先序遍历是严格从小到大的。超现实数是一种序和代数的结构，有非常强大的序关系。
+我们把超现实数的有理数前面的部分写出来。
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+    \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/tree.png}};
+\end{tikzpicture}
+\caption{超现实数的有理数部分}
+\end{figure}
 
 \newpage
 
@@ -656,6 +695,20 @@ Surreal数按照生成树的先序遍历是严格从小到大的。超现实数�
 
 上面的构造过程蕴含了共形嵌入的证明思路，在此我们给出严格的证明。
 
+\subsection{证明的主体}
+
+\subsection{推论：黎曼共形映射定理}
+
+核心的几何想法：
+
+复平面上的任意闭曲线 $C$，我们可以构造一个圆盘包含它，然后把圆盘视为庞加莱圆盘。
+
+这时候超现实数嵌入在这个庞加莱圆盘里，我们有先序遍历超现实数的得到的一条路径，它类似平面上的希尔伯特曲线，不妨也命名为 $H$。
+
+我们考察闭曲线和曲线 $H$ 的交点，我们沿着希尔伯特曲线的奇数步（或者偶数步）的这些折线向外展开，就能把交点送到无穷远。
+
+注意到$H$上，所有奇数步的线都是彼此平行的（非常可能是等值线），它们能把 $C$ 自然地光滑映射到庞加莱圆盘的边缘。
+
 \newpage
 
 \section{环与扩域的想法}
@@ -693,8 +746,6 @@ $n$ 自己可以构成域，$n$ 与 $q$ 的组合能生成域吗？$n$ 与 $p$�
 1、初等数学：用函数式的观点，理解计算流动过程，重新考察初等几何、线性代数、微积分和微分方程等。比如圆是什么？线性是非常值得考察的。
 
 2、计算理论：Chaitin 常数 $\Omega$ 的几何位置在哪里？
-
-3、复变函数：庞加莱圆盘可以看成复平面上的单位圆盘，黎曼共形映射定理，直觉上，应该会有一个非常简洁的证明。
 
 4、优化与变分：重新考察优化与变分，前传、后传。重要的是，大自然本身是优化过程，拉氏量的最小化。
 
