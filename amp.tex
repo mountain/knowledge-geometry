@@ -2,8 +2,6 @@
 \usepackage{datetime}
 \usepackage{amsmath, amsthm, amssymb}
 \usepackage[dvipsnames]{xcolor}
-\usepackage{tikz} % 添加绘图
-\usepackage{tabularx}
 \usepackage{enumitem}
 \usepackage{fancyref}
 
@@ -130,8 +128,6 @@
 \end{itemize}
 \end{grammar}
 
-初始操作数有 0 和 1 两个选择，大家可能会对此有一定的疑问。初始操作数 1 的引入主要是为了在求得最简表示时消除一些特定的例子。
-
 
 \subsection{操作序列的逆}
 
@@ -159,6 +155,15 @@ $$\alpha = \beta a_n^{-1} a_{n-1}^{-1} ... a_2^{-1} a_1^{-1}$$
 \qedhere
 
 \end{proof}
+
+稍微扩展一下语法，我们允许任何有理数出现在操作数的位置上，于是有几个计算的例子，作为事实在后面的论证中会发挥作用：
+
+\begin{itemize}
+\item $0(bww)^\infty = \frac{1}{3}$
+\item $\frac{1}{3}(wdwb)^\infty = \frac{1}{2}$
+\item $\frac{1}{2}(wdwb)^\infty = \frac{2}{3}$
+\item $\frac{2}{3}(bw)^\infty = 1$
+\end{itemize}
 
 \newpage
 
@@ -233,6 +238,12 @@ Logo 是一种程序设计语言，并以它的绘图执行环境而闻名。Log
 \label{B}
 对于任意一条镶嵌结构上的测地线，镶嵌结构上的其他测地线可以被归类到与之平行或垂直的两组之中。
 \end{proposition}
+
+\newpage
+
+\subsection{双曲几何}
+
+什么是在无穷远处彼此垂直？
 
 \newpage
 
@@ -381,8 +392,7 @@ H-树的构造
 \caption{希尔伯特曲线}
 \end{figure}
 
-我们将会看到在双曲空间里，有一种美妙的结果，围绕着 H-树 的某种一笔画展开，将会填充整个空间，而且相邻各段是彼此垂直的。
-这种双曲空间里填充方式和一种称为超现实数的特殊构造联系在一起。
+下面我们把希尔伯特曲线这种空间填充方式和一种称为超现实数的特殊构造联系在一起。
 
 \newpage
 
@@ -410,6 +420,12 @@ H-树的构造
 
 \newpage
 
+\subsection{超现实数局部几何化}
+
+结合希尔伯特曲线重新理解超现实数。
+
+\newpage
+
 \section{加乘树 $\mathfrak{K}$}
 
 一个基本的想法是，我们能否探索计算的过程，而不仅仅限于计算的结果。
@@ -432,6 +448,20 @@ H-树的构造
 因为加乘树像万花筒（Kaleidoscope）一样可以看到非常多的数学对象，我们把加乘树的系统用记号 $\mathfrak{K}$ 代表。
 
 \newpage
+
+\section{循环推证的想法}
+
+目前能看到的
+
+推证一：加乘树、黎曼共形映射定理 $\Rightarrow$ 局部希尔伯特填充
+推证二：全局的希尔伯特填充 $\Rightarrow$ 黎曼共形映射定理
+
+嵌入超现实数的想法需要和无穷远点的垂直联系起来，注定是个不平凡的东西。
+
+需要整理成一个循环推证。
+
+\newpage
+
 
 \section{嵌入超现实数的想法}
 
@@ -543,6 +573,20 @@ H-树的构造
 我们考察闭曲线和曲线 $H$ 的交点，我们沿着希尔伯特曲线的奇数步（或者偶数步）的这些折线向外展开，就能把交点送到无穷远。
 
 注意到$H$上，所有奇数步的线都是彼此平行的（非常可能是等值线），它们能把 $C$ 自然地光滑映射到庞加莱圆盘的边缘。
+
+\begin{figure} \centering
+\begin{tikzpicture}[
+        every node/.style={anchor=south west,inner sep=0pt},
+        x=1mm, y=1mm,
+      ]
+     \node (fig1) at (0, 0)
+       {\includegraphics[width=6in]{i24.png}};
+     \node (fig2) at (0, 0)
+       {\includegraphics[width=6in]{i42.png}};
+\end{tikzpicture}
+\caption{Using Tikz Overlay}
+\end{figure}
+
 
 \newpage
 
