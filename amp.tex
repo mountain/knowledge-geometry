@@ -198,7 +198,7 @@ Logo 是一种程序设计语言，并以它的绘图执行环境而闻名。Log
 \caption{绘图海龟的基本概念}
 \end{figure}
 
-许多分形构造或者镶嵌构造可以非常方便的通过一种支持裂解操作的 Logo 语言来实现。我们放宽原始 Logo 语言里的设定，
+许多分形构造或者铺嵌构造可以非常方便的通过一种支持裂解操作的 Logo 语言来实现。我们放宽原始 Logo 语言里的设定，
 允许在画布上有多个海龟的存在，并且每个海龟单独维护自己的步长标准。于是，所谓的裂解是指一个操作，
 它可以让一个海龟变成按照一定角度排布的多个海龟，同时新生成的海龟有新的步长设定。对于角度的排布，我们规定前进方向右侧转向是正的方向。
 
@@ -211,21 +211,33 @@ Logo 是一种程序设计语言，并以它的绘图执行环境而闻名。Log
 
 \newpage
 
-\subsection{四阶无限边形镶嵌}
+\section{双曲几何}
 
-双曲平面上有许多非常有趣的镶嵌结构，这里我们展示一种称为四阶无限边形镶嵌的构造。
-（调查清楚：四阶无限边形镶嵌需要一个特定的曲率？）
+本节我们介绍
+
+\subsection{庞加莱圆盘模型}
+
+\subsection{理想点、理想三角形}
+
+\subsection{极限圆}
+
+\newpage
+
+\section{四阶无限边形铺嵌}
+
+双曲平面上有许多非常有趣的铺嵌结构，这里我们展示一种称为四阶无限边形铺嵌的构造。
+（调查清楚：四阶无限边形铺嵌需要一个特定的曲率？）
 
 \begin{figure}[ht]
 \centering
 \includegraphics[width=3.5in]{images/H2_tiling_24i-1.png}
-\caption{四阶无限边形镶嵌}
+\caption{四阶无限边形铺嵌}
 \end{figure}
 
-这个镶嵌结构的构造程序如下
+这个铺嵌结构的构造程序如下
 
 \begin{program}
-四阶无限边形镶嵌的构造一
+四阶无限边形铺嵌的构造一
 \begin{itemize}
 \item 裂解[0, +90, +180, +270; 1]
 \item 对所有的小海龟，反复无限次的执行下述命令
@@ -238,30 +250,24 @@ Logo 是一种程序设计语言，并以它的绘图执行环境而闻名。Log
 
 \begin{proposition}
 \label{A}
-镶嵌结构上的两条测地线如果彼此之间相交，那么它们就是垂直的；否则这两条测地线就是平行的。
+铺嵌结构上的两条测地线如果彼此之间相交，那么它们就是垂直的；否则这两条测地线就是平行的。
 \end{proposition}
 
 \begin{proposition}
 \label{B}
-对于任意一条镶嵌结构上的测地线，镶嵌结构上的其他测地线可以被归类到与之平行或垂直的两组之中。
+对于任意一条铺嵌结构上的测地线，铺嵌结构上的其他测地线可以被归类到与之平行或垂直的两组之中。
 \end{proposition}
 
 \newpage
 
-\subsection{双曲几何}
-
-什么是在无穷远处彼此垂直？
-
-\newpage
-
-\subsection{镶嵌的其他方面}
+\subsection{铺嵌的其他方面}
 
 \subsubsection{测地线 $\gamma$ 的六个无穷远点}
 
-给到四阶无限边形镶嵌的上任意一条测地线 $\gamma$ 和其上的一点 $O$，非常直观的就会发现，
+给到四阶无限边形铺嵌的上任意一条测地线 $\gamma$ 和其上的一点 $O$，非常直观的就会发现，
 点 $O$ 旁边还有两条临近的测地线 $\alpha$ 和 $\beta$。三条测地线$\alpha$、$\beta$、$\gamma$分割出来六个区域，
 对应有六个特殊的无穷远点。这六个特殊的无穷远点在庞加莱圆盘的视觉效果上有特殊的地方，
-是镶嵌的树结构不同枝在无穷远处的视觉上的切触点，如下图所示：
+是铺嵌的树结构不同枝在无穷远处的视觉上的切触点，如下图所示：
 
 \begin{figure}[ht]
 \centering
@@ -367,9 +373,28 @@ Logo 是一种程序设计语言，并以它的绘图执行环境而闻名。Log
 
 \newpage
 
+\subsection{铺嵌的对偶}
+
+%\begin{figure} \centering
+%\begin{tikzpicture}[
+%        every node/.style={anchor=south west,inner sep=0pt},
+%        x=1mm, y=1mm,
+%      ]
+%     \node (fig1) at (0, 0)
+%       {\includegraphics[width=6in]{i24.png}};
+%     \node (fig2) at (0, 0)
+%       {\includegraphics[width=6in]{i42.png}};
+%\end{tikzpicture}
+%\caption{对偶}
+%\end{figure}
+
+两个对偶为什么不是几何上完全对称？是计算误差还是其他原因。
+
+\newpage
+
 \subsection{H-树}
 
-H-树是如下图所示的分形构造。四阶无限边形镶嵌按照一定规则剪枝，拓扑上可以得到H-树。
+H-树是如下图所示的分形构造。四阶无限边形铺嵌按照一定规则剪枝，拓扑上可以得到H-树。
 
 \begin{figure}[ht]
 \centering
@@ -389,7 +414,7 @@ H-树的构造
 
 \newpage
 
-\subsection{希尔伯特曲线}
+\section{希尔伯特曲线}
 
 希尔伯特曲线是另外一种分形构造，可以理解成是围绕着 $\Pi$ 的某种一笔画展开。希尔伯特曲线的相邻各段是彼此垂直的，但长度并不相同。
 
@@ -403,7 +428,7 @@ H-树的构造
 
 \newpage
 
-\subsection{超现实数}
+\section{超现实数}
 
 超现实数按照生成树的先序遍历是严格从小到大的。超现实数是一种序和代数的结构，有非常强大的序关系。
 
@@ -430,25 +455,6 @@ H-树的构造
 \subsection{超现实数局部几何化}
 
 结合希尔伯特曲线重新理解超现实数。
-
-\newpage
-
-\subsection{镶嵌的对偶}
-
-\begin{figure} \centering
-\begin{tikzpicture}[
-        every node/.style={anchor=south west,inner sep=0pt},
-        x=1mm, y=1mm,
-      ]
-     \node (fig1) at (0, 0)
-       {\includegraphics[width=6in]{i24.png}};
-     \node (fig2) at (0, 0)
-       {\includegraphics[width=6in]{i42.png}};
-\end{tikzpicture}
-\caption{对偶}
-\end{figure}
-
-两个对偶为什么不是几何上完全对称？是计算误差还是其他原因。
 
 \newpage
 
