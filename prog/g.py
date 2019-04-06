@@ -33,7 +33,7 @@ def unit(vector):
 #    while sum([Fraction(1, x) for x in pqr]) >= 1:
 #        pqr.pop()
 
-pqr = [4, 2]
+pqr = [3, 3]
 
 
 filestem = "i42"
