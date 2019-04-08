@@ -12,6 +12,7 @@
 \newcommand{\specialcell}[2][c]{%
   \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
 
+\newtheorem{definition}{定义}
 \newtheorem{lemma}{引理}
 \newtheorem{proposition}{命题}
 \newtheorem{grammar}{文法}
@@ -216,6 +217,31 @@ Logo 是一种程序设计语言，并以它的绘图执行环境而闻名。Log
 结合几个材料的内容，本节我们介绍需要的双曲几何知识。
 
 \subsection{反演变换}
+
+给定平面 $\Pi$ 上一个圆 $\Phi$ 和圆外一点 $P$ ，可依次作直角三角形 $\bigtriangleup P N O$ 和 $\bigtriangleup N P^\prime O$ 。
+如果圆 $\Phi$ 的半径是 $R$，不难推证：
+
+\begin{equation} \label{e1}
+|OP| \cdot |OP^\prime| = R^2
+\end{equation}
+
+\begin{definition}
+\label{d1}
+我们称映射 $\eta: P^\prime \mapsto P$ 为一个反演映射（inverse map），当且仅当它满足 \ref{e1} 式。
+\end{definition}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=3.5in]{images/inversion_in_circle.png}
+\caption{反演变换下互逆的两个点}
+\end{figure}
+
+易见 $\eta$ 和 $\eta^-1$ 同为反演映射。圆 $\Phi$ 是映射 $\eta$ 的不变子集，点 $O$ 被映射到无穷远，
+所以可以引入无穷远点 $\infty$ 使得 $\eta$ 在 $\Pi \cup \{\infty\}$ 上成为双射。
+
+反演变换是保角变换。
+
+\newpage
 
 \subsection{庞加莱圆盘模型}
 
