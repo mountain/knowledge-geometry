@@ -255,8 +255,9 @@ $$\eta = \frac{1}{z}$$
 
 \subsection{庞加莱圆盘模型}
 
-庞加莱圆盘是 2 维双曲几何 $H^2$ 的一种模型。我们考虑欧氏平面上的一个圆盘 $D$ ，我们在原来欧氏几何的基础上， 引入一种新的几何：
-我们把边界 $\partial D$ 定义为无穷远，同时把垂直于 $\partial D$ 的圆弧（弧的两端都垂直于 $\partial D$）定义为新的几何上的直线。
+庞加莱圆盘是 2 维双曲几何 $H^2$ 的一种模型。考虑欧氏平面上的一个圆盘 $D$ ，我们记 $\partial D$ 为 $D$ 的边界，
+$D^o$ 为 $D$ 的内部。然后，我们在原来欧氏几何的基础上， 引入一种新的几何：
+把边界 $\partial D$ 定义为无穷远，同时把垂直于 $\partial D$ 的圆弧（弧的两端都垂直于 $\partial D$）定义为新的几何上的直线（测地线）。
 
 \begin{figure}[ht]
 \centering
@@ -265,12 +266,27 @@ $$\eta = \frac{1}{z}$$
     \draw (+2.0, +1.0) node[inner sep=1pt] (p) {$P$};
     \draw (+0.0, -1.0) node[inner sep=1pt] (l) {$L$};
 \end{tikzpicture}
-\caption{过一点 P 与直线 L 平行的所有直线}
+\caption{过一点 P 与直线 L 平行的和非交的直线}
 \end{figure}
 
-在此基础上，我们可以引入新的几何上的直线间的平行关系。
+在此基础上，我们可以引入新的几何上的直线间的关系。
 
-新的几何上的直线间的垂直关系。
+\begin{definition}
+\label{d2}
+我们称两条直线$m$、$n$是：
+\begin{itemize}
+\item 相交的，当且仅当 $ m \cap n \neq \emptyset $ 且 $ m \cap n \subset D^o $；
+\item 平行的，当且仅当 $ m \cap n \neq \emptyset $ 且 $  m \cap n \subset \partial D $；
+\item 非交的，当且仅当 $ m \cap n = \emptyset $；
+\end{itemize}
+\end{definition}
+
+如上图，过直线 $L$ 外一点 $P$ 与 $L$ 平行的直线有两条，与 $L$ 非交的直线有无数条。
+这个事实是双曲几何不同于欧氏几何的地方。
+
+\newpage
+
+\subsection{距离}
 
 我们可以定义庞加莱圆盘上的距离。
 
@@ -278,15 +294,25 @@ $$\eta = \frac{1}{z}$$
 
 \subsection{角度、平行与垂直}
 
-\subsection{理想点、理想三角形}
+\newpage
+
+\subsection{三角形}
+
+\newpage
+
+\subsection{理想三角形}
+
+\newpage
+
+\subsection{圆}
+
+\newpage
 
 \subsection{极限圆}
 
+\newpage
+
 \subsection{沿平行线推移}
-
-\subsection{微分构造、距离构造、保角的构造？}
-
-让我们回到基本的自己的问题，一步步踏实的走出来。
 
 \newpage
 
