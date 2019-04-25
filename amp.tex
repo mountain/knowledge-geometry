@@ -253,7 +253,13 @@ $$\eta = \frac{1}{z}$$
 
 \newpage
 
-\subsection{庞加莱圆盘模型}
+\subsection{交比}
+\newpage
+
+\subsection{默比乌斯变换}
+\newpage
+
+\subsection{庞加莱圆盘}
 
 庞加莱圆盘是 2 维双曲几何 $H^2$ 的一种模型。考虑欧氏平面上的一个圆盘 $D$ ，我们记 $\partial D$ 为 $D$ 的边界，
 $D^o$ 为 $D$ 的内部。然后，我们在原来欧氏几何的基础上， 引入一种新的几何：
@@ -288,7 +294,30 @@ $D^o$ 为 $D$ 的内部。然后，我们在原来欧氏几何的基础上， �
 
 \subsection{距离}
 
-我们可以定义庞加莱圆盘上的距离。
+下面我们引入庞加莱圆盘上的距离函数。距离函数 $d(p, q)$ 给出了庞加莱圆盘上两点 $p$、$q$ 之间的距离。
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+    \draw [red, thick]
+          (0.00, 0.00) arc (-180.0:+180.0:4.50);
+    \draw [black, thick]
+          (+2.50, -4.05) arc (-37.0:+44.0:6.00);
+    \draw (+2.50, -4.55) node[inner sep=1pt] (a) {$a$};
+    \draw (+2.50, -4.05) node[inner sep=1pt] (a_) {$\bullet$};
+    \draw (+3.20, -1.00) node[inner sep=1pt] (p) {$p$};
+    \draw (+3.70, -1.00) node[inner sep=1pt] (p_) {$\bullet$};
+    \draw (+3.90, +1.20) node[inner sep=1pt] (q) {$q$};
+    \draw (+3.50, +1.20) node[inner sep=1pt] (q_) {$\bullet$};
+    \draw (+1.90, +4.20) node[inner sep=1pt] (b) {$b$};
+    \draw (+2.00, +3.75) node[inner sep=1pt] (b_) {$\bullet$};
+\end{tikzpicture}
+\caption{通过交比引入距离}
+\end{figure}
+
+如上图，我们可以通过交比引入距离：
+
+$$d(p,q)= \log \frac{ \left| aq \right| \, \left| pb \right| }{ \left| ap \right| \, \left| qb \right| }$$
 
 \newpage
 
@@ -377,7 +406,6 @@ $D^o$ 为 $D$ 的内部。然后，我们在原来欧氏几何的基础上， �
     \draw (-2.69, -7.89) node[inner sep=1pt] (p_4) {$\infty_4$};
     \draw (+8.38, +0.55) node[inner sep=1pt] (p_5) {$\infty_5$};
     \draw (+6.63, +4.75) node[inner sep=1pt] (p_6) {$\infty_6$};
-
 \end{tikzpicture}
 \caption{六个特殊的无穷远点}
 \end{figure}
