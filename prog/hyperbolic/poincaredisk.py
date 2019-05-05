@@ -1,10 +1,12 @@
 # -*- coding: utf-8 -*-
 
-import math
 import numpy as np
 import matplotlib.pyplot as plt
 
 from numpy import linalg as la
+
+
+total = 10000
 
 
 class PoincareDisk:
@@ -88,7 +90,7 @@ class Boundary:
 
     def __init__(self):
         self.kind = 'boundary'
-        self.t = np.linspace(0, 2 * np.pi, 3000)
+        self.t = np.linspace(0, 2 * np.pi, total)
         self.x = np.cos(self.t)
         self.y = np.sin(self.t)
 
@@ -160,9 +162,9 @@ class Line:
         self.centerx = centerx
         self.centery = centery
         self.radius = radius
-        if self.radius > 3000:
-            self.radius = 3000
-        self.t = np.linspace(0, 2 * np.pi, 3000 * self.radius)
+        if self.radius > 1000:
+            self.radius = 1000
+        self.t = np.linspace(0, 2 * np.pi, total * self.radius)
         self.x = self.centerx + self.radius * np.cos(self.t)
         self.y = self.centery + self.radius * np.sin(self.t)
         self.r = self.x ** 2 + self.y ** 2
@@ -183,7 +185,7 @@ class Line:
         mn = np.inf
         s = None
         theta = np.arctan2(self.centerx, self.centery)
-        for alpha in np.linspace(-np.pi, np.pi, 3000):
+        for alpha in np.linspace(-np.pi, np.pi, total):
             x = np.cos(alpha + theta)
             y = np.sin(alpha + theta)
             r = Point(x, y)
@@ -199,4 +201,5 @@ class Line:
 
     def points(self):
         for x, y in zip(self.x, self.y):
-            yield Point(x, y, visible=False)
+            if x != 0 or y != 0:
+                yield Point(x, y, visible=False)
