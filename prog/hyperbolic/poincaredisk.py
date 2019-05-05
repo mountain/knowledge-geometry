@@ -88,7 +88,7 @@ class Boundary:
 
     def __init__(self):
         self.kind = 'boundary'
-        self.t = np.linspace(0, 2 * np.pi, 1000)
+        self.t = np.linspace(0, 2 * np.pi, 3000)
         self.x = np.cos(self.t)
         self.y = np.sin(self.t)
 
@@ -136,31 +136,33 @@ class Line:
         centerx = 0.0
         centery = 0.0
         radius = 1.0
-        if u.kind == 'point' and v.kind == 'point':
-            ux = np.array(u.x)
-            uy = np.array(u.y)
-            vx = np.array(v.x)
-            vy = np.array(v.y)
-            a = (uy * (vx * vx + vy * vy) - vy * (ux * ux + uy * uy) + uy - vy) / (2 * (ux * vy - uy * vx))
-            b = (vx * (uy * uy + ux * ux) - ux * (vy * vy + vx * vx) + vx - ux) / (2 * (ux * vy - uy * vx))
-            centerx = -a
-            centery = -b
-            radius = math.sqrt(a * a + b * b - 1)
-            self.qform = np.array([[1, 0, a],
-                                   [0, 1, b],
-                                   [a, b, 1]])
-            self.det = la.det(self.qform)
-            self.eigvals, self.eigvecs = la.eig(self.qform)
 
-        if u.kind == 'line' and v.kind == 'point':
-            pass
+        if u is not None and v is not None:
+            if u.kind == 'point' and v.kind == 'point':
+                ux = np.array(u.x)
+                uy = np.array(u.y)
+                vx = np.array(v.x)
+                vy = np.array(v.y)
+                a = np.sum((uy * (vx * vx + vy * vy) - vy * (ux * ux + uy * uy) + uy - vy) / (2 * (ux * vy - uy * vx)))
+                b = np.sum((vx * (uy * uy + ux * ux) - ux * (vy * vy + vx * vx) + vx - ux) / (2 * (ux * vy - uy * vx)))
+                centerx = -a
+                centery = -b
+                radius = np.sqrt(a * a + b * b - 1)
+                self.qform = np.array([[1, 0, a],
+                                       [0, 1, b],
+                                       [a, b, 1]])
+                self.det = la.det(self.qform)
+                self.eigvals, self.eigvecs = la.eig(self.qform)
+
+            if u.kind == 'line' and v.kind == 'point':
+                pass
 
         self.centerx = centerx
         self.centery = centery
         self.radius = radius
-        if self.radius > 1000:
-            self.radius = 1000
-        self.t = np.linspace(0, 2 * np.pi, 1000 * self.radius)
+        if self.radius > 3000:
+            self.radius = 3000
+        self.t = np.linspace(0, 2 * np.pi, 3000 * self.radius)
         self.x = self.centerx + self.radius * np.cos(self.t)
         self.y = self.centery + self.radius * np.sin(self.t)
         self.r = self.x ** 2 + self.y ** 2
@@ -178,10 +180,10 @@ class Line:
         ux = p.x - self.centerx
         uy = p.y - self.centery
 
-        mn = 1
+        mn = np.inf
         s = None
         theta = np.arctan2(self.centerx, self.centery)
-        for alpha in np.linspace(-np.pi, np.pi, 1000):
+        for alpha in np.linspace(-np.pi, np.pi, 3000):
             x = np.cos(alpha + theta)
             y = np.sin(alpha + theta)
             r = Point(x, y)
@@ -193,11 +195,8 @@ class Line:
                 mn = test
                 s = r
 
-        print("** %f" % mn)
-
         return Line(p, s, visible=True)
 
     def points(self):
         for x, y in zip(self.x, self.y):
-            if x != 0 and y != 0:
-                yield Point(x, y, visible=False)
+            yield Point(x, y, visible=False)

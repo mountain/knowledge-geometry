@@ -1,61 +1,37 @@
 # -*- coding: utf-8 -*-
 
 import numpy as np
-
 import hyperbolic.poincaredisk as disk
 
+
 pd = disk.instance
-
+s = np.sin([np.pi / 7])[0]
+c = np.cos([np.pi / 7])[0]
 o = pd.mkPoint(0, 0)
+p = pd.mkPoint(c, s)
+n = pd.mkPoint(0, -1)
+h = pd.mkLine(p, n, color='green', linestyle='', marker=',')
+flag = True
 
-ratio = 2
-limit = 4
 
-xs = []
+def find(p, dirct, length, limit):
+    global flag
+    for q in dirct.points():
+        check = np.abs([pd.distanceBetween(p, q) - length])
+        if flag and np.all(check > limit):
+            yield q
+            flag = False
+        elif not flag and np.all(check < limit):
+            yield q
+            flag = True
 
-for x in np.linspace(0.00001, 0.99999, 1000):
-    p = pd.mkPoint(x, 0)
-    d = pd.distanceBetween(p, o) / ratio
-    if d < 0.5 + limit:
-        if d - 0.5 >= len(xs):
-            xs.append(x)
 
-for x in xs:
-    print(x)
-    p = pd.mkPoint(x, 1 - x)
-    q = pd.mkPoint(x, x - 1)
-    r = pd.mkPoint(-x, 1 - x)
-    s = pd.mkPoint(-x, x - 1)
+def gen(depth, start, dirct):
+    if depth < 2:
+        for point in find(start, dirct, np.e, 0.03):
+            pd.mkLine(start, point, color='green', linestyle='', marker=',')
+            gen(depth + 1, point, dirct.perpendicularAt(point))
 
-    ys = []
-    zs = []
-    vertical = pd.mkLine(p, q, color='green', linestyle='', marker=',')
-    for t in vertical.points():
-        d = pd.distanceBetween(t, o) / ratio
-        print("* %f" % d)
-        if limit - d > len(ys):
-            horizatal = vertical.perpendicularAt(t)
-            horizatal.plot(pd, color='red', linestyle='', marker=',')
-            ys.append(horizatal)
-        if len(ys) == limit:
-            if limit - d > len(zs):
-                horizatal = vertical.perpendicularAt(t)
-                horizatal.plot(pd, color='red', linestyle='', marker=',')
-                zs.append(horizatal)
 
-    ys = []
-    vertical = pd.mkLine(r, s, color='blue', linestyle='', marker=',')
-    for t in vertical.points():
-        d = pd.distanceBetween(t, o) / ratio
-        print("* %f" % d)
-        if limit - d > len(ys):
-            horizatal = vertical.perpendicularAt(t)
-            horizatal.plot(pd, color='red', linestyle='', marker=',')
-            ys.append(horizatal)
-        if len(ys) == limit:
-            if limit - d > len(zs):
-                horizatal = vertical.perpendicularAt(t)
-                horizatal.plot(pd, color='red', linestyle='', marker=',')
-                zs.append(horizatal)
-
+gen(0, o, h)
 pd.show(block=True)
