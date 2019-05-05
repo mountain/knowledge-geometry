@@ -35,8 +35,8 @@ def find(p, dirct, length, limit):
 
 
 def gen(depth, start, dirct):
-    if depth < 4:
-        for point in find(start, dirct, 1.7, 0.01):
+    if depth < 10:
+        for point in find(start, dirct, 1.29128599706266354040, 0.006):
             pd.mkLine(start, point, color='green', linestyle='', marker=',')
             gen(depth + 1, point, dirct.perpendicularAt(point))
 
