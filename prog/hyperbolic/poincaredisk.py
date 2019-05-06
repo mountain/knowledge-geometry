@@ -159,11 +159,15 @@ class Line:
             if u.kind == 'line' and v.kind == 'point':
                 pass
 
-        self.centerx = centerx
-        self.centery = centery
-        self.radius = radius
-        if self.radius > 1000:
-            self.radius = 1000
+            if u.kind == 'line' and v.kind == 'line':
+                pass
+
+            self.centerx = centerx
+            self.centery = centery
+            self.radius = radius
+            if self.radius > 1000:
+                self.radius = 1000
+
         self.t = np.linspace(0, 2 * np.pi, total * self.radius)
         self.x = self.centerx + self.radius * np.cos(self.t)
         self.y = self.centery + self.radius * np.sin(self.t)
