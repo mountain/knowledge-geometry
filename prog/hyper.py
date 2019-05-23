@@ -2,6 +2,10 @@
 
 import numpy as np
 import hyperbolic.poincaredisk as disk
+import matplotlib.pyplot as plt
+
+
+cmap = plt.get_cmap('tab10')
 
 
 pd = disk.instance
@@ -12,7 +16,7 @@ c = np.cos([phi])[0]
 
 p = pd.mkPoint(c, s)
 n = pd.mkPoint(0, -1)
-h = pd.mkLine(p, n, color='green', linestyle='', marker=',')
+h = pd.mkLine(p, n, color='red', linestyle='', marker=',')
 l = list(h.points())
 o = l[len(l) // 2]
 
@@ -35,9 +39,9 @@ def find(p, dirct, length, limit):
 
 
 def gen(depth, start, dirct):
-    if depth < 7:
-        for point in find(start, dirct, 1.297, 0.006):
-            pd.mkLine(start, point, color='green', linestyle='', marker=',')
+    if depth < 10:
+        for point in find(start, dirct, 1.648, 0.008):
+            pd.mkLine(start, point, color=cmap(depth), linestyle='', marker=',')
             gen(depth + 1, point, dirct.perpendicularAt(point))
 
 

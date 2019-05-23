@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from numpy import linalg as la
 
 
-total = 3000
+total = 5120
 
 
 class PoincareDisk:
