@@ -1,0 +1,1374 @@
+﻿The Project Gutenberg EBook of Experiments and Observations Tending to
+Illustrate the Nature and Properties of Electricity, by William Watson
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Experiments and Observations Tending to Illustrate the Nature and Properties of Electricity
+       In One Letter to Martin Folkes, Esq; President, and Two
+       to the Royal Society
+
+Author: William Watson
+
+Release Date: July 1, 2014 [EBook #46168]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK EXPERIMENTS, OBSERVATIONS ON ELECTRICITY ***
+
+
+
+
+Produced by The Online Distributed Proofreading Team at
+http://www.pgdp.net (This file was produced from images
+generously made available by The Internet Archive)
+
+
+
+
+
+
+                              EXPERIMENTS
+                                  AND
+                              OBSERVATIONS
+
+                       TENDING TO ILLUSTRATE THE
+                                 NATURE
+                                  AND
+                               PROPERTIES
+                                   OF
+                              ELECTRICITY.
+
+           In one LETTER to _Martin Folkes_, Esq; President,
+                    and Two to the _Royal Society_.
+
+
+                     By _WILLIAM WATSON_, F. R. S.
+
+
+                               _LONDON_:
+
+              Printed for C. DAVIS, Printer to the _Royal
+                Society_, against _Gray's-Inn, Holborn_.
+
+                               MDCCXLVI.
+
+                         [Price One Shilling.]
+
+
+
+
+                                  THE
+                                PREFACE.
+
+
+_The following Sheets were not intended to be made publick, but as part
+of the Philosophical Transactions. As those Works are printed in the
+order of Time they are read; these Observations, communicated to the_
+ROYAL SOCIETY _at different Meetings, would, upon that Account, have
+been publish'd separate in different Numbers of those Transactions. To
+satisfy therefore the Impatience of several learned and very valuable
+Friends, to whose Importunities I have neither Will, nor Inclination to
+deny any thing in my Power to grant, I caused a few Copies to be
+printed, that the whole might be seen together, and then broke up the
+Press. This has excited the Curiosity of the Publick, and raised a
+Demand for these Experiments much beyond what I had reason to expect. I
+therefore found it necessary to send them to the Press a second Time,
+lest some of those over-officious Gentlemen, who are always ready on
+these Occasions, should do it for me; so that whoever has an
+Inclination, may now be made acquainted, by what Means the several
+surprizing Phænomena of Electricity have been brought about._
+
+_I chose to lay these Papers before the Publick in the same Dress
+wherein they appeared before the very honourable and learned Body, to
+whom, as the various Effects of Electricity presented themselves, they
+were regularly communicated, and from whom they met with a very
+favourable Reception. Many Members of the_ ROYAL SOCIETY, _as well as
+several other Persons of great Rank and Quality, have been repeated
+Witnesses of the Facts which are here laid before the World;
+particularly the present worthy President_, MARTIN FOLKES, Esq; _whose
+extensive Abilities and great Knowledge in every Branch of useful
+Literature are exceeded only by his Candour and Zeal in promoting
+Science. The Advice and Assistance of this Gentleman, whose Friendship I
+shall always esteem as one of the greatest Happinesses of my Life, has
+been of great Moment in the Prosecution of these Discoveries. I
+therefore take this publick Manner of testifying my sincerest
+Obligations as well to him, as to Sir_ HANS SLOANE, Bart. _who, although
+retired from Business, is nevertheless attentive to whatever tends to
+the Advancement of Philosophy. Upon a Report made to him of these
+Experiments and Observations, he, as surviving Executor of Sir_ GODFREY
+COPLEY, _was pleased to appoint me last Year to receive the annual
+Prize-medal of Gold, given by the_ ROYAL SOCIETY _in consequence of Sir_
+GODFREY'S _Benefaction. The Honour of being so particularly taken notice
+of by Gentlemen of such distinguished Merit, as it cannot but give me
+the highest Pleasure, so shall it ever continue to raise in me
+Sentiments of the truest Gratitude, and most profound Respect._
+
+_IF it should be asked, to what useful Purposes the Effects of
+Electricity can be applied, it may be answered, that we are not as yet
+so far advanced in these Discoveries as to render them conducive to the
+Service of Mankind. Perfection in any Branch of Philosophy is to be
+attained but by slow Gradations. It is our Duty to be still going
+forward; the rest we must leave to the Direction of that Providence,
+which we know assuredly, has created nothing in vain. But I make no
+Scruple to assert, that notwithstanding the great Advances, which have
+been made in this part of natural Philosophy within these few Years,
+many and great Properties remain still undiscover'd. Future Philosophers
+(some perhaps even of the present Age) may deduce from electrical
+Experiments, Uses extremely beneficial to Society in general._
+
+_NO present Advantage accrued to those Persons, or to that Age, which
+first discover'd the Properties of the Magnet. Many hundreds of Years
+intervened, before they were applied to the great Uses of Navigation.
+Had these remain'd a secret till now, what other Methods could have been
+substituted in their Place, by which we could securely traverse the vast
+Ocean? All the Advantages we receive from distant Commerce, we must
+still have been Strangers to, but for this fortunate Application of the
+magnetical Power. And even the Discoveries thus far had been very
+imperfect, without the Knowledge of the Variation of the Compass. But
+the present Age, and even this Nation, boasts of a Gentleman[1], who
+seems to be entrusted with the magnetical Powers themselves. He makes
+artificial Magnets, increases in a few Minutes the Powers of real ones
+to a surprizing Degree, changes at Pleasure their Poles, and makes that
+newly acquired Polarity, permanent. The World, I hope, will not long be
+deprived of the Manner, by which these extraordinary Changes are
+produced, which as yet this Gentleman thinks proper to conceal. As
+Electricity has some Properties in common with Magnetism, as will be
+shewn in the Course of these Observations; some new Lights probably may
+be thrown upon both. But to return; admitting even, that no substantial
+Advantages could arise from the Inquiries before us, (which, however, we
+can by no means grant, upon our considering the Effects we already
+perceive of its Operations upon human Bodies) whatever tends to enlarge
+the Conceptions of the Mind, and to implant in us still more lofty Ideas
+of the Almighty Author of Nature, deserves certainly, independent of
+other Considerations, our highest Regard._
+
+_THESE Experiments were all made with Glass Tubes of about two Foot
+long; the bore about an Inch in Diameter. But a scrupulous Exactness in
+these Proportions is no ways necessary. The thinner and lighter these
+Tubes are, the sooner they are excited; though they, 'tis true, don't
+retain their Power so long as those, which are more thick and
+substantial. But where you intend to communicate the electrical Power,
+as fast as you excite it, I should prefer a light Tube; though it ought
+never to be less than 1/12 of an Inch thick, because of the Danger of
+breaking it by the Friction._
+
+_THE Tube, before it is rubbed, should be always made dry and warm,
+which may be done by laying it before the Fire. But I cannot omit
+hereupon making one further Remark_; viz. _that Glass Tubes, exactly of
+the same Dimensions, made at the same Time, and with the same Materials,
+vary considerably with regard to their fitness for electrical Purposes.
+Clear and dry Air with some degree of cold is most eligible, though I
+have succeeded in the greatest Fogs, but with more Difficulty._
+
+
+
+
+                                   TO
+                         _Martin Folkes_, Esq;
+                                P. R. S.
+
+
+  _SIR_,
+
+THE Society having heard from some of their Correspondents in _Germany_,
+that what they call a Vegetable Quintessence had been fired by
+Electricity, I take this Opportunity to acquaint you, that on _Friday_
+Evening last I succeeded, after having been disappointed in many
+Attempts, in setting Spirits of Wine on Fire by that Power. The
+preceding Part of the Week had been remarkably warm, and the Air very
+dry, than which nothing is more necessary towards the Success of
+Electrical Trials; to these I may add, that the Wind was then Easterly
+and inclining to freeze. I that Evening used a glass Sphere as well as a
+Tube; but I always find myself capable of sending forth much more Fire
+from the Tube than from the Sphere, probably from not being sufficiently
+used to the last.
+
+I HAD before observ'd, that although[2] Non-electric Bodies made
+electrical, lose almost all that Electricity by coming either within or
+near the Contact of _Non-electrics_ not made electrical; it happens
+otherwise with Regard to _Electrics per se_, when excited by rubbing,
+patting, _&c_; because from the rubbed Tube I can sometimes procure five
+or six Flashes from different Parts, as though the Tube of two Foot
+long, instead of being one continued Cylinder, consisted of five or six
+separate Segments of Cylinders, each of which gave out its Electricity
+at a different Explosion.
+
+THE Knowledge of this Theorem is of the utmost Consequence towards the
+Success of electrical Experiments; inasmuch as you must endeavour by all
+possible Means to collect the Whole of this Fire at the same Time.
+Professor _Hollman_ seems to have endeavour'd at this and succeeded, by
+having a tin Tube, in one End of which he put a great many Threads,
+whose Extremities touch'd the Sphere when in Motion, and each Thread
+collected a Quantity of electrical Fire, the Whole of which center'd in
+the tin Tube, and went off at the other Extremity. Another Thing to be
+observ'd, is to endeavour to make the Flashes follow each other so fast,
+as that a Second may be visible before the First is extinguish'd. When
+you transmit the electrical Fire along a Sword or other Instrument,
+whose Point is sharp, it often appears as a Number of disseminated
+Sparks, like wet Gunpowder or _Wild-fire_; but if the Instrument has no
+Point, you generally perceive a pure bright Flame, like what is vulgarly
+call'd the _Blue-ball_, which gives the Appearance of Stars to fired
+Rockets.
+
+THE following is the Method I made use of and was happy enough to
+succeed in. I suspended a Poker in silk Lines; at the Handle of which I
+hung several little Bundles of white Thread, the Extremities of which
+were about a Foot at right Angles from the Poker. Among these Threads,
+which were all attracted by the rubbed Tube, I excited the greatest
+electrical Fire I was capable, whilst an Assistant near the End of the
+Poker held in his Hand a Spoon, in which were the warm Spirits. Thus the
+Thread communicated the Electricity to the Poker, and the Spirit was
+fired at the other End. It must be observ'd in this Experiment, that the
+Spoon with the Spirit must not touch the Poker; if it does, the
+Electricity without any flashing is communicated to the Spoon, and to
+the Assistant in whose Hand it is held, and so is lost in the Floor.
+
+By these Means, I fired several Times not only the ætherial Liquor or
+Phlogiston of _Frobenius_ and rectified Spirit of Wine, but even common
+proof Spirit. These Experiments, as I before observ'd, were made last
+_Friday_ Night, the Air being perfectly dry. _Sunday_ proved wet and
+_Monday_ somewhat warm, so that the Air was full of Vapour; Wind
+South-West and cloudy. Under these Disadvantages, on _Monday_ Night I
+attempted again my Experiments; they succeeded, but with infinitely more
+Labour than the preceeding, because of the Unfitness of the Evening for
+such Trials. _Your Candour_ will not permit you to think my Minuteness
+trivial, with Regard to the Circumstances of the Weather, who know, how
+many Things must concur to make these Experiments succeed. I shall wait
+with Impatience for a proper Opportunity to have these Experiments
+repeated in your Presence, and am, with the utmost Respect,
+
+                                              _Sir, your most obedient,_
+                                              _humble Servant_,
+
+                                              W. WATSON.
+
+                                              _Aldersgate-Street,
+                                              March 27. 1746._
+
+
+
+
+                                 TO THE
+                             ROYAL SOCIETY.
+
+
+  GENTLEMEN,
+
+I lately acquainted you, that I had been able to fire Spirit of Wine,
+_Phlogiston_ of _Frobenius_, and common proof Spirit, by the Power of
+Electricity. Since which (till Yesterday) we have had but one very dry
+fine Day; _viz._ _Monday, April 15_. Wind E. N. E.; when about four
+o'Clock in the Afternoon, I got my _Apparatus_ ready, and fired the
+Spirit of Wine four Times from the Poker as before, three Times from the
+Finger of a Person electrified, standing upon a Cake of Wax, and once
+from the Finger of a second Person standing upon Wax, communicating with
+the first by means of a walking Cane held between their Arms extended.
+The horizontal Distance in this Case between the glass Tube and the
+Spirit was at least ten Feet.
+
+YOU all know, that there is the repulsive Power of Electricity, as well
+as the attractive; inasmuch as you are able, when a Feather or such-like
+light Substance is replete with Electricity, to drive it about a Room,
+which Way you please. This repulsive Power continues, until either the
+Tube loses its excited Force, or the Feather attracts the Moisture from
+the Air, or comes near to some non-electric Substance; if so, the
+Feather is attracted by, and its Electricity lost in, whatever
+Non-Electric it comes near. In electrified Bodies, you see a perpetual
+Endeavour to get rid of their Electricity. This induced me to make the
+following Experiment. I placed a Man upon a Cake of Wax, who held in one
+of his Hands a Spoon with the warm Spirits, and in the other a Poker
+with the Thread. I rubbed the Tube amongst the Thread, and electrified
+him as before. I then ordered a Person not electrified to bring his
+Finger near the Middle of the Spoon; upon which, the Flash from the
+Spoon and Spirit was violent enough to fire the Spirit. This Experiment
+I then repeated three Times. In this Method, the Person by whose Finger
+the Spirit of Wine is fired, feels the Stroke much more violent, than
+when the electrical Fire goes from him to the Spoon. This Method for the
+Sake of Distinction, we will call the repulsive Power of Electricity.
+
+THE late Dr. _Desaguliers_ has observed in his excellent Dissertation
+concerning Electricity, "That there is a Sort of Capriciousness
+attending these Experiments, or something unaccountable in their
+Phænomena, not to be reduced to any Rule. For sometimes an Experiment,
+which has been made several Times successively, will all at once fail."
+Now I imagine that the greatest Part, if not the Whole of this Matter,
+depends upon the Moisture or Dryness of the Air, a sudden though slight
+Alteration in which, perhaps not sufficient to be obvious to our
+Faculties, may be perceived by the very subtle Fire of Electricity. For
+
+_1st_, I CONCEIVE, that the Air itself (as has been observed by Dr.
+_Desaguliers_) is an _Electric per se_ and of the vitreous Kind;
+therefore it repels the Electricity arising from the glass Tube, and
+disposes it to electrify whatever non-electrical Bodies receive the
+Effluvia from the Tube.
+
+_2dly_, THAT Water is a _non-Electric_, and of Consequence a Conductor
+of Electricity; this is exemplified by a Jett of Water being attracted
+by the Tube, _from either Electric_'s _per se_ conducting Electricity,
+and _non-Electric_'s more readily when wetted; but what is more to my
+present Purpose, is, that if you only blow through a dry glass Tube, the
+Moisture from your Breath will cause that Tube to be a Conductor of
+Electricity.
+
+THESE being premised; in proportion as the Air is replete with watery
+Vapours, the Electricity arising from the Tube, instead of being
+conducted as proposed, is, by means of these Vapours, communicated to
+the circum-ambient Atmosphere and dissipated as fast as excited.
+
+THIS Theory has been confirmed to me by divers Experiments, but by none
+more remarkably than on the Evening of the Day I made those
+before-mention'd; when the Vapours, which in the Afternoon by the Sun's
+Heat, and a brisk Gale were dissipated, and the Air perfectly dry,
+descended again in great Plenty upon the Absence of both, and the
+Evening was very damp. For between seven and eight o'Clock, I attempted
+again the same Experiments in the same Manner, without being able to
+make any of them succeed; though all those mention'd in this Paper with
+others of less Note, were made in Half an Hour's Time.
+
+I AM the more particular in this, being willing to save the Labour of
+those, who are desirous of making these Kind of Trials; for although
+some of the lesser Experiments may succeed almost at any Time, yet I
+never could find that the more remarkable ones would succeed but in dry
+Weather.
+
+                                                 _I am, Gentlemen,_
+                                                 _Your most obedient,_
+                                                 _humble Servant,_
+                                                 W. WATSON.
+
+                                                 _London, April
+                                                 25. 1745._
+
+[Illustration]
+
+
+
+
+                                 TO THE
+                             ROYAL SOCIETY.
+
+
+  GENTLEMEN,
+
+IN some Papers I lately did myself the Honour to lay before you, I
+acquainted you of some Experiments in Electricity; particularly I took
+notice of having been able to fire Spirit of Wine by what I call'd the
+repulsive Power thereof; which I have not heard had been thought of by
+any of those _German_ Gentlemen, to whom the World is obliged for many
+surprizing Discoveries in this Part of natural Philosophy.
+
+HOW far strictly speaking the Spirit in this Operation may be said to be
+fired by the repulsive Power of Electricity, or how far that Power,
+which repels light Substances when fully impregnated with Electricity,
+fires the Spirit, may probably be the Subject of a future Inquiry; but
+as I am unwilling to introduce more Terms into any Demonstration than
+what are absolutely necessary for the more ready Conception thereof, and
+as inflammable Substances may be fired by Electricity two different
+Ways, let the following Definitions at present suffice of each of these
+Methods.
+
+BUT first give me Leave to premise, that no inflammable Substances will
+take fire, when brought into or near the Contact of _Electrics per se_
+excited to Electricity. This Effect must be produced by non-electrical
+Substances impregnated with Electricity received from the exciting
+_Electrics per se_. But to return,
+
+_1st_, I SUPPOSE that inflammable Substances are fired by the attractive
+Power of Electricity, when this Effect arises from their being brought
+near excited non-Electrics.
+
+_2dly_, THAT inflammable Substances are fired by the repulsive Power of
+Electricity; when it happens, that the inflammable Substances, being
+first electrified themselves, are fired by being brought near
+non-Electrics not excited.
+
+THIS Matter will be better illustrated by an Example. Suppose that
+either a Man standing upon a Cake of Wax, or a Sword suspended in silk
+Lines are electrified, and the Spirit, being brought near them, is
+fired, this is said to be perform'd by the attractive Power of
+Electricity. But if the Man electrified as before holds a Spoon in his
+Hand containing the Spirit, or the same Spoon and Spirit are placed upon
+the Sword, and a Person not electrified applies his Finger near the
+Spoon, and the Spirit is fired from the Flame arising from the Spoon and
+Spirit upon such Application; this I call being fired by the repulsive
+Power. Of the two mention'd Kinds I generally find the repulsive Power
+strongest.
+
+SINCE my last Communication, the Spirit has been fired both by the
+attractive and repulsive Power through four Persons standing upon
+electrical Cakes; each communicating with the other either by the Means
+of a walking Cane, a Sword, or any other non-electric Substance. It has
+likewise been fired from the Handle of a Sword held in the Hand of a
+third Person.
+
+I HAVE not only fired _Frobenius_'s Phlogiston, rectified-spirit and
+common proof-spirit, but also Sal volatile Oleosum, Spirit of Lavender,
+dulcified Spirit of Nitre, Peony Water, _Daffy_'s Elixir, _Helvetius_'s
+Stiptic, and some other Mixtures where the Spirit has been very
+considerably diluted; likewise distilled vegetable Oils, such as that of
+Turpentine, Lemon, Orange Peels and Juniper, and even those of them,
+which are specifically heavier than Water, as Oil of Sassafras; also
+resinous Substances, such as Balsam Capivi and Turpentine; all which
+send forth, when warmed, an inflammable Vapour. But expressed vegetable
+Oils, as those of Olives, Linseed, and Almonds, as well as Tallow, all
+whose Vapours are uninflammable, I have not been able yet to fire; but
+these indeed will not fire on the Application of lighted Paper. Besides,
+if these last would fire with lighted Paper, unless their Vapours were
+inflammable, I can scarce conceive they would fire by Electricity;
+because in firing Spirits, _&c._ I always perceive that the Electricity
+snaps before it comes in Contact with their Surfaces, and therefore only
+fires their inflammable Vapours.
+
+AS an excited non-Electric emits almost all its Fire, if once touch'd by
+a non-Electric not excited, I was desirous of being satisfy'd, whether
+or no the Fire emitted would not be greater or less in proportion to the
+Volume of the electrified Body. In order to this I procur'd an Iron Bar
+about five Feet long and near 170 Pounds in Weight; this I electrified
+lying on Cakes of Wax and Rosin, but observed the Flashes arising
+therefrom not more violent than those from a common Poker. In making
+this Experiment, being willing to try the repulsive Force, it once
+happen'd that whilst the Bar was at one End electrifying, a Spoon lay
+upon the other, and upon an Assistant's pouring some warm Spirit into
+the Spoon, the electrical Flash from the Spoon snapped and fired the
+first Drop of the Spirit, which unexpectedly fired not only the whole
+Jett as it was pouring, but kindled likewise the whole Quantity in the
+Pot, in which I usually have it warm'd.
+
+I FIND, in firing inflammable Substances from the Finger of a Man
+standing upon Wax, that _cæteris paribus_ the Success is more constant,
+if the Man instead of holding the Thread (the Use of which I
+communicated in a former Paper) in his Hand, the Thread is suspended at
+the End of an Iron Rod held in one Hand, and he touches the Spirit with
+one of the Fingers of the other.
+
+IF a Man, standing upon the electrical Cake with a Dish or deep Plate of
+Water in one Hand, and the Iron Rod with the Thread in the other, is
+made electrical; and a Person not electrified touches any Part either of
+the Plate or Water, the Flashes of Fire come out plentifully, and
+wherever you bring your Finger very near, the Water rises up in a little
+Cone, from the Point of which the Fire is produced, and your Finger,
+though not in actual Contact, is made wet. The same Experiment succeeds
+through three or more People.
+
+IN firing inflammable Substances, the Person who holds the Spoon in his
+Hand to receive the electrical Flashes, when the Finger of the
+electrified Person is brought near thereto, not only feels a tingling in
+his Hand, but even a slight Pain up to his Elbow. This is most
+perceptible in dry Weather, when the Electricity is very powerful.
+
+THERE is a considerable Difficulty in firing _Electrics per se_, such as
+Turpentine, and Balsam Capivi, by the repulsive Power of Electricity;
+because in this Case these Substances will not permit the Electricity to
+pass through them; therefore when you would have this Experiment
+succeed, the Finger of the Person, who is to fire them, is to be applied
+as near to the Edge as possible of these Substances when warm'd in a
+Spoon, that the Flashes from the Spoon (for these Substances will emit
+none) may snap, where they are spread the thinnest, and then fire their
+Effluvia. This Experiment, as well as several others, serves to confute
+that Opinion, which has prevail'd with many, that the Electricity floats
+only upon the Surfaces of Bodies.
+
+IF an electrical Cake is dipp'd in Water, it is thereby made a Conductor
+of Electricity, the Water hanging about it transmitting the electrical
+Effluvia in such a manner, that a Person standing thereon can by no
+means be electrified enough to attract the leaf Gold at the smallest
+Distance; though the Person standing upon the same Cake when dry,
+attracted a Piece of fine Thread hanging at the Distance of two Feet
+from his Finger. We must here observe that the Cake being of an unctuous
+Substance, the Water will no where lie uniformly thereon, but adhere in
+separate Moleculæ; so that in this Instance the Electricity jumps from
+one Particle of Water to another, till the Whole is dissipated.
+
+FROM the Appearance of the Threads amongst which I rub the Tube, I can
+frequently judge, though the Spirit may be many Feet distant from them,
+whether or no it will fire; because when the Persons standing upon the
+Wax are made electrical enough to fire the Spirit, the Threads repel
+each other at their lower Parts, where they are not confin'd, to a
+considerable Distance, and this Distance is in Proportion as the Threads
+are made electrical.
+
+IF two Persons stand upon electrical Cakes at about a Yard's Distance
+from each other, one of which Persons, for the Sake of Distinction, we
+will call A, the other B: If A when electrified touches B, A loses
+almost all his Electricity at that Touch only, which is receiv'd by B
+and stopp'd by the electrical Cake; if A is immediately electrified
+again to the same Degree as before and touches B, the Snapping is less
+upon the Touch; and this Snapping, upon electrifying A, grows less and
+less, till B being impregnated with Electricity, though receiv'd at
+Intervals, the Snapping will no longer be sensible.
+
+THAT Glass will repel and not conduct the Electricity of Glass, has been
+mention'd by others, who have treated of this Subject; but the
+Experiments to determine this Matter must be conducted with a great deal
+of Caution; for unless the glass Tube, intended to conduct the
+Electricity, be as warm as the external Air, it will seem to prove the
+contrary, unless in very dry Places and Seasons. Thus, I sometimes have
+brought a cold, though dry, Glass Tube near three Feet long into a Room,
+where there has been a Number of People; when upon placing the Tube upon
+Silk Lines, and laying some Leaf Silver upon a Card at one End and
+rubbing another Glass Tube at the other, the Silver has, contrary to
+Expectation, been thrown off as readily as from an Iron Rod. At first I
+was surpriz'd at this Appearance, but then conjectur'd, that it must
+arise from the Coldness of the Glass, condensing the floating Vapour of
+the Room; in Order then to obviate this, I warm'd the Tube sufficiently,
+and this Effect was no longer produced, but the Silver lay perfectly
+still.
+
+IF a Number of Pieces of finely spun Glass cut to about an Inch in
+Length, little bits of fine Wire of the same Length of what Metal you
+please, and small Cork Balls, are either put all together, or each by
+themselves, into a dry pewter Plate, or upon a Piece of polish'd Metal,
+they make in the following Manner a very odd and surprizing Appearance.
+Let a Man, standing upon electrical Cakes, hold this Plate in his Hand
+with the bits of Glass, Wire, _&c._ detached from each other, as much as
+conveniently may be; when he is electrified, let him cause a Person
+standing upon the Ground to bring another Plate, his Hand, or any other
+Non-Electric, exactly over the Plate containing these Bodies. When his
+Hand, _&c._ is about eight Inches over them, let him bring it down
+gently: As it comes near, in proportion to the Strength of the
+Electricity, he will observe the bits of Glass first raise themselves
+upright; and then, if he brings his Hand nearer, dart directly up and
+stick to it without snapping. The bits of Wire will fly up likewise, and
+as they come near the Hand, snap aloud; you feel a smart Stroke, and see
+the Fire arising from them to the Hand at every Stroke; each of these,
+as soon as they have discharged their Fire, falls down again upon the
+Plate. The Cork Balls also fly up, and strike your Hand, but fall again
+directly. You have a constant Succession of these Appearances as long as
+you continue to electrify the Man, in whose Hand the Plate is held; but
+if you touch any part either of the Man or Plate, the Pieces of Glass,
+which before were upon their Ends, immediately fall down.
+
+SOME few Years ago, Sir _James Lowther_ brought some Bladders fill'd
+with inflammable Air, collected from his Coal-mines, to the Royal
+Society. This Air flam'd upon a lighted Candle being brought near it.
+This Inflammability has occasion'd many terrible Accidents. Mr. _Maud_,
+a worthy Member of this Society, made at that Time by Art, and shew'd
+the Society, Air exactly of the same Quality. I was desirous of knowing
+if this Air would be kindled by electrical Flashes. I accordingly made
+such Air by putting an Ounce of Filings of Iron, an Ounce of Oil of
+Vitriol and four Ounces of Water into a Florence Flask; upon which an
+Ebullition ensued, and the Air, which arose from these Materials, not
+only fill'd three Bladders, but also, upon the Application of the Finger
+of an Electrified Person, took Flame and burnt near the Top and out of
+the Neck of the Flask a considerable Time. When the Flame is almost out,
+shake the Flask and the Flame revives. You must with your Finger dipped
+in Water, moisten the Mouth of the Flask as fast as it is dried by the
+Heat within, or the Electricity will not fire it: Because the Flask
+being an Electric _per se_ will not snap at the Application of the
+Finger, without the Glass being first made non-electric by wetting. It
+has sometimes happen'd, if the Finger has been applied before the
+inflammable Air has found a ready Exit from the Mouth of the Flask, that
+the Flash has fill'd the Flask, and gone off with an Explosion equal to
+the firing of a large Pistol, and sometimes indeed it has burst the
+Flask. The same Effect is produced from the Spirit of Sea Salt, as from
+Oil of Vitriol; but as the Acid of Sea Salt is much lighter than that of
+Vitriol, there is no Necessity to add the Water in this Experiment.
+
+THOSE who are not much acquainted with Chemical Philosophy, may think it
+very extraordinary, that from a Mixture of cold Substances, which both
+conjunctly and separately are uninflammable, this very inflammable
+Vapour should be produced. In order to solve this, it may not be
+improper to premise, that Iron is compounded of a Metallic as well as a
+sulphurous Part. This Sulphur is so fix'd, that, after heating the Iron
+red hot, and even melting it ever so often, the Sulphur will not be
+disengaged therefrom: But upon the Mixture of the Vitriolic Acid, and by
+the Heat and Ebullition which are almost instantly produced, the
+Metallic Part is dissolved, and the Sulphur, which before was intimately
+connected therewith, being disengaged, becomes volatile. This Heat and
+Ebullition continues 'till the Vitriolic Acid is perfectly saturated
+with the Metallic Part of the Iron, and the Vapour once fired continues
+to flame, until this Saturation being effected, no more of the Sulphur
+flies off.
+
+I HAVE heretofore mentioned, how considerably perfectly dry Air conduces
+to the Success of these Experiments; but we have been lately informed by
+an Extract of a Letter, that _Abbé Nolet_ was of Opinion, that they
+would succeed in wet Weather, provided the Tubes were made of Glass,
+tinged blue with Zaffer. I have procured Tubes of this Sort, but, after
+giving them many candid Trials, I cannot think them equal to their
+Recommendation. I first tried one of them in a smart Shower of Rain
+after a dry Day, when the Drops were large, and the Spirit fired three
+Times in about four Minutes; the same Effect succeeded, under the same
+Circumstances, from the white one; but after three or four Hours
+raining, when the Air was perfectly wet, I never could make it succeed.
+And to illustrate this Matter further, I have been able when the Weather
+has been very dry, with once rubbing my Hand down this blue Tube, and
+applying it to the End of an Iron Rod six Feet long, to throw off
+several Pieces of Leaf-Silver lying upon a Card at the other End of this
+Rod, whereas I never have been able to throw it off by any Means in very
+wet Weather. Besides, I am of Opinion, that after the Electrical Fire is
+gone from the Tube, the Tube has no Share in the conducting of it; my
+Sentiments on that Head I laid before you in a former Paper: For if the
+Silk Lines are wetted, they diffuse all the Electricity, and the same
+Effects happen when the Air is wet, be your Glass of what Colour it
+will. It may not be improper here to observe, that Zaffer, which is used
+by the Glass-makers and Enamellers, is made of Cobalt or Mundick
+calcin'd after the subliming the Flowers. This being reduced to a very
+fine Powder, and mixt with twice or thrice its own Weight of finely
+powdered Flints, is moisten'd with Water and put up in Barrels, in which
+it soon runs into a hard Mass and is call'd Zaffer.
+
+A DRY Sponge hanging by a Pack-thread at the End of an electrified
+Sword, or from the Hand of an electrified Man, gives no Signs of being
+made electrical; if it is well soak'd in Water, wherever it is touched,
+you both see and feel the electrical Sparks. Not only so, but if it is
+so full of Water, that it falls from the Sponge, those Drops in a dark
+Room, receiv'd upon your Hand, not only flash and snap, but you perceive
+a pricking Pain. If you hold your Hand, or any non-electrical
+Substances, very near, the Water which had ceased dropping when the
+Sponge was not electrified, drops again upon its being electrified, and
+the Drops fall in Proportion to the receiv'd Electricity, as though the
+Sponge were gently squeez'd between your Fingers. I was desirous to know
+if I was able to electrify a Drop of cold Water, dropping from the
+Sponge, enough to fire the Spirit; but after many unsuccessful Trials, I
+was forced to desist; because the cold Water dropping from the Sponge
+not only cool'd the Spirit too much, but also render'd it too weak;
+likewise, every Drop carried with it great Part of the Electricity from
+the Sponge. I then consider'd, in what Manner, I could give a Tenacity
+to the Water, sufficient to make the Drops hang a considerable Time, and
+this I brought about by making a Mucilage of the Seeds of Fleawort. A
+wet Sponge then, squeez'd hard and fill'd with this cold Mucilage, was
+held in the Hand of an electrified Man, when the Drops forced out by the
+Electricity, assisted by the Tenacity of the Liquor, hung some Inches
+from the Sponge, and by a Drop of this I fir'd not only the Spirit of
+Wine, but likewise the inflammable Air before mentioned, both with and
+without the Explosion. What an extraordinary Effect is this! That a Drop
+of cold Water (for the Seeds contribute nothing but add Consistence to
+the Water) should be the Medium of Fire and Flame.
+
+CAMPHOR is a vegetable Resin, and of Consequence an Electric _per se_.
+This Substance, notwithstanding its great Inflammability, will not take
+fire from the Finger of a Man or any other Body electrified, though made
+very warm and the Vapours arise therefrom in great Abundance. Because,
+neither Electric's _per se_ excited, or electrified Bodies, exert their
+Force by snapping upon Electric's _per se_, though not excited. If you
+break Camphor small and warm it in a Spoon, it is not melted by Heat
+like other Resins; but if that Heat were continued it would all prove
+volatile. To Camphor thus warm'd, the Finger of an electrified Man, a
+Sword or such-like, will in snapping exert its Force upon the Spoon, and
+the circum-ambient Vapour of the Camphor will be fired thereby, and
+light up the whole Quantity exposed. The same Experiment succeeds by the
+repulsive Power of Electricity.
+
+A POKER thoroughly ignited put into Spirit of Wine, or into the
+distilled Oil of Vegetables, produces no Flame in either; it indeed
+occasions the Vapours to arise from the Oil in great Abundance. But if
+you electrify this heated Poker, the electrical Flashes presently kindle
+Flame in either. The Experiment is the same with Camphor. These
+Experiments, as well as the following, sufficiently evince, that the
+electrical Fire is truly Flame, and that extreamly subtil.
+
+I HAVE made several Trials in order to fire Gunpowder alone, which I
+tried both warm and cold, whole and powder'd, but never could make it
+succeed; and this arises in part from its Vapours not being inflammable,
+and in part from its not being capable of being fir'd by Flame, unless
+the Sulphur in the Composition is nearly in the State of Accension. This
+we see by putting Gunpowder into a Spoon with rectified Spirit, which,
+when lighted, will not fire the Powder, 'till by the Heat of the Spoon
+from the burning Spirit, the Sulphur is almost melted. Likewise, if you
+hold Gunpowder ground very fine in a Spoon over a lighted Candle, or any
+other Flame, as soon as the Spoon is hot enough to melt the Sulphur, you
+see a blue Flame, and instantly the Powder flashes off. The same Effects
+are observ'd in the _Pulvis fulminans_, compos'd of Nitre, Sulphur, and
+fixed Alkaline Salt. Besides, when the Gunpowder is very dry and ground
+very fine, it (as you please to make the Experiment) is either
+attracted, or repell'd; so that in the first Case, the End of your
+Finger when electrified, shall be cover'd over with the Powder, though
+held at some Distance; and in the other, if you electrify the Powder, it
+will fly off at the Approach of any non-electrified Substance, and
+sometimes even without it. But I can at Pleasure fire Gunpowder, and
+even discharge a Musket, by the Power of Electricity, when the Gunpowder
+has been ground with a little Camphor or with a few Drops of some
+inflammable chemical Oil. This Oil somewhat moistens the Powder, and
+prevents its flying away; the Gunpowder then being warm'd in a Spoon,
+the electrical Flashes fire the inflammable Vapour, which fires the
+Gunpowder: But the Time between the Vapour firing the Powder is so
+short, that frequently they appear as the same and not successive
+Operations, wherein the Gunpowder itself seems fired by the Electricity;
+and indeed the first Time this Experiment succeeded, the Flash was so
+sudden and unexpected, that the Hand of my Assistant, who touch'd the
+Spoon with his Finger, was considerably scorch'd. So that there seems a
+fourth Ingredient necessary to make Gunpowder readily take Fire by
+Flame, and that such a one, as will heighten the Inflammability of the
+Sulphur. In common Cases the lighted Match or the little Portion of red
+hot Glass, which falls among the Powder, and is the Result of the
+Collision from the Flint and Steel, fires the Charcoal and Sulphur, and
+these the Nitre. But if to these three Ingredients you add a fourth,
+_viz._ a Vegetable chemical Oil, and gently warm this Mixture, the Oil
+by the Warmth mixes intimately with the Sulphur, lowers its Consistence,
+and makes it readily take fire by Flame. In these Operations,
+notwithstanding I always made use of the finest scented Oils of Orange
+Peel, Lemons, and such like, yet upon the least warming the Mixture, the
+rank Smell of Balsam (_i. e._ the ready Solution) of Sulphur was very
+obvious.
+
+Read before the R. S.
+  _Oct. 24. 1745_.
+
+
+                     _A Continuation of the Above._
+
+                                                   Read, _Feb. 6. 1745_.
+
+AS Water is a non-electric, and of Consequence a Conductor of
+Electricity, I had Reason to believe that Ice was endowed with the same
+Properties. Upon making the Experiment I found my Conjectures not
+without Foundation; for upon electrifying a Piece of Ice, wherever the
+Ice was touched by a non-electric, it flashed and snapped. A Piece of
+Ice also held in the Hand of an electrified Man, as in the
+beforementioned Processes, fired warm Spirit, chemical vegetable Oils,
+Camphor, and Gunpowder prepared as before. But here great Care must be
+taken, that by the Warmth of the Hand, or of the Air in the Room, the
+Ice does not melt; if so, every Drop of Water therefrom considerably
+diminishes the received Electricity. In Order to obviate this, I caused
+my Assistant, while he was electrifying, to be continually wiping the
+Ice dry upon a Napkin hung to the Buttons of his Coat, and this being
+electrified as well as the Ice, prevented any Loss of the Force of the
+Electricity. The Experiment will succeed likewise, if, instead of the
+Ice, you electrify the Spirit, _&c._ and bring the Ice not electrified
+near them. I must observe, that Ice is not so ready a Conductor of
+Electricity as Water; so that I very frequently have been disappointed
+in endeavouring with it to fire inflammable Substances, when it has been
+readily done by a Sword or the Finger of a Man.
+
+In the first Paper[3] I had the Honour to lay before you upon this
+Subject, I took Notice of my having observed two different Appearances
+of the Fire from electrified Substances; _viz_. those large bright
+Flashes, which may be procured from any Part of electrified Bodies, by
+bringing a Non-Electric unexcited near them, and with which we have
+fired all the inflammable Substances mentioned in the Course of these
+Observations; and those, like the firing of wet Gunpowder, which are
+only perceptible at the Points or Edges of excited Non-electrics. These
+last also appear different in Colour and Form according to the
+Substances from which they proceed: For from polished Bodies, as the
+Point of a Sword, a Silver Probe, the Points of Scissors, and the Edges
+of the Steel-bar made Magnetical by the ingenious Dr. _Knight_, the
+electrical Fire appears like a Pencil of Rays, agreeing in Colour with
+the Fire from _Boyle_'s Phosphorus; but from unpolished Bodies, as the
+End of a Poker, a rusty Nail or such-like, the Rays are much more red.
+The Difference of Colour here, I am of Opinion, is owing rather to the
+different Reflection of the electrical Fire from the Surface of the Body
+from which it is emitted, than to any Difference in the Fire itself.
+These Pencils of Rays issue successively as long as the Bodies, from
+which they proceed, are exciting; but they are longer and more
+brilliant, if you bring any Non-Electric not excited near them, though
+it must not be close enough to make them snap. If you hold your Hand at
+about two or three Inches Distance from these Points, you not only feel
+successive Blasts of Wind from them, but hear also a crackling Noise.
+Where there are several Points, you observe at the same Time several
+Pencils of Rays.
+
+                   *       *       *       *       *
+
+IT appears from Experiments, that besides the several Properties, that
+Electricity is possess'd of peculiar to itself, it has some in common
+with Magnetism and Light.
+
+
+                             PROPOSITION I.
+
+IN common with Magnetism, Electricity counteracts, and in light
+Substances overcomes the Force of Gravity. Like that extraordinary Power
+likewise, it exerts its Force _in Vacuo_ as powerfully as in open Air,
+and this Force is extended to a considerable Distance through various
+Substances of different Textures and Densities.
+
+
+                               COROLLARY.
+
+GRAVITY is the general Endeavour and Tendency of Bodies towards the
+Center of the Earth; this is overcome by the Magnet with Regard to Iron,
+and by Electricity with Regard to light Substances both in its
+Attraction and Repulsion; but I have never been able to discern that
+vortical Motion, by which this Effect was said to be brought about by
+the late Dr. _Desaguliers_ and others, having no other Conception of its
+Manner of acting than as Rays from a Center, which indeed is confirmed
+by several Experiments. One of which, very easy to be tried, is, that if
+a single downy Seed of Cotton Grass is dropped from a Man's Hand, and in
+its Fall comes within the Attraction of the rubbed Tube; the Down of
+this Seed, which before seemed to stick together, separates, and forms
+Rays round the Center of the Seed: Or if you fasten many of these Seeds
+with Mucilage of Gum Arabic, round a Bit of Stick, the Down of them when
+electrified, which otherwise hangs from the Stick, is raised up, and
+forms a circular Appearance round the Stick. As these light Bodies are
+directed in their Motions, only by the Force impressed upon them, and as
+their Appearance is constantly _radiatim_, such Appearance by no Means
+squares with our Idea of a Vortex. Some have imagined a Polarity also,
+when they have observed one end of an excited Glass Tube repel light
+Substances, and the other attract them. But this Deception, arising from
+the whole Length of the Tube not being excited, but only such Part of it
+as has been rubbed; so that as much of the Tube as is held in the Hand,
+remains in an unexcited State, and permits light Substances to lie still
+thereon, though forcibly repell'd at the other End. This attractive
+Power of Electricity acts not only upon Non-electrics, as Leaf-Gold,
+Silver, Thread, and such like, but also upon originally Electrics, as
+Silk, dry Feathers, little Pieces of Glass and Resin; it attracts all
+Bodies, that are not of the same Standard of Electricity, (if I may be
+allowed the Expression) as the excited Body from which it proceeds. I
+have found no Body however dense, whose Pores are not pervious to
+Electricity by a proper Management, not even Gold itself.
+
+
+                            PROPOSITION II.
+
+IN common with Light, Electricity pervades Glass, but suffers no
+Refraction therefrom; I having from the most exact Observations found
+its Direction to be in right Lines, and that through Glasses of
+different Forms, included one within the other, and large Spaces left
+between each Glass.
+
+
+                               COROLLARY.
+
+THIS rectilineal Direction is observable only as far as the Electricity
+can penetrate through unexcited Originally-electrics, and those
+perfectly dry; nor is it at all material, whether these Substances are
+transparent, as Glass; semidiaphanous, as Porcelain or thin Cakes of
+white Wax; or quite opake, as thick woollen Cloth, as well as woven Silk
+of various Colours; it is only necessary that they be
+Originally-electrics. But the Case is widely different with Regard to
+Non-electrics; wherein the Direction, given to the Electricity by the
+excited originally-electric, is alter'd as soon as it touches the
+Surface of a Non-electric, and is propagated with a Degree of Swiftness
+scarcely to be measured in all possible Directions to impregnate the
+whole Non-electric Mass in Contact with it, or nearly so, however
+different in itself, and which must of Necessity be terminated by an
+originally Electric, before the Electricity exerts the least Attraction,
+and then this Power is observed first at that Part of the Non-electric
+the most remote from the originally-electric. Thus for Example, by an
+excited Tube held over it, Leaf Gold will be attracted through Glass,
+Cloth, _&c._ held horizontally in the Hand of a Man standing upon the
+Floor, and this Attraction is exerted to a considerable Distance. On the
+contrary, the rubbed Tube will not attract Leaf Gold or other light
+Bodies, however near, through Silver, Tin, the thinnest Board, Paper, or
+any other Non-electric, held in the Manner before-mentioned. But if you
+rub the Paper over with Wax melted, and by that Means introduce the
+originally-electric therein, you observe the Electricity acts in right
+Lines, and attracts powerfully. And here I must beg Leave to remind you,
+not only of the former Corollary, but of some of the former Experiments
+also; by which it appears, that although, to make a Non-electric exert
+any Power, we must excite the whole Mass thereof, yet we can excite what
+Part, and what only, of an originally-electric we please. Thus we
+observe, that Leaf-gold, and the Seed of Cotton-grass, (which grows upon
+Boggs and is a very proper Subject for these Inquiries) are attracted
+under a Glass Jar made warm[4], and turned Bottom upwards, upon which
+are placed Books and several other Non-electrics; and that the Motions
+of the light Bodies underneath correspond with the Motions of the Glass
+Tube held over them, the Electricity seeming instantaneously to pass
+through the Books and the Glass. But this does not happen, till the
+Electricity has fully impregnated the Non-electrics, which lie upon the
+Glass, which received Electricity is stopped by the Glass, and then
+these Non-electrics dart their Power directly through the upper Part of
+the Glass after the Manner of Originally-electrics. But if the thinnest
+Non-electric, even the finest Paper, as I before mentioned, is held in
+the Hand of a Man at the smallest Distance over the Leaf-Gold, and the
+Electricity is not stopped, not the least Power will be exerted, and the
+Gold will lie still. I must here remark likewise, that this Law of
+Electricity is so constant and regular, that I have not found one
+Deviation from it; so that even the Quicksilver, spread thin as it
+usually is at the Back of a Plate of a Looking-glass, will prevent the
+passing through of the electrical Attraction, unless stopped by an
+Originally-electric. This Penetration of the electrical Power through
+originally-electrics is much greater than has hitherto been imagined,
+and has caused the Want of Success to great Numbers of Experiments. I
+have been at no small Pains to determine, how far this Power can
+penetrate through a dry Originally-electric; and have found by repeated
+Trials, that either in a Cake of Wax alone, or of Wax and Resin mixed,
+when the Electricity is very powerful, it has passed, I say, in straight
+Lines through these Cakes of the Thickness of 2 Inches and 4/10; but I
+never could make it act through one of 2 Inches 8/10, for in this it was
+perfectly stopped. So that the Cakes commonly made use of to stop the
+Electricity, by being too thin, suffer a considerable Quantity of the
+electrical Power to pervade them, and be lost in the Floor. I make no
+Doubt, if the electrical Power could be more increased, it would
+penetrate much further through these Originally-electric Bodies.
+
+
+                            PROPOSITION III.
+
+ELECTRICITY, in common with Light likewise, when its Forces are
+collected and a proper Direction given thereto upon a proper Object,
+produces Fire and Flame.
+
+
+                               COROLLARY.
+
+THE Fire of Electricity (as I have before observed) is extremely
+delicate, and sets on Fire, as far as I have yet experienced, only
+inflammable Vapours. Nor is this Flame at all heightned by being
+superinduced upon an Iron Rod, red hot with coarser culinary Fire, as in
+a preceeding Experiment; nor diminished by being directed upon cold
+Water. However I was desirous of knowing, if this Flame would be
+effected by a still greater Degree of Cold; and in order to determine
+this, I made an artificial Cold; by which the Mercury, in a very nice
+Thermometer adjusted to _Fahrenheit_'s Scale, was depressed in about 4
+Minutes from 15 Degrees above the freezing Point to 30 Degrees below it,
+that is, the Mercury fell 45 Degrees. From this cold Mixture, when
+electrified, the Flashes were as powerful and the Stroke as smart as
+from the red hot Iron. I could have made the Cold more intense, but the
+above was sufficient for my Purpose. This Experiment seems to indicate,
+that the Fire of Electricity is affected neither by the Presence or
+Absence of other Fire. For as red hot Iron, by Sir _Isaac Newton_'s
+Scale of Heat, is fixed at 192 Degrees, and as the Ratio between Sir
+_Isaac_'s Degrees and _Fahrenheit_'s is as 34 to 180, it necessarily
+follows, that the Difference of Heat between the hot Iron and the cold
+Mixture is 1040 Degrees; and nevertheless this vast Difference makes no
+Alteration in the Appearance of the electrical Flame. We find likewise,
+that as the Fire, arising from the Refraction of the Rays of Light by a
+_Lens_, and brought to a _Focus_, is observed first at some small
+Distance from their Surfaces, to set on Fire combustible Substances; the
+same Effect, as I have before observ'd, is produced in like Manner by
+electrical Flame.
+
+I MAY perhaps be thought too minute in some of the before-mentioned
+Particulars; but in Inquiries abstruse as these are, where we have so
+little _a priori_ to direct us, the greatest Attention must be had to
+every Circumstance, if we are truly desirous of investigating the Laws
+of this surprizing Power. For, as has been said upon another Occasion by
+my ever honoured Friend MARTIN FOLKES, Esq; our most worthy President,
+"that Electricity seems to furnish an inexhaustible Fund for Inquiry;
+and sure Phænomena so various and so wonderful can arise only from
+Causes very general and extensive, and such as must have been designed
+by the Almighty Author of Nature for the Production of very great
+Effects, and such as are of great Moment to the System of the Universe."
+
+IF these Observations receive the Countenance of this learned Society, I
+shall think myself sufficiently recompensed, and am,
+
+                                   _Gentlemen, with the highest Esteem,_
+                                   _your most Obedient_
+                                   _humble Servant_,
+                                   W. WATSON.
+
+
+                                _FINIS._
+
+-----
+
+Footnote 1:
+
+  Dr. _Gowin Knight_, F. R. S.
+
+Footnote 2:
+
+  I call _Electrics per se_ or originally-_electrics_, those Bodies, in
+  which an attractive Power towards light Substances is easily excited
+  by Friction; such as Glass, Amber, Sulphur, Sealing-wax, and most dry
+  Parts of Animals, as Silk, Hair, and such like. I call _Non-electrics_
+  or Conductors of Electricity, those Bodies, in which the above
+  Property is not at all or very slightly perceptible; such as Wood,
+  Animals living or dead, Metals and vegetable Substances. See _Gray_,
+  _Du Fay_, _Desaguliers_, _Wheler_, in the Philosophical Transactions.
+
+Footnote 3:
+
+  Page 6.
+
+Footnote 4:
+
+  I have constantly observed, that the electrical Attraction through
+  Glass is much more powerful, when the Glass is made warm, than when
+  cold. This Effect may proceed from a two-fold Cause: First, warm Glass
+  does not condense the Water from the Air, which makes the Glass, as
+  has been before[5] demonstrated, a Conductor of Electricity: secondly;
+  As heat enlarges the Dimensions of all known Bodies, and consequently
+  causes their constituent Parts to recede from each other, the
+  electrical Effluvia, passing in straight Lines, find probably a more
+  ready Passage through their Pores.
+
+Footnote 5:
+
+  Page 13.
+
+------------------------------------------------------------------------
+
+                          Transcriber's note:
+
+    All footnotes moved to the end of the text.
+
+    Page 5, 'Contract' changed to 'Contact,' "the Contact of
+    Non-electrics..."
+
+    Page 6, 'Power' changed to 'Poker,' "I suspended a Poker in silk
+    Lines;"
+
+    Page 7, second 'it' struck, "if it does..."
+
+    Page 9, 'o'Clock' rejoined.
+
+    Page 9, period added to 'E. N. E.'
+
+    Page 22, 'erectified' changed to 'electrified,' "and a Person not
+    electrified..."
+
+    Page 49, 'it' changed to 'itself,' "not even Gold itself."
+
+
+
+
+
+End of the Project Gutenberg EBook of Experiments and Observations Tending
+to Illustrate the Nature and Properties of Electricity, by William Watson
+
+*** END OF THIS PROJECT GUTENBERG EBOOK EXPERIMENTS, OBSERVATIONS ON ELECTRICITY ***
+
+***** This file should be named 46168-8.txt or 46168-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/6/1/6/46168/
+
+Produced by The Online Distributed Proofreading Team at
+http://www.pgdp.net (This file was produced from images
+generously made available by The Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

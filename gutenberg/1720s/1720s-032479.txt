@@ -1,0 +1,1868 @@
+﻿Project Gutenberg's A Pindarick Ode on Painting, by Thomas Morrison
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: A Pindarick Ode on Painting
+       Addressed to Joshua Reynolds, Esq.
+
+Author: Thomas Morrison
+
+Commentator: Frederick W. Hilles
+             J.T. Kirkwood
+
+Release Date: November 2, 2008 [EBook #27130]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK A PINDARICK ODE ON PAINTING ***
+
+
+
+
+Produced by Louise Hope, David Starner, Suzanne Lybarger
+and the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+[In the Ode, all dashes were printed as groups of 2-5 hyphens. This
+format has been retained. Brackets are in the original unless otherwise
+noted.
+
+Joshua Reynolds was knighted in 1769, two years after this work was
+published.]
+
+
+
+
+  The Augustan Reprint Society
+
+
+  THOMAS MORRISON
+
+  _A PINDARICK ODE ON PAINTING_
+
+  _Addressed to Joshua Reynolds, Esq._
+
+  (1767)
+
+
+  With a preface by
+  Frederick W. Hilles
+  and a biographical introduction by
+  J. T. Kirkwood
+
+
+  Publication Number 37
+
+
+  Los Angeles
+  William Andrews Clark Memorial Library
+  University of California
+  1952
+
+
+
+
+GENERAL EDITORS
+
+  H. RICHARD ARCHER, _Clark Memorial Library_
+  RICHARD C. BOYS, _University of Michigan_
+  RALPH COHEN, _University of California, Los Angeles_
+  VINTON A. DEARING, _University of California, Los Angeles_
+
+
+ASSISTANT EDITOR
+
+  W. EARL BRITTON, _University of Michigan_
+
+
+ADVISORY EDITORS
+
+  EMMETT L. AVERY, _State College of Washington_
+  BENJAMIN BOYCE, _University of Nebraska_
+  LOUIS I. BREDVOLD, _University of Michigan_
+  JOHN BUTT, _King's College, University of Durham_
+  JAMES L. CLIFFORD, _Columbia University_
+  ARTHUR FRIEDMAN, _University of Chicago_
+  EDWARD NILES HOOKER, _University of California, Los Angeles_
+  LOUIS A. LANDA, _Princeton University_
+  SAMUEL H. MONK, _University of Minnesota_
+  ERNEST MOSSNER, _University of Texas_
+  JAMES SUTHERLAND, _Queen Mary College, London_
+  H. T. SWEDENBERG, JR., _University of California, Los Angeles_
+
+
+CORRESPONDING SECRETARY
+
+  EDNA C. DAVIS, _Clark Memorial Library_
+
+
+
+
+PREFACE
+
+
+The poem here reprinted has remained unread and, with a single
+exception, apparently unnoticed from the day it was published until the
+present. It is printed from a copy which I acquired many years ago at a
+London bookstore and which for a while I thought unique. I did not find
+it listed in the catalogues of the chief libraries of England or
+America, nor in the various books on anonymous publications. I have
+found no mention of it in the newspapers and magazines of the time, no
+mention of it in contemporary letters or diaries. The one man in England
+who took the trouble to record the ode for posterity was, as might be
+expected, Horace Walpole, who in his manuscript Books of Materials
+merely noted that the poem had been published in 176_8_ (_Anecdotes of
+Painting ... Volume the Fifth_, ed. Hilles and Daghlian, Yale University
+Press, 1937). When challenged to locate Walpole's copy of the ode,
+the greatest of modern collectors was able, after perhaps forty-five
+seconds, to say not only that it was in the Houghton Library at Harvard
+but that on the title in Walpole's hand was the information that the
+poem was published on the sixteenth of May, a fact which would otherwise
+be unknown. A third copy was in the possession of the late Professor
+Heidbrink of Northwestern, inscribed in a contemporary hand "T. M.,
+M.A." and thus, possibly, the author's own. There are, then, three known
+copies extant. Doubtless others will be found, bound up with pamphlets
+of the same vintage, as yet uncatalogued.
+
+What Walpole did not know was the name of the author, and quite possibly
+the ode would have remained unread and unnoticed for another two
+centuries had Mr. Kirkwood not brought to light the letters which are
+first published in the introduction that follows. From these letters and
+a few known facts the history of the ode seems clear enough. Reynolds
+had a number of relatives living in Great Torrington. In the summer of
+1762 when he and Dr. Johnson went to Devonshire they were entertained by
+Morrison. Johnson's published letters prove that he did not forget
+Morrison, and Reynolds was soon painting the portrait of Morrison's
+daughter. In the summer of 1766 Morrison sent his ode to Reynolds. The
+following January he learned that Johnson, "as severe a Critic as old
+Dennis," praised it and ordered it to be published. Reynolds himself
+must have arranged for the publication.
+
+The publisher selected was William Griffin, who a few years later was to
+bring out some of Sir Joshua's _Discourses_. The work of the printer was
+only moderately well done. It will be noted that _whose_ (second line of
+stanza V) is obviously a misprint for _whole_, that the second line has
+dropped out of stanza XXXIV (Mr. Kirkwood ingeniously suggests that
+Morrison wrote: "for every trifler's breast/Is by the hope of future
+fame possest"), and that in two places the number of a stanza has been
+omitted. And yet the ode, which is physically thinner as well as
+historically and aesthetically inferior to Gray's famous odes, is priced
+at 1/6, whereas the Strawberry Hill edition of Gray's _Odes_ (1757) sold
+for but a shilling.
+
+Clearly Morrison was not influenced by, if familiar with, _The Progress
+of Poesy_ and _The Bard_. His ode is Pindaric in the late
+seventeenth-century sense. In his brief preface he explains that he has
+sought to please us "with a little variety of wild music," believing
+"that the perpetual recurrence of the same measure in such a
+multiplicity of stanzas would have been rather languid and fatiguing."
+An examination of the poem shows that Morrison has carried his desire
+for variety to the extreme. The poem consists of thirty-five stanzas,
+not one of which repeats both the metrical pattern and rhyme scheme of
+any other. The stanzas range from six to eighteen lines in length, and
+the lines themselves from four short syllables to the long Alexandrine.
+At times one has the feeling that this love of changing rhythms and
+rhymes has improperly warped the meaning of a given passage.
+
+The author shows his familiarity with the standard books on aesthetics.
+In _Idler_ No. 76, published in 1759, Reynolds laughed at those who by
+mastering a few phrases posed as connoisseurs. He introduced a gentleman
+who had just returned from Italy, "his mouth full of nothing but the
+grace of _Raffaelle_,... and the sublimity and grand contorno of
+_Michael Angelo_." This gentleman criticised a Vandyck because it
+"had not the flowing line," and of "St. Paul preaching" said, "what an
+addition to that nobleness could _Raffaelle_ have given, had the art of
+contrast been known in his time! but above all, the flowing line."
+Morrison is familiar with the jargon, as is seen throughout the ode. At
+the beginning he displays wit in applying these phrases not to painting
+but to his verse:
+
+  With my easy flowing line
+  To unite correctness of design.
+
+And at the end he rather neatly twists the famous statement of Appelles
+into a justification for his writing a poem to add to the reputation of
+a great painter.
+
+The ode falls into two roughly equal parts. In the first half the poet
+describes specific examples of what he calls History and Landskip. The
+battle painting sounds like something by Il Borgognone, the crucifixion
+perhaps by Guido Reni. The other painters are named--Vanderveld and,
+inevitably, Claude. The late Miss Manwaring would not have been
+surprised to learn that more space is devoted to Claude than to the
+others. Then almost precisely at the half-way point a pleasing trance is
+interrupted by the portrait of a "hoary sage," perhaps, Mr. Kirkwood
+suggests, the portrait Reynolds had recently completed of the Rev.
+Zachariah Mudge, then seventy-two years of age, who had been since 1737
+a fellow prebendary of Morrison's at Exeter, and whom Reynolds described
+as "the wisest man he had ever met." From this point on the poet
+addresses Reynolds and incidentally describes with skill two of his most
+popular portraits, "Lady Sarah Bunbury sacrificing to the Graces"
+(exhibited in 1765) and "Garrick between Tragedy and Comedy" (exhibited
+in 1762). Garrick was then at the height of his fame, and this was the
+most notable of the many portraits painted of him. Lady Sarah, "the
+bright Lenox" of stanza XXIII, was equally celebrated in her sphere.
+Among the bridesmaids at the wedding of George III she was, in Walpole's
+opinion, the "chief angel." "With neither features nor air, nothing ever
+looked so charming as Lady Sarah Lenox; she has all the glow of beauty
+peculiar to her family." She was the great granddaughter of Charles II;
+hence Morrison's _regal_. And in the poem as in the painting she is
+feeding the flame which does honor to the Graces.
+
+Johnson's hostility to "our Pindarick madness" is well known. The "first
+and obvious defect" of Dryden's _Threnodia_ "is the irregularity of its
+metre." The "lax and lawless versification" of this type of poetry,
+he wrote in the _Life of Cowley_, "concealed the deficiencies of the
+barren, and flattered the laziness of the idle." One cannot but wonder
+therefore at his praise of Morrison's ode. To be sure, Reynolds quotes
+Johnson as pronouncing it "superior to any Poem _of the kind_ that has
+been publish'd these many years," and Johnson may well have considered
+praise of this sort as he did lapidary inscriptions. It may be worth
+noting, however, that none of his recorded comments on Pindaric verse
+antedate the publication of this ode. Conceivably he himself was unaware
+of his hostility until, more than ten years later, he was forced to
+criticise the poets who made the English Pindaric popular.
+
+Perhaps too by ordering its publication he was saying indirectly what he
+had already expressed in many of his writings, for example in _Rambler_
+No. 23: "the publick, which is never corrupted, nor often deceived, is
+to pass the last sentence upon literary claims." If this is so, a series
+like the Augustan Reprints necessarily deals with literary failures. And
+yet Morrison's ode is well worth reading today as a pleasing example of
+what I somewhat fearsomely term the baroque, of what the cultured
+gentleman of that time regarded as a token of good taste. Long dormant,
+it is here given new life. Who knows but that the prophecy made by
+Morrison at the end of the poem may after all be fulfilled:
+
+    In the long course of rolling years,
+    When all thy labour disappears,
+  Yet shall this verse descend from age to age,
+    And, breaking from oblivion's shade,
+  Go on, to flourish while thy paintings fade.
+
+Frederick W. Hilles
+
+Yale University
+
+
+
+
+Postscript
+
+
+Mr. Kirkwood has sent me information, too late to be incorporated in the
+preface, which adds to, and in an important way corrects, what I have
+written.
+
+In the Print Room of the British Museum there is an engraving by James
+Watson "From an Original Picture by Vandevelde, in the Possession of Mr.
+Reynolds." Every detail in the engraving tallies with Morrison's
+word-painting of the Vandevelde. Furthermore the description of a
+landscape by Claude (a View near Castle Gondolfo) in the sale of Sir
+Joshua's collection of paintings in 1795 suggests that this was the
+Claude Morrison had in mind when writing his ode. In other words, it is
+probable that all the paintings discussed in the poem had been seen by
+Morrison in Reynolds's house.
+
+As to matters of fact, the ode, it turns out, was not unnoticed in its
+day. It was commented upon in both the _Critical_ and the _Monthly_--not
+in 1767 but in 1768. The reviewer in the _Critical_ (vol. 25, p. 393, in
+the monthly catalogue for May) wrote: "This is an elegant and ingenious
+descriptive poem. The author supposes himself viewing several pieces of
+historic, landskip, and portrait painting; and from thence takes
+occasion to represent the figures, prospects, and passions, which the
+artist has exhibited. As the poet has touched upon various topics, he
+has very properly used many different kinds of metre." The review in the
+_Monthly_ (vol. 39, p. 316, in the monthly catalogue for October),
+written by John Langhorne, as Professor Nangle's _Index_ shows, was less
+favorable. "There is great variety in the numbers of this ode; but, in
+our opinion, they are not combined in such a manner as to produce a
+natural or agreeable harmony. There is sometimes, too, a falling off,
+not far removed from the Bathos. Thus, when the Author says his poetical
+ideas
+
+  Resistless on the rous'd imagination pour,
+  And paint themselves as lively as before;
+
+we cannot help feeling the weakness of the latter verse. Yet there is
+poetry, there is enthusiasm, there is energy in this piece, on the
+whole, though it is not without many defects." That these reviews
+appeared in May and October 1768 is compelling evidence for dating the
+pamphlet, in spite of Mr. Griffin, 1768. Walpole once more proves
+himself a reliable source. Why the publication was delayed for over a
+year will probably remain a mystery.
+
+F. W. H.
+
+
+
+
+INTRODUCTION
+
+
+Apart from the few papers relating to him that have survived since his
+death in 1778, little more is known of the Rev. Thomas Morrison of Great
+Torrington in Devon than the main facts of his life; among those papers,
+however, are some letters--written by Sir Joshua Reynolds and
+others--about his literary pursuits, in which Dr. Johnson was at one
+time briefly concerned.
+
+He was born on March 26, 1705, at Midhurst in Sussex, the elder son of
+Thomas Morrison of that place and Sarah Bridges. As to his ancestry, the
+family seems to have claimed kinship with the Morrisons of Cassiobury
+Park in Hertfordshire. At the age of twelve he was entered as a scholar
+upon the foundation at Winchester, where he remained until his election
+in 1723 to a probationary fellowship of New College, Oxford; his
+admission as a full fellow followed in 1725. Having received his
+Bachelor's degree in 1727, he became M.A. in 1731, took orders, and was
+presented to the college living of Steeple Morden in Cambridgeshire.
+
+It may also have been in 1731, though possibly earlier, that he went
+down into Devon to act as tutor to John Basset of Heanton Court near
+Barnstaple--a step which was, as things turned out, to make him a
+resident of that county for the rest of his life. His pupil's father had
+died in 1721, leaving a widow, Elizabeth, the only daughter and eventual
+heiress of Sir Nicholas Hooper, Sergeant-at-Law. Sir Nicholas, who had
+represented Barnstaple in seven successive parliaments and was a man of
+considerable wealth, died in May, 1731; almost exactly a year later, in
+May, 1732, his daughter, then thirty-seven years of age and described in
+a letter written at that time as a lady much admired for her piety,
+prudence and good conduct, was married to Thomas Morrison, then
+twenty-seven. Three children were born of their marriage: Mary in 1734,
+Eleanora in 1736, and Hooper in 1737. In the year following the birth of
+their son Mrs. Morrison died, presumably at Bath as she is buried in the
+Abbey Church of that city; on the tablet he placed there to her memory
+her husband said that she had been the best of wives who, for the few
+years she lived with him, not only made him a much happier man, but a
+better man, since not only had her rational and endearing conversation
+been the perpetual delight of his heart, but her exemplary conduct had
+likewise been the pleasing rule and constant direction of his life.
+
+Upon his marriage Morrison had necessarily resigned his fellowship of
+New College, and two years later he also gave up the college living in
+Cambridgeshire; the benefices that he afterwards held were all in the
+diocese of Exeter. In 1736 he was made a prebendary of Exeter and became
+Rector of Wear Giffard; the following year, after obtaining a
+dispensation to hold the two livings together, he was also instituted to
+High Bickington, which, however, he resigned in 1742. In 1744 he became
+Rector of Littleham, soon afterwards resigning Wear Giffard; and
+finally, in 1758, after resigning Littleham in its turn, he was
+instituted to Langtree, of which parish he continued Rector until his
+death twenty years later. The presentations to these livings were made
+as follows: to Wear Giffard by Lord Clinton, Lord Lieutenant of the
+county from 1721 to 1733, whose seat was at Castle Hill near Barnstaple;
+to High Bickington and to Littleham by John Basset of Heanton--who was
+patron of half a dozen livings; to Langtree by John Rolle Walter of
+Bicton in South Devon and Stevenstone House near Great Torrington,
+Member of Parliament for Exeter.
+
+These parishes all lie within six miles of Great Torrington where
+Morrison appears to have been resident from at least as early as 1750.
+In his answers to the Bishop's queries of 1744 he had, however, declared
+himself to be resident partly in Huntshaw, a parish adjoining Wear
+Giffard; and--for reasons of his health and the education of his
+children--partly at Westleigh on the mouth of the Torridge, a few miles
+off. In which intervening year he established himself at Great
+Torrington is not known.
+
+Meanwhile, he had made two further marriages: in 1739 to Margaret,
+daughter of the Rev. Robert Ham and widow of John Ham of Widhays, who
+died in 1744; and in 1745 to Honour, daughter of Sir Thomas Bury and
+widow of the Rev. George Bussell, who died at Great Torrington in 1750.
+Both these later marriages were childless.
+
+Hooper Morrison followed his father into the Church and became Rector of
+Atherington near Barnstaple. In 1769 he bought the property of Yeo Vale,
+some five miles from Great Torrington. Eleanora Morrison, who never
+married and seems to have lived with her father until his death, sat to
+Reynolds in her younger days; the portrait then painted, which was
+formerly at Yeo Vale, shows her in profile and wearing a blue velvet
+mantle edged with ermine.
+
+There was also among the portraits at Yeo Vale a three-quarter length of
+an agreeable-looking man, apparently between thirty and forty years of
+age, shown wearing a red velvet cap and an unusual coat, like a
+full-skirted cassock made of blue satin; this portrait, the work of
+Hudson, was believed to represent Thomas Morrison.
+
+Coming now to the letters, the earliest of these, written in February,
+1753, is from Morrison to the Bishop of Exeter, Dr. Lavington, who two
+years before had published the third part of his book, _The Enthusiasm
+of Methodists and Papists Compared_. The letter is inscribed on the
+outside "Mr. Morrison's Ode," and must have been returned to its writer
+after the Bishop's death in 1762.
+
+    My Lord,
+
+    Since I had the honour of being with your Lordship in Exeter I
+    have with great pleasure read over the third part of the
+    Enthusiasm of Methodists and Papists compar'd, and as by having my
+    Boy at present under my own Care I have been oblig'd to renew my
+    acquaintance a little with the Classicks, I have endeavour'd to
+    express my Sentiments of your Lordship's learned and acute
+    performance in the following Ode, which if it should afford you a
+    Quarter of an Hours Amusement will be no little pleasure to
+    me--that your Lordship may read it with the more Indulgence think
+    that the Scribbler of it has not attempted to write Latin verse
+    for above twenty years, and believe me to be with the Highest
+    Respect,
+
+      Your Lordship's most oblig'd
+      and most obedient Humble Servant
+
+      T. Morrison.
+
+    My best Respects wait on your Lady and Miss Lavington.
+
+Here follows the ode ("Reverendo admodum Episcopo Exoniensis in
+doctissimum adversus Methodistas Librum cui Titulus etc.") which begins:
+
+  Verende praesul, praesul amabilis,
+  Qui dulce rides, utiliter doces;
+    Jucunda permiscens severis,
+      Incolumi gravitate ludens,
+
+  Quia Methodistes scripta legens tui
+  Amoenitatem respuat ingeni,
+    Suumque vestro--vel reluctans--
+      Abstineat sociare risum?
+
+and continues for a further sixteen stanzas.
+
+There is nothing to show to whom the next letter was written, though,
+considering the later ones, it seems likely that it was addressed to
+Joshua Reynolds. It concerns a tragedy (on the subject of the Emperor
+Otho) of which Morrison was undoubtedly the author. John Beard, on whose
+behalf the letter was written in February, 1763, had become manager of
+Covent Garden Theatre in the previous year.
+
+    Sir,
+
+    Mr. Beard's attention to the Affairs of the Theatre having
+    entirely taken up his Time, during this Season, from which, as
+    yet, he is not releas'd, deprives him of the Pleasure of writing
+    to you, in Answer to the Letter you did him the Favour of
+    communicating from the Author of Otho; he, therefore, hopes you
+    will excuse his deputing me to convey to you the Opinion of his
+    Friends thereon; and if they differ in Sentiment with the Author,
+    it is with some Concern, as they wou'd rather give Approbation to
+    a Piece, which has, indeed, great merit in the Writing, but will
+    not suit the Taste of an English Audience.
+
+    How well, and with what Propriety, a Dramatic Piece may be
+    conducted wherein are very few Characters, it is not now intended
+    to be entered upon; but it is very certain, from the Want thereof,
+    many Productions have fail'd of their expected Applause; of which,
+    very many Instances might be produc'd; wherein that has been the
+    Chief, if not the only Defect. The French, indeed, tho' a Nation
+    of great Levity, can attentively listen to long declamatory
+    Speeches, when an English Audience wou'd fall asleep; who love
+    Action and Bus'ness, love Plot and Design; Variety of Incidents is
+    their Delight, but yet that Plot must be founded on Reason and
+    Probability, and conduce to the Main Action of the Drama. It is
+    the Advice of a celebrated Author, _Habitum hujus Temporis habe_;
+    the Taste of the Town, you know, Sir, right or wrong, must be
+    comply'd with; without which, to hope for Success, is striving
+    against the Stream, and however great the Merit of this Piece may
+    be, it must be confess'd, in this Particular, it is defective; nor
+    does there appear a Probability of that Defect's being corrected;
+    and even then it wou'd be esteem'd but a Copy of Cato.
+
+    From the Author's great Candour and Impartiality, remarkably shewn
+    thro' the whole Tenour of his Letter, it is hop'd a few additional
+    Remarks will not give Offence. [Here ensues a lengthy passage of
+    detailed criticism, at the end of which the writer continues:] It
+    wou'd greatly trespass on yours and the Author's Time to enlarge
+    on this Subject, as Mr. Beard cannot give him any Encouragement to
+    make Alterations. Undoubtedly there are several good Scenes, and
+    much good Writing, which deserve their proper Encomiums; and the
+    Perusal may give much pleasure in the Closet, but does not bid
+    fair for equal Reception on the Stage.
+
+    I cannot dismiss this without clearing up a mistake which the
+    Author is run into; tho' urg'd with the utmost Tenderness and
+    Delicacy imaginable; I mean the Supposition that a Recommendation
+    from a Person of Figure in the Fashionable or the Letter'd World
+    is necessary for the having the Piece accepted. Be assur'd, Sir,
+    every Piece must be determin'd by its own intrinsic Worth; and by
+    that must stand or fall. Such a Recommendation undoubtedly wou'd
+    raise the Expectation and, consequently, engage a more particular
+    Attention of the Manager, but the Piece must speak for itself; and
+    shou'd it not answer Expectation, might probably not appear in so
+    good a Light as it might deserve, purely from the Disappointment.
+
+    I have the Honour, Sir, of sending Mr. Beard's Compliments to
+    yourself and the Author, with the Assurance that he wou'd with
+    greater Pleasure accept than refuse the Piece, stood it within the
+    Probability of Success. At the same Time, tho' unknown, I beg
+    leave, with great Deference, to subscribe myself,
+
+      Sir, Your's and the Author's
+      very obedient, humble Servant,
+
+      J. Stede.
+
+There now follow the three surviving letters from Joshua Reynolds in
+London to Thomas Morrison in Devon. Whether or not the two men had known
+each other before, they certainly met when Reynolds visited his sister,
+Mrs. Palmer of Great Torrington, during his Journey into the west
+country with Johnson in 1762. According to Reynolds' engagement book,
+Morrison was his host on August 27 of that year; while a letter written
+by Johnson, after returning to London, contains a message for "Dr.
+Morison" to say that a set of _Idlers_ was being sent to him with
+sincere acknowledgements of all his civilities. The first of Reynolds'
+letters is dated, at the end, August 16, 1766.
+
+    Dear Sir,
+
+    The greatest compliment I have ever yet receiv'd for any fancied
+    eminence in my profession has not been so flattering to my vanity
+    as having had the honour to have so excellent a Poem address'd to
+    me as this really is which I have now before me, and the
+    consideration that this compliment is made me by Mr. Morrison
+    makes me at a loss in what manner to express the obligation I feel
+    myself under for so great a favour. I may truly say and without
+    affecting much modesty that I am not worthy of the attention you
+    please to honour me with.
+
+    As I have not had time yet to consider it as maturely as I intend
+    to do, I can only say in general terms that I admire it
+    exceedingly.
+
+Here there is a break in the letter.
+
+    I am quite ashamed to have kept this Letter so long, which
+    proceeded from an expectation I dayly had of reading the Poem with
+    Mr. Johnson and Dr. Goldsmith but which I have not yet been able
+    to accomplish.
+
+    The former part of this Letter was wrote a few days after I had
+    the pleasure of seeing your Son; you have surely the greatest
+    reason in the world to think me the most ill mannered as well as
+    the most ungrateful person breathing in not returning my thanks
+    sooner; and now that it is delay'd so long it has not answerd any
+    end except that I have the pleasure of saying, I find no cause on
+    a second and third reading to retract what I said in the former
+    part of the Letter, my own opinion is worth but little; but I hope
+    soon to have the pleasure of acquainting you with the approbation
+    of those Critics which it is some honour to please.
+
+    With great acknowledgment for the distinction you have been
+    pleased to honour me with,
+
+      I am with the greatest respect your
+      most obliged humble servant,
+
+      J. Reynolds.
+
+    I beg my compliments to Miss and Mr. Morrison.
+
+To this Morrison evidently sent a reply expressing his pleasure at
+Reynolds' praise of the poem, for on January 8, 1767, Reynolds wrote
+again.
+
+    Dear Sir,
+
+    I am much obliged to you for the compliment you make me in
+    thinking my approbation of any value, to tell you the truth the
+    reason of my setting so little value on it myself, proceeds not so
+    much from modesty, or an opinion that I cannot feel the powers of
+    Poetry, or distinguish beauties from defects, but from a
+    consciousness that I am unable to determine (as all excellence in
+    comparative) what rank it ought to hold in the scale of Art; and
+    this judgement can be possess'd I think by those only who are
+    acquainted with what the world has produced of that kind.
+
+    I have lately had the pleasure of reading your Poem to several
+    friends, who have spoken much in its commendation, and Mr. Johnson
+    who is as severe a Critic as old Dennis approves of it very much,
+    he thinks it superior to any Poem of the kind that has been
+    publish'd these many years and will venture to lay a wager that
+    there is not a better publish'd this year or the next.
+
+    The Characters of the several Masters mention'd in the Poem are
+    truly drawn; and the descriptions of the several kinds of History
+    Painting shew great imagination and a thorough knowledge of the
+    Theory of the Art, and that this is deliver'd in Poetry much above
+    the common standard I have Mr. Johnson's word who concluded his
+    commendation with Imprimatur meo periculo which order if you have
+    no objection we will immediately put in execution.
+
+    I have scarce left room to subscribe myself
+
+      Yours,
+
+      J. Reynolds.
+
+There is no record of any copy of the poem, either printed or
+manuscript, having been at Yeo Vale; but that the order had indeed been
+put in execution became apparent lately when Professor Hilles, on
+reading the above letter, recognized the identity of Morrison's poem
+with the _Pindarick Ode on Painting_ published in 1767.
+
+The last of the three letters from Reynolds to Morrison is dated March
+2, 1771. Notwithstanding the rejection of "Otho," its author had written
+a second tragedy, the manuscript of which was among the papers at Yeo
+Vale, according to a note made in 1917 by the late Major J. H. Morrison
+Kirkwood.
+
+    Dear Sir,
+
+    Nothing would give me greater uneasiness [than] if you should
+    suspect that my not answering your Letter proceeded from neglect,
+    it would be a shamefull return for the kindness I have allways
+    experienced from you, the truth is Mr. Coleman [sic] as well as
+    myself is allways so full of business that I have not been able to
+    meet with him so often as I could wish, however when we do meet I
+    have endeavourd to press him to complete the negociation by Letter
+    as I found it impossible to persuade you to come to Town. The last
+    time I saw him he told me he would write to you in a few days,
+    as by this time you have probably receiv'd his Letter, you have
+    a more explicit account than any I can give. In regard to the
+    hundred Pounds for which I told him you would let him have the
+    Tragedy, he said he fear'd that you suspected that he wanted to
+    decline receiving it, which was not the case, that he wish'd to
+    receive it and certainly would when those alterations were made,
+    that if he gave this sum for the Tragedy, he should probably
+    receive more profit from it than he had any right to, that he
+    never would receive any profit but as Manager.
+
+      I beg my Compliments to Miss Morrison and am with the
+      greatest respect your most humble and obedient servant
+
+    Joshua Reynolds.
+
+On reading this, Morrison may well have thought that his tragedy was
+almost certain of acceptance; a few months later, however, he heard from
+George Colman, who had succeeded Beard as manager of Covent Garden
+Theatre in 1767. The letter is dated July 23, 1771, and its opening
+sentence is explained by the death of Colman's wife earlier in the year.
+
+    Sir,
+
+    My last Letter would very soon have been succeeded by another if a
+    very unexpected & most shocking domestick calamity had not
+    rendered me wholly incapable of attending to every kind of
+    business. I have however lately read your Tragedy over & over with
+    the strictest attention, and after considering it again & again,
+    not without a real partiality to the Author, & the strongest
+    desire of encouraging the most favourable idea of it, I am with
+    much concern obliged to declare it unfit for representation.
+
+    The first act is very excellent, & with a few slight alterations,
+    would be a most affecting opening of a Tragedy. In the second act
+    the scene of Iphigenia is also extremely beautiful and
+    interesting; but the other parts of the act have no dramatick
+    merit. The circumstance so much insisted on of Clytemnestra's
+    dressing (tho' I believe in Euripides) wd. appear ridiculous on
+    our stage: and the scenes of Memnon and Achilles are weak &
+    illwritten, tho' the entrance of Achilles at that juncture might
+    afford a spirited & interesting scene.
+
+    In these acts, as well as the two following, the conduct of the
+    fable is in general just: at least it is most wonderfully improved
+    since your first draught of the Tragedy: and yet the characters &
+    dialogue are so managed as to render the whole cold,
+    uninteresting, & totally destitute of that spirit essential to the
+    success of the Drama. The personages are all suffered to languish,
+    tho' in situations which require the utmost animation & force.
+    Clytemnestra & Iphigenia, though defective, are indeed better
+    sustained than the rest, but the consequence of the Atridae hardly
+    survives the first act, and Achilles never maintains any
+    consequence at all.
+
+    The same remark may in general be applied to the fifth act as to
+    the foregoing. The management of the catastrophe might perhaps
+    admit of alteration. The nature of the subject indeed renders it a
+    very nice point: tho' I think it would be very possible to give it
+    due warmth & interest, were the more arduous task accomplished of
+    perfecting the preceding parts of the Drama.
+
+    Believe me, Sir, that in this as well as in all my other Letters
+    to you, I have delivered my real sentiments, tho' it is not
+    without reluctance & regret on the present occasion. I had at
+    first some objections to the subject. These vanished; & in the
+    first draught there were here & there some touches which inclined
+    me to hope that the whole piece might be worked up by the same
+    hand. I am sorry to pronounce it has failed: but _Ponere Totum_ is
+    the great secret; and in our exhibitions a common Dauber, possest
+    of that happy knack, will often be attended with tolerable
+    success, and exult at the failure of a superior artist who has
+    only laboured particular parts.
+
+      I am, Sir, your most obedient humble servant,
+
+      G. Colman.
+
+This letter, which must have left its recipient without further hope for
+the production of his tragedy, is the last that remains.
+
+Thomas Morrison died on July 20, 1778, and was buried beside his third
+wife in the churchyard at Great Torrington. The inscription on the
+tablet placed to his memory in the church nearby says of him that his
+diffusive charity and benevolence towards man, his amiable manners, the
+goodness of his heart and his exemplary conduct deservedly endeared him
+to all his acquaintance.
+
+Hooper Morrison died in 1798; his only son, Thomas Hooper Morrison, in
+1824; and his son's widow in 1861. The Yeo Vale property then passed to
+his son's niece, Eleanora Elizabeth Hammett, who was the wife of John
+Townsend Kirkwood, great-grandfather of the present writer, and the sole
+surviving child of Hooper Morrison's youngest--but only
+married--daughter.
+
+  J. T. Kirkwood
+  White's Club, London.
+
+
+           *       *       *       *
+       *       *       *       *       *
+
+
+                       A
+
+                   PINDARICK
+
+                      ODE
+
+                       on
+
+                    PAINTING.
+
+
+                  Addressed To
+
+             JOSHUA REYNOLDS, Esq.
+
+
+  LONDON:
+  Printed for W. GRIFFIN, in Catharine-Street, Strand.
+  MDCCLXVII.
+  [Price One Shilling and Six-pence.]
+
+
+
+
+  THE
+  PREFACE.
+
+
+As the subject of this Ode is, from the copiousness of it, almost an
+inexhaustible one (were I to take notice of all the minuter branches of
+this art, in which the several masters have distinguish'd themselves,
+such as the painting of fruit, flowers, still-life, game, buildings,
+ships, &c.) I have confin'd myself chiefly to the three greater species
+of it: namely, History (under which Battle-painting may justly be
+included) Landskip and Portraiture----and as, in a composition of this
+length, I imagin'd that the perpetual recurrence of the same measure in
+such a multiplicity of stanzas would have been rather languid and
+fatiguing, I have therefore indulg'd myself in many different kinds of
+metre; but, at the same time, have blended them as harmoniously as I
+could contrive; by which indulgence I have not only consulted my own
+ease, but hope I have likewise, in some degree, consulted the pleasure
+of the Reader, by entertaining his ear, at least, with a little variety
+of wild music, even if the composition should have no other sort of
+merit to recommend it.
+
+
+
+
+  A
+  PINDARICK ODE
+  ON
+  PAINTING.
+
+
+  I.
+
+  Sweet mimick art! Which to our ravish'd eyes,
+    From a few blended colours, and the aid
+      Of attemper'd light and shade,
+    Bid'st a new creation rise---
+  Oh! to this song of tributary praise,
+      Which Poetry thy sister art
+  Now with friendly homage pays,
+    Could I contrive thy beauties to impart!
+      With my easy flowing line
+      To unite correctness of design,                           10
+  And make a TITIAN's colouring conspire
+  With RAPHAEL's grace, and BUANOROTI's fire---
+
+
+  II.
+
+  And this moment I perceive
+    (Or does some illusion bless me,
+    Some sweet madness now possess me?)
+  My tumultuous bosom heave,
+  Like the rapt SIBYLL's when she feels the load,
+  The painful influence of th' in-rushing God---
+
+
+  III.
+
+    Yes---once again with joy I find
+      (Nor think my friend th' assertion bold)                  20
+    This languid age-enfeebled mind,
+      As in life's prime, it's powers unfold---
+    Again th' ideal scenes arise,
+    The visions stream before my eyes,
+  Resistless on the rous'd imagination pour,
+  And paint themselves as lively as before-----
+
+
+  IV.
+
+  But be this mental picture grac'd
+    With all th' adornings fancy can bestow,
+  How is it's beauty now effac'd,                               30
+    How fast all it's splendor declines,
+    Out-dazzled by those brighter lines
+  Which on yonder canvas glow----
+
+
+  V.
+
+  Where---by th' Historick pencil's aid
+  Whose ages are at once display'd---
+    Some great event of Rome or Greece
+    Fills perhaps each high wrought piece---
+    There---some triumphal pomp proceeds---
+    There---th' impetuous battle bleeds---
+        Mark! while they engage
+        What ardor what rage,                                   40
+    How shields are clash'd with shields---
+      And with what force up-rais'd in air,
+      Each warrior brawny arm stript bare,
+  Darts th' keen spear, or glittering faulchion wields,
+    And while it aims the stroke, or while repels,
+    How justly each inflated muscle swells----
+
+
+  VI.
+
+    With the same noble warmth imprest,
+    As with his Lord the gallant beast
+      Was eager to acquire a name,
+      And combated like him for fame,                           50
+        See the generous steed
+        Fierce as CIRCE's high breed
+  Which she stole from her bright-flaming fire,
+        While he springs on the foe,
+        Like the shaft from the bow,
+        Scarce imprint the trod ground;
+        But curvet and bound
+  As if drawn by a pencil of fire----
+
+
+  VII.
+
+    But what endless length of verse
+    Can suffice me to rehearse                                  60
+      Th' enliven'd action of the whole?
+    Squadrons this way, that way bending,
+    The depicted forms contending
+      As instinct with real foul----
+
+
+  VIII.
+
+    Nay---minutely to describe
+      The varied helm, peculiar shield,
+    The different aspect of each tribe
+      Which animates th' embattled field,
+    Would ask the compass of an age,
+      To mark the whole---must drawl along                      70
+      The tedious circumstantial song,
+  And haply languish through the thousandth page---
+
+
+  IX.
+
+    But rapidly by Painting's aid
+    Is this intelligence convey'd;
+      E'en in a single moment's space
+    We see th' extensive plan unfold,
+      Omitted not one trifling grace,
+    In full the complex tale is told;
+  The grand exploits of half an Iliad rise,
+  And flash at once on our astonish'd eyes----                  80
+
+
+  X.
+
+    Nor serves this sweet instructive art
+      T' inform the intellect alone,
+    But often melts th' obdurate heart
+      And wakes it's pænitential groan---
+  For when in some great Master's draught,
+  With genius as with judgement fraught,
+      Nail'd haply to th' accursed tree,
+    On his tenter'd wounds suspended,
+    Every nerve with torture rended,
+      Th' agonizing GOD we see---                               90
+    Supported by her weeping train
+      While the dolorous mother stands
+      With anguish'd features, writhen hands,
+        Expressing e'en superior pain;
+  Who but must mingle in this scene of woe,
+  What breast can cease to heave, what eye forbear to flow?
+
+
+  XI.
+
+    But sorrow now o'erpow'rd by fear,
+    Soon is check'd the starting tear,
+    While in yonder piece I view,
+    Which VANDERVELD's bold pencil drew                        100
+      Through all it's gloom'd extent the ocean
+      Work'd into wild impetuous motion,
+    And with more dread t' impress the soul
+      Grimly frowns the lurid sky,
+    And the condensing vapours roll,
+      And the fork'd light'nings fly---
+    With shatter'd sails and low-bent mast
+    Drives before the whirling blast
+    The fondering vessel---Hark! I hear
+    (Or does the eye deceive the ear?)                         110
+      The thunder's voice, the groaning air,
+        The billows loud roar
+        While they break on the shore,
+  The cries of the wreck'd, and their shrieks of despair.
+
+
+  XII.
+
+  With pleasure now I turn my sight
+  From horror and death to those scenes of delight,
+      Where CLAUDIO's pencil has essay'd
+    With every heighten'd touch to trace
+    The wide-stretch'd Landskip's varied face,
+      And all it's sweet delusive skill display'd---           120
+
+
+  XIII.
+
+    How the genial colours warm us?
+    How the gay deceptions charm us?
+      The objects here advancing nigh
+    As with brighter tints they bloom---
+      There receding from the eye
+    As suffus'd with deeper gloom;
+    And, while here to bound the scene,
+      Their tops half-blended with the skies,
+    The misty mountains intervene,
+      Or rocks in dim confusion rise;                          130
+  There the wild ocean terminates the view;
+  It's green waves mingling with th' æthereal blue---
+
+
+  XIV.
+
+    And, lo! what numerous beauties grace
+    Th' enchanted intermediate space!
+    Rivers winding through the vales,
+      Here, full in view; there, faintly shewn,
+    Hillocks, inter-mix'd with dales,
+      Rural cotts at distance thrown---
+    There, some foaming cataract pours
+    From the steep cliff it's watery stores;                   140
+    Here, spreads it's gloom some awful grove,
+    Through whose thick branches interwove,
+    While the sun darts his slanting beams,
+  Delightful to the eye the yellowish lustre streams---
+
+
+  XV.
+
+    Above the strong illumin'd skies,
+      The clouds in shining volumes, roll'd
+      Their fleecy skirts bedeckt with gold,
+    Half-dazzle the spectator's eyes---
+      And does the real solar light
+      Flash at present on the sight?                           150
+    Or, does the pencil'd radiance only flow,
+      And flowing with such fervour beat
+      That e'en with all the dog-days heat
+    The sultry painting now appears to glow?
+
+
+  XVI.
+
+    Beneath some oak's projecting shade,
+      Where the shot rays scarce passage find,
+    See many a rustick youth and maid
+      In languid attitudes reclin'd----
+      Mark! with features all relenting,
+      And with down-cast eyes consenting,                      160
+    How each nymph listens to the amorous tale;
+      Her half-bar'd bosom, panting with desire,
+  Expos'd, as if to catch the cooling gale;
+      But more, perhaps, to fan the lover's fire.
+
+
+  XVII.
+
+      Ye dear deceptions! how ye move
+      The breast to long forgotten love?
+      Luxurious scenes! how ye excite
+      The traces of distinct delight!
+  E'en now around this poor half-frozen heart
+      Agnizing it's accustom'd smart,                          170
+  Like some mild lambent flame the passion plays;
+      And, vanquish'd by ideal charms,
+      I sink in the imagin'd arms
+  Of some sweet PHILLIS of my youthful days.
+
+
+  XVIII.
+
+  But, lo! the Portrait of yon hoary sage
+    From whose grave lore I learnt in youth
+      Many a rigid moral truth,
+  Frowns me again to cold unfeeling age---
+      How are the soft emotions checkt
+      While tow'rd me he seems to direct,                      180
+    As if alive, his conscious eye;
+      At whose austere reproving glance,
+      I wake reluctant from my trance,
+  And feel with pain each pleasing passion die!---
+
+
+  XIX.
+
+      VENUS yokes her purple doves,
+        In an instant dispossest,
+      All the little sportive loves
+        Hurry---hurry from my breast---
+    And the whole charming vision flits away
+  Like the night's golden dream at break of envious day--      190
+
+
+  XX.
+
+    Poor human life! how short the date
+    Assign'd thee by relentless Fate!----
+    Poor transient Beauty! tender flower!
+    Still shorter thy allotted hour!----
+    Then stretch the canvass---quick, my Friend,
+    Thy pencil seize---thy work attend---
+  E'en exempt from deforming diseases,
+    How it fades by the torches of Time;
+      Every moment that flows
+      Steals the gloss from the rose;                          200
+  Then catch the bright hue while it pleases,
+    And fix the fair face in it's prime.
+
+
+  XXI.
+
+    Nay-- thus, great Artist, has thy hand
+    To half the high-born beauty of the land
+        A permanence ensur'd,
+    And from th' attacks of wrinkling age,
+    And from the pustule's venom'd rage
+        Th' untarnish'd form secur'd---
+
+
+  XXII.
+
+      It's dear resemblance has at least
+      Been in thy faithful lines exprest;                      210
+    In thy firm colours still persists to bloom;
+      Nor does it cease the heart t' alarm,
+      Nor does it cease the eye to charm,
+  E'en when the real Fair is mouldering in her tomb--
+
+
+  XXIII.
+
+    And eminent in beauty as in birth,
+      When the bright LENOX shall as well
+      In the same gloomy mansion dwell
+    And mingle with her kindred regal earth,
+      Still in thy tints shall she survive,
+      With sweet attraction still engage,                      220
+    Still feed the flame as when alive,
+      And (e'en improv'd by mellowing age
+      Each charm of person and of face)
+        Still sacrifice to every grace---
+
+
+  XXIV.
+
+  For we not see the outward form alone
+    In thy judicious strokes defin'd,
+  But in them too---distinctly shewn---
+    The strong-mark'd features of the mind---
+      Each charmer's attitude and air
+      The internal character declare,                          230
+  With ease the varied temper we descry,
+  The full-soul beaming from th' expressive eye---
+
+
+  XXV.
+
+    Here---in the sweetly pensive mein
+    Is the soft gentle Nature seen,
+    And chaste reserve, and modest fear,
+    And artless innocence appear---
+    There---the little fly coquet
+      Aiming her insidious glances:
+    For trapping hearts each feature set,
+      From the canvass makes advances,                         240
+  Nay---if we credit the delusive face,
+  She seems just springing to our fond embrace---
+
+
+  XXVI.
+
+    And if such meaning can be thrown
+    Into the single form alone---
+    With what fresh rapture should we gaze,
+    How would thy kindling genius blaze,
+      To what superior heights aspire,
+        If working on some grand design,
+        Where various characters combine
+  To call forth all it's force, and rouse thy native fire?---  250
+
+
+  XXVII.
+
+    And that thy hand can equally excel
+        E'en in this noble part,
+      This shining branch of thy expressive art,
+    To it's own happy labour we appeal,
+      To that rich piece whose pleasing fiction
+      And splendid tints with full conviction
+      Strike the spectator, while he views
+      THALIA and the tragick muse,
+      Each eager on her side t' engage
+    Th' unrivall'd Roscius of the British stage---             260
+
+
+  XXVIII.
+
+    Stern and erect the buskin'd dame
+      In high dramatick wrath appears,
+    With energy supports her claim
+      And seems to thunder in his ears;
+    While the inveigling comick Fair,
+    With aspect sly and artful air
+    To draw her favourite to her arms
+      Strains every nerve; but as she strives,
+      With the sweet attitude contrives
+  T' impart the stronger influence to her charms--             270
+
+
+  XXIX.
+
+      Betwixt them with distracted mein
+      The object of their strife is seen;
+        His eyes with wild confusion roll,
+      Mixt passions, with alternate sway,
+      In his ambiguous features play,
+    And speak as yet the undetermined soul;
+        But that half-assenting leer,
+    Obliquely on the little wheedler thrown,
+        Portends, though checkt with aukward fear,
+    That soon the apostate will be all her own--               280
+
+
+  XXX.
+
+      Spare, Oh! Time, these colours; spare 'em,
+      Or with thy tend'rest touch impair 'em:
+      At least, for some few centuries space,
+      Shine they with unlessen'd grace!
+    They shall---yet, Oh! these noble works at last
+    Must, by the gathering mould o'ercast,
+      Or rotted by the damps, decay,
+        Or by the air's corrosive power,
+        Or e'en the slowly-fretting hour,
+      Must every trace of beauty melt away.                    290
+
+
+  XXXI.
+
+      When er'st APELLE's friend enquir'd,
+        Why touch'd so oft in every part
+        With repeated strokes of art,
+      The picture which already they admir'd,
+    The Artist, with becoming pride,
+    "I'm Painting for Eternity," replied.
+
+
+  XXXII.
+
+    But vain, great Genius! was thy boast;
+    Long since th' eternal piece is lost----
+      Thy VENUS now no more expresses,
+        Rising from her watery bed,                            300
+      The moisture from her twisted tresses
+        O'er her dazzling bosom spread---
+  No more thy colours bloom, effac'd by age,
+  But in the poet's or th' historian's page.
+
+
+  XXXIII.
+
+    Oh then---reject not with disdain,
+    Great Artist, this unpolish'd strain----
+    Though happy while it may intend
+      Thy shining merits to display,
+    It may serve only in the end
+      My own weak genius to betray,                            310
+  May shew with what presumption I aspire
+        To build the rhyme
+        And tow'er sublime
+  With PINDAR's vanity without his fire.
+
+
+  XXXIV.
+
+    Yet----confide----(for every trifler's breast)
+      And by this influence I presage
+      In the long course of rolling years,
+      When all thy labour disappears,
+  Yet shall this verse descend from age to age,
+      And, breaking from oblivion's shade,                     320
+  Go on, to flourish while thy paintings fade.
+
+
+  XXXV.
+
+    If so---at present though thy hand
+    May glory of itself command,
+      Nor can the muse's laurels now,
+    Though wove with nicer skill than mine,
+    Help to adorn it, while they twine
+      Round thy already loaden brow---
+    Yes---if my presage is not vain---
+    Yes---if this verse hereafter should remain---             330
+    (Though now indeed as needless quite
+    As at noon's blaze the taper's light)
+  It may then serve to aggrandize thy name,
+  And add some splendor to thy future fame.
+
+
+FINIS.
+
+
+       *       *       *       *       *
+           *       *       *       *
+
+PUBLICATIONS OF THE AUGUSTAN REPRINT SOCIETY
+
+  [Where available, Project Gutenberg e-text numbers are shown in
+  brackets.]
+
+
+FIRST YEAR (1946-1947)
+
+Numbers 1-6 out of print.
+
+  [Titles 1-4:
+  1. Blackmore, Essay upon wit  [13484]
+
+  2. Flecknoe, On wit; Warton, The adventurer  [14973]
+
+  3. Letter to A. H. Esq., concerning the Stage (1698),
+  and Richard Willis' Occasional Paper No. IX (1698).  [14047]
+
+  4. Cobb, Discourse on Criticism and of Poetry (1707) From
+  Poems On Several Occasions (1707)  [14528] ]
+
+5. Samuel Wesley's _Epistle to a Friend Concerning Poetry_ (1700) and
+_Essay on Heroic Poetry_ (1693).  [16506]
+
+6. _Representation of the Impiety and Immorality of the Stage_ (1704)
+and _Some Thoughts Concerning the Stage_ (1704).  [15656]
+
+
+SECOND YEAR (1947-1948)
+
+7. John Gay's _The Present State of Wit_ (1711): and a section on Wit
+from _The English Theophrastus_ (1702).  [14800]
+
+8. Rapin's _De Carmine Pastorali_, translated by Creech (1684).  [14495]
+
+9. T. Hanmer's (?) _Some Remarks on the Tragedy of Hamlet_ (1736).
+[14899]
+
+10. Corbyn Morris' _Essay towards Fixing the True Standards of Wit,
+etc._ (1744).  [16233]
+
+11. Thomas Purney's _Discourse on the Pastoral_ (1717).  [15313]
+
+12. Essays on the Stage, selected, with an Introduction by Joseph Wood
+Krutch.  [16335]
+
+
+THIRD YEAR (1948-1949)
+
+13. Sir John Falstaff (pseud.), _The Theatre_ (1720).  [15999]
+
+14. Edward Moore's _The Gamester_ (1753).  [16267]
+
+15. John Oldmixon's _Reflections on Dr. Swift's Letter to Harley_
+(1712); and Arthur Mainwaring's _The British Academy_ (1712).  [25091]
+
+16. Nevil Payne's _Fatal Jealousy_ (1673).  [16916]
+
+17. Nicholas Rowe's _Some Account of the Life of Mr. William
+Shakespeare_ (1709).  [16275]
+
+18. "Of Genius," in _The Occasional Paper_, Vol. III, No. 10 (1719);
+and Aaron Hill's Preface to _The Creation_ (1720).  [15870]
+
+
+FOURTH YEAR (1949-1950)
+
+19. Susanna Centlivre's _The Busie Body_ (1709).  [16740]
+
+20. Lewis Theobold's _Preface to The Works of Shakespeare_ (1734).
+[16346]
+
+21. _Critical Remarks on Sir Charles Grandison, Clarissa, and Pamela_
+(1754).  [IN PREPARATION]
+
+22. Samuel Johnson's _The Vanity of Human Wishes_ (1749) and Two
+_Rambler_ papers (1750).  [13350]
+
+23. John Dryden's _His Majesties Declaration Defended_ (1681).  [15074]
+
+24. Pierre Nicole's _An Essay on True and Apparent Beauty in Which from
+Settled Principles is Rendered the Grounds for Choosing and Rejecting
+Epigrams_, translated by J. V. Cunningham.  [IN PREPARATION]
+
+
+FIFTH YEAR (1950-1951)
+
+25. Thomas Baker's _The Fine Lady's Airs_ (1709).  [14467]
+
+26. Charles Macklin's _The Man of the World_ (1792).  [14463]
+
+27. Frances Reynolds' _An Enquiry Concerning the Principles of Taste,
+and of the Origin of Our Ideas of Beauty, etc._ (1785).  [13485]
+
+28. John Evelyn's _An Apologie for the Royal Party_ (1659); and
+_A Panegyric to Charles the Second_ (1661).  [17833]
+
+29. Daniel Defoe's _A Vindication of the Press_ (1718).  [14084]
+
+30. Essays on Taste from John Gilbert Cooper's _Letters Concerning
+Taste,_ 3rd edition (1757), & John Armstrong's _Miscellanies_ (1770).
+[13464]
+
+
+SIXTH YEAR (1951-1952)
+
+31. Thomas Gray's _An Elegy Wrote in a Country Church Yard_ (1751);
+and _The Eton College Manuscript_.  [15409]
+
+32. Prefaces to Fiction; Georges de Scudéry's Preface to _Ibrahim_
+(1674), etc.  [14525]
+
+33. Henry Gally's _A Critical Essay_ on Characteristic-Writings (1725).
+[16299]
+
+34. Thomas Tyers' A Biographical Sketch of Dr. Samuel Johnson (1785).
+
+35. James Boswell, Andrew Erskine, and George Dempster. _Critical
+Strictures on the New Tragedy of Elvira, Written by Mr. David Malloch_
+(1763).  [15857]
+
+36. Joseph Harris's _The City Bride_ (1696).  [22974]
+
+
+
+
+William Andrews Clark Memorial Library: University of California
+
+THE AUGUSTAN REPRINT SOCIETY
+
+
+_General Editors_
+
+  H. RICHARD ARCHER
+  William Andrews Clark Memorial Library
+
+  R. C. BOYS
+  University of Michigan
+
+  E. N. HOOKER
+  University of California, Los Angeles
+
+  JOHN LOFTIS
+  University of California, Los Angeles
+
+The Society exists to make available inexpensive reprints (usually
+facsimile reproductions) of rare seventeenth and eighteenth century
+works. The editorial policy of the Society continues unchanged. As in
+the past, the editors welcome suggestions concerning publications. All
+income of the Society is devoted to defraying cost of publication and
+mailing.
+
+All correspondence concerning subscriptions in the United States and
+Canada should be addressed to the William Andrews Clark Memorial
+Library, 2205 West Adams Boulevard, Los Angeles 18, California.
+Correspondence concerning editorial matters may be addressed to any of
+the general editors. The membership fee is $3.00 a year for subscribers
+in the United States and Canada and 15/- for subscribers in Great
+Britain and Europe. British and European subscribers should address
+B. H. Blackwell, Broad Street, Oxford, England.
+
+
+Publications for the sixth year [1951-1952]
+
+  [Transcriber's Note: See previous page for e-text numbers. The present
+  page seems to have been typeset earlier in the academic year.]
+
+(At least six items, most of them from the following list, will be
+reprinted.)
+
+THOMAS GRAY: _An Elegy Wrote in a Country Church Yard_ (1751).
+Introduction by George Sherburn.
+
+JAMES BOSWELL, ANDREW ERSKINE, and GEORGE DEMPSTER: _Critical Strictures
+on the New Tragedy of Elvira_ (1763). Introduction by Frederick A.
+Pottle.
+
+_An Essay on the New Species of Writing Founded by Mr. Fielding_ (1751).
+Introduction by James A. Work.
+
+HENRY GALLY: _A Critical Essay on Characteristic Writing_ (1725).
+Introduction by Alexander Chorney.
+
+[JOHN PHILLIPS]: _Satyr Against Hypocrits_ (1655). Introduction by Leon
+Howard.
+
+_Prefaces to Fiction._ Selected and with an Introduction by Benjamin
+Boyce.
+
+THOMAS TYERS: _A Biographical Sketch of Dr. Samuel Johnson_ ([1785]).
+Introduction by Gerald Dennis Meyer.
+
+
+Publications for the first five years (with the exception of nos. 1-4,
+which are out of print) are available at the rate of $3.00 a year.
+Prices for individual numbers may be obtained by writing to the Society.
+
+
+  THE AUGUSTAN REPRINT SOCIETY
+  _WILLIAM ANDREWS CLARK MEMORIAL LIBRARY_
+  2205 West Adams Boulevard, Los Angeles 18, California
+
+Make check or money order payable to THE REGENTS OF THE UNIVERSITY OF
+CALIFORNIA.
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+ERRATA (Noted by transcriber)
+
+Editor's Introduction
+
+  "This is an elegant and ingenious  [" missing]
+  There was also among the portraits at Yeo Vale  [protraits]
+
+Pindarick Ode
+
+  With RAPHAEL's grace, and BUANOROTI's fire---  [_spelling unchanged_]
+  Th' agonizing GOD we see---  [agnonizing]
+  Th' untarnish'd form secur'd---  [secur d]
+  When er'st APELLE's friend enquir'd,
+    [_spelling unchanged: name is Apelles_]
+
+_Missing Stanza Numbers_
+
+  Stanza numbers X and XXIX are conjectural; each is at the top
+  of a page.
+
+_Missing Line Numbers_
+
+  130; 180, 190, 200 [entire page]; 250, 260; 310
+
+Augustan Reprint Society
+
+  Numbers 1-6 out of print.  [_error for "1-4"?_]
+
+
+
+
+
+End of Project Gutenberg's A Pindarick Ode on Painting, by Thomas Morrison
+
+*** END OF THIS PROJECT GUTENBERG EBOOK A PINDARICK ODE ON PAINTING ***
+
+***** This file should be named 27130-8.txt or 27130-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/7/1/3/27130/
+
+Produced by Louise Hope, David Starner, Suzanne Lybarger
+and the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

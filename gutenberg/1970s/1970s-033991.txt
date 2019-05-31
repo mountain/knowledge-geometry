@@ -1,0 +1,1750 @@
+﻿The Project Gutenberg EBook of Some Reptiles and Amphibians from Korea, by 
+Robert G Webb and J. Knox Jones and George W. Byers
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Some Reptiles and Amphibians from Korea
+
+Author: Robert G Webb
+        J. Knox Jones
+        George W. Byers
+
+Release Date: January 13, 2011 [EBook #34949]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SOME REPTILES AND AMPHIBIANS ***
+
+
+
+
+Produced by Simon Gardner, Chris Curnow, Joseph Cooper and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+Transcriber's Notes
+
+This Plain Text version has been prepared for Smooth Reading using the
+ASCII and Latin-1 character sets.
+
+  Italic typeface has been represented using _underscores_;
+  Bold typeface has been represented using =equals symbols=;
+  Small caps typeface has been represented using UPPER CASE.
+
+Note that some unexpected spellings have not been changed from
+the original:
+
+Page 155 onwards: "parotoid" appears for "parotid".
+
+Page 172 (two references by Mori): "Quelpaert" appears for "Quelpart".
+
+The following changes to the text have been made:
+
+Page 159: changed "planyci" to "plancyi" (The most trenchant characters
+of _plancyi_ seem to be ...)
+
+Page 169: changed "juvenal" to "juvenile" (... does not conform to the
+juvenile pattern of either subspecies.)
+
+       *       *       *       *       *
+
+
+                  UNIVERSITY OF KANSAS PUBLICATIONS
+                      MUSEUM OF NATURAL HISTORY
+
+                    Volume 15, No. 2, pp. 149-173
+
+                           January 31, 1962
+
+               Some Reptiles and Amphibians from Korea
+
+                                  BY
+
+                 ROBERT G. WEBB, J. KNOX JONES, JR.,
+                         AND GEORGE W. BYERS
+
+                         UNIVERSITY OF KANSAS
+                               LAWRENCE
+                                 1962
+
+
+     UNIVERSITY OF KANSAS PUBLICATIONS, MUSEUM OF NATURAL HISTORY
+
+         Editors: E. Raymond Hall, Chairman, Henry S. Fitch,
+                        Theodore H. Eaton, Jr.
+
+                    Volume 15, No. 2, pp. 149-173
+                      Published January 31, 1962
+
+                         UNIVERSITY OF KANSAS
+                           Lawrence, Kansas
+
+                              PRINTED BY
+                   JEAN M. NEIBARGER, STATE PRINTER
+                            TOPEKA, KANSAS
+                                 1962
+
+                               28-8517
+
+
+
+               Some Reptiles and Amphibians from Korea
+
+                                  BY
+
+       ROBERT G. WEBB, J. KNOX JONES, JR., AND GEORGE W. BYERS
+
+In 1954, two of us (Jones and Byers) collected reptiles and amphibians
+in Korea incidental to field studies relating to hemorrhagic fever. The
+382 specimens thus obtained were deposited either in the Museum of
+Natural History of The University of Kansas (KU), or in the Museum of
+Zoology of the University of Michigan (UMMZ), and are the basis for the
+present report. Continuous American military operations of one sort or
+another in Korea since 1945 have afforded opportunities for interested
+persons to obtain there collections of amphibians and reptiles, the
+study of which has resulted in several recent publications (Babb, 1955;
+Dixon, 1956; Hahn, 1959 and 1960; Shannon, 1956 and 1957; Stewart, 1953
+and 1954; Tanner, 1953; Walley, 1958_a_ and 1958_b_). This paper, which
+contains comments on the natural history and taxonomy of 22 species, all
+previously reported from Korea, supplements earlier studies, especially
+Shannon's (1956) annotated list of the herpetofauna of the country.
+
+Shannon (_loc. cit._) recorded 36 kinds of reptiles and amphibians from
+Korea. Subsequently, _Bufo stejnegeri_ (previously omitted) was added by
+Shannon (1957), _Takydromus takydromoides oldi_ was described by Walley
+(1958_a_), and _Takydromus kwangakuensis_ was relegated to synonymy
+under _T. amurensis_ by Walley (1958_b_). Presently, then, 37 kinds are
+on record from the Korean Peninsula.
+
+In the accounts beyond, Jones and Byers are mostly responsible for the
+remarks on natural history, whereas Webb is mostly responsible for the
+taxonomic comments. The synonymies include (1) the original description,
+which is followed by (2) the first use of the name-combination here
+employed if it differs from the name as originally proposed, and (3) any
+synonyms having type localities in Korea. All measurements are in
+millimeters and all dates refer to the year 1954 unless otherwise
+indicated. A gazetteer of localities mentioned in the text and a list of
+literature cited follow the accounts of species.
+
+We are grateful to the officers, enlisted men and civilians associated
+in 1954 with the Field Unit of the Commission on Hemorrhagic Fever,
+Armed Forces Epidemiological Board, who aided our efforts in Korea; we
+are especially mindful of the contributions of Dr. Albert A. Barber, Dr.
+Marshall Hertig, Mr. Louis J. Lipovsky and Dr. Warren D. Thomas. We are
+grateful also to Mr. Yoshinori Imaizumi, National Science Museum of
+Japan, for his translations of several papers in Japanese, and to Dr.
+Edward H. Taylor for making certain pertinent references available to
+us.
+
+
+=Hynobius leechii= Boulenger
+
+    _Hynobius Leechii_ Boulenger, Ann. Mag. Nat. Hist., ser. 5, 19:67,
+      January, 1887 (type locality, Gensan [=Wonsan], Korea).
+
+    _Hynobius leechii quelpaertensis_ Mori, Jour. Chosen Nat. Hist.
+      Soc., 6:47 (Japanese) and 53 (English), March 25, 1928 (type
+      locality, Quelpart Island [=Cheju Do], Korea).
+
+    _Specimens examined_ (3).--1 mi. SW Inje, 1 (KU); 4 mi. NNE
+    Sogwi-ri, Cheju Do, 2 (KU).
+
+    _Description_ (KU 38774 from 1 mi. SW Inje).--Total length, 86 (head
+    13, body 40, tail 33); costal grooves (including axillary and
+    inguinal), 13; two costal grooves between adpressed toes; length of
+    inner branch of series of vomerine teeth less than distance between
+    outer border of naris and peak of opposite series (tooth-rows
+    V-shaped, approximately as long as broad); dorsal surface yellowish
+    brown or buff (yellowish in life), having numerous blackish marks;
+    venter yellowish cream, having an indistinct grayish mottling.
+
+_Remarks._--The salamander described above was found in a foxhole with
+another desiccated individual (not saved) on a military compound on
+April 24. The only other occurrence of _H. leechii_ on the mainland to
+come to our attention was the report of several larvae that were seen in
+a small pool on a hillside near Chip´o-ri in the summer of 1953.
+
+Each of the two specimens from Cheju Do (KU 38775-76) differs from KU
+38774 in having (1) the length of inner branch of the vomerine series
+slightly greater than the distance between outer border of naris and
+peak of opposite series (tooth-rows V-shaped, longer than broad), (2) a
+dorsal and ventral keel on the tail, (3) one costal groove (rather than
+two costal grooves) between adpressed toes, and (4) in being darker both
+dorsally and ventrally. The area of buff on the dorsal surface of each
+specimen is reduced by a fine, blackish mottling and stippling, and the
+venter of each is grayish. Respective total lengths of KU 38775 and
+38776 are 84 (head 12, body 36, tail 36) and 89 (12, 35, 42), and the
+number of costal grooves 13 and 14. Although the two specimens are of
+approximately the same size, the tail of KU 38776 is noticeably the
+longer; the tail of KU 38775 is thicker and deeper than that of KU
+38776.
+
+The two specimens from 4 mi. NNE Sogwi-ri were taken on September 9 in
+damp substrate under volcanic rocks along a little-used road; although
+many rocks were overturned, only these two individuals were found. A
+South Korean soldier informed us that salamanders were fairly common on
+Cheju Do.
+
+Mori (1928_a_:16) first mentioned in Japanese text the alleged
+distinctiveness of the salamander occurring on Cheju Do. Later, Mori
+(1928_b_:47 in Japanese, and 1928_c_:53 in English) provided valid
+descriptions of the subspecies, _Hynobius leechii quelpaertensis_. Okada
+(1934:17) questioned the validity of _H. l. quelpaertensis_ and Sato
+(1943) regarded the salamanders of Cheju Do as inseparable from the
+Korean _H. leechii_. The English description of _quelpaertensis_ is
+briefer than the preceding one in Japanese and lacks comparisons with
+related forms. KU 38775-76 seemingly differ appreciably from the
+description of _quelpaertensis_ only in having the series of vomerine
+teeth narrowly V-shaped and longer than broad. We tentatively follow
+Sato in regarding _quelpaertensis_ as a synonym of _leechii_.
+
+
+=Bombina orientalis= (Boulenger)
+
+    _Bombinator orientalis_ Boulenger, Ann. Mag. Nat. Hist., ser. 6,
+      5:143, pl. IX, fig. 2, February, 1890 (type locality restricted to
+      Chefoo, China, by Pope, Bull. Amer. Mus. Nat. Hist., 61:435,
+      August 29, 1931).
+
+    _Bombina orientalis_, Stejneger, Bull. U. S. Nat. Mus., 58:51, figs.
+      30-43, pl. VII (reproduction from Boulenger, _supra_), July 22,
+      1907.
+
+    _Specimens examined_ (87).--2 mi. N Chip´o-ri, 8 (KU), 5 (UMMZ); 1
+    mi. SW Inje, 1 (KU); 15 mi. NE Mosulp´o, Cheju Do, 6 (KU);
+    Sangdaehwa, 2 (KU); Taehoesan-ni, 1 (KU); 1 mi. W Tangjonggok, 32
+    (KU), 17 (UMMZ); Tangnim-ni, 2 (KU); 3 mi. SW Yanggu, 1 (KU); 2 mi.
+    N Yongdae-ri, 8 (KU), 4 (UMMZ).
+
+_Remarks._--Most of our specimens were taken from breeding congresses
+after heavy rains in rice fields and other shallow temporary waters.
+Thirteen individuals from Chip´o-ri were collected from foxholes around
+the edge of a military compound (two pairs in amplexus; no egg masses
+seen), and represent a small sample of frogs that were everywhere
+following a heavy rain on the night of May 13-14. On April 23, 32
+_Bombina orientalis_ and three _Rana temporaria dybowskii_ were trapped
+in the water-filled bottom of an unused grease pit near Tangjonggok.
+Many tadpoles and two kinds of egg masses (small clusters and beadlike
+strings) were present; the small clusters of _Bombina_ were commonest.
+On June 13 at the same locality, thousands of these toads were observed
+(hundreds in axillary amplexus) in foxholes, temporary rain pools, and
+backwashes along the Puk-ch´on [river]. On June 12 near Yongdae-ri many
+individuals were seen (several pairs in amplexus), along Route 24
+paralleling the Puk-ch´on, in rain pools and in ditches and backwashes
+from the river; almost all available water contained small
+(approximately 10 × 10 mm.) egg masses. Numbers of eggs per mass,
+selected at random, were 5, 2, 2, 5, 2, 8, 8, 2 and 5. Some that were
+saved subsequently hatched on June 15-17.
+
+The call is a quiet low trill or series of staccato whistles rising
+slightly at the beginning; a short peeplike note also was heard. The
+specimens from Cheju Do, which are generally smaller than those
+collected on the mainland in spring, were taken on September 6 in a
+small stream that had large volcanic rocks in many places and that was
+flanked by thick brush and small trees. The earliest and latest dates on
+which _B. orientalis_ was collected were April 21 and September 6,
+respectively.
+
+In the breeding season, males are distinguished from females by the
+large blackish (probably brownish earlier in season) areas on the
+anteroventral surface of the antebrachium, the metacarpal tubercle, and
+the inner surface of the first finger (sometimes also the second and
+third). Also, males have conspicuous black-tipped tubercles on the back
+(usually absent in females) that extend onto the limbs (usually smooth
+in females, at least laterally). Field observations by one of us (Byers)
+suggested that the dorsal pattern of males had greater contrast than
+that of females and that the venter was brighter reddish. Eight females
+from Tangjonggok averaged 47.9 (43-51) in snout-vent length, whereas 24
+males from there averaged 50.0 (46-55), indicating little, if any, size
+difference between the sexes.
+
+Okada (1931:29) recorded variation in color of live Korean individuals
+(green or brown dorsally and pale yellow or red ventrally) and variation
+in extent of black markings on the belly (_op. cit._:fig. 12). The
+specimens from Cheju Do (28, 32, 32, 32, 37 and 46 in snout-vent length)
+have less black ventrally than specimens from the mainland.
+
+
+=Bufo bufo gargarizans= Cantor
+
+    _Bufo gargarizans_ Cantor, Ann. Mag. Nat. Hist., ser. 1, 9:483,
+      August, 1842 (type locality, island of Chusan, China).
+
+    _Bufo bufo gargarizans_, Stejneger, Bull. U. S. Nat. Mus., 58:59,
+      July 22, 1907.
+
+    _Specimens examined_ (10).--Central National Forest, near
+    Pup´yong-ni, 1 (KU); 5 mi. NW Choksong, near Imjin River, 1 (KU); 5
+    mi. E Seoul, 1 (KU); 6 mi. E Seoul, 4 (KU), 2 (UMMZ); 1 mi. S
+    Yami-ri, 1 (KU).
+
+    _Description (nine females)._--Dorsal surface brownish, having
+    indistinct pale areas, some of which tend to form longitudinal
+    stripes that extend posteriorly from parotoid glands; blackish
+    mark, usually on lateral part of parotoid, having short spurs
+    directed posteriorly and ventrally; edge of upper jaw and warts on
+    dorsal surface becoming blackish with increasing size; small,
+    conspicuous group of warts near angle of jaw below parotoid;
+    middorsal warts tending, at level of posterior edge of parotoids, to
+    form a V that has its apex between the parotoids; ventral surface
+    pale yellowish, sometimes having well-defined blackish marks;
+    granular underparts of large specimens having small blackish
+    tubercles.
+
+    _Male (KU 40118 from 5 mi. E Seoul)._--Snout-vent length, 65; no
+    vocal sacs or slits; dorsal and inner surfaces of first and second
+    fingers, and inner surface of third finger black; canthus rostralis
+    indistinct (a well-defined ridge on right side); nostrils closer to
+    tip of snout than to eye, their distance from each other slightly
+    less than interorbital width; interorbital width (6.2) greater than
+    width of eyelid (4.7); tympanum distinct, circular, its diameter
+    (3.0) less than length of eye (6.5), and approximately twice
+    distance (1.6) of tympanum from eye; no cranial crests; parotoid
+    gland elongate, approximately twice as long as broad (12.5 × 5.0),
+    narrowly separated from posterior edge of eyelid; head elongate
+    (width at posterior edge of tympanum, 23.6); length from posterior
+    edge of tympanum to tip of upper jaw, 18.9; first finger slightly
+    longer than second, fourth finger about two-thirds as long as third;
+    most subarticular tubercles divided; outer palmar tubercle larger
+    than inner; heels not touching when folded legs placed at right
+    angles to longitudinal axis of body; tibiotarsal articulation just
+    reaching eye when leg laid forward; tarsometatarsal articulation not
+    reaching beyond snout; foot large (tibiotarsal articulation to tip
+    of fourth toe approximately 46.0); fourth toe approximately half
+    webbed, other toes more than half webbed; edges of webs somewhat
+    crenulate; some subarticular tubercles divided; length of inner
+    metatarsal tubercle (4.5) more than half length of first toe (7.0);
+    inner metatarsal tubercle larger than outer, both darkened; tarsal
+    fold extending from inner metatarsal tubercle for approximately
+    two-thirds length of tarsus; tips of toes (not fingers) darkened;
+    dorsal surface of back and proximal part of hind legs coarsely
+    granular, of rounded, pavement-type tubercles lacking sharp tips;
+    small group of warts near angle of jaw below parotoids; dorsal
+    pattern contrasting and irregular (especially on limbs), of dark
+    brown and pale gray; conspicuous black mark (interrupted) on lateral
+    surface of parotoid having two, well-defined spurs that project
+    posteroventrally; undersurface granular, lacking markings except for
+    two indistinctly-margined dark spots on chest, and black spot on
+    left leg.
+
+_Remarks._--This nocturnal, introduced species (Okada, 1931:47) is
+presumably widespread in Korea and seemingly prefers lowland habitats.
+Individuals were taken in sparse vegetation on a sand flat near the Han
+River, at the edge of a rice field in a light rain, along a road at
+night, and in millet fields adjacent to the Han River, which was
+flooding at that time (July 9).
+
+As is obvious from the foregoing descriptions, the male (KU 40118),
+which was obtained on March 19, differs considerably from the nine
+females; neither does it agree with Stejneger's (1907:66) or Okada's
+(_op. cit._:45-46, fig. 18) description of males of _Bufo bufo asiaticus
+[=gargarizans]_ from Wonsan and Seoul. Upon cursory examination, KU
+40118 is notable for having a contrasting dorsal pattern and elongate,
+ranidlike proportions. Some of the characteristics resemble those of
+_Bufo raddei_ Strauch as given by Stejneger (_op. cit._:70-72, figs.
+53-57), Okada (1935:9, figs. 2 and 32-34, pls. II-III), and Liu
+(1950:203-205, fig. 43).
+
+Stejneger (_op. cit._:59-68) recognized _B. b. gargarizans_ as occurring
+in southern China, and _Bufo bufo asiaticus_ as the subspecies occurring
+in northern China. Subsequently, _asiaticus_ was relegated to synonymy
+under the earlier-named _gargarizans_--see discussions by Pope and
+Boring (1940:33) and Liu (_op. cit._:220).
+
+
+=Kaloula borealis= (Barbour)
+
+    _Cacopoides borealis_ Barbour, Bull. Mus. Comp. Zool., 51(12):231,
+      April, 1908 (type locality, Antung, Manchuria).
+
+    _Kaloula borealis_, Noble, Amer. Mus. Novit., 165:6, April 16, 1925.
+
+    _Specimens examined_ (8).--5 mi. ESE Seoul, 1 (KU); 6 mi. E Seoul, 3
+    (UMMZ); 7 mi. ESE Seoul, 4 (KU).
+
+_Remarks._--On April 5, one male and three females were uncovered by a
+bulldozer from between one and two feet below the surface of the ground
+in an old Korean burial mound; one individual was completely surrounded
+by compact soil. All quickly became active when placed in water. Two of
+the females (43 and 44 in snout-vent length) contained masses of
+immature eggs. A male obtained on June 4 was found during a rain; the
+three UMMZ specimens were obtained on July 8 on banks above the Han
+River. Breeding of this species seems to coincide with the rainy season
+in late spring and early summer when males were noted calling around
+flooded ditches and swales in deep grass. The local Korean name of the
+species, which sounds something like "maeng-kongi," is said to come from
+the call, which is best described as a monotonous, snoring sound that
+rarely is heard in two parts as suggested by the name.
+
+
+=Hyla arborea japonica= Günther
+
+    [_Hyla arborea_] Var. _japonica_ Günther, Catalogue of the Batrachia
+      Salientia in the ... British Museum, p. 109, 1858 (type locality,
+      Japan).
+
+    _Hyla arborea_ var. _savignyi_ Boulenger, Ann. Mag. Nat. Hist., ser.
+      5, 19:67, January, 1887 (type locality, Gensan [= Wonsan], Korea).
+
+    _Hyla stepheni_ Boulenger, Proc. Zool. Soc. London, p. 579, pl. 51,
+      fig. 1 (for 1887), April, 1888 (type locality, Port Hamilton, a
+      small island between Korea and Japan).
+
+    _Specimens examined_ (44).--Central National Forest, near
+    Pup´yong-ni, 2 (KU); 3 mi. NW Chip´o-ri, 1 (KU); 1 mi. N Mosulp´o,
+    Cheju Do, 1 (KU); 1 mi. NW Oho-ri, 13 (KU), 3 (UMMZ);
+    Sangbonch´on-ni, 2 (UMMZ); 5 mi. ESE Seoul, 8 (KU); 6 mi. E Seoul,
+    10 (KU), 3 (UMMZ); 7 mi. NNE Sogwi-ri, Cheju Do, 1 (UMMZ).
+
+_Remarks._--Hylids from 5 mi. ESE Seoul were collected from a
+cement-walled pit at the Seoul City Water Works; a specimen of _Elaphe
+rufodorsata_ taken in the pit had eaten one hylid. Two individuals were
+taken in the morning of May 29 on leaf litter in a wooded valley in the
+Central National Forest where a number were calling in a light rain, but
+the species was rarely found in woods. Two frogs were found along a
+rocky stream at Sangbonch´on-ni. Most individuals were taken while
+calling, on grasses and reeds or on the ground, along the edges of rice
+fields. Sixteen hylids collected 1 mi. NW Oho-ri were calling in shallow
+water of a rice field on a hillside, but none was heard in a large lake
+nearby or in adjacent fields. On May 15, 4 mi. ESE Ch´orwon,
+approximately one hundred tadpoles, thought to be of this species,
+congregated near a drain (into a lower field) of an unused rice field;
+the tadpoles were well-developed, some having hind legs. The earliest
+and latest dates of collection represented in our material are May 8 and
+October 29. The call is best described as a raspy "waak," "week," or
+"wiick" in the middle register.
+
+The listing of "Hylae arboreae var japonicae descript pars _Schleg. in
+Fauna Japon._ p. 112 ..." by Günther (1858:81) in synonymy under the
+account of _Polypedates schlegelii_, implies that Schlegel was the first
+author to use the name-combination _Hyla arborea japonica_. Boulenger
+(1882:86, 381) went so far as to credit Schlegel as the author of the
+name _japonica_. The reason for this action is not known because
+Schlegel (in von Siebold, 1838:112) referred to this hylid only under
+the name "Hyla arborea."
+
+
+=Rana rugosa= Schlegel
+
+    _Rana rugosa_ Schlegel, Reptilia [Saurii et Batrachii], _in_ von
+      Siebold, Fauna Japonica, p. 110, pl. 3, figs. 3-4, 1838 (type
+      locality designated as Japan, probably near Nagasaki, by
+      Stejneger, Bull. U. S. Nat. Mus., 58:123, July 22, 1907).
+
+    _Specimens examined_ (26).--Central National Forest, near
+    Pup´yong-ni, 13 (KU), 1 (UMMZ); 2 mi. S Ch´orwon, 4 (KU); 2 mi. E
+    Hoengsong, 3 (KU); 1 mi. NW Oho-ri, 1 (KU); 5 mi. ESE Seoul, 1 (KU);
+    6 mi. E Seoul, 3 (UMMZ).
+
+_Remarks._--_Rana rugosa_ was associated with _Rana nigromaculata_ and
+_Rana amurensis coreana_ at all localities where the species was taken
+save at 2 mi. E Hoengsong, where _R. a. coreana_ was not observed. Three
+specimens of _R. rugosa_ were collected among grasses and reeds in
+water along the edge of Ch´orwon Reservoir, 2 mi. S Ch´orwon, where they
+were difficult to find in the thick vegetation even though their low,
+soft calls were heard; the specimen from 1 mi. NW Oho-ri was found in a
+rice field. Otherwise, habitats recorded indicate a preference for
+small, fast-flowing streams, especially in wooded valleys. On one
+occasion, individuals were found trapped in cement-walled pits about old
+ruins on a wooded hillside in the Central National Forest. The earliest
+and latest dates of capture among our specimens are May 15 and November
+6. In addition to the localities listed above, the species was observed
+4 mi. W Ch´ungju.
+
+_R. rugosa_ may have an extensive breeding season as suggested by the
+variation in size of frogs collected or observed in 1954. Of nine frogs
+obtained on May 29, five ranged in snout-vent length from 26 to 28, and
+four from 42 to 54. Three specimens collected on October 9 measured 39,
+41, and 55, and two obtained on November 6 measured 25 and 37.
+
+
+=Rana nigromaculata= Hallowell
+
+    _Rana nigromaculata_ Hallowell, Proc. Acad. Nat. Sci. Philadelphia,
+      [12]:500 (for 1860), 1861 (type locality, Simoda, Japan).
+
+    _Specimens examined_ (47).--Central National Forest, near
+    Pup´yong-ni, 6 (KU); 2 mi. S Ch´orwon, 5 (KU); 4 mi. W Ch´ungju, 2
+    (KU); 7 mi. W Ch´ungju, 1 (KU); 2 mi. E Hoengsong, 1 (KU); 8 mi. SW
+    Kunsan, 1 (KU); 1 mi. NW Oho-ri, 5 (KU); 5 mi. ENE Pusan, 2 (KU); 5
+    mi. ESE Seoul, 9 (KU); 6 mi. E Seoul, 3 (KU), 10 (UMMZ); 6 mi. NNE
+    Sogwi-ri, Cheju Do, 2 (KU).
+
+    _Description._--Back brownish or grayish (greenish in life), having
+    few, indistinct or well-defined, dark blotches, or extensive
+    blackish areas (representing fusion of markings); pale, middorsal
+    stripe (pale green, buff or yellowish in life) from snout to anus,
+    sometimes as wide as interorbital width, but indistinct or lacking
+    when pattern on back absent; blackish bar often present behind
+    tympanum; posterior surface of thigh mottled; underparts pale yellow
+    to whitish, sometimes having a few dusky marks on throat;
+    longitudinal ridges between dorsolateral folds indistinct in some
+    small frogs; largest female and male having respective snout-vent
+    lengths of 100 and 70.
+
+_Remarks._--_Rana nigromaculata_ is the most abundant ranid in central
+Korea and, in a general way, the ecological equivalent of _Rana pipiens_
+in temperate North America. The species is associated with most aquatic
+habitats, from rocky streams to rice fields and large impoundments. In
+the vicinity of Seoul the din of large breeding congresses was heard
+more or less continuously from mid-April to mid-May. Large numbers of
+juveniles (approximately one inch long) were noticed first on July 8 and
+were present thereafter for about three weeks, being commonest in
+standing water after heavy rains or during prolonged showers. These data
+and the different sizes of individuals collected at the same time
+suggest either variable growth or, more probably, an extensive breeding
+season. Our earliest and latest dates of collection are April 16 and
+October 7. The Korean name for "frog," most often applied to _R.
+nigromaculata_, sounds something like "keg-oh-ree." The call is a
+prolonged, raspy, staccato croak, sometimes with a rising inflection at
+the end.
+
+In addition to the localities listed above, the species was observed 5
+mi. W Kwangju and 3 mi. S Osan.
+
+Despite a high degree of individual variation, _Rana nigromaculata_
+seemingly varies geographically as well; some subspecies probably should
+be recognized, but the species as a whole has never been thoroughly
+studied systematically. The division of _R. nigromaculata_ into three
+subspecies by Schmidt (1927:563-567) was considered untenable by Fang
+and Chang (1931:95-98), and it has been regarded by most recent authors
+as a variable, monotypic species.
+
+The named subspecies _R. n. chosenica_ (Okada, 1931:89, with type
+locality at Seoul, and geographically restricted to Korea) was
+considered a subspecies of _Rana plancyi_ by Shannon (1956:36). The most
+trenchant characters of _plancyi_ seem to be the wide dorsolateral
+folds, the uniform greenish dorsum, the presence of dermal pustules on
+the back between the dorsolateral folds, and the lack of a mottled
+pattern on the posterior surface of the thigh. Among our specimens of
+_R. nigromaculata_, the width of the dorsolateral folds is variable, a
+uniform greenish dorsum is found only in large males, dermal pustules
+are mixed with ridges in only one male (KU 38733), and all have a
+spotted or mottled pattern on the posterior surface of the thigh. All of
+our specimens having an indistinct pattern on the back, or lacking a
+pattern, are males and resemble the photographs of males published by
+Moriya (1954: pl. I, fig. 5) and Liu (1936: pl. IV, figs. 1-2);
+juveniles of both sexes and large females have contrasting patterns.
+
+None of our frogs seems, therefore, clearly referable to the species
+_plancyi_, although some characters are suggestive of _plancyi_. Moriya
+(_op. cit.:19_), who studied variation of _R. nigromaculata_ in Japan,
+noted that one of the most distinct populations there (_R. n.
+brevipoda_) resembled _Rana plancyi_. Ting (1939) discovered that
+_nigromaculata_ and _plancyi_ were cross-fertile and raised hybrid
+larvae through metamorphosis. Pope and Boring (1940) suggested
+hybridization between the two species in eastern China, and the above
+mentioned facts suggest to us the possibility of hybridization in other
+regions.
+
+
+=Rana amurensis coreana= Okada
+
+    _Rana temporaria coreana_ Okada, Annot. Zool. Japon., 11:140
+      (footnote), July 25, 1927, _nomen nudum_.
+
+    _Rana temporaria coreana_ Okada, Jour. Chosen Nat. Hist. Soc, 6:19,
+      pl. 1, fig. 7, 1928 (type locality, Keijo [= Seoul], Korea).
+
+    _Rana amurensis coreana_, Shannon, Herpetologica, 12:38, March 6,
+      1956.
+
+    _Specimens examined_ (9).--Central National Forest, near
+    Pup´yong-ni, 1 (KU); 2 mi. S Ch´orwon, 1 (KU); 4 mi. W Ch´ungju, 1
+    (KU); 1 mi. N Oho-ri, 1 (KU); 5 mi. ESE Seoul, 3 (KU); Yongp´yong, 2
+    (KU).
+
+_Remarks._--One individual of _R. a. coreana_ (KU 38698) and one of
+_Rana temporaria dybowskii_ (KU 38715) were collected on May 29 along a
+stream in the Central National Forest in association with _R. rugosa_
+and _R. nigromaculata_. Specimens of _coreana_ from the vicinity of
+Seoul were found in rice fields. The earliest date of collection was
+April 13 at Yongp´yong. Our largest specimen of _coreana_ measured 47 in
+snout-vent length.
+
+Because _R. a. coreana_ and _Rana temporaria dybowskii_ are sympatric in
+central Korea and closely resemble one another, the two species were not
+distinguished in the field and the following observations may pertain to
+either (or both) species. Wood frogs were observed 2 mi. E Songdong-ni
+on July 12 in paddies (rice fields) along with individuals of _Hyla
+arborea_, _Rana rugosa_, and _Rana nigromaculata_. At Chip´o-ri on April
+6, individuals (probably _R. t. dybowskii_) were seen in a seepage pool
+from an abandoned rice field; _R. nigromaculata_ also was seen there.
+Six or seven egg masses (some having small tadpoles) were observed in
+the shallow water, but it was not certain to which species the eggs
+belonged. Completely metamorphosed young (probably _R. a. coreana_) were
+first seen 1 mi. N Oho-ri on June 9. At Taehoesan-ni on November 12,
+several sluggish frogs were seen in a small pool that was covered by a
+thin layer of ice.
+
+On September 26 in the Central National Forest, many wood frogs of
+various sizes were observed. _R. amurensis_ and _R. temporaria_ probably
+have extended breeding seasons that correspond to those of _R. rugosa_
+and _R. nigromaculata_. Judging from our observations, _amurensis_
+prefers the proximity of water, whereas _temporaria_ may occur some
+distance from permanent water.
+
+In our specimens, _R. amurensis coreana_ differs from _R. temporaria
+dybowskii_ in having (1) smaller maximal size, (2) more slender body,
+(3) shorter legs, (4) incompletely webbed toes, (5) no mottling or
+barring on lips, (6) no contrasting barred pattern on hind legs, (7)
+dark brown stripes (usually) between dorsolateral folds, (8) a dark
+brown, linear mark below canthus, and (9) an immaculate ventral surface.
+Two additional distinguishing characters, which we found difficult to
+evaluate, are the nearly straight, dorsolateral folds, and lack of vocal
+sacs or ostia in males of _R. a. coreana_ (Shannon, 1956:38). Some of
+the differences between the two species were illustrated by Okada,
+1931:107, fig. 48, _R. temporaria temporaria_ [=_R. t. dybowskii_] and
+123, fig. 54, _R. temporaria coreana_ [=_R. amurensis coreana_].
+
+
+=Rana temporaria dybowskii= Günther
+
+    _Rana Dybowskii_ Günther, Ann. Mag. Nat. Hist., ser. 4, 17:387, May,
+      1876 (type locality, Abrek Bay, near Vladivostok, Siberia).
+
+    _Rana temporaria dybowski_, Shannon, Herpetologica, 12:38, March 6,
+      1956.
+
+    _Specimens examined_ (20).--Central National Forest, near
+    Pup´yong-ni, 7 (KU); Chip´o-ri, 2 (KU); 1 mi. SW Inje, 6 (KU); 8 mi.
+    SW Kangnung, 1 (KU); Taegwang-ni, 1 (KU); 1 mi. SW Tangjonggok, 3
+    (KU).
+
+_Remarks._--On October 9 in the Central National Forest, five
+individuals were found in a concrete-walled pit in old ruins on a wooded
+hillside; no specimens of _Rana amurensis coreana_ were taken there. _R.
+t. dybowskii_ was most often taken on high, moist slopes, and seemed to
+be especially common in forests. The specimen from 8 mi. SW Kangnung was
+obtained in a wooded area along a mountain stream. The earliest date of
+collection of a specimen of _dybowskii_ was March 7 at Taegwang-ni. See
+also the remarks under the preceding account of _Rana amurensis
+coreana_.
+
+The largest male among our specimens measured 65 in snout-vent length
+and the largest female, 79. Five gravid females had snout-vent lengths
+of 64, 68, 69, 69 and 70.
+
+
+=Trionyx sinensis= Wiegmann
+
+    _Trionyx (Aspidonectes) sinensis_ Wiegmann, Nova Acta Acad.
+      Leopold.-Carol., 17:189, 1835 (type locality, near Macao, China).
+
+    _Specimen examined._--Han River, 5 mi. ESE Seoul, 1 (KU).
+
+_Remarks._--Our only specimen was purchased from a man who had captured
+it by hand in the Han River; it was the only turtle seen during our stay
+in Korea. Koreans eat turtles, and the elaborate (and relatively
+permanent) fish-traps that they construct across streams and small
+rivers probably reduce the size of populations of _T. sinensis_ and
+other species.
+
+
+=Eremias argus= Peters
+
+    _Eremias argus_ Peters, Monatsber. preuss. Akad. Wiss., Berlin, p.
+      61, fig. 3 (for 1869), 1870 (type locality, Chefoo, China).
+
+    _Specimens examined_ (23).--Chip´o-ri, 1 (KU); 5 mi. E Seoul, 3
+    (KU), 3 (UMMZ); 5 mi. ESE Seoul, 4 (KU); 6 mi. E Seoul, 10 (UMMZ); 7
+    mi. ESE Seoul, 2 (KU).
+
+_Remarks._--Individuals of _E. argus_ were most often seen on dry
+hillsides having a relatively sparse cover of vegetation. The first
+lizard of this species was taken on April 2. In 1954 the last part of
+March and early part of April were generally warm, with temperatures
+above 70° F. on several occasions; probably some _E. argus_ were active
+in late March. KU 38773 (snout-vent length, 51) laid three eggs between
+June 4 and 14; KU 38768 (snout-vent length, 58) obtained on May 8 was
+gravid, containing four eggs. Testes of lizards in the breeding season
+measure approximately 4.0 x 2.5 (KU 38772, obtained on June 16).
+
+The snout-vent length of our largest female is 61, that of the largest
+male, 57. The snout-vent length of 11 specimens averaged 77 (67-96) per
+cent of length of tail.
+
+
+=Tachydromus amurensis= Peters
+
+    _Tachydromus amurensis_ Peters, Sitzungsber. Gesell. naturf. Freunde
+      Berlin, p. 71, 1881 (type locality, Kossakewitcha, Amurland).
+
+    _Specimens examined_ (3).--Central National Forest, near
+    Pup´yong-ni, 1 (KU), 1 (UMMZ); Majon-ni, 1 (KU).
+
+_Remarks._--One of our specimens was found among grasses along a small
+stream in the Central National Forest. The other two were obtained by
+other persons and we lack knowledge of conditions of their capture.
+
+A juvenile (KU 39416, snout-vent length, 25) that was obtained on
+September 9 is tentatively referred to this species. There seem to be
+three femoral pores on the left leg but the number is indistinct on the
+right. The specimen is dark and lacks a pattern. Its condition precludes
+counts of ventral scales (not keeled), but scalation is otherwise the
+same as a male (KU 40120, snout-vent length approximately 47, length of
+tail, 124). The third specimen, a male (UMMZ 113442, snout-vent length,
+51, length of tail, 115), agrees with KU 40120, except in having 32
+instead of 29 dorsal scales at midbody, 4-4 instead of 3-3 femoral
+pores, and in lacking a pale stripe from eye through ear to shoulder.
+
+
+=Tachydromus wolteri= Fischer
+
+    _Tachydromus Wolteri_ Fischer, Jahrb. Wiss. Anst. Hamburg, 2:82 (for
+      1884), 1885 (type locality, Chemulp´o, Korea).
+
+    _Specimens examined_ (2).--Yongp´yong, 2 (KU).
+
+_Remarks._--On April 14, two females (57 and 45 in snout-vent length,
+the tail of the latter measuring 103) were easily captured by hand on a
+burned-over rice field.
+
+
+=Lygosoma reevesii= (Gray)
+
+    _Tiliqua Reevesii_ Gray, Ann. [Mag.] Nat. Hist., ser. 1, 2:292,
+      December, 1838 (type locality, China).
+
+    [_Lygosoma (Liolepisma) laterale_] var. _reevesi_, Boettger, Katalog
+      der Batrachier-Sammlung ..., p. 104, 1893.
+
+    _Specimens examined_ (6).--Central National Forest, near
+    Pup´yong-ni, 3 (KU); 4 mi. NNE Sogwi-ri, Cheju Do, 1 (KU); 7 mi. NNE
+    Sogwi-ri, Cheju Do, 1 (UMMZ); 16 mi. NE Mosulp´o, Cheju Do, 1
+    (UMMZ).
+
+_Remarks._--On October 23 an individual was captured while sunning on a
+stump on a wooded hillside in the Central National Forest; two others at
+this locality were collected on damp ground-cover on the same hillside.
+A juvenile from Cheju Do was found among moss-covered rocks in a stream
+bed; the other specimens from Cheju Do were found among moss-covered
+rocks on the western slope of Halla San.
+
+Each ovary of a female obtained on October 23 contained five enlarged
+follicles, about 1 mm. in diameter. The left testis of a male obtained
+on August 10 seemed enlarged, indicating possible sexual activity, and
+measured approximately 6 x 2 mm. The snout-vent length of our largest
+male is 41, that of our largest female, 48. The prefrontals are in
+contact in all of our specimens save one (UMMZ 113446).
+
+There is disagreement among herpetologists concerning the generic name
+of the small lygosome skink in the United States and its ecological
+equivalent in China and Korea. We tentatively use _Lygosoma_ (Conant,
+1951:207-208), although Mittleman (1950) pointed out reasons for using
+_Scincella_. Shannon (1956:41) discussed the debated issue whether or
+not the lygosome skinks of the New and Old worlds are conspecific.
+
+
+=Rhabdophis tigrina lateralis= (Berthold)
+
+    _Tropidonotus lateralis_ Berthold, Nachrichten Gesell. Wiss.
+      Göttingen, p. 180, 1859 (type locality, China).
+
+    _Specimens examined_ (26).--Central National Forest, near
+    Pup´yong-ni, 1 (KU); 2 mi. N Chip´o-ri, 2 (KU); 3 mi. NW Chip´o-ri,
+    4 (KU); 4 mi. N Ch´onan, 1 (KU); 3 mi. S Kumhwa, 1 (KU); 1 mi. SW
+    Naegong-ni, 1 (KU); 4 mi. E Seoul, 1 (KU); 5 mi. E Seoul, 2 (UMMZ);
+    5 mi. ESE Seoul, 4 (KU); 6 mi. E Seoul, 1 (KU), 4 (UMMZ); 7 mi. ESE
+    Seoul, 1 (KU); 6 mi. NNE Sogwi-ri, Cheju Do, 2 (KU); 5 mi. NE
+    Taejon, 1 (KU).
+
+_Remarks._--This common, vagrant species was found on brushy hillsides,
+near buildings on hills above rice fields, in tall grasses near streams,
+in rice fields, and along drainage and irrigation ditches. The earliest
+and latest dates of collection were April 5 and November 7. On the first
+date mentioned an individual was found in hibernation with five _Elaphe
+rufodorsata_ and one _Agkistrodon halys_ in an earthen Korean burial
+mound. The specimen was uncovered by a bulldozer at a depth of about one
+foot below the surface. We were told that 18 snakes of this species were
+found in the same place (7 mi. ESE Seoul) the previous winter.
+
+The stomach of each of four individuals contained one _Rana
+nigromaculata_. The stomach of another individual contained a _R.
+nigromaculata_ and remains of a carabid beetle, whereas another
+contained three small, partially-digested frogs that appeared to be
+_Hyla arborea_. P. M. Youngman reported to us that he found a snake of
+this species that was attempting to swallow a toad, _Bufo bufo
+gargarizans_. One of the small individuals from Cheju Do was being eaten
+by a _Zamenis spinalis_ when found. One specimen was parasitized by
+three nematodes, _Kalicephalus natricis_ (see Olsen, 1957:208).
+
+Two females of this oviparous species (lengths of body, 680 and 700)
+collected on May 14 contained nine eggs (18 mm. long), and 13 eggs (15
+mm.) respectively; a third (length of body, 610) obtained on June 26
+contained 10 eggs that were approximately 18 mm. long. A female (UMMZ
+113458, length of body, 710), which was captured on July 10 and kept
+alive in captivity, laid 11 eggs on August 12 between 9 and 10 in the
+morning. The weight of nine of these eggs averaged 3.32 (3.0-3.6) grams;
+the last two eggs deposited were small and weighed only 1.3 and 1.4
+grams. The eggs were incubated unsuccessfully. One that was opened on
+September 14 and another opened on September 26 contained young easily
+recognized as of this species. In captivity the parent snake underwent
+ecdysis on about July 20 and again on August 26.
+
+Our largest female and largest male have respective total lengths of
+1013 (840 + 173) and 740 (575 + 165). Our smallest specimens, captured
+on September 9, measured 215 and 230 mm. in length of body, and probably
+represent young of the year. The snake found in hibernation on April 5
+measured 275 in length of body. The ventrals of 11 males averaged 161.3
+(158-171) and those of 14 females, 165.1 (160-170); subcaudals of eight
+males averaged 69.6 (66-74) and those of 14 females, 61.5 (52-73).
+
+Males seem to have small scales in the anal region that are more
+strongly keeled than scales elsewhere on the body (the scales catch on
+finger tips when rubbed in a posteroanterior direction), but males lack
+small tubercles on the upper and lateral parts of the head as mentioned
+by Maslin (1950:433). The comments of the same author (_op. cit._:434)
+concerning integumental poison glands in the nuchal region of this
+species are of interest in view of several reports that we received of
+swollen extremities resulting from handling snakes of this species.
+
+In using the generic names _Rhabdophis_ and _Amphiesma_ for species
+formerly placed in the genus _Natrix_, we follow Malnate (1960), who
+divided _Natrix (auct.)_ into five distinct genera.
+
+
+=Amphiesma vibakari ruthveni= (Van Denburgh)
+
+    _Natrix vibakari ruthveni_ Van Denburgh, Proc. California Acad.
+      Sci., ser. 4, 13(2):3, July 26, 1923 (type locality, Pusan,
+      Korea).
+
+    _Specimens examined_ (5).--Central National Forest, near
+    Pup´yong-ni, 1 (KU); 4 mi. SW Ch´ongyang-ni, 1 (KU); 10 mi. NE
+    Mosulp´o, Cheju Do, 1 (UMMZ); 6-7 mi. NNE Sogwi-ri, Cheju Do, 1
+    (KU), 1 (UMMZ).
+
+_Remarks._--The specimen from the Central National Forest was captured
+on August 18 near a stream on a damp ground-cover of leaves. The
+specimens from Cheju Do were taken in early September, one in a grassy
+area, and the other two on earthen banks of road-cuts on the slopes of
+Halla San. The stomach of one individual from Cheju Do contained an
+earthworm. Our largest specimen, a male having 154 ventrals and 68
+subcaudals, measured 508 (380 + 128).
+
+The subcaudal counts of 68 (KU 38861) and 69 (UMMZ 113461) on two males
+from Cheju Do are higher than the maximal count known for the subspecies
+_ruthveni_ in Korea, and resemble those of _Amphiesma vibakari vibakari_
+of the Japanese islands. The subcaudals average 61 (55-65) in _ruthveni_
+and 71 (63-83) in _vibakari_ according to Van Denburgh (1923:3-4). A
+juvenile from the Central National Forest (KU 38862), lacking the tip of
+the tail, has 64 subcaudals.
+
+
+=Dinodon rufozonatum= (Cantor)
+
+    _Lycodon rufo-zonatus_ Cantor, Ann. Mag. Nat. Hist., ser. 1, 9:483,
+      August, 1842 (type locality, island of Chusan, China).
+
+    _Dinodon rufozonatus_, Peters, Sitzungsber. Gesell. naturf. Freunde
+      Berlin, p. 89, 1881.
+
+    _Specimens examined_ (4).--Central National Forest, near
+    Pup´yong-ni, 3 (KU); Yongsan (Seoul), 1 (UMMZ).
+
+_Remarks._--The three specimens from the Central National Forest were
+taken in the period August 12-26. Two were caught in live-traps set for
+small mammals in deep forest among granite outcrops. The specimen from
+Yongsan was obtained on October 27 in a partly wooded area. Ventrals and
+subcaudals of our four specimens (all males) numbered, respectively,
+198, 200, 198, 205, and 74, 75, 75, __. Total length of the largest
+specimen was 960 (790 + 170).
+
+We follow Chang (1932:54) and most subsequent authors in regarding _D.
+rufozonatum_ as a monotypic species.
+
+
+=Zamenis spinalis= (Peters)
+
+    _Masticophis spinalis_ Peters, Monatsber. preuss. Akad. Wiss.,
+      Berlin, p. 91 (for 1866), 1867 (type locality, unknown--"Mexico"
+      erroneously listed).
+
+    _Zamenis spinalis_, Günther, Ann. Mag. Nat. Hist., ser. 4, 9:22,
+      January, 1872.
+
+    _Specimens examined_ (2).--5 mi. ESE Seoul, 1 (KU); 6 mi. NNE
+    Sogwi-ri, Cheju Do, 1 (KU).
+
+_Remarks._--The specimen from Cheju Do was captured on September 9 in
+tall grass near a small stream and was eating a small _Rhabdophis
+tigrina_. The female from near Seoul was obtained from a Korean on June
+10, and was gravid (six eggs, each approximately 35 mm. in length). The
+length of body measured approximately 550 and the length of incomplete
+tail 168 in one specimen (KU 38777, female from 5 mi. ESE Seoul), 540
+and 183 in the other (KU 38778, female from Cheju Do). Respective
+ventral and subcaudal counts of the two females are 204, 194, and 74+,
+86.
+
+There is some disagreement in the literature as to the proper generic
+name of this snake. Differences in dentition between Old World species
+(referable to _Zamenis_) and the American species (referable to
+_Coluber_) are discussed by Bogert and Oliver (1945:365). The species
+_spinalis_ has been referred to _Coluber_ by several authors (see Pope,
+1935:226).
+
+
+=Elaphe dione= (Pallas)
+
+    _Coluber dione_ Pallas, Reise durch verschiedene Provinzen des
+      Russischen Reichs, 2:717, 1773 (type locality, "Salt steppes
+      toward the Caspian Sea" according to Stejneger, Bull. U. S. Nat.
+      Mus., 58:315, July 22, 1907).
+
+    _Elaphis dione_, Duméril and Bibron, Erpétologie générale ...,
+      7:248, 1854.
+
+    _Specimens examined_ (10).--Choksong, 1 (KU); 4 mi. N Ch´onan, 1
+    (KU); Seoul, 1 (KU); 5 mi. E Seoul, 1 (KU), 2 (UMMZ); 5 mi. ESE
+    Seoul, 1 (KU); 6 mi. E Seoul, 1 (UMMZ); Taegwang-ni, 1 (KU); 2 mi.
+    WSW Tongjonggok, 1 (KU).
+
+_Remarks._--This species seemingly occurs in upland habitats. Specimens
+were taken on rocky hillsides, on sparsely wooded hillsides, and in
+cultivated fields. November 21 was the latest date of capture of an
+active individual (UMMZ 113451), the head of which was seen many times
+prior to capture protruding from a hole beneath the concrete floor of a
+building. A female (KU 38855), measuring 915 (775 + 140) in total
+length, and obtained on June 13, contained nine eggs (32 mm. long). One
+juvenile had eaten a half-grown house mouse, _Mus musculus_; the stomach
+of a male contained three mice, one a striped field mouse, _Apodemus
+agrarius_, the other two probably also of that species but too far
+digested for certain identification. Eggs probably hatch in late summer.
+A young of the year (length of body, 340) was captured on September 30;
+another juvenile (length of body, 285) was obtained in May.
+
+Our largest male (KU 40123) measured 904 (719 + 185) in total length.
+Ventrals and subcaudals of six females averaged 205.8 (198-211) and 62.2
+(55-69), respectively, whereas corresponding counts of four males
+averaged 196.8 (190-214), and 71.0 (69-74). Each of nine specimens had
+dorsal scales in 23-25-19 rows except one (UMMZ 113451), which had
+23-25-23 rows.
+
+
+=Elaphe rufodorsata= (Cantor)
+
+    _Tropidonotus rufodorsatus_ Cantor, Ann. Mag. Nat. Hist., ser. 1,
+      9:483, August, 1842 (type locality, island of Chusan, China).
+
+    _Elaphe rufodorsata_, Stejneger, Bull. U. S. Nat. Mus., 58:310,
+      figs. 269-271, July 22, 1907.
+
+    _Specimens examined_ (27).--7 mi. NW Changhowan-ni, 1 (KU); 3 mi. NW
+    Chip´o-ri, 3 (KU); 7 mi. W Ch´ungju, 2 (KU), 1 (UMMZ); 3 mi. S
+    Kumhwa, 2 (KU); 1 mi. NW Oho-ri, 1 (KU); 4 mi. E Seoul, 1 (KU); 5
+    mi. E Seoul, 2 (KU); 5 mi. ESE Seoul, 2 (KU); 6 mi. E Seoul, 3 (KU),
+    2 (UMMZ); 7 mi. ESE Seoul, 5 (KU); 4 mi. N Uijongbu, 1 (KU); 5 mi.
+    NE Uijongbu, 1 (UMMZ).
+
+_Remarks._--_E. rufodorsata_ was commonly observed and collected on
+barren hillsides, on country roads, in rice fields, and along drainage
+ditches and small streams. One was found sunning outstretched on a road.
+Two individuals were trapped in cement-walled pits at the Seoul City
+Water Works. On April 5, five snakes of this species with one
+_Rhabdophis tigrina_ and one _Agkistrodon halys_, all partly caked with
+earth, were found sunning in a shallow depression on the side of a
+Korean burial mound, which was presumably a hibernaculum. Aside from one
+juvenile, four of the _E. rufodorsata_ were of approximately the same
+size, having bodies ranging in length from 385 to 455.
+
+Copulation was observed on April 25 (male, KU 38811, length of body,
+400, and female, KU 38812, length of body, 565), and on May 4 (female,
+KU 38816, length of body, 620). Eggs doubtless hatch at various times in
+summer. One of five snakes obtained on April 5 (see above) measured 310
+(250 + 60) in total length. Another juvenile (KU 38828), obtained on
+October 18, was 478 (385 + 93) long, and our smallest specimen of this
+species (KU 38821), captured on June 26, measured 275 (230 + 45).
+
+The stomachs of two snakes each contained a _Rana nigromaculata_;
+another individual had eaten a _Hyla arborea_, and a fourth specimen had
+eaten a small fish. One specimen was parasitized by a cestode.
+
+The largest female from our series (KU 38816) measured 740 (620 + 120),
+and the largest male (KU 38813), 595 (475 + 120). Respective ventral and
+subcaudal counts of 13 males averaged 170.5 (167-174) and 60.0 (56-63),
+ventrals of 12 females averaged 178.3 (169-182), and subcaudals of 11
+averaged 51.0 (46-56).
+
+
+=Elaphe schrencki anomala= (Boulenger)
+
+    _Coluber anomalus_ Boulenger, Ann. Mag. Nat. Hist., ser. 8, 17:243,
+      March, 1916 (type locality, Chihfeng, China).
+
+    _Elaphe schrencki anomala_, Pope, The reptiles of China, p. 266,
+      fig. 57, May 11, 1935.
+
+    _Specimens examined_ (7).--Central National Forest, near
+    Pup´yong-ni, 2 (KU), 1 (UMMZ); 4½ mi. W Chip´o-ri, 1 (KU); 5 mi.
+    N P´yong-taek, 1 (KU); 5 mi. E Seoul, 1 (KU); 5 mi. ESE Seoul, 1
+    (KU).
+
+_Remarks._--Individuals were observed or taken on dry, scrubby hillsides
+and in grassy upland areas. One of the three snakes from the Central
+National Forest was captured on a steep, forested hillside among granite
+outcroppings; another was obtained there along a stream bank and had
+eaten three bats, _Murina aurata_ (see Jones, 1960:265), and one mouse,
+_Apodemus_ sp. (tail only found). P. M. Youngman reported (personal
+communication) finding a rat (_Rattus_ sp.) in the stomach of one
+individual. A female (KU 38830, length of body, 1180) that was obtained
+on June 2 contained 17 eggs, each approximately 32 mm. long. The
+ventrals of two females numbered 223 and 229, and the subcaudals of the
+latter 70. Ventrals and subcaudals of five males were, respectively,
+211, 213, 214, 215, 216, and 71, 75, 75, 69, 75.
+
+The coloration and pattern of our seven specimens are of interest in
+view of the probable intergradation between _E. s. anomala_ and _E. s.
+schrencki_ in northern Korea (see comments by Shannon, 1956:46). The
+smallest specimen (KU 38831), having a total length of 335 (280 + 55),
+was obtained 4 mi. N P´yong-taek on September 24. It is nearly uniform
+pale brown (lacks a dorsal pattern) and additionally is characterized as
+follows: incomplete pattern on the head; no black postocular band (pale
+brown with black posterior border); ventrolateral extensions of the head
+pattern that form longitudinal stripes of white on the third row of
+scales; a pale whitish stripe on the sixth and seventh scale rows that
+extends posteriorly to the level of the fortieth ventral and that has a
+narrow black border (sometimes interrupted); small and indistinct
+blackish markings and pale stripes on sides (no higher than sixth row of
+scales); underside of the head whitish; and venter grayish, having
+blackish margins on the ends of ventrals posteriorly. KU 38831 is
+unusual and perhaps anomalous in having a pattern that does not conform
+to the juvenile pattern of either subspecies.
+
+A female (KU 38830), having a total length of 1390 (1180 + 210), from 5
+mi. ESE Seoul conforms to descriptions of _anomala_ in being uniformly
+pale brown above and in having indistinct dark smudges on the sides; the
+ventral surface is whitish having indistinct dark smudges, brown spots
+at the ends of each ventral, and the posterior edge of each ventral
+brown. A male (KU 40125), measuring 1090 (890 + 200) in total length,
+from 5 mi. E Seoul, is pale brown above and lacks markings on the
+anterior part of the body. Indistinct dark markings occur at midbody,
+whereas the posterior quarter of the body and tail have well-defined
+black bands on a buff background. The black bands posteriorly are
+arranged in pairs; each pair of bands is separated by two and a half to
+three scales, whereas the bands of each pair are separated by only one
+and a half scales. The ventral surface has an obscure marbled pattern.
+Our largest specimen, a male (UMMZ 113454) having a total length of 1488
+(1230 + 258), from the Central National Forest, resembles KU 40125,
+except that pale brown blotches (29 on body, one blackish on neck) and
+dark lateral spots occur anteriorly on the body.
+
+Another female (KU 38860, body length, 970) from 4½ mi. W Chip´o-ri,
+our northernmost locality of record, has a fairly distinct pattern
+dorsally. The 30 dark brown, black-edged blotches that are separated by
+a buff background are not arranged in pairs (as in KU 40125); the dorsal
+blotches sometimes alternate with small lateral blotches. The ventral
+surface is marbled throughout.
+
+Two males from the Central National Forest, having total lengths of 1105
+(920 + 185) and 830 (690 + 140), generally resemble one another in
+having the head and neck dark brown or blackish and the anterior part of
+body dark brown, but discernibly blotched. The posterior part of the
+body and tail of each bears well-defined blotches (dark brown or black)
+with buffy interspaces; the dorsal blotches are sometimes arranged in
+pairs. The ventral surface of each is marbled throughout. These two
+males are noteworthy in that the pattern anteriorly is obscure, but the
+ground color is dark, not pale as in the two specimens from the vicinity
+of Seoul.
+
+
+=Agkistrodon halys brevicaudus= Stejneger
+
+    _Agkistrodon blomhoffii brevicaudus_ Stejneger, Bull. U. S. Nat.
+      Mus., 58:463, July 22, 1907 (type locality, Pusan, Korea).
+
+    _Agkistrodon halys brevicaudus_, Okada, A catalogue of vertebrates
+      of Japan, p. 103, 1938.
+
+    _Specimens examined_ (12).--Central National Forest, near
+    Pup´yong-ni, 4 (KU); 3 mi. NW Chip´o-ri, 2 (KU); 16 mi. NE Mosulp´o,
+    Cheju Do, 1 (UMMZ); 5 mi. E Seoul, 1 (UMMZ); 6 mi. E Seoul, 2 (KU);
+    7 mi. ESE Seoul, 1 (KU); 7 mi. NNE Sogwi-ri, Cheju Do, 1 (UMMZ).
+
+_Remarks._--Individuals of _Agkistrodon_ were collected on brushy or
+wooded hillsides, along rock walls or in piles of rocks, and in damp,
+rocky, wooded ravines near streams. Many were docile when captured. One
+specimen was infested with nematodes, another with cestodes. One
+specimen had eaten a striped field mouse, _Apodemus agrarius_, and
+another had eaten a gray hamster, _Cricetulus triton_. One female,
+obtained on May 22, 6 mi. E Seoul, contained 14 embryos. Another female,
+obtained on August 25 in the Central National Forest, contained three
+well-developed embryos.
+
+We have not included descriptive or taxonomic remarks concerning _A.
+halys_ because Dr. Howard K. Gloyd, University of Arizona, who currently
+is studying the systematics of the genus _Agkistrodon_, has our
+specimens on loan.
+
+
+Gazetteer
+
+Listed below are all localities mentioned in the accounts of species;
+the latitude (north) and longitude (east) are given for each. All
+place-names can be found in "Gazetteer to maps of Korea," 3 vols., AMS
+2, U. S. Army Map Service, September, 1950, and, except for the two
+marked by an asterisk, can be located on AMS map series L552 (Korea,
+1:250,000). The McCune-Reischauer system of romanization of Korean names
+is used.
+
+  Changhowan-ni. 37°07´, 127°38´
+
+  Central National Forest. A small mixed forest 15-18 mi. NE Seoul and
+    immediately west of the village of Pup´yong-ni; most of our
+    collecting there was done approximately at 37°45´, 127°10´
+
+  Cheju Do (Quelpart Island). A large island in the East China Sea off
+    the southwestern tip of the Korean mainland (see Mosulp´o and
+    Sogwi-ri)
+
+  Chip´o-ri. 38°08´, 127°19´
+
+  Choksong. 37°58´, 126°57´
+
+  Ch´onan. 36°48´, 127°09´
+
+  *Ch´ongyang-ni. 38°15´, 127°23´
+
+  Ch´orwon. 38°15´, 127°13´
+
+  Ch´ungju. 36°58´, 127°57´
+
+  Halla San. A central, volcanic mountain on Cheju Do (see above)
+
+  Hoengsong. 37°29´, 127°59´
+
+  Inje. 38°04´, 128°11´
+
+  Kangnung. 37°45´, 128°54´
+
+  Kumhwa. 38°17´, 127°28´
+
+  Kunsan. 35°59´, 126°43´
+
+  Kwangju. 35°09´, 126°55´
+
+  Majon-ni. 37°52´, 126°46´
+
+  Mosulp´o. 33°13´, 126°15´
+
+  Naegong-ni. 37°41´, 127°10´
+
+  Oho-ri. 38°20´, 128°32´
+
+  Osan. 37°09´, 127°04´
+
+  Pup´yong-ni. 37°44´, 127°12´
+
+  Pusan. 35°08´, 129°04´
+
+  P´yong-taek [= P´yongt´aeng-ni]. 36°59´, 127°05´
+
+  Sangbonch´on-ni. 37°27´, 127°16´
+
+  Sangdaehwa. 37°30´, 128°26´
+
+  Seoul. 37°32´, 127°00´
+
+  Sogwi-ri. 33°15´, 126°34´
+
+  Songdong-ni. 38°01´, 127°16´
+
+  Taegwang-ni. 38°11´, 127°06´
+
+  *Taehoesan-ni. 38°04´, 127°14´
+
+  Taejon. 36°20´, 127°26´
+
+  Tangjonggok. 38°11´, 128°19´
+
+  Tangnim-ni. 37°50´, 127°37´
+
+  Uijongbu. 37°44´, 127°03´
+
+  Wonsan. 39°09´, 127°27´
+
+  Yami-ri. 38°03´, 127°16´
+
+  Yanggu. 38°06´, 128°00´
+
+  Yongdae-ri. 38°13´, 128°23´
+
+  Yongp´yong. 38°01´, 127°13´
+
+
+Literature Cited
+
+BABB, G. H., JR.
+
+    1955. An annotated checklist of the amphibians and reptiles of
+          Korea. Bull. Philadelphia Herp. Soc., 1:17-23.
+
+BOGERT, C. M., AND OLIVER, J. A.
+
+    1945. A preliminary analysis of the herpetofauna of Sonora.
+          Bull. Amer. Mus. Nat. Hist., 83:297-426, 8 pls., 13 figs., 2
+          maps, March 30.
+
+BOULENGER, G. A.
+
+    1882. Catalogue of the Batrachia Salientia s. Ecaudata in the
+          collection of the British Museum. Taylor and Francis, London,
+          xvi + 503 pp., 30 pls.
+
+CHANG, M. L. Y.
+
+    1932. Notes on a collection of reptiles from Szechuan.
+          Contrib. Biol. Lab., Sci. Soc. China, Zool. Ser., 8:9-95, 28
+          figs., February.
+
+CONANT, R.
+
+    1951. The reptiles of Ohio. Second edition (with revisionary
+          addenda). Amer. Midland Nat., Univ. Notre Dame Press, 284 pp.,
+          27 pls.
+
+DIXON, J. R.
+
+    1956. A collection of amphibians and reptiles from west central
+          Korea. Herpetologica, 12:50-56, 1 fig., March 6.
+
+FANG, P. W., AND CHANG, M. L. Y.
+
+    1931. Amphibia of Nanking. Contrib. Biol. Lab., Sci. Soc. China,
+          Zool. Ser., 7:65-114, 18 figs., May.
+
+GÜNTHER, A.
+
+    1858. Catalogue of the Batrachia Salientia in the collection of the
+          British Museum. Taylor and Francis, London, xvi + 160 pp., 12
+          pls.
+
+HAHN, D. E.
+
+    1959. Observations and collecting notes on _Rana n. nigromaculata_
+          in central Korea. Jour. Ohio Herp. Soc., 2:7-8, September 20.
+
+    1960. Collecting notes on central Korean reptiles and amphibians.
+          Jour. Ohio Herp. Soc., 2:16-24, 4 figs., September 20.
+
+JONES, J. K., JR.
+
+    1960. The least tube-nosed bat in Korea. Jour. Mamm., 41:265, May
+          20.
+
+LIU, C.
+
+    1936. Secondary sex characters of Chinese frogs and toads. Zool.
+          Ser., Field Mus. Nat. Hist., 22:115-156, 12 pls., October 31.
+
+    1950. Amphibians of western China. Fieldiana: Zool. Memoirs, Chicago
+          Nat. Hist. Mus., 2:1-400, 10 pls., 100 figs., June 15.
+
+MALNATE, E. V.
+
+    1960. Systematic division and evolution of the colubrid snake genus
+          Natrix, with comments on the subfamily Natricinae. Proc. Acad.
+          Nat. Sci. Philadelphia, 112:41-71, 2 figs., 4 maps, September
+          23.
+
+MASLIN, T. P.
+
+    1950. Snakes of the Kiukiang-Lushan area, Kiangsi, China. Proc.
+          California Acad. Sci., ser. 4, 26:419-466, 10 figs., April 28.
+
+MITTLEMAN, M. B.
+
+    1950. The generic status of _Scincus lateralis_ Say, 1823.
+          Herpetologica, 6:17-20, June 5.
+
+MORI, T.
+
+    1928_a_. A presumption of the age in which the separation of Japan
+          and Korea had occurred and the general condition at that age
+          estimated from the distribution of animals in Saishuto and
+          Tsushima. Chosen, pp. 14-25, January, 1928 (in Japanese).
+
+    1928_b_. On amphibians and reptiles of Quelpaert Island. Jour.
+          Chosen Nat. Hist. Soc., 6:47-52, March 25 (in Japanese).
+
+    1928_c_. On a new Hynobius from Quelpaert Isl. Jour. Chosen Nat.
+          Hist. Soc., 6:53, March 25.
+
+MORIYA, K.
+
+    1954. Studies on the five races of the Japanese pond frog, _Rana
+          nigromaculata_ Hallowell. I. Differences in the morphological
+          characters. Jour. Sci. Hiroshima Univ. (ser. B, div. 1),
+          15:1-21, 2 pls., 1 fig., December.
+
+OKADA, Y.
+
+    1931. The tailless batrachians of the Japanese Empire. Imp. Agric.
+          Exp. Sta., Tokyo, 215 pp., 29 pls., 97 figs., March 30.
+
+    1934. A contribution toward a check list of the urodeles of Japan.
+          Copeia, 1934(1):16-19, April 24.
+
+    1935. Amphibia of Jehol. Rept. First Sci. Exped. Manchoukuo, sect.
+          V, div. II, pt. II, art. 1, pp. 1-24 (in Japanese) and 25-47
+          (in English), 7 pls., 9 figs., November 30.
+
+OLSEN, L. S.
+
+    1957. A new species of _Neoascaris_ (Nematode) from a Korean wood
+          mouse. Trans. Amer. Micros. Soc., 76:205-208, 9 figs., April.
+
+POPE, C. H.
+
+    1935. The reptiles of China (Natural History of Central Asia, Vol.
+          X). Amer. Mus. Nat. Hist., New York, lii + 604 pp., 27 pls.,
+          78 figs., May 11.
+
+POPE, C. H., AND BORING, A. M.
+
+    1940. A survey of Chinese Amphibia. Peking Nat. Hist. Bull.,
+          15:13-86, 1 map, September.
+
+SATO, I.
+
+    1943. The tailed batrachians of Japan. Tokyo, 520 pp., illustrated
+          (in Japanese).
+
+SCHLEGEL, H.
+
+    1838. Reptilia (_in_ von Siebold, Fauna Japonica), pp. 1-144,
+          illustrated.
+
+SCHMIDT, K. P.
+
+    1927. Notes on Chinese amphibians. Bull. Amer. Mus. Nat. Hist.,
+          54:553-575, 2 pls., October 14.
+
+SHANNON, F. A.
+
+    1956. The reptiles and amphibians of Korea. Herpetologica, 12:22-49,
+          1 pl., 1 fig., March 6.
+
+    1957. Addition to the herpetofauna of Korea. Herpetologica, 13:52,
+          March 30.
+
+STEJNEGER, L.
+
+    1907. Herpetology of Japan and adjacent territory. Bull. U. S. Nat.
+          Mus., 58:xx + 577, 35 pls., 409 figs., July 22.
+
+STEWART, G. D.
+
+    1953. Notes on a collection of amphibians from central Korea.
+          Herpetologica, 9:146-148, October 30.
+
+    1954. A small collection of reptiles from central Korea. Copeia,
+          1954(1):65-67, February 19.
+
+TANNER, V. M.
+
+    1953. Pacific Islands herpetology No. VIII, Korea. Great Basin Nat.,
+          13:67-73.
+
+TING, H.
+
+    1939. A study of the reciprocal hybrids of two species of frogs,
+          _Rana nigromaculata_ and _Rana plancyi_. Peking Nat. Hist. Bull.,
+          13:181-200, 3 pls., March.
+
+VAN DENBURGH, J.
+
+    1923. A new subspecies of watersnake (_Natrix vibakari ruthveni_) from
+          eastern Asia. Proc. California Acad. Sci., ser. 4, 13:3-4,
+          July 26.
+
+WALLEY, H. D.
+
+    1958_a_. A new lacertid lizard from Korea. Herpetologica,
+          14:203-205, 1 fig., December 1.
+
+    1958_b_. "The status of _Takydromus kwangakuensis_ Doi." Copeia,
+          1958(4):338, December 22.
+
+_Transmitted June 30, 1961_.
+
+28-8517
+
+
+
+
+
+End of the Project Gutenberg EBook of Some Reptiles and Amphibians from Korea, by 
+Robert G Webb and J. Knox Jones and George W. Byers
+
+*** END OF THIS PROJECT GUTENBERG EBOOK SOME REPTILES AND AMPHIBIANS ***
+
+***** This file should be named 34949-8.txt or 34949-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/4/9/4/4/34949/
+
+Produced by Simon Gardner, Chris Curnow, Joseph Cooper and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

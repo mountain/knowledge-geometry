@@ -1,0 +1,2055 @@
+﻿The Project Gutenberg EBook of An Apology For The Study of Northern
+Antiquities, by Elizabeth Elstob
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: An Apology For The Study of Northern Antiquities
+
+Author: Elizabeth Elstob
+
+Commentator: Charles Peake
+
+Release Date: July 19, 2009 [EBook #15329]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK NORTHERN ANTIQUITIES ***
+
+
+
+
+Produced by David Starner, Louise Hope and the Online Distributed
+
+
+
+
+[Transcriber’s Note:
+
+This e-text includes brief passages in scripts that require UTF-8
+(Unicode) file encoding, primarily Greek:
+
+  Ἐξ οὗ δὴ τα πρῶτα διαστήτην ἐρίσαντε.
+
+If the text does not display properly, or the apostrophes and quotation
+marks in this paragraph appear as garbage, make sure your text reader’s
+“character set” or “file encoding” is set to Unicode (UTF-8). You may
+also need to change the default font. As a last resort, use the Latin-1
+version of the file instead.
+
+Text printed in blackletter type-- German, Middle English, Old French--
+is shown between #marks#. Since font support for Gothic and Saxon is
+limited, transliterations of these scripts are given at the end of
+the e-text, along with the one Hebrew word.]
+
+
+
+
+             THE AUGUSTAN REPRINT SOCIETY
+
+
+                   ELIZABETH ELSTOB
+
+              An Apology for the Study of
+                 Northern Antiquities
+
+                        (1715)
+
+
+                   Introduction by
+                     Charles Peake
+
+
+                 Publication Number 61
+
+                     Los Angeles
+         William Andrews Clark Memorial Library
+               University of California
+
+                         1956
+
+           *       *       *       *       *
+
+  GENERAL EDITORS
+  RICHARD C. BOYS, University of Michigan
+  RALPH COHEN, University of California, Los Angeles
+  VINTON A. DEARING, University of California, Los Angeles
+  LAWRENCE CLARK POWELL, Clark Memorial Library
+
+  ASSISTANT EDITOR
+  W. EARL BRITTON, University of Michigan
+
+  ADVISORY EDITORS
+  EMMETT L. AVERY, State College of Washington
+  BENJAMIN BOYCE, Duke University
+  LOUIS BREDVOLD, University of Michigan
+  JOHN BUTT, King’s College, University of Durham
+  JAMES L. CLIFFORD, Columbia University
+  ARTHUR FRIEDMAN, University of Chicago
+  EDWARD NILES HOOKER, University of California, Los Angeles
+  LOUIS A. LANDA, Princeton University
+  SAMUEL H. MONK, University of Minnesota
+  ERNEST C. MOSSNER, University of Texas
+  JAMES SUTHERLAND, University College, London
+  H. T. SWEDENBERG, JR., University of California, Los Angeles
+
+  CORRESPONDING SECRETARY
+  EDNA C. DAVIS, Clark Memorial Library
+
+           *       *       *       *       *
+
+INTRODUCTION
+
+The answerers who rushed into print in 1712 against Swift’s _Proposal
+for Correcting, Improving and Ascertaining the English Tongue_ were
+so obviously moved by the spirit of faction that, apart from a few
+debating points and minor corrections, it is difficult to disentangle
+their legitimate criticisms from their political prejudices. As
+Professor Landa has written in his introduction to Oldmiron’s
+_Reflections on Dr. Swift’s Letter to Harley_ and Mainwaring’s
+_The British Academy_ (Augustan Reprint Society, 1948): “It is not
+as literature that these two answers to Swift are to be judged. They
+are minor, though interesting, documents in political warfare which
+cut athwart a significant cultural controversy.”
+
+Elizabeth Elstob’s _Apology for the Study of Northern Antiquities_
+prefixed to her _Rudiments of Grammar for the English-Saxon Tongue_
+is an answer of a very different kind. It did not appear until 1715;
+it exhibits no political bias; it agrees with Swift’s denunciation
+of certain current linguistic habits; and it does not reject the
+very idea of regulating the language as repugnant to the sturdy
+independence of the Briton. Elizabeth Elstob speaks not for a party
+but for the group of antiquarian scholars, led by Dr. Hickes, who
+were developing and popularizing the study of the Anglo-Saxon origins
+of the English language--a study which had really started in the
+seventeenth century.
+
+What irritated Miss Elstob in the _Proposal_ was not Swift’s eulogy
+or Harley and the Tory ministry, but his scornful reference to
+antiquarians as “laborious men of low genius,” his failure to
+recognize that his manifest ignorance of the origins of the language
+was any bar to his pronouncing on it or legislating for it, and his
+repetition of some of the traditional criticisms of the Teutonic
+elements in the language, in particular the monosyllables and
+consonants. Her sense of injury was personal as well as academic.
+Her brother William and her revered master Dr. Hickes were among the
+antiquarians whom Swift had casually insulted, and she herself had
+published an elaborate edition of _An English-Saxon Homily on the
+Birthday of St. Gregory_ (1709) and was at work on an Anglo-Saxon
+homilarium. Moreover she had a particular affection for her field
+of study, because it had enabled her to surmount the obstacles to
+learning which had been put in her path as a girl, and which had
+prevented her, then, from acquiring a classical education. Her
+_Rudiments_, the first Anglo-Saxon grammar written in English, was
+specifically designed to encourage ladies suffering from similar
+educational disabilities to find an intellectual pursuit. Her personal
+indignation is shown in her sharp answer to Swift’s insulting phrase,
+and in her retaliatory classification of the Dean among the “light and
+fluttering wits.”
+
+As a linguistic historian she has no difficulty in exposing Swift’s
+ignorance, and in establishing her claim that if there is any refining
+or ascertaining of the English language to be done, the antiquarian
+scholars must be consulted. But it is when she writes as a literary
+critic, defending the English language, with its monosyllables and
+consonants, as a literary medium, that she is most interesting.
+
+There was nothing new in what Swift had said of the character of the
+English language; he was merely echoing criticisms which had been
+expressed frequently since the early sixteenth century. The number
+of English monosyllables was sometimes complained of, because to
+ears trained on the classical languages they sounded harsh, barking,
+unfitted for eloquence; sometimes because they were believed to impede
+the metrical flow in poetry; sometimes because, being particularly
+characteristic of colloquial speech, they were considered low; and
+often because they were associated with the languages of the Teutonic
+tribes which had escaped the full refining influence of Roman
+civilization. Swift followed writers like Nash and Dekker in
+emphasizing the first and last of these objections.
+
+There were, of course, stock answers to these stock objections.
+Such criticism of one’s mother tongue was said to be unpatriotic or
+positively disloyal. If it was difficult to maintain that English was
+as smooth and euphonious as Italian, it could be maintained that its
+monosyllables and consonants gave it a characteristic and masculine
+brevity and force. Monosyllables were also very convenient for the
+formation of compound words, and, it was argued, should, when properly
+managed, be an asset rather than a handicap to the English rhymester.
+By the time Swift and Miss Elstob were writing, an increasing number
+of antiquarian Germanophils (and also pro-Hanoverians) were prepared
+to claim Teutonic descent with pride.
+
+Most of these arguments had been bandied backwards and forwards
+rather inconclusively since the sixteenth century, and Addison in
+_The Spectator_ No. 135 expresses a typically moderate opinion on
+the matter: the English language, he says, abounds in monosyllables,
+
+  which gives us an opportunity of delivering our thoughts in few
+  sounds. This indeed takes off from the elegance of our tongue,
+  but at the same time expresses our ideas in the readiest manner,
+  and consequently answers the first design of speech better than
+  the multitude of syllables, which make the words of other
+  languages more tunable and sonorous.
+
+It is likely that neither Swift nor Miss Elstob would have found much
+to disagree with in that sentence. Swift certainly never proposed any
+reduction in the number of English monosyllables, and the simplicity
+of style which he described as “one of the greatest perfections in any
+language,” which seemed to him best exemplified in the English Bible,
+and which he himself practised so brilliantly, has in English a very
+marked monosyllabic character.
+
+But in his enthusiasm to stamp out the practice of abbreviating,
+beheading and curtailing polysyllables--a practice which seemed to
+him a threat to both the elegance and permanence of the language--
+he described it as part of a tendency of the English to relapse into
+their Northern barbarity by multiplying monosyllables and eliding
+vowels between the rough and frequent consonants of their language.
+His ignorance of the historical origins of the language and his rather
+hackneyed remarks on its character do not invalidate the general
+scheme of his _Proposal_ or his particular criticisms of current
+linguistic habits, but they did lay him open to the very penetrating
+and decisive attack of Elizabeth Elstob.
+
+In her reply to Swift she repeats all the stock defenses of the
+English monosyllables and consonants, but, by presenting them in
+combination, and in a manner at once scholarly and forceful, she
+makes the most convincing case against Swift. Unlike most of her
+predecessors, Miss Elstob is not on the defensive. She is always ready
+to give a sharp personal turn to her scholarly refutations--as, for
+instance, when she demonstrates the usefulness of monosyllables in
+poetry by illustrations from a series of poets beginning with Homer
+and ending with Swift. There can be little doubt that Swift is
+decisively worsted in this argument.
+
+It is not known whether Swift ever read Miss Elstob’s _Rudiments_,
+though it is interesting to notice a marked change of emphasis in
+his references to the Anglo-Saxon language. In the _Proposal_ he had
+declared with a pretense of knowledge, that Anglo-Saxon was “excepting
+some few variations in the orthography... the same in most original
+words with our present English, as well as with German and other
+northern dialects.” But in _An Abstract of the History of England_
+(probably revised in 1719) he says that the English which came in
+with the Saxons was “extremely different from what it is now.” The
+two statements are not incompatible, but the emphasis is remarkably
+changed. It is possible that some friend had pointed out to Swift that
+his earlier statement was too gross a simplification, or alternatively
+that someone had drawn his attention to Elizabeth Elstob’s
+_Rudiments_.
+
+All writers owe much to the labors of scholarship and are generally
+ill-advised to scorn or reject them, however uninspired and
+uninspiring they may seem. Moreover when authors do enter into dispute
+with “laborious men of low genius” they frequently meet with more than
+their match. Miss Elstob’s bold and aggressive defense of Northern
+antiquities was remembered and cited by a later scholar, George
+Ballard, as a warning to those who underestimated the importance of
+a sound knowledge of the language. Indeed, he wrote, “I thought that
+the bad success Dean Swift had met with in this affair from the
+incomparably learned and ingenious Mrs. Elstob would have deterred
+all others from once venturing in this affair.” (John Nichols,
+_Illustrations of the Literary History of the Eighteenth Century_,
+1822, IV, 212.)
+
+  Charles Peake
+  University College, London
+
+
+           *       *       *       *       *
+               *       *       *       *
+           *       *       *       *       *
+
+                          The
+                       RUDIMENTS
+                          of
+                        GRAMMAR
+
+                        for the
+                 English-Saxon Tongue,
+                First given in ENGLISH:
+
+                        with an
+                        Apology
+                    For the Study of
+
+                  NORTHERN ANTIQUITIES.
+
+    Being very useful towards the understanding our
+      ancient _English_ POETS, and other WRITERS.
+
+
+                   By ELIZABETH ELSTOB.
+
+
+Our Earthly Possessions are truly enough called a _PATRIMONY_,
+as derived to us by the Industry of our _FATHERS_; but the Language
+that we speak is our _MOTHER-TONGUE_; And who so proper to play the
+Criticks in this as the _FEMALES_.
+
+    In a Letter from a Right Reverend Prelate to the Author.
+
+
+                        LONDON.
+
+     Printed by _W. Bowyer_: And Sold by J. BOWYER
+     at the _Rose_ in _Ludgate-street_, and C. KING
+             in _Westminster-hall_, 1715.
+
+           *       *       *       *       *
+
+                          The
+                        PREFACE
+
+                         to the
+                 Reverend Dr. _Hickes_.
+
+SIR,
+
+Soon after the Publication of the Homily on St. Gregory, I was engaged
+by the Importunity of my Friends, to make a Visit to _Canterbury_, as
+well to enjoy the Conversations of my Friends and Relations there,
+as for that Benefit which I hoped to receive from Change of Air, and
+freer Breathing, which is the usual Expectation of those, who are used
+to a sedentary Life and Confinement in the great City, and which
+renders such an Excursion now and then excusable. In this Recess,
+among the many Compliments and kind Expressions, which their
+favourable Acceptance of my first Attempt in _Saxon_, had obtained for
+me from the Ladies, I was more particularly gratified, with the new
+Friendship and Conversation, of a young Lady, whose Ingenuity and
+Love of Learning, is well known and esteem’d, not only in that Place,
+but by your self: and which so far indear’d itself to me, by her
+promise that she wou’d learn the _Saxon Tongue_, and do me the Honour
+to be my _Scholar_, as to make me think of composing an _English
+Grammar_ of that Language for her use. That Ladies Fortune hath so
+disposed of her since that time, and hath placed her at so great
+distance, as that we have had no Opportunity, of treating farther on
+this Matter, either by Discourse or Correspondence. However though a
+Work of a larger Extent, and which hath amply experienced your
+Encouragement, did for some time make me lay aside this Design, yet
+I did not wholly reject it. For having re-assumed this Task, and
+accomplish’d it in such manner at I was able, I now send it to you,
+for your Correction, and that Stamp of Authority, it must needs
+receive from a Person of such perfect and exact Judgement in these
+Matters, in order to make it current, and worthy of Reception from the
+Publick. Indeed I might well have spared my self the labour of such
+an Attempt, after the elaborate Work of your rich and learned
+_Thesaurus_, and the ingenious Compendium of it by Mr. _Thwaites_;
+but considering the Pleasure I my self had reaped from the Knowledge
+I have gained from this Original of our Mother Tongue, and that others
+of my own Sex, might be capable of the same Satisfaction: I resolv’d
+to give them the Rudiments of that Language in an English Dress.
+However not ’till I had communicated to you my Design for your Advice,
+and had receiv’d your repeated Exhortation, and Encouragement to the
+Undertaking.
+
+The Method I have used, is neither entirely new, out of a Fondness
+and Affectation of Novelty: nor exactly the same with what has been
+in use, in teaching the learned Languages. I have retain’d the old
+Division of the Parts of Speech, nor have I rejected the other common
+Terms of _Grammar_; I have only endeavour’d to explain them in such a
+manner, as to hope they may be competently understood, by those whose
+Education, hath not allow’d them an Acquaintance with the Grammars of
+other Languages. There is one Addition to what your self and Mr.
+_Thwaites_ have done on this Subject, for which you will, I imagine,
+readily pardon me: I have given most, if not all the _Grammatical_
+Terms in true old _Saxon_, from _Ælfrick_’s Translation of _Priscian_,
+to shew the _polite_ Men of our Age, that the Language of their
+Forefathers is neither so barren nor barbarous as they affirm, with
+equal Ignorance and Boldness. Since this is such an Instance of its
+Copiousness, as is not to be found in any of the polite modern
+Languages; and the _Latin_ itself is beholden to the _Greek_, not only
+for the Terms, but even the Names of Arts and Sciences, as is easily
+discerned in the Words, _Philosophy_, _Grammar_, _Logick_, _Rhetorick_,
+_Geometry_, _Arithmetick_, &c. These Gentlemens ill Treatment of our
+Mother Tongue has led me into a Stile not so agreeable to the Mildness
+of our Sex, or the usual manner of my Behaviour, to Persons of your
+Character; but the Love and Honour of one’s Countrey, hath in all Ages
+been acknowledged such a Virtue, as hath admitted of a Zeal even
+somewhat extravagant. _Pro Patria mori_, used to be one of the great
+Boasts of Antiquity; and even the so celebrated Magnanimity of _Cato_,
+and such others as have been called Patriots, had wanted their Praise,
+and their Admiration, had they wanted this Plea. The Justness and
+Propriety of the Language of any Nation, hath been always rightly
+esteem’d a great Ornament and Test of the good Sense of such a Nation;
+and consequently to arraign the good Sense or Language of any Nation,
+is to cast upon it a great Reproach. Even private Men are most
+jealous, of any Wound, that can be given them in their intellectual
+Accomplishments, which they are less able to endure, than Poverty
+itself or any other kind of Disgrace. This hath often occasion’d my
+Admiration, that those Persons, who talk so much, of the Honour of our
+Countrey, _of the correcting, improving and ascertaining_ of our
+Language, shou’d dress it up in a Character so very strange and
+ridiculous: or to think of improving it to any degree of Honour
+and Advantage, by divesting it of the Ornaments of Antiquity, or
+separating it from the _Saxon_ Root, whose Branches were so copious
+and numerous. But it is very remarkable how Ignorance will make Men
+bold, and presume to declare that unnecessary, which they will not be
+at the pains to render useful. Such kind of Teachers are no new thing,
+the Spirit of Truth itself hath set a mark upon them; _Desiring to be
+Teachers of the Law, understanding neither what they say, nor
+whereof they affirm, 1 _Tim._ 1. 7._ It had been well if those wise
+_Grammarians_ had understood this Character, who have taken upon them
+to teach our Ladies and young Gentlemen, _The whole System of an
+English Education_; they had not incurr’d those Self-contradictions
+of which they are guilty; they had not mention’d your self, and your
+incomparable Treasury of _Northern Literature_ in so cold and
+negligent a manner, as betrays too much of an invidious Pedantry: But
+in those Terms of Veneration and Applause which are your just Tribute,
+not only from the Learned of your own Countrey, but of most of the
+other Northern Nations, whether more or less Polite: Who would any of
+them have glory’d in having you their Native, who have done so much
+Honour to the Original of almost all the Languages in Europe.
+
+But it seems you are not of so much Credit with these _Gentlemen_, who
+question your Authority, and have given a very visible Proof of their
+Ingenuity in an Instance which plainly discovers, that they cannot
+believe their own Eyes.
+
+  The _Saxons_, say they, if we may credit Dr. _Hickes_, had
+  various Terminations to their Words, at least two in every
+  Substantive singular: whereas we have no Word now in use, except
+  the personal Names that has so. Thus Dr. _Hickes_ has made six
+  several _Declensions_ of the _Saxon_ Names: He gives them three
+  _Numbers_; a Singular, Dual, and Plural: We have no Dual Number,
+  except perhaps in _Both_: To make this plainer, we shall
+  transcribe the six Declensions from that Antiquary’s Grammar.
+
+I would ask these Gentlemen, and why not credit Dr. _Hickes_? Is he
+not as much to be believ’d as those Gentlemen, who have transcribed
+so plain an Evidence of the six Declensions to shew the positive
+Unreasonableness and unwarrantable Contradiction of their Disbelief?
+Did he make those six Declensions? or rather, did he not find them in
+the Language, and take so much pains to teach others to distinguish
+them, who have Modesty enough to be taught? They are pleased to say we
+have no Word now in use that admits of Cases or Terminations. But let
+us ask them, what they think of these Words, _God’s Word_, _Man’s
+Wisdom_, the _Smith’s Forge_, and innumerable Instances more. For in
+_God’s Word_, &c. is not the Termination _s_ a plain Indication of a
+Genitive Case, wherein the Saxon _e_ is omitted? For example_, Goꝺeꞅ
+Ƿoꞃꝺ, Manneꞅ Ƿiꞅꝺom, Ꞅmiðeꞅ Heoꞃð. Some will say, that were better
+supplied by _his_, or _hers_, as Man _his_ Thought, the Smith _his_
+Forge; but this Mistake is justly exploded. Yet if these Gentlemen will
+not credit Dr. _Hickes_, the _Saxon_ Writings might give them full
+Satisfaction. The _Gospels_, the _Psalms_, and a great part of the
+_Bible_ are in _Saxon_, so are the _Laws_ and _Ecclesiastical Canons_,
+and _Charters_ of most of our _Saxon Kings_; these one wou’d think might
+deserve their Credit. But they have not had Learning or Industry enough
+to fit them for such Acquaintance, and are forc’d therefore to take up
+their Refuge with those Triflers, whose only Pretence to Wit, is to
+despise their Betters. This Censure will not, I imagine, be thought
+harsh, by any candid Reader, since their own Discovery has sufficiently
+declared their Ignorance: and their Boldness, to determine things
+whereof they are so ignorant, has so justly fix’d upon them the Charge
+of Impudence. For otherwise they must needs have been ashamed to proceed
+in manner following.
+
+  We might give you various Instances more of the essential
+  difference between the old _Saxon_ and modern _English_ Tongue,
+  but these must satisfy any reasonable Man, that it is so great,
+  that the _Saxon_ can be no Rule to us; and that to understand
+  ours, there is no need of knowing the _Saxon_: And tho’ Dr.
+  _Hickes_ must be allow’d to have been a very curious Enquirer
+  into those obsolete Tongues, now out of use, and containing
+  nothing valuable, yet it does by no means follow (as is plain
+  from what has been said) that we are obliged to derive the
+  Sense, Construction, or Nature of our present Language from
+  his Discoveries.
+
+I would beseech my Readers to observe, the Candour and Ingenuity of
+these Gentlemen: They tell us, _We might give you various Instances
+more of the essential difference between the old _Saxon_ and modern
+_English_ Tongue_; and yet have plainly made it appear, that they know
+little or nothing of the old _Saxon_. So that it will be hard to say
+how they come to know of any such _essential difference, as MUST
+satisfy any reasonable Man_; and much more that this _essential
+difference_ is so _great, that the _Saxon_ can be no Rule to us,
+and that to understand ours, there is no need of knowing the _Saxon_._
+What they say, _that it cannot be a Rule to them_, is true; for
+nothing can be a Rule of Direction to any Man, the use whereof he does
+not understand; but if to understand the Original and Etymology of the
+Words of any Language, be needful towards knowing the Propriety of any
+Language, a thing which I have never heard hath yet been denied; then
+do these Gentlemen stand self-condemned, there being no less than
+four Words, in the Scheme of Declensions they have borrowed from
+Dr. _Hickes_, now in use, which are of pure _Saxon_ Original, and
+consequently _essential to the modern English_. I need not tell any
+English Reader at this Day the meaning of _Smith_, _Word_, _Son_, and
+_Good_; but if I tell them that these are Saxon Words, I believe they
+will hardly deny them to be _essential to the modern English_, or that
+they will conclude that the difference between the old _English_ and
+the modern is so great, or the distance of Relation between them so
+remote, as that the former deserves not to be remember’d: except by
+such Upstarts who having no Title to a laudable Pedigree, are backward
+in all due Respect and Veneration towards a noble Ancestry.
+
+Their great Condescension to Dr. _Hickes_ in allowing him to have been
+a very curious Inquirer into those _obsolete Tongues, now out of use,
+and containing nothing valuable in them_, is a Compliment for which I
+believe you, Sir, will give me leave to assure them, that he is not at
+all obliged; since if it signifies any thing, it imports, no less than
+that he has employ’d a great deal of Time, and a great deal of Pains,
+to little purpose. But we must at least borrow so much Assurance from
+them, as to tell them, that your Friends, who consist of the most
+learned sort of your own Countrey-men, and of Foreigners, do not think
+those Tongues so obsolete and out of use, whose Significancy is so
+apparent in Etymology; nor do they think those Men competent Judges to
+declare, whether there be any thing contained in them valuable or not,
+who have made it clear, that they know not what is _contain’d_ in
+them. They would rather assure them, that our greatest Divines[A],
+and Lawyers[B], and Historians[C] are of another Opinion, they wou’d
+advise them to consult our Libraries, those of the two Universities,
+the _Cottonian_, and my Lord Treasurers; to study your whole
+_Thesaurus_, particularly your _Dissertatio Epistolaris_, to look into
+Mr. _Wanleys_ large and accurate Catalogue of _Saxon_ Manuscripts,
+and so with Modesty gain a Title to the Applause of having confest
+their former Ignorance, and reforming their Judgment. I believe I
+may farther take leave to assure them, that the Doctor is as little
+concerned for their _Inference_, which they think _so plain from
+what has been said, that they are not obliged to derive the Sense,
+Construction, or Nature of our present Language from his Discoveries_.
+He desires them not to _derive_ the _Sense_ and _Construction_ of
+which they speak, in any other manner, than that in which the Nature
+of the things themselves makes them appear; and so far as they are his
+_Discoveries_ only, intrudes them on no Man. He is very willing they
+should be let alone by those, who have not Skill to use them to their
+own Advantage, and with Gratitude.
+
+    [Footnote A: Archbishops _Parker_, _Laud_, _Usher_, Bishop
+    _Stillingfleet_, the present Bishops _of Worcester_, _Bath_
+    and _Wells_, _Carlisle_, St. _Asaph_, St. _Davids_, _Lincoln_,
+    _Rochester_, with many other Divines of the first Rank.]
+
+    [Footnote B: The Lord Chief Justice _Cook_, Mr. _Lombard_,
+    _Selden_, _Whitlock_, Lord Chief Justice _Hales_, and _Parker_,
+    Mr. _Fortescue_ of the Temple, and others.]
+
+    [Footnote C: _Leland_, who writes in a Latin Style in Prose and
+    Verse, as polite and accurate as can be boasted of by any of
+    our modern Wits. _Jocelin_, _Spelman_, both Father and Son,
+    _Cambden_, _Whelock_, _Gibson_, and many more of all Ranks and
+    Qualities, whose Names deserve well to be mention’d with Respect,
+    were there room for it in this place.]
+
+But to leave these Pedagogues to huff and swagger in the heighth of
+all their Arrogance. I cannot but think it great Pity, that in our
+Considerations, for Refinement of the _English_ Tongue, so little
+Regard is had to Antiquity, and the Original of our present Language,
+which is the _Saxon_. This indeed is allow’d by an ingenious Person,
+who hath lately made some Proposals for the Refinement of the
+_English_ Tongue, _That the old _Saxon_, except in some few Variations
+in the Orthography, is the same in most original Words with our
+present _English_, as well as with the _German_ and other _Northern_
+Dialects_; which makes it a little surprizing to me, to find the same
+Gentleman not long after to say, _The other Languages of _Europe_
+I know nothing of, neither is there any occasion to consider them_:
+because, as I have before observ’d, it must be very difficult to
+imagin, how a Man can judge of a thing he knoweth nothing of, whether
+there can be occasion or no to consider it. I must confess I hope
+when ever such a Project shall be taken in hand, for _correcting_,
+_enlarging_, and _ascertaining_ our Language, a competent Number
+of such Persons will be advised with, as are knowing, not only in
+_Saxon_, but in the other Languages of _Europe_, and so be capable of
+judging how far those Languages may be useful in such a Project. The
+want of understanding this aright, wou’d very much injure the Success
+of such an Undertaking, and the bringing of it to Perfection; in
+denying that Assistance toward adjusting the Propriety of Words, which
+can only be had from the Knowledge of the Original, and likewise in
+depriving us of the Benefit of many useful and significant Words,
+which might be revived and recalled, to the Increase and Ornament of
+our Language, which wou’d be the more beautiful, as being more genuine
+and natural, by confessing a _Saxon_ Original for their native Stock,
+or an Affinity with those Branches of the other _Northern Tongues_,
+which own the same Original.
+
+The want of knowing the _Northern Languages_, has occasion’d an unkind
+Prejudice towards them: which some have introduced out of Rashness,
+others have taken upon Tradition. As if those Languages were made up
+of nothing else but Monosyllables, and harsh sounding Consonants; than
+which nothing can be a greater Mistake. I can speak for the _Saxon_,
+_Gothick_, and _Francick_, or old _Teutonick_: which for aptness of
+compounded, and well sounding Words, and variety of Numbers, are by
+those learned Men that understand them, thought scarce inferior to the
+_Greek_ itself. I never cou’d find my self shocked with the Harshness
+of those Languages, which grates so much in the Ears of those that
+never heard them. I never perceiv’d in the Consonants any Hardness,
+but such as was necessary to afford Strength, like the Bones in a
+human Body, which yield it Firmness and Support. So that the worst
+that can be said on this occasion of our Forefathers is, that they
+spoke at they fought, like Men.
+
+The Author of the _Proposal_, may think this but an ill Return, for
+the soft things he has said of the Ladies, but I think it Gratitude
+at least to make the Return, by doing Justice to the Gentlemen. I will
+not contradict the Relation of the ingenious Experiment of his vocal
+Ladies, tho’ I could give him some Instances to the contrary, in my
+Experience of those, whose Writings abound with Consonants; where
+Vowels must generally be understood, and appear but very rarely.
+Perhaps that Gentleman may be told that I have a _Northern_
+Correspondence, and a _Northern_ Ear, probably not so fine as he
+may think his own to be, yet a little musical.
+
+And now for our _Monosyllables_. In the Controversy concerning which,
+it must be examined, first whether the Charge which is exhibited
+against the _Northern Languages_ is true, that they consist of nothing
+but _Monosyllables_; and secondly, whether or no the Copiousness and
+Variety of _Monosyllables_ may be always justly reputed a fault, and
+may not sometimes as justly be thought, to be very useful and
+ornamental.
+
+And first I must assert, that the ancient _Northern Languages_, do not
+wholly nor mostly consist of _Monosyllables_. I speak chiefly of the
+_Gothick_, _Saxon_, and _Teutonick_. It must be confest that in the
+_Saxon_, there are many _Primitive_ Words of one Syllable, and this
+to those who know the Esteem that is due to Simplicity and Plainness,
+in any Language, will rather be judged a Virtue than a Vice: That is,
+that the first Notions of things should be exprest in the plainest
+and simplest manner, and in the least compass: and the Qualities
+and Relations, by suitable Additions, and Composition of _Primitive_
+Words[D]; for which the _Saxon_ Language is very remarkable, as has
+been before observed, and of which there are numerous Examples, in the
+following Treatise of _Saxon Grammar_, and infinitely more might have
+been added.
+
+    [Footnote D: Of this the _Greeks_ give as a fair Example, when
+    they express the Original and Author of all Things, their Πατὴρ
+    ἀνδρῶντε θεῶντε, by their Monosyllable Ζεύς. As the _Hebrews_
+    do by יה, the _Goths_ the Ancestors of our _Saxon_ Progenitors
+    by the Word 𐌲𐍉𐌸, the _Saxons_, old _Germans_, _Teutons_,
+    _Francick_, and _English_, in the _Monosyllable_ Goꝺ, the
+    _Germans_ #Gott#, and the _French_ _Dieu_.]
+
+The second Enquiry is, whether or no the Copiousness and Variety
+of _Monosyllables_ may be always justly reputed a fault, and may not
+as justly be thought, to be very useful and ornamental? Were this a
+fault, it might as justly be charged upon the learned Languages,
+the _Latin_ and _Greek_: For the _Latin_ you have in _Lilly_’s Rules
+concerning Nouns, several Verses, made up for the most part of
+_Monosyllables_, I mention him not as a Classick, but because the
+Words are Classical and _Monosyllables_; and in the _Greek_ there
+are several as it were, idle _Monosyllables_, that have little
+Significancy, except to make the Numbers in Verse compleat, or to
+give a Fulness to their Periods, as the Verses of _Homer_ and other
+_Greek Poets_ plainly evidence: An Instance or two may suffice;
+
+  Ἐξ οὗ δὴ τα πρῶτα διαστήτην ἐρίσαντε.
+
+Here are four _Monosyllables_ in this Verse,
+
+  Τὴν δ’ ἐγὼ οὐ λύσω, πρίν μιν καὶ γῆρας ἔπεισεν.
+
+Here are six _Monosyllables_, and one cutting off.
+
+  Ἀλλ’ ἴθι, μὴ μ’ ἐρέθιζε, σαώτερος ὥς κε νέηαι.
+  Ὅς ἤδη τά τ’ ἐόντα, τά τ’ ἐσσόμενα πρό τ‘ ἐόντα.
+
+            Hom. Il. 1. l. 70.
+
+Here are seven _Monosyllables_; yet so far is _Virgil_ from being angry
+with his Master _Homer_ on this Account, that he in a manner transcribes
+his very Words, imitating him as near as the _Latin_ wou’d permit;
+
+  Quæ sint, quæ fuerint, quæ mox ventura trahantur.
+
+Here is the whole Sense of _Homer_ exprest, and five _Monosyllables_.
+But Mr. _Dryden_, who has exprest the Sense of _Virgil_ with no less
+Accuracy, gives you the whole Line in _Monosyllables_;
+
+  He sees what is, and was, and is to come.
+
+Mr. _Pope_ is equally happy in the Turn he has given to the Original,
+who as he is an exact Master of Criticism, so has he all those
+Accomplishments of an excellent Poet, that give us just Reason to hope
+he will make the Father of the Poets speak to us in our own Language,
+with all the Advantages he gave to his Works in that wherein they were
+first written, and the modest Opinion he prescribes to his own, and
+other Mens Poetical Performances, is no Discouragement to these Hopes;
+
+    Whoever thinks a faultless Piece to see,
+  Thinks what ne’er was, nor is, nor e’er shall be.
+
+And _Horace_, while he is teaching us the Beauties in the Art of Poetry,
+gives no less than nine _Monosyllables_ in the compass of a Verse and a
+half;
+
+  _Sed nunc non_ erat _his_ locus: & fortasse cupressum
+  _Scis_ simulare. _Quid hoc si_, &c.
+
+Now if these are Beauties, as I doubt not but the _politer Criticks_
+will allow, I cannot see why our Language may not now and then be
+tolerated in using _Monosyllables_, when it is done discreetly, and
+sparingly; and as I do not commend any of our Moderns who contract
+Words into _Monosyllables_ to botch up their Verses, much less such as
+do it out of Affectation; yet certainly the use of _Monosyllables_ may
+be made to produce a charming and harmonious Effect, where they fall
+under a Judgment that can rightly dispose and order them. And indeed,
+if a Variety and Copiousness of Feet, and a Latitude of shifting and
+transposing Words either in Prose or Poetical Compositions, be of any
+use, towards the rendering such Compactions sweet, or nervous, or
+harmonious, according to the Exigencies of the several sorts of Stile,
+one wou’d think _Monosyllables_ to be best accommodated to all these
+Purposes, and according to the Skill of those who know how to manage
+them, to answer all the Ends, either of masculine Force, or female
+Tenderness; for being single you have a Liberty of placing them where,
+and as you please; whereas in Words of many Syllables you are more
+confined, and must take them as you find them, or be put upon the
+cruel necessity of mangling and tearing them asunder. Mr. _Dryden_,
+it is true, wou’d make us believe he had a great Aversion to
+_Monosyllables_. Yet he cannot help making use of them sometimes in
+entire Verses, nor conceal his having a sort of Pride, even where he
+tells us he was forc’d to do it. For to have done otherwise would have
+been a Force on Nature, which would have been unworthy of so great a
+Genius, whose Care it was to study Nature, and to imitate and copy it
+to the Life; and it is not improbable, that there might be somewhat of
+a latent Delicacy and Niceness in this Matter, which he chose rather
+to dissemble, than to expose, to the indiscreet Management of meaner
+Writers. For in the first Line of his great Work the _Æneis_, every
+Word is a _Monosyllable_; and tho’ he makes a seeming kind of Apology,
+yet he cannot forbear owning a secret Pleasure in what he had done.
+“My first Line in the _Æneis_, says he, is not harsh.
+
+  “Arms and the Man I sing, who forc’d by Fate.
+
+“But a much better Instance may be given from the last Line of
+_Manilius_, made _English_ by our learned and judicious Mr. _Creech_;
+
+  “Nor could the World have born so fierce a Flame.
+
+“Where the many liquid Consonants are placed so artfully, that they give
+a pleasing Sound to the Words, tho’ they are all of one Syllable.”
+
+It is plain from these last Words, that the Subject-matter,
+_Monosyllables_, is not so much to be complain’d of; what is chiefly to
+be requir’d, is of the Poet, that he be a good Workman, in forming them
+aright, and that he _place them artfully_: and, however Mr. _Dryden_
+may desire to disguise himself, yet, as he some where says, Nature will
+prevail. For see with how much Passion he has exprest himself towards
+these two Verses, in which the Poet has not been sparing of
+_Monosyllables_: “I am sure, says he, there are few who make Verses,
+have observ’d the Sweetness of these two Lines in _Coopers Hill_;
+
+  “Tho deep, yet clear; tho gentle, yet not dull;
+  “Strong without Rage, without o’erflowing full.
+
+“And there are yet fewer that can find the reason of that Sweetness,
+I have given it to some of my Friends in Conversation, and they have
+allow’d the Criticism to be just.”
+
+You see, Sir, this great Master had his Reserves, and this was one of
+the _Arcana_, to which every Novice was not admitted to aspire; this
+was an Entertainment only for his best Friends, such as he thought
+worthy of his Conversation; and I do not wonder at it, for he was
+acquainted not only with the _Greek_ and _Latin Poets_, but with the
+best of his own Countrey, as well of ancient as of latter times, and
+knew their Beauties and Defects: and tho’ he did not think himself
+obliged to be lavish, in dispersing the Fruits of so much Pains and
+Labour at random, yet was he not wanting in his Generosity to such as
+deserved his Friendship, and in whom he discern’d a Spirit capable of
+improving the Hints of so great a Master. To give greater Probability
+to what I have said concerning _Monosyllables_, I will give some
+Instances, as well from such Poets as have gone before him, as those
+which have succeeded him. It will not be taken amiss by those who
+value the Judgment of Sir _Philip Sydney_, and that of Mr. _Dryden_,
+if I begin with Father _Chaucer_.
+
+  #Er it was Day, as was her won to do.#
+
+Again,
+
+  #And but I have her Mercy and her Grace,
+  That I may seen her at the lefte way;
+  I nam but deed there nis no more to say.#
+
+Again,
+
+  #Alas, what is this wonder Maladye?
+  For heate of colde, for colde of heate I dye.#
+
+            _Chaucer_’s first Book of _Troylus_, fol. 159. b.
+
+And since we are a united Nation, and he as great a Poet, considering
+his time, as this Island hath produced, I will with due Veneration for
+his Memory, beg leave to cite the learned and noble Prelate, _Gawen
+Douglas_, Bishop of _Dunkeld_ in _Scotland_, who in his Preface to his
+judicious and accurate Translation of _Virgil_, p. 4. says,
+
+  Nane is, nor was, nor zit sal be, trowe I,
+  Had, has, or sal have, sic craft in Poetry:
+
+Again, p. 5.
+
+  Than thou or I, my Freynde, quhen we best wene.
+
+But before, at least contemporary with _Chaucer_, we find Sir _John
+Gower_, not baulking _Monosyllables_;
+
+  #Myne Herte is well the more glad
+  To write so as he me bad,
+  And eke my Fear is well the lasse.#
+
+        #To _Henry_ the Fourth.#
+
+  #_King Salomon_ which had at his asking
+  Of God, what thyng him was leuest crave.
+  He chase Wysedom unto governyng
+  Of Goddes Folke, the whiche he wolde save:
+  And as he chase it fyl him for to have.
+  For through his Witte, while that his Reigne laste,
+  He gate him Peace, and Rest, into his laste.#
+
+Again,
+
+  #Peace is the chefe of al the Worldes Welth,
+  And to the Heven it ledeth eke the way,
+  Peace is of Soule and Lyfe the Mannes Helth,
+  Of Pestylence, and doth the Warre away,
+  My Liege Lord take hede of that I say.
+  If Warre may be lefte, take Peace on Hande
+  Which may not be without Goddes Sande.#[E]
+
+    [Footnote E: Besides the Purpose for which these Verses are
+    here cited, it may not be amiss to observe from some Instances
+    of Words contain’d in them, how necessary, at least useful, the
+    Knowledge of the _Saxon Tongue_ is, to the right understanding
+    our _Old English Poets_, and other Writers. For example,
+    #leuest#, this is the same with the _Saxon_ leoꝼoꞅꞇ, _most
+    beloved_, or _desirable_. #Goddes folke#, not _God his Folk_,
+    this has plainly the Remains of the _Saxon_ Genitive Case.
+    #Sande#, this is a pure _Saxon_ word, signifying _Mission_,
+    or _being sent_. See the _Saxon Homily_ on the Birth Day of
+    St. _Gregory_, p. 2. He ðuꞃh hıꞅ ꞃæꝺe ⁊ ꞅanꝺe uꞅ ꝼꞃam ðeoꝼleꞅ
+    bıᵹᵹenᵹum æꞇbꞃæꝺ. He through his Counsel and Commission rescued
+    us from the Worship of the Devil.]
+
+Nor were the _French_, however more polite they may be thought, than we
+are said to be, more scrupulous in avoiding them, if these Verses are
+upon his Monument;
+
+  #En toy qui es fitz de Dieu le Pere,
+  Sauue soit, qui gist sours cest pierre.#
+
+This will be said to be old _French_, let us see whether _Boileau_ will
+help us out, who has not long since writ the Art of Poetry;
+
+  Mais moi, grace au Destin, qui n’ai ni feu ne lieu,
+  Je me loge où je puis, & comme il plaist à Dieu.
+
+            _Sat._ vi.
+
+And in that which follows,
+
+  Et tel, en vous lisant, admire chaque traite,
+  Qui dans le fond de l’ame, & vous craint & vous hait.
+
+Let _Lydgate_, _Chaucer_’s Scholar also be brought in for a Voucher;
+
+  #For _Chaucer_ that my Master was and knew
+  What did belong to writing Verse and Prose,
+  Ne’er stumbled at small faults, nor yet did view
+  With scornful Eye the Works and Books of those
+  That in his time did write, nor yet would taunt
+  At any Man, to fear him or to daunt.#
+
+Tho’ the Verse is somewhat antiquated, yet the Example ought not to be
+despised by our modern Criticks, especially those who have any Respect
+for _Chaucer_.
+
+I might give more Instances out of _John Harding_, and our good old
+Citizen, Alderman _Fabian_, besides many others: but out of that Respect
+to the nice Genij of our Time, which they seldom allow to others, I will
+hasten to the Times of greater Politeness, and desire that room may be
+made, and attention given to a Person of no less Wit than Honour, the
+_Earl of Surrey_, who at least had all the Elegancy of a gentle Muse,
+that may deserve the Praises of our Sex,
+
+  Her Praise I tune whose Tongue doth tune the Spheres,
+  And gets new Muses in her Hearers Ears.
+  Stars fall to fetch fresh Light from her rich Eyes,
+  Her bright Brow drives the Sun to Clouds beneath.
+
+Again,
+
+  O Glass! with too much Joy my Thoughts thou greets.
+
+And again upon the Chamber where his admired _Geraldine_ was born;
+
+  O! if _Elyzium_ be above the Ground,
+  Then here it is, where nought but Joy is found.
+
+And _Michael Drayton_, who had a Talent fit to imitate, and to celebrate
+so great a Genius, of all our _English_ Poets, seems best to have
+understood the sweet and harmonious placing of _Monosyllables_, and has
+practised it with so great a Variety, as discovers in him a peculiar
+Delight, even to Fondness; for which however, I cannot blame him,
+notwithstanding this may be reputed the Vice of our Sex, and in him
+be thought effeminate. But let the Reader judge for himself;
+
+  Care draws on Care, Woe comforts Woe again,
+  Sorrow breeds Sorrow, one Griefe brings forth twaine,
+  If live or dye, as thou doost, so do I,
+  If live, I live, and if thou dye, I dye;
+  One Hart, one Love, one Joy, one Griefe, one Troth,
+  One Good, one Ill, one Life, one Death to both.
+
+Again,
+
+  Where as thou cam’st unto the Word of Love,
+  Even in thine Eyes I saw how Passion strove;
+  That snowy Lawn which covered thy Bed,
+  Me thought lookt white, to see thy cheeke so red,
+  Thy rosye cheeke oft changing in my sight,
+  Yet still was red to see the Lawn so white:
+  The little Taper which should give the Light,
+  Me thought waxt dim, to see thy Eye so bright.
+
+Again,
+
+  Your Love and Hate is this, I now do prove you,
+  You Love in Hate, by Hate to make me love you.
+
+And to the Countess of _Bedford_, one of his great Patronesses;
+
+  Sweet Lady yet, grace this poore Muse of mine,
+  Whose Faith, whose Zeal, whose Life, whose All is thine.
+
+The next that I shall mention, is taken out of an ingenious Poem,
+entituled, _The Tale of the Swans_, written by _William Vallans_ in
+blank Verse in the time of Queen _Elizabeth_; for the reprinting of
+which, we are obliged to that ingenious and most industrious Preserver
+and Restorer of Antiquities, Mr. _Thomas Hearne_ of _Oxford_;
+
+  Among the which the merrie Nightingale
+  With swete, and swete (her Brest again a Thorne.)
+
+In another Place,
+
+  And in the Launde, hard by the Parke of _Ware_
+
+Afterwards,
+
+  To _Ware_ he comes, and to the Launde he flies.
+
+Again,
+
+  And in this Pompe they hie them to the Head.
+
+I come now to the incomparable _Spencer_, against whose Judgment and
+Practice, I believe scarce any Man will be so bold as to oppose himself;
+
+  Assure your self; it fell not all to Ground;
+  For all so dear as Life is to my Heart,
+  I deem your Love, and hold me to you bound.
+
+Again,
+
+  Go say his Foe thy Shielde with his doth bear.
+
+Afterwards,
+
+  More old than _Jove_, whom thou at first didst breed.
+
+And,
+
+  And now the Prey of Fowls in Field he lies.
+
+Nor must _Ben. Johnson_ be forgotten;
+
+  Thy Praise or Dispraise is to me alike;
+  One doth not stroke me, nor the other strike.
+
+Again,
+
+  Curst be his Muse, that could lye dumb, or hid
+  To so true Worth, though thou thy self forbid.
+
+In this Train of Voters for _Monosyllables_, the inimitable _Cowley_
+marches next, whom we must not refuse to hear;
+
+  Yet I must on; what Sound is’t strikes mine Ear?
+    Sure I Fames Trumpet hear.
+
+And a little after,
+
+  Come my best Friends, my Books, and lead me on;
+    ’Tis time that I were gone.
+  Welcome, great Stagirite, and teach me now
+    All I was born to know.
+
+And commending _Cicero_, he says,
+
+  Thou art the best of Orators; only he
+  Who best can praise thee, next must be.
+
+And of _Virgil_ thus,
+
+  Who brought green Poesy to her perfect Age,
+    And made that Art, which was a Rage.
+
+And in the beginning of the next Ode, he wou’d not certainly have
+apply’d himself to WIT in the harsh Cadence of _Monosyllables_, had he
+thought them so very harsh;
+
+  Tell me, O tell, what kind of thing is Wit,
+    Thou who Master art of it.
+
+Again,
+
+  In a true Piece of Wit all things must be
+    Yet all things there agree.
+
+But did he believe such Concord to be inconsistent with the use of
+_Monosyllables_, he had surely banished them from these two Lines; and
+were I to fetch Testimonies out of his Writings, I might pick a Jury of
+Twelve out of every Page.
+
+And now comes Mr. _Waller_, and what does he with his _Monosyllables_,
+but,
+
+  Give us new Rules, and set our Harp in Tune.
+
+And that honourable Peer whom he commends, the Lord _Roscommon_ thus
+keeps him in Countenance;
+
+  Be what you will, so you be still the same.
+
+And again,
+
+  In her full Flight, and when she shou’d be curb’d.
+
+Soon after,
+
+  Use is the Judge, the Law, and Rule of Speech,
+
+And by and by,
+
+  We weep and laugh, as we see others do,
+  He only makes me sad who shews the way:
+  But if you act them ill, I sleep or laugh.
+
+The next I shall mention is my Lord _Orrery_, who, as Mr. _Anthony Wood_
+says, was a great Poet, Statesman, Soldier, and great every thing which
+merits the Name of Great and Good. In his Poem to Mrs. _Philips_, he
+writes thus;
+
+  For they imperfect Trophies to you raise,
+  You deserve Wonder, and they pay but Praise;
+  A Praise which is as short of your great due.
+  As all which yet have writ come short of you.
+
+Again,
+
+  In Pictures none hereafter will delight,
+  You draw more to the Life in black and white;
+  The Pencil to your Pen must yield the Place,
+  This draws the Soul, where that draws but the Face.
+
+But having thank’d these noble Lords for their Suffrage, we will proceed
+to some other Witnesses of Quality: And first I beg leave to appeal to
+my Lord Duke of _Buckinghamshire_, his Translation of _The Temple of
+Death_;
+
+  Her Chains were Marks of Honour to the Brave,
+  She made a Prince when e’er she made a Slave.
+
+Again,
+
+  By wounding me, she learnt the fatal Art,
+  And the first Sigh she had, was from my Heart.
+
+My Lord _Hallifax_’s Muse hath been very indulgent to _Monosyllables_,
+and no Son of _Apollo_ will dare to dispute his Authority in this
+Matter. Speaking of the Death of King _Charles_ the Second, and his
+Improvement of Navigation, and Shipping; he says,
+
+  To ev’ry Coast, with ready Sails are hurl’d,
+  Fill us with Wealth, and with our Fame the World.
+
+Again,
+
+  Us from our Foes, and from our selves did shield.
+
+Again,
+
+  As the stout Oak, when round his Trunk the Vine
+  Does in soft Wreaths, and amorous Foldings twine.
+
+And again,
+
+  In _Charles_, so good a Man and King, we see,
+  A double Image of the Deity.
+  Oh! Had he more resembled it! Oh why
+  Was he not still more like; and cou’d not die?
+
+My Lord _Landsdown_’s Muse, which may claim her Seat in the highest
+Point of _Parnassus_, gives us these Instances of her Sentiments in our
+Favour;
+
+  So own’d by Heaven, less glorious far was he,
+  Great God of Verse, than I, thus prais’d by thee.
+
+Again on _Mira’s_ singing,
+
+  The Slave that from her Wit or Beauty flies,
+  If she but reach him with her Voice, he dies.
+
+In such noble Company, I imagin Mr. _Addison_ will not be ashamed to
+appear, thus speaking of Mr. _Cowley_;
+
+  His Turns too closely on the Reader press;
+  He more had pleas’d us, had he pleas’d us less.
+
+And of Mr. _Waller_,
+
+  Oh had thy Muse not come an Age too soon.
+
+And of Mr. _Dryden_’s Muse,
+
+  Whether in Comick Sounds or Tragick Airs
+  She forms her Voice, she moves our Smiles or Tears.
+
+And to his Friend Dr. _Sacheverell_,
+
+  I’ve done at length, and now, dear Friend, receive
+  The last poor Present that my Muse can give.
+  And so at once, dear Friend and Muse, fare well.
+
+To these let me add the Testimony of that Darling of the Muses, Mr.
+_Prior_, with whom all the Poets of ancient and modern Times of other
+Nations, or our own, might seem to have intrusted the chief Secrets, and
+greatest Treasures of their Art. I shall speak only concerning our own
+Island, where his Imitation of _Chaucer_, of _Spencer_, and of the old
+_Scotch Poem_, inscribed the _Nut-Brown Maid_, shew how great a Master
+he is, and how much every thing is to be valued which bears the Stamp of
+his Approbation. And we shall certainly find a great deal to countenance
+the use of _Monosyllables_ in his Writings. Take these Examples;
+
+  Me all too mean for such a Task I weet.
+
+Again,
+
+  Grasps he the Bolt? we ask, when he has hurl’d the Flame.
+
+And,
+
+  Nor found they lagg’d too slow, nor flew too fast.
+
+And again,
+
+  With Fear and with Desire, with Joy and Pain
+  She sees and runs to meet him on the Plain.
+
+And,
+
+  With all his Rage, and Dread, and Grief, and Care.
+
+In his Poem in answer to Mrs. _Eliz. Singer_, on her Poem upon _Love_
+and _Friendship_,
+
+  And dies in Woe, that thou may’st live in Peace.
+
+The only farther Example of _Monosyllabick Verses_ I shall insert here,
+and which I cannot well omit, is what I wou’d desire the Author to apply
+to his own Censure of _Monosyllables_, they are these which follow;
+
+  Then since you now have done your worst,
+  Pray leave me where you found me first.
+
+            Part of the seventh Epistle of the first Book of _Horace_
+              imitated, and address’d to a noble Peer, _p. ult._
+
+After so many Authorities of the Gentlemen, these few Instances from
+some of our Female Poets, may I hope be permitted to take place. I will
+begin with Mrs. _Philips_ on the Death of the Queen of _Bohemia_;
+
+  Over all Hearts and her own Griefs she reign’d.
+
+And on the Marriage of the Lord _Dungannon_,
+
+  May the vast Sea for your sake quit his Pride,
+  And grow so smooth, while on his Breast you ride,
+  As may not only bring you to your Port,
+  But shew how all things do your Virtues court.
+
+To _Gilbert_ Lord Archbishop of _Canterbury_,
+
+  That the same Wing may over her be cast,
+  Where the best Church of all the World is plac’d.
+
+Mrs. _Wharton_ upon the Lamentations of _Jeremiah_;
+
+  Behold those Griefs which no one can repeat,
+  Her Fall is steep, and all her Foes are great.
+
+And my Lady _Winchelsea_ in her Poem entituled, _The Poor Man’s Lamb_;
+
+  Thus wash’d in Tears, thy Soul as fair does show
+  As the first Fleece, which on the Lamb does grow.
+
+Sir, from these numerous Instances, out of the Writings of our
+greatest and noblest Poets, it is apparent, That had the Enmity
+against _Monosyllables_, with which there are some who make so great
+a Clamour, been so great in all Times, we must have been deprived of
+some of the best Lines, and finest Flowers, that are to be met with in
+the beautiful Garden of our _English_ Posie. Perhaps this may put our
+Countreymen upon studying with greater Niceness the use of these kind
+of Words, as well in the Heroick Compositions, as in the softer and
+more gentle Strains. I speak not this, upon Confidence of any Judgment
+I have in _Poetry_, but according to that Skill, which is natural to
+the Musick of a _Northern Ear_, which, if it be deficient, as I shall
+not be very obstinate in its Defence, I beg leave it may at least be
+permitted the Benefit of Mr. _Dryden_’s Apology, for the Musick of old
+Father _Chaucer_’s Numbers, “That there is the rude Sweetness of a
+_Scotch_ Tune in it, which is natural and pleasing, tho’ not perfect.”
+
+Sir, I must beg your Pardon for this long Digression, upon a Subject
+which many will think does not deserve it: but if I have herein
+discover’d some of the greatest Beauties of our _English_ Poets, it
+will be more excusable, at least for the respect that is intended to
+so noble an Art as theirs. But to suspect the worst, considering that
+I am now writing a Preface, I am provided with another Apology from
+Mr. _Dryden_, who cautions his Reader with this Observation, _That the
+Nature of a Preface is Rambling, never wholly out of the way, nor in
+it_. Yet I cannot end this Preface, without desiring that such as
+shall be employ’d in _refining_ and _ascertaining_ our _English
+Tongue_, may entertain better Thoughts both of the _Saxon Tongue_,
+and of the Study of Antiquities. Methinks it is very hard, that those
+who labour and take so much pains to furnish others with Materials,
+either for Writing, or for Discourse, who have not Leisure, or Skill,
+or Industry enough to serve themselves, shou’d be allowed no other
+Instances of Gratitude, than the reproachful Title of Men of _low
+Genius_, of which low Genius’s it may be observed, that they carry
+some Ballast, and some valuable Loading in them, which may be
+despised, but is seldom to be exceeded in any thing truly valuable,
+by light and fluttering Wits. But it is not to be wonder’d, that Men
+of Worth are to be trampled upon, for otherwise they might stand in
+the way of these Assumers; and indeed were it not for the Modesty of
+their Betters, and their own Assurance, they wou’d not only be put out
+of the way of those Expectations that they have, but out of all manner
+of Countenance. There is a Piece of History that I have met with in
+the Life of _Archbishop Spotswood_, that may not unfitly be remembered
+on this Occasion, shewing that studious Men of a private Character are
+not always to be reputed Men of _low Genius_: “Nor were his Virtues
+(says the History) buried and confined within the Boundaries of his
+Parish, for having formerly had a Relation to the noble Family of
+_Lenox_, he was looked upon as the fittest Person of his Quality to
+attend _Lodowic_, Duke of _Lenox_, as his Chaplain in that honourable
+Embassy to _Henry_ the fourth of _France_, for confirming the ancient
+Amity between both Nations; wherein he so discreetly carried himself,
+as added much to his Reputation, and made it appear that Men bred up
+in the Shade of Learning might possibly endure the Sun-shine, and when
+it came to their turns, might carry themselves as handsomly abroad,
+as they (whose Education being in a more pragmatick way) usually
+undervalue them.”
+
+But that of _low Genius_ is not the worst Charge which is brought
+against the _Antiquaries_, for they are not allow’d to have so much
+as common Sense, or to know how to express their Minds intelligibly.
+This I learn from _a Dissertation on reading the Classicks, and
+forming a just Stile_; where it is said, “It must be a great fault of
+Judgment if where the Thoughts are proper, the Expressions are not so
+too: A Disagreement between these seldom happens, but among Men of
+more recondite Studies, and what they call deep Learning, especially
+among your _Antiquaries_ and _Schoolmen_.” This is a good careless way
+of talking, it may pass well enough for the _genteel Negligence_, in
+short, such _Nonsense_, as _Our_ Antiquaries are seldom guilty of;
+for Propriety of Thoughts, without Propriety of Expression is such a
+Discovery, as is not easily laid hold of, except by such Hunters after
+Spectres and Meteors, as are forced to be content with the Froth
+and Scum of Learning, but have indeed nothing to shew of that deep
+Learning, which is the effect of recondite Studies. And there was a
+Gentleman, no less a Friend to polite Learning, but as good a judge of
+it as himself, and who is also a Friend to Antiquities, who was hugely
+pleased with the Humour of his saying _YOUR Antiquaries_, being very
+ready to disclaim an Acquaintance with all such Wits, and who told
+me the Antiquaries, were the Men in all the World who most contemn’d
+_Your Men of Sufficiency and Self-conceit_. But here his Master
+_Horace_ is quite slipt out of his Mind, whose Words are,
+
+  Scribendi recte, sapere est & principium & fons.
+  Rem tibi Socraticæ poterunt ostendere chartæ:
+  Verbaque provisam rem non invita sequentur.
+
+Thus translated by my Lord _Roscommon_,
+
+  Sound Judgment is the ground of writing well:
+  And when Philosophy directs your Choice
+  To proper Subjects rightly understood,
+  Words from your Pen will naturally flow.
+
+_Horace_’s _Sapere_, and my Lord _Roscommon_’s _Proper Subjects
+rightly understood_, I take to be the same as _Propriety of Thought_,
+and the _non invita sequentur, naturally flowing_, I take to import
+the Fitness and Propriety of Expression. I also gather from hence,
+that there is a very easy and natural Connexion between these two, and
+these same Antiquaries of OURS, must be either very dull and stupid
+Animals, or a strange kind of cross-gran’d and perverse Fellows, to be
+always putting a Force upon Nature, and running out of a plain Road.
+He must either insinuate that they are indeed such, or that _Horace_’s
+Observation is not just, or that for the Word _invita_ we ought to
+have a better reading, for which he will be forced to consult the
+_Antiquaries_. I know not how some of the great Orators, he has
+mention’d, will relish his Compliments upon the Score of Eloquence,
+when he has said such hard things against Antiquaries; many of them,
+and those of chief Note, were his Censure just and universal, must
+of necessity be involv’d in it. For example, the late _Bishop_ of
+_Rochester_, of whom, he says, “He was the correctest Writer of the
+Age, and comes nearest the great Originals of _Greece_ and _Rome_, by
+a studious Imitation of the Ancients.” So that, as I take it, he was
+an Antiquary: If he excludes _English Antiquities_, I desire him to
+remember the present _Bishop_ of _Rochester_, of whom he has given
+this true Character, “Dr. _Atterbury_ writeth with the fewest Faults,
+and greatest Excellencies of any who have studied to mix Art and
+Nature in their Compositions, _&c._” He hath however thought fit to
+adorn the Subject of Antiquities with the Beauties of his Stile,
+without any Force upon Nature, or the being obliged to forsake her
+easy and unconstrain’d Method of applying proper Expressions to proper
+Thoughts. The _Bishop_ of St. _Asaph_ hath shewn his Skill in
+Antiquities, by more Instances than one; yet do I not find, that even
+in the Opinion of this Gentleman, it hath spoil’d his Stile. I shall
+add to these the late and present _Bishops_ of _Worcester_, the
+former, Dr. _Stillingfleet_, is allow’d by all to have been one of
+the most learned Men and greatest Antiquaries of his Age; and for the
+present Bishop, who is also a learned Antiquary, take the Character
+which is given of his Skill and Exactness in the _English_ Tongue from
+[F]_Bishop Wilkins_;
+
+  I must acknowledge my self obliged, saith he, to the continual
+  Assistance I have had from my most learned and worthy Friend, Dr.
+  _William Lloyd_, than whom (so far as I am able to judge) this
+  Nation could not have afforded a fitter Person, either for that
+  great Industry, or accurate Judgment, both in _Philological_, and
+  _Philosophical_ Matters, required to such a Work. And particularly,
+  I must wholly ascribe to him that tedious and difficult Task, of
+  suiting the Tables to the _Dictionary_, and the drawing up of the
+  _Dictionary_ itself, which, upon trial, I doubt not, will be found
+  to be the most perfect, that was ever yet made for the _English
+  Tongue_.
+
+I will only farther beg leave to mention, the _Bishop_ of _Carlisle_,
+_Your Self_, and Dr. _Gibson_, who for good Spirit, masterly Judgment,
+and all the Ornaments of Stile, in the several ways of Writing, may be
+equalled with the best and most polite. To conclude, if this Preface
+is writ in a Stile, that may be thought somewhat rough and too severe,
+it is not out of any natural Inclination to take up a Quarrel, but
+to do some Justice to the Study of Antiquities, and even of our own
+Language itself, against the severe Censurers of both; whose Behaviour
+in this Controversy has been such, as cou’d not have the Treatment it
+deserved in a more modest or civil manner. If I am mistaken herein, I
+beg Pardon: I might alledge that which perhaps might be admitted for
+an Excuse, but that I will not involve the whole Sex, by pleading
+Woman’s Frailty. I confess I thought it would be to little purpose
+to write an _English Saxon Grammar_, if there was nothing of Worth
+in that Language to invite any one to the study of it; so that I
+have only been upon the Defensive. If any think fit to take up Arms
+againsst me, I have great Confidence in the Protection of the Learned,
+the Candid, and the Noble; amongst which, from as many as bear the
+Ensigns of St. _George_, I cannot doubt of that help, that true
+Chevalrie can afford, to any Damsel in Distress, by cutting off the
+Heads of all those Dragons, that dare but to open their Mouths, or
+begin to hiss against her. But, Sir, before I conclude, I must do
+you the Justice to insert an extract of two Letters from the Right
+Honourable _D. P._ to the Reverend Dr. _R. Taylor_, relating to your
+_Thesaurus. Lingg. Vett. Septentrion._ which indeed might more
+properly have been placed in the eighth Page of this Preface, had
+it come sooner to my Hands. It is as follows,
+
+  --“The _Dean_’s Present, which I shall value as long as I live for
+  his sake. _Dom. Mabillon_ was the first that told me of that Work,
+  and said, that the Author was a truly learned Person, and not one
+  of those Writers who did not understand their Subject to the
+  bottom, but, said he, that learned Man is one of ten thousand.”
+
+    [Footnote F: See the Epistle to the Reader in the Essay towards
+    a Real Character, p. 3.]
+
+And in another Letter to the abovemention’d Dr. _Taylor_--. “When
+_Dom. Mabillon_ first told me of it, he did not name the Author, so as
+I understood who he was, but the Elogium he made of him, was indeed very
+great, and I find that the _Dean_ in one Word, has done that worthy Man
+Justice.” This high Elogium of your self, and of your great Work, from
+so renowned an Antiquary, as it is a great Defence and Commendation of
+the _Old Northern Learning_, so is it the more remarkable, in that it
+was given by one, against whom you had written in the most tender Point
+of the Controversy, _De Re Diplomatica_, as may be seen in your _Lingg.
+Vett. Septentr. Thesaur. Præfat. General._ p. _xxxvi_, &c.
+
+Sir, I once more heartily beg your Pardon for giving you so much
+trouble, and beg leave to give you my Thanks for the great Assistance
+I have received in the _Saxon_ Studies from your learned Works, and
+Conversation; and in particular for your favourable Recommendation of
+my Endeavours, in a farther cultivating those Studies, who with sincere
+Wishes for your good Health, and all imaginable Respect for a Person of
+your Worth and Learning, am,
+
+          _SIR_,
+
+              Your Most Obliged,
+
+                  Humble Servant,
+
+                      _Elizabeth Elstob._
+
+
+           *       *       *       *       *
+               *       *       *       *
+           *       *       *       *       *
+
+
+William Andrews Clark Memorial Library: University of California
+
+THE AUGUSTAN REPRINT SOCIETY
+
+  _General Editors_
+
+  R. C. BOYS
+  University of Michigan
+
+  RALPH COHEN
+  University of California, Los Angeles
+
+  VINTON A. DEARING
+  University of California, Los Angeles
+
+  LAWRENCE CLARK POWELL
+  Wm. Andrews Clark Memorial Library
+
+  Corresponding Secretary:
+  Mrs. EDNA C. DAVIS, Wm. Andrews Clark Memorial Library
+
+
+THE SOCIETY exists to make available inexpensive reprints (usually
+facsimile reproductions) of rare seventeenth and eighteenth century
+works. The editorial policy of the Society remains unchanged. As in
+the past, the editors welcome suggestions concerning publications. All
+income of the Society it devoted to defraying cost of publication and
+mailing.
+
+All correspondence concerning subscriptions in the United States and
+Canada should be addressed to the William Andrews Clark Memorial
+Library, 2205 West Adams Boulevard, Los Angeles 18, California.
+Correspondence concerning editorial matters may be addressed to any of
+the general editors. The membership fee is $3.00 a year for subscribers
+in the United States and Canada and 15/- for subscribers in Great
+Britain and Europe. British and European subscribers should address
+B. H. Blackwell, Broad Street, Oxford, England.
+
+           *       *       *       *       *
+
+Publications for the eleventh year [1956-57]
+
+(At least six items, most of them from the following list, will be
+reprinted.)
+
+
+  [Where available, Project Gutenberg e-text numbers are shown in
+  brackets.]
+
+_An Essay on the New Species of Writing Founded by Mr. Fielding_ (1751).
+  Introduction by James A. Work.  [_published in Year 16_]
+
+Elizabeth Elstob, _An Apology for the Study of Northern Antiquities_
+  (1715). Introduction by Charles Peake.  [_present text_]
+
+G. W. _Magazine, or Animadversions on the English Spelling_ (1703).
+  Anon., _The Needful Attempt, to make Language and Divinity Plain and
+  Easie_ (1711). Introduction by David Abercrombie.  [20130: Year 12]
+
+_Prefaces to Fiction._ Selected, with an introduction, by Claude E.
+  Jones.
+
+Samuel Johnson. _Notes to Shakespeare, Vol. II, Histories._ Edited by
+  Arthur Sherbo. (A double issue)
+
+_Parodies of Ballad Criticism._ Selected, with an introduction, by
+  William K. Winsatt, Jr.  [22081]
+
+_Two Funeral Sermons._ Selected, with an introduction, by Frank L.
+  Huntley.
+
+Richard Savage, _An Author to be Let_ (1732). Introduction by James
+  Sutherland.  [_published in Year 14_]
+
+Publications for the first ten years (with the exception of Nos. 1-6,
+which are out of print) are available at the rate of $3.00 a year.
+Prices for individual numbers may be obtained by writing to the Society.
+
+
+  The Augustan Reprint Society
+  _William Andrews Clark Memorial Library_
+  2205 West Adams Boulevard, Los Angeles 18, California
+
+Make check or money order payable to The Regents of the University of
+California.
+
+           *       *       *       *       *
+
+PUBLICATIONS OF THE AUGUSTAN REPRINT SOCIETY
+
+
+*First Year (1946-1947)*
+
+Numbers 1-6 out of print.
+
+
+*Second Year (1947-1948)*
+
+ 7. John Gay’s _The Present State of Wit_ (1711); and a section on Wit
+    from _The English Theophrastus_ (1702).  [14800]
+
+ 8. Rapin’s _De Carmine Pastorali_, translated by Creech (1684).
+    [14495]
+
+ 9. T. Hanmer’s (?) _Some Remarks on the Tragedy of Hamlet_ (1736).
+    [14899]
+
+10. Corbyn Morris’ _Essay towards Fixing the True Standards of Wit,
+    etc._ (1744).  [16233]
+
+11. Thomas Purney’s _Discourse on the Pastoral_ (1717).  [15313]
+
+12. Essays on the Stage, selected, with an Introduction by Joseph
+    Wood Krutch.  [16335]
+
+
+*Third Year (1948-1949)*
+
+13. Sir John Falstaff (pseud.), _The Theatre_ (1720).  [15999]
+
+14. Edward Moore’s _The Gamester_ (1753).  [16267]
+
+15. John Oldmixon’s _Reflections on Dr. Swift’s Letter to Harley_
+    (1712); and Arthur Mainwaring’s _The British Academy_ (1712).
+    [25091]
+
+16. Nevil Payne’s _Fatal Jealousy_ (1673).  [16916]
+
+17. Nicholas Rowe’s _Some Account of the Life of Mr. William
+    Shakespeare_ (1709).  [16275]
+
+18. “Of Genius,” in _The Occasional Paper_, Vol. III, No. 10 (1719);
+    and Aaron Hill’s Preface to _The Creation_ (1720).  [15870]
+
+
+*Fourth Year (1949-1950)*
+
+19. Susanna Centlivre’s _The Busie Body_ (1709).  [16740]
+
+20. Lewis Theobold’s _Preface to The Works of Shakespeare_ (1734).
+    [16346]  [_spelled “Theobald” in published text_]
+
+21. _Critical Remarks on Sir Charles Grandison, Clarissa, and Pamela_
+    (1754).  [in preparation]
+
+22. Samuel Johnson’s _The Vanity of Human Wishes_ (1749) and Two
+    _Rambler_ papers (1750).  [13350]
+
+23. John Dryden’s _His Majesties Declaration Defended_ (1681).  [15074]
+
+24. Pierre Nicole’s _An Essay on True and Apparent Beauty in Which from
+    Settled Principles is Rendered the Grounds for Choosing and
+    Rejecting Epigrams_, translated by J. V. Cunningham.  [28921]
+
+
+*Fifth Year (1950-1951)*
+
+25. Thomas Baker’s _The Fine Lady’s Airs_ (1709).  [14467]
+
+26. Charles Macklin’s _The Man of the World_ (1792).  [14463]
+
+27. Out of print.
+
+28. John Evelyn’s _An Apologie for the Royal Party_ (1659); and
+    _A Panegyric to Charles the Second_ (1661).  [17833]
+
+29. Daniel Defoe’s _A Vindication of the Press_ (1718).  [14084]
+
+30. Essays on Taste from John Gilbert Cooper’s _Letters Concerning
+    Taste_, 3rd edition (1757), & John Armstrong’s _Miscellanies_
+    (1770).  [13464]
+
+
+*Sixth Year (1951-1952)*
+
+31. Thomas Gray’s _An Elegy Wrote in a Country Church Yard_ (1751);
+    and _The Eton College Manuscript_.  [15409]
+
+32. Prefaces to Fiction; Georges de Scudéry’s Preface to _Ibrahim_
+    (1674), etc.  [14525]
+
+33. Henry Gally’s _A Critical Essay_ on Characteristic-Writings (1725).
+    [16299]
+
+34. Thomas Tyers’ A Biographical Sketch of Dr. Samuel Johnson (1785).
+
+35. James Roswell, Andrew Erskine, and George Dempster. _Critical
+    Strictures on the New Tragedy of Elvira, Written by Mr. David
+    Malloch_ (1763).  [15857]
+
+36. Joseph Harris’s _The City Bride_ (1696).  [22974]
+
+
+*Seventh Year (1952-1953)*
+
+37. Thomas Morrison’s _A Pindarick Ode on Painting_ (1767).  [27130]
+
+38. John Phillips’ _A Satyr Against Hypocrites_ (1655).
+    [in preparation]
+
+39. Thomas Warton’s _A History of English Poetry_.  [in preparation]
+
+40. Edward Bysshe’s _The Art of English Poetry_ (1708).
+    [in preparation]
+
+41. Bernard Mandeville’s “A Letter to Dion” (1732).  [in preparation]
+
+42. Prefaces to Four Seventeenth-Century Romances.  [in preparation]
+
+
+*Eighth Year (1953-1954)*
+
+43. John Baillie’s _An Essay on the Sublime_ (1747).
+
+44. Mathias Casimire Sarbiewski’s _The Odes of Casimire_, Translated
+    by G. Hils (1646).  [25055]
+
+45. John Robert Scott’s _Dissertation on the Progress of the Fine Arts_.
+    [in preparation]
+
+46. Selections from Seventeenth Century Songbooks.
+
+47. Contemporaries of the _Tatler_ and _Spectator_.
+
+48. Samuel Richardson’s Introduction to _Pamela_.  [24860]
+
+
+*Ninth Year (1954-1955)*
+
+49. Two St. Cecilia’s Day Sermons (1696-1697).
+
+50. Hervey Aston’s _A Sermon Before the Sons of the Clergy_ (1745).
+
+51. Lewis Maidwell’s _An Essay upon the Necessity and Excellency of
+    Education_ (1705).
+
+52. Pappity Stampoy’s _A Collection of Scotch Proverbs_ (1663).  [7018]
+
+53. Urian Oakes’ _The Soveriegn Efficacy of Divine Providence_ (1682).
+
+54. Mary Davys’ _Familiar Letters Betwixt a Gentleman and a Lady_
+  (1725).
+
+
+*Tenth Year (1955-1956)*
+
+55. Samuel Say’s _An Essay on the Harmony, Variety, and Power of
+    Numbers_ (1745).
+
+56. _Theologia Ruris, sive Schola & Scala Naturae_ (1686).
+
+57. Henry Fielding’s _Shamela_ (1741).
+
+58. Eighteenth Century Book Illustrations.
+
+59. Samuel Johnson’s _Notes to Shakespeare_. Vol. I, Comedies, Part I.
+
+60. Samuel Johnson’s _Notes to Shakespeare_. Vol. I, Comedies, Part II.
+    [7780 (59 and 60 combined)]
+
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+
+Transliterations:
+
+  As the _Hebrews_ do by יה
+    ... +YAH+
+  the _Goths_ ... by the Word 𐌲𐍉𐌸
+    ... GOÞ
+  For example_, Goꝺeꞅ Ƿoꞃꝺ, Manneꞅ Ƿiꞅꝺom, Ꞅmiðeꞅ Heoꞃð
+    ... Godes Word, Mannes Wisdom, Smiðes Heorð
+  in the _Monosyllable_ Goꝺ
+    ... God
+  this is the same with the _Saxon_ leoꝼoꞅꞇ
+    ... leofost
+  He ðuꞃh hıꞅ ꞃæꝺe ⁊ ꞅanꝺe uꞅ ꝼꞃam ðeoꝼleꞅ bıᵹᵹenᵹum æꞇbꞃæꝺ.
+    He ðurh his ræde & sande us fram ðeofles biggengum ætbræd.
+
+
+Erratum (noted by transcriber):
+
+_Introduction_
+
+  (Augustan Reprint Society, 1948)  [Auguston]
+
+
+
+
+
+End of the Project Gutenberg EBook of An Apology For The Study of Northern
+Antiquities, by Elizabeth Elstob
+
+*** END OF THIS PROJECT GUTENBERG EBOOK NORTHERN ANTIQUITIES ***
+
+***** This file should be named 15329-0.txt or 15329-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/5/3/2/15329/
+
+Produced by David Starner, Louise Hope and the Online Distributed
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

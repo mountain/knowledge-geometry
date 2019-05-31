@@ -1,0 +1,1521 @@
+﻿Project Gutenberg's The Preface to Aristotle's Art of Poetry, by Andre Dacier
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: The Preface to Aristotle's Art of Poetry
+
+Author: Andre Dacier
+
+Editor: Samuel Holt Monk
+
+Release Date: July 30, 2009 [EBook #29547]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PREFACE--ARISTOTLE'S POETRY ***
+
+
+
+
+Produced by Chris Curnow, Stephanie Eason, Joseph Cooper
+and the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+  THE AUGUSTAN REPRINT SOCIETY
+
+  A. DACIER
+  THE PREFACE TO ARISTOTLE'S
+  ART OF POETRY
+  (1705)
+
+  Publication Number 76
+
+  William Andrews Clark Memorial Library
+  University of California
+  Los Angeles
+  1959
+
+
+
+  GENERAL EDITORS
+  Richard C. Boys, _University of Michigan_
+  Ralph Cohen, _University of California, Los Angeles_
+  Vinton A. Dearing, _University of California, Los Angeles_
+  Lawrence Clark Powell, _Clark Memorial Library_
+
+  ASSISTANT EDITOR
+  W. Earl Britton, _University of Michigan_
+
+  ADVISORY EDITORS
+  Emmett L. Avery, _State College of Washington_
+  Benjamin Boyce, _Duke University_
+  Louis Bredvold, _University of Michigan_
+  John Butt, _King's College, University of Durham_
+  James L. Clifford, _Columbia University_
+  Arthur Friedman, _University of Chicago_
+  Louis A. Landa, _Princeton University_
+  Samuel H. Monk, _University of Minnesota_
+  Ernest C. Mossner, _University of Texas_
+  James Sutherland, _University College, London_
+  H. T. Swedenberg, Jr., _University of California, Los Angeles_
+
+  CORRESPONDING SECRETARY
+  Edna C. Davis, _Clark Memorial Library_
+
+
+
+
+INTRODUCTION
+
+
+André Dacier's _Poëtique d'Aristote Traduite en François avec des
+Remarques_ was published in Paris in 1692. His translation of Horace
+with critical remarks (1681-1689) had helped to establish his reputation
+in both France and England. Dryden, for example, borrowed from it
+extensively in his _Discourse Concerning the Original and Progress of
+Satire_ (1693). No doubt this earlier work assured a ready reception and
+a quick response to the commentary on Aristotle: how ready and how quick
+is indicated by the fact that within a year of its publication in France
+Congreve could count on an audience's recognizing a reference to it. In
+the _Double Dealer_ (II, ii) Brisk says to Lady Froth: "I presume your
+ladyship has read _Bossu_?" The reply comes with the readiness of a
+_cliché_: "O yes, and _Rapine_ and _Dacier_ upon _Aristotle_ and
+_Horace_." A quarter of a century later Dacier's reputation was still
+great enough to allow Charles Gildon to eke out the second part of his
+_Complete Art of Poetry_ (1718) by translating long excerpts from the
+Preface to the "admirable" Dacier's Aristotle.[1] Addison ridiculed the
+pedantry of Sir Timothy Tittle (a strict Aristotelian critic) who
+rebuked his mistress for laughing at a play: "But Madam," says he, "you
+ought not to have laughed; and I defie any one to show me a single rule
+that you could laugh by.... There are such people in the world as
+_Rapin_, _Dacier_, and several others, that ought to have spoiled your
+mirth."[2] But the scorn is directed at the pupil, not the master, whom
+Addison considered a "true critic."[3] A work so much esteemed was
+certain to be translated, and so in 1705 an English version by an
+anonymous translator was published.
+
+It cannot be claimed that Dacier's Aristotle introduced any new critical
+theories into England. Actually it provides material for little more
+than an extended footnote on the history of criticism in the Augustan
+period. Dacier survived as an influence only so long as did a respect
+for the rules; and he is remembered today merely as one of the
+historically important interpreters--or misinterpreters--of the
+_Poetics_.[4] He was, however, the last Aristotelian formalist to affect
+English critical theory, for the course of such speculation in the next
+century was largely determined by other influences. None the less, his
+preface and his commentary are worth knowing because they express
+certain typically neo-classical ideas about poetry, especially dramatic
+poetry, which were acceptable to many men in England and France at the
+end of the seventeenth century. Dacier's immediate and rather special
+influence on English criticism may be observed in Thomas Rymer's
+proposal to introduce the chorus into English tragedy and in the
+admiration which the moralistic critics at the turn of the century felt
+for his theories.
+
+In the very year of its publication Rymer read with obvious approbation
+Dacier's _Poëtique d'Aristote_. In the preface to _A Short View of
+Tragedy_ (1692) he announced that "we begin to understand the Epick Poem
+by means of _Bossu_; and Tragedy by Monsieur _Dacier_."[5] That Rymer
+admired Dacier's strict formalism is plain, but he was especially moved
+by the French critic's argument that the chorus is _the_ essential part
+of true tragedy, since it is necessary both for _vraisemblance_ and for
+moral instruction.[6] He therefore boldly proposed that English tragic
+poets should henceforth use the chorus in the manner of the ancients,
+since it is "the root and original, and ... certainly always the most
+necessary part of Tragedy."[7] Moreover he praised (as had Dacier) the
+example of Racine, who had introduced the chorus into the plays that he
+had written for private performance, by the young ladies of St.
+Cyr--_Esther_ (1689) and _Athalie_ (1691). As is well known, he even
+went so far as to write the synopsis of what inevitably would have been
+an absurd Aeschylean tragedy on the defeat of the Armada.[8]
+
+Rymer's proposal provoked a public debate, which was begun by John
+Dennis, at that time an almost unknown young critic. Though _The
+Impartial Critick_ (1693) was directed against Rymer (who had given
+grave offence to Dryden and others by his attack on Shakespeare in the
+_Short View_), Dennis knew Dacier's ideas intimately, and his discussion
+of the chorus in the first and the fourth dialogues, is more directly a
+refutation of the French than of the English critic.[9] This lively
+treatise established whatever intimacy existed between young Dennis and
+the aging Dryden.[10]
+
+Though Dryden avoided any extended public argument with Rymer, he
+obviously knew both the _Short View_ and Dacier's Aristotle. In the
+_Parallel of Poetry and Painting_ (1695), he followed Rymer's lead in
+equating Dacier, the critic of tragedy ("in his late excellent
+Translation of Aristotle and his notes upon him"[11]) with Le Bossu, the
+framer of "exact rules for the Epic Poem...." But he disagreed with
+Dacier's opinions on the chorus and explained away Racine's use of it on
+the sensible grounds that _Esther_ had not been written for public, but
+for private performances which gave occasion to the young ladies of St.
+Cyr "of entertaining the king with vocal music, and of commending their
+voices."[12] He also suggested the practical consideration that plays
+with choruses would bankrupt any company of actors because it would be
+necessary to provide a number of costumes for the additional players and
+to enlarge the stage (and consequently the theater) to make room for the
+choral dances.
+
+Dacier's insistence that the primary function of poetry is to instruct
+and that pleasure is merely an aid to that end could easily be distorted
+into a crudely moralistic view of the art. Doubtless it was this that
+recommended the treatise to minor critics and poets who were creating
+the atmosphere out of which came Jeremy Collier's attack on contemporary
+dramatists in 1698.
+
+Blackmore's preface to _Prince Arthur_ (1695) is a long plea for the
+reformation of poetry, whose "true and genuine End is, by universal
+Confession, the Instruction of our Minds and Regulation of our
+Manners...." One is not surprised, when toward the end he names his
+authorities, that they turn out to be Rapin, Le Bossu, Dacier (as
+commentators on Aristotle and Horace) and "our own _excellent Critick,
+Mr. Rymer_."[13] W.J. who translated Le Bossu in 1695, dedicated his
+work to Blackmore. In his preface he linked Blackmore and Dacier as
+proponents of the thesis that poetry's "true Use and End is to instruct
+and profit the world more than to delight and please it."[14] And Jeremy
+Collier himself quoted Dacier from time to time, and on one occasion
+invoked his commentary on Horace, "_The Theater condemned as
+inconsistent with Prudence and Religion_," as one of many answers to the
+unrepentant Congreve.[15]
+
+But besides starting these minor controversies Dacier's preface states
+some of the typical themes of neo-Aristotelian criticism: the idea that
+proper tragedy is based on a fable that imitates an "Allegorical and
+Universal Action" intended "to Form the Manners," a view that closely
+relates tragic fable to epic fable as interpreted by Le Bossu;[16] that
+modern tragedy, being concerned with individuals and their intrigues,
+cannot be universal and is therefore necessarily defective; that love is
+an improper subject for tragedy; that the Aristotelian _katharsis_
+proposes as its end not the expulsion of passions from the soul, but the
+moderation of excessive passions and the inuring of the audience to the
+inevitable calamities of life, and so on. Finally, he is nowhere more
+typical of French critics in his time than in his vigorous defense of
+the rules, which he declares are valid because of the nature of poetry
+which, being an art, must have an end, and there must necessarily be
+some way to arrive at it; because of the authority of Aristotle, whose
+knowledge of our passions equipped him to give rules for poetry; because
+of the illustrious works from which Aristotle deduced his rules; because
+of the quality of the poetry that they produce when followed; because,
+since they are drawn from "the common Sentiment of Mankind," they must
+be reasonable; because nothing can please that is not conformable to the
+rules, "for good Sense and right Reason, is of all Countries and
+places;" and finally "because they are the Laws of Nature who always
+acts uniformly, reviews them incessantly, and gives them a perpetual
+Existence." It is his simultaneous appeal to the authority of the
+ancients, to the _consensus gentium_, to general nature, and to good
+sense that makes Dacier seem to us to represent the final phase of
+French neo-classical critical theory.
+
+  Samuel Holt Monk
+  University of Minnesota
+
+
+
+Notes to the Introduction
+
+[1] Willard H. Durham, ed., _Critical Essays of the Eighteenth Century_,
+New Haven, 1915, pp. 62-72.
+
+[2] _Tatler_ 165.
+
+[3] _Spectator_ 592.
+
+[4] For Dacier in England see A.F.B. Clark, _Boileau and the French
+Classical Critics in England (1660-1830)_, Paris, 1925, pp. 286-288. As
+late as 1895, S.H. Butcher, in _Aristotle's Theory of Poetry and Fine
+Art_, mentioned Dacier frequently, if only to disagree with him as often
+as he mentioned him.
+
+[5] Thomas Rymer, _Critical Works_ (ed. C.A. Zimansky), New Haven, 1956,
+p. 83.
+
+[6] This view, announced in the Preface, was elaborately argued by
+Dacier in Remarque 27, Ch. XIX.
+
+[7] Rymer, _op. cit._, p. 84. Zimansky, in his introduction and notes,
+discusses the influence of Dacier on Rymer and other English critics.
+
+[8] _Ibid._ p. 84 and pp. 80-93.
+
+[9] John Dennis, _Critical Works_ (ed. Edward N. Hooker), Baltimore
+(1939-43), I, 30-35. For a succinct account of the English controversy
+about the chorus see _ibid._, I, 437-438. Though Dennis did not agree
+with Dacier on this point, he admired him. As late as 1726, in the
+preface to _The Stage Defended_, he quoted Dacier's preface and spoke of
+him as "that most judicious Critick." _Ibid._, II, 309.
+
+[10] John Dryden, _Letters_ (ed. C.E. Ward), Duke University Press,
+1942, pp. 71-72. Hooker has noticed the similarity of two of Dennis's
+opinions to views expressed by Dryden in his then unpublished "Heads of
+an Answer" to Rymer's _Tragedies of the Last Age_, 1678.
+
+[11] W.P. Ker, _Essays of John Dryden_, Oxford, 1926, II, 136.
+
+[12] Ker, II, 144. Cf. Dennis's similar remark in _The Impartial
+Critick_, Hooker, I, 31. Racine, in his preface to _Esther_, said
+nothing doctrinaire about the use of the chorus. He merely mentioned
+that it had occurred to him to introduce the chorus in order to imitate
+the ancients and to sing the praises of the true God.
+
+[13] J.E. Spingarn, _Critical Essays of the Seventeenth Century_,
+Oxford, 1908-09, III, 227 and 240.
+
+[14] _Treatise of the Epick Poem_, London, 1695, _sig._ [A 3] _verso_- A
+4, _recto_.
+
+[15] Jeremy Collier, "A Defence of the Short View.... Being a Reply to
+Mr. Congreve's Amendments," _A Short View of the Profaneness and
+Immorality of the English Stage_, etc., London, 1738, p. 251.
+
+[16] _Traité du Poëme Epique_, I, ch. vi and vii.
+
+
+
+
+ARISTOTLE'S
+
+ART
+
+OF
+
+POETRY.
+
+Translated from the Original _Greek_, according to Mr. _Theodore
+Goulston_'s Edition.
+
+TOGETHER,
+
+With Mr. _D'ACIER_'s Notes Translated from the _French_.
+
+
+            ----_Vero nomine poena
+  Non Honor est._----
+
+              Ovid Metam. _lib._ 2.
+
+
+_LONDON_:
+
+Printed for _Dan. Browne_ at the _Blalk Swan_ without _Temple Bar_, and
+_Will. Turner_ at the _Angel_ at _Lincolns-Inn_ Back Gate, 1705.
+
+
+
+
+THE PREFACE
+
+
+If I was to speak here of _Aristotle's_ Merit only, the excellence of
+his Poetick Art, and the reasons I had to publish it, I need do no more
+than refer the Reader to that Work, to shew the disorders into which the
+Theatre is long since fallen, and to let him see that as the Injustice
+of Men, gave occasion to the making of Laws; so the decay of Arts and
+the Faults committed in them, oblig'd first to the making Rules, and the
+renewing them. But in order to prevent the Objections of some, who scorn
+to be bound to any Rules, only that of their own fancy, I think it
+necessary, to prove, not only that Poetry is an Art, but that 'tis known
+and its Rules so certainly those which _Aristotle_ gives us, that 'tis
+impossible to succeed any other way. This being prov'd, I shall examine
+the two Consequences which naturally flow from thence: First, that the
+Rules, and what pleases, are never contrary to one another, and that you
+can never obtain the latter without the former. Secondly, That Poesie
+being an Art can never be prejudicial to Mankind, and that 'twas
+invented and improv'd for their advantage only.
+
+To follow this Method, 'tis necessary to trace Poetry from its
+Original, to shew that 'twas the Daughter of Religion, that at length
+'twas vitiated, and debauch'd, and lastly, brought under the Rules of
+Art, which assisted, in Correcting the defaults of Nature.
+
+God touch'd with Compassion for the Misery of Men, who were obliged to
+toil and labour, ordain'd Feasts to give them some rest; the offering of
+Sacrifices to himself, by way of Thanksgiving, for those Blessings they
+had received by his Bounty. This is a Truth which the _Heathens_
+themselves acknowledged; they not only imitated these Feasts, but spake
+of them as a Gift of the Gods, who having granted a time of Repose,
+requir'd some tokens of their grateful remembrance.
+
+The first Feasts of the Ancients were thus, They assembled at certain
+times, especially in Autumn, after the gathering in their Fruits, for to
+rejoyce, and to offer the choicest of them to God; and this 'tis, which
+first gave birth to Poetry: For Men, who are naturally inclined to the
+imitation of Musick, employ'd their Talents to sing the praises of the
+God they worshipped, and to celebrate his most remarkable Actions.
+
+If they had always kept to that Primitive Simplicity, all the Poesie we
+should have had, would have been, only Thanksgivings, Hymns, and Songs,
+as amongst the _Jews_. But 'twas very difficult, or rather impossible,
+that Wisdom and Purity, should reign long in the _Heathen_ Assemblies;
+they soon mingl'd the Praises of Men, with those of their Gods, and came
+at last, to the Licentiousness of filling their Poems with biting
+Satyrs, which they sung to one another at their drunken Meetings; Thus
+Poetry was entirely Corrupted, and the present scarce retains any Mark
+of Religion.
+
+The Poets which followed, and who were (properly speaking,) the
+Philosophers and Divines of those Times, seeing the desire the People
+had for those Feasts, and Shows, and impossibility of retrieving the
+first Simplicity; took another way to remedy this Disorder, and making
+an advantage of the Peoples Inclinations, gave them Instructions,
+disguis'd under the Charmes of Pleasure, as Physicians gild and sweeten
+the bitter Pills they administer to their Patients.
+
+I shall not recount all the different Changes, which have happen'd in
+Poetry, and by what degrees it has arrived to the Perfection, we now
+find it; I have spoken of it already in my _Commentaries_ on _Horace's
+Art of Poetry_, and shall say more in explaining, what _Aristotle_
+writes in this Treatise.
+
+_Homer_ was the first that invented, or finished, an Epick Poem, for he
+found out the Unity of the Subject, the Manners, the Characters, and the
+Fable. But this Poem could only affect Customes, and was not moving
+enough to Correct the Passions, there wanted a Poem, which by imitating
+our Actions, might work in our Spirits a more ready and sensible effect.
+'Twas this, which gave occasion for _Tragedy_, and banished all Satyrs,
+by this means Poetry was entirely purg'd from all the disorders its
+Corruption had brought it into.
+
+This is no proper place to shew, that Men who are quickly weary of
+regulated Pleasures, took pains to plunge themselves again into their
+former Licentiousness by the invention of _Comedy_. I shall keep my self
+to _Tragedy_, which is the most noble Imitation, and principal Subject
+of this Treatise, all the Parts of an Epick Poem are comprized in a
+_Tragedy_.
+
+However short this account may be, it suffices to let you see that
+Poesie is an Art, for since it has a certain End, there must necessarily
+be some way to arrive there: No body doubts of this constant Truth, that
+in all concerns where you may be in the right, or the wrong, there is an
+Art and sure Rules to lead you to the one, and direct you, how to avoid
+the other.
+
+The question then is, whether the Rules of this Art are known, and
+whether they are those which _Aristotle_ gives us here? This question is
+no less doubtful, than the former, I must also confess that this cannot
+be determined, but by the unlearned; who because they are the greater
+number, I shall make my Examination in their favour. To do this with
+some sort of Method, there are four Things to be consider'd, who gives
+the Rules, the time when he gives them; the manner in which he gives
+them, and the effects they have in divers times wrought on different
+People: For I believe from these four Circumstances, I can draw such
+Conclusions, that the most obstinate shall not be able to gainsay.
+
+He who gives these Rules, is one of the greatest Philosophers that ever
+was, his Genius was large, and of vast extent, the great Discoveries he
+made in all Sciences, and particularly in the Knowledge of Man, are
+certain Signs, that he had a sufficient insight into our Passions, to
+discover the Rules of the Art of Poetry, which is founded on them. But I
+shall suspend my Judgment, and pass on to the time in which he gave
+these Rules.
+
+I find that he was born in the Age in which _Tragedy_ first appear'd,
+for he lived with the Disciples of _Æschylus_, who brought it out of
+Confusion; and he had the same Masters with _Sophocles_, and _Euripides_,
+who carried it to its utmost Perfection: Besides he was witness of the
+Opinion the most nice and knowing People of the World had of this Poem.
+'Tis therefore impossible that _Aristotle_ should be ignorant of the
+Origine, Progress, Design and Effects of this Art; and consequently even
+before I examine these Rules, I am well assur'd upon his account who
+gives them, that they have all the Certainty, and Authority, that Rules
+can possibly have.
+
+But when I come to examine the Manner in which _Aristotle_ delivers
+them, I find them so evident and conformable to Nature, that I cannot
+but be sensible they are true; for what does _Aristotle_? He gives not
+his Rules as _Legisltors_ do their Laws, without any other reason than
+their Wills only; he advances nothing but what is accompanied with
+Reason, drawn from the common Sentiment of Mankind, insomuch that the
+Men themselves become the Rule and Measure of what he prescribes. Thus
+without considering that the Rules are of almost equal Date with the Art
+they Teach, or any prejudice, in favour of _Aristotle's_ Name, (for 'tis
+the Work which ought to make the Name valued, and not the Name the Work)
+I am forced to submit to all his Decisions, the Truth of which I am
+convinc'd of in my self, and whose Certainty I discover by Reason and
+Experience, which never yet deceiv'd any body.
+
+To this I shall add, the Effects which these Rules have produc'd in all
+Ages, on different sort of People, and I see, that as they made the
+Beauty of _Homer's Sophocles_, and _Euripides_ Poems in _Greece_,
+from which they were drawn; so four or five Hundred Years after, they
+adorn'd the Poems of _Virgil_ and other famous Latin Poets, and that now
+after Two Thousand Years they make the best _Tragedies_ we have, in
+which all that pleases, only does so, as 'tis conformable to these
+Rules, (and that too without our being aware of it,) and what is
+displeasing, is such, because it is contrary to them, for good Sense,
+and right Reason, is of all Countries and Places, the same Subjects
+which caus'd so many Tears to be shed in the _Roman_ Theatre, produce
+the same Effects in ours, and those Things which gave distaste then, do
+the same now, from whence I am convinced, that never any Laws had either
+so much Force, Authority, or Might. Humane Laws expire or Change very
+often after the Deaths of their Authors, because Circumstances Change,
+and the Interests of Men, whom they are made to serve, are different;
+but these still take new vigor, because they are the Laws of Nature, who
+always acts uniformly, renews them incessantly, and gives them a
+perpetual Existence.
+
+I won't pretend nevertheless that the Rules of this Art, are so firmly
+established, that 'tis impossible to add any thing to them, for tho'
+_Tragedy_ has all its proper Parts, 'tis probable one of those may yet
+arrive to greater Perfection. I am perswaded, that tho' we have been
+able to add nothing to the Subject, or Means, yet we have added
+something to the Manner, as you'l find in the Remarks, and all the new
+Discoveries are so far from destroying this Establishment, that they do
+nothing more than confirm it; for Nature is never contrary to herself,
+and one may apply to the Art of Poetry, what _Hippocrates_ says of
+Physick,[17] _Physick is of long standing, hath sure Principles, and a
+certain way by which in the Course of many Ages, an Infinity of Things
+have been discovered, of which, Experience confirms the Goodness; All
+that is wanting, for the perfection of this Art, will without doubt be
+found out, by those Ingenious Men, who will search for it, according to
+the Instructions and Rules of the Ancients, and endeavour to arrive at
+what is unknown, by what is already plain: For whoever shall boast that
+he has obtained this Art by rejecting the ways of the Ancients, and
+taking a quite different one, deceives others, and is himself deceived;
+because that's absolutely impossible._ This Truth extends it self to all
+Arts and Sciences, 'tis no difficult matter to find a proper Example in
+our Subject, there is no want of _Tragedies_, where the management is
+altogether opposite to that of the Ancients. According to the Rules of
+_Aristotle_, a _Tragedy_ is the Imitation of an Allegorical and Universal
+Action, which by the means of Terror, and Compassion, moderates and
+corrects our Inclinations. But according to these new _Tragedies_ 'tis
+an imitation of some particular Action, which affects no body, and is
+only invented to amuse the Spectators, by the Plot, and unravelling a
+vain Intrigue, which tends only to excite and satisfie their Curiosity,
+and stir up their Passions, instead of rend'ring them calm and quiet.
+This is not only not the same Art, but can be none at all, since it
+tends to no good, and 'tis a pure Lye without any mixture of Truth; what
+advantage can be drawn from this Falshood? In a word, 'tis not a Fable,
+and by consequence, is in no wise a_ Tragedy_, for a _Tragedy_ cannot
+subsist without a Fable,[18] as you will see elsewhere.
+
+We come now to the first Consequence, which we draw, from what we have
+Establish'd, and shall endeavour to prove, that our Laws, and what
+pleases, can never be opposite, since the Rules were made only for what
+pleases, and tend only to show the way you must walk in, to do so. By
+this we shall destroy the false Maxim, That, _all that pleases is good_,
+and assert that we ought on the contrary to say, That, _all that is good
+pleases, or ought to please_. For the goodness of any Work whatsoever,
+does not proceed from this, that it gives us pleasure, but the pleasure
+that we have proceeds from its goodness, unless our deluded Eyes and
+corrupt Imaginations mislead us, for that which causes our mistakes, is
+not, where is, but what is not.
+
+If the Rules, and what pleased, were things opposite, you would never
+arrive at the giving pleasure, but by meer chance, which is absurd:
+There must for that reason be a certain way, which leads thither, and
+that way is the Rule which we ought to learn; but what is that Rule?
+'Tis a Precept, which being drawn from the _Pleasant_ and _Profitable_,
+leads us to their source. Now what is the _Pleasant_ and _Profitable_?
+'Tis that which pleases naturally, in all Arts 'tis this we consult,
+'tis the most sure and perfect Model we can Imitate; in it we find
+perfect Unity and Order, for it self is Order, or to speak more
+properly, the effect of Order, and the Rule which conducts us thither;
+there is but one way to find Order, but a great many to fall into
+Confusion.
+
+There would be nothing bad in the World, if all that pleas'd were good;
+for there is nothing so ridiculous, but what will have its Admirers. You
+may say indeed, 'tis no truer, that what is good pleases, because we see
+ev'ry day Disputes about the Good and Pleasant, that the same Thing
+pleases some, and displeases others; nay, it pleases and displeases the
+very same Persons at different times: from whence then proceeds this
+difference? It comes either from an absolute Ignorance of the Rule, or
+that the Passions alter it. Rightly to clear this Truth, I believe I may
+lay down this Maxim, that all sensible Objects are of two sorts; some
+may be judged of, by Sense independantly from Reason. I can Sense that
+Impression which the animal Spirits make on the Soul, others can't be
+judged of but by Reason exercised in Science, Things simply agreeable,
+or disagreeable, are of the first Sort, all the World may judge alike of
+these, for example the most Ignorant in Musick, perceives very well,
+when a Player on the Lute strikes one String for another, because he
+judges by his Sense, and that Sense is the Rule; in such occasions, we
+may therefore very well say, that all that pleases is good, because that
+which is Good doth please, or that which is Evil never fails to
+displease; for neither the Passions, nor Ignorance dull the Senses, on
+the contrary they sharpen them. 'Tis not so in Things which spring from
+Reason; Passion and Ignorance act very strongly on it, and oftentimes
+choak it, this is the Reason, why we ordinarily judge so ill, and
+differently concerning those Things, of which, that is the Rule and the
+Cause. Why, what is Bad often pleases, and that which is Good doth not
+always so, 'tis not the fault of the Object, 'tis the fault of him who
+judges; but what is Good will infallibly please those who can judge,
+and that's sufficient. By this we may see, that a Play, that shall bring
+those Things which are to be judg'd of by Reason, within the Rules, as
+also what is to be judg'd of by the Sense, shall never fail to please,
+for it will please both the Learned, and Ignorant: Now this Conformity
+of suffrages is the most sure,[19] or according to _Aristotle_ the only
+Mark of the Good, and Pleasant, as he proves in the following part of
+his Discourse. Now these Suffrages are not obtained, but by the
+observation of the Rules, and consequently, these Rules are the only
+Cause of the Good, and Pleasant, whether they are follow'd Methodically
+and with Design, or by Hazard only; for 'tis certain, there are many
+Persons who are entirely Ignorant of these Rules, and yet don't fail to
+succeed in several Affairs: This is far from destroying the Rules, and
+serves to shew their Beauty, and proves how far they are conformable to
+Nature, since those often follow them, who know nothing of 'em. In the
+Remarks you shall find many Examples of the vast difference, the
+observance or neglect of the Rules make in the same Subject, and by that
+be throughly convinc'd that they are the two only Causes of Good, or Bad
+Works, and that there can never be any occasion, where the perfect
+Harmony which is between the Rules, and what pleases, shou'd be broken.
+
+'Tis true to come to the last Consequence, that Poetry is an Art,
+invented for the Instruction of Mankind, and consequently must be
+profitable: 'Tis a general Truth that ev'ry Art is a good Thing, because
+there is none whose End is not Good: But, as it is not less true, that
+Men ordinarily abuse the best Things, that which was design'd for an
+wholsome Remedy, may in time become a very dangerous Poison. I declare
+then that I don't speak of corrupted _Tragedy_, for 'tis not in vitious
+and depraved Works, that we must look for Reason, and the intent of
+Nature, but in those which are sound and perfect; I speak of Ancient
+_Tragedy_, that which is conform to _Aristotle's_ Rules, and I dare say,
+'tis the most profitable, and necessary of all Diversions.
+
+If 'twas possible to oblige Men to follow the Precepts of the Gospel,
+nothing could be more happy, they would find there true Peace, solid
+Pleasure, and a Remedy for all their Infirmities, and would look on
+_Tragedy_ as useless and below them. How could they do otherwise than
+have this opinion? since those _Pagans_ who apply'd themselves to the
+Study of Wisdome, consider'd it with the same Genius. They themselves
+own, that could the People be always brought up in the solid Truths of
+Philosophy, the Philosophers need have no recourse to Fables, to give
+their Instructions: But as so much Corruption was inconsistent with such
+Wisdom, they were forc'd to seek for a Remedy to the Disorders of their
+Pleasures; they then invented _Tragedy_, and inspir'd them with it, not
+as the best Employment Men could take up, but as a means, which was able
+to correct the excess, into which they plung'd themselves at their
+Feasts, and to render those amusements profitable, which Custom and
+their Infirmities had made necessary, and their Corruption very
+dangerous.
+
+Men are the same now, they were then, they have the same Passions, and
+run with the same Eagerness after Pleasures. To endeavour to reclaim
+them from that State, by the severity of Precepts, is attempting to put
+a Bridle on an unruly Horse in the middle of his carrier, in the
+mean while, there is no Medium, they run into the most criminal excess,
+unless you afford them regular and sober Pleasures. 'Tis a great
+Happiness that their remaining Reason inclines them to love Diversions,
+where there is Order, and Shows, where Truth is to be found, and I am
+perswaded, that Charity obliges us, to take advantage of this, and not
+to allow too much time for Debauches, which would extinguish that Spark
+of Reason, which yet shines in them. Those People are distemper'd, and
+_Tragedy_ is all the Remedy they are capable of receiving any advantage
+from; for it is the only Recreation in which they can find the agreeable
+and Profitable.
+
+_Tragedy_ does not only represent the Punishments, which voluntary Crimes
+always draw on their Authors, these are too common, and well known
+Truths, and leave too much liberty to our Passions; this is the meanest
+sort of _Tragedy_: But it sets forth the misfortunes which even in
+voluntary Crimes, and those committed by Imprudence, draw on such as we
+are, and this is perfect _Tragedy_. It instructs us to stand on our
+guard, to refine and moderate our Passions, which alone occasion'd the
+loss of those unfortunate ones. Thus the aspiring may learn to give
+bounds to his Ambition; the Prophane to fear God; the Malicious to
+forget his Wrongs; the Passionate to restrain his Anger; the Tyrant to
+forsake his Violence and Injustice, _&c._ Those idle and infirm Men, who
+are not able to bear the Yoak of Religion, and have need of a grosser
+sort of Instruction, which falls under the Senses, can never have more
+profitable amusements; 'twere to be wish'd, that they would renounce all
+other Pleasures, and love this only. If any shall now condemn _Tragedy_,
+he must also condemn the use of Fables, which the most Holy Men have
+employ'd, and God himself has vouchsaf't to make use of: For _Tragedy_
+is only a Fable, and was invented as a Fable, to form the Manners, by
+Instructions, disguis'd under the Allegory of an Action. He must also
+condemn History; for History is much less Grave and Moral than Fable,
+insomuch as 'tis particular, when a Fable is more general, and
+universal, and by consequence more profitable.
+
+We may say too, that the only Aim of true Politicks, is to procure to
+the People Virtue, Peace and Pleasure, this Design cannot be contrary to
+Religion, because we chuse none of those Pleasures which destroy Virtue,
+or Peace. _Tragedy_ is far from it, and endeavours only their
+preservation; for 'tis the only Pleasure, which disposes Men to endure
+their Passions, to a perfect Mediocrity, which contributes more to the
+maintaining of Peace, and acquisition of Virtue, than any thing else; I
+also believe that from this Truth, we might draw a sure Rule to judge of
+those Pleasures which might be permitted, and those which ought to be
+forbidden.
+
+You may say, _Tragedy_ is dangerous, by reason of the abuses which
+creep into it. Every Thing is dangerous, and may be condemn'd at this
+rate, for there is nothing so excellent where Abuses may not be
+committed, and of which a bad, or good use may not be made. We must
+remember this Truth, that all Arts and Sciences, by the Ignorance and
+Corruption of Men, ordinarily produce false Arts, and false Sciences;
+but these false Arts and false Sciences, are more opposite to what they
+Counterfeit than any thing besides; for there is nothing more opposite
+to what is good, than what is bad in the same Kind. If that which is
+false, engages us to condemn what is true, it has gain'd its point,
+that's what it would have, and having thus Triumph'd over Truth, soon
+puts its self into its place, than which nothing can be more
+Pernicious.
+
+Since _Tragedy_ has no defect, but what is external, it follows from
+thence, that 'tis good in its self, and consequently profitable; this
+cannot be contested, and those who condemn it, condemn, not only the
+most noble Diversion, but the most capable to raise the Courage, and
+form the Genius, and the only one, which can refine the Passions, and
+touch the most vicious and obdurate Souls. I could give many examples;
+but shall content my self with relating the Story of _Alexander_ of[20]
+_Pherea_: This barbarous Man, having order'd the _Hecuba_ of _Euripides_
+to be Acted before him, found himself so affected, that he went out
+before the end of the first Act, saying, _That he was asham'd to be seen
+to weep, at the Misfortunes of_ Hecuba _and_ Polyxena, _when he daily
+imbrud his Hands in the Blood of his Citizens_; he was affraid that his
+Heart should be truly mollify'd, that the Spirit of Tyranny would now
+leave the possession of his Breast, and that he should come a private
+person out of that Theatre into which he enter'd Master. The Actor who
+so sensibly touch'd him, difficultly escaped with his Life, but was
+secur'd by some remains of that pity, which was the cause of his Crime.
+
+A very grave Historian, makes reflection much to this purpose, and
+which seems to me no indifferent one in Politicks; in speaking of the
+People of _Arcadia_, he says, _That their Humanity, sweetness of Temper,
+respect for Religion, in a word, the Purity of their Manners, and all
+their Virtues proceeded chiefly from the Love they had to Musick, which
+by its Melody, corrected those ill Impressions, a thick and unwholesome
+Air, joyn'd to a hard, and laborious way of living, made on their Bodies
+and Minds._ He says on the contrary, _That the_ Cynethians _fell into
+all sorts of Crimes and Impieties, because they despised the wise
+Institutions of their Ancestors; and neglected this Art, which was so
+much the more necessary for them, as they liv'd in the coldest and worst
+place of_ Arcadia: _There was scarcely any City in_ Greece, _where
+wickedness was so great and frequent as here_. If _Polybius_ speaks thus
+of Musick, and accuses _Ephorus_, for having spoken a thing unworthy of
+himself, when he said, _That 'twas invented to deceive Mankind_: what
+ought we then to say of _Tragedy_, of which Musick is only a small part;
+and which is as much above it, as a Word is above an inarticulate Sound,
+which signifies nothing.
+
+This is what, according to my Opinion, may be truly said of _Tragedy_,
+and the Mean we ought to keep. But to the end this may be justly said,
+the Parts must conform themselves entirely to the Rules of Ancient
+_Tragedy_, that is to say, which endeavours rather to Instruct than
+Please, and regard the Agreeable, as a means only to make the Profitable
+more taking; they must paint the Disorders of the Passions, and the
+inevitable Mischiefs which arise from thence. 'Twas for this the _Greek
+Tragedians_ were so much Honour'd in their own Age, and esteemed in
+those which follow'd. Their Theatre was a School, where Virtue was
+generally better Taught, than in the Schools of their Philosophers, and
+at this very Day, the reading their Pieces will Inspire an Hatred to
+Vice, and a Love to Virtue. To Imitate them profitably, we should
+re-establish the _Chorus_, which establishing the _veri-Similitude_ of
+the _Tragedy_, gives an Opportunity to set forth to the People, those
+particular Sentiments, you would inspire them with, and to let them
+know, what is Vicious or Laudable, in the Characters which are
+Introduc'd. _Mr. Racine_ saw the necessity of this, and cannot be
+sufficiently praised, for having brought it, into his two last Pieces,
+which have happily reconcil'd _Tragedy_ to its greatest Enemies. Those
+who have seen the effects of these _Chorus's_, cannot but be sensible of
+their Advantage, and by Consequence, must Consent to what I say in my
+Remarks. After Examples, and Authorities of this Nature, I have no
+Reason to fear my Arguments. But enough of this Matter, tis time to come
+to what respects my self, and to give some Account of this Work.
+
+I have endeavour'd to make the Translation as literal as possible,
+being perswaded, that I could not do better, than to stick close to the
+Words of a Man, who wrote with wonderful Exactness, and puts in nothing,
+but what is to the purpose. I have nevertheless taken the Liberty
+sometimes, to enlarge his Thoughts, for what was understood in his time,
+by half a Word, would hardly be Intelligible now, unless some Pains was
+taken to explain it.
+
+A simple Translation of _Aristotle_, would be clear enough, and there
+would be no need of Commentaries, if we were well Instructed in those
+Poets, from whom he takes his Rules, but as almost all the World is
+Ignorant of them, and 'tis necessary to explain by Example, what is
+Obscure in the Rule. This is what I have endeavour'd to do in my
+Remarks, which will seem short, if you consider the many large Volumes
+which have been wrote on this little Treatise.
+
+Of all the _Latin_ Commentators, _Victorius_ seems to me the most Wise,
+Knowing, and Exact, but his Assistance is not sufficient, to give us an
+Understanding of Poesie. The _Italian Castelvetro_, has a great deal of
+Wit, and Knowledge, if we may call that Wit, which is only Fancy, and
+bestow on much Reading the name of Knowledge. If we recollect all the
+Qualities of a good Interpreter, we shall have an Idea just contrary to
+that of _Castelvetro_. He knew neither the Theatre, the Passions, nor the
+Characters; he understood neither _Aristotle's_ Reasons, nor his Method,
+and strove rather to contradict, than explain him. On the other hand, he
+is so Infatuated with the Author's of his own Country, that he forgot
+how to Criticise well; he talks without Measure, like _Homer's
+Thersites_, and declares War to all that is fine. Indeed he has some
+good things, but 'tis not worth while to spend our time in looking after
+them. The _French_ Art of Poetry by _Mesnardiere_, may pass for a
+Commentary on some Chapters of _Aristotle_, but that Work is of little
+value; for besides that Author's being no good Critick, and perpetually
+deceiv'd, he did not penetrate into the Meaning of the Philosopher. The
+Practice of the Theatre by the Abbot _D'Aubignac_, is infinitely better,
+but is rather a Sequel and Supplement, than an Explication of
+_Aristotle_; on which, a perfect Instruction in the Ancient Rules, will
+enable you to pass a Judgment. The Treatise of Epick Poem by Father
+_Bossu_, is above all the Moderns have done in that Kind, and is the best
+Commentary Extant, on what _Aristotle_ has wrote concerning that sort of
+Poem; none ever penetrated deeper into the bottom of that Art, and set
+in a better Light (according to _Aristotle's_ Rules) _Homer's_, and
+_Virgil's_ Beauties, or the Solidity, and Beauty of _Aristotle's_ Rules,
+by the marvellous Conduct of those two great Poets. If he had Treated
+of _Tragedy_, as throughly, as he has done of the _Epopoeia_, he had
+left almost nothing for me to have done after him; but unfortunately, he
+omitted the most difficult, which he could have Explain'd much better
+than my self, had he had spare time. His Work however has done me great
+Service. I have profited by the good, which others have Wrote, and must
+confess, that their Faults have been useful to me. But after all, the
+most excellent Commentators on the Poetick Art, are the Ancient Poems,
+and as they gave the hint to make Rules, 'tis by them, that these ought
+to be Explain'd. I hope, I have not followed such good Guides in vain.
+If I have wander'd, by following them, without a true Understanding, I
+should be very well pleased to be put in the right way, by any, who
+would advise me of my Faults, or make them publickly known.
+
+Perhaps some may Reproach me, as Mr. _Corneille_ did all the precedent
+Commentators. _They have Explain'd_ Aristotle (says that great Man)
+_as Grammarians, or Philosophers, and not as Poets; because they had more
+of the Study, and Speculation, than Experience of the Theatre. The
+Reading them may make us more Learned, but can give us no further
+Insight, how we may succeed._ This Reproach is founded on this general
+Maxim, _That every one ought to be believ'd in his own Art._ It seems
+then, that those should not pretend to explain the Rules of Poesie, who
+never yet made Poems. The Principle is true, but the Consequence is not
+so, for before that is drawn, we must see to whom the Art of Poetry, and
+what it produc'd, does property belong. 'Tis not Poesie it self which is
+produced, for then it would have been, before it was. 'Tis Philosophy
+that brought it first into play, and consequently, it belongs to
+Philosophy, to give, and explain its Rules. This is so true, that
+_Aristotle_ made not these Rules as a Poet, but as a Philosopher: And if
+he made them as such, why may they not be explain'd that way too? And as
+it was not necessary to make _Dramatick_ Poems, to give Rules to that
+Art, so 'tis no more necessary that they should be made, to Explain
+those Rules.
+
+I don't know indeed, whether he who has made Pieces for the Theatre, is
+so proper to explain the Rules of this Art, as he that never did, for
+'twould be a Miracle if one was not biass'd by self-Love, when the other
+is a dis-interested Judge, who has no other Aim, than discovering the
+Truth, and making it known. Mr. _Corneille_ himself may be an Example of
+this. All that he would Establish in his new Discourse of _Dramatick
+Poetry_, is less founded on Nature, than his own proper Interest. It
+appears by his own Words, that the design he had of defending what he
+had ventured on the Stage, obliged him to forsake _Aristotle's_ Rules,
+and to Establish new ones, which should be more favourable to himself;
+we shall see in the Remarks, whether they can bear the Test. 'Tis
+therefore no ways necessary to have made Poems, to prescribe Rules for
+Poesie, and yet much less to explain them. If it was so, I would say
+there were none, for of all those which have given any, I knew but one
+that was a Poet; _Horace_ himself never made an Epick Poem or a Tragedy,
+but to prescribe Rules for Poesie, as also to explain them; it is
+sufficient to know the Origine, and Scope of the Art Treated of; to have
+examin'd those Poems, which are the Basis and Foundation, to have made
+Reflections on what is agreeable, and disagreeable, and rightly to
+discover the Causes; this is the only necessary Knowledge I have
+endeavour'd to acquire, and Philosophy alone can lead me thither.
+
+I shall add once more, that if we make a Man more Learned, by
+explaining the Rules as a Philosopher, 'tis Impossible, but he must
+attain a surer Knowledge, to succeed in this Art. 'Tis true, we can't
+give a _Genius_, that's not done by Art, but we can shew the Path a
+_Genius_ ought to Tread in, and that is the only Design of all Rules.
+
+I have not made the Apology of Commentators, to praise my self, for
+although I am no Poet, it does not follow that I cannot be a good
+Philosopher; I leave it to the Publick, and time, to Judge of my Work,
+for I will neither Court, nor slight their Favours.
+
+I have spoken very freely, in what I have pass'd my Judgment on, and in
+so doing, Imitated the ancient Criticks, who spared neither
+_Demosthenes_, nor _Thucidides_, nor _Plato_, nor any that was Great, or
+Venerable in Antiquity. A flattering Criticism would be a pleasant sort
+of one, when we should seek to Applaud, and the Respect due to the Name,
+should check the Censure due to the Fault. I am not so scrupulous, and
+if any one be offended, I shall Answer him as _Dionysius Halicarnassæus_
+answered _Pompey_ the Great, who wrote to him, to complain, that he had
+tax'd _Plato_ with some Faults. _The Veneration you have for_ Plato _is
+Just_, (says that excellent Critick,) _but the Blame you lay on me, is
+not so. When any one writes on a Subject, to shew what is Good or Bad in
+it, he ought to discover, and mark very exactly all its Virtues, and
+Vices, for that is a sure way to find out the Truth, which is more
+valuable than all things else whatever. If I had written against_ Plato
+_with a Design to Decry his Works, I should be as Impious as_[21]
+Zoilus, _but on the contrary, I would praise him, and if in doing so I
+have Improved any of his Defects, I have done nothing worthy of
+Complaint, and which was not necessary for my Design._ Notwithstanding
+this, I have put some Bounds to this Liberty, and if I have discovered
+some Faults, I have conceal'd some others, that seem'd to me not so
+considerable. I had respect in them, to the Approbation of many Persons
+of Merit, for I would not run Counter to an almost Universal Consent,
+which always is of great Weight, and ought at least to oblige us to be
+cautious. But that I might give to those Persons, an Opportunity of
+recollecting themselves, I have endeavoured to explain the Rule, in such
+a manner, that they may perceive those very Faults, if they will Read
+the Remarks with attention. As for the rest, I had no design to offend
+any Body; if there are some things which make them uneasie, 'tis
+impossible to write any Work of this nature, without disgusting some.
+'Tis also the Mark of good Criticism, as well as good Philosophy. From
+hence it proceeded, that _Plato_ was blamed for having taught his
+Philosophy a long time, without displeasing any one Person; and they
+pretended by that, to say that either his Doctrine was not good, or his
+Method defective, since none had by Hearing him been made sensible of
+that Uneasiness, which People naturally have, when they perceive
+themselves to be Vitious.
+
+It would be unjust to finish this Preface, without saying something of
+_Aristotle's_ Life, that those who read his Work, may know something of
+him. He was the Son of _Nicomachus_, Physician of[22] _Amyntas_, and
+descended from _Esculapius_. His Mother was the Daughter of one of the
+Descendants of those, who Transplanted a Colony, from _Chalcis_ to
+_Stagira_, in _Macedonia_; that is to say, she was of Noble Extraction,
+on both sides. He was born at _Stagira_, about four Hundred Years,
+before our Saviour. At Eighteen Years of Age, he went to _Athens_, and
+abode with _Plato_, he pass'd twenty Years in his School, and when his
+Master was dead, he went to _Hermeas_ the Tyrant of _Atarna_, a City of
+_Mysia_; he went from thence to _Mytelene_, from whence he was call'd by
+_Philip_, to be his Son _Alexander's_ Tutor; he was eight Years, with
+that Young Prince, and after _Philip's_ Death, returned to _Athens_,
+where he Taught, in the _Lyceum_ twelve Years, till the Death of
+_Alexander_. For _Antipater_ having carried the War into _Greece,
+Aristotle_, who fancied, the _Athenians_ suspected him, by reason of the
+strict Friendship, which was between him, and the Viceroy of _Macedonia_,
+retir'd to _Calchis_, where he died soon after, by a Fit of Sickness in
+the sixty third Year of his Age. He left one Son, and one Daughter, both
+Young, and made _Antipater_ Executor of his Will, and Administrator of
+all his Goods, which were very considerable, if we may judge of them by
+_Alexander's_ Liberality, who gave him eight Hundred Talents, for his
+History of Animals, that is according to the lesser Talent, one hundred
+and forty Thousand Pounds Sterling, or according to the greater, one
+Hundred eighty six Thousand, six Hundred, sixty five Pounds, thirteen
+Shillings and four Pence. The most precious of his Moveables was his
+Library, which was afterwards Sold to _Ptolomy Philadelphus_, and which
+he had Enrich'd with four Hundred Volumes, of his own making. In those
+of his Writings which now remain, and are happily a considerable Number,
+we find a very discerning Spirit, a solid Judgment, a wonderful Method,
+prodigious Knowledge, and an Eloquence both strong and sweet. He himself
+found out more, than the most Knowing now, learn with a great deal of
+Labour and Pains, and as for those things which depended on the Vivacity
+of the Spirit, no Man ever carried his Knowledge further, or Establish'd
+more sure, or extensive Principles. In Dialecticks, Logick, Rhetorick,
+Politicks, and Morality, we have little but what he taught us.
+
+By making a proper use of his Informations, there have appear'd Works
+in some of these Sciences, preferable to his, but his Rhetorick is the
+most Preferable we as yet have. His Art of Poetry is more to be admir'd,
+for in his Rhetorick, he made use of the Precepts of those, who Wrote
+before him. But he is the first that discovered the Grounds, and Secrets
+of Poesie, and none since have undertaken to Write, but in Explication
+of his Thoughts, which have serv'd, and will always serve as the Rule.
+He alone has Reviv'd _Tragedy_ more than once.
+
+In effect after it was brought to its Perfection, under the Reign of
+_Alexander_, the Son of _Amyntas_, under the Reigns of _Perdiccas_, and
+_Archelaus_, and degenerated in those which follow'd, but under that of
+_Philip_, and _Alexander_, the Poets being Encourag'd by those Glorious
+Princes, and guided by _Aristotle's_ Genius, made it flourish as before.
+
+After the Death of _Alexander_, it began to Languish, and never
+recover'd its entire Strength till the Reign of _Augustus_, in which the
+Rules of this Philosopher were Reviv'd.
+
+Since the _Death of Augustus_, it has grown Feeble, for more than
+sixteen Hundred Years, till in this last Age 'twas recover'd out of its
+long Decay, by Mr. _Corneille_, and Mr. _Racine_, who upheld themselves
+by _Aristotle's_ Rules. So true is it, that Time is the Faithful
+Guardian, not only of Great Men, as _Pindar_ saith, but also of the
+Liberal Arts, which it revives as occasion offers, and always, under the
+greatest Princes. For what a good Soil and Air, are to Seeds and Fruits,
+such is the Glory, Grandeur, Magnificence, and Liberality of Princes,
+to Arts, and Sciences, which do not so much flourish under them, as by
+them; and we may very properly apply to this Subject the fallowing Verse
+of _Agathon_.
+
+    Art favours Fortune, Fortune favours Art.
+
+
+If _Tragedy_ shall some time hence suffer any sort of Eclipse, 'twill
+be by the Laziness, and Haste of those Poets, who Write without being
+rightly Instructed. _Plato_ in his _Phedrus_ Introduces a young Poet
+seeking _Sophocles_ and _Euripides_, and Accosting them thus. _I can
+make Verses tolerably well; and I know how in my Descriptions to extend
+a mean Subject, and Contract a great one: I know how to excite Terror,
+and Compassion, and to make pitiful things appear Dreadful and Menacing.
+I will therefore go, and write_ Tragedies. Sophocles _and_ Euripides
+answer'd him, _Don't go so fast_, Tragedy _is not what you take it to
+be; 'tis a Body, composed of many different, and well-suited Parts, of
+which you will make a Monster, unless you know how to adjust them; you
+may know what is to be learn'd, before the Study of the Art of Tragedy;
+but you don't yet know that Art._
+
+If there are Poets now, which don't know so much as the Young Man, of
+whom _Plato_ speaks, these Rules can be of no Advantage to them; but
+those who are like him, and in the same Circumstances, need only keep to
+these Rules, which will teach them what they are Ignorant of, and the
+fourth time restore _Tragedy_ to its first Lustre and Brightness. This
+is the most profitable Present, can be made them, if by Meditation and
+Practice they will endeavour to make a right use of it; for Precepts
+alone are not sufficient to make us Learned, the Advantage, and Profit
+of any Rules, depend on our Labour and Pains. If these Rules are not for
+them, they will be against them, and their Works shall be Judg'd by
+them.
+
+
+
+
+Footnotes:
+
+[17] In his Treatise of Ancient Physick.
+
+[18] Chap. 18. _Rem._ 8. _&c._
+
+[19] _Chap._ 13. Rem. 25.
+
+[20] A Town in _Thessaly_.
+
+[21] Called Impious, because he writ against _Homer_.
+
+[22] Grandfather to _Alexander_ the Great.
+
+
+
+
+Notes on Dacier's Preface
+
+
+_Sig._ [A 3], _recto_, 11. 17-18. "_Horace's Art of Poetry._" Published,
+Paris, 1689, in Vol. X of Dacier's _Remarques Critiques sur les Oeuvres
+[d'Horace] Avec une Nouvelle Traduction_.
+
+_Sig._ [A 5], _verso_, 1.2, note. "Chap. 18, Rem. 8." In this remark,
+Dacier explicates Aristotle's injunction that the poet should sketch the
+general outline of the fable before filling in episodes and naming
+characters, thus making it general and universal.
+
+_Sig._ [A 6], _verso_, 1.7, note. "Chap. 13, Rem. 25." Dacier says in
+this remark that a regular tragedy submitted to the judgment of the
+learned and the ignorant will always please best, "_car l'un remarque
+une chose, l'autre une autre, & tous ensemble ils remarquent tout_."
+
+_Sig._ [A 8], _recto_, 1.7. "History is much less grave." "Ch. IX, Rem.
+5" (Dacier's note) Dacier adds nothing to the traditional discussion of
+the superiority of poetry to history and philosophy.
+
+_Sig._ [A 8], _verso_, 1.18. "Alexander of Pherea." See Plutarch's
+oration "On the Fortune or the Virtue of Alexander," II, in _Moralia_
+(tr. F.C. Babbitt, Loeb Classical Library), IV, 424.
+
+_Sig._ [b 1], _recto_, 1.1. "A Very Grave Historian." Polybius,
+_Histories_, IV, 20.
+
+_Sig._ [b 1], _verso_ 1.20. "Mr. Racine ... his last two pieces..."
+_Esther_ (1689) and _Athalie_, 1691.
+
+_Sig._ [b 2], _recto_, 11. 23-24. "Victorius." Pietro Vettori,
+_Commentarii in Primum Librum Aristotelis de Arte Poetarum_, Florentiae,
+1560.
+
+_Ibid._, 1.27. "Castelvetro." Ludovico Castelvetro, _La Poetica
+d'Aristotele vulgarizzata et sposta_, 1570. This view of Castelvetro,
+who was remarkable for his independence of Aristotle, was fairly common
+in France. La Mesnardière, for instance, was extremely hostile to him.
+
+_Sig._ [b 2], _verso_, 1.13. "Mesnardière." Jules de La Mesnardière, _La
+Poëtique_, Paris, 1693.
+
+_Ibid._, 1.20. "D'Aubignac." Aubignac (abbé Hédelin d'), _La Pratique du
+Theatre_, Paris, 1657. English translation, 1684.
+
+_Ibid._, 1.26. "_Father Bossu._" _Traité du Poëme Epique_, Paris, 1675.
+
+_Sig._ [b 3], _recto_, 1.22. "Corneille." "Discours de l'Utilité et des
+Parties du Poëme Dramatique," _Oeuvres_ (ed. Ch. Marty-Laveaux), Paris,
+1862, I, 16.
+
+_Sig._ [b 4], _verso_, 1. 12. "Dionysius of Halicarnassus." See
+"Epistola ad Cn. Pompeio de Platone," Dionysii Halicarnassensis, _Opera
+Omnia_, Lipsiae, 1774-1777, VI, 750-752.
+
+_Sig._ [b 6], _verso_, 1. 27. "Pindar" Fragment 159, _Odes_ (tr. Sir
+John Sandys, Loeb Classical Library) p. 600.
+
+_Sig._ [b 7], _recto_, 1. 5. "verse of Agathon" _Ars atque fortuna
+invicem se diligunt_. "Agathones Fragmenta" 6, in _Fragmenta Euripides_
+(ed. F.G. Wagner), Paris, 1843-1846, II, 58.
+
+_Ibid._, 1.10. "Plato in his Phaedrus." "Phaedrus," 268, _Dialogues_
+(tr. B. Jowett) Third Edition, Oxford, 1892, I, 477.
+
+
+
+
+  William Andrews Clark Memorial Library: University of California
+
+  THE AUGUSTAN REPRINT SOCIETY
+
+  _General Editors_
+
+  R.C. BOYS
+  University of Michigan
+
+  RALPH COHEN
+  University of California, Los Angeles
+
+  VINTON A. DEARING
+  University of California, Los Angeles
+
+  LAWRENCE CLARK POWELL
+  Wm. Andrews Clark Memorial Library
+
+  _Corresponding Secretary_: Mrs. EDNA C. DAVIS, Wm. Andrews Clark
+  Memorial Library
+
+
+The Society exists to make available inexpensive reprints (usually
+facsimile reproductions) of rare seventeenth and eighteenth century
+works. The editorial policy of the Society remains unchanged. As in the
+past, the editors welcome suggestions concerning publications. All
+income of the Society is devoted to defraying cost of publication and
+mailing.
+
+All correspondence concerning subscriptions in the United States and
+Canada should be addressed to the William Andrews Clark Memorial
+Library, 2205 West Adams Boulevard, Los Angeles 18, California.
+Correspondence concerning editorial matters may be addressed to any of
+the general editors. The membership fee is $3.00 a year for subscribers
+in the United States and Canada and 15/- for subscribers in Great
+Britain and Europe. British and European subscribers should address B.
+H. Blackwell, Broad Street, Oxford, England.
+
+
+Publications for the thirteenth year [1958-1959]
+
+(At least six items, most of them from the following list, will be
+reprinted.)
+
+  André Dacier, _Preface to Aristotle's Art of Poetry_ (1705). Introduction
+  by Samuel Holt Monk.
+
+  William Herbert, Third Earl of Pembroke. _Poems_ (1660). Introduction by
+  Gaby Onderwyzer.
+
+  Francis Hutcheson, _Reflections on Laughter_ (1729). Introduction by
+  Scott Elledge.
+
+  _Eighteenth-Century Newspaper Essays on the Theatre._ Selected, with an
+  introduction, by John Loftis.
+
+  Samuel Johnson, _Notes to Shakespeare, Vol. III, Tragedies._ Edited by
+  Arthur Sherbo.
+
+  John Joyne, _A Journal_ (1679). Edited by R. E. Hughes.
+
+  Richard Savage, _An Author to be Let_ (1732). Introduction by James
+  Sutherland.
+
+  _Seventeenth-Century Tales of the Supernatural._ Selected, with an
+  introduction, by Isabel M. Westcott.
+
+
+  THE AUGUSTAN REPRINT SOCIETY
+  _WILLIAM ANDREWS CLARK MEMORIAL LIBRARY_
+  2205 WEST ADAMS BOULEVARD, LOS ANGELES 18, CALIFORNIA
+
+  Make check or money order payable to THE REGENTS OF THE UNIVERSITY OF
+  CALIFORNIA.
+
+
+
+
+Transcriber's Notes:
+
+The origianl text of "Aristotle's Art of Poetry" is printed in italic font
+with plain font used for emphasis. For ease of reading, the transcriber
+has used _underscore_ to represent the plain text. In all other sections
+of this document, _underscore_ is used to represent italic text.
+
+
+Elongated "s" has been modernized.
+
+Additional spacing after some of the quotes is intentional to indicate
+both the end of a quotation and the beginning of a new paragraph as
+presented in the original text.
+
+
+
+
+
+
+End of the Project Gutenberg EBook of The Preface to Aristotle's Art of
+Poetry, by Andre Dacier
+
+*** END OF THIS PROJECT GUTENBERG EBOOK PREFACE--ARISTOTLE'S POETRY ***
+
+***** This file should be named 29547-8.txt or 29547-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/9/5/4/29547/
+
+Produced by Chris Curnow, Stephanie Eason, Joseph Cooper
+and the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

@@ -35,7 +35,7 @@ with codecs.open('works.txt', 'w', encoding='utf-8') as outa:
                     status = 'guess'
                     if byear != -1:
                         dyear = byear + 50
-                if aname != 'a49712' and name != '' and 1580 < byear < 1980 and dyear != -1:
+                if aname != 'a49712' and name != '' and 1500 < byear < 1980 and dyear != -1:
                     for l in ls:
                         txtt = pq(l).text()
                         anchor = pq(l).find('a')

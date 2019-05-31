@@ -1,0 +1,3532 @@
+﻿The Project Gutenberg EBook of A Full Enquiry into the Nature of the
+Pastoral (1717), by Thomas Purney
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: A Full Enquiry into the Nature of the Pastoral (1717)
+
+Author: Thomas Purney
+
+Release Date: March 10, 2005 [EBook #15313]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK A FULL ENQUIRY INTO THE ***
+
+
+
+
+Produced by S.R.Ellison, David Starner, and the Online Distributed
+Proofreading Team.
+
+
+
+
+
+               Series Two:
+
+            _Essays on Poetry_
+
+                  No. 4
+
+  Thomas Purney, _A Full Enquiry into the
+     True Nature of Pastoral_ (1717)
+
+           With an Introduction by
+               Earl Wasserman
+
+
+         The Augustan Reprint Society
+                January, 1948
+               _Price_: $1.00
+
+
+
+  _GENERAL EDITORS_
+
+  RICHARD C. BOYS, _University of Michigan_
+  EDWARD NILES HOOKER, _University of California, Los Angeles_
+  H. T. SWEDENBERG, JR., _University of California, Los Angeles_
+
+
+  _ASSISTANT EDITOR_
+
+  W. EARL BRITTON, _University of Michigan_
+
+
+  _ADVISORY EDITORS_
+
+  EMMETT L. AVERY, _State College of Washington_
+  BENJAMIN BOYCE, _University of Nebraska_
+  LOUIS I. BREDVOLD, _University of Michigan_
+  CLEANTH BROOKS, _Yale University_
+  JAMES L. CLIFFORD, _Columbia University_
+  ARTHUR FRIEDMAN, _University of Chicago_
+  SAMUEL H. MONK, _University of Minnesota_
+  ERNEST MOSSNER, _University of Texas_
+  JAMES SUTHERLAND, _Queen Mary College, London_
+
+  Lithoprinted from copy supplied by author
+  by
+  Edwards Brothers, Inc.
+  Ann Arbor, Michigan, U.S.A.
+  1948
+
+
+
+
+INTRODUCTION
+
+
+In the preface to each of his volumes of pastorals (_Pastorals. After
+the simple Manner of Theocritus, 1717_; _Pastorals. viz. The Bashful
+Swain: and Beauty and Simplicity, 1717_) Thomas Purney rushed into
+critical discussions with the breathlessness of one impatient to reveal
+his opinions, and, after touching on a variety of significant topics,
+cut himself short with the promise of a future extensive treatise
+on pastoral poetry. In 1933 Mr. H.O. White, unable to discover the
+treatise, was forced to conclude that it probably had never appeared
+(_The Works of Thomas Purney_, ed. H.O. White, Oxford, 1933, p. 111),
+although it had been advertised at the conclusion of Purney's second
+volume of poetry as shortly to be printed. A copy, probably unique, of
+_A Full Enquiry into the True Nature of Pastoral_ (1717) was, however,
+recently purchased by the William Andrews Clark Memorial Library of the
+University of California, and is here reproduced. Despite the obvious
+failure of the essay to influence critical theory, it justifies
+attention because it is the most thorough and specific of the remarkably
+few studies of the pastoral in an age when many thought it necessary to
+imitate Virgil's poetic career, and because it is, in many respects, a
+contribution to the more liberal tendencies within neoclassic criticism.
+Essentially, the _Full Enquiry_ is a coherent expansion of the random
+comments collected in the poet's earlier prefaces.
+
+Purney belongs to the small group of early eighteenth-century
+critics who tended to reject the aesthetics based upon authority and
+pre-established definitions of the _genres_, and to evolve one logically
+from the nature of the human mind and the sources of its enjoyment; in
+other words, who turned attention from the objective work of art to the
+subjective response. These men, such as Dennis and Addison, were
+not searching for an aesthetics of safety, one that would produce
+unimpeachable correctness; Purney frequently underscored his preference
+for a faulty and irregular work that is alive to a meticulous but dull
+one. This is not to be understood as praise of the irregular: the rules
+of poetry must be established, but they must be founded rationally on
+the ends of poetry, pleasure and profit, and the psychological process
+by which they are received, and not solely on the practices and
+doctrines of the ancients. Taking his cue from the Hobbesian and Lockian
+methodology of Addison's papers of the pleasures of the imagination
+without delving into Addison's sensational philosophy, Purney outlined
+an extensive critical project to investigate (1) "the Nature and
+Constitution of the human Mind, and what Pleasures it is capable
+of receiving from Poetry"; (2) the best methods of exciting those
+pleasures; (3) the rules whereby these methods may be incorporated into
+literary form (_Works_, ed. White, p. 48). It is this pattern of thought
+that regulates the _Full Enquiry_. Perhaps more than any other poetic
+type, the pastoral of the Restoration and the early eighteenth century
+was dominated by classical tradition; the verse composed was largely
+imitative of the eclogues of Theocritus and Virgil, especially the
+latter, and criticism of the form was deduced from their practices or
+from an assumption that the true pastoral of antiquity was the product
+of the Golden Age. Of this mode of criticism Rapin and Pope were the
+leading exemplars. In opposition, Fontenelle, Tickell (if he was the
+author of the _Guardian_ essays on the pastoral), and Purney developed
+their theories empirically and hence directed the pastoral away from the
+classical tradition. (On these two schools see J.E. Congleton, "Theories
+of Pastoral Poetry in England, 1684-1717," _SP_, XLI, 1944, pp.
+544-575.) Although Purney adopted a modification of Aristotle's critical
+divisions into Fable, Character, Sentiment, and Diction, and took
+for granted the doctrine of the distinction of _genres_, he otherwise
+rejected traditional formulae and critical tenets, and began with the
+premise that man is most delighted by the imaginative perception of the
+states of life for which he would willingly exchange his own. These are
+"the busy, great, or pompous" (depicted in tragedy and the epic) and
+"the retir'd, soft, or easy" (depicted in the pastoral). From this
+analysis of "the Nature of the Human Mind," the characteristics of the
+true pastoral, such as the avoidance of the hardships and vulgarities
+of rural life, follow logically. Similarly, since a minutely drawn
+description deprives the reader's fancy of its naturally pleasurable
+exercise, pastoral descriptions should only set "the Image in the finest
+Light." Rapin, on the other hand, had determined the proper length of
+descriptions by examining Virgil and Theocritus. For the association of
+the pleasure afforded by the pastoral with the natural human delight
+in ease, Purney was indebted to the essays on the pastoral in _The
+Guardian_ (see no. 22), from which he borrowed extensively for many of
+his principles, and to Fontenelle, who constructed his theory of the
+pastoral upon the premise that all men are dominated "par une certaine
+paresse." By contrast, although Pope adopted Fontenelle's premise, he
+tested its validity by relating it to the accepted definition of the
+_genre_.
+
+One of Purney's major purposes in the essay was to dignify the pastoral
+by demonstrating that it admits all the components generally reserved
+for tragedy and the epic. Most critics had considered the pastoral
+a minor form and consequently had narrowed their attention to a few
+frequently debated questions, mainly the state of rural life to be
+depicted and the level of the style to be adopted. All agreed that the
+poem should be brief and simple in its fable, characters, and style.
+But it was therefore a poetic exercise, no more significant, Purney
+complained, than a madrigal. He was intent upon investing the pastoral
+with all the major poetic elements--extended, worthy fable; moral;
+fully-drawn characters; and appropriate expression. For in his mind the
+poem best incorporates one of the only two true styles, the tender, and
+therefore warrants a literary status beneath only tragedy and the epic.
+
+Like his critical method, Purney's decision that the pastoral should
+depict contemporary rural life divested of what is vulgar and painful
+in it, rather than either the life of the Golden Age or true rustic
+existence places him on the side of Addison, Tickell, Ambrose Philips,
+and Fontenelle (indeed, his statement is a paraphrase of Fontenelle's),
+and in opposition to the school of Rapin, Pope, and Gay, who argued for
+a portrait of the Golden Age. Both schools campaigned for a simplicity
+removed from realistic rusticity (which they detected in Spenser and
+Theocritus) and refinement (as in Virgil's eclogues); but to one group
+the term meant the innocence of those remote from academic learning and
+social sophistication, and to the other the refined simplicity of an
+age when all men--including kings and philosophers--were shepherds. With
+reservations, the first group tended to prefer Theocritus and Spenser;
+and the second, Virgil. Hence, too, the first group approved of Philips'
+efforts to create a fresh and simple pastoral manner. As a poet, Purney
+moved sharply away from the classical pastoral by curiously blending an
+entirely original subject matter with a sentimentalized realism and a
+naive, diffuse expression; and as a critic he pointed in the direction
+of Shenstone and Allan Ramsay by emphasizing the tender, admitting
+the use of earthy realism in the manner of Gay, and recommending for
+pastoral such "inimitably pretty and delightful" tales as _The Two
+Children in the Wood_. Had his contemporaries read the treatise,
+how they would have been amused to contemplate the serious literary
+treatment of chapbook narratives, despite Addison's praise of this
+ballad.
+
+In his usual nervous manner, the critic did not confine himself to his
+topic, but touched on a number of significant peripheral subjects. He
+showed the virtue of concrete and specific imagery at a time when most
+poets sought the sanctuary of abstractions and universals; commented
+cogently on the styles of Chaucer, Spenser, and Shakespeare; anticipated
+the later doctrine of the power of the incomplete and the obscure to
+suggest and therefore to compel the imagination to create; adopted and
+expanded Addison's distinction between the sublime and the beautiful;
+and, borrowing a suggestion that he probably found in Dennis (_Critical
+Works_, ed. Edward N. Hooker, Baltimore, 1919, I, 47), developed a
+profitable distinction between the sublime image and the sublime thought
+by examining their different psychological effects.
+
+But, because they run counter to the accepted opinions of his age, it
+is Purney's comments on matters of style that are especially striking,
+although it must be remembered that most of them have to do with the
+pastoral alone and do not constitute a general theory of poetics.
+Perhaps his most original contribution is his attack upon the cautious
+contemporary styles of poetry: "strong lines," a term that originally
+defined the style of the metaphysical poets, but that now described the
+compact and pregnant manner of Dryden's satires, for example, and the
+"fine and agreeable," exemplified, let us say, by Pope's _Pastorals_ or
+Prior's _vers de société_. To these Purney preferred the bolder though
+less popular styles, the sublime and the tender, corresponding to the
+two pure artistic manners that Addison had distinguished. How widely
+Purney intended to diverge from current poetry can be judged by his
+definition of the sublime image as one that puts the mind "upon the
+Stretch" as in Lady Macbeth's apostrophe to night; and by his praise of
+the simplicity of Desdemona's "Mine eyes do itch." Both passages were
+usually ridiculed by Purney's contemporaries as indecorous.
+
+Equally original is Purney's concept of simplicity, which he insisted
+should appear in the style and the nature of the characters, not in
+denuding the fable and in divesting the poem of the ornaments of poetry,
+as Pope had argued in the preface of his _Pastorals_. It was this
+concept that also led Purney to his unusual theory of enervated diction.
+How unusual it was can be judged by comparing with the then-current
+practices and theories of poetic diction his recommendation of
+monosyllables, expletives, the archaic language of Chaucer and Spenser,
+and current provincialisms--devices that Gay had used for burlesque--as
+means of producing the soft and the tender.
+
+But it is hardly true that Purney's "true kinship is with the
+romantics," as Mr. White claims, for there is a wide chasm between a
+romantic and a daring and extravagant neoclassicist. Rather, Purney's
+search for a subjective psychological basis for criticism is one of the
+elements out of which the romantic aesthetics was eventually evolved,
+and it frequently led him to conclusions that reappear later in the
+eighteenth century.
+
+       *       *       *       *       *
+
+In addition to editing Purney's pastorals, Mr. H.O. White has published
+an exhaustive study of "Thomas Purney, a Forgotten Poet and Critic of
+the Eighteenth Century" in _Essays and Studies by Members of the English
+Association_, XV (1929), 67-97. University of Illinois.
+
+  Earl. R. Wasserman
+
+
+
+A FULL ENQUIRY INTO THE TRUE NATURE OF PASTORAL.
+
+
+The PROEME or first Chapter of which contains a SUMMARY of all that the
+CRITICKS, ancient or modern, have hitherto deliver'd on that SUBJECT.
+After which follows what the Author has farther to advance, in order to
+carry the POEM on to its utmost Perfection.
+
+       *       *       *       *       *
+
+Written by Mr. _PURNEY_.
+
+       *       *       *       *       *
+
+[Illustration]
+
+       *       *       *       *       *
+
+_LONDON_
+
+Printed by _H.P._ for JONAS BROWN, at the _Black Swan_ without
+_Temple-Bar_. 1717.
+
+
+
+
+PROEME.
+
+
+_Cubbin_ (ye know the Kentish Swain) was basking in the Sun one
+Summer-Morn: His Limbs were stretch'd all soft upon the Sands, and his
+Eye on the Lasses feeding in the Shade. The gentle Paplet peep'd at
+Colly thro' a Hedge, and this he try'd to put in Rhime, when he saw a
+Person of unusual Air come tow'rd him. Yet neither the Novelty of his
+Dress, nor the fairness of his Mien could win the Mind of the Swain from
+his rural Amusement, till he accosted the thoughtful Shepherd thus.
+
+If you are the _Cubbin_, said he, I enquire for, as by the Peculiarity
+of your Countenance, and the Firmness of your Look, you seem, young
+Boy, to be; I would hold some Discourse with you. The Pastorals of your
+Performance I have seen; and tho' I will not call 'em Perfect, I think
+they show a Genius not wholly to be overlookt. My Name, continued he, is
+Sophy, nor is it unknown in the World. In this Book (and here he pluckt
+it out of his Pocket) I have pen'd some Rules for your future Guidance.
+
+_Cubbin_ was strangely taken with the mild Address and Sweetness of
+Sophy. A thousand times he thanked him, as often smil'd upon him, and
+spread his Coat for him to set more soft upon the Sands.
+
+Sophy was a true-born _Britton_, and admir'd a forward _Spirit_. The
+_French_ he little loved; Their Poets dare not (said he) think without
+the Ancients, and their Criticks make use of their Eyes instead of their
+Understandings. 'Twas his way to pardon, nay admire a Critick, who
+for every fifty Errors would give him but one Remark of Use, or good
+Discovery. But always read one Sheet, then burnt those dull insipid
+Rogues, who thought that to write a good was to write a faultless Piece.
+By which means their whole Work becomes one general Fault.
+
+This Censure, I fear, would fall pretty heavy on the [A]_Criticks_ of
+_France_; if this were a proper Place to persue the Argument in. But
+Sophy thus resum'd his Talk.
+
+[Footnote A: _In the Preface to the Second Part of our_ Pastorals,
+_viz._ THE BASHFUL-SWAIN, _and_ BEAUTY AND SIMPLICITY, _we have shown
+to what Perfection the whole Science of_ CRITICISM _was brought by the
+Ancients, then what Progress the_ French Criticks _have further made,
+and also what remains as yet untouch'd, and uncompleat_.]
+
+In this, said he, I like your Temper, Cubbin. By those few Pieces we
+have seen of your's, and those I hear you have in Manuscript, you seem
+determin'd to engage in those Kinds of Poetry and those Subjects in
+Criticism, which the Ancients have left us most imperfect. Here, if you
+fail, you may be still some help to him who shall Attempt it next; and
+if all decline it, apprehensive of no fair success, how should it ever
+attain Perfection.
+
+Then Cubbin told the _Critick_, that the reason of his entering upon
+Pastoral, where the Labour was excessive and the Honour gain'd minute,
+was this; He had unhappily reflected on that thing, we call a Name, so
+thoroughly, and weigh'd so closely what like Happiness it would afford,
+that he could now receive no pleasure from the Thoughts of growing
+famous; nor would write one Hour in any little kind of Poetry, which was
+not able to take up and possess his Mind with Pleasure, tho' it would
+procure him the most glaring Character in Christendom. This Temper was
+especially conspicuous while he tarried at the Fountain where he imbibed
+the little Knowledge he possesses. He seem'd as out of humour with
+Applause, and dafted aside the Wreath if ever any seem'd dispos'd to
+offer it.
+
+I' faith, said _Cubbin_, I am nothing careful whether any Pastorals be
+cry'd up or not. Were I dispos'd to write for a Name, no whit would I
+engage in either the Sublime or Soft in Writing: For as the middle Way,
+made up of both, is vastly easiest to attain; so is it pleasant to the
+most Imaginations, and acquires the widest Character.
+
+There are originally, answer'd Sophy, no perfect and real Kinds of
+Writing but them two. As for the Strong Lines, 'tis supplying the want
+of the Sublime with the Courtly and Florid Stile; as what we usually
+call the Fine and Agreeable is but bastard and degenerate from the truly
+Tender. But yet it must be added that this suits the Populace the best.
+
+Here Cubbin answer'd Sophy, that these were pretty ways of making
+Verses, but his mind was of such a peculiar Turn, that it requir'd some
+greater Design, and more laborious to occupy it, or else it would not
+be sufficiently engag'd to be delighted. Twould not be taken off
+from reflecting on what a stupid Dream is Life; and what trifling and
+impertinent Creatures all Mankind. Unless, said He, I'm busy'd, and in a
+hurry, I can't impose upon my self the Thought that I am a Being of some
+little significance in the Creation; I can't help looking forward and
+discovering how little better I shall be if I write well, or ill, or not
+at all. I would fain perswade my self, continued he, that a _Shakespear_
+and a _Milton_ see us now take their Works in hand with Pleasure and
+read with Applause.
+
+Tis certain, answer'd Sophy, that the less we know of Nature and our
+Selves, the more is Life delightful. If we take all things as we see
+'em, Life is a good simple kind of Dream enough, but if we awaken out
+of the dull Lethargy, we are so unhappy as to discover, that tis all and
+every thing Folly, and Nonsense and Stupidity.--But we walk in a vain
+Shadow and disquiet our selves in vain.
+
+Here Cubbin fell with his Face to the Ground, and said, I prethee now no
+more of this; your Book you open'd but forgot to give me the Contents.
+
+Sophy recollected him; and told the Swain, That Book contain'd some
+Rules for his Direction. But as I have not patience, added he, to make
+a Treatise of some hundred Pages, which consists of other Persons Hints,
+but flourish'd and dilated on; or the Rules and Observations of the
+Anciants set in a different Light; I shall first sum up the whole
+Discoverys the _French_ or any other Criticks yet have made in Pastoral;
+and where they have left it I shall take the Subject, and try how far
+beyond I am able to carry it. For after that, every single Thought
+will be the free Sentiment of my own Mind. And I desire all to judge
+as freely as I write; and (if, after a strict Examination of the Rules,
+they see any Reason) to condemn as peremtorily; for we cannot get out of
+an Error too soon.
+
+_RUAEUS_ say's, The Pastoral Sentiments must have a Connection Plain and
+Easy. Affirming that tho' Incoherence, may add a neglegence and simple
+loosness to Pastoral, yet 'tis not such a Negligence or Simplicity as
+Pastoral delight's in.
+
+_DRYDEN_ observe's, that the Dialect proper for Pastoral, must have a
+Relish of the Fascion of speaking in the Country.
+
+_FONTENELL_ that most excellent _Frenchman_ takes Notice, that no
+Passion is so proper for Pastoral as that of Love. He mean's as to what
+we are to describe in our Swains; not mentioning those Passions that
+Poem is to raise in the Reader.
+
+_RAPIN_ observe's, The Fable should be One. The Swains not abusive, or
+full of Raillery. The Sence should not be extended or long. This Author
+has other Observations new, but you may guess of what a Nature, when he
+confesses He walk'd but as _Theocritus_ and _Virgil_ lead him. Therefore
+he cannot have carried the Poem to any Perfection beyond the Condition
+they left it in; and so much any Reader may see from the Authors
+themselves, without reading a large Volume to find it out.
+
+Mr. _DRYDEN_, in another place, has an Observation which carrys the
+Knowledge of Pastoral still farther. Pastorals, says he, must contain an
+agreeable Variety after the manner of a Landscape.
+
+But in the _GUARDIANS_, Vol. I. The Reader may see the Nature of
+Pastoral more explain'd and enter'd into, in a few Dissertations, than
+by all these Authors have deliver'd on the Subject. As these are Books
+in every Bodies Hands, I shall not trouble my self to extract the
+Summary of 'em. But he will find the Criticism on Phillips and the other
+Observations are extreamly Ingenious.
+
+
+
+
+CHAP. I
+
+_Of the Parts of Pastoral; and of the several Sorts of that Poem_.
+
+
+PASTORAL, in it's Imitation of the Lives of Shepherds, makes use of
+FABLE, CHARACTERS, SENTIMENTS and LANGUAGE; and by these four Parts
+conjoyntly obtain's it's End; that is, excites our Pity, or our Joy,
+or both. For in FABLE I include the MORAL; in SENTIMENTS both IMAGE and
+THOUGHT; and in LANGUAGE I comprehend the HARMONY.
+
+These four Parts of PASTORAL would lead us into an easy and natural
+enumeration of the several Kinds or Sorts of that Poem: According as
+they have more or fewer of those Parts; and as they do or do not excite
+the Pastoral passions. Not that all those Kinds are perfect Pastorals,
+or even Poems, but only such as Authors have given us Examples of, from
+_THEOCRITUS_ and _VIRGIL_.
+
+But I omit this Division for another more material. A Difference more
+fundamental, arises in the PASTORALS written by different AUTHORS,
+according to the Age which the Poet chuses to describe, or the different
+Descriptions which he gives us of the COUNTRY. For he may draw it as
+'tis suppos'd to have been in the Golden Age; or be may describe his
+own COUNTRY, but touching only what is agreable in it; or lastly,
+may depaint the Life of Swains exactly as it is, their Fatigues and
+Pleasures being equally blended together. And this, last Kind most
+Writers have given into; for _Theocritus's_ rude unmanner'd Muse (as
+many Criticks have stiled it, not much amiss) naturally led him
+into this Method; and then, tis easy to conceive why the latter
+Pastoral-Writers chose the same.
+
+But as the second Method is plainly more delightful than the last, as
+it collect's the most beautiful Images and sweetest Thoughts the Country
+afford's; so I shall show that 'tis preferable on many other Accounts;
+and even finer for Pastoral than the Golden Age. But this when I speak
+of the Characters.
+
+I would only settle now in short the most compleat Kind of Pastoral; And
+such, I think, is that which most beautifully draw's the present Life of
+Shepherds, and raises Pity or Joy, by the four Parts of Pastoral,
+Fable, Characters, Sentiments, and Language. And since 'tis these which
+constitute a perfect Pastoral, I shall crave leave to speak separately
+of 'em all. And first of the Fable.
+
+
+
+
+CHAP. II.
+
+_Of the Fable; and the means of making a perfect One_.
+
+
+A Fable proper for Pastoral, and best adapted to delight, must have
+these following Qualities to render It compleat.
+
+_First_, It must be one entire _Action_, having a Beginning, a Middle,
+and an End.
+
+_Secondly_, A perfect _Fable_ must have a due _Length_. And not consist
+of only a mournful Speech which a Shepherd find's occasion to make; or
+the like.
+
+_Thirdly_, And since all Poetry is an Imitation of the most
+Considerable, or the most Delightful Actions in the Person's Life we
+undertake; not any trifling Action can be sufficient to constitute the
+_Fable_.
+
+_Fourthly_, Another Quality which a Pastoral Fable should have to be the
+most compleat is a _Moral Result_.
+
+I shall speak to all these Heads, except the first, concerning the
+_Unity_; for without that Quality, it's self-evident that 'tis no Fable.
+By _Unity_ I mean the same with Aristotle.[A]
+
+[Footnote A: _See his 6th Chapter_.]
+
+
+SECT. 1.
+
+_What Length a perfect Pastoral should have_.
+
+All _Pastoral-Writers_ have used the same _Length_ which _Theocritus_
+at first happen'd into. I shall be therefore obliged, I doubt, to dwell
+longer, on this Head, than the Importance of it may seem to require; and
+must premise, that tho' a _Fable_ would need, finely carry'd on, to
+be three or four Hundred Lines, yet let no Writer be under any Concern
+about this: If a _Fable_ have Unity, shews a delightful story, paints
+proper Characters, and contains a Moral, I shall not doubt to call the
+Poem a perfect and compleat _Pastoral_, tho' the Length exceeds not
+fifty Lines. But my Reasons for extending it are these:
+
+Some Author I have seen, ingeniously observes, that even in telling
+common Stories, 'twere best to give some short Account of the Persons
+first, to be heard with Delight and Attention; For, says he, 'tis not so
+much this being said, but its being said on such a particular Occasion,
+or by such a particular Person. As this is true in a common Story, so
+'tis more so in a Poem. The strongest Pleasure that the Mind receives
+from Poetry, flows from its being engaged and concerned in the Progress
+and Event of the Story. We naturally side in Parties, and interest our
+selves in their Affairs of one side or the other. Then 'tis, our Care
+pursues our Favourite Character, where're he goes. We anticipate all his
+Successes, and make his Misfortunes our own. Were the Catastrophe in a
+Tragedy to appear in the first Act, but little should we be moved by it,
+not having as yet imbibed a favourable Opinion of the Hero, nor learn'd
+to be in Pain as often as he is in Danger.
+
+Now, we may read, I fear, some Number of the _Pastorals_ of the ordinary
+Length, before we shall meet with this Pleasure. The Truth is, we are
+commonly past a hundred Lines, the length of these Pieces, before the
+Mind and Attention is entirely fix'd, and has lost all its former and
+external Thoughts. All the Pleasure therefore which proceeds from the
+Story is lost in these short Pieces.
+
+'Tis true Indeed, I think it possible for a Novel, or perhaps a Poem,
+to contain a Story in a hundred Lines which shall be able to engage the
+Mind so as to delight it from the _fable_ it self, stript of all its
+Ornaments. But how few in a hundred Ages have had Genius's capable of
+this. And if 'tis difficult in a Novel or Poem, which may couch the
+Circumstances close together, how much more Difficult must it be in
+_Pastoral_. In the former Pieces nothing is to be observed but the Story
+itself, in the latter a thousand Beauties are to be adjoyn'd and as many
+Rules observ'd.
+
+
+SECT 2.
+
+_The proper Length of Pastoral further collected from the Consideration
+of the_ Characters.
+
+Another Pleasure which the brevity of these Pieces robs us of, is this.
+The Characters cannot finely and distinctly be depainted in so short a
+Compass. And 'tis observable, we are concern'd for the Personages in
+no Poetry so much as those of Pastoral. Simplicity and Innocence have
+Charms for every Mind, and we pity most, where most our Pity's wanted.
+
+So that the two noblest Beauties, and which constitute the main
+Difference between Poetry and Versification, between a perfect Poem and
+a Madrigal, Epigram or Elegy, are entirely lost in those Pieces, and
+the only Pleasure they can raise, must proceed alone from Sentiment and
+Diction.
+
+
+SECT 3.
+
+_The Length of Pastoral, yet further shown from the Passions it raises_.
+
+In every rational and consistent Piece, the Writer has some Aim in View;
+as, to work every thing up to one End and a Moral Result; or to excite
+some Passion, or the like. Otherwise it is but an Assay of Wit, a Flirt
+of the Imagination, and no more. Too trifling to detain the rational
+Mind. Now, that these short Pieces are not capable of having a Moral,
+or raising any Passion, I need trouble my self for no other Proof than
+there never having been such one produced.
+
+But give me leave to instance in the usual Method of forming a Pastoral.
+One Shepherd meets another; tells him some body is dead; upon which,
+they begin the mournful Dialogue, or Elegy. But in such an Elegy, there
+is but one thing can raise a fine Pleasure; which can be the only solid
+Reason for the Writers performing such a Work; and that is the raising
+Pity, without which no End is obtain'd by such a Dialogue. And 'tis only
+a School-Boy tryal of Wit; like a single Description. Unless the Poet
+think's it enough that the Scene is laid in the Country, and the very
+Talk of Shepherds is enough to support a Piece. And the truth is, of
+a Nature so exceeding pleasant is Pastoral, that a Piece which has but
+Fields and Hedges repeated pretty often in it, is at least tolerable;
+whereas in any other Poetry, we see every day far better Poems cast out
+of the World as soon as they enter into it. But another reason of their
+Success proceeds from the little Knowledge most People have of
+Pastoral; all Poets having gone in exactly the same Track, without one
+endeavouring to raise the Poem to any greater Perfection than they
+found it in; whereas Epick Poetry, Tragedy, and Comedy, arriv'd by slow
+degrees to the Perfection they now bear; and this Writer still went
+beyond the last of an equal Genius.
+
+But I was going to give an Instance how incapable these Pieces are of
+raising the Passions. A mournful Dialogue, or Elegy is formed upon the
+Death of some Person. But if this Elegy raises not our Pity, 'tis a
+Trifle, and only a childish Copy of Verses. But in order to raise that
+most delightful Passion, should not the Reader be first prepossess'd in
+favour of the Party dead? Can I pity a Person because deceas'd, without
+knowing any thing of his while alive?
+
+'Tis the same in that other well-known way of drawing up a Pastoral.
+I mean, where two Shepherds sing alternately. _Theocritus_ haply light
+upon this, and every Pastoral Writer since his time, (that I have
+seen) has been so unfortunate as to happen exactly upon the same. And
+I believe it has as often been indifferent to the Readers which of the
+Shepherds overcame. Our Joy in this Case is equal to our Grief in the
+other.
+
+
+SECT. 4.
+
+_From the length by Nature prescribed to all Pieces, Epick, Tragick, &c.
+is shown, That Pastoral will, at least, admit of the Length of three or
+four hundred Lines_.
+
+Thus far of the Necessity of extending a Pastoral to the Length of
+three or four hundred Lines, if we would not deprive our selves of the
+Opportunities of being as delightful as Poetry will permit. But if any
+Commentator, who think's himself oblig'd to defend _Theocritus_ and
+_Virgil_ in every particular, should not only not allow this Length to
+be preferable, but even condemn it as faulty, it would oblige us to come
+more close to the Point, and to take the Question from the bottom. What
+is the Length by Nature fix'd for all Pieces? And why mayn't an Epick
+be as short as a Tragick Poem? Methink's a Poet should not be content
+to take these things on Trust, and tye himself down to Brevity or Length
+only because _Theocritus_ wrote short and _Homer_ long Pieces.
+
+I have not Leisure to enter fully into this Question, but would
+recommend it to some Person who has, as a Subject that would prove as
+Entertaining to the Reader as the Writer. However, I shall speak just
+what I have at present in my Mind upon it.
+
+Without considering Tragedy as drawn into Representation, it is plain it
+would not endure the Length of Epick Poetry, without being wearious in
+the Reading, for these Reasons among others: It's Nature is more heated
+and violent than the Epick Poem, and consists of only Dialogue; whereas
+the former has the Variety of Dialogue and Narration both. Besides, the
+under-actions which work up to the main Action in Heroick Poetry, are
+each as great and as different from each other, as the main Actions of
+different Tragedies.
+
+Nor would Pastoral bear the Length of even Tragedy. For it admits not
+both those two kinds of Writing, the Sublime and the Beautiful, which
+are the most different of any in Nature, having only the last. But these
+two give so sweet a variety to the same Piece, when they are artfully
+blended together, that a good Tragedy or Epick Poem can never tire. Soon
+as we begin to be sated and cloy'd with Passion and Sublime Images, the
+Poet changes the Scene; all is, on a sudden soft and beautiful, and we
+seem in another World.
+
+Yet is Pastoral by no means ty'd down by nature to the Length used by
+_Theocritus_ and all his Followers. 'Tis only Example has introduc'd
+that Method. For, 'tis a Poem capable of raising two Passions, and those
+tho' all consistent with one another, yet what raise Pleasures, the most
+widely different of any, in the Mind. When we have tir'd the Reader with
+a mournful and pitious Scene, we may relieve and divert his Mind with
+agreeable and joyous Images. And these the Poet may diversify and vary
+as often as he pleases. And so different are the Passions of Pity and
+Joy, that he may all thro' the Poem please in an equal Degree, yet all
+thro' the Poem in a different Manner.
+
+Besides, this Poem changes the general Scene, which is more than even
+Tragedy does. A Poet who has form'd a perfect Notion of the Beautiful,
+and furnished his Mind with a sufficient number of delightful Images,
+before he set's down to write a Pastoral, will lead the Reader thro' so
+sweet a Variety of amusing scenes, and show so many beautiful Pictures
+to his Imagination, that he will never think the tenth Part of a
+Tragedy's Length too much for a Pastoral.
+
+'Tis true indeed that they who make a Pastoral no more considerable
+than a Song or Ballad (as _Theocritus_, _Virgil_, &c.) without Passions,
+Characters, a delightful Fable, or any Moral, do well to make it of no
+greater Extent than a Song or Ballad. Where there is nought to delight
+but the Sentiments, (for they aim at neither the soft nor the sublime
+Language) a Reader cannot attend to more than a hundred Lines; but where
+the Mind is engag'd and concern'd for the Issue of the Story, and eager
+to know the Event, 'tis insensibly drawn on, and haveing some Aim in
+View, is much less weary'd, tho' led on to a greater Extent.
+
+
+
+
+CHAP. III.
+
+_That the Pastoral Action must not be very little and minute; also that
+several Under-actions must run thro' the Poem_.
+
+
+A Third Quality, laid down as necessary to constitute a Fable wholly
+perfect, was this, That as there must be but one Action, that Action
+may not be any trifling, silly Circumstance of a Shepherd's Life. As
+one Swain's telling the other how poor and bare he is grown. Or one
+complaining to the other, that his Flock has had some Mischance, or the
+like; which is as much as can be gather'd out of the Pastorals form'd
+after the ordinary Way. For if you take the Actions of any of 'em,
+divested of the Ornaments of Poetry, and the constant Repetition of the
+pleasing Words, Grove, Breeze, Mead, &c. you will find nothing, even
+nothing at all in any of 'em.
+
+So that, tho' these Pastorals mostly may have Actions, nay, and Unity
+of Action; yet are they Actions no more proper for a Poem, than a
+Proposition of Euclid, turn'd into Verse, would be. There is nothing,
+(not even the telling how the Sow and Pigs swallow'd their Wash, and
+fought the while,) but might be call'd one Action, with a Beginning,
+Middle and End. So that 'tis nothing to have unity of Fable, if the
+Fable be not proper.
+
+Shepherds are indeed suppos'd to be happy, and devoid of Stir, and
+Noise, and Bustle; but does it follow, that there are no Actions or
+Incidents in a Shepherd's Life? If there are delightful Actions, 'tis
+plain we don't run counter to a Shepherd's Life in drawing 'em into
+Poetry; and Poetry imitates the Actions of Men. Which show's that these
+ordinary Pastorals are no more Poetry, than Lucretius is, or than any
+other Philosopher, if turn'd into Verse, would be. Sure I think, as we
+allow an Epick Writer to take his Hero in that Part or Character of his
+Life, where he will make the best Figure in Poetry, so we should allow a
+Pastoral-Writer the same Opportunity of pleasing.
+
+'Tis necessary also that several lesser Actions work up to the main One;
+that the whole Piece may be fill'd with Circumstances. 'Tis the very
+Soul of Poetry to imitate Actions; to lead the Mind thro' a Variety of
+Scenes; and to present a Number of Pictures before it.
+
+'Tis plain a Shepherd's Life has as many Incidents, as other Person's;
+only one Kind are in low Life, the other not. The Simplicity of Pastoral
+is nothing touch'd by this, if these Incidents are Pastoral: For the
+difference between Epick or Tragick Poetry, and Pastoral, must not
+proceed from the One haveing many, the other no Under-Actions, but
+rather from the different Actions, which a Hero and a Swain are engag'd
+in. A Shepherd's leading his Lass to a Shade, and there sticking her
+Bosom with Flowers, is the same in Pastoral, as an Hero's hurling a
+Javelin, is in Epick Poetry. And a variety of Circumstances and Actions
+is equally necessary in both Pieces. Or perhaps in Pastoral most; since
+the Coolness and Sedateness of Pastoral is very apt to sate and tire
+the Reader, if he dwell's long on one Action; and we can bear a longer
+Description of a Battle than of two Shepherd's sitting together; because
+the first fill's and actuate's the Mind the most; and where it is so
+much employ'd, it cannot so easily flag and grow dull.
+
+
+SECT. 2.
+
+_Whether the Pastoral Fable should be simple or complex; and how it must
+differ from the Epick Fable_.
+
+The Implex Fables are to me, in all Poetry, the finest. And even
+Pastoral may receive an additional Beauty from a Change of Fortune in
+the chief Character, if manag'd with Discretion. 'Tis not easy to give
+direct Proofs for things of this Nature. But what little I have to offer
+for Pastoral's requiring an Implex Fable, is as follows.
+
+Pastoral, like all Poetry, should aim at Pleasure and Profit. Pleasure
+is best produc'd, if the Poem raises Pity, or Joy, or both; and Profit
+by its having a Moral. Now the Implex Fable attain's it's End the
+easiest. For we pity Misfortunes no where so much as in one we saw but
+lately happy: Nor do we joy to see a Man flourish; but to see him rise
+from Ills to a flourishing Condition, rejoyces the Mind. And as for
+the other End of Poetry, which is Profit, every one may see that Implex
+Fables are greatly best for producing a Moral.
+
+But great Care must be taken in this Way. Whereas the Catastrophe in
+Epick Poetry, is work'd up by violent Means, as Machines, and the like;
+In Pastoral it must be produced so easy and natural, as to seem to
+proceed from it self.
+
+Nor must the Change of Fortune be produced by any sudden Contrast, as
+in most Tragedies it is; since Surprize (unless very weak) is a Fault in
+Pastoral, tho' a Beauty in other Poetry.
+
+'Tis also evident that the Ills which a Shepherd falls into, from some
+slight, and almost inevitable Slip (from which the Moral is form'd) must
+be infinitely less than those which embarrass a Hero; because Ills must
+be proportion'd to the Fault; and 'tis plain, the Faults of a Swain are
+suppos'd to be very minute.
+
+A hundred Observations, like this last, might be made, too
+inconsiderable to enumerate; but the Poet, when he form's his Fable,
+cannot avoid observing 'em. Otherwise, 'tis best he keep to the Simple
+Fable; which, tho' a better may, by Industry, be form'd, is far enough
+from being faulty.
+
+
+SECT. 3.
+
+_What Circumstances or Actions of a Shepherd's Life are properest for
+the Poet to go upon_.
+
+We cannot be pleas'd with the Description of any State, or Life, which
+at that time we would not willingly exchange our present State for.
+Nor is it possible to be pleas'd with any thing that is very low and
+beggarly. Therefore, methinks, I would raise my Shepherd's Life to a
+Life of Pleasure; contrary to the usual Method. For when a Citizen or
+Person in Business divert's himself in the Country, 'tis not from seeing
+the Swains employ'd or at Labour; he visits the Country for the easy
+and agreeable Retiredness of it; and I believe the Pleasure of seeing
+a Shepherd folding his Sheep, proceeds from the Prospect of Evening, of
+the Woods and Fields, and from the Innocence we conceive in the Sheep,
+and the like; not from the Action of the Shepherd folding them. So of
+Reapers, we conceive 'em filling the following Year with Plenty; We
+have, while we see 'em, the Thought of Fulness, and the time when every
+thing is brought to Perfection; and these, and the like Thoughts, rather
+raise the Delight of seeing those particular Labours, than the Actions
+themselves. For we see, that if we behold Sheep, or the like, in a City,
+tho' Countrymen are ordering them, we have no such Delight; because
+there the Silence of Evening, the Prospect of Fields, &c. are not added.
+
+I would therefore omit the Labour of Shepherds, if I could invent a Life
+more agreeable; but the latter must be form'd from a Man's Imagination,
+the former from Observation; and _Virgil_ could draw that almost as well
+as _Theocritus_. I wonder the Writers of Pastoral should be so fond
+of showing their Shepherds Beating Their Ronts, or Scolding With each
+other, or the like; when they might describe 'em sleeping upon Violets;
+plaiting rosy Chaplets by a lovely Rivulet; getting _Strawberries_ for a
+Lass, &c.
+
+'Tis observable, that no Tragedy can be well constituted without a
+mixture of Love; and even _Shakespear_, (who seem's to have had so
+little of the Soft or Tender in his Genius) was obliged to have some
+recourse to that Passion, in forming his most regular Tragedy; I mean
+Othello. Not that an Hero should be soften'd, much less drawn in his
+most degenerate Hours, when he is in Love. For, methinks, the French
+seem a little too fond of introduceing Love, when they draw their
+greatest Hero's as amorous Love-Sops, and omit all that is truly Great
+in their Characters.
+
+Now if Love, with Reason manag'd, appear so well in Tragedy, it must
+sure be extreamly proper for Pastoral. In the first we are to be rais'd
+and heated; in the latter sooth'd and soften'd: The one has to do with
+Personages, all gentle and tender; the Subject of the other is Fury and
+Bravery. I would therefore have, methinks, a Sprinkling of Love thro'
+all my Pastorals; and 'twill give the Writer an Opportunity of showing
+the Tenderness, and the Simplicity of his Characters in the finest
+Manner: Yet must it be so diversify'd and broken, by other Incidents
+interfering, as not to cloy and nauseate the Reader, with the Repetition
+of nothing but Love and Love.
+
+The vulgar Notion is, that Wrestling, and such like Incidents are
+properest for Pastoral; but if a Writer introduces such, he'll find 'em
+so few, that 'twill be necessary to touch upon Love besides.
+
+But methinks, I would not show my _CHARACTERS_ in so low and clownish
+a degree of Life; For if I draw 'em so rough, and Porter-like, in one
+place, I cannot give 'em Tenderness and Simplicity in another; without
+breaking in upon the Manners.
+
+So that if I was compell'd to put this Circumstance of Wrestling into
+a Pastoral, I would have recourse, even there, to Love, to render it
+Pleasurable to the Mind; as thus: A tender-hearted Lass should be plac'd
+Spectator of her Wrestling Lover: By this means the Poet might make it
+shine in Poetry; if he described her Behaviour, her soft Concern and
+joyous Smiles, occasioned by every little Failure, and every Prospect of
+Success.
+
+But this is a Subject of so great Extent, that I have not time to
+go thro' with it. Take therefore this general Rule for all. Those
+Circumstances or Actions in the Fable, which show barely the
+Delightfulness of the Country, are good. Those which give us a Sight
+of also the Sprightliness and Vigour of it, are better; and those which
+comprehend further, the Simplicity and the Tenderness of the young
+Lasses, are best. And from hence a Writer or Reader will be able to make
+a Judgment of any Circumstance that may occur.
+
+
+SECT. 4.
+
+_That this Variety of Actions does by no means impair the Simplicity of
+Pastoral_.
+
+There is nothing in Pastoral, of which Persons have a wronger Notion
+than of the word Simplicity. Because the Poem should be simple, they
+strip it of all Beauty and Delightfulness; that is, they lay the
+Simplicity where it should not so much be (in the Fable) and deprive
+it of all Simplicity, where 'twould be beautiful (in the Sentiments and
+Diction.)
+
+If all the Incidents or Actions, that are truly simple and delightful,
+thro' the whole Number of _Theocritus_'s Idylls, were collected into
+one Pastoral, so as to follow naturally each other, and work up to one
+general End, I think that Pastoral would be more truly simple than any
+we have at present. 'Tis true, a Poet may thrust into Pastoral as great
+a multitude of Actions, and as surprizingly brought about, as we find
+in Tragedy, but there is no necessity, because he must use a Number
+sufficient to please, that therefore he must fall into that fault. Yet
+for mine own part, I had rather see too much, than too little Action, as
+I cannot help preferring a faulty Writer before a dull One.
+
+But a Poet of Genius will diversify and adorn his Fable, as much as he
+lawfully may; and as for the Simple, he will draw such soft and tender
+Characters, as will furnish his Poem with enough of that, and of the
+most delightful Kind. The generality of Pastoral Writers seem to
+think they must make their Pieces simple, by divesting them of all the
+Ornaments of Poetry; and the less and more inconsiderable Sketches they
+are, the more Simple they are. A strange Conception sure of Simplicity.
+While their Sentiments are false almost in every Line; either in their
+own Nature; or with respect to Pastoral; or to the Person speaking; or
+some other foreign Cause. But I shall always wave the being particular
+in such Cases as these. To point at Faults directly, I think the
+Business of a Carper, not a Critick.
+
+
+
+
+CHAP. IV.
+
+_Of the Moral; and what kind of Moral Pastoral require's_.
+
+
+The fourth Quality that a Fable ask's, to render it compleat, is a
+Moral Result. I need not trouble you with a Proof of a Moral's being
+necessary; 'tis plain that every Poem should be made as perfect as 'tis
+capable of being, and no one will ever affirm a Moral to be unnatural in
+Pastoral. But if any one should demand a Proof, 'tis thus: Poetry aim's
+at two Ends, Pleasure and Profit; but Pastoral will not admit of direct
+Instructions; therefore it must contain a Moral, or lose one End, which
+is Profit. We might as easy show that the other End of Poetry, _viz_.
+Pleasure, is also impair'd, if the Moral be neglected; but the thing is
+plain.
+
+To hasten therefore to enquire what kind of Moral is proper for
+Pastoral, we must look back into the Reasons prescribed by Nature for
+the Morals in all Sorts of Poetry.
+
+Epick Poetry and Tragedy are conversant about Hero's, Kings, and
+Princes, therefore the Morals there, should be directed to Persons
+engaged in Affairs of State, and at the Helm, and be of such a Nature
+as these; _A Crown will not render a Person Happy, if he does not pursue
+his Duty towards God and Man; the best Method of Securing a Government,
+is to occasion Unity in it_, and the like.
+
+Again, Comedy's Subject is to expose the Ill Habits in low Life. It's
+moral therefore should contain Instructions to the middle Sort of
+People: As, _What Ills attend on Covetousness_. Or, _On a Parent's being
+too Severe_, or the like.
+
+       *       *       *       *       *
+
+But so easy and gentle a kind of Poetry is Pastoral, that 'tis not very
+pleasant to the busy Part of the World. Men in the midst of Ambition,
+delight to be rais'd and heated by their Images and Sentiments. Pastoral
+therefore addresses it self to the Young, the Tender, and particularly
+those of the _SOFT-SEX_. The Characters also in Pastoral are of the
+same Nature; _An Innocent Swain_; or _Tender-Hearted Lass_. From such
+Characters therefore we must draw our Morals, and to such Persons must
+we direct them; and they should particularly aim at regulating the Lives
+of Virgins and all young Persons.
+
+       *       *       *       *       *
+
+What Nature I would have a Moral of, cannot so well be explain'd as by
+Examples; but I do not remember at present any such Pastoral. You are
+not widely deficient, Cubbin, I think, in this particular. Your first
+show's us, that the best Preservative a young Lass can have against Love
+and our deluding Sex, is, to be wholly unacquainted therewith. Little
+Paplet is eager of Listning to Soflin's Account of Men and Love; but
+that first set's her _Heart_ on the Flutter; then she is taken with
+Soflin's _SWEET-HEART_; tho' all the while she is ignorant of the Cause
+of her Uneasiness.
+
+The Moral to your second Pastoral, which contain's Instructions to
+_COQUETTS_, warning them not to take pleasure in giving Pain, is, I
+think, not worst than this.
+
+But the Moral to your Third (call'd the Bashful Swain), methinks, is not
+so good. It is also directed to the _COQUETTS_; and instruct's 'em not
+to give a Lover any Hopes, whom they do not intend to make happy. If the
+young Lass there, had jilted Cuddlett, she had mist of her good Fortune;
+and her Unwillingness to encrease the Number of her Admirers, is the
+Cause of her Happiness. But, I know not how, this like's me not so well
+as the other Three; or, perhaps it is not produced so naturally by the
+Fable, and that may prevent it's pleasing.
+
+
+SECT. 2.
+
+_How to form the most regular kind of Moral_.
+
+If a Writer's only Aim was the preserving Poetical Justice in his Moral,
+he would have nothing to do but to show a Person defective in some
+slight Particular, and from thence Unhappy; but as a Poet always reaches
+at Perfection, these following Rules are to be observ'd.
+
+The Inadvertency or Fault which the Character commit's, must be such a
+Fault as is the natural or probable Consequence of his Temper. And his
+Misfortune such an one as is the natural or probable Consequence of his
+Fault. As in Othello: (For how can I instance in Pastoral.) I rather
+suppose the Moor's Fault, to be a too rash and ungrounded Jealousy; than
+that Fault, common to almost all our Tragedies, of marrying without the
+Parent's Consent. A rash _Jealousy_ then, is the natural consequence of
+an open and impetuous Temper; and the Murder of his Wife is a probable
+Consequence of such a Jealousy, in such a Temper. So that the Hero's
+Temper naturally produces his Fault, and his Fault his Misfortunes.
+
+If you allow that the fault should be the natural or probable
+Consequence of the Temper; let me ask you then, if those Tragedies or
+Pastorals can be so perfect, where the original natural Temper of the
+Hero or Heroine is not drawn into the Piece. I mean, where all that
+we see of the Mind of the Chief Character, is his Mind or Temper, as
+alter'd entirely, by some foreign or accidental Means. As, Who will tell
+me what Hamlet's natural Temper was? Throughout that admirable Tragedy,
+we see not his bare Temper once; but before he appear's, he's in wild
+Distraction, which proceed's from former Accidents. This Method Mr.
+_Row_ too has taken, especially in that ingenious Tragedy, call'd _JANE
+SHORE_. We do not see any thing of her Temper but Grief and Sorrow; but
+Grief cannot be natural to any Person's Mind, but must be accidental.
+However, I think, this Method may be, at least, very good; whether 'tis
+the best, I leave others to determine.
+
+But as to the Fault, whether 'tis in the Action, or out of it, is of no
+moment to the Perfectness of a Pastoral. Tho' I must needs say, I am for
+what Aristotle call's the Peripatie, or change of Fortune in Pastoral;
+but I think the Action that produces the Change may be either in the
+Poem, or have happen'd some time before, but so that it's Influence does
+not reach the Persons till they have been a while engaged in the Actions
+of the Tragedy or Pastoral.
+
+
+SECT. _Last_.
+
+Here Sophy closed his Book; for the Heat of the Day came on, and an
+House or an Arbour began to be more agreeable than the open Fields.
+Sophy told the Swain he would meet him there agen in the Evening, and
+read him some more of the Minutes he had put down for his Direction, and
+withdrew; and the Shepherd drove his Lambs to the Covert of the Shades.
+
+Accordingly, as the day began to decline, the Critick again appear'd;
+and opening his Book, pursued the Argument he had made some Progress in.
+
+
+_The End of the first Part_.
+
+
+
+
+PART II.
+
+
+
+
+CHAP. I.
+
+_Of the Pastoral CHARACTERS or MANNERS, in general_.
+
+
+I should but tire the Reader, if I endeavour'd to prove that Pastoral
+does require the Manners, or Characters to be preserved. If our Method
+of ordering Pastoral be admitted, the Necessity thereof will be easily
+perceived. But If any one prefer's the ordinary Method, I must tell him,
+that 'tis not proper to draw Characters in a Piece of an hundred Lines.
+
+It is to be observ'd, that tho' a Fable and Moral are essential to every
+Poem; yet a Poem may subsist without the Manners. In Epick Poetry the
+Machinery, the sublime Descriptions, &c. are such strong and Poetical
+Ornaments, that a very fine Piece of the Heroick kind, might be form'd
+without the Ornament of Characters. But Pastoral is in it self, (if I
+may so speak) less Poetical; and therefore more want's the additional
+Ornaments of Art. 'Tis naturally low and mean, and therefore should be
+as much rais'd as possible. Whereas Epick-Poetry is of a Nature so
+warm and heated, that it's own proper Strength and Violence is able to
+support it. If this could want a Proof, I might say in short, That
+we can bear with Epick-Poetry, even without any kind of Verse, and
+_Cambray_ has succeeded in such; but every one will judge that should
+a Pastoral appear in Prose, nay even without the Feminine Ornament of
+Jangle, 'twould not be born with; which show's that Epick Poetry can
+support it self with fewer foreign Assistances than Pastoral.
+
+Another Observation I shall make, relating to the Manners or Characters
+in general, is this; and 'tis equally applicable to Epick Poetry,
+Tragedy, and Pastoral: There are three different ways of drawing
+Characters; which in Tragedy form the Poem, as 'twere, of three
+different Kinds or Natures.
+
+The first, and finest is, where the Natural Temper of the Hero's Mind is
+drawn in the former Part of the Poem, but after the Peripatie alter's.
+As Timon of Athens is drawn at first all free and well-natur'd to
+a Fault; but after his change of Fortune, is described as a quite
+different Man; morose, and in hatred with himself and all the World. And
+so in other Tragedies.
+
+The second Sort is, where the Temper of Mind is the same in the former
+and latter Part of the Play; but all along forced from it's Natural
+Bent. Every where inclin'd and leaning to a different Temper; yet is
+no where wholly carry'd off, or alter'd, as in _Venice-Preserv'd_;
+_Jaffeir's_ Temper is generous, faithful, and tender, but thro' Want and
+Enticement being drawn into a Conspiracy, this Temper is half effac'd
+in him: But the Strugglings which the Poet has so fine an Opportunity
+of describing, between his present Actions and his natural Temper, are
+carry'd thro' the whole Piece; and he condemn's himself the same for
+ungenerously betraying his Friend at the End, as for entring into the
+Conspiracy against his Country, at the beginning of the Play.
+
+The last kind of Character is, where the Natural Temper of the Mind is
+neither drawn in the latter Part of the Poem; nor retain'd thro' the
+whole, but clouded and broken; but instead thereof some casual and
+accidental Humour, which from some Misfortune, or the like, has quite
+changed the Natural Temper before the Person appear's on the Stage, or
+in the Poem. As in the Distress'd-Mother, the Character that give's name
+to the Tragedy, is all along in Tears and Grief for _Hector_; and what
+her Temper was before his Death, does not appear, that is, what her
+Natural Temper was.
+
+I need not detain you to apply what I have here observ'd to Pastoral in
+particular; 'tis enough to affirm, that the Method which appears most
+beautiful in Tragedy, will be equally finest in Pastoral Poetry.
+
+
+
+
+CHAP. II.
+
+_What Condition of Life our Shepherds should be supposed in. And whether
+the_ Golden-Age, _or the present state of the Country should be drawn_.
+
+
+There are three different Methods, (as we hinted in the first Chap. of
+the first Book) of describing the Country. For it may be drawn, as 'tis
+suppos'd to have been in the Golden-Age; or, as 'tis now, but only the
+pleasant and delightful Images extracted, and touch'd upon; or,
+lastly, we may draw the Country in it's true and genuine Colours, the
+Deformities as well as the Beauties having admittance into our Poem.
+
+This last sort run's upon the Labours and fatigues of the Rusticks; and
+gives us direct Clowns and Country-Folk. We alway see 'em sweating with
+a Sicle in their Hands; beating their Cows from the Corn; or else at
+Scolding. Yet doubtless a kind of Pastorals of this Nature might be made
+extreamly delightful, if the Writer would dare to write himself, and not
+be lead so much by _Theocritus_ and _Virgil_.
+
+But a Method preferable to this, I think, is a Description of the
+Golden-Age; and there is very little difference between this, and that
+which we hold the best. It draw's the Swains, all Innocent and tender.
+Show's us Shepherds, who are so, not for their Poverty, but their
+Pleasure; or the Custom of those unrefin'd Ages, when the Sons and
+Daughters of Kings were of that Employ, as we read in the Scripture of
+the Ladies of greatest Quality, drawing Water for their Flocks, and the
+like. I am therefore nothing averse to this kind of Pastoral. It draw's
+such a Life as we could easily wish our selves in; and such, and only
+such, can bear a pleasurable Description.
+
+But all the Opportunities that the supposition of the Golden-Age gives
+the Reader of the Beautiful in his Descriptions, and being Entertaining
+in his Characters; In short, all the delightful Scenes, Arborets and
+Shades, as well as all the gentleness and simplicity of that Age, may be
+drawn into the other, namely the middle state, which we prefer; if the
+Characters be proper.
+
+Besides, I should not be fond of describing the Golden-Age, because we
+are not so much interested and concern'd in what was only some thousand
+Years ago, and ne're will be again. If the Poet possesses us with
+agreeable Sentiments of our own Country (by describing it, but omitting
+all that is not delightful in it) we are doubly pleas'd with the
+Consideration that it may be in our own Power to enjoy the sweet
+Amusement: and we are apt to fancy while we are reading, that were
+we among those Swains, we could solace our selves in their easy
+Retirements, and on their tender Banks in the same manner that they do.
+
+And since Poetry, the more naturally it deceives, the more fully it
+pleases; I should be very desirous, methinks, of giving my Pieces as
+great an Appearance of Probability, as possible. And in our way, the
+Poet may, to add yet more to the Probability, mention several Places in
+the Country, which actually are to be found there; and will have several
+Opportunities of giving his Stories an Air of Truth.
+
+
+SECT. 2.
+
+_The Method of_ Theocritus, _and all his followers, shown to be
+inferiour, from the Nature of the Human Mind_.
+
+But further, to shew that we should not describe the Country in
+it's Fatigues, it's Roughness, or it's Meanest, take these Few
+Considerations. For, as no Writer whom I have read (but that excellent
+Frenchman _FONTENEL_,) has raised his Shepherds and Shepherdesses above
+the vulgar and common sort of Neat-herds and Ploughers, I am oblig'd to
+dwell a little the longer on this Head.
+
+It may be observ'd, I think, that there are but two States of Life
+which are particularly pleasant to the Mind of Man; the busy, great,
+or pompous; and the retir'd, soft, or easy. More are delighted with the
+former than with the latter kind, which affoard's a calm Pleasure, that
+does not strike so sensibly, but proceeds much from the Imagination.
+Perhaps this may be the reason why Epick and Tragick Poetry are more
+universally pleasing than Pastoral; for they describe the Actions of
+such Persons, as most Men are dazled and enamour'd with; and would
+willingly quit their own Stations in Life for.
+
+But tho' this State of Life may perhaps be more generally engaging than
+the soft and retir'd; 'tis certain the soft is the next eligible, and
+consequently will shine the most next in Poetry. As no one would much
+desire to be one of Theocritus's Shepherds, so 'tis plain, no one can
+be much delighted with being concern'd, as 'twere, with such; of having
+their Actions take up our Minds, and their Manner of Life set before us.
+
+As a love of Grandeur, Show and Pageantry is implanted naturally in
+our Minds, so we cannot be pleas'd with any thing that is mean, low and
+beggarly; and as we dislike what is mean and beggarly, How can we love
+to have our Minds conversant about, direct Ploughmen, _&c_? We love the
+Country for it's soft Retirements, it's Silence, and it's Shades, and
+can we love a Description of it that sets none of these before us? If I
+read a Pastoral, I would have it give me such a Prospect of the Country,
+and stop me upon those Objects, where I should myself stay, were
+I there; but would not that be (at least generally) upon the most
+beautiful Images. If the Toils of the Country-Folk took my Observance,
+'twould only be for Variety, because those Images which a Poet can
+so plentifully raise out of his own Brain, can hardly be met with in
+Reality. But methinks were I determin'd to describe the Labours and
+Hardships of the Country, and not to collect the Beauties; I would e'en
+observe the Manner of the Fellows and Wenches in the Country, and put
+down every thing that I observ'd them act; as Mr. Gay has very well
+done; and than we shall have at least this Pleasure, of seeing how
+exactly the Copy and the Original agree; which is the same that we
+receive from such a Picture as show's us the face of a Man we know.
+
+Again, 'tis natural to the Mind of Man to delight in the Happiness of
+it's Fellow-Creatures; and no Pleasure can be imbibed from the Prospect
+of another's Misery; unless it is so calculated as to excite Pity. The
+Pleasure, that comes the nearest such of any, is a Comick one, which
+delight's to see the human Form distorted and debased, and turn'd into
+that of a Beast.
+
+And as for Pity, the most delightful Passion of all, it can't be excited
+by this Means. For those Swains are inured to Labour, and acquainted
+with Fatigue; but we pity those who fall from Greatness to a State of
+Hardships.
+
+
+
+
+CHAP. III.
+
+_What Personages are most proper for Pastoral. And what Passions we may
+allot our Shepherds; and what degree of Knowledge_.
+
+
+Since Simplicity and Tenderness are universally allow'd to constitute
+the very Soul and Essence of Pastoral, there la nothing scarce in the
+Proceedings of Pastoral-Writers more surprizing to me, than that no one
+has allotted any Part of Characters in their Pieces to the _SOFT-SEX_:
+But have, to a Writer, introduc'd only Men, and even the roughest of
+that Sex.
+
+I can no otherways account for that their Conduct, but that _Theocritus_
+happen'd not to make any true Female Characters, nor to introduce any
+such of the Fair-Sex, as would shine in Pastoral, and they pretend to
+nothing farther than the Copying after him.
+
+This is the more strange, since even Epick-Poetry and Tragedy, whose
+Nature is Violence and Warmth, cannot well subsist without the tender
+Characters. 'Tis they that sprinkle so sweet a Variety thro' those
+Pieces, and relax the Minds of the Readers, with the Beautiful and Soft,
+after it is sated with the Sublime.
+
+Now if even the warmest Kinds of Poetry delight in Female Personages,
+How much more Pastoral, which is all Tenderness and Simplicity? Whose
+design is to sooth and spread a Calm over the Mind, as the higher Poems
+are to elevate and strike It.
+
+But 'tis not enough that we introduce some Characters drawn from the
+_SOFT-SEX_: our Male Characters must be also of the same Nature, far
+from rough or unmanner'd. Every Character must also be of such a Kind
+as will be entertaining to the Mind. For there are some more, some less
+delightful, among those Female _Characters_, which at first sight seem
+equally proper to Pastoral. Of this kind is a Prudish _Character_, or
+excessively reserv'd. For, besides that frankness and Openness of Heart,
+is what we imagine natural to Shepherds, a Poet can never raise Delight
+from such a Character. Her fault is too hateful to excite Pity in her
+Punishment; and too small to raise Joy in beholding bar Unfortunate.
+Besides that such a Joy were not proper for Pastoral. Of the same Nature
+is a Finical, or Squeamish Character, and many others, at first sight
+agreeable to Pastoral.
+
+
+SECT. 2
+
+_What Passions we may allot our Shepherds_.
+
+Although I am for raising the Characters in Pastoral somewhat above
+the degree of Boors and Clowns; yet no one is more for retaining the
+Pastoral Simplicity. Our Characters of young and tender Innocents,
+give, I think, a better Opportunity of introducing the true Pastoral
+Simplicity, than those very mean and low Personages, which rather lead
+us to an unmanner'd Clownishness, than an agreeable Simplicity.
+
+To preserve this Simplicity, we must avoid attributing to our Swains,
+any of those Passions or Desires, which engage busy and active part
+of Mankind; as Ambition, and the like. _Theocritus_ therefore, and
+_Virgil_, and the generality of his Followers, have rather made their
+Shepherds sing alternately for a Leathern Pouch, or a Goat, than for
+the Desire of Praise. And nothing, I believe, but his being unwilling
+to make his Swains sing for exactly the same Reward, that all since
+_Theocritus_, have done, could have made our excellent Phillips alter
+the Pouch and the Kid, for Praise, in his sixth Pastoral.
+
+  _Let others meanly stake upon their Skill.
+  Or Kid, or Lamb, or Goat, or what they will;
+  for praise we sing, nor Wager ought beside;
+  And, whose the Praise, let_ Geron's, _Lips decide_.
+
+There are few of even the most violent passions but may be introduc'd
+into Pastoral, if artfully manag'd and qualify'd by the Poet: As Hatred,
+if it be not carried to it's height; which is an Excess in Pastoral.
+And I observe, _Cubbin_, you make your Shepherd _Colly_, inconstant; and
+have an Aversion to his former Sweet-heart _Soflin_, on account of her
+Frankness, and too great Forwardness. But yet I think it is not faulty,
+because you make his Affections vary, against his Inclination, and he is
+angry with himself for his dislike to _Soflin_; but no Reason can stop
+unruly Love.
+
+So Revenge, if admitted, must be very ingeniously manag'd, or 'twill be
+intolerable. There is a cunning Thought in _Tasso_, that may perhaps let
+the Reader something into the Manner in which I would have it order'd.
+A Female Warriour, opposed to her Lover in Aims, for his Inconstancy
+shoot's a Dart at him, yet wishes it may not strike him.
+
+But what comes nigher to the explaining the manner of introducing
+Revenge into Pastoral, is what we find in the sixth Idyll of
+_Theocritus_. _Polyphemus's_ Mistress had been unkind; and how do's
+he propose to take Revenge: Why, he will not take notice of her as she
+walk's before his Cave to be seen, and pelt's his flock. After which
+follow's the most simple, and I had almost said, finest Thought in any
+Pastoral-Writer. The whole Beauty of which no one will conceive, but who
+has a Soul as tender as _Theocritus_ had, and could touch the _Soft_ as
+well. Poliphemus threaten's several Punishments, after which, follows
+this. 'Tis as fine in _Creech's_ Version as the Original.
+
+  _Besides, my Dog, he is at my Command,
+  Shall bark at her, and gently bite her Hand_.
+
+What I have said of this, might be said of the other Passions; but I
+shall insist no longer on this Head. As for the Passions most proper for
+Pastoral, they are discuss'd elsewhere.
+
+
+SECT. 3.
+
+_What degree of Knowledge we may attribute to our Swains_.
+
+The difference between the Knowledge of our Shepherds, and that of
+politer Persons, must not proceed in the least from any difference
+in their Natural Endowments, but entirely from the manner of their
+Educations. The Poet therefore, has nothing to do in this Case, but to
+consider what is most probable for Nature to effect, unassisted by Art.
+
+As for a Shepherd's knowing what the ancient Poets have deliver'd,
+concerning the different Ages, and other things, I shall not determine
+whether 'tis natural or not: because not only _Theocritus_, whose
+Shepherds are as well vers'd in History as other Men, and _Virgil_,
+whose Shepherds are often Philosophers, have gone in this way, but our
+Countryman Mr. Phillips also, whose excellency is his Correctness.
+
+  (Lang.) _Thrice happy Shepherds now! for_ Dorset _loves
+  The Country Muse, and our delightful Groves.
+  While_ Anna _reigns. O ever may she reign!_
+  And bring on Earth a Golden-Age again.
+               _Pastor_. 6.
+I shall leave the Reader also to determine concerning the following
+piece of Knowledge.
+
+  (Hob.) _Full fain, O blest_ Eliza! _would I praise
+  Thy Maiden Rule, and Albion's Golden Days_.
+  Then gentle _Sidney_ liv'd, the Shepherds Friend:
+  _Eternal Blessings on his Shade descend!_
+
+The same is to be said of other the like Passages, but the most ordinary
+Capacity may judge what Knowledge is, or is not, consistent with the
+Banner of a Shepherd's Education.
+
+
+
+
+CHAP. IV.
+
+_How to form the Pastoral Characters, and the great Difficulty of doing
+it_.
+
+
+A Poet, who would write up to the Perfection of Pastoral, will find
+nothing more difficult (unless the Dialect) than the inventing a
+sufficient Number of Pastoral Characters; such as are both faultless and
+beautiful. That difficulty proceeds from hence.
+
+In Epick and Tragick Poetry we have the whole scope of all Men's Tempers
+and Passions to draw; which are widely various and different: As, the
+Savage and Wild; the Ambitious; the Simple and Tender-hearted; the
+Subtle, &c. Thus in the Epick and Tragick Poems, you draw the general
+Qualities of all Men's Minds. But in Pastoral, you are pinn'd down to
+one of these common qualities (which is Simplicity and Tenderness.)
+And laying that as a Foundation, from thence draw your particular
+Characters. In every Character still supposing that at the bottom of
+it, and to accompany it. But Rules of this Nature, are like Mathematical
+Assertions, not easily explain'd, but by Examples. Tho' I think,
+_Cubbin_, I need not insist long on this to you; for your Characters are
+not much faulty in this particular. If I remember aright; some of your
+Characters are these:
+
+Paplet has Simplicity and Tenderness: But her distinguishing Character
+is, that she is a May, so young, as to be entirely ignorant of Love; but
+extreamly Curious to be let into the Nature of Men and Lovers.
+
+Collikin has Simplicity and Tenderness: But withal a Tincture of
+Inconstancy in his Nature.
+
+Soflin, with her Simplicity and Tenderness, is excessive Easy, and
+Complying, to a Fault; open and too free-hearted.
+
+Florey has Simplicity; and Tenderness for his Lass; but he is almost out
+of Humour with himself for being so soft. He is suppos'd to be brought
+up in the lonely Cave with Paplet; and his natural Tamper is wild and
+excessive brisk; hating the House, and delighting in Hunting. But you
+show, I see, only a Glimpse of his Natural Temper, which breaks out
+at times; but he is drawn as tender, being all the Time in Love with
+Poppit.
+
+The rest of your Characters have the same Foundation; nor break in, I
+think, upon Simplicity and Tenderness.
+
+'Tis true indeed, as to the Difficulty of forming Pastoral Characters,
+beyond those of Epick Poetry; That even there, one general Character
+should diffuse it self thro' all the rest, and that is Bravery.
+(For _Homer_ might, I think, as well have brought in a Baboon, or a
+Hedge-hog, for Heroick Characters, as a _Vulcan_ and a _Thirsites_.) But
+Bravery will coincide with greatly more Tempers than Pastoral Simplicity
+and Tenderness; nor does it lay the Poet under a Restraint comparably so
+great.
+
+'Tis farther observable, as to the Difficulty of forming the Pastoral
+Characters, that if we wou'd write up to the Perfection of Pastoral,
+'tis necessary that whatever habit or temper of Mind distinguishes any
+CHARACTER in the first Pastoral, wherever that CHARACTER afterwards
+appears, thro' the whole set of Pastorals, it must appear with the
+same Temper as before; that is, 'tis not enough to have the Characters
+uniform and just thro' one and the same Pastoral, but what is the
+Character of any Swain or Lass in the first and second Pastoral,
+that must be their Character in all the rest, if they are nam'd or
+introduc'd, tho' never so slightly. For by this means, not only
+every single Pastoral will make a regular Piece, but the whole set of
+Pastorals also constitute together one uniform and ample Poem; if the
+Reader delights to fill his Mind with a large and ample Scheme.
+
+The set of Pastorals would be still more perfect, if the Characters
+were also all continued on from the first to the last Pastoral, and none
+drop'd, as 'twere, in silence; but in the Pastorals which draw towards
+the End, the Characters should be all disposed of in Pastoral, and after
+an entertaining Manner; so that the two or three last Pastorals will be
+like the fifth Act in a Tragedy, where the Catastrophe is drawn up. The
+reasonableness of this appear's from hence. I suppose the Poet to form
+his Story so, and so to draw his Characters, that the Reader's Mind may
+be engag'd and concern'd for the Personages. Now the Mind is uneasy if
+'tis not let into the issue of the Affairs of the Person it has been
+long Intent upon, and given to know whether he is finally Unfortunate,
+or Happy.
+
+
+SECT. _Last_.
+
+Thus far proceeded Sophy, when Night drew on. He shut his Book; and
+Cubbin told him, he had not pass'd many days with so much Delight as
+that. If you have found my Discourse, said Sophy, entertaining, do not
+fail of being here again early to morrow Morning, and I will continue
+it to you. The Shepherd express'd his Satisfaction, and they hasted home
+together.
+
+The following Morn was fair and inviting; they both appear'd when the
+Lark began his Mattin Song; and Sophy thus proceeded.
+
+
+_The End of the Second Part_.
+
+
+
+
+P A R T III.
+
+
+
+
+CHAP. I.
+
+_Of the Sentiments in general_.
+
+
+I must crave leave to extend the Signification of the Word Sentiment, to
+the including tooth IMAGE and THOUGHT. For I think the Criticks should
+by all means have, before now, made that Division, and the omission has
+occasion'd the greatest Obscurity and Confusion in the Writings of those
+who have discours'd on any particular Kind of Sentiment. But that the
+Reader may take the more Care to keep this Distinction in his Head, we
+will give one Instance of the Confusion it occasion'd in the Mind of
+_Longinus_, who treated the Sublime, and certainly ought to have had a
+clear Notion of the Subject he wrote so largely, and so floridly upon.
+
+Now in his sixth _Section_, he make's it a Question, and discourses
+largely, whether Passion can go along with a Sublime SENTIMENT. But any
+one who has divided Sentiment into Image and Thought would laugh at this
+Question; it being so plain that passion is consistent with a Sublime
+Thought, and is not with a Sublime Image.
+
+Would not any person who desired to acquire a true and thorough Notion
+of a sublime Sentiment, so as to know one, wherever met, be puzzled
+at _Longinus_'s telling him, _Homer_'s Sentiment is sublime, where
+he make's the _Giant_'s heap Ossa on Olympus, and on Ossa Wood-top'd
+Pelion; and a little after telling him that _Alexander_'s to _Parmeno_
+is a sublime Sentiment. _Parmeno_ say's, _Were I Alexander, I would
+embrace these Proposals of Peace_. _Alexander_ reply'd, _And I, by the
+Gods, were I Parmeno_. These Sentiments of _Homer_ and _Alexander_ (tho'
+equally sublime) are as different as a Bright and a Tender Sentiment. If
+then I have settled one in my Mind, as sublime, How shall I conceive the
+other as such?
+
+But there is no other way of avoiding this Confusion, and of being
+equally certain of all sublime Sentiments, but by knowing that the
+first of these is a sublime Image, and the last a sublime Thought or
+Sentiment. And you will find, if you consider the Nature of _Homer_'s
+Image, all sublime Images are like it; and the same of _Alexander_'s
+sublime Thought. Altho' the sublime Sentiments in general are so
+different.
+
+But since we are accidentally engag'd in considering the Sublime; I will
+endeavour to show you how to judge infallibly of a Sublime SENTIMENT.
+For I think it cannot be gotten from _Longinus_; or at least, I could
+never learn it from that most Florid and Ingenious author. And it may be
+shown in three Lines, as well as in so many Volumes.
+
+A Sublime Image always dilate's and widen's the Mind, and put's it upon
+the Stretch. It comprehends somewhat almost too big for it's Reach;
+and where the Mind is most stretch'd, the Image is most Sublime; if we
+consider no foreign Assistances. As _Homer_ say's, _The Horses of the
+Gods, sprung as far at every Stride, as a Man can see who sit's upon the
+Sea-shore_. But foreign Assistances, as a figurative Turn, &c. may raise
+a passage to an equal degree of Sublimity, which yet does not so largely
+dilate the Mind; as this of _Shakespear_'s is more Sublime than that of
+_Homer_'s.
+
+            --_Heaven_'s  Cherubs, _hors'd
+  Upon the sightless_ Curriers _of the Air,
+  Shall blow the horrid Deed in every Eye_.
+
+  _Macbeth_. Act. 1. Scen. 7
+
+The not having a perfect Idea of the Sentiment, make's us conceive
+something the greater of it.
+
+A Sublime Thought always gives us a greater and more noble Conception of
+either the Person speaking; the Person spoken of; or, the Thing spoken
+of. I need not instance; but if you apply this to any of the Thoughts of
+_Homer_, or _Shakespear_, generally call'd Sublime, you'll find it will
+always square.
+
+Here let me make one Observation: That you may never be mistaken in
+judging of a Sublime Passage, _Cubbin_, take notice; that there are
+some Thoughts so much imaged in the Turn that is given to 'em, by the
+figurative Expression, that they lose the name of Thoughts, and commence
+Images. I will mention one out of _Shakespear_, (who uses this Method
+the most of any Author, and 'tis almost the only thing that raises his
+Language) I will mention it, because, being in it self a low and common
+Sentiment, he has made it the most Sublime, I think, of any he has.
+_Macbeth_'s Lady say's, before the Murther of the King.
+
+                         --_Come, thick Night.
+  And pall thee in the dunnest Smoak of Hell,
+  That my keen Knife see not the Wound it makes
+  Nor Heav'n peep thro' the Blanket of the Dark,
+  To cry, Hold! Hold!_
+
+  _Macbeth_ Act. 1. Scen. 5.
+
+But I run the Digression too far.
+
+
+
+
+CHAP. II.
+
+_Of the Images. And which are proper for Pastoral, which not_.
+
+
+Let us proceed to consider what Images will shine most in PASTORAL. And
+here I shall not consider all kinds of Images, both good and vicious,
+but only those which are in their own nature good; and among those show
+which may, and which may not, be introduc'd into Pastoral.
+
+Of Images, in their own Nature good, only the BEAUTIFUL, and the
+[A]GLOOMY are, properly speaking, fit for Pastoral. The Uncommon, the
+Terrible, and the Sublime, being improper.
+
+[Footnote A: _The Division of the Images and Thoughts is made, and the
+nature of the_ GLOOMY _consider'd, in the Critical Preface to the Second
+Part of our Pastorals_.]
+
+If any other kinds of Images are introduced, they must be artfully
+qualify'd, or else be faulty; the Methods to be used in so qualifying
+them, are too numerous to recount. But give me leave to put down one,
+which relates to the Language.
+
+Suppose you was to describe some LOVELADS and LASSES roving a little
+by the Sea-shore in a guilded Boat; when, on a sudden, the Wind arises,
+drives 'em into the middle of the Main at once, and dashes the _Gondola_
+on a Rock. Might you not describe such a boistrous Circumstance in an
+easy and Pastoral manner.
+
+  _Sore raven the fell Sea (Oh sorry Sight!)
+  And strait (most wofull Word) the Boat doth split_.
+
+But these are things which are better left to the Writer's own Genius,
+than to Rule and Criticism.
+
+As to the gloomy Images, I shall only caution the Pastoral Writer, that
+they must be of a very different Nature from those in Epick Poetry or
+Tragedy: That is, the gloomy must not be so strong; but the Images must
+rather contain a pleasing Amusement. And that they'll do, if they are
+drawn from the Country: As _Fairies_; _Will-o'-Wisps_; _the Evening_;
+_falling Stars_; and the like, will all furnish Images exactly agreeable
+to Pastoral.
+
+Having made this Observation on the _Gloomy Images_, let us now proceed
+to the Consideration of the Beautiful, which will detain us somewhat
+longer.
+
+
+SECT. 2.
+
+_Of Beautiful Images. And of those; which are more, which less fine_.
+
+In my usual way of considering Beautiful Images; for the greater
+Clearness, I rank 'em into three several Classes. This division I do
+not desire to impose on any one else; but the mentioning it, cannot be
+amiss.
+
+Of the three sorts or kinds of Beautiful Images, the first, and least
+delightful is, where only a simple Image is exhibited to the Reader's
+Mind. As of a Fair Shepherdess.
+
+The second Sort is, where there is the Addition of the Scene; as suppose
+we give the Picture of the fair Shepherdess, sitting on the Banks of a
+pleasant streamlet.
+
+The third, and finest kind of Beautiful Images is, where the Picture
+contain's a still further Addition of action. As, the Image of a fair
+Shepherdess, on the Banks of a pleasant Stream asleep, and her innocent
+Lover harmlessly smoothing her Cloaths as flutter'd by the Wind. And the
+most beautiful Image in Phillips, or I think any Pastoral-Writer, is of
+this Nature.
+
+  _Once_ Delia _lay, on easy Moss reclin'd;
+  Her lovely Limbs half bare, and rude the Wind.
+  I smooth'd her Coats, and stole a silent Kiss;
+  Condemn me, Shepherds, if I did amiss_.
+
+  _Past_. 5.
+
+The last Line contains a Pastoral Thought, of the best Sort; as the
+three first a Pastoral Image.
+
+The middle of this last Pastoral is full of beautiful Images, and has
+therefore proved so Entertaining to all Readers, that I wonder Mr.
+Phillips would not give us the Beautiful in his four first Pieces also.
+
+Of all the Persons who have written in the English Language, no one ever
+had a Mind so well form'd by Nature for Pleasurable Writing, as Spencer.
+Yet as he wrote his Pastorals when very Young, this does not appear so
+much from them, as from his Fairy Queen; thro' which, (like Ovid, in his
+Metamorphoses) he has perpetually recourse to Pastoral. Especially in
+his Second Book; in which there are more pleasurable Pastoral Images in
+every eight Lines, than in all his Pastorals. We have Knights basking in
+the Sun by a pleasant Stream, rambling among the Shepherdesses, entering
+delightful Groves surrounded with Trees, or the like, almost in every
+Stanza; but thro' all his Pastorals, we have not half a dozen beautiful
+Images. 'Tis therefore the Pastoral Language that support's 'em, which
+he took excessive pains about.
+
+
+
+
+CHAP. III.
+
+_Of Pastoral Descriptions. And what Authors have the finest_.
+
+
+Of Images are form'd Descriptions, as by a Combination of Thoughts a
+Speech is composed. And a Description is good or bad, chiefly as the
+Images or Circumstances are judiciously, or otherwise, chosen; and
+artfully put together.
+
+As to the putting them together, I shall only observe, that in
+Descriptions of the Heat of Love, not in Pastoral, but in such Pieces
+as Sapho's, or the like, the Circumstances should be couch'd extreamly
+close; in Epick Poetry the Circumstances should be somewhat less closely
+heap'd together; and that Pastoral requires 'em the most diffuse of any;
+being of a Nature extreamly calm and sedate.
+
+Hence we may learn what Length Pastoral will admit of in it's
+Descriptions. And certain it is, that as we are easily wearied by a cold
+Speech, so are we by a cold Description, unless very concise.
+
+But as those Poets whose Minds have delighted in Pastoral Images have
+always been Men of Pleasurable Fancies, and who never would bring their
+Minds under the Regulation of Art; all who have touch'd Pastoral the
+finest have egregiously offended in this Particular. The only Writers, I
+think, who have ever had Genius's form'd for Pastoral Images, are _Ovid_
+and _Spencer_; which appear's from the _Metamorphoses_ of the first, and
+the _Fairy-Queen_ of the latter. As for _Theocritus_, he seem's to me
+to be better in the Pastoral Thought than Image; and as I rank together
+_Ovid_ and _Spencer_, so I put _Theocritus_ in the same Class with
+_Otway_. And I think any one of these Four, if he had form'd his Mind
+aright by Art, (that is, had either thoroughly understood Criticism
+in all it's Branches, or else never vitiated his natural Genius by any
+Learning) was capable of giving the World a perfect Sett of Pastorals.
+The former two would have run most upon beautiful Images, and the latter
+two upon Agreeable Thoughts.
+
+I need not instance in the tedious Descriptions of _Theocritus_, _Ovid_
+and _Spencer_. But certainly, if long Descriptions are faulty in Epick
+Poetry, as they prevent the Curiosity of the Reader, and leave him
+nothing to invent, or to imploy his own Mind upon, they are in
+Pastoral much more disagreeable. Tho' if any thing would excuse a
+long Description, there is in _Ovid_ and _Spencer_, that inimitable
+Delightfulness, which would make 'em pass. Virgil has no Descriptions in
+his Pastorals so long as Spencer, and Heavens deliver us if he had; for
+as 'tis, I can better read the longest of _Spencer_'s, than the shortest
+of his, in his Pastorals.
+
+
+SECT. 2.
+
+_The proper Length for Descriptions adjusted, from several
+Considerations_.
+
+What I have laid down seem's in its self plain and evident; but because
+_Rapin_, and some other Criticks, famous for the Niceness of their
+Judgments, have made it a considerable Question, and at last own'd
+themselves unable to decide it, I shall further consider the Matter.
+
+'Tis best, I think, only just to exhibit the Picture of an Object to the
+Reader's Mind; for if 'tis rightly set and well given, he will himself
+supply the minute Particulars better to please himself than any Poet can
+do; as no different Fancies are equally delighted with one and the same
+thing, the Poet in an extended Description must needs hit upon many
+Circumstances not pleasant to every Fancy; even tho' he touches all the
+best Particulars. But if the Poet only set's the Image in the finest
+Light, by enumerating two or three Circumstances, the Reader's Mind
+in that very instant it sees the Image or Picture, fill's up all the
+Omissions with such Particulars, as are most suitable to it's own single
+Fancy. Which farther conceives something beyond, and something out of
+the way, if all is not told. Whereas descending to Particulars cool's
+the Mind, which in those Cases ever finds less than it expected.
+
+To instance in Painting, for that's the same. When I first cast my Eye
+on a beauteous Landscape, and take in a View of the whole and all it's
+parts at once, I am in Rapture, not knowing distinctly what it is that
+pleases me; but when I come to examine all the several Parts, they seem
+less delightful. Pleasure is greatest if we know not whence it proceeds.
+And such is the Nature of Man, that if he has all he desires he is no
+longer delighted; but if ought is with-held, he is still in Eagerness,
+and full of Curiosity.
+
+Besides, Descriptions in Pastoral should be particularly short, because
+it draw's into Description nought but the most Common tho' the most
+Beautiful of Nature's Works: Whereas Epick Poetry, whose Business is
+to Astonish, represents Monsters and Things unheard of before, and a
+_Polyphemus_ or a _Cyclops_ will bear, nay require, a more particular
+Description, than a beauteous Grott, or falling Water; because the
+One is only calling up into our Mind what we knew before, the other is
+Creation. Besides that in Epick Poetry the Descriptions are generally
+more necessary than in Pastoral. To describe the fair Bank where your
+Lovers sate to talk does not help the _Fable_; but if _Homer_ had not
+prepared us, by a particular Description of _Polyphemus_'s hugeness, he
+would not have been credited, when he afterwards said, _That he hurl'd
+such a Piece of a Rock after_ Ulysses'_s Ship, as drove it back, tho' it
+touch'd it not, but only plung'd into the Waves, and made 'em roll with
+so great Violence_.
+
+I shall only add one Observation on this Head, and proceed. Pastoral
+admits of _Narration_ and _Dialogue_, but in _Narration_ we may be
+greatly more diffuse in our Descriptions than in the _Dialogue_ part of
+the Piece. For nothing in Poetry is to be preserv'd with more care than
+probability, especially in Pastoral. Now for a Shepherd to be relating
+an Accident of Concern, and to dwell on a Description of Place or Person
+for four or five Lines in the midst, does it not look as if 'twere only
+Verses written, and not a Tale actually told by the Swain, since in
+such a Case 'tis natural to hast to the main Point, and not to dwell so
+particularly on Matters of no Consideration.
+
+I might give several other Reasons for the shortness of Pastoral
+Descriptions, as that 'tis the manner of Shepherds not to dwell on one
+Matter so precisely, but to run from one thing to another; Also, that
+the Reader's Mind is delighted when it has scope to employ it self; and
+the like. But the clearness of the Question prevents me.
+
+
+SECT. 3.
+
+_What Pastoral Images will shine most in a Description_.
+
+We have just shown which Images are the finest; and 'tis evident that by
+an accumulation of the best Images is form'd the best Description. 'Tis
+not here my business particularly to show which Circumstances, in any
+Description, are best, which worst; 'tis enough, that in general We
+affirm the most Beautiful to be finest in Pastoral, and the most Sublime
+in Epick Poetry; which are most Beautiful, and which are most Sublime I
+have elsewhere shown.
+
+Yet there are several foreign Assistances or Adjuncts, which do greatly
+add to a beautiful Circumstance; as for Instance; if along with
+a beautiful Image, we by any means show at once the Happiness and
+Innocence of the rural Inhabiters, it renders the Circumstance greatly
+more delightful. This can't so well be explain'd as by an Instance.
+_Ovid_ describes _PROSERPINA_, as she is gathering Flowers in a Meadow
+among her Play-Fellows, hurried away by _PLUTO_, in order to her
+Ravishment. Among the Misfortunes, which that Violence brought upon the
+Innocent young Creature, this is one;
+
+  _And oh, out Lap the pretty florets fell_.
+
+There is no Circumstance in any Author, nor any one will be ever
+invented, more proper for Pastoral than this Line: As it contains not
+only a most beautiful Image, but show's us at once the Simplicity,
+and Happiness of the Country, where even such Accidents are accounted
+Misfortunes.
+
+But this is a Circumstance that would but just bear the touching upon;
+and _Ovid_ by his two next Lines, has, I think, spoil'd it. In Mr.
+_SEWEL_'s Translation they run thus.
+
+  _Oft on her_ Mates, _oft on her Mother call's,
+  And from her Lap her fragrant Treasure fall's;
+  And she (such Innocence in Youth remains)
+  Of that small Loss, among the rest, complains_.
+
+If he had stopt with the second Line he had put himself, as 'twere, in
+the place of a Shepherd, and spoke of the Misfortune as if it came from
+his Heart, and he was interested for the Beauteous Innocent. But in the
+two last Lines he takes upon him the Author, is grave and reflecting;
+but nothing is so Beautiful in these kind of Descriptions, as for a
+Writer to put himself as 'twere in the Place of the Person he speaks
+of; and unless a Writer delights to do this, and takes Pleasure in his
+Characters, and has, as 'twere, a Love and Kindness for 'em, he'll
+never excell in Pastoral. And I have been told, Cubbin, by some of your
+Acquaintance, that they can easily tell what sort of Characters you were
+fondest of when your wrote your Pastorals; for there is one you never
+mention but with an unusual Pleasure and Alacrity; and it appear's from
+your Description of her that your Heart was on the flutter when you drew
+it. And if you read it over now, so long after, you'll observe it. But
+it has made you excell your self.
+
+
+SECT. 4.
+
+_Cautions for the avoiding some Faults which_ Theocritus, Ovid, Spencer,
+Tasso, &c. have fallen into in their Descriptions_.
+
+The generality of our narrative Poets under their general Descriptions,
+bring in the Descriptions of particular and lesser Things. This is very
+faulty. I might Instance In _OVID_, _SPENCER_, _CHAUCER_, &c, but there
+is an Example of this so very flagrant in _TASSO_, that I can't forbear
+mentioning it, as I think 'tis the most monstrous one I ever saw, and
+these Observations relate alike to Epick Poetry and Pastoral. This
+Author has occasion in the Thirteenth Book of his Hierusalem to describe
+a Drought, which he does In Six and Fifty Lines, and then least we might
+mistake what he's describing tell's us in Eight Lines more, how the
+Soldiers panted and languished thro' excessive Heat, then in Eight more
+describes the Horses panting and languishing; then in Eight more gives
+us a Description of the Dogs, who lay before the Tents also panting and
+languishing, and so on.
+
+This is what I mean by bringing one Description within another; and 'tis
+the greatest of Faults. We lose all thoughts of the general Description,
+and are so engaged in Under-ones, that we have forgot what he at first
+propos'd to describe.
+
+Another Observation I would make, is, that a Pastoral Writer should be
+particularly careful not to proceed too far, or dwell too minutely on
+Circumstances, in his most pleasurable Descriptions, which we may term
+the Luscious. Such as _Spencer_'s, where he makes his Knight lye loll'd
+in Pleasures, and Damsels stripping themselves and dancing around for
+his Diversion. This, _SPENCER_ methinks carries to an excess; for he
+describes 'em catching his Breath as it steam'd forth; distilling the
+Sugar'd Liquor between his Lips, and the like. Such Descriptions will
+grow fulsome if more than just touch'd, as the most delicious things the
+soonest cloy.
+
+
+
+
+CHAP. IV.
+
+_That Pastoral should Image almost every thing_.
+
+
+There is nothing more recommends the Tragedys of Mr. _Row_, than his
+Language, which I think is (in it's own Nature) particularly Beautiful.
+
+As I cannot forbear looking into the Springs and Means by which our best
+Poets attain their Excellence in the several Dialects they touch the
+finest, what 'tis that constitutes the Difference between the Language
+of one and that of another; and also what Rank or Class each Dialect
+belongs to; I have done the same as to the Writings of Mr. _Row_. And
+I observe that the chiefest Means he makes use of to render his Tragick
+Language at once Uncommon and Delightful, is the Figurative Way of
+considering Things as Persons. What I mean is this.
+
+                                       ----_Comfort
+  Dispels the sullen Shades with her sweet Influence_.
+
+And again:
+
+         ----_My wrongs will tear their Way,
+  And rush at once upon thee_.
+
+         Jane Shore: _Act_ 1.
+
+And this is extreamly frequent, especially in Jane Shore. And nothing
+can be more Beautiful in Heroick Language; and this Author has some
+Sentiments dress'd, by this Figurative Way, as finely as most of
+_Shakespear_'s; As this
+
+  _Care only wakes, and moping Pensiveness;
+  With Meagre, discontented Looks they sit,
+  And watch the wasting of the Mid-night Taper_.
+
+Now what is this but imaging almost every thing, or turning as many
+Thoughts as possible into Images?
+
+Now if the Thoughts in strong Lines, (as they call 'em) appear best in
+Imagery, how much more will Pastoral Thoughts. The former have Passion
+and Heat to support 'em, the latter are entirely Simple. And If Heroick
+Writers are fond of Images, how much more should Pastoral Writers avoid
+a long Series of bare Thoughts, and endeavour to Address the Mind of the
+Reader with a constant Variety of Pictures.
+
+What I have here delivered may seem trifling to the Reader. But if he
+looks into the modern Pastoral-Writers he'll observe that the Scarcity
+of Images goes a great way towards making their Pieces flat and insipid.
+And 'tis impossible indeed to have a sufficient Variety of Images in a
+Pastoral that is compos'd by nought but a mournful Speech or Complaint.
+Therefore a Writer who would not only write regular, but also delightful
+Pastorals, should doubtless run very much upon Description.
+
+I need not make the Distinction between an Epick and a Pastoral Writer's
+manner of Imaging. They are widely different; nor can a Pastoral Image
+so many Things as an Epick Writer. For he cannot consider Things as
+Persons, nor use the other Methods that Heroick Poetry takes to effect
+it.
+
+
+
+
+CHAP. V.
+
+_Of the Thoughts. And which are proper for Pastoral, which not_.
+
+
+I Shall not consider those Thoughts which are, in their own Nature,
+Vicious; as the Ambiguous, the Pointed, the Insipid, the Refined,
+the Bombast, and the rest. But of those Kind of Thoughts which are
+in themselves good, only these three do properly belong to Pastoral;
+namely, The Agreeable, or Joyous; The Mournful, or Piteous; And the Soft
+or Tender.
+
+Yet the rest of those Thoughts which are in their own Nature good,
+may be so order'd as to bear a part in Pastoral. For as We may make a
+Shepherd false to his Mistress, if he be offended with the Levity of his
+Nature; so We may make a Lass Ill-natured and Satyrical, for Instance,
+if 'tis not in her Temper, but assumed only for a good Purpose.
+
+
+SECT. 2.
+
+_Of those Thoughts which are proper for Pastoral, how to Judge which are
+finest_.
+
+I need only observe, that where is the greatest Combination of those
+things which make the best Figure in Pastoral, that is always the best
+Thought. As a Thought that is not only agreeable or Beautiful, but has
+also Simplicity. The two finest Passages that I remember in _THEOCRITUS_
+for their Simplicity, are these. Which are exceeding well Translated
+by _CREECH_; whose Language (next to some of _Spencer's_) is vastly the
+best we have, for pastoral. I will quote the whole Passage.
+
+  Daph.) _And as I drove my Herd, a lovely Maid
+         Stood peeping from a Cave; she smil'd, and said,
+         Daphnis is lovely, ah! a lovely Youth;
+         What Smiles, what Graces sit upon his Mouth!
+         I made no sharp Returns, but hung my Head
+         And went my Way, yet pleas'd with what she said_.
+
+         Idyll. 8.
+
+Of the same Nature is what _COMATAS_ says in another Place.
+
+  Com.) _I milk two Goats; a Maid in yonder Plain
+        Lookt on, and Sigh'd_, Dost milk thy self poor Swain!
+
+And what follows soon after.
+
+  Com.) _The fair Calistria, as my Goats I drove,
+        With Apples pelts me, and still murmurs Love_.
+
+        Idyll. 5.
+
+Tho' these Thoughts are so exceeding Beautiful thro' their Simplicity,
+I rather take 'em to be Agreeable Thoughts; and Simplicity to be only an
+Adjunct or Addition to 'em; as Passion is an Addition and Embellishment
+to the Sublime Thoughts.
+
+The Mournful Thought, with the Addition of Simplicity, is as pleasing, I
+think, as the Agreeable with Simplicity. The finest of this kind that I
+remember in _THEOCRITUS_, are in his 22 _Idyll_. A Shepherd resolves to
+Hang himself, being scorn'd by the Fair he ador'd. For the more he was
+frown'd upon the more he loved.
+
+  _But when o'recome, he could endure no more,
+  He came and wept before the hated Dora;
+  He wept and pin'd, he hung the sickly Head,
+  The Threshold kist, and thus at last he said_.
+
+Many Thoughts In the Complaint are as fine as this. As, of the following
+Lines, the 3d and 4th.
+
+  _Unworthy of my Love, this Rope receive.
+  The last, most welcome Present I can give.
+  I'll never vex thee more. I'll cease to woe.
+  And whether you condemned, freely go;
+  Where dismal Shades and dark_ Oblivion _dwell_.
+
+Of the same Nature also is what soon after follows.
+
+  _Yet grant one Kindness and I ask no more;
+  When you shall see me hanging at the Door.
+  Do not go proudly by, forbear to smile.
+  But stay,_ Sweet Fair, _and gaze, and weep a while;
+  Then take me down, and whilst some Tears are shed,
+  Thine own soft Garment o're my Body spread.
+  And grant One Kiss,--One Kiss when I am dead.
+  Then dig a Grave, there let my Love be laid;
+  And when you part, say thrice,_ My friend is Dead.
+
+All these Thoughts contain Simplicity as an Addition to the Mournful.
+And 'tis impossible for any Thoughts to be more Natural.
+
+'Twere endless to enumerate all the several kinds of Beautiful Pastoral
+Thoughts, but from these any one may discover the rest; and the general
+Rule we gave at the beginning of the Chapter will be a Direction for his
+ranging them into distinct Classes.
+
+Yet give me leave to mention one Kind, which I think we may term the
+finest. 'Tis where the Agreeable Thought, and the Tender, meet together,
+and have besides, the Addition of Simplicity. I would explain my Meaning
+by a Quotation out of some Pastoral Writer, but I am at a loss how to
+do it; give me leave therefore to bring a Passage out of the Orphan. A
+Thought may contain the Tender, either with regard to some Person spoken
+of, or the Person speaking. The first is common, this Play is full
+of it. I will therefore Instance in the latter. And first where 'tis
+chiefly occasion'd by the turn that is given to it in the Expression.
+Chamont presses his Sister to tell him who has abused her.
+
+  Mon.)   _But when I've told you, will you keep your Fury
+          Within it's bound? Will you not do some rash
+          And horrid Mischief? for indeed_, Shamont,
+          _You would not think how hardly I've been used
+          From a near Friend_.
+
+  Cham.)  _I will be calm; but has_ Castalio _wrong'd thee?_
+
+  Mon.)   _Oh! could you think it!_  (Cham.)  _What?_
+
+  Mon.)   _I fear he'll kill me_.    (Cham.)  _Hah!_
+
+  Mon.)   _Indeed I do; he's strangely cruel too me.
+          Which if it lasts, I'm sure must break my Heart_.
+
+          Act. 4.
+
+In the other passage the Tender lyes more in the Thought.
+
+  Mon.)  _Alas my Brother!
+         What have I done? And why do you abuse me?
+         My Heart quakes in me; in your settled Face
+         And clouded Brow methink's I see my Fate;
+         You will not kill me!_
+
+  Cham.) _Prithee, why dost talk so?_
+
+  Mon.)  _Look kindly on me then, I cannot bear
+         Severity; it daunts and does amaze me.
+         My Heart's so tender, should you charge me rough.
+         I should but Weep, and Answer you with Sobing.
+         But use me gently, like a loving Brother,
+         And search thro' all the Secrets of my Soul_.
+
+
+
+
+CHAP. VI.
+
+_Of three Kind of Thoughts which seem to be false, yet are admitted and
+valued by Pastoral Writers_.
+
+
+Tho' I proposed not to consider those Thoughts which are false, either
+in their own Nature, or with Respect to Pastoral; yet there are some
+such, that yet are thought good, by the generality of Writers, which I
+shall therefore Just mention; since Pastoral-Writers are especially fond
+of 'em, and seem to look upon 'em as Beautys. Of these false Thoughts
+there are, I think, three sorts. The EMBLEMATICAL, the ALLEGORICAL, and
+the REFINED.
+
+Of the first Sort, or the EMBLEMATICAL, _SPENCER_ was so fond, that he
+makes it run all thro' his first and last Pastoral; which two come
+the nearest of any he has to true Pastorals; and contain Thoughts more
+pleasant than those in his other (especially his Allegorical) Pieces.
+But these pleasant Thoughts are mostly Emblematical, as this, which I
+think, is in SPENCER.
+
+  _My Leaf is dry'd, my Summer Season's done,
+  And Winter, blasting Blossoms, hieth on_.
+
+Meaning that his happy time of Life was past, and Old Age drew on. I
+need not prove these Thoughts to be improper for Pastoral.
+
+The Second Sort, or the ALLEGORICAL, is also what _SPENCER_ delighted
+equally in. His every Pastoral almost has under the plain Meaning a
+hidden one. Let all judge of Allegorical Pastorals as they please, but
+in my Opinion, they are not consistent with the Simplicity of that Poem.
+
+The Third Sort I mention'd was the _REFINED_. And of this our Modern
+Swains are as fond, as _SPENCER_ was of the two first. But all the
+Difficulty is to show that their Thoughts are refin'd; for all allow a
+Refin'd Thought to be faulty. But those I am going to mention are not
+at present look't upon as such. As that Apostrophe, where the Shepherd
+calls upon the Works of Nature to assist him in his Grief. This Thought
+being us'd by all Pastoral-Writers show's how Beautiful they thought it:
+And the generality of them, 'tis plain, took delight in the Affectation
+of it, because they have put it as affected as they could.
+
+If 'tis possible for any, the finest Turn, that can be given it, to
+prevent the Affectation, I think the Ingenious Mr. _ROW_ has done it, in
+his excellent Tragedy, call'd _JANE SHORE_.
+
+  _Give me your Drops, Ye soft-descending Rains,
+  Give me your Streams, Ye never-ceasing Springs, &c_.
+
+But the very best Turn, methinks, that can possibly be given to this
+Thought, Mr. _PHILIPS_, in his Pastorals, has hit upon.
+
+  _Teach me to grieve, with bleating Moan, my Sheep,
+  Teach me, thou ever-flowing Stream, to weep;
+  Teach me, ye faint, ye hollow Winds, to sigh,
+  And let my Sorrows teach me how to dye_.
+
+The Thought likewise of the Heavens and the Works of Nature wailing
+along with the Swain, is what Pastoral-Writers all aim at. I need not
+quote different Authors, for the different Turns that are given to this
+Thought; I remember Mr. _CONGREVE_ has it in four several Places. The
+best express'd, I think, is this.
+
+  _The Rocks can Melt, and Air in Mists can mourn,
+  And Floods can weep, and winds to Sighs can turn, &c_.
+
+It seem's to be turn'd the best next in these Lines.
+
+  _And now the Winds, which had so long been still,
+  Began the swelling Air, with Sighs to fill, &c_.
+
+The Affectation of the Thought show's it self rather more, I think, in
+the following Lines.
+
+  _And see, the Heav'ns to weep in Dew prepare.
+  And heavy Mists obscure the burd'ned Air
+  On ev'ry Tree the Blossoms turn to Tears,
+  And every Bough a weeping Moisture bears_.
+
+But give me leave to quote the Thought once more and I have done.
+
+  _The Marble Weep's, and with a silent Pace,
+  It's trickling Tears distil upon her Face.
+  Falsely ye weep, ye Rocks, and falsely Mourn!
+  For never will ye let the Nymph return!_
+
+If any should have a Curiosity to see these Thoughts at large, for
+we have not quoted the whole of 'em, he may find 'em in _Congreve_'s
+Pastoral, call'd _The Mourning Muse of_ ALEXIS.
+
+I shall trouble you with but one Thought more of those which we reduce
+under the Denomination of Refin'd, and that is the ANTITHESIS. I do not
+just now remember a Line of this Nature in any Author but Mr. _PHILIPS_;
+otherwise, I avoid hinting at particular Faults in a Writer who is
+generally regular and correct, in his Sentiments.
+
+  _In vain thou seek'st the Cov'rings of the Grove,
+  In the cool Shades to sing the Heats of Love_.
+
+
+SECT. 2.
+
+_Of_ SIMPLE THOUGHTS. _And the finest quoted out of_ SHAKESPEAR _and_
+PHILIPS.
+
+'Twould be well if Pastoral-Writers would leave aiming at such Thoughts
+as these, and endeavour to introduce the Simple Ones in their stead.
+But what is most surprizing, is, that their false Thoughts are as seldom
+their own, as their true ones, and they steal all indifferently from
+_THEOCRITUS_ and _VIRGIL_. Which shows how necessary it is to be a
+thorough Critick, if you would be a good Poet.
+
+Pastoral-Writers are sufficiently for Simplicity; nay so much, that
+they form their Storys or Fables so little and triffling as to afford
+no Pleasure; is it not strange then that they should be so averse to
+Simplicity in their Thoughts; where Simplicity would be the greatest
+Beauty in their Poetry? Pastoral-Writers have all sorts of false
+Thoughts but those which we may call the Too Simple. I do not indeed
+know any Author who has such a Thought unless it be our wide-thoughted
+_SHAKESPEAR_. And indeed 'tis scarce possible to rise to Simplicity
+enough, in Pastoral, much less to have a Thought too Simple.
+_SHAKESPEAR_'s is this.
+
+  Des.) _Mine Eyes do itch, doth that boad Weeping?_
+
+  Emil.) _'Tis neither here nor there_.
+
+  Des.) _I have heard it said so: O these Men, these Men!
+        Dost thou in Conscience think, tell me_ Emilia,
+        _That there be Women do abuse their Husbands,
+        In such gross kind_? &c.
+
+        Othello. Act. 4. Sc. last.
+
+But if this passage is too Simple, 'tis for Tragedy so, not for
+Pastoral; and because _DESDEMONA_ was a Senators Daughter, and Educated
+in so polite a place as _VENICE_; but in Pastoral, I think, we may
+Introduce a Character so Young, Simple and Innocent, that there is no
+Thought so Simple but will square with it; at least, we have no Instance
+of any such one as yet. The Simplicity of this Scene would be inimitable
+for Pastoral; and I think, it shows as great if not a greater Genius,
+in the Writing it, than any one in _SHAKESPEAR_. But a Scene so truly
+Simple and Innocent cannot well be represented. Besides, what is best
+writ is most open to the Ridicule of little Genius's; And more, I doubt,
+look upon this Scene in _OTHELLO_ as Comedy, than have a taste of that
+sweet Simplicity, that is in it, if we consider the Sentiments only in
+themselves.
+
+Yet must we not carry the Reflection too far, of Pastoral-Writers having
+no such thing as the Simple in any of their Thoughts, for there
+are passages in Mr. _PHILIPS Pieces_ truly Simple. And 'tis worthy
+Observation how beautiful a figure they make, tho' we don't consider
+'em as being in a Pastoral. Such is the celebrated one, contain'd in the
+last of these Lines.
+
+  _I smooth'd her Coats, and stole a silent Kiss:
+  Condemn me Shepherds if I did amiss_.
+
+  _Phllips Past_. 6.
+
+But we have greatly more Simple Thoughts in other Pieces than in
+Pastorals. The finest of all which, is this famous one in _OTHELLO_.
+
+  _Why I should fear I know not,
+  Since Guiltiness I know not: But yet I feel I fear_.
+
+Yet need we not much wonder at the scarcity of these Simple Thoughts;
+since there is nothing requires so great a Genius as finely to touch
+the SIMPLE; and the greatest Genius's never attempt Pastoral; it being
+a Form so mean, little and trifling, without the Ornaments of Poetry,
+FABLE, MANNERS, MORAL, &c. and of a confused Imperfect Nature.
+
+
+
+
+CHAP. VII.
+
+_Of COMPARISONS in Pastoral. And how much our modern Pastoral-Writers
+have fail'd therein_.
+
+
+SIMILIES in Pastoral must be managed with an exceeding deal of Care, or
+they will be faulty. As a Poet may range Nature for Comparisons; this
+gives a Pastoral-Writer a very easy Opportunity of introducing rural
+Thoughts. _VIRGIL_ therefore, and those Swains who have written
+Pastorals more by Art and Imitation than Genius, generally heap three
+or four SIMILIES together for the same thing; and which is of no Moment;
+nor wanted any Comparison.
+
+As I have hinted that _Theocritus_ had a Genius capable of writing a
+perfect Set of Pastorals, his Similies are infinitely the best of any
+Swain's. The chief Rule, I think, to be observ'd is (if Rules can be
+given for such Things as these) that SIMILIES be contain'd in three or
+four Words. As this of _PHILIPS_'s.
+
+  _Whilon did I, all as this_ Pop'lar _fair,
+  Up-raise my heedless Head devoid of Care_, &c.
+
+Or at most they ahould not exceed a Line. As this is a very Beautiful
+one In the same Author. And also in his 1st Pastoral.
+
+  _A Girland, deck't with all the Pride of_ May,
+  _Sweet as her Breath, and as her Beauty gay_, &c.
+
+I shall not give my Opinion of the following Similies; yet I might say
+that I think 'em not altogether so fine as the foregoing two. Altho'
+they contain delightful Images
+
+  _As Milk-white Swans on Silver Streams do show,
+  And Silver Streams to grace the Meadows flow;
+  As Corn the Vales and Trees the Hills adorn,
+  So thou to thine an Ornament was't born_.
+
+  _Past_. 3.
+
+The next relates to the Sweetness of _Colinet_'s Voice.
+
+  _Not half so sweet are Midnight Winds, that move
+  In drowsy Murmurs o're the waving Grove;
+  Nor dropping Waters, that in Grotts distil,
+  And with a tinkling Sound their Caverns fill_.
+
+  _Past_. 4.
+
+Methinks thus dressing a Thought so pompous in SIMILIES, raises so our
+Expectation, that we are fit to smile when the last Line comes.
+
+There are also another kind of Similies, which being heapt in the same
+manner, seem to be design'd by _VIRGIL_, and those who have taken their
+Thoughts from him, rather to fill up Space with somthing Pastoral, than
+to be the natural Talk of Shepherds. For Swains are not suppos'd to
+retard their Storys by many or long SIMILIES; their Talk comes from the
+Heart, Unornamental; but Similies, in Pastoral, are for Ornament. But I
+must show what kind of Thoughts I mean, which I also account SIMILIES,
+but they have a peculiar Turn given to 'em. I remember but two in Mr.
+_PHILIPS_ Pastorals.
+
+  _First then shall lightsome Birds forget to fly,
+  The briny Ocean turn to pastures dry,
+  And every rapid River cease to flow,
+  'Ere I unmindful of_ Menalcas _grow_.
+
+The other is this.
+
+  _While Mallow Kids; and Endive Lambs pursue;
+  While Bees love Thyme; and Locusts sip the Dew;_
+  _While Birds delight in Woods their Notes to strain,
+  Thy Name and sweet Memorial shall remain_.
+
+But now I have given Examples of those Similies which seem faulty; and
+quoted at the beginning of the Section, some that are good; I will bring
+an Instance of a SIMILIE, which is more delightful to the Fancy than all
+these put together; and which show's that _Theocritus_ thought 'twas a
+small thing to put down Pastoral Thoughts or Images, if he did not cull
+the most pleasurable in Nature. _CREECH_ has translated it very well.
+_DAPHNIS_ had conquer'd _MENALCAS_ in Singing.
+
+  _The Boy rejoyc'd, he leap'd with youthful Heat,
+  As sucking Colts leap when they swig the Teat;
+  The other griev'd, he hung his bashful Head,
+  As marry'd Virgins when first laid in Bed_.
+
+
+
+
+CHAP. VIII.
+
+_Of imitation; or Stealing Sentiments from the_ ANTIENTS.
+
+
+If a direct Imitation of the Thoughts of the _Greeks_ and _Romans_,
+shows no great Richness of Genius, in any kind of Poetry, in Pastoral
+'tis much more to be avoided. If a Hero does sometimes talk out _HOMER_
+and _VIRGIL_, 'tis not so shocking, because tis not dissonant to Reason
+to suppose such a Person acquainted with Letters and Authors; nor is an
+Heroick Poems Essence Simplicity; But if a Modern gives me the Talk of a
+Shepherd, and I have seen it almost all before in _THEOCRITUS_, _VIRGIL_
+and _SPENCER_, it cannot delight me. For that Poetry pleases the most,
+that deceives the most naturally. But how can I, while I am reading a
+pastoral, impose upon my self that I am among Swains and in the Country,
+if I remember all they say is in _Greek_ and _Roman_ Authors. And few
+read _Modern-Writers_ but have read the _Antients_ first. A Shepherd
+should speak from his Heart, as if he had no design of Pleasing, but
+is prompted to utter all he says: But if in all he says we see an
+Imitation, or a Thought stole from other Authors, it destroys all
+Simplicity, shows Design and Labour.
+
+Besides, Epick Poetry warms and elevates the Mind, hurries it on with
+fury and Violence, which prevents our noting any slight Inacuracy, so as
+to be offended by it; but in so cool a Poem as Pastoral, whose design
+is to sooth and soften the Mind, we have leasure to consider every
+Unnaturalness and every Improbability.
+
+
+SECT. 2.
+
+_Of_ Soloman'_s Allegorical pastorals; Entitled_ The CANTICLES.
+
+Yet I know not how, tho' 'tis so unnatural to find Thoughts in the
+Mouths of Shepherds, which we have observ'd in _THEOCRITUS_ and
+_VIRGIL_, yet I am never better pleased than with those Thoughts which
+are taken out of the Scripture. Methinks the Thoughts in the CANTICLES
+are so exceeding fine for Pastoral that 'tis pity to give 'em any other
+Turn than what they have there; and if I did take any of those Pastoral
+Sentiments, I would translate the whole Passage as we there find it.
+
+_MILTON_ in his soft Passages has often imitated the Thoughts in the
+CANTICLES; and Mr. _PHILIPS_ has taken from thence the hint of the
+finest Image but one he has in his Pastorals.
+
+  _Breath soft ye Winds, ye Waters gently flow,
+  Shield her ye Trees, ye Flow'rs around her grow,
+  Ye Swains, I beg ye pass in silence by,
+  My Love in yonder Vale asleep doth lye_.
+
+My not disliking Thoughts taken from the CANTICLES, makes me think that
+'tis not so much the Thoughts being stolen from _THEOCRITUS_ or _VIRGIL_
+that makes me dislike 'em, as the poor and mean Figure they make in
+Poetry. Could Poets take as fine Pastoral Images from the Antients, as
+this of _Philips_, I believe no one but would be pleased by 'em, come
+from whence they would. But the Thoughts which our Writers take from
+the Antients are such, that would they trust their own Genius's, I am
+satisfied they would, at least, not have worse, nor more false ones.
+
+I was a little surprized when I first read Mr. _Philips_'s _5th_
+Pastoral, (which has the most of a story or Fable of any) how he came
+to take the very story which _STRADA_ tell's to show what a Genius
+_CLAUDIAN_ had. _OVID_'s _Metamorphoses_ is full of such Fairy and
+Romantick Tales, and he might well enough have given a Description of a
+Bird's contending with a Man for the Prize in Singing, but methinks 'tis
+not wholly probable enough for a Fable in Pastoral.
+
+Now the Cause of my mentioning this in Mr. _PHILIPS_, is to persuade, if
+possible, those who shall hereafter engage in Pastoral-Writing to trust
+to their own Genius's. By that means we may hope Pastoral will, one
+Day, arrive at it's utmost Perfection, which if Writers pretend to go no
+farther than the first who undertook it (I mean _THEOCRITUS_) it never
+can do. For 'tis no one Genius that can bring any Kind of Poetry to it's
+greatest Compleatness. And all know by what slow Steps Epick Poetry,
+Tragedy, and Comedy arrived at the Perfection they now bear.
+
+
+SECT. _Last_.
+
+But now the time of Day drew on, when Cubbin must drive his Heifers to
+Water. Sophy therefore withdrew, but promised to be there in the Evening
+agen.
+
+When the Heat of the Day was over, and the Evening Air began to breath
+in a delightful manner, Sophy accordingly appear'd, and setting him on
+the Rushes, that esprouted up by the River side, open'd his Book, and
+proceeded in the following Manner.
+
+
+_The End of the Third part_.
+
+
+
+
+PART IV.
+
+
+
+
+CHAP. 1.
+
+_Of the Pastoral Language in general_.
+
+
+I must here premise, that I intend not here a full and compleat
+Discourse on the Pastoral Language; for that would take up a Volume. But
+I would recommend it to some other Hand; for I know nothing that would
+be more acceptable to the Letter'd World than an Enquiry into the Nature
+of the _English_ Language.
+
+But there is no Dialect or Part of our Language so little understood,
+as that which relates to Pastoral; nor none (not even the Sublime) so
+difficult to write. Of all who have attempted Pastoral in our Tongue, no
+one (but _SPENCER_) has gone so far as even the weakening and enervating
+their Dialect; yet after that is perform'd, a Pastoral-Writer has gone
+but half way; for after the Strength is taken away, a Tenderness and
+Simplicity of Expression must supply its Place, or else 'tis only bald
+and low, instead of Soft and Sweet.
+
+_Spencer_'s Language is what supports his Pastorals; for I can maintain,
+that he has not above one Sentiment in fifteen but is either false, or
+taken from the Antients, throughout his Pastorals. The greatest
+Defect in his Language is it's want of Softness. He has introduced a
+sufficient, or perhaps too great a Number, of Old-Words. But they are
+promiscuously used. He took not the Pains to form his Dialect before
+he wrote his Pastorals, by which means he has used more rough and harsh
+Old-Words, than Smooth and Agreeable Ones. They are used where our
+common Words were infinitely more Soft and Musical. As _What gar's thee
+Greet?_ For, _What makes thee Grieve?_ How Harsh and Grating is the
+Sound of _SPENCER_'s two Words, But Instances were endless. He is the
+more blamable, because there are full enough Old-Words to render a
+Dialect Rustick and Uncommon of the most sweet and delightful Sound
+imaginable. As _ween_ or _weet_, for _think_; _yclepen_, for _call'd_,
+and the like. These being so tender and soft, render the Language of
+Pastoral infinitely more tender also, than any common Words, now in use,
+can do.
+
+
+
+
+CHAP. II.
+
+_How to attain to the_ Soft _in Writing_.
+
+
+That a Shepherd should talk in a different Dialect from other People, is
+allow'd by all. That the Pastoral Language should be soft and agreeable
+is equally past dispute. The only remaining Question then is, what it is
+that composes such a Dialect, and how to attain it.
+
+In order to compose a Pastoral Dialect entirely perfect; the first
+thing, I think, a Writer has to do, is, as we said before, to enervate
+it and deprive it of all strength.
+
+As for the manner of enervating a Language, it must be perform'd by the
+Genius of the Poet, and not shown by a Critick. However when the Thing
+is done, 'tis not difficult to see what chiefly effected it. There are,
+I think, _Cubbin_, two Things that principally enervate your Language.
+
+_First_, 'Tis perform'd by throwing out all Words that are _Sonorous_
+and raise a _Verse_. Mr. _PHILIPS_ comes the nearest to a Pastoral
+Language of any English Swain but _Spencer_. And he has truly enervated
+his Language in four several Lines. One of which is the last of these
+two.
+
+  _Ye Swains, I beg ye pass in silence by;
+  My Love in yonder Vale asleep doth lye_.
+
+The Word Doth, is what enervates the last Line. But 'twould be still
+better enervated if Mr. _Philips_ had used only such Words as have very
+few Consonants in them. For by Consonants, joyn'd with the Vowel O, a
+Writer may render his Language, in Epick Poetry, just as Sonorous as he
+will; and by the want of Consonants and by delighting in the other soft
+Vowels he may render it weak. I cannot see that Mr. _PHILIPS_ has any
+Line where the Language is wholly enervated. But see how _Spencer_ has
+done this. Especially in the second of these Lines.
+
+  _The gentle Shepherd sate beside a Spring.
+  All in the Shadow of a Bushy Breer. &c_.
+
+In this last Line, there is but one Word end's with a Consonant, where
+the following Word begin's with one. But a Writer, who is perfectly
+Master of his Language, will be able to have every Line like this; and
+no Word more strong than Evening, Rivulet, and the like, will he be
+forc'd to use.
+
+_Secondly_, The Language is by nothing more weaken'd, than by the use of
+Monisyllables. This no one ever had the least Notion of but _Spencer_.
+Which I wonder has not been observed, 'tis so very palpable in him. What
+makes the finess of these Lines else?
+
+  _All as the Sheep such was the Shepherd's look,
+  For pale and wan he was (alas the while!)
+  May seem he lov'd, or also some Care he took,
+  Well could he tune his Pipe and form his Stile_.
+
+  Past. 1.
+
+Here is but two Words for four Lines, except Monosyllables.
+
+The best Lines in _PHILIPS_, for the Language, are these, where
+Monosyllables reign.
+
+       ..._Fine gain at length, I trow,
+  To hoard up to my self such deal of Woe!_
+
+And the last of these; for the first is rough thro' too many Consonants.
+
+  _A lewd Desire strange Lands and Swains to know:
+  Ah Gad! that ever I should covet Woe!_  Past. 2.
+
+There are other Methods, I see, Cubbin, you have taken to enervate your
+Language; too minute and too numerous to recite, but they are easily, I
+think, observ'd, if a Person peruses the Pastoral Writers with Care.
+
+When our Dialect is thus render'd weak and low, we must then add to
+it, (in order to render it as pleasant as a Dialect that is not low and
+mean) Simplicity, Softness and Rusticity. This is perform'd principally
+by these three things. By Old-Terms; by Turns of Words, and Phrazes; and
+by Compound Words. Of all which I shall crave leave to treat distinctly.
+And first of Ancient Terms.
+
+
+SECT. 2.
+
+_Of Old-Words_.
+
+When first I look'd into _Chaucer_. I thought him the most dry insipid
+Writer I ever saw. And there is indeed nothing very valuable in either
+his Images or Thoughts; but after a Person is accustom'd to his manner
+of Writing and his Stile, there is something of Simplicity in his Old
+Language, inimitably sweet and pleasing. If 'tis thus in _Chaucer_,
+in Pastoral such a Language is vastly more delightful. For we expect
+something very much out of the Way, when we come among Shepherds; and
+how can the Language of Shepherds be made to differ from that of other
+Persons, if they use not Old-Words?
+
+'Tis very remarkable that all our greatest Poets whose Works will
+live to Eternity, have introduced into their Language Old-Words; as
+_Shakespear_, _Spencer_, _Milton_. _Dryden_ also, whose Genius was much
+inferiour to those Writers; has used some few. And _Ben. Johnson_ (tho'
+he lived at the same time with _Shakespear, Spencer, &c_.) whose Genius
+was yet meaner than _Dryden_, has not one Old-Word.
+
+Ancient Terms were doubtless a great disadvantage, especially to
+_Spencer_, when his Works appear'd first in the World; but he had a Soul
+large enough to write rather for Posterity, than present Applause.
+He took so excessive a delight in the Old Language of his admired
+_Chaucer_, that he could not help, in some measure, imitating it.
+
+Our greatest Writers having all given into an Ancient Dialect, would
+almost encline us of the present Age, to think of making their
+Language a standing Language; for Queen _Elizabeth_'s Age is to us what
+_Augustus_'s was to the _Latins_; we must never hope to have so many
+noble Genius's adorn any one Age for the future; I might have said, any
+twenty Ages. Therefore if any _English_ Dialect survives to the
+World's End, 'twill certainly be theirs; and 'twill be prudence in any
+After-writer to draw his Language as near to theirs as possible; that if
+theirs are understood a thousand Years hence, his may too.
+
+But to leave the Consideration of Old-Words in Epick Poetry and Tragedy,
+let us proceed to Pastoral. There are several Advantages flow from the
+Use of Old-Words, but I have time to mention but two or three.
+
+There is a Spirit and a Liveliness of Expression to be preserv'd in
+Pastoral as well as other Poetry; now I affirm that 'tis impossible
+to perform this without Old-Words; unless a Writer make Shepherds talk
+Sublimely, and with Passion, as in Tragedies.
+
+Again, if a Writer has a Genius for Pastoral he will have some Thoughts
+occur so inimitably Simple, that they would appear ridiculous in the
+Common Language; and 'tis necessary that the Language should answer to
+the Thought. These are the finest Thoughts of all for pastoral.
+
+There are also several Thoughts which, tho' extreamly agreeable to
+the simple Innocence of young Country Girls, will appear too luscious,
+unless the Simplicity and Rusticity of the Speaker appear's, by the
+Old Language spoken. But we smile at a Thought in such simple Language,
+which perhaps we shall nauseate in a polite Dialect.
+
+But one of the greatest Advantages of Old-Words, is, that they afford
+the Writer so fine an Opportunity of rendring his Language most
+inimitably soft and smooth. This cannot be done by any other Means; and
+how proper soft and simple Language is to Pastoral (at least where
+the Characters are Young, Tender, and Innocent) I need not say. As for
+VIRGIL and those Pastoral Writers who seem not to aim at Simplicity
+in either their Characters or Sentiments, the using of Old-Words is
+entirely different with regard to them. To see a Sentiment, which would
+as well become any other Person as a Shepherd, dress'd in the Simplicity
+of an Ancient Dialect, would appear nothing but Affectation. We are
+used to see such Sentiments in another Dress. Nay, were their Thoughts
+Simple, 'twould not be agreeable for them to use Old-Words, unless the
+whole Turn of their Language was answerable to it; to have a common,
+ordinary Language, with Old-Words scatter'd through it, is a mixt
+confused Language, and what is very expressively named by our Word
+Hodge-podge. 'Tis not enough therefore, for the forming a pastoral
+Language to use Old-Words; a Writer must set down, and by true Pains and
+Industry constitute a Language entirely of a piece and consistant;
+in performing which the choicest Old-Words will be of some little
+Assistance.
+
+If I might advise you, Cubbin, I would have you always write Pastorals
+in either such a Language as this, entirely uniform and of a piece, or
+else to write in a strong polite Language. Never write any single thing
+in a low and mean Language. Polite Language is only faulty with respect
+to it's being in Pastoral; but low Language is in it's own Nature
+faulty. The first is only unnatural; the latter is stupid and dull.
+Therefore unless you resolve to go quite thro', never weaken or enervate
+your Pastoral Language at all. Unless you resolve to add Simplicity
+and Softness, to supply the place of Strength, never rob it of it's
+Strength. It had better have strength and Sprightliness and Politeness
+than Nothing.
+
+The best Way is that which Sir _Philip Sidney_ has taken, to suppose
+your Swains to live in the _Golden-Age_, and to be above the ordinary
+Degree of Shepherds, for Kings Sons and Daughters, were then of
+that Employ. And upon this Supposition to make 'em talk in a polite,
+delightful and refined Dialect. By this Means you will disable the
+Criticks at once.
+
+But perhaps some may expect that I should vindicate the Use of
+Old-Words, on my own Account. But for that Reason I am the more careless
+in touching the Subject; because I would leave the World to a free and
+unbias'd Judgment of what I have done. Nor is this an Age, indeed, to
+begin to vindicate Old-Words in. The Method has been approv'd of in all
+Ages even in Epick Poetry and Tragedy, and should we go now to defend it
+in Pastoral? A Friend indeed of _SPENCER_'s wrote a Vindication of his
+Old-Words, but had _SPENCER_ been living be would doubtless have been
+ashamed of it's appearing in the World. 'Tis the Opinion of the best
+Judges that the Old-Words used by Mr. _Row_, even In the Tragedy of
+_JANE SHORE_ are a great Beauty to that Piece. And those who have
+objected against _SALLUST_ for affecting Old-Words, have made nothing
+out. Tho' History is to deliver plainly Matters of Fact, and not to
+flourish, and beautify it's self with foreign Ornaments, as Poetry is.
+There are not so many disapprove of _SALLUST_'s Old-Words, as commend
+him for adding a Majesty and Solemness to his Writings thereby.
+
+I might add (were there occasion for vindicating Old-Words) that we
+have render'd our _English_ Language unexpressive and bare of Words, by
+throwing out several useful Old-Words; as _Freundina_ a _She-Friend_;
+_Theowin_ a _She-Servant_, &c. But as no one has shewn Old-Words to
+be faulty, for so many hundred Years, 'twould be folly to trouble the
+Reader with a Vindication of 'em, at this Day. The only Question is,
+whether an Author has chose the Softest and Finest; or has shown by his
+Choice the weakness of his Judgment.
+
+
+SECT. 3.
+
+_Of Compound Words_.
+
+Another thing which occasions Softness in the Pastoral Language, if
+rightly managed, is the use of Compound Words. But there is nothing
+requires a greater Genius than to form Beautiful Compound Words in Epick
+Poetry, or more Exactness and Labour in Pastoral. In Epick Poetry 'tis
+absurd to make a Compound Word, unless it helps forward the Sence; and
+in Pastory, it must add to the Softness of the Dialect, and in some
+measure assist the Thought, yet it need not do it so much as in Epick
+Poetry; where a Writer of Genius will form such Compound Words as will
+each contain as much as a whole Line. As may be seen in _Homer_, and
+the _Greek_ Poets, especially. Among the _English_, _Milton_'s are often
+very fine.
+
+  _Brandish'd aloft the horrid Edge came down,
+  Wide-wasting_.
+
+The Compound Words, in Pastory, must be so easy and natural, as scarce
+to be observ'd from the other Language. They must run easy and smooth,
+and glide off the Tongue, and that will occasion their not being
+observ'd in the reading.
+
+A Pastoral Writer will often be able, if he gives an Image in one
+Line, by a Compound Word in that Line to give another Image, or
+another Thought as full and as fine an one as that which the whole
+Line contains. But as this and the like Observations cannot be
+well understood without Instances quoted, I shall leave 'em to the
+Observation of those who intend to engage in Pastoral Writing; for that
+and nothing else, will put 'em upon a thorough Search into the Springs
+and Rules by which all former Pastoral Writers have excell'd.
+
+
+SECT. 4.
+
+_Of Turns of Words and Phrazes_.
+
+Another help to Softness, and the very greatest Beauty of all in the
+Pastoral Language, is, a handsome use of Phrazes. This must depend
+entirely on the Genius of the Writers, for there is no one Rule can be
+given for the attaining thereto. A Person who writes now may imitate
+_Ovid_ and _Spencer_ in this particular (if he can submit his Fancy
+to Imitation) and that is all the Assistance he can have. As for
+rural Phrazes, there are not above half a dozen in all the Counties or
+Dialects that I am acquainted with.
+
+All that we can do on this Head, is to leave the Reader to Observation.
+For I confess that I do not so much as know how I came by those few
+I myself have, farther than that by use and practising in an Uncommon
+Dialect, I happen'd on 'em at Unawares.
+
+However I may quote those which are the very finest of any in _Spencer_.
+Who is the only Writer in our Language that ever attempted tender
+Phrazes or Turns of Words. Yet there are two such Passages in _Creech_'s
+_Theocritus_, which I will also quote.
+
+  _All as the Sheep, such was the Shepherd's Look;
+  For pale and wan he was (alas the while!)_ &c.
+
+And again.
+
+  _Ye Gods of Love, who pity Lover's Pain.
+  (If any Gods the Pain of Lovers pity)_ &c.
+
+And again.
+
+  _A simple Shepherd Born in_ Arcady,
+  _Of gentlest Blood that ever Shepherd bore_, &c.
+
+Such beautiful Turns of Words as these are extremely scarce in
+_Spencer_; but he has not one but what is inimitably fine and natural.
+
+Let us now see the two Phrazes which _Creech_ has happen'd upon.
+Whose Language I have observ'd to be infinitely the best of any of our
+Pastoral writers, next to Spencer. This is one of them. A Shepherdess
+says to a persuading Swain.
+
+  _You will deceive, you Men are all Deceit;
+  And we so willing to believe the Cheat_.
+
+The other is this, to Diana; when she consents.
+
+  _I liv'd your Vot'ry, but no more can live_.
+
+
+
+
+CHAP. III.
+
+_The Tender in Pastory distinguish'd from that in Epick poetry or
+Tragedy_.
+
+
+'Tis strange to me that our Pastoral Writers should make no Distinction
+between their SOFT when they write Pastories, and when they write Epick
+Poetry. This in _Philips_ is the Epick Softness, or what we call the
+Beautiful sometimes in Epick Poetry in Opposition to the Sublime.
+
+  _Breath soft ye Winds, ye Waters gently flow;
+  Shield her ye Trees, ye Flow'rs around her grow_, &c.
+
+And this which also is the Sixth Pastory.
+
+  _Once_ Delia _lay, on easy Moss reclin'd,
+  Her lovely Limbs half bare, and rude the Wind_, &c.
+
+This also is of the same kind of SOFT.
+
+  _A Girland deckt in all the Pride of May,
+  Sweet as her Breath, and as her Beauty Gay_, &c.
+
+But Instances were endless. In Opposition to this kind of Soft, I shall
+quote out of _Spencer_ some Passages which have the truest Softness.
+For such that Author has, beyond any in the World, tho' perhaps not very
+often. He begins his last Pastory thus.
+
+  _A gentle Shepherd sate besides a Spring,
+  All in the shadow of a bushy Breer_, &c.
+
+And his first he begins thus.
+
+  _A Shepherd's Boy (no better do him call)_ &c.
+
+His Pastoral named _Colin Clout's come home_, begins thus.
+
+  _The Shepherd-boy (best known by that Name)
+  Who after TITYRUS first sang his Lay,
+  Lays of sweet Love, without Rebuke or Blow,
+  Sate, as his manner was, upon a Day_, &c.
+
+These Lines of _Spencer_ and those of _Philips_, both contain agreeable
+Images and Thoughts, yet are they as different as _Milton_ and
+_D'Urfey_.
+
+I shall only make one Observation on this difference. Namely, that in
+the soft and beautiful Lines of _Philips_, each Word, only signifies a
+soft and beautiful Idea; As _Breath, Waters, Flow, Gently, Soft_, &c.
+but in _Spencer_ the sound also is soft. Had such an Author dress'd this
+inimitable Thought of _Philips_, the Line would have glided as smooth
+and easy off the Tongue, as the Waters he mentions, do along the
+Meadows.
+
+
+SECT. II.
+
+_That no Language is so fit for Pastoral as the English_.
+
+I have before observed, that this softness is effected, among other
+things by little Words; yet I cannot help observing here, that our
+Language is infinitely the finest of any in the World for Pastoral, and
+it's abounding so much in little Words is one Reason of it. The Pomps
+and Stateliness of the Latin Lines could not have been made proper for
+Pastoral, unless entirely alter'd, and 'tis not likely that a Genius
+daring enough to do that would engage in Pastoral.
+
+The _Romans_ had not a Particle, as we have, before their
+_Substantives_; As _A_ and _The Tree_. Seldom used a Word before the
+Verbs; as _He goes_, _They go_. Nor had they our _Doth_ and _Does_;
+without which no _Englishman_ could form a Pastoral Language. As the
+sweet Simplicity of that Line, I have just quoted, is occasion'd by
+nothing else.
+
+  _A Shepherd-boy (no better do him call_.)
+
+The _Greek_ Language was greatly more fit for Pastoral than the _Latin_.
+Among other Reasons, because the former had so many Particles; and could
+render their Language uncommon, by their different Dialects, and by
+their various Methods of changing, and of compounding Words. Which no
+Language will admit of in an equal degree, besides the _English_. But
+then the _Greek_ Language is too sonorous for Pastoral. Give me leave to
+show the inimitable softness and sweetness of the _English_ Tongue, only
+by instancing in one Word. Which will also show how copious a Language
+ours is. I know but three Words the _Greeks_ had to express the Word Lad
+or Swain by: [Greek: Agrikôs, Poimruos; and Bôkolos]; and how sonorous
+are they all. We have six; Swain, Boy, Shepherd, Youth, Stripling, Lad;
+and how inimitably soft is the sound of 'em all.
+
+_Theocritus_ has more Turns of Words or Phrazes than _Spencer_; yet he
+could in none of 'em come up to _Spencer_'s smoothness and simplicity
+in his Numbers. As I quoted only the Phrazes of my Country-men In the
+Chapter on that Head; I will here put down the finest in Theocritus,
+tho' I cannot say indeed that he has any but in his first Pastoral.
+
+[Greek: Archete boukolikas Moisai philai harchet haoithas. Thursis hod
+hôx Ahitnas, kai Thursidos adea phôna. Pa pok had êsth, oka Daphnis
+etaketo, pa poka Numphai;]
+
+The finest of these Lines (and the softest but one that I remember thro'
+all his Pieces) is the middle one; it is most incorrigibly translated
+by _Creech_: tho' I blame him not for it, because of the difficulty of
+inventing fine Phrazes, much more of translating those of other Men,
+into Rhime; for which Reason _Creech_ has not attempted to give us any
+of _Theocritus_'s Turns of Words.
+
+
+
+
+CHAP. IV.
+
+_That there may be several sorts of Pastorals_.
+
+
+To conclude this Essay, as there are Tempers and Genius's of all sorts,
+so perhaps it may not be amiss to allow Writings of all sorts too. I
+think every Person's Aim should be to be subserving as much as possible,
+to the Delight and Amusement of his Fellow-Creatures. And if any can
+take pleasure in what is really not pleasant, 'tis pity, methinks, to
+rob 'em of it. Yet if there is in nature a Method which pursued will be
+still more delightful, the Critick is to be observed who points out the
+Way thereto.
+
+If any of my Countrymen therefore can take delight from reading the
+Pastorals of _Theocritus_ and _Virgil_, or any of those who have
+imitated those two Ancients, I shall be ready to allow that there may
+be several sorts of Pastorals. 'Tis certain that _Milton_ and _Homer_,
+(thro' the Scene of the Former lying about the Sphere of Men) are as
+different as _East_ from _West_, yet both excellent. Tragedy has
+as different sorts as Epick-Poetry; Nor are _Julius Caesar_ and the
+_Orphan_ of the same Nature. The same difference in Tragedy, is between
+all those, whose Chief CHARACTER is a Hero, and those that draw a
+Female, as _Jane Shore_, the Lady _Jane Gray_, _and the like_, are to me
+entirely different from _Shakespear's_, not respecting the Excellency of
+'em. _Shakespear_ having a Genius made for the Sublime, and perhaps Mr.
+_Row_ rather for the Soft and Tender; as appears in two Passages at the
+End of _JANE SHORE_. Which in my Judgment are not much excell'd by even
+_Otway_ himself.
+
+Since I have mention'd that Author, I can't help remarking how difficult
+a thing it is for any Person to know what his own Genius is fittest for;
+and how great a Chance it is whether ever a Writer comes to know it.
+Tho' _Otway_ had so fine a Genius for the TENDER, it never appear'd till
+a little before he dyed. Thro' all his Plays we cannot trace even
+the least Glimpse of it, till his two last, _The Orphan_ and _Venice
+Preserv'd_. But we run the Digression too far.
+
+
+SECT. 2.
+
+_What Kind of Pastorals would please most Universally; and delight the
+greatest Number of Readers_.
+
+For my own Part, as I said, I could be delighted with any Kind of
+Pastoral, if the Writer would but be at the Pains of selecting the
+most beautiful Images, and tenderest Thoughts. This is the first and
+principal Matter. Yet this might be perform'd by a moderate Capacity,
+without a Genius born for Tragedy.
+
+Would a Person but form a delightful Story, invent new and uncommon and
+pleasing Characters, and furnish his Mind with a small Number of fine
+Images from the Country, before he sate down to write his Pieces, He
+would not fail of Success. But if Writers will only put down a parcel
+of common triffling Thoughts from _Theocritus_ and _Virgil_, nor will so
+much as aim at any thing themselves, can you blame me Cubbin, if I throw
+'em aside. Let 'em have a thousand Faults, I can be pleas'd by 'em,
+if they have but Beauties with 'em; nor will you ever hear me blame
+_Shakespear_ for his Irregularity. And Pastoral is delightful to me in
+it's own Nature, that were these Authors to employ but my Mind in any
+manner, I should have Patience to peruse 'em.
+
+But if these Authors were unwilling to be at the Pains of forming a
+pleasant Story themselves, they might go upon little Tales already
+known, such as, _The Two Children in the Wood_, and a thousand others
+inimitably pretty and delightful.
+
+And had we a Set of such Pastorals as these, I am satisfied they would
+take extreamly. More Cubbin, perhaps than yours ever will; because
+perfect Pastories are directed only to Persons of Reading and Judgment.
+But you cannot I suppose satisfie your own Mind, unless you write up to
+what you judge the Standard of Perfection in every sort of Writing.
+
+_FINIS_.
+
+
+
+
+_Notes on the Text_.
+
+
+It was impractical to issue Purney's _Enquiry_ in facsimile because
+of the blurred condition of the photostats. This reprint follows the
+original text faithfully, with the following exceptions: the long
+"s" and the double "v" are modernized; small capitals, which appear
+frequently in the 1717 version, are reduced to lower-case letters; a few
+very slight typographical errors have been silently corrected. On page
+40, line 1, _thoroughly_ reads _throughly_ in the original; and the
+three lines of Greek on p. 70, somewhat garbled in the original, are
+given in corrected form.
+
+
+
+
+
+    ANNOUNCING
+
+       THE
+   Publications
+
+        OF
+   THE AUGUSTAN
+  REPRINT SOCIETY
+
+  _General Editors_
+
+  RICHARD C. BOYS
+  EDWARD NILES HOOKER
+  H.T. SWEDENBERG, JR.
+
+
+
+
+_THE AUGUSTAN REPRINT SOCIETY_ MAKES AVAILABLE _Inexpensive Reprints
+of Rare Materials_ FROM ENGLISH LITERATURE OF THE SEVENTEENTH AND
+EIGHTEENTH CENTURIES
+
+    Students, scholars, and bibliographers of literature, history,
+    and philology will find the publications valuable. _The
+    Johnsonian News Letter_ has said of them: "Excellent facsimiles,
+    and cheap in price, these represent the triumph of modern
+    scientific reproduction. Be sure to become a subscriber; and
+    take it upon yourself to see that your college library is on the
+    mailing list."
+
+    The Augustan Reprint Society is a non-profit, scholarly
+    organization, run without overhead expense. By careful
+    management it is able to offer at least six publications each
+    year at the unusually low membership fee of $2.50 per year in
+    the United States and Canada, and $2.75 in Great Britain and the
+    continent.
+
+    Libraries as well as individuals are eligible for membership.
+    Since the publications are issued without profit, however, no
+    discount can be allowed to libraries, agents, or booksellers.
+
+    New members may still obtain a complete run of the first year's
+    publications for $2.50, the annual membership fee.
+
+    During the first two years the publications are issued in three
+    series: I. Essays on Wit; II. Essays on Poetry and Language; and
+    III. Essays on the Stage.
+
+
+
+
+_PUBLICATIONS FOR THE FIRST YEAR (1946-1947)_
+
+  MAY, 1946: Series I, No. 1--Richard, Blackmore's _Essay upon Wit_
+             (1716), and Addison's _Freeholder_ No. 45
+             (1716).
+
+  JULY, 1946: Series II, No. 1--Samuel Cobb's _Of Poetry_ and
+              _Discourse on Criticism_ (1707).
+
+  SEPT., 1946: Series III, No. 1--Anon., _Letter to A. H. Esq.;
+               concerning the Stage_ (1698), and Richard Willis'
+               _Occasional Paper_ No. IX (1698).
+
+  Nov., 1946: Series I, No. 2--Anon., _Essay on Wit_ (1748),
+              together with Characters by Flecknoe, and Joseph
+              Warton's _Adventurer_ Nos. 127 and 133.
+
+  JAN., 1947: Series II, No. 2--Samuel Wesley's _Epistle to a
+              Friend Concerning Poetry_ (1700) and _Essay on
+              Heroic Poetry_ (1693).
+
+  MARCH, 1947: Series III, No. 2--Anon., _Representation of the
+               Impiety and Immorality of the Stage_ (1704) and
+               anon., Some _Thoughts Concerning the Stage_
+               (1704).
+
+
+  _PUBLICATIONS FOR THE SECOND YEAR (1947-1948)_
+
+  MAY, 1947: Series I, No. 3--John Gay's _The Present State of
+             Wit_; and a section on Wit from _The English
+             Theophrastus_. With an Introduction by Donald Bond.
+
+  JULY, 1947: Series II, No. 3--Rapin's _De Carmine Pastorali_,
+              translated by Creech. With an Introduction by J.E.
+              Congleton.
+
+  SEPT., 1947: Series III, No. 3--T. Hanmer's (?) _Some Remarks on
+               the Tragedy of Hamlet_. With an Introduction by
+               Clarence D. Thorpe.
+
+  Nov., 1947: Series I, No. 4--Corbyn Morris' _Essay towards
+              Fixing the True Standards of Wit, etc_. With an
+              Introduction by James L. Clifford.
+
+  JAN., 1948: Series II, No. 4--Thomas Purney's _Discourse on the
+              Pastoral_. With an Introduction by Earl Wasserman.
+
+  MARCH, 1948: Series III, No. 4--Essays on the Stage, selected,
+               with an Introduction by Joseph Wood Krutch.
+
+    The list of publications is subject to modification in response
+    to requests by members. From time to time Bibliographical
+    Notes will be included in the issues. Each issue contains an
+    Introduction by a scholar of special competence in the field
+    represented.
+
+    The Augustan Reprints are available only to members. They will
+    never be offered at "remainder" prices.
+
+  _GENERAL EDITORS_
+
+  RICHARD C. BOYS, _University of Michigan_
+  EDWARD NILES HOOKER, _University of California, Los Angeles_
+  H.T. SWEDENBERG, JR., _University of California, Los Angeles_
+
+
+  _ADVISORY EDITORS_
+
+  EMMET L. AVERY, _State College of Washington_
+  LOUIS I. BREDVOLD, _University of Michigan_
+  BENJAMIN BOYCE, _University of Nebraska_
+  CLEANTH BROOKS, _Louisiana State University_
+  JAMES L. CLIFFORD, _Columbia University_
+  ARTHUR FRIEDMAN, _University of Chicago_
+  SAMUEL L. MONK, _University of Minnesota_
+  JAMES SUTHERLAND, _Queen Mary College, London_
+
+       *       *       *       *       *
+
+Address communications to any of the General Editors. British and
+Continental subscriptions should be sent to
+
+  B.H. Blackwell
+  Broad Street
+  Oxford, England
+
+       *       *       *       *       *
+
+_Please enroll me as a member of the Augustan Reprint Society_.
+
+  _I enclose the membership fee for the second year_ (1947-1948).
+                         _the first and second year_ (1946-1948).
+
+  NAME.......
+  Address....
+
+
+
+
+
+
+End of the Project Gutenberg EBook of A Full Enquiry into the Nature of the
+Pastoral (1717), by Thomas Purney
+
+*** END OF THIS PROJECT GUTENBERG EBOOK A FULL ENQUIRY INTO THE ***
+
+***** This file should be named 15313-8.txt or 15313-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.net/1/5/3/1/15313/
+
+Produced by S.R.Ellison, David Starner, and the Online Distributed
+Proofreading Team.
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

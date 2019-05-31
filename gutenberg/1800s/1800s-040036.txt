@@ -1,0 +1,3702 @@
+﻿The Project Gutenberg EBook of Zoological Illustrations, or Original
+Figures and Descriptions.  Volume I, Second Series, by William Swainson
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Zoological Illustrations, or Original Figures and Descriptions.  Volume I, Second Series
+
+Author: William Swainson
+
+Release Date: October 29, 2013 [EBook #44056]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ZOOLOGICAL ILLUSTRATIONS, VOL I ***
+
+
+
+
+Produced by Chris Curnow, Keith Edkins and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+
+
+
+Transcriber's note: A few typographical errors have been corrected: they
+are listed at the end of the text.
+
+Text enclosed by underscores is in italics (_italics_).
+
+Project Gutenberg has the other two volumes of this work.
+Volume II: see http://www.gutenberg.org/ebooks/44057.
+Volume III: see http://www.gutenberg.org/ebooks/44058.
+
+       *       *       *       *       *
+
+
+
+Zoological Illustrations,
+
+OR
+
+ORIGINAL FIGURES AND DESCRIPTIONS
+
+OF
+
+NEW, RARE, OR INTERESTING
+
+ANIMALS,
+
+SELECTED CHIEFLY FROM THE CLASSES OF
+
+Ornithology, Entomology, and Conchology,
+
+AND ARRANGED ACCORDING TO THEIR APPARENT AFFINITIES.
+
+BY
+
+WM. SWAINSON, ESQ., F.R.S., F.L.S.
+
+ASSISTANT COMMISSARY GENERAL TO H. M. FORCES. CORRESPONDING MEMBER
+OF THE NATURAL HISTORY SOCIETY OF PARIS; HONORARY MEMBER
+OF THE HISTORIC SOCIETY OF NEW YORK; MEMBER OF
+THE WERNERIAN SOCIETY, &c. &c. &c.
+
+VOL. I.
+
+SECOND SERIES.
+
+London:
+
+PRINTED BY R. HAVELL, JUN. NEWMAN STREET.
+
+PUBLISHED BY BALDWIN AND CRADOCK,
+
+PATERNOSTER ROW.
+
+1829.
+
+*       *       *       *       *       *
+
+
+
+TO
+MRS. CORRIE,
+OF
+WOODVILLE, NEAR BIRMINGHAM.
+
+----
+
+MY DEAR MADAM,
+
+Allow me, in dedicating this volume of Illustrations to you, to evince my
+respect and friendship for one whose talents shun publicity. It may have a
+beneficial influence on the rising generation, to know, that a highly
+cultivated understanding, and varied accomplishments, are not inconsistent
+with a perfect discharge of all the social duties. And that a mind stored
+with knowledge, and imbued with Religion, is an effectual antidote to the
+cheerless influence of debilitated health.
+
+That these, my Zoological _Recreations_, may in your opinion, contribute to
+the great end which the naturalist should ever keep in view, the
+developement of the harmonies of Creation, and the discovery of the natural
+system, is the hope of,
+
+  MY DEAR MADAM,
+          Your obliged and sincere Friend,
+                  WILLIAM SWAINSON.
+
+*       *       *       *       *       *
+
+
+
+PREFACE.
+
+----
+
+The execution of the Zoological drawings now published, have been to us an
+agreeable relaxation from severer studies; and the concise descriptions by
+which they are accompanied, are intended to convey, in a condensed and
+popular form, the partial result of more extended investigations. Species
+are the objects of which the whole fabric of animated nature is composed,
+and their respective properties must be investigated, before their natural
+combinations can be understood. Their delineation is therefore highly
+important. Figures bring before us objects which cannot always be
+understood by words; while if faithfully executed, they possess the same
+value as every period of time; for nature is unchangeable.
+
+It is to be regretted that of late much discussion should have arisen among
+our own naturalists, as to the relative merits of the different modes by
+which they study nature. The searchers after the natural system throwing
+obloquy on those who investigate species,[1] while the latter contend that
+mankind is more interested in knowing the properties of species, than those
+of groups.[2] To us it appears that such discussions are unnecessary, and
+but ill calculated to promote that good feeling which should prevail in a
+division of labour. The power of embracing comprehensive views, and of
+detecting diversified relations, must be confined to a few, because such
+objects require the greatest exertion of a superior mind, yet they must
+ever be mainly dependant on the labours of another class of naturalists:
+those who analyze the properties of species, and separate with critical
+judgment, and nice discrimination, resemblances from affinities. But for
+these valuable coadjutors our acquaintance with nature would be altogether
+speculative: they supply, in short, by analysis, that basis upon which all
+true knowledge of nature must repose. Natural combinations can never be
+fully detected, without an acquaintance with their component parts.
+
+The investigator of general laws, and the discriminator of species, are
+thus advancing the knowledge of their favourite science by different modes
+of study. The paths they have chosen, although essentially distinct, lead
+but to one common point; and as both must be trodden, it seems unnecessary
+to discuss which road is the most honourable.
+
+In the classification of the subjects here comprised, we have followed no
+particular system: the chief object aimed at, being to point out apparent
+relations and affinities. To those Ornithological groups which Linneus
+named Genera, and which subsequent systematists have considered Families or
+sub-families, we have applied the designations long used by Leach, Stevens,
+Fleming, Vigors, &c., but in all cases where such divisions are
+unaccompanied by a definition, (in the following pages,) we wish it to be
+understood, that the name is merely applied _provisionally_; indicating the
+_probable_ station of the individual; and that in very few instances do our
+own opinions on the nature of such groups, coincide with those of the
+different writers who have gone before us.
+
+The splendid discovery of the circular system of Nature, has given a
+totally new aspect to this science; but has nevertheless been attended with
+an evil, no where more apparent than in Ornithology; where synthesis has
+completely set aside analysis, and where the rugged and laborious path of
+patient investigation, has been deserted for the flowery walks of
+Speculation and Hypothesis. The combinations thus produced, may well excite
+the smile of our continental neighbours, nor need we feel surprise that
+they look, with something like contempt, on such arrangements "called
+natural" of affinities and relations.
+
+On the other hand the Ornithological writings of Sonnini, Le Vaillant,
+Wilson, and Azara, are never failing sources of information to the searcher
+after truth. The observations of such men, who recorded Nature as she
+really is, and who cared very little for the fashionable systems of the
+day, may be for a time neglected: but they must finally assume that
+importance which is ever attached to unbiassed and disinterested testimony.
+To this honourable list our own country can furnish other names. The habits
+and economy of our native birds have been accurately and patiently
+investigated by those lyncean naturalists, White, Montague, and Selby,
+while their internal structure is now engaging the attention of Mr.
+Yarrell, a Gentleman eminently qualified by long study, and matured
+reflection, for such a task.
+
+In Conchology we have been more desirous to illustrate groups, than
+species; the latter will be done, on a very extensive scale, in the
+forthcoming work of Mess. Sowerby.
+
+From the patient labours, and cautious deductions, of Dr. Horsfield, we
+expect a more perfect elucidation of the Lepidopterous Insects than has
+yet, perhaps, been attempted. As this will be the result of careful
+analysis, we shall place a high degree of confidence in the views it may
+develope.
+
+In conclusion, it may be as well to add, that our views on several of the
+higher groups, here but slightly noticed, will be more fully explained in
+another work, now preparing for Publication.
+
+
+
+  _Tittenhanger Green, St. Albans,_
+          _24th July, 1829._
+
+*       *       *       *       *       *
+
+
+
+[Illustration: _Sapphire crowned Parrot_
+
+_fem._]
+
+
+PSITTACULUS vernalis.
+
+_Vernal Parrakeet._
+
+----
+
+Family Psittacidæ.--Vigors.
+Genus Psittaculus.--(Lesson. Man. 2. p. 148.)
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Green, with the head more splendid; bill red; rump and upper tail covers
+  scarlet; spot on the throat orange._
+
+  Psittacus vernalis. _Sparman Mus. Carl. Pl. 29._
+
+  Psittacula vernalis. _Gen. Zool. 14. p. 144._
+
+----
+
+The Vernal Parrakeet has hitherto remained unfigured, except in the scarce
+and little known work of Sparman: nor was its native country ascertained,
+until recent travellers discovered it in the islands of Java and Teinor.
+
+This is one of the smallest of parrots, scarcely exceeding five inches in
+length; the feathers of the head have a silky texture, and their colour, in
+some lights, is particularly vivid: the tail and the wings are green above,
+but of a rich deep blue beneath; a character said to be equally conspicuous
+in P. _galgulus_ L. The spot on the throat, in our specimen, is orange.
+
+In respect to the situation of this bird among its congeners, we retain it,
+provisionally, in the genus _Psittacula_ of Brisson & Kuhl, adopting the
+termination used by M. Spix, to avoid the alteration of specific names. We
+have not yet had leisure to study the new divisions made in this family,
+with that attention they deserve; but it strikes us, as a defect in the
+genus _Psittaculus_, that it unites birds of the Old and the New World in
+one group. Except in their size, no two parrots can be more dissimilar in
+construction than the Indian P. _vernalis_, and the American P.
+_passerinus_. In the first, the under mandible is smallest, narrow, and
+rather pointed; the first quill longest; and the tail feathers rounded. In
+P. _passerinus_, the under mandible is largest, high, very thick, and quite
+obtuse; the second quill longest, and the tail feathers acutely pointed.
+These may be usefully employed as sectional characters, until the contents
+of the two groups are better understood.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: _Brazilian Crested Eagle_,
+
+Polyborus Braziliensis.]
+
+
+POLYBORUS Braziliensis
+
+_The Caracara; or Brazilian-crested Eagle._
+
+----
+
+Family Falconidæ.
+GENERIC CHARACTER.--See Vieil. Orn. 3. p. 1180.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Body above and beneath, crest of the head, and end of the tail, blackish
+  brown: the rest of the plumage cream colour, varied with spots and
+  bands._
+
+  Falco Braziliensis. _Lin. Gm. 64._
+
+  Buzard du Brézil. _Buffon._
+
+  La Caracara. _Azara Voy. 3. p. 32._ _Vieil. Orn. 3. p. 1180._
+
+  Polyborus Vulgaris. _Vieil. Gall. Pl. 7._
+
+In Mus. Paris. D. Taylor.
+
+----
+
+The whole extent of Tropical America, from Mexico to the banks of the Rio
+Plata, is inhabited by this majestic bird. It has been slightly noticed by
+the earlier writers, but nothing was known of its history, until the
+publication of the invaluable Memoirs of Azara.
+
+Its length is about twenty-one inches. In its habits there is a mixture of
+cowardice and daring. It will attack all other rapacious birds, excepting
+eagles, for the purpose of robbing them of their prey, and will often seize
+the game of the hunter, before he has time to secure it. Yet the Caracara
+is frequently driven from its haunts by the courage of small birds; and
+will only attack young chickens when not defended by their mother.
+
+The birds which form the modern genera of _Daptrius_, _Ibycter_,
+_Polyborus_, and _Milvago_, present so many characters in common, that we
+cannot consider them of sufficient rank to be called genera. They appear to
+us, taken collectively, to form one group, in which every species exhibits
+a peculiar modification of structure, assimilating either to the Vultures
+or the Falcons. Allied both in structure and manners to both these
+families, each bird may be considered as a strongly marked link of
+connexion. They present, in short, that interchange of characters,
+generally confined to individual species, which Nature invariably exhibits
+at the union of her more comprehensive groups.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: _Painted Flycatcher_
+
+Setophaga picta.]
+
+
+SETOPHAGA picta.
+
+_Painted Flycatcher._
+
+----
+
+Family Muscicapidæ
+GENERIC CHARACTER.--See Lesson Man. 2 p. 430.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Black; breast and middle of the body crimson; greater wing covers, and
+  three external tail feathers, snowy._
+
+In Mus. D. Taylor.
+
+----
+
+A specimen of this richly-coloured bird was sent to John Taylor, Esq., F.
+G. S., &c., from Real del Monte, in Mexico. It is not only new to
+Ornithologists, but forms a beautiful addition to a geographic group,
+originally founded upon one species.
+
+The figure is the size of life. The bristles at the bill are compact,
+rigid, and all directed forwards: under tail covers and thighs whitish: the
+white band on the wings occupies the greater covers, and the tips of the
+lesser: the quill covers are also margined with white: the extreme base of
+the three outer tail feathers are more or less black.
+
+The characters upon which we formed this group, confine it strictly to
+birds of the New World. For although the habits of the typical species
+evince a marked affinity to the Fantailed Flycatchers of Australia, the
+construction of their wings is totally different. The disposition of the
+black and crimson colours on our bird, will remind the Ornithologist of the
+Red-bellied Flycatcher of Latham, of which, in fact, it is nearly an exact
+prototype. But this resemblance, however strong, appears to us to be one of
+analogy, rather than of affinity. We consequently consider the _Muscicapa
+Multicolor_, _Lathami_, and _Goodenovia_, of MM. Horsfield and Vigors, as
+more truly belonging to the family of _Sylviadæ_.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: _Ancillaria rubiginosa_]
+
+
+ANCILLARIA rubiginosa.
+
+----
+
+GENERIC CHARACTER.
+
+  Shell oblong, smooth, entirely polished: suture not channelled. Base of
+  the pillar oblique, thickened, and striated. S.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Shell imperforate, oblong, chestnut; spire elongated; body whorl above
+  banded; base with two belts and a concave groove._ Sw. in Phil. Mag. 62.
+  p. 403.
+
+  A. rubiginosa. _Sw. in Brand's Journ., No. 36, p. 283._
+
+----
+
+The Ancillariæ are marine shells, few in number, and peculiar to warm
+latitudes. They are naturally polished, and very much shaped, like the
+Olives; but the suture, which in those shells is marked by a deep grove, is
+in these covered by a thick enamel. The animal, we believe, remains
+unknown. In a monograph of this genus, published in the Journal above
+quoted, we described fourteen recent, and four fossil species, being all
+which, at that period, we had seen. Of these, the present is one of the
+largest, and certainly the most beautiful. Our figure was made from a
+matchless specimen, received by Mrs. Mawe from China, and now in the
+collection of Mr. Broderip.
+
+We hear, with pleasure, that Mr. George Sowerby has selected this
+interesting group for an early illustration in his promised _Species
+Conchyliorum_. The professional opportunities which this zealous
+Conchologist enjoys will, no doubt, enable him to make considerable and
+valuable additions to this and every other department of his subject; and
+he has our cordial good wishes for success in this most laborious
+undertaking.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: _Mitra melaniana_]
+
+
+MITRA melaniana.
+
+----
+
+GENERIC CHARACTER.--See Zool. Illustr. 1 Series, Pl. 23.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Shell smooth, blackish brown, with very minute punctured transverse
+  striæ; spire attenuated, longer than the aperture; pillar 4-plaited._
+
+  Mitra melaniana. _Lam. Syst. 7. p. 314._
+
+  M. nigra? _Chem. Conch. 10 Pl. 151. f. 1430, 1431._
+
+  M. carbonaria. _Sw. in Bligh. Cat. App. p. 10._
+
+----
+
+We are acquainted with two shells, perfectly distinct as species, yet
+sufficiently alike to render Lamarck's description of his M. _melaniana_
+applicable to both. In this uncertainty, we at first intended to
+distinguish _this_ by the name of _carbonaria_, and to consider the other
+as Lamarck's _melaniana_, but further consideration induces us to alter
+this arrangement; the second species we propose to illustrate in an early
+number. Our figure was taken from a full-sized specimen, received from
+Australia, and now in the Manchester Museum.
+
+----
+
+
+MITRA tessellata.
+
+----
+
+  _Shell ovate, smooth, with remote transverse punctured striæ; whitish,
+  cancellated by transverse and longitudinal fulvous lines; inner lip brown
+  at the base; outer lip smooth._
+
+  Mitra tessellata. _Swains. in Brand's Journal, No. 33. p. 34. (Ap.
+  1824.)_
+
+----
+
+We have already given a full account of this very rare shell; a repetition
+of which is rendered unnecessary by the publication of the figures. The
+specimen from which these were taken, was then in the possession of Mrs.
+Mawe, whose kindness and liberality, in forwarding our scientific pursuits,
+has been, for very many years, constant and invariable. We know not its
+country, nor have we ever seen a second example.
+
+Mr. Grey has recently given an additional interest to this group, by
+publishing an account of the structure of the animal.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: _African Jacana_
+
+Parra Africana.]
+
+
+PARRA Africana.
+
+_African Jacana._
+
+----
+
+Family Rallidæ.
+GENERIC CHARACTER.--_See Lesson Man. 2. p. 285._
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Above deep cinnamon; crown of the head naked; throat white; breast
+  fulvous; neck and quills black; spur on the wing obsolete._
+
+  Parra Africana. _Lath. Ind. Orn. 2. 764._
+
+  African Jacana. _Lath. Gen. Syn. 5. p. 246. Gen. Hist. 9. p. 393._
+
+In Mus. Par. Nostro.
+
+----
+
+The Jacanas are wading birds, somewhat analagous, both in structure and
+habits, to the European water-hen; but in their native haunts, from not
+being disturbed, they are less shy. The number of these birds on the lakes
+of Brazil, the elegance of their movements, and their fearlessness of man,
+excite an interest in the traveller who journeys through regions,
+ornamented alone by Nature.
+
+Most of the Jacanas inhabit South America--a few occur in India; and this,
+as its name implies, is found in Africa. The typical species have the wings
+armed with a strong and very acute bony spur; but in P. _Africana_, this is
+so small, as not to be perceived when the wing is closed.--Bruce mentions
+this bird by the name of Meylie, as inhabiting Abyssinia; and Mr. Salt
+found it at Mozambique. Our specimen was received from Western Africa, by
+Mr. Ward, Animal Preserver, Broad Street, Golden Square.
+
+The peculiar structure of the feet of these birds is highly singular, but
+their particular use has not, we believe, been explained. The Jacanas are
+very light birds; and their long toes, spreading over a wide surface,
+enable them to walk on the floating leaves of aquatic plants, with as much
+facility as if they were on land. In such situations their appearance is
+really delusive; for their pressure being sufficient to sink the supporting
+leaf just below the surface, the birds actually appear to walk upon the
+water.
+
+Total length, ab. 10½; bill, 1-2/10; wings, 5-2/10; tarsi, 2-2/10; hind toe
+and claw, 5-1/10.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: AFRICAN BLACK CUCKOW.
+
+_Cuculus nigricans._]
+
+
+CUCULUS nigricans.
+
+_African Black Cuckow._
+
+----
+
+Family Cuculidæ.
+GENERIC CHARACTER.--See Lesson. Man. 2. 119.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Black glossed with blue; quills internally white, with blackish bands;
+  tips of the lateral tail feathers whitish; bill and legs black._
+
+----
+
+The genus _Cuculus_, even as now restricted, contains a number of species,
+dispersed over the continents and islands of the Old World. In America they
+are not known: but the genus _Coccyzus_, which there represents the group,
+is one of those few which are common to both hemispheres.
+
+The specific distinctions of birds having a uniform black plumage, is at
+all times difficult; and more so, when we attempt to identify them with the
+descriptions of authors. Of the black Cuckows of Africa, our bird comes
+nearest to the _Coucou criard_ of Levaillant, (Ois. d'Af. pl. 204-5,) but
+differs in having the bill and feet black instead of yellow: it cannot be
+the _Cuculus Indicus niger_ of Brisson, as _that_ has the quills,
+internally, "tout à fait noir:" neither is it the black Indian Cuckow of
+Edwards, pl. 58, (_Cuculus niger_ Lin.,) whose bill and feet are red. We
+were inclined to think that the second species of Buffon's _Coukeels_ might
+be our bird, notwithstanding the difference of their locality; but
+Commerson's original description decides the question; his words are
+"_Cuculus cristatus mindanensis coeruleo nigricans totus_," (Buff. ed. Son.
+54. p. 54.) Our bird has no crest. We have here consulted only original
+writers; for subsequent transcribers have so blended these birds under one
+name, that it is scarcely possible to disentangle their synonyms. M.
+Vieillot has increased the confusion, by transposing the specific names of
+Linnæus: the true _C. niger_, L. being his _Orientalis_ (En. Meth. Orn.
+1331).
+
+Our bird was sent to us for examination by Mr. Ward. It is a genuine
+Cuckow: the nostrils being round, the third quill longest, and the second
+shorter than the fourth. It came from Western Africa.
+
+Total length, 12½; bill, 1-1/10; wings, 6¾; tail, 6½.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: _Blue necked Lory_]
+
+
+LORIUS Isidorii.
+
+_Blue-necked Lory._
+
+----
+
+Family Psittacidæ.
+GENERIC CHARACTER.--Lesson. Man. 2. 148.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Crimson; crown, nape, neck, throat, and middle of the belly violet blue;
+  quill covers tipt with black; tail moderate, graduated, reddish brown._
+
+----
+
+A splendid specimen of this lovely bird (the only one we believe in this
+kingdom), came into our possession some years ago through Mr. Warwick, a
+travelling naturalist of great merit. It was purchased by him, alive, in
+the Isle of France, where it had been brought in a trading vessel from New
+Guinea: but it unfortunately died on its passage to England.
+
+We feel happy, that in recording this new and beautiful bird, an early
+opportunity is given us of commemorating our deep sense of the kindness we
+received from a young naturalist of France, whose writings have already
+acquired celebrity, and who promises to inherit the great and commanding
+talents of his illustrious father. In prosecuting our studies at the
+_Garden of Plants_, we met with such unexampled liberality from its most
+distinguished Professors, that we feel embarrassed where first to return
+our thanks. But the facilities and attentions we received from M. Isidore
+Geoffroy Saint Hilaire, partly involved a sacrifice of personal
+convenience; uncalled for, either by the nature of his appointment, or by
+the common rules of courtesy. So much for the reception which British
+naturalists receive in France. We should do well, when striving to imitate
+the Zoological Institutions of that nation, if we imbibed somewhat more of
+their liberality. We hope the time is not far distant, when the system of
+regulations and restrictions, which now fence the Museum of a popular
+Society, from all who cannot pay for admittance, as members, may be
+exchanged for a policy more creditable to the age, and more honourable to
+the nation.
+
+We shall offer a few remarks, illustrating this particular genus, in our
+next number.
+
+Total length, 9 in.; wings 5; tail (beyond) 1½, from the base, 3½.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: AMPULLARIA Pl. 1.
+
+_A. carinata._]
+
+
+AMPULLARIA carinata.
+
+_Carinated Apple-snail._
+
+----
+
+Family Ampullaridæ.--Guild.
+
+GENERIC CHARACTER.
+
+  PACHYSTOMA. Shell ventricose; margin of the lip thick, generally grooved;
+  operculum testaceous. Zool. Journ. 12. p. 536.
+
+SPECIFIC CHARACTER.
+
+  _Shell olive, ventricose, without bands; whorls carinated near the
+  suture._
+
+----
+
+In the first Series of our Illustrations, we endeavoured to lessen the
+confusion which, at that time, prevailed among the species of Ampullaria,
+figuring and naming such as appeared to us truly distinct. During the
+course of our labours, the sixth part of the "_Animaux sans Vetebres_" of
+the celebrated Lamarck was published in Paris; in which is described
+several species, figured in our volumes under other names. A want of mutual
+communication between authors writing at the same time, and on the same
+subject, has naturally caused confusion in nomenclature; which, at an early
+period, we intend to elucidate.
+
+Our friend the Rev. L. Guilding, whose accuracy of observation can only be
+equalled by his indefatigable zeal, has established the distinction between
+the horny and shelly operculated _Ampullariæ_, on anatomical principles.
+The present species (which was engraved before his valuable memoir was
+published) must consequently be placed in his genus _Pachystoma_; while the
+_carinata_ of Lamarck, from having a horny operculum, remains with the true
+Ampullariæ.
+
+We know not the precise locality of our species; but conjecture it may be
+from some of the rivers of India.--Specimens, in different stages of
+growth, are in the Manchester Museum, and in our own.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: UNIO Pl. 1.
+
+_U. truncatus_]
+
+
+UNIO truncatus.
+
+_Truncated River Mussel._
+
+----
+
+Acephala Dimyaria.
+Sub-family Les Nayades.--_Lam._
+
+SYNOPSIS OF THE GENERA.
+
+  UNIO. Shells with lateral and cardinal teeth, the latter short and deeply
+  divided.
+
+  HYRIA. Lateral and cardinal teeth distinct; but the latter lengthened,
+  and united to the former by irregular dentations.
+
+  IRIDINA. Teeth consisting of a single crenated line, parallel with the
+  ligament.
+
+  ANODON. All the teeth either obsolete, or entirely wanting.
+
+  ALASMODON. Lateral teeth none; cardinal teeth simple, or slightly
+  divided.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Shell thick, oblong, sub-cylindrical, within pearly, umbones close to
+  the anterior margin, which is truncate; posterior extremity narrowed._
+
+----
+
+In our former Series, we have frequently mentioned the Fluviatile Bivalve
+Shells, of which the genus _Unio_ appears to be the type. In a group which
+present so few certain characters, either for discriminating the species or
+characterizing the genera, we have, with other writers, held different
+opinions at different times. And the reader has only to peruse an
+interesting paper on these shells, in the Zoological Journal (Vol. I. p.
+53), to be convinced of the intricacy of the subject.
+
+Nevertheless it is observed, by those who study natural affinities, that
+when the links between two distinct forms of animals are so complete, that
+their dissimilarities are lost in intermediate and undefinable gradations,
+it is then that the natural arrangement is most likely to be discovered.
+For it has been demonstrated in such groups, that the most perfect order
+and harmony will come out, of what appeared an inextricable entanglement of
+relations. Such, however, will never result from the belief in a simple
+scale of Nature, or by attempting to circumscribe groups by absolute
+characters. We therefore now offer the foregoing sketch of the natural
+divisions of the _Nayades_, as the result of all we have seen or read upon
+this difficult subject.
+
+We are unacquainted with any described species to which the shell here
+figured can be referred. Its substance is very thick, and its form nearly
+cylindrical. We have seen but one specimen, and that was with Mrs. Mawe.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: WHITE BREASTED WREN.
+
+_Thryothorus Mexicanus._]
+
+
+THRIOTHORUS Mexicanus.
+
+_Mexican, or White-throated Wren._
+
+----
+
+Family Certhiadæ.
+GENERIC CHARACTER.--Vieil. Orn. 2. 627.
+
+SPECIFIC CHARACTER.
+
+  _Brown, varied with dusky lines and white dots; throat and breast snowy;
+  tail ferruginous, with black bars._
+
+Mus. D. Taylor.
+
+----
+
+In the collection of Birds before alluded to, formed by the late Mr. John
+Morgan at Real del Monte, was a single skin of this new and elegant
+species. The snowy whiteness of its throat, renders it not liable to be
+mistaken in a group of birds, presenting in general a great similarity of
+plumage. The upper parts are greyish brown, varied with obscure, dusky,
+broken lines of blackish; each feather being tipt with a small round white
+spot: wing covers and tertials the same: upper and under tail covers
+ferruginous; each feather with a white spot before the white one which is
+at the tip, lower breast and all the under plumage rufous brown, crossed by
+black lines; the white dots nearly obsolete, tail ferruginous, with about
+six black bars: legs brown, hind claw as long as the tarsus. Fourth and
+fifth quill longest.
+
+This genus has been judiciously separated by M. Vieillot from _Troglodytes_
+(to which belongs our Brown European Wren), on account of its lengthened
+and generally notched bill: the greater prolongation of the hind toe is a
+further distinction; indicating an affinity with the more perfect
+scansorial Creepers.
+
+To this group belongs the _Myothera obsoleta_ of Prince Charles Bonaparte.
+No example of that genus, or of _Thamnophilus_ (in their most extended
+sense), has yet been found north of Cuba: their straight, cylindrical, and
+abruptly-hooked bills, offer a striking contrast to the lengthened,
+compressed, curved, and consequently feeble structure of this part in
+_Thriothorus_ and _Troglodytes_.
+
+Total length, 5½; bill, 1-1/10; wings, and tail, 2-6/10 tarsi, 7/10.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: _Ceram Lory_]
+
+
+LORIUS garrulus.
+
+_Ceram Lory._
+
+----
+
+Family Psittacidæ.
+
+GENERIC CHARACTER.
+
+  Bill moderate, compressed, end of the upper mandible, within, entirely
+  smooth; under mandible lengthened, conic; the tip entire. Legs stout;
+  Tail moderate, rounded or graduated; the feathers broad, their tips
+  obtuse. _Nob._
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Scarlet: wings green, shoulders yellow, half of the tail bluish black._
+
+  Psittacus garrulus. _Lin. 144. Kuhl. Cons. Psit. p. 41. No. 56._
+
+  Le Lori-Noira. _Buffon. Sonn. 27. p. 126. Pl. Enl. 216._
+
+  Le Perroquet Lori Nouara. _Levail. 2. pl. 96._
+
+  Scarlet Lory. _Edw. pl. 172._
+
+  Le Lory de Ceram. _Briss. Orn. 4. 215._
+
+----
+
+The popular name of Lories has long been given to those Parrots, peculiar
+to the continent and islands of India, whose brilliant red plumage forms a
+strong contrast to the green colour which generally pervades this family.
+The southern limits of their distribution do not extend to Australia, but
+much of their general structure is transferred to the Lory-Parrakeets,
+forming the modern genus _Trichoglossus_; this latter group being diffused
+over the remaining islands of the great Pacific Ocean.
+
+The Ceram Lory, from being well known, and exhibiting the prominent
+characters of its tribe, is a correct type of the genus. Its length is
+about eleven inches. The general colour is rich scarlet, with the wings and
+thighs green: the bend of the shoulder, (and sometimes a spot on the back,)
+is yellow. Tail graduated, the lower half of the feathers deep blackish
+green, glossed with blue. Inhabits the Molucca Islands.
+
+Notwithstanding the attention recently bestowed in characterizing the
+groups of this family, the most important external peculiarity of _Lorius_
+and _Trichoglossus_ has been overlooked. In these birds, that part of the
+roof of the under mandible which projects beyond the lower, is generally
+thin, and always perfectly smooth: a weakness of structure which renders it
+impossible for these parrots to feed upon hard substances; and betrays
+their frugivorous and suctorial nature, by indications perceptible to every
+one.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: LEVAILLANTS CUCKOW.
+
+_Coccyzus Levaillanti_]
+
+
+COCCYZUS Levaillantii.
+
+_Black and White-throated Cuckow._
+
+----
+
+Family Cuculidæ.
+
+GENERIC CHARACTER.--Lesson. Man. 2. 120.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Head crested, the feathers pointed; plumage above black glossed with
+  green; band at the base of the quills, end of the tail, and under parts
+  of the body, white; throat striped with black._
+
+  Variete du Coucou Edolio, _Le Vail. Ois. d'Af. 4. pl. 209._
+
+----
+
+Unlike the true Cuckows, the birds of this genus rear and provide for their
+young in the ordinary manner. The species are numerous in the tropical
+latitudes of both hemispheres. Two are found in North America, which, in
+their external characters, approach so near to the genuine Cuckows, that
+they barely come within the definition of the present group.
+
+It frequently happens that species, originally well described, become
+involved in obscurity by compilers. Le Vaillant, who first described this
+bird, supposed it a variety of his _Coucou Edolio_: but in this he was
+mistaken; the one being a _Cuculus_; the other a _Coccyzus_. We should have
+thought our species might be the _Cuculus Afer._ of Drs. Leach and Latham,
+had not the former stated his bird to be a _variety_ of Le Vaillant's, and
+figured it as an example of the genus _Cuculus_. Dr. Latham (Gen. Hist. 3,
+290) copies this description of _C. Afer_. (Zool. Mis. 1. p. 31), adds some
+further characters not seen in our bird, and, under the same name,
+describes what is evidently another species. Lastly, M. Vieillot, in his
+account of the genus _Coccyzus_ (Orn. Ency. Meth. p. 1342), relying on the
+usual accuracy of Le Vaillant--and never, perhaps, having seen the
+bird--omits it altogether. To prevent this confusion extending further, and
+to detach the species from those dubious descriptions with which it has
+been mixed, we have thought it best to record it by the name of its first
+describer.
+
+Our figure will render a detailed description unnecessary: the wings,
+although long, are rounded; the fifth quill being the longest. The total
+length is fifteen inches. Inhabits Senegal, and the Western Coast of
+Africa.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: MARMAROSTOMA. Pl. 1.
+
+_M. undulata._]
+
+
+MARMAROSTOMA undulata.
+
+_Waved Pearl Snail._
+
+----
+
+GENERIC CHARACTER.
+
+  Shell turbinated, ponderous, the whorls generally angulated, the
+  substance pearly: aperture circular, closed by a testaceous operculum:
+  umbilicus none.
+
+_Type_, Turbo chrysostomus. L.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Shell angulated, variegated with green and brown undulated stripes,
+  summit of each whorl coronated._
+
+----
+
+From the genera _Turbo_ and _Trochus_ of modern Conchologists, we have
+detached all those species whose shells are closed by a calcarious
+operculum; and this group we propose to distinguish by the name of
+_Marmarostoma_. The species, like the _Trochi_, properly so called, are all
+of a pearly structure; but their substance is much thicker; the base of the
+shell is slightly produced; the exterior surface is marked either with
+tubercles, grooves, or elevated ridges; and the aperture (from the
+convexity of the last whorl) forms a circle. If the student compares these
+characters with Trochus Zizyphinus, a common British shell, he will
+immediately perceive the leading differences between the two groups.
+
+But it is the calcarious nature of the operculum (as indicating an
+important difference in the organization of the animal) which constitutes
+the primary character of _Marmarostoma_: the particular structure of this
+appendage varies considerably in the different species: in some its outer
+surface is smooth and convex; and in others variously granulated. In the
+present shell it is marked by three or four deep semicircular grooves; that
+nearest the middle is the deepest, and terminates in an umbilicus. In some
+specimens, the spines on the principal ridge of the body whorl are nearly
+obsolete; but those which crown the summit appear constant.
+
+We are indebted to the Rev. Mr. Bulwer, a scientific and arduous
+Conchologist, for our specimens of this new species, purchased by him in a
+collection sent from Panama.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: VOLUTA. Pl. I.
+
+_V. Bullata_]
+
+
+VOLUTA bullata.
+
+_Bulla-shaped Volute._
+
+----
+
+GENERIC CHARACTER.--Zool. Ill. 1 Series, pl. 161.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Shell oval, smooth, fulvous, marked by zigzac darker lines; spire short,
+  papillary; outer lip ascending towards the spire; base of the pillar with
+  two strong plaits._
+
+Mus. D. Broderip.
+
+----
+
+Among the shells which formed part of the African Museum, exhibited and
+finally sold in London some few years back, was a single specimen of this
+new and curious Volute. Worn and battered by the friction of the waves, it
+still retained its colour and markings sufficiently distinct to admit of a
+tolerably accurate delineation. The only part we have ventured to restore
+is the contour of the outer lip, which we have adapted to the lines of
+growth. The middle figure represents the shell in its broken state; and
+this clearly shews the ascending of the lip towards the spire, in the same
+manner as in V. _lapponica_.
+
+The affinities which are suggested by the peculiar structure of this shell,
+are curious. In its general shape, and in the number of its plaits, it is
+obviously allied to _Voluta Nucleus, harpa_; _lyræformis_, &c., where the
+two last plaits of the pillar are very thick, and those above either small
+or evanescent; but from such, our shell differs materially by being quite
+smooth, and in having a short obtuse spire. We do not believe that this
+part has received much injury. The suture is perfect to the very end:
+further evidence may be drawn from the extreme narrowness of the third
+spiral whorl; a formation which only belongs to papillary spired shells.
+This character, joined with the smoothness and size of the body whorl,
+shews a closer approximation to the Melon shells, than to any other
+division of the group. Three or four intermediate forms are alone wanting
+to complete the double series.
+
+Mr. Broderip, who is in possession of this shell, has recently arranged the
+Lamarkian _Volutæ_ into very natural groups; two of which are considered as
+holding the rank of genera.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: _Mustachoe Parrakeet._]
+
+
+PALEORNIS Pondicerianus.
+
+_Pondichery, or Mustachoe Parrakeet._
+
+----
+
+Family Psittacidæ.
+
+GENERIC CHARACTER.--Zool. Journ. 2, p. 46.--Less. Man. 2, p. 145.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Green; head pale bluish; frontal line and stripe on the lower jaw black;
+  wings with a central spot of yellowish; breast pale red._
+
+  Le Perruche a moustaches. _Buffon. Sonn. 27, p. 185, Pl. Enl. 517._
+
+  ---- a poitrine rose. _Levail. Pl. 31._
+
+  P. Pondicerianus. _Kuhl, Nova Acta, &c. No. 48*._
+
+  Paleornis Pondicerianus. _Vigors. Zool. Journ. 2, p. 54._
+
+----
+
+The Ring-necked Parrakeets of India, and the Asiatic Islands, are now
+considered as forming a particular genus. The geographic distribution of
+the group, and the characters of the species, have been detailed with much
+skill and classic erudition, in the Zoological Journal.
+
+Among the numerous ornithological facts, which the distinguished liberality
+of MM. Cuvier and Geoffroy St. Hilaire enabled us to ascertain, during a
+course of study at the Royal Museum of Paris, is one that relates to this
+species. Specimens in that noble collection, both from Pondichery and Java,
+enable us to affirm, that the _Psittacus Osbeckii_ and _Pondicerianus_ of
+authors, are one and the same species.
+
+Notwithstanding the frequency of this bird in Java, and other parts of
+India, we are completely ignorant of its natural history, of those
+diversified habits, and modes of living,--in short, of that knowledge,
+which gives such an animating charm to natural history, which manifests the
+provision of the Almighty for all His creatures, which can be known and
+understood by all, and which prompts the heart to contemplation and praise.
+Is there no one, in all our vast Oriental territory, to record something of
+the feathered inhabitants of the Eastern World? Is there not, throughout
+India, even _one_ of our countrymen, imbued with the spirit of a Wilson, a
+Levaillant, or an Audubon?
+
+*       *       *       *       *       *
+
+
+
+[Illustration: WHITE BANDED SWALLOW.
+
+_Hirundo fasciata._]
+
+
+HIRUNDO fasciata.
+
+_White-banded Swallow._
+
+----
+
+Family Hirundinidæ.--Sub-Fam. Hirundina.
+
+Feet slender, perching, the outer and middle toe connected at the base:
+bill entirely depressed. _Nob._
+
+GENERIC CHARACTER.
+
+G. HIRUNDO.--Lesson. Man. 1, 419.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Glossy blue black: thighs and band on the abdomen snowy._
+
+  Hirundo fasciata. _Lath. Ind. Orn. 2, 575._
+
+  L'Hirondelle a ceinture blanche. _Buffon. Pl. Enl. 724, f. 2._
+
+  White-bellied Swallow. _Lath. Gen. Syn. 4. 567._
+
+----
+
+This elegant bird, although mentioned by several writers, is of great
+rarity. So seldom, indeed, is it seen in collections, that we never beheld
+a specimen prior to our visit to the Royal Museum of Paris, where our
+drawing was made. Buffon's description seems to have been transcribed by
+all succeeding writers; and the only figure hitherto published is that at
+Plate 724 of the Planches Enluminèes.
+
+The habits of the Swallow tribe are known to every one. Like the
+Flycatchers, they feed upon insects captured on the wing; but these insects
+are of so small a size, that they are swallowed during the flight of the
+bird. This at once accounts for Swallows not being provided with those
+stiff bristles, for confining the struggles of their prey, which are so
+essential to the Flycatchers. These latter birds frequently feed upon
+insects much too large to be swallowed at the moment of capture; they
+therefore hold their prey until they again perch, and swallow it when at
+rest.
+
+The figure is the size of life. Excepting the band on the body, and the
+spot on the thighs--both of which are snowy white--the whole plumage is of
+a deep black, richly glossed with dark blue. The first quill is longest,
+and the tail is deeply forked.
+
+According to Buffon, this bird is sometimes seen perched on floating trees
+in the rivers of Guiana and Cayenne.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: Anodon, _Pl. 1_
+
+_A. areolatus_.]
+
+
+ANODON areolatus.
+
+_Areolated Horse Mussel._
+
+----
+
+GENERIC CHARACTER.
+
+See Unio, Pl. 1.
+(Anodon. Iridina. Dipsus. _Auct._)
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Shell transversely oval, not winged, umbones small, ventricose, not
+  touching; with a short undulated projection of the hinge margin in one
+  valve, and a corresponding concavity in the other; both placed beneath
+  the umbones._
+
+----
+
+The principal character of _Anodon_, rests on the absence of teeth; the _A.
+anatinus_, common to our rivers and ponds, being taken as the type of the
+group. But, as Nature steps progressively, in her departure from one form,
+and in her advance to another, so among the Anodons we find several shells,
+which do not strictly exhibit the typical character; and these we shall
+briefly notice.
+
+In the sketch already given of this group, we have placed the genus
+_Anodon_ between _Iridina_ and _Alasmodon_. The _Iridina nilotica_ Sow,
+"has scarcely any appearance of crenations along the hinge line," but for
+this, it consequently would present a simple lamellar ridge, extending
+nearly the length of the shell; such, in short, as is seen in _Dipsus
+plicatus_ (Leach), whose tooth may be so described. By this shell we are
+led to _A. rubens_ Lam. where a lamellar plate, though much shorter, is
+placed beneath the umbones. _Iridina Cailliandi_ perfectly resembles _A.
+rubens_, except in being without any vestige of this plate. We have now
+entered among the typical species, where every form occurs between a round
+and an ensiform shape. Leaving these, Nature proceeds to fashion an
+indistinct developement of _Alasmodon_ in the species before us, where that
+part of the hinge plate, immediately beneath the umbones, is somewhat
+raised, and undulated. In _A. rugosus_ these compressed undulations assume
+more the form of tubercles; and finally, in the _Alasmodon marginatus_ of
+Say, the teeth are sufficiently developed to place that shell in a distinct
+group.
+
+Our esteemed and accomplished friend, Mrs. Corrie of Birmingham, favoured
+us with two examples of what appears to be a variety of that which we have
+figured. The substance of both is opake; the inside white, tinged with
+buff, and with scarcely any pearly lustre. Inhabits North America, but we
+know not any precise locality.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: MITRA. Pl. 2.
+
+_1. strigata. 2. bicolor. 3. carinata._]
+
+
+MITRA strigata.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Shell very smooth, chestnut with paler longitudinal stripes, which are
+  white at their commencement; aperture white, shorter than the spire;
+  pillar 4-plaited_.
+
+  Mitra strigata. _Sw. in Brand's Journ., No. 33, p. 37, Ap. 1824._
+
+----
+
+The Conchologist will find a full description of the three Mitras here
+figured in the Journal above mentioned. They are all of singular rarity,
+more particularly _strigata_ and _carinata_, as of these we have never seen
+second specimens. _M. strigata_ belongs to that group which contains M.
+_melaniana_, _scutulata,_ &c. Its country is unknown.
+
+----
+
+MITRA bicolor.
+
+----
+
+  _Shell smooth, polished, fusiform, white, with a brown central band;
+  upper part of the body whorl and spire with cancellated punctured striæ:
+  base with simple striæ_.
+
+----
+
+This pretty shell seldom exceeds three-quarters of an inch in length; our
+figure is consequently enlarged: the pillar has four plaits. This, in
+conjunction with M. _casta_, _olivaria_, _dactylus_ (Lam.), and
+_olivæformis_ (Sw.), constitute a particular group, allied to _Conoehelix_,
+having the plaits extending far beyond the aperture.
+
+Inhabits the South Seas. In the Manchester Museum, and in our own.
+
+----
+
+MITRA carinata.
+
+  _Shell slender, fusiform, brown; whorls with a single carinated ridge,
+  and striated transversely near the suture; pillar 4-plaited._
+
+----
+
+The habit of this Mitra will place it with the fusiform species; from all
+of which, however, it differs in not having exterior plaits, nodules, or
+impressed sculpture. The aperture is smooth within, and white. We have only
+seen one specimen, received by Mrs. Mawe, from Sierra Leone, and this was
+covered with a brown epidermis.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: TELLINA. P.I.
+
+_T. latirostra._]
+
+
+TELLINA latirostra.
+
+_Wide-beaked Tellen._
+
+----
+
+Order Acephala.--Tribe Dimiaria (_Nob._).
+
+GENERIC CHARACTER.--Lam. Sys. 5, 519.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Shell oblong; anterior side narrowed and angulated; both valves glossy,
+  smooth, equally convex, and marked by very delicate radiating striæ._
+
+  _T. testâ oblongâ, purpurascente, subradiatâ, anteriùs sinuato-angulatâ,
+  rostri margine infimo ascendente._ Lam. Syst. 5, p. 523.
+
+----
+
+There are few groups in Conchology, more particularly among the bivalve
+shells, possessing so great a union of delicacy and beauty as the Tellinæ;
+and perhaps there is none in which the species, from their general
+similarity of shape, and variability of colouring, are so little
+understood. For these reasons, we intend to illustrate this elegant genus
+very fully.
+
+The _Tellinæ_ appear to hold a station with the most typical groups of the
+Bivalve Mollusca; or those in which the animal can freely remove, from
+place to place, by the foot. In all such the shells are solid, regular, and
+not attached to other substances.
+
+We select the _Tellina latirostra_ of Lamarck for our first subject. As a
+species it has not been figured; while the original description, which we
+have transcribed, is so slight, that some uncertainty exists as to the
+precise species intended by the writer. That to which we here apply the
+name, is certainly very like, as Lamarck observes, to _T. rostrata_;
+although his description, in other respects, is applicable to other species
+now before us. Our _Tellina latirostra_ is not common, although we once
+received a considerable number from Amboyna. Its surface is very smooth,
+but the delicate striæ, which can scarcely be seen by the naked eye, become
+perfectly clear under a common lens. The Manchester Nat. Hist. Society is
+in possession of a lovely series, exhibiting the following variations of
+colour: 1, pure white; 2, rose-coloured round the umbones, paler beyond; 3,
+entirely rose colour; 4, blush white, with a rosy shade on each side the
+umbones; 5, pale orange; 6, buff yellow, resembling _T. depressa_. In all
+these the points of the umbones are invariably white.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: _Blue-winged Parrakeet._]
+
+
+NANODES venustus.
+
+_Blue-fronted Parrakeet._
+
+----
+
+Family Psittacidæ.
+
+GENERIC CHARACTER.
+
+  Bill entire; the lower mandible short, deep, thick, and rounded; nostrils
+  very large, fleshy, naked; wings pointed; tarsi, toes, and claws very
+  slender--the former manifestly longer than the hind toe; tail cuneated;
+  the feathers narrow and lanceolate. _Nob._
+
+Type.--_Psittacus pulchellus._--Zool. Ill. 2, Pl. 73.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Sides of the head yellowish; front with a blue band; wing-covers and
+  tail blue, the latter tipt with yellow; throat and breast deep green;
+  belly yellow._
+
+  Psittacus venustus. _Linn. Trans. (Temm.) xiii. p. 121._
+
+  ---- chrysostomas. _Kuhl. Nov. Act. p. 51, Pl. 1._
+
+  Nanodes venustus. _Linn. Trans. (Vig. and Hors.) xv. 274._
+
+----
+
+The Ground Parrakeets of Australia, of which this is one of the most
+beautiful, form a small but richly coloured group of birds, remarkable for
+the peculiar structure of their feet, which leads them to frequent the
+ground more than any of their family. In the form of their bill, wings, and
+tail, they exhibit a close resemblance, in miniature, to the Maccaws of the
+New World, and may justly be supposed to represent those birds in the
+Southern hemisphere.
+
+We received two specimens of the Blue-fronted Parrakeet, some years ago,
+from Van Dieman's Land; yet even there it is considered scarce; nor did we
+observe it in any of the collections in Paris.
+
+Assenting, in a great measure, to those general principles of arrangement
+which several eminent Ornithologists have proposed regarding this family,
+we nevertheless consider that the succession of affinities, and even the
+nature of the leading groups, are not yet correctly understood. In the
+present case, we would rather have seen _Nanodes_ placed as a sub-genus to
+_Pezoporus_; from which it merely differs in the comparative shortness of
+the feet. The connexion between the two forms, moreover, is so close as
+not, in our judgment, to admit the intervention of _Platycercus_, or any
+other group yet discovered.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: _Yellow shouldered Oriole._
+
+I. Cayanensis.]
+
+
+ICTERUS Cayanensis.
+
+_Cayenne Hangnest._
+
+----
+
+Fam. Sturnidæ.--Sub-Fam. Icterina (_Nobis_).
+
+  Bill lengthened, conic, acute, entire, the commissure not sinuated. Tarsi
+  short, adapted for perching; claws strong, fully curved.
+
+----
+
+GENERIC CHARACTER.
+
+  _Bill black; both mandibles slightly bent; nostrils furnished with a
+  membrane; tail lengthened, graduated; wings slightly rounded._ Nob.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Black, not glossy; lesser wing-covers above yellow, beneath black
+  margined by yellow; legs bluish._
+
+  Oriolus Cayanensis. _Lin. 1. p. 163._
+
+  Xanthornus Cayanensis. _Brisson. Orn. 2. p. 123. pl. 9. f. 2._
+
+  Carouge de St. Thomas. _Pl. Enl. 535. f. 2._
+
+  Yellow-winged Pye. _Edwards, pl. 322?_
+
+In Mus. Nost.
+
+----
+
+The Starlings of the old continent, are represented in America by a tribe
+of birds formerly denominated Orioles, but which we shall distinguish by
+the name of Hangnests. They are gregarious and noisy; living both upon
+insects, fruits, and grain. Their nests are purse-shaped, woven with great
+dexterity, and generally suspended from the extreme branches of lofty
+trees.
+
+Much has been done to illustrate the affinities of these birds, and to
+define the species; but both are imperfectly known. Regarding their natural
+arrangement, our own views are quite at variance with the ingenious theory
+of Mr. Vigors; and as to the species, the bird before us is a curious
+example of error.
+
+The true _O. cayanensis_, in the best modern systems, has been lost sight
+of; and, under the new name of _chrysopterus_ (Vieil. Wagler.), has been
+confounded with _three_ others, one of which is a _Xanthornus_, one an
+_Icterus_, and one an _Agelaius_! The only authentic synonyms, which can
+therefore be consulted for our bird, are those we have quoted.
+
+_Cassicus_, _Cassiculus_, _Xanthornus_, and _Icterus_ are the only
+published genera which will come within our definition of the _Icterinæ_.
+
+Total length, 9 in.; bill, 1; wings, 4; tail, 4-1/10; tarsi, 8/10.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: _Long leg'd Ant Thrush_
+
+(_M. grallatoria._)]
+
+
+DRYMOPHILA longipes.
+
+_Long-legged Ant Thrush._
+
+----
+
+Family Meruladæ.
+
+Sub-family Myotherina.
+
+  Legs long, adapted for walking; wings and tail short, the latter weak,
+  rounded or even, but never forked or divaricated; claws but slightly
+  curved. _Nob._
+
+----
+
+GENUS DRYMOPHILA.--Lesson. Man. 1. p. 196.
+
+  D. longipes. _Above rufous; sides of the head cinereous; throat and
+  breast black; body beneath white; tarsi long, pale_.
+
+  _Sw. in Zool. Journ. 2. p. 152. Gen. Zool. 13. 2. 179. Lesson. Man. 1. p.
+  196._
+
+In Mus. Nost.
+
+----
+
+The Ant Thrushes, as originally defined by us, constitute a natural group
+of Birds peculiar to, and very abundant in, the tropical regions of the New
+World. They are found only in the deep shades of forests, seeking their
+nourishment on the ground, from ants and other terrestrial insects. Beyond
+such retreats they never venture, and thus their natural love for seclusion
+has prevented us from knowing more of their economy.
+
+The species are numerous: our own cabinet contains fifteen: but nearly
+double that number are among the rich and surpassing treasures of the Royal
+Museum at Paris. Of that here figured, we have never seen a second
+specimen.
+
+In the form of the bill, and the elongated lax plumage of the back,
+_Drymophila_ bears a close resemblance to the smaller species of Bush
+Shrikes (_Thamnophilus_), but the construction of the feet--adapted in one
+for perching, and in the other for walking--will sufficiently distinguish
+these groups.
+
+The specific name of _grallaria_, engraved on the plate, was inadvertently
+changed for that of _longipes_ in the published account. The figure
+represents the natural size.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: _Lingula anatina._]
+
+*       *       *       *       *       *
+
+
+
+[Illustration: _Lingula hians._]
+
+
+LINGULA anatina.
+
+----
+
+Class Mollusca.--Order Brachiopoda (_Macleay_).
+
+GENERIC CHARACTER.--Lam. Sys. 61, 257.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Valves of equal breadth, much depressed, and longitudinally sulcated;
+  the basal extremities approximating._
+
+  Lingula anatina. _Cuv. Bulletin, No. 52*. Ann. du Mus. v. 1, p. 69*. Lam.
+  Syst. 61, 258._
+
+  Lingula anatina. _Sw. in Phil. Mag. 62, p. 403, Dec. 1823._
+
+  Icones. _Ency. Meth. Pl. 250, f. 1, a, b, c. Chemn. Pl. 172, 1675, 1677.
+  Seba. 3 tab. 16, f. 4*._
+
+----
+
+The nature of the animal inhabiting the shell of _Lingula_ remained
+unknown, until the illustrious Cuvier detected its affinity with
+_Terebratula_, _Crania_, and those singular bivalve shells forming the
+order _Brachiopoda_ of Mr. Macleay. The valves have neither teeth or
+ligament, but are united by muscles, and supported on a fleshy peduncle,
+three or four inches in length, by which the animal is attached to marine
+bodies.
+
+We believe that under the common name of _Anatina_, two species have been
+included. Their respective peculiarities were published, some time ago, in
+the Journal above alluded to; and are now more fully illustrated by
+figures, and by such specific distinctions as are exhibited by the shells.
+Both species appear to inhabit the Indian Ocean.
+
+----
+
+LINGULA hians.
+
+  _Valves narrowed towards their base, convex, and generally smooth; both
+  extremities widely gaping._
+
+----
+
+We do not recollect to have seen this species so frequent in collections as
+the preceding; it is always smaller, more convex in the middle, and
+generally smooth. Mrs. Mawe favoured us with fine specimens of both, for
+delineation.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: _Pennantian Parrakeet._]
+
+
+PLATYCERCUS scapularis.
+
+_Tabuan, or King Parrakeet._
+
+----
+
+Family Psittacidæ.
+
+GENERIC CHARACTER.--Lesson. Man. 2, 146.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Green; head, neck, and body beneath scarlet; lower part of the back
+  blue; scapular covers with a pea green stripe; tail black._
+
+  Tabuan Parrot. _White's Voyage, pl. in p. 168 (male)._
+
+  Grande Perruche à collier et croupion bleus. _Le Vail. Par. pl. 55._
+
+  Platycercus scapularis. _Vig. and Hors. Linn. Trans. 15, 1, 284._
+
+----
+
+Greatly allied to the Ground Parrakeets of Australia, but differing from
+them in many particulars, are the Broad-tailed Parrakeets of the same
+region, forming the modern group _Platycercus_. The former appear to
+represent the Maccaws; while the latter exhibit many strong points of
+analogy to the Lories; but we question if their resemblance extends
+further.
+
+We have had one of these beautiful Parrakeets in our possession, alive, for
+many years. Its manners are gentle and timid. Like many of its congeners,
+it delights to wash itself in a basin of water. In the day, and during
+winter, it is generally silent; but on a mild evening it will go on, for
+two or three hours, with a somewhat whistling note; sometimes shrill, but
+generally soft and pleasing. Its ordinary diet is moistened bread, with a
+little hemp and canary seed; but during summer and autumn the small garden
+fruits appear to be highly welcome to our elegant little favourite.
+
+Our figure represents a variety of the male bird, wherein the light green
+on the scapular feathers is wanting. The total length is about sixteen
+inches.
+
+We consider the primary divisions of the _Psittacidæ_, are those which have
+long been recognized under the familiar names of Maccaws, Cockatoos,
+Parrots, Lories, and Parrakeets. Such a series is the result of a
+synthetical investigation we have given to the subject; but this mode of
+inquiry is so deceptive, and has led to so many erroneous conclusions, that
+until each of these groups are submitted to a patient analysis, which has
+never yet been done, no correct opinion on the subject can be formed. The
+name on the Plate (engraved five years ago) is a mistake. The first
+description and figure of this bird is in "White's Voyage to New South
+Wales," where it is described as not uncommon.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: _White shoulder'd Ant Thrush_
+
+(_M. Bicincta._)]
+
+
+DRYMOPHILA trifasciata.
+
+_White-shouldered Ant Thrush._
+
+----
+
+SPECIFIC CHARACTER.
+
+  _General plumage black; with the shoulder covers, interscapulars, and two
+  bands on the wing covers, snowy._
+
+  D. trifasciata. _Swains. in Zool. Journ. 2, p. 152. Gen. Zool. 13, 2,
+  179. Lesson. Manuel. 1, p. 196._
+
+In Mus. Paris. Nostro.
+
+----
+
+We found this remarkable bird not uncommon in the thick Forests of Pitanga,
+near Bahia, during our travels in Brazil in the years 1815-7. Yet although
+the male birds were frequent, we were never fortunate enough to procure a
+female. It has likewise been found in the southern provinces of that
+empire, by Dr. Langsdorff.
+
+Its total length is about seven inches; the whole plumage, with the
+exception of the snowy bands on the wings, is intensely black: the white
+spot on the back is only seen when the feathers are raised: the irides, in
+the live bird, are of a beautiful crimson.
+
+My friend M. Lesson, conjectures truly in thinking, that the birds placed
+by M. Temminck in our genus _Drymophila_, have no connexion or analogy with
+those species we have described, or with the characters on which we
+originally founded the group: they belong, in short, to a different family.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: _Red headed Tanager._
+
+T. Gyrola.]
+
+
+AGLAÏA Gyrola.
+
+_Red-headed Tanager._
+
+----
+
+Family Fringillidæ?--G. Tanagra. _Auct._
+
+Aglaïa. _Lesson. Man. 2, 423._
+
+  Bill small, short, compressed; nostrils concealed by velvet-like
+  feathers. Wings rather lengthened, pointed; 2, 3 and 4 quills equal and
+  longest. Tail even.
+
+Type.--_Tanagra Tatao._--Lin.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Vivid green, sometimes varied on the breast with blue: the whole head
+  bright rufous, bordered round the neck with a narrow golden ring._
+
+  Tanagra Gyrola. _Lin. 1, 315. Lath. In. Orn. 1, 427._
+
+  ---- _Desmarest Tan. pl. 15. Vieil. Orn. 2, p. 778._
+
+  Le Rouverdin. _Buff. Son. 12, p. 341. Pl. Enl. 133, f. 2. Edw. pl. 23._
+
+  Red-headed Tanager. _Lath. Syn. 3, 233. Gen. Hist. 6, 16._
+
+----
+
+The splendid little birds arranged under this group belong exclusively to
+Tropical America. They are generally seen in pairs, frequenting open woody
+tracts; feed principally upon fruits, and seldom if ever perch upon the
+ground: In the variety, and richness of their colours, they are only
+surpassed by the Humming Birds.
+
+The Red-headed Tanager has never, we believe, been found in Brazil;
+although it occurs in Cayenne, Surinam, and some of the West India Islands.
+Buffon was its first describer; he informs us that in French Guyana it
+appears in small flocks, two or three times in a year; arriving when the
+fruit of a particular tree is ripe, and departing when it begins to fail.
+Some specimens are more brilliant than others, originating probably from
+age or locality: those from Cayenne are known by a delicate blue tinge on
+the breast. A further variety has been described (_Ency. Meth._), in which
+the upper part of the neck is also red, and the back marked by a large spot
+of dull rufous (_brun-marron_). We suspect this will prove a distinct
+species. The rank of this group, whether as generic or subgeneric, can only
+be determined by analyzing the whole family.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: MELANIA Pl. 1.
+
+_1, setosa. 2, amarula._]
+
+
+MELANIA amarula.
+
+----
+
+Order Phytophaga. (_Gasteropoda, Cuv. Pars._)
+
+  Molluscæ destitute of a syphon, but furnished with jaws, and generally
+  enclosed in a univale shell, with an entire aperture.
+
+GENERIC CHARACTER.
+
+See Lam. Sys. 6, 2, p. 163.--Dubois Trans. 193.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Shell ovate-conical, blackish, upper part of the whorls armed with solid
+  porrect spines; aperture bluish white._
+
+  M. amarula. _Lam. Sys. 6, 2, p. 166. Chemn. pl. 134, f. 1218-9. Ency. pl.
+  468, f. 6._
+
+----
+
+This is a genus of fresh water shells, particularly abundant in Africa,
+Asia, and America; we have also heard it has lately been detected in
+Europe.
+
+We should not have figured this common and well known shell, but for the
+purpose of comparing it with the next. When in a young state, the spines
+are very acute: more advanced they become less so; and in old individuals
+they are often very obtuse.
+
+----
+
+MELANIA setosa.
+
+  _Shell ovate-conical, brownish olive; whorls armed with porrect tubular
+  spines, enclosing setaceous bristles._
+
+  Melania setosa. _Sw. in Brand's Journal, No. 33, p. 13._
+
+This is a most singular species. From the tubular spines emerge two or
+three hornlike, elastic bristles, which appear embedded in the substance of
+the shell. A very ample account of the first specimen we ever met with,
+will be found in Brand's Journal for April, 1824. It was discovered in the
+Isle of France, by Mr. Warwick, where it appears to be very rare. Other
+specimens have since been brought to this country.
+
+We were unwillingly drawn into a controversy respecting this shell some
+years ago. Our sentiments, in every thing that regards the shell itself,
+are unchanged. Not so with respect to the individual. The civilities and
+attentions we have since received from Mr. Gray, leave us to regret, very
+sincerely, that such a discussion should have ever taken place.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: MITRA. Pl. 3.
+
+_1, adusta. 2, ambigua. 3, punctata._]
+
+
+MITRA fulva.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Shell ovate-acute, smooth, fulvous, unspotted, marked with transverse
+  sulcated striæ, containing punctured dots: body whorl contracted; suture
+  crenated: base obtuse: outer lip thickly and strongly crenated; the
+  crenations, and the plaits on the pillar, white._
+
+----
+
+The different nomenclature of Lamark and Dillwyn, induced us to suspect
+that our present species might still be retained under the name of
+_adusta_; but as a greater degree of confusion may perhaps arise in so
+doing, than that which we wished to avoid, we have now given it a distinct
+name, and defined its true characters. It is sometimes partially dotted
+with pure white. The _M. adusta_ of Lamark is, in short, the same as the
+_ruffina_ of Linnæus: or at least that species which Dr. Solander and Mr.
+Dillwyn conceive to be such. Our shell is from the Isle of France, and is
+not common: the crenated teeth on the lip are very strong; the base obtuse,
+and effuse: the spire and aperture of equal length.
+
+----
+
+MITRA ambigua.
+
+  _Shell ovate-fuciform, rufous, with a white band near the suture,
+  transversely striated and punctured, suture and outer lip crenated, base
+  contracted; spire shorter than the aperture._
+
+Less distinctly striated and punctured than the last; but differs
+considerably in being almost a fuciform shell: the base of the aperture is
+consequently contracted. We possess but one specimen, and know not its
+locality.
+
+----
+
+MITRA punctata.
+
+  _Shell ovate, brown, striated and punctured: spire very small, somewhat
+  conic: outer lip crenated: pillar six-plaited._
+
+A beautifully perfect shell of this new and very rare species, we procured
+from our friend Mrs. Mawe; we have never seen another: the inside of the
+lip is margined with deep brown.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: _Golden back'd Tanager, male._
+
+T. Flava.]
+
+
+AGLAÏA flava.
+
+_Yellow Tanager._
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Above glossy fulvous yellow; sides of the head, and middle of the
+  throat, breast, and body, deep black; wings and tail green._
+
+  Tanagra flava. _Lath. In. Orn. 1, 431._
+
+  Tanagra Braziliensis flava. _Briss. Orn. 3, 39, 22._
+
+  Le guira-perea. _Buff. Son. 12, p. 362._
+
+  Yellow Tanager. _Lath. Syn. 3, 244. Gen. Hist. 4, 22._
+
+  Tanagra chloroptera. _Vieil. Orn. 2._
+
+----
+
+The buff-coloured yellow which spreads over the upper plumage of this bird,
+in some lights becomes much richer, and delicately gilded. The wings appear
+to be sea-green, but this colour only margins the borders of the feathers,
+the inner parts of which are blackish: the tail is coloured in the same
+way, the feathers divaricating from the middle, which is slightly forked.
+The black in front terminates at the vent; which, with the sides of the
+body, are waxen yellow.
+
+In the Ornithology of M. Vieillot, we find no mention of this well known
+bird by its long established name: but the _T. chloroptera_ of this writer,
+described as a new species, is evidently no other than the _flava_ of
+anterior authors.
+
+Our figure is of the natural size. The female is dark bluish green above,
+and buff beneath, much paler on the throat and breast: the chin and sides
+of the head blackish; and the crown buff-coloured yellow.
+
+We found this species not uncommon in several parts of Brazil, particularly
+round Pernambucco; frequenting the gardens, and feeding on the
+smaller-sized fruits.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: PAPILIO _Niamus_]
+
+
+PAPILIO Niamus.
+
+----
+
+Order Lepidoptera. G. Papilio. (_Auct._)
+
+GENERIC CHARACTER.
+
+  Wings pale, with longitudinal bands: posterior lengthened, caudated; the
+  tails long and acute.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Wings yellowish white with black bands; posterior wings acutely tailed,
+  with a black line and whitish lunule at the anal angle, and marked
+  beneath with a macular red band margined with black._
+
+  Pap. Niamus. _Alis flavo-albidis, fasciis nigris; posticis caudatis,
+  apice nigro lunulis albidis: his subtùs strigâ maculari rubrâ._ Latrielle
+  et Godart. Ency. Meth. 9, p. 51.
+
+----
+
+To describe in detail those colours and markings of an insect, which the
+eye can embrace at a single glance on a well executed representation, is
+surely unnecessary. We shall therefore merely observe that this species has
+hitherto remained unfigured: that it is a native of Southern Brazil, and of
+such rarity, that in two years, we never met with more than one specimen.
+
+In some observations upon what appear to us the leading groups of the
+_Diurnal Lepidoptera_, published some time ago, we considered those groups
+wherein the anterior feet are perfectly developed, and the chrysalis braced
+by a transverse thread, as the most perfect and typical. Subsequent
+observations confirm us in this general view; but it still remains to be
+investigated, to which group the generic name of _Papilio_ should be
+retained. The wide dispersion of that form represented in the two European
+species _Podalirius_ and _Machaon_, and which form occurs in all the
+temperate and tropical regions of the globe, leads us to suspect it as the
+most typical group: to this, _Papilio Niamus_, from its very close affinity
+to _Podalirius_, unquestionably belongs.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: RHETUS _Cramerii_]
+
+
+RHETUS Cramerii.
+
+----
+
+GENERIC CHARACTER.
+
+  _Larva_ and _Pupa_ unknown.
+
+  _Wings_ triangular; the posterior lengthened and rather acutely tailed.
+  _Antennæ_ with the club linear-fuciform. _Palpi_ cylindrical, elongate,
+  porrect, incurved, remote, naked; the second joint remarkably long.
+  _Anterior feet_ in the male short and very hairy; in the female longer,
+  naked, and furnished with minute claws. _Wings_, when at rest,
+  horizontal.
+
+_Types._--Pap. Rhetus. Periander.--(_Cramer._)
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Wings black, with two white subhyaline bands, both sides alike;
+  posterior wings elongated, vivid blue, acutely tailed, with a transverse
+  sub-lunular band at the anal angle._
+
+  Papilio Rhetus. _Cramer. pl. 63, f. c._
+
+----
+
+This is one of the rarest and most splendid lepidopterous insects of
+Brazil. We were once fortunate in capturing six specimens, fluttering over
+a shrub in the early morning sun, during our encampment in the Forest of
+Urupeè, in the Province of Bahia: but we never again met with this charming
+creature.
+
+The perfect insect has been figured in the costly, but truly valuable, work
+of Cramer; yet as neither the larva or pupa are known, we cannot determine
+on its natural group. Its relations, as suggested by the perfect insect,
+appear to be these. We consider the analogy between the groups respectively
+containing _P. Podalirius_, and _Marius_ (Cr.), to be immediate and direct:
+the form of the last type, and much of its general structure, is seen in
+our insect; but the details will not admit of a further similitude. Among
+the _Ericinæ_ we again detect this form in _P. Corineus_ and _Dorylus_
+(Cr.), and continuing the comparison, we see the _antennæ_, _palpi_, and
+feet (in one sex) of _Rhetus_, accurately represented in those of _P.
+imperialis_ (Cr.), among the _Thecladæ_. We therefore suspect, that the
+real affinities of our insect lie between the two last groups: It seems
+moreover to have a strong analogy with _Leilus_. The upper figure is of the
+male, the under of the female.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: ROSTELLARIA. P. 1
+
+_R. curvirostris._]
+
+
+ROSTELLARIA curvirostris.
+
+_Short-beaked Spindle._
+
+----
+
+Class Mollusca. Order Zoophaga.--(_Gasteropoda, Cuv. Pars._)
+
+  Carnivorous Mollusca without jaws; the mouth formed into a retractile
+  trunk: conveying nutriment by suction. Respiration aquatic: the water
+  being conducted to the branchiæ by a projecting siphon.
+
+Family,? Strombidæ. (_Les Ailées. Lam._)
+
+----
+
+SYNOPSIS OF THE GENERA.
+
+  Div. 1. _Outer lip with a sinus; distinct from the basal canal._
+
+  STROMBUS. _L._ Outer lip dilated, entire, basal canal short.
+
+  _Stromb. gigas, auris-Diana, tridentatus, urceus, &c._
+
+  PTEROCERAS. _Lam._ Outer lip digitated; canal lengthened, arcuated.
+
+  Div. 2. _Sinus simple; formed by the prolongation of the canal._
+
+  APORRHAIS. _Dacosta._ Outer lip dilated and digitated.
+
+  _Strombus pes-pelecani. Auct._
+
+  ROSTELLARIA. _Lam._ Outer lip dentated, but not dilated. Basal canal
+  long.
+
+  HIPPOCHRENES. _Montf._ Outer lip generally dilated, and always entire.
+  Basal canal moderate or short. Spiral canal nearly equal to the spire.
+
+  _Rost: macroptera, columbata, fissurella, Lam._
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Basal canal short: spiral canal thickened, and perpendicularly ascending
+  on the spire._
+
+  Strombus fusus. _Linn. Gm. 3506. Lister, 854, 12. Seba, 3, 56, 1._
+
+  Rostellaria curvirostris. _Lam. Sys. 7, 1, 192. Ency. Meth. pl. 411, f.
+  1._
+
+----
+
+This elegantly formed shell is a native of the Red and Indian Seas. It is
+the most common of the few species retained in the genus _Rostellaria_; all
+these are recent; while _Hippochrenes_ has occured only in a fossil state.
+
+The preceding table of affinities, connecting the leading forms among the
+_Strombii_, will be adverted to hereafter. At present we shall offer a few
+observations on the nature of that more comprehensive division of the class
+_Mollusca_, to which this particular group appears to belong.
+
+The learned Author of the Horæ Entomologicæ, in that part of his valuable
+essay relating to the _Molluscæ_, considers our knowledge of these animals
+too imperfect to enable him to state the nature of the typical groups: the
+situations of which, in his diagram of the animal kingdom, are therefore
+merely indicated by stars. M. Macleay further remarks, that the
+_Gasteropoda_ of M. Cuvier, with certain restrictions, evidently form a
+circular group. Yet, from the above omission, it appears he still
+entertained some doubts on the propriety of this arrangement. Labouring
+under similar disadvantages to those which impeded the researches of so
+profound an observer, we feel some hesitation in expressing a different
+sentiment on the subject, particularly in reference to his own disposition
+of affinities.
+
+It is evident that these typical groups, whatever may be their nature, must
+present some very strong points of analogy to those in the circle of
+_Vertebrata_: and that such analogies should extend to the corresponding
+groups of the _Annulosa_. This we should expect, not only as the necessary
+result of a truly natural arrangement, but as a primary test, by which the
+correctness of any series of affinities must be tried. Now admitting that
+Quadrupeds and Birds shew the same typical perfection among the
+_Vertebrata_, as the Mandibulate and Suctorial Insects unquestionably do in
+the _Annulosa_, we have two beautiful analogies between these otherwise
+dissimilar groups, taken from one of the most important functions of
+nature. Quadrupeds and mandibulate insects are provided with jaws for
+tearing and masticating their prey, while in birds and suctorial insects,
+the mouth is lengthened into a proboscis, by which nourishment is imbibed
+by suction. These analogies are equally conspicuous among the _Molluscæ_.
+The _Phytiphages_ of Lamarck (of which the garden snail is a good example),
+are furnished with jaws and masticate their food: the _Zoophages_ of the
+same accurate observer, have their mouth elongated into a retractile trunk
+or proboscis, by which they pierce through other shells, and suck the
+juices of the inhabitant. To insist on the importance of these
+distinctions, employed as they have been to characterize primary divisions,
+is surely unnecessary. That they will be subject to considerable
+modification, in the subordinate groups, may naturally be expected: but we
+refrain at present from offering an opinion on the nature of such groups,
+dependant, as they must be, on greater anatomical knowledge than we yet
+possess. Nevertheless, until more direct analogies are discovered, than
+those here stated, we feel some confidence in employing them as _typical_
+distinctions of the two great divisions of _Gastropod Mollusca_.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: PSARIS _Jardinii_
+
+_Jardine's Saris._]
+
+
+PSARIS Jardinii.
+
+_Jardine's Saris._
+
+----
+
+Family Todidæ.--_Nob_. Sub-family Psariana.--_Nob_.
+
+GENERIC CHARACTER.
+
+  _Bill_ thick, strong, more or less depressed, culmen not elevated, both
+  mandibles notched, the upper convex: _nostrils_ round, nearly naked:
+  _rictus_ smooth; _mouth_ very wide. _Wings_ long, pointed, the second and
+  third quill longest. _Tail_ short, even.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Cinereous white; head, tail, and outer half of the wings, black: first
+  and fifth quill equal: spurious quill none; orbits plumed._
+
+In Mus. Nost.
+
+----
+
+In a small collection of birds, from the interior of the vast Empire of
+Brazil, we met with this new and highly interesting species. Its
+resemblance to the well known _Psaris Cayanus_ is so close, that even
+Ornithologists would not at first suspect the difference; and this may
+possibly account for its having been overlooked. The size and colour of the
+two birds, in fact, are perfectly alike: but in this, the bill is much more
+depressed; the orbits, instead of being naked, are covered with feathers:
+and the spurious intermediate quill is entirely wanting. Our bird thus
+presents not only the characters of a species, but a modification of form,
+leading to the genus _Pachyrhynchus_ of Spix.
+
+Our friend Sir William Jardine, Bart., who has long felt, with us, a
+peculiar interest in this group, will accept our dedication of this species
+to him, as a proof of the estimation in which we hold his studies.
+
+The publication of _Psaris Cuvierii_ in the early series of our work, was
+the first addition made to this group after its publication in the _Regnè
+Animal_. The generic name of _Psaris_ soon after became familiar to British
+Ornithologists, by being universally adopted. Recently, however, the Editor
+of the Zoological Journal has expressed his opinion that this name, on the
+score of priority, should give place to another. The question would be of
+little moment did it merely concern this group; but involving, as it does,
+the entire nomenclature of two systems, it becomes a matter of some
+importance to ascertain their respective claims. The period of typographic
+publication, as connected with the only process by which knowledge can be
+universally communicated, is the only criterion, in our opinion, by which
+such claims should be decided. Dates, if _truly affixed_, speak for
+themselves. But to attain this advantage, no surreptitious or disreputable
+practices can be allowed. A plausible claim may indeed be made by any
+author, who hastily puts together an essay or pamphlet, for the sole
+purpose of anticipating the patient labours of another: but such artifices,
+when discovered, are sure to be discountenanced by honourable minds. To
+illustrate our meaning better, we will state a case.
+
+Let us suppose, then, a learned Naturalist, in charge of a public museum,
+is engaged in a general classification of the animal kingdom: that to the
+type of each group, as progressively defined, he affixes a label, with the
+proposed name, and returns it again to the public rooms. Let us further
+suppose that an Ornithologist, wishing to make a new system, but without
+any materials for so doing, goes to this museum, selects, as they are
+successively named, these identical types for his examination, well knowing
+by whom, and for what purpose they are so named. He then goes home, and
+publishes, with all expedition, an ill-digested pamphlet, _wherein every
+group appears under a name, totally different from that by which he became
+acquainted with it_.
+
+It is not for us to make the application. But that such practices have been
+resorted to, is well known among the highest scientific authorities in
+Paris. It is not so much in justice to a distinguished individual, as our
+respect for the broad principles of truth and honour, that we have said
+thus much. These are grave charges, but they are not lightly brought
+forward. Resting, as they do, on testimony the most unquestionable, we
+should deem it almost insulting to our countrymen could we suppose they
+will henceforward, by adopting these names, countenance a claim built on
+such a fraudulent basis.
+
+Our views of the natural situation of this group, must be reserved for the
+next number.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: PETROICA _multicolor_.
+
+_Scarlet breasted Robin_]
+
+
+PETROICA multicolor.
+
+_Scarlet-breasted Robin._
+
+----
+
+Family Sylviadæ.
+
+GENERIC CHARACTER.
+
+  _Bill_ slender, the sides compressed, the tip gradually bent, and beset
+  with bristles at the base. _Wings_ long; the first quill spurious; the
+  second intermediate in length between the sixth and seventh. _Tarsi_
+  elevated, the inner toe manifestly shorter than the external toe. _Tail_
+  broad, even.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Head, throat, and upper plumage black; front snowy; wings with one
+  longitudinal and two oblique white bands; breast and part of the body
+  scarlet; belly dull white._
+
+  Red-breasted Warbler. _Lewin. Birds of New Moll. pl. 17._
+
+  Muscicapa multicolor. _Gen. Horsf. & Vig. Linn. Tr. v. 16, p. 243._
+
+  Red-bellied Flycatcher. _Lath. Gen. Hist. 6, p. 209, pl. 100?_
+
+Mus. Nost. &c.
+
+----
+
+The analagous resemblances between the species and groups of one region,
+and those by which they are represented in another, are among the most
+curious and remarkable facts in Natural History: whether we look to them as
+proofs of a Divine plan, vast in its extent, and wonderful in its details,
+or as exemplifying that system of symbolical relationship by which every
+part of the animated world is mutually connected. Both appear intended for
+one great purpose, the partial initiation of man into earthly mysteries,
+that he may have greater faith in those which regard his eternal welfare.
+
+The Robin, spread over the whole of Europe, is represented in temperate
+America by the Blue Bird of Wilson (_Sialia Wilsonii_, Sw.). Neither of
+these are found in New Holland, but the bird before us may be considered
+their representative. Lewin, who wrote upon the spot, observes that
+although in some respects solitary, it frequents the abodes of man _in
+winter_, like the Robin; which it further resembles in its note. Our
+European bird is intimately connected with the Stonechats
+(_Saxicolæ_).--The remark of another eye witness, proves the Australian
+species to have the same relation. Mr. Caley mentions that he saw "this
+bird in November" (_our European summer_), "when far distant in the
+mountains, in the roughest part of the country I had then or since
+visited." _Linn. Tr. 15. p. 245_. Mr. Caley, moreover, as if perfectly
+aware of its natural affinities, names it the Australian Redstart. So
+closely, in short, does this bird resemble our European Stonechat, that but
+for the recent acquisition of more typical species, we should have had
+doubts whether to characterize it as a distinct type.
+
+Linnæan writers, as might be supposed, have always regarded this as a
+Flycatcher, but as Mess. Horsfield and Vigors have recently dwelt, at some
+length, on the propriety of such an arrangement, it may be as well to state
+the leading differences between the two families. In _Muscicapa
+atricapilla_, (with which these gentlemen have compared our bird,) the bill
+(fig. 1, 2), like that of every genuine Flycatcher, is depressed from the
+base to the tip, while that of _Petroica_ (fig. 5, 6), of the Stonechat
+(fig. 3, 4), and of all _Saxicolæ_, although depressed at the base, is
+invariably _compressed_ on the sides. By these characters the former
+preserve their affinity to the Todies, and the latter to the Thrushes. In
+the garnature of the rictus there is also an essential difference. The
+bristles of the _Muscicapæ_ (f. 1, 2), are always rigid and directed
+forwards: while those of the _Saxicolæ_, although sometimes remarkably
+long, are generally weak, and diverge in different directions. Thus much
+may be stated on the chief peculiarities of the groups in question: they
+may for the present be termed analogies, but there are considerations which
+induce us to suspect they are more intimately connected by affinity than is
+generally supposed. To facilitate comparison, our figure is of the natural
+size, and particular care has been taken in the correct delineation of all
+the proportions and details.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: PLOCEUS _Textor_
+
+_Rufous necked Weaver_]
+
+
+PLOCEUS textor.
+
+_Rufous-necked Weaver._
+
+----
+
+Family Fringillidæ?
+
+GENERIC CHARACTER.
+
+  _Bill_ lengthened-conic, slightly curved, entire, the base advancing high
+  on the forehead, and dividing the frontal feathers, the culmen curved,
+  the commissure sinuated. _Nostrils_ oval, naked: without a membrane.
+  _Wings_ moderate, rounded, the first quill spurious, the five next nearly
+  of equal length. _Feet_ short, strong, the middle toe longer than the
+  tarsus, the hind toe nearly equal with the tarsus. _Tail_ very short,
+  rounded.
+
+DIVISIONS OR SUB-GENERA.
+
+  MALIMBUS. _Vieil._ Bill more straight, slender, and lengthened.
+
+  PLOCEUS. _Cuv._ As above.
+
+  EUPLECTES. _Nob._ Bill of Ploceus. Toes and claws very slender. The
+  greater quills scarcely longer than the lesser; spurious quill very
+  minute. _Type_, Loxia Orix. L.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Orange yellow, varied above with black: head, chin, and front of the
+  throat black: nape with a chestnut band._
+
+  Oriolus textor. _Auct._
+
+  Ploceus textor. _Cuvier. Reg. Anim._
+
+  Le cap-more. _Buff. Son. 19, p. 165. Pl. Enl. 375_ (_very bad_).
+
+----
+
+The Weaving Birds, confined to the hotter regions of the old world, are
+chiefly found in Africa, where they represent the Hangnests (_Icterinæ_) of
+America: an analogy long since remarked by Buffon. Both these tribes
+astonish us by the consummate skill with which they fabricate their nests:
+but the intelligence displayed by the African Weavers is still more
+wonderful. The curious reader will see a most interesting account of these
+birds in Paterson's African Travels, or in Wood's Zoography.
+
+Of the present species, although very common in Senegal, nothing appears
+known beyond the simple fact of its weaving, in confinement, between the
+wires of its cage. Its total length is about six inches, the minor
+proportions may be correctly ascertained by the scale on the plate.
+
+If the genus _Ploceus_ of Baron Cuvier be restricted to the old world, it
+becomes one of the most natural groups in Ornithology. Yet, like all others
+of an extensive nature, it exhibits several modifications of structure,
+which the present state of science renders it necessary to define. Whether
+such definitions are to be termed generic, subgeneric, or sectional, must,
+in the first instance, depend on mere opinion. It is enough if these lesser
+groups are defined. To ascertain their relative value is the next step:
+this is the second, and by far the most difficult process, in the study of
+real affinities; for not only that particular group which claims our
+attention, but every other related to it in a higher division, must be
+patiently analyzed. Hence it frequently results that groups assume a very
+different _apparent_ station to what they did in the first instance. Are we
+therefore to refrain from characterizing or naming them, because their
+relative value cannot, in the first instance, be ascertained? We think not.
+That _genera_ have been unnecessarily multiplied, no one can doubt, who has
+looked beyond such circumscribed limits. And if forms of transision,
+(generally comprising one or two species alone,) are to be so ranked, we
+must immediately treble or quadruple the present number of ornithological
+genera. The truth is, that many groups, which in our first process of
+combination, we are obliged to distinguish, or perhaps name, will, in the
+second, be united to others. So that it appears highly probable that the
+number of genera, in ornithology, ultimately retained, will be fewer
+perhaps than at present. We are, in short, but in the infancy of this
+knowledge, and our genera, for the most part, must be looked upon as
+temporary landmarks, to denote the ground gone over, and to be fixed or
+removed as our views become more extended, by a wider analysis of qualities
+and relations.
+
+Total length 6½ inches, bill 7/10, wings 3-6/10, tarsi 9/10, middle claw 1,
+tail 2½, beyond the wings 1¼.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: AMPULLARIA Pl. II
+
+_1. Subcarinata 2. Nilotica_]
+
+
+AMPULLARIA subcarinata.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Shell reverse, thickish; whorls depressed near the suture, and marked by
+  a parallel line; spire short, obtuse; umbilicus large, open, slightly
+  carinated, and marked with an internal groove._
+
+  Ampullaria subcarinata. _Sow. Genera of Shells, f. 4._
+
+----
+
+The politeness of Mr. G. Sowerby has given us the opportunity of examining
+this rare and little known species, first described and accurately figured
+by himself. It was discovered, we believe, by Mr. Cranch, the ill-fated
+naturalist who accompanied the unfortunate expedition to the Congo, in that
+river. No specimens, we are informed, have subsequently reached this
+country. The surface is rough, occasioned by irregular corrugated wrinkles:
+the epidermis olive.
+
+----
+
+AMPULLARIA Nilotica.
+
+  _Shell reverse, thin, smooth, whitish, with an Olive epidermis finely
+  striated longitudinally; lower half of the basal whorl much contracted:
+  spire prominent, obtuse; operculum horny; umbilicus large, open, the
+  margin obtusely carinated._
+
+----
+
+The shell from which our figure was taken we received from Mr. G. Sowerby,
+under the name of _Nilotica_, some years ago. Whether it is the same, or
+specifically distinct from Lamarck's _Guinaica_, we have no means of
+judging, otherwise than from the figures he cites of Chemnitz. If these are
+accurate, there are many points of difference; but no doubt the Editor of
+the _Bulletin des Sciences_, will have great pleasure in setting us right
+upon this subject.
+
+On attentively comparing the descriptions, given by Lamarck, of eleven
+species of _Ampullaria_, with those we have characterized in different
+works, we can only discover two instances wherein the same species have
+been mentioned by both parties, under different names. Our _A. conica_, is
+probably Lamarck's _virens_, and belongs to the genus _Pachystoma_, Guild.
+The other instance is curious; in the Appendix to the Bligh Collection, we
+described a remarkable variety of _A. fasciata_, under the sub-specific
+name of _Canaliculata_. In the following month appeared the second part of
+Lamarck's _Système_, wherein this variety appeared as a _species_, under
+the very same name. It would almost appear as if the two accounts had been
+written at the same moment. We have since had good reason to be confirmed
+in our suspicion as to this shell being a mere variety of _fasciata_, from
+a fine series of specimens sent us from Demerara. We take this opportunity,
+however, of expressing a belief that our _A. leucostoma_, is the young
+shell of _rugosa_.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: STOMBUS. Pl. 1.
+
+_S. Peruvianus_]
+
+
+STROMBUS Peruvianus.
+
+----
+
+Order Zoophaga.   Family? Strombidæ.
+Genus Strombus.--_Lam. Sys. 7. 199._
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Shell ponderous, nodulous, spire very small, depressed; outer lip above
+  produced and attenuated, margin reflected; aperture striated._
+
+  Strombus Peruvianus. _Sw. in Phil. Mag. 62, p. 377._
+
+----
+
+We first recorded this singular-shaped Strombus from a specimen sent from
+the Coasts of Peru. Others, from the opposite side of the American Isthmus,
+collected near Panama, have more recently come into the possession of our
+friend, the Rev. J. Bulwer, F.L.S. Its general form is not unlike _S.
+gallus_, but the spire is unusually depressed, and the aperture deeply
+striated: the upper surface is marked by parallel grooves, and one of the
+nodules is particularly large.
+
+In our last number we defined what appear to be the leading forms among the
+_Strombii_, from such characters as are exhibited by their shells. This
+mode of classification, we admit, is always attended with hazard; and
+should not be ventured upon without due precaution. To attempt a _natural_
+arrangement of the higher groups, on such considerations alone, would be
+manifestly absurd. On the other hand, we think both principles may be
+carried too far: and that a system founded exclusively upon the animal
+would, in our present state of knowledge, be little less artificial than
+another taken merely from the shell. We see, on every side, throughout
+Nature, the most beautiful and perfect adaptation of structure to use. The
+typical _Mollusca_, whether among the _Acephala_ or _Gasteropoda_, appear
+to be testaceous; and to exhibit a corresponding perfection in the
+structure of their coverings: one form passes into another by as gradual
+modifications of the shell, as could possibly be looked for in the nature
+of the animal. We have attempted to exemplify this among the _Unionidæ_ and
+the _Olivæ_. We shall now examine the _Strombii_ with reference to the same
+object.
+
+"_Les Aileés_," observes Lamarck, "_constituent une famille très-naturelle,
+qui avoisine celle des Canaliferès par ses rapports, mais qui en est
+éminemment distincte_." This able classifier (whose perception of
+affinities is truly admirable), then proceeds to divide these shells into
+three groups, founded upon such excellent distinctions, that we need not
+here dilate on their importance. Two of these genera are characterized by a
+deep and well defined sinus or notch, towards the base of the outer lip;
+quite distinct from the basal canal, and intended either for the passage of
+the animal's proboscis, or its respiratory siphon. In _Strombus_ the outer
+lip is dilated, but entire; in _Pteroceras_, it is equally enlarged, but
+divided into long processes. Such are the typical distinctions, and their
+immediate union appears effected by the _Strombus laciniatus_ of Chemnitz.
+The third genus of Lamarck's is _Rostellaria_, in which he places all those
+species wherein the sinus above mentioned is united to the basal canal. Now
+if the _Strombus pespelecani_ of authors had this canal more closed, and
+the sinus distinct, it would be a _Pteroceras_. Da Costa long ago placed
+this shell as the type of a genus, and the observations of Mr. Dillwyn, in
+his short but highly valuable paper on fossil shells (Phil. Trans. for
+1823, p. 1, p. 393), have shewed the importance which we should attach to
+its structure: it is, in fact, a _Pteroceras_, but with the above mentioned
+sinus removed to the base of the digitated lip, and confounded, as it were,
+with the basal canal. Excepting to a _Pteroceras_, it cannot be compared
+with any known shell, unless it be to the _Strombus fissus_ of Linn. The
+hiatus between them certainly appears great, yet the affinity is not
+interrupted by any thing known: this latter shell resembles the true
+_Rostellariæ_, but with the digitated processes of _Pteroceras_ reduced to
+teeth; which teeth, in _R. curvirostris_, become confined to the basal part
+of the unexpanded lip. We are here met by certain fossil shells, preserving
+the form of _Rostellaria_, but with the outer lip entire, and sometimes
+considerably expanded: in these the spiral canal sometimes extends to the
+summit of the shell: finally the distinct sinus again appears in such
+species as _S. cancellatus_, _canalus_, &c., all which have been classed by
+conchologists with _Strombus_. This series is sufficient to shew the
+_tendency_ of a circular disposition of relations, but very many of the
+intermediate forms are wanting, nor is it at all clear in what way the
+immediate passage is effected between _Hippochrenes_ and the genuine
+_Strombii_.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: OLIVA. Pl. 1.
+
+_1. volutella 2. striata_]
+
+
+OLIVA volutella.
+
+----
+
+Class Mollusca. Order Zoophaga. _Lam._
+
+Genus Oliva. _Lam. Sys. 7, p. 416._
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Shell ovate-conic, mitriform; chestnut, the body whorl bluish; spire
+  lengthened, acute; pillar with 6-7, slender, regular plaits._
+
+  Oliva volutella. _O. testâ ovato-conicâ, subcæruleâ, ad spiram basimque
+  luteo fuscatâ; spirâ valdè productâ, acutâ._ Lam. Sys. 7, 1, p. 432.
+
+----
+
+We are indebted to the Rev. Mr. Bulwar for our specimens of this elegant
+and highly interesting species, received by him from the American Isthmus.
+It varies much in the intensity of its colour, as may be seen from the
+above description, given by Lamarck, of examples procured by Baron Humbolt
+on the shores of Mexico.
+
+There are reasons for believing the genus _Voluta_, as defined by Lamarck,
+to be typical of a natural group, comprising the genera _Mitra_, _Oliva_,
+_Ancillaria_ and _Marginella_. The obvious affinity between _Voluta_ and
+_Mitra_ need not be dwelt upon. The connexion of _Mitra_ with _Oliva_, we
+noticed in describing _Mitra olivæformis_, at pl. 48 of our first series.
+This affinity appears further strengthened by a shell in the late
+Tankerville Collection, especially recorded by Mr. G. Sowerby, as
+"remarkable for its resemblance to an Olive." We regret not having seen
+this shell, but such an authority is fully sufficient. The group of Mitres,
+by which this transision appears effected, is that mentioned under the head
+of _M. bicolor_ (Mitra, Pl. 1.) of this series. This little group has three
+relations: one to the smooth Mitres (as _M. pertusa_), another to
+_Conohelix_, and a third to the _Olives_: the species are all remarkable
+for the polished smoothness of their surface, for the total absence of the
+inner lip, and for the lower plaits of the pillar extending much beyond the
+aperture: these plaits, moreover, are generally five or six, and all very
+slender. The conchologist will perceive that nearly the only character
+wanting, to render this description applicable to an Olive, is the
+channelled groove round the suture. This character is added to the shell
+before us, which thus presents the first type of form in the present genus.
+Proceeding to the more perfect Olives, we observe the spire becoming
+gradually shorter; the vitrious deposition on the inner lip increased in
+thickness; the upper plaits on the pillar numerous, and those at the base
+thicker and more external (_M. fulmineus_, Lam. _elegans_, En. Meth. 362,
+3.), the ventricose shape of some (_O. undata_, _inflata_, Lam.), the spire
+often concealed by a vitrious covering, and even the colours of others (_M.
+tessellata_, _guttata_) remind us of the typical Volutes. It is very
+remarkable, that in most of the cylindrical Olives, the apex is more or
+less, papillary: the last complete terminal volution of the spire being
+thick, inflated, and distorted: (see particularly _O. reticularis_, En.
+Meth. 36, f. 1; _fusiformis_, Ib. 367, 1; _guttata_, Ib. 368, f. 2.) Others
+are seen of a more slender form, as _O. subulata_, L. _acuminata_, E. M.
+368, 3, where the pillar is similarly plaited. But in several small species
+allied to _O. conoidalis_, another modification of form has evidently
+commenced: the spire is regularly acute; the upper plaits disappear; and
+those which remain, are only at the thickened base of the pillar: the
+aperture, no longer narrow, becomes wide at the base, where the pillar
+takes an oblique direction inward: we are thus led to the form of _O.
+hiatula_, E. M. pl. 368, f. 5, where the characters of _Ancillaria_ become
+apparent in the effuseness of the mouth, the double belt at the base, and
+the imperfect groove on the outer side of the pillar. Whether we look to
+this shell, or to the descriptions given by Lamarck of the fossil species
+_plicaria_, _canalifera_, and _laumontiana_, or finally, to the _Ancillaria
+glandiformis_, Sow. no doubt can remain of the genus _Oliva_ being here
+blended with the _Ancillariæ_. There is, however, another form among the
+_Olivæ_, which deserves mention, as it cannot well be associated with
+either of the preceding: this we have described below. Another genus that
+may be thought connected with _Oliva_, is _Terebellum_: a group very ably
+illustrated by Mr. G. Sowerby, in his "Genera of Shells." To that work we
+must refer the reader for those reasons which shew its more immediate
+relation to _Ovula_. It is, in short, one of those forms too hazardous to
+class without a complete knowledge of the animal.
+
+----
+
+OLIVA striata.
+
+  _Shell small, cylindrical, sub-effuse, distinctly marked by regular
+  longitudinal striæ; upper part of the body whorl with one, lower part
+  with four, belts; spire short, channelled, sub-papillary, naked; base of
+  the pillar striated and externally detached by a groove._
+
+  Ancillaria canalifera?? _Lam. Syst. 7, 415_.
+
+----
+
+We do not find this fossil clearly described. Our specimens appear to be
+from the London clay. Its form seems analogous to _Conohelix_ among the
+Mitres. The line adjoining the figures denotes the natural length of the
+shells.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: PSARIS _cristatus_.
+
+_Crested or white backed Saris._]
+
+
+PSARIS cristatus.
+
+_Crested, or White-backed Saris._
+
+----
+
+Family Todidæ.--_Nobis._
+
+  _Bill_ lengthened, depressed, boat-shaped. _Tarsi_ moderate, weak, the
+  three anterior toes more or less united. _Wings_ and _tail_ short.
+
+Sub-family Psariana.--_Nobis._
+
+  _Head_ very large, depressed. _Mouth_ very wide. _Bill_ thick, depressed,
+  convex above. _Feet_ weak, tarsi rather short, toes united at their base,
+  the outer manifestly longer than the inner; claws broad, compressed;
+  anterior scales transverse; lateral scales small, numerous. The male
+  generally with a spurious quill between the first and second.
+
+GENERA.
+
+  PSARIS. _Cuv._ Rictus smooth, wings lengthened, the first quill much
+  longer than the fourth, tail short, even.
+
+Type, _Psaris Cayanus_.--Cuv.
+
+  PACHYRHYNCHUS. _Spix._ Rictus bearded, bill shorter, wings more rounded,
+  tail lengthened, graduated.
+
+Type, _Psaris niger_.--Nob.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Blackish brown, beneath pale fulvous, base of the wings with a concealed
+  snowy spot, spurious quill broad, crown black, slightly crested._
+
+  Psaris cristatus. _Sw. in Zool. Journ. 2, p. 354._
+
+Mus. Paris. Nost.
+
+----
+
+Of this very rare species we know but of two specimens, both of which
+appear to have come from the mining provinces of Brazil. The economy of
+these interesting birds has not yet been detected, even by naturalists who
+have lived in their native regions. The indefatigable Azara professes his
+ignorance on this point, but states some valuable information on a species
+(nearly allied to the _Cayenne Saris_) named by him _Le Distingué a tête
+Noir_, which, in Paraguay, is a bird of passage: its flight is elevated,
+rapid, and prolonged. "_Ils ne sont ni farouches, ni remuans, et ils se
+tiennent long temps à la même place. Ils ne sortent point des grands bois,
+et ils se perchent toujours au plus haut des arbres les plus èlevés, où ils
+ne cherchent pas à se cacher._" Azara Voy. 3, p. 407.
+
+The size and strength of the bill induced us, some years ago, to adopt the
+popular classification of this genus with the family of Shrikes; but a more
+particular analysis of that and the neighbouring families, lead us to
+suspect that its natural situation is far different: our reasons for this
+belief will be stated at large in another work. For the present it may be
+remarked, that the smoothness of the rictus, as indicating a frugivorous
+habit, forbids us to place it with the Flycatchers; while the feet,
+perfectly different from those of the true Shrikes (_Laniana_, Sw.), can
+only be compared with those of the _Piauhau_ (Buff.). The affinity which
+this group bears to _Gubernetes_, is merely superficial: but its analogies
+to _Ceblepyris_, among the _Laniadæ_, and to _Pachycephala_, among the
+_Ampelidæ_, are probably direct.
+
+The merit of having first directed the attention of Ornithologists to the
+singular spurious quill, which generally distinguishes the males of this
+group, we transfer from ourselves to Azara. His invaluable work we did not
+then possess, and knew not that the circumstance had already been mentioned
+by him.
+
+We are only acquainted with the genus _Pachyrhynchus_ of Spix, by seeing
+this name affixed to our _Psaris Cuvierii_ in the Paris Museum. The
+distinction is judicious; particularly as the two groups point to different
+relations. Of _Psaris_, as now restricted, we know of six species, and of
+_Pachyrhynchus_, ten.
+
+Our present bird is osculent between these forms: we place it with _Psaris_
+on account of its wings and tail; but it accords with _Pachyrynchus_ in the
+rictus being slightly bristled. The spurious quill is half the length of
+the first, which latter is as long as the fourth. The tail is in a slight
+degree rounded. It is, perhaps, needless to remark, that all these birds
+are confined to Equinoctial America.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: CHÆTURA _macroptera_
+
+_Longwinged Swift_]
+
+
+CHÆTURA macroptera.
+
+_Long-winged Swift._
+
+----
+
+Family Hirundinidæ.
+
+GENERIC CHARACTER.
+
+  _Bill_ entire, the sides much compressed, the culmen arched. The lower
+  mandible recurved at the tip. _Wings_ very long. _Tail_ scansorial, the
+  extremity of the shafts naked, and acute. _Tarsi_ naked, the three
+  anterior toes and claws nearly equal; hind toe not versatile. _Nob._
+
+Type. _Chætura pelasgia._ Stevens.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Brown: wings and tail glossed with greenish blue; back grey-white: chin
+  and under tail covers snowy; tail even._
+
+  Ob. Tail 3½ in. longer than the wings, the two first quills longest and
+  equal.
+
+----
+
+For an inspection of this new and imposing species, we have to thank Mr.
+Ward, an Animal preserver of considerable talent. We do not find it
+mentioned in any Ornithological work we possess, and our library is not
+small: but with so many publications continually issuing from the
+continental press, we shall feel no surprise at discovering it has already
+been published.
+
+This and the _Hirundo albicollis_, (first named by M. Vieillot) are two of
+the largest species yet discovered, of a very singular group of Swifts;
+wherein the tail feathers are spined, and even more rigid than those of the
+Woodpeckers: by this structure the birds can remain for a considerable time
+in the most perpendicular situations. The expanded tail thus acts as a
+powerful support, which is further increased by the size and strength of
+the claws, much larger than those of ordinary Swallows. There are several
+species, most of which are natives of America.
+
+The direct analogy which this group bears to the typical scansorial Birds,
+joined to the general superiority of flight which the Swift possesses over
+the Swallow, leads us to suspect this may prove to be the typical group of
+the _Fissirostres_; an order in which Nature, in her wish to develope the
+greatest powers of flight, appears to neglect all those laws which she
+afterwards so rigidly adheres to: We intend in another work, to enter on
+this interesting subject more fully.
+
+Our figure is in strict conformity with the scale on the plate, which is
+that of an inch.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: PETROICA _bicolor_.
+
+_Black & white Robin._]
+
+
+PETROICA bicolor.
+
+_Black and White Robin._
+
+----
+
+Family Sylviadæ. Sub-family Saxicolinæ.
+(_See Northern Zoology, Vol. 2._)
+
+GENERIC CHARACTER. See No. 8, pl. 36.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Black and white. Head, throat, back, and tips of the tail glossy raven
+  black: breast, scapular covers, stripe on the wings, and plumage beneath,
+  white: tail slightly forked._
+
+----
+
+In giving publicity to this new and interesting bird, we feel particular
+pleasure in expressing our thanks to Allen Cunningham, Esq., His Majesty's
+Botanist, in New South Wales, by whom it was there discovered. Although
+devoted to a science already so much benefited by his researches, this
+enthusiastic Traveller found some leasure for Ornithology, and has lately
+favoured us with a large collection of skins, prepared during one of his
+inland journeys; with a request that they may be made public: among other
+highly curious forms, the present bird is conspicuous. It was found in the
+open forest country, North of Liverpool Plains.
+
+When once we are so fortunate as to discover the natural station of any
+being, we may be convinced that every circumstance regarding its structure,
+habits, or even colour, are employed by Nature to typify its relations to
+other beings; and that until most of these can be explained, there is good
+reason to suspect the accuracy of our views on its true affinities.
+Possessing all the essential characteristics of _Petroica_, our bird
+exhibits in the bill, feet, and tail, an immediate affinity to _Sialia
+arctica_: while it is clothed in the pure white, and glossy black plumage,
+which nature afterwards employs to designate the typical group of
+GRYLLIVORA, (North. Zool.) at the opposite point of the circle of
+_Saxicolinæ_. This remarkable analogy is extended to the bill, the point of
+which is longer and more incurved, than in any of the immediate affinities
+of our bird: its close relation to the old world _Saxicolæ_, is too obvious
+to need explanation.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: MARGINELLA Pl. 1
+
+_1. oblonga. 2. guttata._]
+
+
+MARGINELLA oblonga.
+
+----
+
+Family Volutidæ. Genus Marginella. Lam. Sys. 7. p. 354.
+
+SUB-GENUS VOLUTELLA. _Nob._
+
+  Shell oval-ventricose: Spire concealed: outer lip generally smooth; base
+  of the pillar with four to five oblique plaits: aperture smooth within.
+
+Type, _Marginella bullata_. Lam.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Shell oblong, rather gibbous round the middle, fawn coloured, with two
+  obsolete bands: spire concealed: outer lip and summit marked by orange
+  spots: pillar 4 plaited._
+
+----
+
+A species not hitherto described; its shape is unusually oblong, and the
+spire is quite concealed: We are unacquainted with its locality. The
+perpendicular line expresses the natural size.
+
+In _Voluta_ and _Mitra_, the two typical groups of this family, the
+variations of form are so striking, and the species so numerous, that we
+readily assent to the plan, proposed by others, of further dividing them
+into genera: but in the aberrant group, containing _Oliva_, _Ancillaria_,
+and _Marginella_, the forms are less diversified, and the species fewer;
+the minor divisions may therefore, for the present, be termed sub-genera.
+The approximation of _Marginella_ to _Voluta_ has frequently been stated.
+In M. _bullata_ we have a miniature melon Volute, while M. _faba_ is a no
+less obvious representation of V. _magnifica_. Hence these forms appear
+typical. Yet M. _persicula_ and _lineata_ cannot well be placed with
+either, as their characters seem to indicate a direct analogy to
+_Conohelix_ among the Mitres. As to _Volvaria_, we concur with other
+writers, in thinking that the French Conchologists have erroniously blended
+that genus with _Marginella_.
+
+----
+
+MARGINELLA guttata.
+
+  _Oval, spire concealed, covered with transverse oval spots margined with
+  white, somewhat ocellate, and disposed longitudinally; pillar 4 plaited._
+
+----
+
+We could give no correct idea of this very pretty shell, without enlarging
+the figures; the natural size is indicated by the horizontal line. Our
+specimen is the only one we have yet seen, nor do we know its habitat.
+
+*       *       *       *       *       *
+
+
+
+[Illustration: MARIUS _Cinna_]
+
+
+MARIUS Cinna.
+
+----
+
+Family Nymphalidæ. (Stirps. 3? Horsf.)
+
+GENERIC CHARACTER.
+
+  Larva and pupa _unknown_.
+
+  Perfect insect. _Wings_ Papilioniform, caudal appendages long, acute.
+  _Palpi_ porrect, approximating, and meeting at their tips so as to form
+  an acute cone: the whole covered with compact scales. Anterior feet
+  small, slender, imperfect, the tarsal joints? concealed by long hairs:
+  club of the antennæ terminal, sub-fuciform and cylindric. Body short,
+  thick, robust.
+
+Type, _Papilio Marius_. Auct.
+
+----
+
+SPECIFIC CHARACTER.
+
+  _Wings above brown, with two unequal white bands; beneath white, with
+  narrow fulvous bands; basal angle of the posterior wings with an orange
+  spot, ocellated with black._
+
+  Papilio Cinna. _Cramer Vol. I. pl. 100. f. 8._
+
+----
+
+Cramer describes this elegant Butterfly as a native of Surinam, and our own
+specimens were received from the same country. All the species of this
+group that have yet fallen under our inspection, are natives of South
+America. Their flight is high, powerful and rapid: the predominating colour
+on the upper surface of their wings is brown, and on the under white.
+
+It is the misfortune of not understanding the typical structure, and the
+principles which regulate its variation, in higher groups, that in defining
+the characters of a lesser, we can form no just idea of its relative value:
+whether, in short, we should consider it a genus or a sub genus, or whether
+it is typical, aberrant, or osculent. This, however, is but a temporary
+evil; and will only continue until an insight is gained into higher
+combinations, by first placing together kindred species under one common
+name. If this be done heedfully, such a group _must_ be natural, whatever
+opinions may be entertained in the _first_ instance, as to its proper
+denomination.
+
+*       *       *       *       *       *
+
+
+
+GENERAL INDEX
+_OF THE PLATES TO_
+VOL. 1.
+IN THE ORDER OF PUBLICATION.
+
+----
+
+  _N.B. The number here affixed to the Plates, for convenience of
+  reference, had better be marked in pencil upon the Plates themselves._
+
+              No. 1.
+  Psittaculus vernalis,                  1
+  Polyborus Braziliensis,                2
+  Setophaga picta,                       3
+  Ancillaria (Pl. 1.) rubiginosa,        4
+  Mitra (Pl. 1.) melaniana,              5
+  ---- tessellata
+
+              No. 2.
+  Parra Africana,                        6
+  Cuculus nigricans,                     7
+  Lorius Isidorii,                       8
+  Ampullaria Pl. 1.
+  ---- carinata,                         9
+  Unio (Pl. 1.) truncatus,              10
+
+              No. 3.
+  Thriothorus mexicanus,                11
+  Lorius garrulus,                      12
+  Coccyzus Levaillantii,                13
+  Marmarostoma (Pl. 1.)
+  ---- undulata,                        14
+  Voluta (Pl. 1)
+  ---- bullata,                         15
+
+              No. 4.
+  Paleornis Pondicerianus,              16
+  Hirundo fasciata,                     17
+  Anodon (Pl. 1.)
+  ---- areolatus,                       18
+  Mitra (Pl. 2.) bicolor,               19
+  ---- carinata
+  ---- strigata
+  Tellina (Pl. 1.),                     20
+  ---- latirostra
+
+              No. 5.
+  Nanodes venustus,                     21
+  Icterus Cayanensis,                   22
+  Drymophyla longipes,                  23
+  Lingula anatina,                      24
+  ---- hians,                           25
+
+              No. 6.
+  Platycercus scapularis,               26
+  Drymophila fasciata,                  27
+  Aglaïa gyrola,                        28
+  Melania (Pl. 1.) amarula,             29
+  ---- setosa
+  Mitra (Pl. 3.) fulva,                 30
+  ---- ambigua
+  ---- punctata
+
+              No. 7.
+  Aglaïa flava,                         31
+  Papilio Niamus,                       32
+  Rhetus Cramerii,                      33
+  Rostellaria (Pl. 1.) curvirostris,    34
+  Psaris Jardinii,                      35
+
+              No. 8.
+  Petroica multicolor,                  36
+  Ploceus textor,                       37
+  Ampullaria (Pl. 2.) Nilotica,         38
+  ---- subcarinata
+  Strombus (Pl. 1.) Peruvianus,         39
+  Oliva (Pl. 1.) volutella,             40
+  ---- striata
+
+              No. 9.
+  Psaris cristatus,                     41
+  Chætura macroptera,                   42
+  Petroica bicolor,                     43
+  Marginella (Pl. 1.) oblonga,          44
+  ---- guttata
+  Marius Cinna,                         45
+
+*       *       *       *       *       *
+
+
+
+GENERAL ALPHABETIC INDEX
+OF
+LATIN AND ENGLISH NAMES, &c.,
+TO
+VOL. 1.
+
+----
+
+  Aglaïa, Generic Character,            27
+  ---- flava,                           31
+  ---- gyrola,                          28
+  Alasmodon, Generic Character,         10
+  Ampullaria carinata,                   9
+  ---- canaliculata,                    38
+  ---- nilotica,                        38
+  ---- subcarinata,                     38
+  ---- virens,                          38
+  Ancillaria rubiginosa,                 4
+  _Ant-thrush, long legged_,            24
+  ---- _White shouldered_,              26
+  Anodon, Generic Character,            10
+  ---- areolatus,                       17
+  _Apple Snail, carinated_,              9
+  _Caraca Eagle_,                        1
+  Chætura, Characters of,               42
+  ---- macroptera,                      42
+  Coccyzus Vaillantii,                  13
+  Cuculus nigricans,                     7
+  _Cuckow, African black_,               7
+  _Cuckow, black and white_,            13
+  Drymophila fasciata,                  27
+  ---- longipes,                        23
+  _Eagle, Brazilian crested_,            1
+  Euplectes, characters of,             37
+  _Flycatcher, painted_,                 3
+  _Hangnest, Cayenne_,                  22
+  Hirundo fasciata,                     17
+  Hyria, Generic Character,             10
+  Icterina, characters of,              22
+  Icterus, Generic Character,           22
+  Icterus, Cayanensis,                  22
+  Iridina, Gen. Characte,               10
+  _Jacama, African_,                     6
+  ---- _Habits of the_,                  6
+  Lingula anatina,                      24
+  ---- hians,                           25
+  Lorius garrulus,                      12
+  Lorius Isidorii,                       8
+  _Lory, Blue necked_,                   8
+  _Lory, Ceram_,                        12
+  Malimbus, characters of,              37
+  Marmarostoma, Gen. Character,         14
+  ---- undulata,                        14
+  Marginella oblonga,                   44
+  ---- guttata,                         44
+  Marius, characters of,                45
+  ---- cinna,                           45
+  Melania amarula,                      29
+  ---- setosa,                          29
+  Mitra ambiguua,                       30
+  ---- bicolor,                         19
+  ---- carinata,                        19
+  ---- fulva,                           30
+  ---- melaniana,                       15
+  ---- punctata,                        30
+  ---- strigata,                        19
+  ---- tessellata,                       5
+  _Mussel-horse, areolated_,            18
+  Myotherinæ, characters of,            23
+  Nanodes, characters of,               21
+  ---- venustus,                        21
+  Oliva, affinities of,                 40
+  ---- volutella,                       40
+  ---- striata,                         40
+  Pachyrhynchus, Gen. Ch.,              41
+  Pachystoma, Gen. Character,            9
+  Paleornis Pondicerianus,              16
+  Papilio Niamus,                       32
+  Parra africana,                        6
+  _Parrakeet, blue-fronted_,            21
+  ---- _mustachoe_,                     16
+  ---- _Tabuan, or King_,               28
+  ---- _vernal_,                         2
+  Petroica, Generic Character,          36
+  ---- bicolor,                         43
+  ---- multicolor,                      36
+  _Phytophagous Molluscæ_,              30
+  Platycercus scapularis,               26
+  Ploceus, Generic Character,           37
+  ---- the sub-genera,                  37
+  Ploceus textor,                       37
+  Polyborus Braziliensis,                1
+  Psariana, characters of,              41
+  Psaris cristatus,                     41
+  ---- Jardinii,                        35
+  Psittacidæ, Divisions of,             28
+  Psittaculus vernalis,                  2
+  Rhetus Cramerii,                      33
+  _Robin, black and white_,             43
+  ---- _scarlet breasted_,              36
+  Rostellaria curvirostris,             34
+  _Saris, crested_,                     41
+  ---- _Jardines_,                      35
+  Saxicolinæ, Bill of,                  36
+  Setophaga picta,                       3
+  Strombus Peruvianus,                  39
+  Strombii, Genera of,                  35
+  _Snail, Waved, Pearl_,                14
+  _Swallow, white-banded_,              17
+  _Swift, long-winged_,                 42
+  _Tanager, red-headed_,                27
+  ---- _yellow_,                        31
+  _Tellen, wide-beaked_,                20
+  Tellina latirostra,                   20
+  Thriothorus mexicanus,                11
+  Voluta bullata,                       15
+  Volutella, sub-genus of,              44
+  Volute, Bulla-shaped,                 15
+  Unionidæ, Family of,                  10
+  Unio, Generic Character,              10
+  ---- truncatus,                       10
+  _Weaver, rufous necked_,              37
+  Wren, mexican,                        11
+  Zoophagous Molluscæ,                  35
+
+*       *       *       *       *       *
+
+
+
+Notes.
+
+[1] Zool. Journal, Vol. 4. p. 405.
+
+[2] Ill. of Brit. Ent. 1. p. 70.
+
+       *       *       *       *       *
+
+
+
+Corrections made to printed text
+
+Preface: 'separate' (with critical judgment) corrected from 'seperate'
+
+Preface: (Speculation and) 'Hypothesis' corrected from 'Hypothosis'
+
+Plate 2, main title: 'POLYBORUS Braziliensis' corrected from '...
+Brazilienses'
+
+Plate 9: 'Animaux' (sans Vetebres) corrected from 'Animanx'
+
+Plate 16: 'Geoffroy St. Hilaire' corrected from '... Hiliare'
+
+Plate 22: 'The true O. cayanensis' corrected from '...caynensis'
+
+Plate 30: Heading (MITRA) 'ambigua' corrected from 'ambigna'
+
+Plate 32: under Generic Character, 'caudated' corrected from 'candated'
+
+Plate 36: 'Stonechat'  (fig. 3, 4) corrected from 'Sonechat'
+
+Plate 38: 'accurately' (figured by himself) corrected from 'acurately'
+
+Plate 39: 'respiratory' (siphon) corrected from 'respitory'
+
+Both indexes, Plate 30: (Mitra) 'ambigua' corrected from 'ambiguua'
+
+
+
+
+
+End of the Project Gutenberg EBook of Zoological Illustrations, or Original
+Figures and Descriptions.  Volume I, Second Series, by William Swainson
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ZOOLOGICAL ILLUSTRATIONS, VOL I ***
+
+***** This file should be named 44056-8.txt or 44056-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/4/0/5/44056/
+
+Produced by Chris Curnow, Keith Edkins and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

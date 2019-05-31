@@ -1,0 +1,1525 @@
+﻿The Project Gutenberg EBook of The Province of Midwives in the Practice of
+their Art, by William Clark
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+Title: The Province of Midwives in the Practice of their Art
+       Instructing them in the timely knowledge of such
+       difficulties as require the assistance of Men, for the
+       preservation of Mother and Child; very necessary for the
+       perusal of all the sex interested in the subject, and
+       interspersed with some New and Useful Observations.
+
+Author: William Clark
+
+Release Date: May 16, 2016 [EBook #52086]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK MIDWIVES ***
+
+
+
+
+Produced by RichardW and the Online Distributed Proofreading
+Team at http://www.pgdp.net (This file was produced from
+images generously made available by The Internet Archive)
+
+
+
+
+
+
+
+
+ The Province of Midwives in the Practice of their Art,
+ by William Clark, M. D. 1698–ca. 1780.
+
+
+
+
+ THE PROVINCE OF MIDWIVES
+
+ IN THE
+
+ Practice of their ART:
+
+ Instructing them in the timely Knowledge of such
+ _Difficulties_ as require the Assistance of MEN,
+
+ For the Preservation of
+
+ MOTHER and CHILD.
+
+ Very necessary for the Perusal of ALL the SEX
+ interested in the Subject,
+
+ And interspersed with some
+
+ _New_ and _Useful_ OBSERVATIONS.
+
+ _By_ WILLIAM CLARK, _M. D._
+
+ _And of the_ College _of_ PHYSICIANS.
+
+ _Molliter Aufer Onus._      OVID. FASTI.
+
+ Printed for _William Frederick_, in BATH; and sold by
+ _M. Cooper_, in _Pater-Noster-Row_, LONDON.
+
+ MDCCLI.
+
+
+
+
+ADVERTISEMENT TO THE READER.
+
+
+_The following small Tract will appear contemptible to those who
+judge of the Worth of Books by their Bulk; but the Author believes
+such as are practis’d in Midwifry will acknowledge both the Want
+and Usefulness of an Essay of this Kind._
+
+_The Division of the Chapters, naturally arising from the various
+Circumstances which are treated of, will rather assist than
+burden the Memory, and admit of a ready Recourse to the short
+Instructions, in the Knowledge and Practice_ absolutely necessary,
+_given under each Head._
+
+_The Reader will the more readily excuse any Defect in the Stile,
+when he considers_ _the Necessity of a strict Expression on the
+Subject and the Difficulty a Man lies under, who writes not to
+the learned and experienced, but chiefly for the Sake of Persons
+ignorant in Anatomy and Philosophy, on a Subject which for the most
+Part excludes Information by Sight._
+
+_On such a Subject it will not be imagined Vanity or Applause can
+incline a Man to write a Pamphlet, rather than a Volume; when the
+Author is not conscious of having omitted the Instruction to be
+found in any Book extant, within the Limits of his Design; and
+hopes Experience will teach its Value both to Midwives and Matrons;
+and that the Perusal will not at all injure, if it does not
+improve, the most knowing and experienced._
+
+       *       *       *       *       *
+
+The READER is desir’d to correct the following ERRORS with the Pen.
+
+ Page 9, Line 16, _read_ Pains about the Back, Navel, _&c._—P. 33,
+ l. 12. omit the Period after the Word Pain; and make a Semicolon,
+ instead of the Comma, after touch’d it.
+
+
+
+
+CHAPTER I.
+
+_The_ DESIGN.
+
+
+The Case of _Child-bearing_ Women is very lamentable, in the
+Country especially, by Reason of the Ignorance and Unskilfulness
+of _Midwives_; for by their Negligence and perverse Management,
+many Mothers and Children are destroyed, to the great Misfortune of
+particular Families, as well as of the _Publick_, at a Time when it
+suffers by the Loss of useful Hands, from too many other Causes. It
+were therefore to be wished, that all Midwives were so far appris’d
+of their Duty, as to be able to distinguish between Cases within
+their Abilities, and such Difficulties as may occasion the Loss of
+the Mother, or Child, or both, for Want of necessary Assistance.
+
+They who intend to practice Midwifry in PARIS, are oblig’d to
+attend _anatomical_ Lectures and _Dissections_, that their
+Judgments may be inform’d, by the Knowledge of the Structure of the
+Body, for an Undertaking so hazardous in ignorant Hands.
+
+London, at present, affords equal Advantages of Information; for
+the _anatomical_ Wax-work, with suitable Lectures, might furnish as
+good a Qualification, with less Offence than real Dissections; and
+there are not wanting those who professedly instruct both Sexes by
+_mechanical Demonstrations_.
+
+And for the future, it is to be hoped, there will be no Necessity
+for Men to have Recourse to PARIS for _Observation_, since we have
+_Infirmaries_ at Home for the Accommodation of Women in Child-bed;
+and tho’ they are expos’d naked to the Eye in the _Hotel de Dieu_,
+it must be confess’d, that the fundamental Rules of the _Art_ are
+not built on what the Eye of the Observer can possibly discover in
+the most expert _Operators_; but depend on Circumstances conceal’d
+from Sight, within the Body of the Patient.
+
+But whatever Advantages LONDON and WESTMINSTER afford for the
+Instruction of Midwives, the Country is entirely destitute of them;
+and the best Books on the Subject, adorn’d with elegant Figures,
+can give but a very imperfect Notion of the Parts they represent,
+to any who have not attended _Dissections_, or seen more natural
+_Resemblances_ than Cuts.
+
+The Figures in Books, exhibit the _Bones_ of the _Pelvis_, a
+Variety of _Situations_ of the Infant, and _Uterus_, the Placenta
+and umbilical Vessels and Membranes, _&c._ whereas it would be
+no less serviceable to those, who assist Women in Travel, to be
+acquainted with the Viscera, liable to suffer by a difficult
+Labour; for the _Liver_, _Spleen_, _Sweetbread_ and _Kidneys_,
+if not the principal Contents of the Chest, may be so injured by
+the ill _Position_ of the Child, Compression of the Parts, and
+rash Assistance, as to prove fatal, more or lets immediately;
+occasioning _Inflammations_, _Suppurations_, _Mortifications_,
+_Schirrhu’s_, _Cancers_, or _Consumptions_.
+
+The best Writers of Midwifry, such as _Mauriceau_, _Deventer_, _De
+la Motte_, _Heister_ and others, explain the Causes of difficult
+Births, and the proper Methods of Assistance; but instead of
+improving most _Country_ Midwives, fill them with Conceits of what,
+it is impossible, they should understand, and thereby occasion the
+Loss of great Numbers of Women and Children.
+
+In order therefore that Midwives may acquit themselves with
+Reputation, and that _Child-bearing_ Women may be the better
+Judges for themselves, or the charitable Part of the Sex, who are
+past these Dangers, the better able to assist their Friends and
+Neighbours, I shall endeavour to shew how far they may act with
+Safety under the Disadvantage of Country Practice, and describe
+those Symptoms, which for the most Part accompany hard Labours,
+very probably beyond their Abilities; when they will justly incur
+the Censure of Inhumanity and Rashness to depend upon their own
+Skill.
+
+
+
+
+CHAPTER II.
+
+
+In this Chapter I have avoided the Use of Terms of Art, or
+explain’d them, in Regard to those for whom I chiefly write, as
+far as my Regard to Decency admits; but if any Word should occur
+not easily understood by any of my Readers, almost any _English_
+Dictionary will explain its Meaning; and it cannot be expected that
+any Book can instruct those who cannot read, tho’ I am sorry to say
+too many such assume the Office of _Midwives_.
+
+As Curiosity may reasonably induce many of the Sex concern’d in
+the Subject of these Sheets, to be inform’d of somewhat of the
+Provision supreme Wisdom has made for the Existence of Children in
+the Womb, I shall briefly mention the most obvious _Instruments_
+relating to their Breeding and Birth, without puzzling my Readers
+with minute _anatomical_ Descriptions.
+
+The Vagina, or Passage, lies between the Neck of the _Bladder_ and
+the large or strait Gut; it is connected at the inward extreme to
+the _Womb_, and called the _outward Orifice_ at its beginning.
+
+The _Womb_ lies between the _Bladder_ and _Strait Gut_, and is
+connected to both; during the Time of _Breeding_ it increases in
+its _Dimensions_, and rising higher in the Body, by Reason of
+the Weight and Substance of it, with its Contents, at the Fund,
+or remote End of it, may be liable to swag too much _forward_ or
+_backward_, or incline more or less to either Side, especially in
+such, as by their Occasions of Industry in Life are obliged to
+a Variety of _indirect_ Situations; by which Means the _inward_
+Orifice is perverted from a _direct Site_ with Respect to the
+Passage, and obstructs an easy Exclusion of the Infant in Travel.
+
+The _Placenta_ or _After-birth_, adhering to the _Fund_ of the
+_Womb_, receives the _Mother_’s Blood, by the _Umbilical-Vessels_,
+or _Navel-String_, conveys it to the Child for its Nourishment, and
+retransmits what is superfluous; maintaining by the Intercourse of
+_Arteries_ and _Veins_, the Circulation of the Blood between Mother
+and Child.
+
+The _Membranes_ closely connected to the _Placenta_, and the _Fund_
+of the _Womb_, between both which they seem to take their Rise,
+contain the _Humours_ in which the Infant swims, the better to
+preserve it from Injuries, by its Pressure against _unyielding_
+Parts, and the _Humours_ before, and after the _Breaking_ of the
+_Membranes_, commonly call’d the _Breaking of the Waters_, in the
+Birth, very much facilitate it, by opening the _inward Orifice_
+of the _Womb_, and lubricating the _Passage_ for the Child: These
+_Membranes_ come away with the _Placenta_, under the Name of the
+_After-birth_, or _Secundines_, indifferently.
+
+The _Pelvis_ or _Bason_, wherein the _Uterus_ or _Womb_ is seated,
+is form’d by the _forward_ Bones, commonly call’d the _Share-Bone_,
+the _Hip-Bones_ and their Continuation on each Side, and the lower
+Part of the _Back-Bone_, all which are so contiguous to each other,
+as to form this Cavity, generally much larger in Women than Men,
+cloathed with Muscles, between which the _Vagina_ is inserted.
+
+The right Formation of the _Pelvis_, is of the greatest Consequence
+in Favour of an _easy_ Birth; when the _Bones_ forming it,
+_forward_ and _backward_, and on _each_ Side, both above and below,
+don’t too much approach each other, and prevent the Exclusion of
+the Child between, by a free Admission.
+
+
+
+
+CHAPTER III.
+
+_The Symptoms preceeding_ Natural Labours.
+
+
+I shall pass over the Symptoms of Pregnancy, and the Distinctions
+of true and false Conceptions, as Things of which Midwives can
+seldom be expected to be _proper_ Judges, and proceed to their
+Business, _Natural Labours_; comprehending, under this Name, all
+such Cases, which require no further Assistance than _Midwives_, in
+a general Way, may easily give; or in their Absence a Nurse, or any
+sensible Woman, who has attended Deliveries.
+
+After the Woman has gone her due Time of Nine Months, the most
+usual Term; the Signs preceeding Labour are Pains about the Back,
+Navel and Loins; a considerable Falling of the Tumour of the Belly,
+by the Burden’s sinking lower; and incommoding the Woman in
+walking; a more frequent Inclination to make Water: These Symptoms
+increase in Proportion as the Birth approaches; but as the most
+certain Knowledge of _natural_ Births, can only be obtained by
+_Touching_ the Woman in Labour, after having premised some Things
+concerning her _proper_ Situation; I shall direct how it ought to
+be done.
+
+
+
+
+CHAPTER IV.
+
+_Of_ SITUATION.
+
+
+Many in the Country choose to be on their _Legs_ or _Knees_,
+supported by a Woman on each Side, or _lean_ on a Chair or Bed, and
+pass well enough through the present Scene of their Miseries: But
+I would preferably advise a Posture between _lying_ and _sitting_,
+on a _Pallet_ or _common_ Bed, the _Head_ and _Shoulders_ being
+_rais’d_ by Bolsters or Pillows, the Feathers _beat back_ from the
+Bed’s Feet, to support the hollow of the Loins, and prevent the
+Pressure of any Thing against the _Bottom_ of the Back Bone, to
+obstruct the Passage of the Child.
+
+This _Situation_ is most commodious, during Labour, for a Woman to
+_assist_ her Pains with the greater Freedom of Respiration, and the
+least Fatigue and Expence of Spirits; especially if the _labouring_
+Woman lay hold of a _folded_ Napkin, held stiffly for that Purpose,
+drawing her Feet _upwards_ towards her Seat, _separating_ her
+Knees, and _fixing_ her Feet against something that will not easily
+give Way.
+
+If the Person in Labour will not be in Bed, the End may be
+answered by her _sitting_ in _another_’s Lap, with the _Bottom_ of
+her Back-Bone situate between the other’s Knees, with her _own_
+separated and supported, and Feet fixed as aforesaid, to favour
+her bearing down.
+
+’Tis inconsistent with the Design of my Writing to describe all
+the _convenient_ Situations, necessary in Cases of Difficulty, yet
+when the Operator has rectified all Obstructions to the Birth, the
+same Situation of the Body upon a _Slope_, from the Head downwards
+is most suitable, even altho’, for Conveniency, she should be
+deliver’d lying on one Side.
+
+I shall, on this Occasion, observe, what I have found Advantageous
+in my own Experience, as well as consonant to the Advice of the
+best Writers on the Subject: That the Delivery on the _Back_, by
+the Assistance of one placed on _each Side_, supporting her by
+the _Hams_, with her Knees _separated_, and raising her _Back
+Bone_ a little from the Bed during the _Activity_ of Pains, and
+the _Midwife_’s _Assistance_ of either Sex, is vastly preferable
+to the Delivery on _one Side_, to which I impute the Loss of many
+Children brought by _Turning_, as well as a more _tedious_ Labour
+in other Cases; because this Posture, in some Degree, _contracts_
+the _Passage_, and only admits the proper Separation of _one_ Knee.
+
+
+
+
+CHAPTER V.
+
+_Concerning_ TOUCHING.
+
+
+This ought to be put in Practice, as soon as, from the Symptoms
+given in the Third Chapter, it is reasonable to expect the Birth
+approaching; and a _Child-bearing_ Person would be very much her
+own Enemy to refuse the only Means of giving a _true_ Information
+of her Case, and the Knowledge how to do her the most effectual
+Service.
+
+The Midwife, having her Nails well pared, and very smooth, and her
+Fingers anointed with Oil or Lard, must introduce the two _fore
+Fingers_ of either Hand into the _Passage_ or _Neck_ of the _Womb_,
+as far as its _inward_ Orifice, directing them with a _gentle_
+and _easy_ Motion, somewhat upwards, as it were with a Tendency
+through the _Passage_ towards the _Navel_; in this Search she will
+find the _internal_ Orifice, joining the _Passage_ or _Neck_ of
+the _Womb_ more or less open, relaxed, and thinner than usual;
+and cautiously protruding her Fingers farther, she may possibly
+touch the _Crown_ of the Child’s Head; she will easily, by the
+_Sutures_, or _Opening_ between the Bones of the Skull, distinguish
+the _Crown_: Keeping her Fingers in this Situation, _during_ the
+Beginning, and Continuance of _strong_ Pains, she will observe the
+_Waters_ contain’d in the _Membranes_ including the Child, and
+After-birth _forming_ within the _inward_ Orifice, as if something
+like a Bladder _blown_, or _distended_ with Water, presented to
+the _Touch_, dilating the _Orifice_ with each _Throw_; these
+Appearances presage a _speedy_ and _easy_ Birth.
+
+
+
+
+CHAPTER VI.
+
+_Of a natural_ Birth, _and the_ Office _of the Midwife._
+
+
+As the _Birth_ approaches, the Woman grows _hotter_ and _red_ in
+the Face; the Pains bear more _strongly_ down; the _internal_
+Orifice _opens_; the _Vagina_ or _Passage_, at its _Entrance_,
+becomes more swell’d, as the Child’s Head advances; and the
+_Membranes_ are more and more _tensely_ stretched; before the
+_Birth_, the Person is often seized with a _Vomiting_, and
+_universal_ Tremor, without the Coldness of an _Ague_; and very
+often a _Humour_, _discolour’d_ with _Blood_, immediately preceeds
+the _Breach_ of the _Membranes_; when these Symptoms, or several
+of them, become urgent, ’tis Time to put the Woman in a proper
+Situation, as describ’d in the preceeding Chapter: The Midwife
+ought by no Means to break the _Membranes_, but _encourage_ the
+Woman now to make the best of her Pains, by _strongly bearing
+down_, as if going to Stool; the Midwife with her Fingers well
+anointed, putting them gently within the _internal_ Orifice, may
+cautiously, by separating them, assist its _opening_, and Removing
+it more behind the Child’s Head, thereby gradually promote its more
+easy Transmission, and at the same Time prevent, if necessary, the
+Womb from being too far protruded: After the _Waters_ are _broke_,
+as it is called, and the _Head_ of the Child comes into the
+_Passage_, the Midwife may lay hold on each Side of it, taking Care
+not to bruise it by rough Handling, and drawing it, by _Waving_ her
+Hands, if necessary, to loosen it, when fixed, rather than in a
+strait Line, assist the Birth; and if obstructed by the Shoulders
+in the Passage, inserting a Finger under each Arm-Pit, extricate
+them by the like Action.
+
+’Tis true, it happens, tho’ unobserv’d by Writers, as far as
+I remember, that _many_ Women have no _Waters breaking away_,
+either before or after the Birth; whether absorbed or not, in
+Time of Labour, I shall not at present determine; this is called,
+by the Country People, a _dry_ Labour, and often attended with
+Difficulty; however, if the _Crown_ appear _forward_, the Issue may
+nevertheless be favourable.
+
+The Child being born, the next Business is to tie the
+_Navel-string_ with a _waxed_ Thread, so _doubled_, as not to
+endanger _cutting_, about _two_ Inches from the Child’s Body,
+making another Ligature near the Body of the Mother, so far distant
+from the former, as may be convenient for _Cutting_ between _both_
+Ligatures, and separating the Infant from its _After-birth_.
+Midwives are too apt to leave a greater Length, which can be of no
+Service, but has been thought, on the contrary, by our Countryman
+CHAPMAN, to occasion _Navel_ Ruptures.
+
+After the _Separation_ of the _Navel-string_, the Care to get the
+_After-birth_ succeeds; this will often come by the Assistance of
+Nature, with a gentle Motion of the Hand gradually drawing and
+loosening it, by the Navel-string: But if it adheres to the _Fund_
+of the _Womb_, which is frequently the Case, whether from the
+_Waters_ being come away before the Birth or otherwise; it must
+cautiously be separated, and extracted by the Hand, to prevent the
+most mischievous and fatal Consequences.
+
+The Assistant holding the _Navel-string_ with _one_ Hand, must
+with great Caution introduce the _other_ into the _Womb_, avoiding
+_all Violence_ to any Part in the Way, ’till she reaches the
+_After-birth_, some Part of which probably, being loosened, will
+be found more _forward_ than the rest; which _taking_ between her
+_Thumb_ and _Fore-Fingers_, she must, by an easy Motion of her
+other Fingers, between the _Womb_ and _After-birth_, gradually
+_separate_ the Parts adhering all _round_, ’till finding the
+whole free, before the Palm of the Hand and Fingers, she brings it
+intirely away; for should any Part remain, the poor Woman’s Labour
+would still continue, and occasion _dangerous_ Floodings, requiring
+the immediate Assistance of an able Hand, to rescue the Patient
+from the immediate Hazard of Death.
+
+Sometimes when the _Womb_ has discharged its _Waters_, and the
+_Child_, by Reason of a Defect of Pains, or otherwise, remains
+_long_ very _forward_ near the _Birth_, the _Womb_ so _contracts_
+about the _After-birth_, as to make the _Separation_ of it very
+difficult; in which case Assistance is requisite, from one well
+acquainted with the Structure of the Body; and the longer this is
+delay’d, the more Danger there will be of all the bad Consequences
+of the Retention, and Corruption of the _After-birth_ in the Body.
+
+It requires great Care to prevent the _Protrusion_ of the _Womb_ in
+some Women of a _large Pelvis_, or _Opening_ between the _Bones_;
+or if the _After-birth_ remains closely fixed, the _Womb_, in a
+very _open Pelvis_, may be _thrust_ by the Violence of the Pains;
+or _drawn_ out of the Body by an _unskilful_ Hand, which is
+commonly very soon fatal to the poor Woman; and I believe happens
+much oftner than is apprehended, tho’ industriously conceal’d,
+by _guilty_ Midwives, under the Colour of the poor Woman’s dying
+in Child-bed, from some other Cause. DEVENTER says, he saw a sad
+Spectacle at the HAGUE, the _Head_ of the Child excluded to the
+_Shoulders_ quite without the _Passage_, when Three-fourth Parts of
+the _Head_ were conceal’d within the _Womb_, the _Crown_ appearing
+within its _inward Orifice_†.
+
+ † See Chir. Op. Part ii. Page 32.
+
+A much worse Case happen’d in my Neighbourhood, _Sept._ 23, 1749. I
+was call’d to a Woman, whose Child, on the 21st came unexpectedly,
+without the least Assistance, in the Presence of an _old_ Midwife
+of _large_ Practice; she puzzled an Hour, as I was inform’d, to
+bring away the _After-birth_, which closely adhered to the _Fund_
+of the _Womb_; while the _unfortunate_ Woman lay senseless, saving
+the Memory of being long expos’d to the Cold, when she came to
+herself; after which she continued in violent _Labour-like_ Pains;
+upon Scrutiny, I found a large _Substance_ in the _Pelvis_, of the
+Size of a Child’s Head, considerably resisting my Touch; I observ’d
+on Trial, a Part of the Woman’s Body every Way _interposed_
+between my Fingers and this _Substance_, by her Sensibility of
+my _Touch_; therefore contenting myself with giving her some
+palliative Medicines, and telling the Persons present, a Mole, as
+I thought, or Child still remain’d to come away, I for that Time,
+took my Leave: On the 24th, she was said to be much better; on the
+29th, I was again call’d to this poor Woman, and inform’d, that
+upon her first going to Stool, since I had before seen her, which
+happen’d the same Day, the large _Substance_ before-mention’d,
+came intirely out of her Body; to which it join’d by a thinner
+Substance, of some length: I now perceived it was no less than
+the _Womb_ turned _inside out_, suspended by its _Ligaments_, and
+joining to the _Vagina_, but very much swell’d by the Obstruction
+of the circulating Humours; And an old Gentlewoman, who was present
+when the Child was born, inform’d me, she saw the Midwife draw
+this _Body_ from the Woman, by the _Navel-string_, and indeed,
+the Impression of her _Nails_, in separating the _After-birth_,
+remain’d still visible at the _Bottom_ of the _Womb_, and the
+Midwife having long expos’d the Patient, put this _inverted Womb_
+again into her Body.
+
+The Condition of the Part, after so long Delay, did not admit the
+Possibility of rightly reinstating it; I therefore return’d it,
+as well as I could, into the Pelvis, and introduc’d a Pessary to
+retain it; and as this Person had already contracted a Hectick, I
+charg’d her, as she valu’d her Life, to confine herself strictly
+to a _cooling Milk_, or _vegetable Diet_; she has since had
+large Discharges of a _bloody_ Corruption, with Portions of a
+fleshy Confidence from the Parts affected. In _April_, 1751, she
+told me the Discharge coming from her had long been much abated
+in Quantity, and what remain’d was the Whites; that she had an
+inward Fever, and the Piles, for which I gave her my Advice; her
+Complexion was chang’d from the most florid to a languishing
+Paleness.
+
+My Brother, much better known in this Country, and longer practis’d
+in Midwifry, has been concern’d in furnishing Medicines for the
+Person, whose History I have given, altho’ by Means of his Absence,
+he did not attend her on the most emergent Occasions.
+
+I have since been call’d to the Assistance of the _old_ Midwife,
+who attended, and she frankly told me, she had another Woman under
+the like Circumstance, who died the same Day.
+
+Having related such Things as occur in the most favourable
+Circumstances of Travil, about which all Midwives ought to be well
+inform’d, and those Injuries to which Women are sometimes liable,
+notwithstanding the most _promising_ Appearances: In the next Place
+I proceed to shew, what are the Symptoms preceeding _difficult_
+Labours, which by timely Assistance, may be secured from the most
+dangerous, if not fatal Consequences, and are of great Moment to be
+known by Midwives, as well as Matrons and Child-bearing Women, to
+enable them to judge when it is absolutely necessary to recommend
+calling that Aid, which is beyond their Capacity to give.
+
+
+
+
+CHAPTER VII.
+
+_The Difficulty from the_ Membranes.
+
+
+An _unforeseen_ Difficulty may occur, when Appearances are
+otherwise favourable, from the Strength of the _Membranes_,
+obstructing the _Birth_, and requiring great Caution to prevent;
+for in this Case, the Operator must break the _Membranes_, in order
+to promote the _Birth_; and as the _Waters_, they contain, are a
+Means to open the _internal Orifice_, lubricate the _Passage_, and
+facilitate the _Birth_; the _breaking_ the _Membranes_ too soon,
+will render the Labour more _tedious_; and should it be too long
+delay’d, the Patient’s Misery would be _prolonged_; wherefore
+the Midwife must not break _them_, before the _Orifice_ is
+sufficiently _open_ to admit the Head, when she may tear them with
+her _Nails_, but by no Means pull them, for as they adhere to the
+_After-birth_, she might by that Means separate it, and bring on a
+Flooding.
+
+
+
+
+CHAPTER VIII.
+
+_Difficulties occasion’d by the_ Navel-String.
+
+
+The _Navel-string_, by a Variety of Convolutions, sometimes
+obstructs the Birth, for being shortned, by its Contortions
+about the Neck, or any Part of the Body, the _Labour_ will
+become _unnatural_, by Reason tho’ the Pains are _strong_, the
+_Navel-string_, by its _shortness_, will pull the Child back with
+each Pain; and here an unskilful Management may break the String,
+and occasion a dangerous Flooding; but as the Woman’s Pains will
+prove _ineffectual_, notwithstanding their Strength and Force, the
+Midwife will, by this Means, find the Case out of her Province; I
+mean, where the _Navel-string_ is very much _abbreviated_.
+
+If the _Navel-string_ comes forward before the Child’s Head, it
+will seldom remain, when put backward by the Hand; therefore, if
+the Midwife has any Regard for the Life of the Child, she ought to
+call for Assistance, before the Birth is further advanc’d, or it
+will be extremely difficult, if not impossible, to save the Infant;
+and she would probably be foil’d for want of sufficient Strength,
+had she Skill to save it.
+
+
+
+
+CHAPTER IX.
+
+_Difficulties from the_ Placenta _or_ Secundines.
+
+
+The _Placenta_ or _After-birth_, being from any violent Shock
+or Accident, more or less, _separated_ from its Seat, during
+any Time of Breeding, will produce a Flooding, in Proportion to
+its Quantity, _dangerous_, which is sometimes so violent, as
+to occasion Death in an Hour’s Time; and nothing but _instant_
+Delivery can prevent it. When the Case is not so desparate, as all
+the _Blood_ in the Mother’s Body, necessary to support her own and
+Infant’s Life, may be drain’d away, the Consequence may be equally
+fatal in a more lingering Way.
+
+The 26th _Feb._ 1748, I was sent for to a Woman at
+MOUNTAIN-DEVEREL, within about Five Weeks of her Time, in a violent
+Flooding; her Midwife gave her an Opiate, which she thought check’d
+her Flooding, excepting that once a Week, it became very violent,
+for about three Weeks past; when I came, the Neighbours told me she
+had lost a Pail full of Blood; the poor Woman was so weak, that
+her Pulse were scarcely perceptible, and her Voice but a Whisper;
+I was unwilling to meddle, for fear she should die under my Hands,
+but yielded to the Importunity of her Friends: It was with great
+Difficulty I introduced the _Tops_ of my two Fore-fingers and
+Thumbs into the _internal Orifice_, which I gradually dilated,
+’till I could pass my Hand, when by _turning_, I brought away a
+_dead_ Child, depriv’d of its Nutriment by the great Loss of its
+_maternal_ Blood; but had considerable Trouble in getting the
+_After-birth_, by Reason of its _Adhesion_: After Delivery, the
+Flooding immediately very much abated, the poor Woman reviv’d
+to Admiration, and I left her the next Day, as well as could be
+expected in so low a Circumstance, tho’ dubious of her Recovery: I
+heard she died five or six Weeks after; but I am well satisfied,
+had she had an earlier Recourse for Assistance, she might have
+recover’d.
+
+In these Cases, Midwives are too apt to trust to their own
+Judgments, instead of calling for better Assistance; and tho’
+they have Recourse to external _Applications_, _Ligatures_, and
+_Opiates_, these Things, injudiciously practis’d, are frequently
+more detrimental than beneficial: For Instance, should the
+_Arteries_ be compress’d by too tight a Ligature of the _Arms_ and
+_Legs_, the _Flooding_ would become more violent.
+
+When ignorant Midwives, by rashly pulling the _Navel-string_, break
+it, or by the Adhesion of the _After-birth_, find it out of their
+Power to bring it away, they are apt to persuade People, it will
+come without further Help, which seldom happens; on the Contrary
+it most frequently occasions Death, more or less suddenly, or
+Hecticks and Consumptions, when left to corrupt in the Body: The
+_Uterus_ sometimes so strongly contracts about, and embraces it,
+that it may be impossible, after a few Hours Delay, to procure
+it, as I found in a Case that occur’d to me at COLEHORN, the 30th
+_Sept._ 1748, tho’ little more than four Hours passed, from the
+Time the Midwife broke the _String_ close to the _Placenta_, for
+the Part of the _Uterus_ next the _Placenta_ was so contracted, as
+barely to admit the _Tops_ of my two Fore-fingers; I endeavour’d,
+with all possible Caution, to make a larger Aperture, but in the
+ill _Situation_ of the _Uterus_, at the Extent of my Reach, all
+my Attempts were in Vain; this Woman rested well the succeeding
+Night, and had no extraordinary Complaints when I left her in the
+Morning, first prescribing what I thought most suitable to her
+Condition: I afterwards heard she died with a Frenzy, succeeding a
+_Suppression_ of the _usual_ Purgations; where the Corruption of
+the _Placenta_ takes Place, the Case is, at least, more Chronical,
+and the _Secundines_, gradually wasting, come away Piece-meal, the
+Patient labouring under a Hectick from the Contagion of putrid
+Humours, mixing with the circulating Fluids.
+
+I have at other Times, after a longer Delay, been more successful;
+the 28th _December_, the same Year, I was call’d, by Order of
+the late Lord WEYMOUTH, to the Assistance of a poor Woman at
+HORNISHAM, whose _After-birth_ had been retain’d three Days; she
+had contracted a Fever from its Putrefaction, which was so great,
+that scarcely any Body could bear the Room, and had lost a great
+deal of Blood by Flooding; the poor Woman soon recover’d after her
+Delivery, in the Use of a little Medicine, from his Lordship’s
+House: I have seldom found the Business difficult, when speedily
+call’d in the like Cases.
+
+
+
+
+CHAPTER X.
+
+_Difficulties attending the Contraction, or Ill-site of the_ Inward
+Orifice.
+
+
+In the Fifth Chapter I have told, how the Midwife may judge,
+by touching, of an easy Birth; carefully introducing her two
+Fore-fingers into the Passage, to find the internal Orifice of
+the Womb in the Beginning of Labour; now, in doing this, if the
+Orifice, she is in Search for, does not readily occur, she has
+great Reason to apprehend Difficulty; and if not well acquainted
+with the Parts she handles, by rude Usage, piercing through any
+Part of the _Vagina_, which presents to the _Touch_, may do
+Mischief. Such an Injury was done to one of Box, where I was
+called _Sept._ 21, 1748. This Woman had been in Labour several
+Days; the Midwife having, the last Time, been with her eighteen
+Hours, the Pole of the Child’s Head lay upon the Share-bone, which
+was rectifyed by one Limb of the Extractor and brought into the
+Passage; the other Limb being joined, the Infant was soon born; but
+what before surprized me, was to find a _Passage_, for my Fingers,
+considerably remote from the _internal Orifice_, with great
+Complaints of a smarting Pain when I touch’d it; a Suppuration
+follow’d, but the Woman soon recover’d, after the frequent Use of
+an emollient and discutient Fomentation.
+
+When the _Orifice_ presents rightly, and is easily found, it
+is next of Consequence to observe, whether the Pains _relax_,
+_open_ and _enlarge_ it; for should it remain _thick_ and
+_contracted_, instead of relaxing and growing thinner, if the
+Infant comes rightly directed, the Woman’s Pains are not _genuine_
+but _spurious_; it will then be proper to give an emollient
+and carminative Glyster, and probably the false Pains will be
+reliev’d, and the true succeed; or some Time may intervene, before
+her true Labour, especially if the full Time of Breeding should not
+be expired.
+
+If the Midwife cannot reach the _internal Orifice_, and the Child’s
+Head lays _high_, the Orifice may possibly lay _high_, _backwards_
+or _forwards_, or more or less so, inclining _Sideways_; the Reason
+of which may be apprehended, from the brief Account of the _Womb_,
+and the _Pelvis_, in the Second Chapter. In this Case it may be
+with great Difficulty, the Assistant can reach the nearest Margin
+of the _internal Orifice_, tho’ well instructed and experienced,
+and it will often require the Hand of an expert Artist, early in
+Labour to rectify it, or turn the Child, when Travil is advanced;
+or if too long neglected may occasion the Death of one, or both
+Mother and Child.
+
+
+
+
+CHAPTER XI.
+
+_Difficulties attending a wrong Position of the_ Child_’s_ Head.
+
+
+If in the Progress of Travil, the Midwife perceives any Part of
+the Head, besides the _Crown_, discoverable by its _Sutures_,
+presenting, and it appear _broad_, and very _hard_ to the _Touch_:
+If the _Waters_ may be _felt_ descending in a _long_ Form through
+the _internal Orifice_, somewhat like a Piece of a Gut distended
+with Water: These Appearances presage the utmost Difficulty and
+Danger, commonly owing to the small Distance between the _forward_
+and _back_ Bones; an ill Situation of the _internal Orifice_; the
+_comparative Largeness_ of the Child’s Head; or the _ill_ Site
+of the _Womb_; whereby the Head may be pressed against the Bones
+_forward_ or _backward_, or somewhat inclined to _either_ Side,
+in a wrong Direction for the _Passage_. These Causes, singly or
+concurring, render the Case much beyond the Skill, and very often
+the Strength, of a Midwife to redress.
+
+When unqualified Midwives observe the Head present to the inward
+Orifice, they are too apt to promise good Success, and behave with
+the utmost Confidence, wherein they are often egregiously mistaken;
+for there cannot be a more difficult Birth, than frequently
+happens, when any other Part, instead of the Crown, offers; and
+the Misfortune is, the longer Recourse to proper Assistance is
+delay’d, the greater the Difficulty becomes every Moment; and the
+poor Woman may think herself happy, if she escapes with her Life,
+the Danger of a most _fatiguing_ and _tedious_ Labour, succeeded,
+perhaps, by such a Relaxation of the _Vagina_ or _Passage_, as
+will occasion great Uneasiness in going, or being in an _upright_
+Posture, without the immediate Help of Medicines, both externally
+and internally; or wearing a _Pessary_ for its Support, during
+Life.
+
+Whereas ’tis certain, that if the Mother’s Pains, _strongly bearing
+down_, the Muscles of the Belly contracting and becoming sensibly
+_hard_ to the _Touch_, don’t manifestly promote the Birth, it must
+needs be owing to some Obstruction beyond the Midwife’s Skill;
+who in this Circumstance is apt to complain, the Pains are not
+sufficiently _strong_, ’till the poor Woman is ready to expire,
+from the Loss of her Strength, by her long Suffering under them;
+and told she must patiently wait God’s Time, who in Case he
+miraculously interpos’d, wants not the Midwife’s Assistance: And
+what still adds to this deplorable Calamity, ’tis likely she is
+put upon exerting her utmost Strength, assisted by Cordials; when
+_encouraging_ her _Labour_ and _provoking_ her _Pains_, ’till the
+Obstructions in the Way of the _Birth_ are remov’d, contribute
+still further to the Danger attending.
+
+I don’t deny but that in some Cases, a _tedious_ Labour may be
+owing to a Defect of _sufficiently_ strong Pains; but as this
+often proceeds from _Circumstances_ obstructing the _Birth_,
+true Labour naturally takes Place, when they are remov’d; and, by
+a right Management of the Hand, is more _effectually_ promoted,
+without Cordials or _forcing_ Medicines, where the Pains are
+deficient.
+
+Under this Sort of unnatural Birth, may very well be enumerated,
+the _Face_ presenting _towards_ the Mother’s Belly, or the _Side_
+of the Head coming _Foremost_, for its Passage must be extreamly
+difficult in these Postures; as well as when the _Face_ comes
+_forward_; for then by Reason of the great Tumour, about the
+_Head_, _Face_, _Eyes_, and _Mouth_, from Lodging between the
+Bones, the Infant expiring in the Birth, has been often taken for
+a Monster. I have often been so happy, when the Head has long
+remain’d, wedg’d between the Bones, as to bring the Child alive,
+by the _Forceps_, in a few Minutes, if seasonably call’d, when the
+Woman in Travil has been in the utmost Danger of Death.
+
+The 5th of _May_, 1751, I met with as bad a Case, as most of this
+Kind at WIGGLETON: This Woman, by the Midwife’s Account, seem’d to
+be in _Labour_ at Times near a Month, and for a Week last, almost
+in continual Pain, with her first Child: as I was call’d late to
+her Assistance, I could not judge, by early Appearances, of the
+Situation of the _Uterus_, or _Infant_; this is most commonly only
+in the Power of the Midwife to observe; her _Waters_ had gradually
+drain’d away above a Week, and there still remain’d some Part of
+the _Membranes_ depending like a _Gut_ in the _Vagina_, the _Head_
+offer’d, firmly wedg’d in the _Pelvis_; the Part most obvious
+to the _Touch_, by its Softness and fleshy Consistence, seem’d
+to be the _Cheek_: The poor Woman’s Pains, for some Hours, were
+_ineffectual_ for want of Strength, her Spirits being exhausted, by
+a Labour so fatiguing; there was no Possibility of _turning_ the
+Child; I endeavour’d, with some Success, to promote the _Birth_, by
+bearing _strongly_ against the inferior Part of the _Os-sacrum_,
+but her Weakness, depriving me of the small Benefit of her Pains,
+I had for a Time; there was an absolute Necessity for a speedy
+Delivery, for the Mother’s Sake: ’Twas with some Difficulty I
+overcame her Prejudice, and those Present against the Use of any
+Instrument, tho’ at length they yielded; when introducing a _Limb_
+of the Extractor on each Side of the Head, and Co-operating with a
+small Pain, encouraging the Woman to bear down as strongly as she
+could, I immediately brought a Daughter, with a monstrous long Head
+alive.
+
+I HAVE, however, met with some Cases, which I could relieve by
+no better Method, than lessening the Head; but considering for
+whose Benefit I am chiefly Writing, and how dangerous the Use of
+Instruments may be in injudicious Hands, I rather choose to advise
+Women not to meddle with them, than pretend to relate the Method of
+using them.
+
+
+
+
+CHAPTER XII.
+
+_Difficulties from other_ ill Positions _of the Infant._
+
+
+The _Arm_ or _Shoulder_ presenting, is so well known to be attended
+with Difficulty, that few Women will attempt such Deliveries,
+unless they are so very ignorant, as to imagine they can bring the
+Child by _pulling_ at an _Arm_.
+
+As our Miscarriages, or rather Misfortunes, in Practice, may no
+less contribute to the Information of others, by Caution, than our
+Success, by Example; I shall not scruple to give a candid Relation
+of the most fatal Occurrence, which ever fell to my Lot.
+
+The 12th _September_, 1748, I was called to a Woman at TROUBRIDGE,
+her _Matrix_ lay _forward_ in a _prominent Abdomen_ hanging very
+low, the _Os-uteri Internum_ lay very much _backward_, _both_ Hands
+_presented_ to it, this Woman had been very ill the preceeding
+Week, and in extreme Misery the last Twenty-four Hours; with a
+great deal of Trouble, I got and drew towards me one _Foot_,
+with the _Heel turn’d towards the Mother’s Belly_; in drawing
+the _Infant_ so far as the _Arm-pits_, I found the _Face_ of the
+Child did not _turn_ so readily as I expected towards the Mother’s
+_Back_; as soon as I had brought the _Feet_ some Distance without
+the _Vagina_, while I endeavour’d to extract the Child by hold of
+its _Thighs_, the Midwife, unknown to me, officiously laying hold
+of the Infant’s _Feet_, exerted her Strength at the same Time with
+mine; I intended to leave the _Arms_ according to DEVENTER, as a
+Security to the more safe Transmission of the _Head_; and while
+our united Strength was exerted, I found the _Neck_ gave way, with
+something of an _audible_ Crack; and with some Surprize, looking
+about me, saw the Midwife _labouring_ at the Child’s _Feet_, and
+check’d her, as acting very rashly, without my Direction; thus
+we had really separated the _Spine_ of the _Neck_, and the _Head_
+only adhering to the _Body_ by the _Skin_, was with little or no
+Force separated from it: In passing my Hand, after a tye on the
+_Navel-string_, I found the _Head_ fell _back_ into the prominent
+Part of the _Abdomen_, insomuch that I could only reach the
+separated Part of the _Neck_, and I endeavour’d, in vain, to get
+hold of the _Head_ by the _Crotchet_: While I was thus employ’d,
+a _Flooding_ came on, by the Separation of the _Placenta_, which
+quick’ned my Endeavours, from the Apprehensions of her sudden
+Death, if she was not immediately deliver’d; but the poor Woman,
+much spent with Fatigue and Loss of Blood, begg’d I would desist,
+preferring Death to Life; in which being join’d by the People
+present, and not a little exhausted of Spirit and Strength myself,
+I was, much against my Will, obliged to leave her to her Fate.
+
+Here I would observe, it appear’d the _Body_ was that of a large
+Boy, and tho’ I find GIFFARD and others made no Scruple of leaving
+the _Arms_ of a small Child, I must join with them in advising
+not to bring a _large one_, without first _procuring_ the _Arms_;
+tho’ I will not say, whether the Method of delivering on one Side
+instead of the _Back_, the lower Part somewhat _raised_ from the
+Bed, at the same Time _encouraging_ Labour with Hopes of immediate
+Delivery, recommended by DEVENTER, may not occasion the Danger of
+leaving the _Arms_.
+
+There are Variety of other wrong _Situations_, and _Cases_ of
+Difficulty, which I could illustrate by Examples in my own
+Practice, and may be found in the Observations of MAURICEAU
+DE-LA-MOTTE, GIFFARD and others, for the Information of such as
+practise Midwifry, that have no Relation to the Information of
+Midwives, either in their own Practice, or Occasions of Assistance.
+
+
+
+
+
+CHAPTER XIII.
+
+_Of_ TWINS.
+
+
+The Case of _Twins_ may, in many Country Places, be esteemed beyond
+the Skill of Women _practicing_ Midwifry; but as they are not alike
+ignorant, and this Delivery, with a right Management, is attended
+with no great Difficulty, I shall describe it as plainly as I can.
+
+If a Child comes naturally by the Force of the _Mother_’s Pains,
+and the _After-birth_ does not easily follow, the Midwife, by
+passing her Hand to separate its Adhesion as directed in the sixth
+Chapter, will readily find whether _another_ Child still remains
+to be born, by the Appearance of other _Membranes_, including
+_Waters_, &c. And as where more than one is to be born, they are
+generally proportionably smaller, and tho’ the first Child comes
+naturally, the second may not, she need not wait for the _Birth_
+of the other, by the meer Force of Nature, for this would greatly
+hazard the Life of the Child, and sometimes of the Mother, by
+a Flooding; but ought to break the _Membranes_, and search for
+the _Feet_, carefully preventing their being intangled with the
+_Navel-string_; and having got both in her Hand, draw them into
+the _Passage_; if the Child’s _Toes_ point to the _Mother’s Back_,
+there will be no Danger of the _Chin_ or _Nose_ being hung on the
+_Bones_ before, and she may draw the _Feet_ forth with the rest of
+the _Body_, without delaying to bring down the _Arms_, encouraging
+the Mother to assist in the mean Time, by _bearing down with or
+without Pains_.
+
+In Case the _Child’s Toes_ should point to the _Mother’s Belly_,
+the Midwife, in drawing the Child forth from the _Hips forward_,
+must gradually _turn_ the _Belly_ of the Child towards the
+_Mother’s Back_, by the Assistance of the other Hand in the
+proceeding.
+
+If the Woman be straiter, or the Child larger, than ordinary,
+when she has brought the Infant into the _Passage_ somewhat short
+of the _Arm-pits_, she must, by introducing her Fingers, first
+over one _Shoulder_, cautiously bring down one _Arm_, and then in
+like Manner the _other_, and drawing the Child forward, she must
+make Use of both Hands to extricate the _Head_; the _Fingers_ of
+one Hand between the _Mother’s Back_ and _Child’s Jaws_, bearing
+and drawing them from the _Back-bone_, and with the Fingers of
+the other Hand over the _Shoulders_, and the _flat_ against the
+_Child’s Back_, draw it forth, the Mother as aforesaid assisting
+all the while.
+
+Writers advise putting two Fingers into the _Child’s Mouth_; but
+as great Injury has often been done that Way, it is much safer to
+bring the Child by _bearing_ with the Fingers against its _Jaws_.
+If an _Arm_ should be broke in _bringing down_, let it be spliced
+with thin Paste-board, and bound at its full Extent to preserve its
+right Shape.
+
+In fetching an Infant by _turning_, ’tis necessary to draw its
+_Feet_ into the _Passage_, with the _Toes situate_ towards the
+_Infant’s Belly_, for it may be extreamly difficult, if not
+impossible, to draw it backwards, contrary to the natural _Bent_
+of its _Thighs_ and _Back_; and a _Limb_ may sometimes as easily
+be pull’d off, as the Child brought to the _Birth_ this Way; the
+Midwife must therefore make Use of the _right_, or _left_ Hand
+in doing it, which happens to be most convenient, to the natural
+_bending_ of the Infant’s Body.
+
+I THINK it cannot be safe for a Woman to _turn_ a Child upon ether
+Occasions requiring it; their Strength, as well as Skill being
+frequently inferior to the Task; besides, there may be great Danger
+of injuring the Vitals of the Mother in other Cases, especially
+after the Operation is unseasonably delay’d.
+
+As each Child has a Navel-string, as well as After-birth belonging
+to it (tho’ both _Placenta_’s are sometimes so joined as easily
+to be distinguished) the Care respecting the _Navel-string_,
+already related in the Sixth Chapter, must of Course be taken for
+the First-born, and its _Secundines_ left, ’till after the Birth
+of the Second, when both, if necessary, must be separated and
+brought away, as there advis’d, with Regard to one alone, and the
+_Navel-string_ of the last Infant tied after the same Manner as in
+the Birth of one Infant.
+
+
+
+
+CHAPTER XIV.
+
+_Of a_ Dead Child.
+
+
+A Dead Child is often born with abundantly more Difficulty than a
+_living_ one, for the last by its Struggles considerably promotes
+its own Birth; whereas, the first lies _immoveably_ in the _same_
+Posture, without changing Situation by its own Activity.
+
+When the Death of the Child proceeds from any _accidental_ Injury,
+the _breeding_ Woman commonly knows it, by the Perception of a
+_Weight_ within her, in the Part where it lies, instead of its
+_usual_ Motions, which from that Time cease, and occasion, not
+without Reason, a Solicitude for the best Assistance.
+
+One of my Neighbours, whom I lately deliver’d, had the Misfortune
+to fall flat on her Face, between the 7th and 8th Month of her
+Pregnancy; from which Time to that of her Labour, above three
+Weeks after, she had a continual Sensation of a Weight within her,
+without _any_ of the Child’s Motions, as before this Accident,
+although it was not succeeded by a _Flooding_, as is common upon
+a _partial_ or _total Separation_ of the _Placenta_: She had
+frequently been attacked with Pains resembling Travil, for above
+two Weeks before it came on effectually; in this Case after I had
+brought the Child by _turning_, I found the Secundines extremely
+offensive, by Reason of their Putrefaction.
+
+From Causes less manifest, ’tis a Thing more precarious to judge
+of the Infant’s Death; the Woman in Travil has not perceived the
+_Motion_ of the Child for some Days, while it was yet living;
+a _cadacerous_ Smell is not infallible; the coming away of the
+Child’s _Excrement_, may proceed from the _Compression_ of its
+Abdomen in the _Birth_, especially when the _Buttocks_ present;
+these Appearances therefore can only be a Foundation at best for
+_probable_ Conjecture; nothing short of the Peeling of the Cuticle
+or Scarf-Skin of the Child upon _Touching_ it, can be a _certain_
+Token of its Death.
+
+
+
+
+CHAPTER XV.
+
+_The necessary Care of a_ Mother _and_ Child.
+
+
+After Delivery, tis too universal a Practice to palliate the
+After-pains by _Opiates_, which if given beyond the Proportion,
+necessary to take off the Spasms attending, are mischievous,
+tending to obstruct the natural Cleansings, so absolutely
+necessary to succeed; and as these Pains cease of Course for
+the most Part in two or three Days, it were much better to have
+recourse to _Sperma Ceti_ dissolv’d with the Yolk of an Egg in a
+Draught of Caudle, or a Linctus of Sallad Oil and Sugar, if Oil
+of Sweet Almonds cannot be had fresh, as often as the Pains are
+violent.
+
+Particular Occasions may indeed require other Methods, but
+then ’tis best to be well advis’d, whether _Opiates_, or other
+_Medicines_ are necessary. During their Purgations, the Woman, in
+Child-bed, ought to be kept warm, from all Danger of taking cold,
+to a Degree of sensible Perspiration, and if she has no Stool by
+the third Day, which commonly brings, with the Milk, a feverish
+Heat, a Kitchen Glyster ought to be given and repeated in costive
+Habits, as there is Occasion.
+
+I SHALL conclude with some Things of the Care of Infants newly
+born; a Subject the more interesting, as our Natives are known
+greatly to decrease from the free Use of Spirituous Liquors; which
+Loss might in some Degree be repaired by a better Care of their
+Offspring, who are not only expos’d to suffer by the Ignorance of
+Midwives, but must undergo a second Martyrdom from swadling and
+cramming.
+
+Their fond Nurses greatly contribute to the general Cause of all
+their Distempers, _Indigestion_, frequently feeding them ’till they
+return it by the Mouth, which under these Circumstances, unless
+supply’d by a Looseness, is the only Means of their Preservation
+from more immediate Death.
+
+This Overcharge of their Stomachs, producing Crudities, gives them
+the most excruciating Pains in their Bowels; occasioning very
+often Fevers and Convulsions, and yet their Cries are customarily
+appeas’d by more Food, furnishing an Encrease of sharp Crudities
+in their Bowels; and ’tis well if Syrup of Poppies, _Godfrey_’s
+Cordial, or some other Opiate, be not given to stifle their
+Complaints, but in Effect to encrease the Mischief, by confining
+the Acrimony of an Overload within them.
+
+Infants are born with their Stomachs and Intestines charged with
+the Recrements of the Humours in which they swim, before Birth, and
+the glandular Secretions within them, which will naturally purge
+away with the first Milk they draw from the Mother’s Breast; and
+they would sleep, were they not too soon fed, ’till this Provision
+of Nature is ready for them, as Dr. CADOGAN found from Experience
+in his own Family; but as the Humour of Feeding them sooner
+generally obtains, and the Mother too often is not the Nurse; Half
+a Drachm of _Castile_ Soap diffolv’d in a Spoonful or two of thin
+Caudle, and sweetened with Honey, would cleanse the Child, and
+prevent many Distempers, owing to a Retention of Impurities within
+them before the Birth, if given soon after.
+
+’Tis well worth remarking, that the Food the Nurse takes
+communicates its Nature to the Milk, so that the Child may be
+intoxicated by her giving Suck too soon after strong Drink or
+Spirituous Liquors, by which Means many are destroy’d; it is
+likewise well known, if the Nurse takes a Purge, her Milk will
+purge the Child.
+
+This informs us, that when the Child is troubled with Gripes,
+attended with green, sour-smelling Stools, the Mother, or Nurse, by
+being confin’d to an Animal Diet, will, in a great Degree, prevent
+the Gripes, Looseness, or Convulsions, occasion’d by the Acidities
+of the Child’s Stomach and Bowels, from the contrary Qualities
+communicated to her Milk. On the Contrary, a vegetable Diet will
+greatly relieve the same Complaints, attended with strong smelling
+Stools, and a Tendency to the Putrefaction of the Humours, and the
+Child’s Spoon-meat, when any Thing is given besides the Mother’s
+Milk, may be regulated accordingly: In the mean Time, in both
+Cases, these Indigestions ought to be purged off with a few Grains
+of Rhubarb, or double the Quantity infus’d at Night in a Spoonful
+of common Drink, strain’d and sweetened with Honey.
+
+This, with a suitable and commodious Dress, leaving them Freedom
+for all their Motions, taking Care not to fill them with Crudities,
+by over-charging their Stomachs, would preserve the Health of young
+Children, they would then sleep away most of their Time, without
+those continual Cries of Misery, calling on the Compassion of all
+about them, whereby abundance of Trouble to their Nurses, and the
+continual Occasion of Medicines, to sweeten and purge away the
+Effects of Indigestion, would be prevented.
+
+
+_FINIS._
+
+
+
+
+TRANSCRIBER’S NOTE
+
+Original spelling and grammar were generally retained. The
+following two corrections were made in conformance with the spirit
+of the list of errata on page vi.
+
+ Page 9, l. 16. “Pains about the Navel and Loins” was changed to
+ “Pains about the Back, Navel and Loins”.
+
+ Page 33, l. 12. Changed “great Complaints of a smarting Pain;
+ when I touch’d it a Suppuration” to “great Complaints of a
+ smarting Pain when I touch’d it; a Suppuration”. This correction
+ is not quite what the erratum on page vi recommends—but the
+ recommendation is not quite correct.
+
+Page 21. Changed “which happpen’d the same Day” to “which happen’d
+the same Day”.
+
+Page 49. Changed “and its _Secondines_ left” to “and its
+_Secundines_ left”.
+
+
+
+
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of The Province of Midwives in the
+Practice of their Art, by William Clark
+
+*** END OF THIS PROJECT GUTENBERG EBOOK MIDWIVES ***
+
+***** This file should be named 52086-0.txt or 52086-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/2/0/8/52086/
+
+Produced by RichardW and the Online Distributed Proofreading
+Team at http://www.pgdp.net (This file was produced from
+images generously made available by The Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

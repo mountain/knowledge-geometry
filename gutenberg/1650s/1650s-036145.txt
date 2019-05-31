@@ -1,0 +1,4727 @@
+﻿The Project Gutenberg EBook of Thomas Stanley:  His Original Lyrics,
+Complete, In Their Collated Readings of 1647, 1651, 1657., by Thomas Stanley
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Thomas Stanley:  His Original Lyrics, Complete, In Their Collated Readings of 1647, 1651, 1657.
+       With an Introduction, Textual Notes, A List of Editions,
+       An Appendis of Translation, and a Portrait.
+
+Author: Thomas Stanley
+
+Editor: L.I. Guiney
+
+Release Date: June 27, 2010 [EBook #32986]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THOMAS STANLEY:  HIS ***
+
+
+
+
+Produced by Charlene Taylor, Walt Farrell and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/Canadian Libraries)
+
+
+
+
+
+Transcriber's Notes:
+  1. This transcription uses _ characters around italic text,
+     ^ to indicate superscripted text, and {} around multi-character
+     superscripts.
+
+  2. The author's textual notes occur near the end of the book, before
+     the Index to First Lines.
+
+     As an aid to the reader this text uses a different style for
+     references to those notes than the printed edition used.
+
+     References to the notes are marked within the text as
+     "[number:number]" and within the textual notes section as
+     "number:number." For example, [2:1] represents the first note in
+     the second poem that has notes; [3:2] represents the second note
+     in the third poem that has notes.
+
+  3. Additional Transcriber's Notes occur at the end of the book.
+
+
+
+
+LYRICS: THOMAS STANLEY
+
+
+
+
+  Thy numbers carry weight, yet clear and terse,
+  And innocent, as becomes the soul of verse.
+
+                    _JAMES SHIRLEY: To his honour'd
+                     friend Thomas Stanley, Esquire,
+                     upon his Elegant Poems._ [1646.]
+
+[Illustration: _Thomas Stanley (1625-1678)_]
+
+
+
+
+  THOMAS STANLEY:
+
+  HIS ORIGINAL LYRICS, COMPLETE,
+  IN THEIR COLLATED READINGS OF
+  1647, 1651, 1657.
+
+
+  WITH AN INTRODUCTION, TEXTUAL NOTES,
+  A LIST OF EDITIONS, AN APPENDIX OF
+  TRANSLATIONS, AND A PORTRAIT.
+
+
+  EDITED BY
+  L. I. GUINEY
+
+
+
+  J. R. TUTIN
+  HULL
+  1907
+
+
+
+
+  TO
+  C. N. G.
+  IN MEMORY OF AN OXFORD WINTER
+
+
+
+
+CONTENTS
+
+                                                                    PAGE
+
+PREFATORY NOTE                                                        xi
+
+  I. LYRICS PRINTED ONLY IN THE EDITION OF 1647:
+     The Dream                                                         1
+     Despair                                                           1
+     The Picture                                                       2
+     Opinion                                                           2
+
+ II. LYRICS PRINTED ONLY IN THE EDITION OF 1651:
+     The Cure                                                          4
+     To the Countess of S[underland?] with _The Holy
+       Court_                                                          6
+     Drawn for Valentine by the L[ady] D[orothy]
+       S[pencer?]                                                      7
+
+III. LYRICS PRINTED ONLY IN EDITION OF 1657 [JOHN
+       GAMBLE'S _Ayres and Dialogues_] HAVING NO TITLES:
+
+     'On this swelling bank'                                           9
+     'Dear, fold me once more'                                        10
+     'The lazy hours'                                                 10
+
+ IV. LYRICS PRINTED ONLY IN EDITIONS OF 1647 AND 1651:
+     Love's Innocence                                                 12
+     The Dedication to Love                                           13
+     The Glow-Worm                                                    13
+     To Chariessa, desiring her to Burn his Verses                    14
+     On Mr. Fletcher's Works                                          15
+     To the Lady D[ormer]                                             16
+     To Mr. W[illiam] Hammond                                         17
+     On Mr. Shirley's Poems                                           18
+     On Mr. Sherburne's Translation of Seneca's Medea,
+       and Vindication of the Author                                  20
+     On Mr. Hall's Essays                                             21
+     On Sir J[ohn] S[uckling] his Picture and Poems                   22
+     Answer [to 'The Union']                                          22
+
+  V. LYRICS PRINTED ONLY IN EDITIONS OF 1647 AND 1657
+      [GAMBLE]:
+     The Blush                                                        24
+     The Cold Kiss                                                    25
+     The Idolater                                                     25
+     The Magnet                                                       26
+     On a Violet in her Breast                                        27
+     Song: 'Foolish Lover, go and seek'                               28
+     The Parting                                                      29
+     Counsel                                                          29
+     Expostulation with Love, in Despair                              30
+     Song: 'Faith, 'tis not worth thy pains and care'                 31
+     Expectation                                                      32
+
+ VI. LYRICS PRINTED IN ALL ORIGINAL EDITIONS OF
+       STANLEY:
+     The Breath                                                       33
+     The Night: a Dialogue                                            34
+     Unalter'd by Sickness                                            35
+     To Celia, Excuse for Wishing her less Fair                       36
+     Celia, Sleeping or Singing                                       37
+     Palinode                                                         37
+     The Return                                                       38
+     Chang'd, yet Constant                                            39
+     To Chariessa, Beholding Herself in a Glass                       41
+     Song: 'When I lie burning in thine eye'                          42
+     Song: 'Fool! take up thy shaft again'                            43
+     Delay                                                            43
+     The Repulse                                                      44
+     Song: 'Celinda, by what potent art'                              45
+     The Tomb                                                         46
+     To Celia, Pleading Want of Merit                                 48
+     The Kiss                                                         49
+     The Snowball                                                     50
+     Speaking and Kissing                                             50
+     The Deposition                                                   51
+     Love's Heretic                                                   52
+     La Belle Confidante                                              54
+     La Belle Ennemie                                                 55
+     Love Deposed                                                     56
+     The Divorce                                                      57
+     The Bracelet                                                     58
+     The Farewell                                                     59
+     The Exchange: Dialogue                                           60
+     The Exequies                                                     61
+     The Silkworm                                                     62
+     Ambition                                                         62
+     Song: 'When, dearest Beauty, thou shalt pay'                     63
+     Song: 'I will not trust thy tempting graces'                     64
+     Song: 'No, I will sooner trust the wind'                         65
+     Song: 'I prithee let my heart alone!'                            65
+     The Loss                                                         66
+     The Self-Cruel                                                   67
+     An Answer to a Song, 'Wert thou much [?] fairer
+       than thou art,' by Mr. W. M.                                   68
+     The Relapse                                                      69
+
+APPENDIX:
+
+A SHEAF OF TRANSLATIONS:
+     The Revenge [Ronsard]                                            71
+     Claim to Love [Guarini]                                          72
+     The Sick Lover [Guarini]                                         72
+     Time Recover'd [Casone]                                          73
+     Song: 'I languish in a silent flame' [De Voiture]                73
+     Apollo and Daphne [Marino]                                       74
+     Song: Torment of absence and delay [Montalvan]                   75
+     A Lady Weeping [Montalvan]                                       75
+     To his Mistress in Absence [Tasso]                               76
+     The Hasty Kiss [Secundus]                                        76
+     Song: 'When thou thy pliant arms' [Secundus]                     77
+     Song: ''Tis no kiss' [Secundus]                                  77
+     Translations from Anacreon:
+           I. The Chase: 'With a Whip of lilies, Love'                78
+          II. 'Vex no more thyself and me'                            78
+         III. The Spring: 'See, the Spring herself discloses'         79
+          IV. The Combat: 'Now will I a lover be'                     79
+           V. 'On this verdant lotus laid'                            80
+     E Catalectis Vet[erum] Poet[arum]                                81
+     Seven Epigrams [Plato]:
+           I. Upon one named Aster                                    81
+          II. Upon Aster's Death                                      81
+         III. On Dion, engraved on his Tomb at Syracuse               82
+          IV. On Alexis                                               82
+           V. On Archaeanassa                                         82
+          VI. Love Sleeping                                           82
+         VII. On a Seal                                               83
+
+TEXTUAL NOTES                                                         85
+
+A LIST OF EDITIONS OF THOMAS STANLEY'S POEMS AND
+    TRANSLATIONS                                                     101
+
+INDEX TO FIRST LINES                                                 107
+
+
+
+
+PREFATORY NOTE
+
+
+Thomas Stanley's quiet life began in 1625, the year of the accession of
+that King whom English poets have loved most. He came, though in the
+illegitimate line, from the great Stanleys, Earls of Derby. His father,
+descended from Edward, third Earl, was Sir Thomas Stanley of
+Leytonstone, Essex, and Cumberlow, Hertfordshire; and his mother was
+Mary, daughter to Sir William Hammond of St. Alban's Court, Nonington,
+near Canterbury. Following the almost unbroken law of the heredity of
+genius, Stanley derived his chief mental qualities from his mother; and
+through her he was nearly related to the poets George Sandys, William
+Hammond, Sir John Marsham the chronologer, Richard Lovelace and his less
+famous brother; as, through his father, to a fellow-poet perhaps dearer
+to him than any of these, Sir Edward Sherburne.
+
+His tutor, at home, not at College, was William Fairfax, son of the
+translator of Tasso. With translation in his own blood, that
+accomplished and affectionate gentleman succeeded in inspiring his
+forward charge with a taste for the same rather thankless game, and
+with a love of modern foreign classics which he never lost. It was
+thrown at Stanley, afterwards, that in courting the Muses, he had
+profited only too well by Fairfax's aid: but the charge, if ever a
+serious one at all, was absurdly ill-founded. It may have been based on
+a wrong reading of that very generous acknowledgement beginning: 'If we
+are one, dear friend,' which is printed in this volume; for the muddled
+misconstruing mind has existed in every intellectual society. Nothing is
+plainer than that Stanley, both by right of natural genius and of
+fastidious scholarship, was more than capable of beating his music out
+alone.
+
+The boy was sent to Pembroke College, Cambridge, before he was fifteen,
+and was entered as a gentleman commoner of that University, passing by
+no means unmarked among a brilliant generation; and there, in 1641 he
+graduated Master of Arts, being incorporated at Oxford in the same
+degree. He next set out, like all youths of his rank and age, upon that
+'grand tour' which was still a perilous business. He returned to England
+in the full fury of the great Civil contest (his family having emigrated
+to France, meanwhile), and settled down to work, not forensic, but
+literary, in the Middle Temple. There he fell to editing Æschylus,
+turning Anacreon into English, and planning the beginnings of his
+_History of Philosophy_. Best of all, he wrote, at leisure and by
+liking, his charming verses. Contemporaries not a few practised this
+same notable detachment, building nests, as it were, in the cannon's
+mouth. Choosing the contemplative life, Stanley, like William Habington
+and Drummond of Hawthornden, was shut in with his mental activities,
+while many others whom they knew and whom we know, poor gay sparks of
+Parnassus, were dimming and blunting themselves on bloody fields. Like
+Habington and Drummond also in this, he was, though a passive Royalist,
+Royalist to the core. His _Psalterium Carolinum_ ([Greek: Eikôn
+Basilikê] in metre), published three years before the Restoration,
+proves at least that if he were a non-combatant for the cause he
+believed in, he was no timid truckler to the power which crushed it. In
+London he seems to have lived throughout the war, suffering and
+surviving in the smallpox epidemic. He had married early, and, according
+to all evidence, most happily. His wife was Dorothy, daughter and
+co-heiress of Sir James Enyon, Baronet, of Flore, or Flower,
+Northamptonshire. (It is curious, one may note in passing, that Thomas
+Stanley in the Oxford University Register is entered as an incorporated
+Cantabrigian 'of Flowre, Northants.' This was in his seventeenth year,
+when it is highly improbable that any property there could have been
+made over to him, unless with reference to his betrothal to Dorothy
+Enyon, then a child.) One of Stanley's devoted poetic circle joyfully
+salutes them on the birth of their second son, Sidney,
+
+     'Ere both the parents forty summers told,'
+
+as equal paragons. 'You two,' sings Hammond, 'who are in worthiness so
+near allied.' They enjoyed, together, a comfortable fortune, and gave
+even more generously, in proportion, than they had received. All
+Stanley's tastes and habits were humanistic. He was the loyal and
+helpful friend of many English men of letters. To name his familiar
+associates is to call up a bright and thoughtful pageant, for they
+include, besides Lovelace and Suckling and Sherburne, the Bromes; James
+Shirley; John Davies of Kidwelly; John Hall of Durham, better remembered
+now as the friend of Hobbes than as the prodigy his generation thought
+him; and the genial Edward Phillips, the nephew of Milton. Though
+Stanley knew how to protest manfully when the profits of his mental
+labours were in danger of being withdrawn from him, yet he sought none
+of the usual awards of life, and never increased his patrimony. Indeed,
+his relative William Wotton said of him long after, in a Latin notice
+written for _Elogia Gallorum_, that Stanley lived engrossed in his
+studies, and let his private interests run to seed. He kept his learning
+and his liberty, his charity and peace and good repute; and of his
+troubles and trials he has left, like the gallant philosopher he was, no
+record at all. A little brass in the chancel pavement of Clothall
+Church, near Baldock, witnesses to some of these: for there 'Thomas et
+Dorothea, parentes moesti,' laid two little sons to rest ... 'sit nomen
+Dñi benedictum.' They lost other children, later; but one son and three
+daughters survived their gentle father, when, after a severe illness, he
+was called away from a society which bitterly deplored him, in April,
+1678. He died in Suffolk Street, London, in the parish of St.
+Martin-in-the-Fields.
+
+Stanley was supposed by his contemporaries to have made himself immortal
+by his _History of Philosophy_, long a standard book, though hardly an
+original one. Indeed, they considered him, chiefly on account of it,
+'the glory and admiration of his time': the phrase is that of a careful
+critic, Winstanley. The work went into many editions; his prose was used
+and read, while his verse was talked of, and passed lightly from hand to
+hand. As in the case of Petrarca, whose fine Latin tomes quickly
+perished, while his less regarded vernacular _Rime_ rose to shine 'on
+the stretched forefinger of all Time,' so here was a little remainder of
+lovely English song to embalm an otherwise soon-buried name. Hardly any
+poet of his poetic day, to be discovered hereafter, can be appraised on
+a more intimate understanding, or can awaken a more endearing interest.
+Yet we know that save for one or two of his pieces extant here or there
+in anthologies; save for a private reprint in 1814 by that tireless
+scholar and 'great mouser,' Sir Egerton Brydges; save for Mr. A. H.
+Bullen's valued reproduction of the _Anacreontea_, in 1893, Thomas
+Stanley's name is utterly unknown to the modern world.
+
+We have indeed travelled far from the ideals of the seventeenth century.
+Perhaps, after all, that is one of our blunders; for every hour,
+nowadays, we are busy breaking a backward path through the historic
+underbrush, in order to speak with those singing gentlemen of 'the
+Warres,' whose art and statecraft and religion some of us (who have seen
+the end of so much else), find incredibly attractive to our own. Their
+lawless vision, like that of children, and the mysterious trick of
+music in all their speech, are things we love instinctively, and never
+can regain. Out of their political storm, their hard thought, and high
+spirits, they can somehow give us rest: and it is chiefly rest which we
+crave of them. We appeal to each of these post-Elizabethans with the
+invitatory line of one of them:
+
+     'Charm me asleep with thy delicious numbers!'
+
+The pleasure they can still give is inexhaustible, for unconscious
+genius like theirs, however narrow, is a deeper well than Goethe's. Cast
+aside, and contemned, and left in the darkness long ago, the greater
+number of these English Alexandrians are as alive as the lamp in
+Tullia's tomb; and of these Stanley, as a craftsman, is almost first.
+
+He was a born man of letters; he gave his whole life to meditation, to
+friendship, and to art; he did his beautiful best, and cared nothing for
+results; and though literary dynasties have come and gone, his work has
+sufficient vitality to-day to leap abreast of work which has never been
+out of the sphere of man's appreciation, and has deserved all the
+appreciation which it got. Stanley's fastidious strength, his wayward
+but concentrated grace, his spirit of liberty and scorn in writing of
+love (which was one of the novel characteristic notes of Wither's
+generation, and of Robert Jones's before him); the sunny, fearless
+mental motion, like that of a bird flying not far, but high, seem to our
+plodding scientific wits as unnatural as a Sibyllic intoxication. He
+strikes few notes; he recognises his limits and controls his range; but
+within these, he is for the most part as happy as Herrick, as mellow as
+Henry King, as free as Carew, and as capable as these were, and as those
+deeper natures, Crashaw and Vaughan, were not, of a short poem perfect
+throughout. He is the child of his age, moreover, in that his ingenuity
+never slumbers, and his speech must ever be concise and knotty. If he
+sports in the tangles of Neræa's hair, it is because he likes tangles,
+and means to add to them. No Carolian poet was ever an idler!
+
+Carew, perhaps, is Stanley's nearest parallel. The latter shows the very
+same sort of golden pertness, masked in languid elegance, which goes to
+unify and heighten Carew's memorable enchantment, and the same sheer
+singable felicity of phrase. But, unlike Carew, he has no glorious
+ungoverned swift-passing raptures; there is in Stanley less fire and
+less tenderness. Nor has he anything to repent of. His imagination, as
+John Hall discerningly said of it,
+
+     'Makes soft Ionic turn grave Lydian.'
+
+Except Habington's, no considerable body of amatory verse in all that
+century, certainly not even Cowley's more artificial sequence of 1647,
+is, on the whole, so free from stain. Stanley's exemption did not pass
+unnoticed; and William Fairfax ('no man fitter!') is careful to instruct
+us that Doris, Celinda, and Chariessa were 'various rays' of 'one orient
+sun,' and further, that 'no coy ambitious names may here imagine earthly
+flames,' because the poet's professional and deliberate homage was
+really paid to inward beauty, and never to 'roses of the cheek' alone.
+Here we run up against a sweet and famous moral of Carew's, which not
+Carew, but Stanley, bears out as the better symbolist of the two. Our
+poet does not appear to have contributed towards the religious
+literature of a day when the torrent of intense life in human hearts
+bred so much heaven-mounting spray, as well as so much necessary scum
+and refuse. But his was a temperament so religious that one almost
+expects to find somewhere a manuscript volume of 'pious thoughts,' the
+shy fruit of Stanley's Christian 'retirements' at home. It will be
+noticed that there is one sad devotional poem in this book, 'The lazy
+hours move slow'; and as it appears only in John Gamble's book, 1657, it
+may fairly be inferred that it was written later than the other lyrics.
+In 1657 Stanley was two-and-thirty, and his singing-time, so far as we
+know, was over. He had discharged it well. He fails where any true
+artist may ever be expected to fail, in verses occasional and
+complimentary. But, to balance this, he is often exceptionally happy
+when translating.
+
+His portrait, in middle age, by Faithorne after Lely, commends him to us
+all as quite worthy of the affection and applause which surrounded him
+from his youth, and never spoiled him. Brown-haired, hazel-eyed,
+fresh-cheeked, serene rather than gay, he seems the very incarnation of
+the ideal for which many others, less fortunate, hungered in that vexed
+England: the man 'innocent and quiet,' whose 'mind to him a kingdom
+is,' whose 'treasure is in Minerva's tower,' and 'who in the region of
+himself remains.' Through the Civil struggle, the Commonwealth, the
+Restoration, he had followed a way of peace, without blame, and he is
+almost the only poet of the stormy time who is absolutely unaffected by
+it. He, at least, need not be discounted as a pathetic broken crystal:
+he can be judged on his own little plot of ground, without allowances,
+and by our strictest modern standards. His light bright best, his
+_viridaria_, have borne victoriously the lava-drift of nearly three
+centuries. An amorist of even temper and of malice prepense, a railer
+with a sound heart, an untyrannic master of his Muse, Stanley sings low
+to his small jocund lyre, and need not be too curiously questioned about
+his sincerity. How can it matter? He gives delight; he deserves the
+bays.
+
+This little book is the first complete reprint of Stanley ever
+published: it is his original and inclusive output. The text is a new
+text, inasmuch as it represents the Editor's choice of readings, among
+many variants; but variants are noted throughout, and by their number
+and interest tell their own tale of Stanley's exacting and sure taste. A
+few translated lyrics are gathered into an Appendix. The title-pages of
+his few volumes will be found cited in the accompanying List of
+Editions.
+
+But the only issues taken into account here, for textual purposes, are
+the three of 1647, 1651, and 1657, of which last a word needs to be
+said. (The edition of 1652 is an exact copy of 1651, therefore
+negligible in the preparation of this book.) The often-overlooked
+_Ayres and Dialogues_, Gamble's and Stanley's, appeared first privately,
+in 1656, then in 1657. The earlier issue is rare; it figures in the
+British Museum Music Catalogues, but not in those of the Bodleian
+Library. There is at Oxford, however, a copy of the later edition, and
+on this the present editor bases the readings common both to 1656 and
+1657. As a general thing these readings of the Gamble Stanley are
+particularly satisfying, and besides having all the advantages in point
+of time, may have profited by the author's careful revision. John
+Gamble's music-book is devoted wholly to Stanley's poems. It has a
+notably affectionate and, as it happens, a not-much-too-obsequious
+Preface, in which Gamble well says that he felt it 'a bold Undertaking
+to compose words which are so pure Harmonie in themselves, into any
+other Musick'; yet that he longed to put it to the test, 'how neer a
+whole life spent in the study of Musical Compositions could imitate the
+flowing and naturall Graces which you have created by your Fancie.'
+Gamble wrote out no accompaniments to his sweet and spirited settings,
+nor did he leave Stanley's titles prefixed to the numbered songs, a good
+proportion of which are translations, though not indicated as such.
+
+As to the present arrangement, for simplicity's sake, it is nothing if
+not frankly chronological. It is divided into six sections; the sixth
+contains those poems which must have appeared to Stanley to be his best,
+as they were included by him in every successive edition of his work.
+Form and method, therefore, are both, after a fashion, novel, but not
+without their good inherent justification, nor without fullest obedience
+of spirit to the author's individual genius and its posthumous dues. The
+spelling has been modernised, and particular pains have been taken with
+the punctuation. This reprint is a deferent attempt to set forth Thomas
+Stanley as a little latter-day classic, in his old rich singing-coat,
+made strong and whole by means of coloured strands of his own weaving.
+
+                                                              L. I. G.
+
+OXFORD, _August 31, 1905_.
+
+
+
+
+The Editor's best acknowledgements are due to Mr. W. BAILEY KEMPLING,
+for his painstaking copy, from the 1651 edition of Stanley in the
+British Museum, of a large number of the poems collated in this book.
+
+
+
+
+LYRICS: THOMAS STANLEY
+
+
+
+
+I. LYRICS PRINTED ONLY IN THE EDITION OF 1647.
+
+
+          THE DREAM.
+
+    That I might ever dream thus! that some power
+    To my eternal sleep would join this hour!
+    So, willingly deceiv'd, I might possess
+    In seeming joys a real happiness.
+    Haste not away: O do not dissipate                                 5
+    A pleasure thou so lately didst create!
+    Stay, welcome Sleep; be ever here confin'd:
+    Or if thou wilt away, leave her behind.
+
+
+          DESPAIR.
+
+      No, no, poor blasted Hope!
+    Since I (with thee) have lost the scope
+    Of all my joys, I will no more
+                  Vainly implore
+    The unrelenting Destinies:                                         5
+    He that can equally sustain
+    The strong assaults of joy and pain,
+    May safely laugh at their decrees.
+
+      Despair, to thee I bow,
+    Whose constancy disdains t'allow                                  10
+    Those childish passions that destroy
+                  Our fickle joy;
+    How cruel Fates so e'er appear,
+    Their harmless anger I despise,
+    And fix'd, can neither fall nor rise,                             15
+    Thrown below hope, but rais'd 'bove fear.
+
+
+          THE PICTURE.
+
+    Thou that both feel'st and dost admire
+    The flames shot from a painted fire,
+    Know Celia's image thou dost see:
+    Not to herself more like is she.
+    He that should both together view                                  5
+    Would judge both pictures, or both true.
+    But thus they differ: the best part
+    Of Nature this is; that of Art.
+
+
+          OPINION.
+
+    Whence took the diamond worth? the borrow'd rays
+    That crystal wears, whence had they first their praise?
+    Why should rude feet contemn the snow's chaste white,
+    Which from the sun receives a sparkling light,
+    Brighter than diamonds far, and by its birth                       5
+    Decks the green garment of the richer earth?
+    Rivers than crystal clearer, when to ice
+    Congeal'd, why do weak judgements so despise?
+    Which, melting, show that to impartial sight
+    Weeping than smiling crystal is more bright.                      10
+    But Fancy those first priz'd, and these did scorn,
+    Taking their praise the other to adorn.
+    Thus blind is human sight: opinion gave
+    To their esteem a birth, to theirs a grave;
+    Nor can our judgements with these clouds dispense,                15
+    Since reason sees but with the eyes of sense.
+
+
+
+
+II. LYRICS PRINTED ONLY IN THE EDITION OF 1651.
+
+
+          THE CURE.
+
+          _Nymph._
+
+    What busy cares, too timely born,
+      Young swain! disturb thy sleep?
+    Thy early sighs awake the morn,
+      Thy tears teach her to weep.
+
+          _Shepherd._
+
+    Sorrows, fair nymph, are full alone,                               5
+      Nor counsel can endure.
+
+          _Nymph._
+
+    Yet thine disclose; for, until known,
+      Sickness admits no cure.
+
+          _Shepherd._
+
+    My griefs are such as but to hear
+      Would poison all thy joys;                                      10
+    The pity which thou seem'st to bear
+      My health, thine own destroys.
+
+          _Nymph._
+
+    How can diseased minds infect?
+      Say what thy grief doth move!
+
+          _Shepherd._
+
+    Call up thy virtue to protect                                     15
+      Thy heart, and know--'twas love.
+
+          _Nymph._
+
+    Fond swain!
+
+          _Shepherd._
+
+    By which I have been long
+      Destin'd to meet with hate.
+
+          _Nymph._
+
+    Fie! shepherd, fie! thou dost love wrong,
+      To call thy crime thy fate.                                     20
+
+          _Shepherd._
+
+    Alas! what cunning could decline,
+      What force can love repel?
+
+          _Nymph._
+
+    Yet there's a way to unconfine
+      Thy heart.
+
+          _Shepherd._
+
+                  For pity, tell.
+
+          _Nymph._
+
+    Choose one whose love may be assur'd                              25
+      By thine: who ever knew
+    Inveterate diseases cur'd
+      But by receiving new?
+
+          _Shepherd._
+
+    All will, like her, my soul perplex.
+
+          _Nymph._
+
+    Yet try.
+
+          _Shepherd._
+
+      Oh, could there be                                              30
+    But any softness in that sex,
+      I'd wish it were in thee!
+
+          _Nymph._
+
+    Thy prayer is heard: learn now t'esteem
+      The kindness she hath shown,
+    Who, thy lost freedom to redeem,                                  35
+      Hath forfeited her own.
+
+
+  TO THE COUNTESS OF S[UNDERLAND?] WITH THE HOLY COURT.[1:1]
+
+    Since every place you bless, the name
+    This book assumes may justlier claim.
+    (What more a court than where you shine?
+    And where your soul, what more divine?)
+    You may perhaps doubt at first sight                               5
+    That it usurps upon your right;
+    And praising virtues that belong
+    To you, in others, doth you wrong.
+    No, 'tis yourself you read, in all
+    Perfections earlier ages call                                     10
+    Their own; all glories they e'er knew
+    Were but faint prophecies of you.
+    You then have here sole interest, whom 'tis meant
+    As well to entertain, as represent.
+
+
+  DRAWN FOR VALENTINE BY THE L[ADY] D[OROTHY] S[PENCER?].[2:1]
+
+    Though 'gainst me Love and Destiny conspire,
+    Though I must waste in an unpitied fire,
+    By the same deity, severe as fair,
+    Commanded adoration and despair;
+    Though I am mark'd for sacrifice, to tell                          5
+    The growing age what dangerous glories dwell
+    In this bright dawn, who, when she spreads her rays,
+    Will challenge every heart, and every praise;
+    Yet she who to all hope forbids my claim,
+    By Fortune's taught indulgence to my flame,                       10
+    Great Queen of Chance! unjustly we exclude
+    Thy power an interest in beatitude,
+    Who with mysterious judgement dost dispense
+    The bounties of unerring Providence;
+    Whilst we, to whom the causes are unknown,                        15
+    Would style that blindness thine, which is our own.
+    As kind, in justice to thyself, as me,
+    Thou hast redeem'd thy name and votary:
+    Nor will I prize this less for being thine,
+    Nor longer at my destiny repine.                                  20
+    Counsel and choice are things below thy state:
+    Fortune relieves the cruelties of Fate.
+
+
+
+
+III. LYRICS PRINTED ONLY IN THE EDITION OF 1657 [JOHN GAMBLE'S _AYRES
+AND DIALOGUES_] HAVING NO TITLES.
+
+
+          ON THIS SWELLING BANK.
+
+    On this swelling bank, once proud
+      Of its burden, Doris lay:
+    Here she smil'd, and did uncloud
+      Those bright suns eclipse the day;
+    Here we sat, and with kind art                                     5
+      She about me twin'd her arms,
+    Clasp'd in hers my hand and heart,
+      Fetter'd in those pleasing charms.
+
+    Here my love and joys she crown'd,
+      Whilst the hours stood still before me,                         10
+    With a killing glance did wound,
+      And a melting kiss restore me.
+    On the down of either breast,
+      Whilst with joy my soul retir'd,
+    My reclining head did rest,                                       15
+      Till her lips new life inspir'd.
+
+    Thus, renewing of these sights
+      Doth with grief and pleasure fill me,
+    And the thought of these delights
+      Both at once revive and kill me!                                20
+
+
+          DEAR, FOLD ME ONCE MORE.
+
+    Dear, fold me once more in thine arms!
+      And let me know
+      Before I go
+    There is no bliss but in those charms.
+      By thy fair self I swear                                         5
+      That here, and only here,
+    I would for ever, ever stay:
+    But cruel Fate calls me away.
+
+    How swiftly the light minutes slide!
+      The hours that haste                                            10
+      Away thus fast
+    By envious flight my stay do chide.
+      Yet, Dear, since I must go,
+      By this last kiss I vow,
+    By all that sweetness which dwells with thee,[3:1]                15
+    Time shall move slow, till next I see thee.
+
+
+          THE LAZY HOURS.
+
+    The lazy hours move slow,
+      The minutes stay;
+    Old Time with leaden feet doth go,
+      And his light wings hath cast away.
+    The slow-pac'd spheres above                                       5
+      Have sure releas'd
+    Their guardians, and without help move,
+      Whilst that the very angels rest.
+
+    The number'd sands that slide
+      Through this small glass,                                       10
+    And into minutes Time divide,
+      Too slow each other do displace;
+    The tedious wheels of light
+      No faster chime,
+    Than that dull shade which waits on night:                        15
+      For Expectation outruns Time.
+
+    How long, Lord, must I stay?
+      How long dwell here?
+    O free me from this loathed clay!
+      Let me no more these fetters wear!                              20
+    With far more joy
+      Shall I resign my breath,
+    For, to my griev'd soul, not to die
+      Is every minute a new death.
+
+
+
+
+IV. LYRICS PRINTED ONLY IN EDITIONS OF 1647 AND 1651.
+
+
+          LOVE'S INNOCENCE.[4:1]
+
+    See how this ivy strives to twine[4:2]
+    Her wanton arms about the vine,
+    And her coy lover thus restrains,
+    Entangled in her amorous chains;
+    See how these neighb'ring palms do bend                            5
+    Their heads, and mutual murmurs send,
+    As whispering with a jealous fear[4:3]
+    Their loves into each other's ear.
+    Then blush not such a flame to own     }
+    As, like thyself, no crime hath known; }                          10
+    Led by these harmless guides, we may   }[4:4]
+    Embrace and kiss as well as they.      }
+    And like those blessed souls above,
+    Whose life is harmony and love,
+    Let us our mutual thoughts betray,                                15
+    And in our wills our minds display.
+    This silent speech is swifter far
+    Than the ears' lazy species are;
+    And the expression it affords
+    (As our desires,) 'bove reach of words.                           20
+    Thus we, my Dear, of these may learn[4:5]
+    A passion others not discern;
+    Nor can it shame or blushes move,
+    Like plants to live, like angels love:
+      Since all excuse with equal innocence                           25
+      What above reason is, or beneath sense.
+
+
+          THE DEDICATION.[5:1]
+
+            To Love.
+
+    Thou whose sole name all passions doth comprise:
+    Youngest and eldest of the Deities,
+    Born without parents, whose unbounded reign
+    Moves the firm earth, fixeth the floating main,
+    Inverts the course of heaven, and from the deep                    5
+    Awakes those souls that in dark Lethe sleep,
+    By thy mysterious chains seeking t'unite,
+    Once more, the long-since-torn hermaphrodite!
+    He who thy willing prisoner long was vow'd,
+    And uncompell'd beneath thy sceptre bow'd,                        10
+    Returns at last in thy soft fetters bound,
+    With victory, though not with freedom, crown'd:
+    And, (of his dangers past a grateful sign,)
+    Suspends this tablet at thy numerous shrine.
+
+
+          THE GLOW-WORM.
+
+    Stay, fairest Chariessa, stay and mark
+    This animated gem,[6:1] whose fainter spark
+    Of fading light, its birth had from the dark:
+
+    A star thought by the erring[6:2] passenger
+    Which falling from its native orb, dropped here,                   5
+    And makes the earth, its centre, now its sphere.
+
+    Should many of these sparks together be,
+    He that the unknown light far off should see
+    Would think it a terrestrial galaxy.
+
+    Take 't up, fair Saint; see how it mocks thy fright;              10
+    The paler flame doth not yield heat, though light,
+    Which thus deceives[6:3] thy reason, through thy sight.
+
+    But see how quickly it, ta'en up, doth fade,
+    (To shine in darkness only being made),
+    By th' brightness of thy light turn'd to a shade,                 15
+
+    And burnt to ashes by thy flaming eyes!
+    On the chaste altar of thy hand it dies,
+    As to thy greater light a sacrifice.
+
+
+          TO CHARIESSA,[7:1]
+
+      _Desiring her to Burn his Verses._
+
+    These papers, Chariessa, let thy breath
+    Condemn, thy hand unto the flames bequeath;
+    'Tis fit who gave them life, should give them death.
+
+    And whilst[7:2] in curled flames to heaven they rise,
+    Each trembling sheet shall, as it upwards flies,                   5
+    Present itself to thee a sacrifice.
+
+    Then when above[7:3] its native orb it came,
+    And reach'd the lesser lights o' th' sky, this flame,
+    Contracted to a star, should wear thy name,
+
+    Or falling down on earth from its bright sphere,                  10
+    Shall in a diamond's shape its lustre bear,
+    And trouble (as it did before) thine ear.
+
+    But thou wilt cruel even in mercy be,
+    Unequal in thy justice, who dost free
+    Things without sense from flames, and yet not me!                 15
+
+
+          ON MR. FLETCHER'S WORKS [1647].[8:1]
+
+    Fletcher, whose fame no age can ever waste,
+    (Envy of ours, and glory of the last,)
+    Is now alive again; and with his name
+    His sacred ashes wak'd into a flame
+    Such as before could[8:2] by a secret charm                        5
+    The wildest heart subdue, the coldest warm,
+    And lend the ladies' eyes a power more bright,
+    Dispensing thus, to either, heat and light.
+    He to a sympathy those souls betray'd
+    Whom love or beauty never could persuade;                         10
+    And in each mov'd spectator did[8:3] beget
+    A real passion by a counterfeit.
+    When first Bellario bled, what lady there
+    Did not for every drop let fall a tear?
+    And when Aspasia wept, not any eye                                15
+    But seem'd to wear the same sad livery;
+    By him inspir'd, the feign'd Lucina drew
+    More streams of melting sorrow than the true;
+    But then The Scornful Lady did[8:4] beguile
+    Their easy griefs, and teach them all to smile.                   20
+    Thus he affections could or raise or lay;
+    Love, grief, and mirth thus did his charms obey:
+    He Nature taught her passions to out-do,
+    How to refine the old, and create new;
+    Which such a happy likeness seem'd to bear,                       25
+    As if that Nature Art, Art Nature were.
+    Yet all had nothing been, obscurely kept
+    In the same urn wherein his dust hath slept;
+    Nor had he risen[8:5] the Delphic wreath to claim,
+    Had with[8:6] the dying scene expir'd his name.                   30
+    O the indulgent justice of this age,
+    To grant the press what it denies the stage!
+    Despair our joy hath doubled: he is come
+    Twice welcome by this _post liminium_.
+    His loss preserv'd him; they that silenc'd wit                    35
+    Are now the authors to eternize it.
+    Thus poets are in spite of Fate reviv'd,
+    And plays, by intermission, longer liv'd.
+
+
+          TO THE LADY D[ORMER].[9:1]
+
+    Madam! the blushes I betray,
+    When at your feet I humbly lay
+    These papers, beg you would excuse
+    Th' obedience of a bashful Muse,
+    Who, bowing to your strict command,                                5
+    Trusts her own errors to your hand,
+    Hasty abortives, which, laid by,
+    She meant, ere they were born, should die:
+    But since the soft power of your breath
+    Hath call'd them back again from death,                           10
+    To your sharp judgement now made known,
+    She dares for hers no longer own;
+    The worst she must not: these resign'd
+    She hath to th' fire; and where you find
+    Those your kind charity admir'd,                                  15
+    She writ but what your eyes inspir'd.
+
+
+          TO MR. W[ILLIAM] HAMMOND.
+
+    Thou best of Friendship, Knowledge, and of Art!
+    The charm of whose lov'd name preserves my heart
+    From female vanities, (thy name, which there
+    Till time dissolves the fabric, I must wear!)
+    Forgive a crime which long my soul oppress'd,                      5
+    And crept by chance in my unwary breast,
+    So great, as for thy pardon were unfit,
+    And to forgive were worse than to commit,
+    But that the fault and pain were so much one,
+    The very act did expiate what was done.                           10
+    I, who so often sported with the flame,
+    Play'd with the Boy, and laugh'd at both as tame,
+    Betray'd by idleness and beauty, fell
+    At last in love, love both the sin and hell:
+    No punishment great as my fault esteem'd,                         15
+    But to be that which I so long had seem'd.
+    Behold me such: a face, a voice, a lute;
+    The sentence in a minute execute.
+    I yield, recant; the faith which I before
+    Deny'd, profess; the power I scorn'd, implore.                    20
+    Alas, in vain! no prayers, no vows can bow
+    Her stubborn heart, who neither will allow.
+    But see how strangely what was meant no less
+    Than torment, prov'd my greatest happiness;
+    Delay, that should have sharpen'd, starv'd Desire,                25
+    And Cruelty not fann'd, but quench'd my fire.
+    Love bound me; now, by kind Disdain set free,
+    I can despise that Love as well as she.
+    That sin to friendship I away have thrown!
+    My heart thou may'st without a rival own,[10:1]                   30
+    While such as willingly themselves beguile,
+    And sell away their freedoms for a smile,
+    Blush to confess our joys as far above
+    Their hopes, as friendship's longer-liv'd than love.
+
+
+          ON MR. SHIRLEY'S POEMS [1646].[11:1]
+
+    When, dearest Friend, thy verse doth re-inspire
+    Love's pale decaying torch with brighter fire,
+    Whilst everywhere thou dost dilate thy flame,
+    And to the world spread thy Odelia's name,
+    The justice of all ages must remit                                 5
+    To her the prize of beauty, thee of wit.
+    Then, like some skilful artist, that to wonder[11:2]
+    Framing some[11:3] piece, displeas'd, takes it asunder,
+    Thou Beauty dost depose, her charms deny,
+    And all the mystic chains of Love untie.                          10
+    Thus thy diviner Muse a power 'bove Fate
+    May boast, that can both make and uncreate.
+    Next, thou call'st back to life that love-sick boy,
+    To the kind-hearted nymphs less fair than coy,
+    Who, by reflex beams burnt with vain desire,                      15
+    Did, phoenix-like, in his own flames expire;
+    But should he view his shadow drawn by thee,
+    He with himself once more in love would be.
+    Echo, (who though she words[11:4] pursue, her haste
+    Can only overtake and stop the last,)                             20
+    Shall her first speech and human voice[11:5] obtain,
+    To sing thy softer numbers o'er again.
+    Thus, into dying poetry, thy Muse
+    Doth full perfection and new life infuse.
+    Each line deserves a laurel, and thy praise                       25
+    Asks not a garland, but a grove of bays;
+    Nor can ours raise thy lasting trophies higher,
+    Who only reach at merit to admire.
+    But I must chide thee, friend: how canst thou be
+    A patron, yet a foe to Poesy?[11:6]                               30
+    For while thou dost this age to verse restore,}
+    Thou dost deprive the next of owning more;    }[11:7]
+    And hast so far all future times surpass'd,[11:8]
+    That none dare write: thus, being first and last,
+    All their abortive Muses will suppress,                           35
+    And Poetry, by this increase, grow less.
+
+
+          ON MR. SHERBURNE'S TRANSLATION OF SENECA'S MEDEA,
+            AND VINDICATION OF THE AUTHOR [1647-8].[12:1]
+
+    That wise philosopher who had design'd
+    To [th'] life the various passions of the mind,
+    Did wrong'd Medea's jealousy prefer
+    To entertain the Roman theatre;
+    Both to instruct the soul, and please the sight,                   5
+    At once begetting horror and delight.
+    This cruelty thou dost once more express
+    Though in a strange, no less becoming dress;
+    And her revenge hast robb'd of half its pride,
+    To see itself thus by itself outvied,                             10
+    That boldest ages past may say, our times
+    Can speak, as well as act, their highest crimes.
+    Nor was't enough to do his scene this right,
+    But what thou gav'st to us, with equal light
+    Thou wouldst bestow on him, nor wert more just                    15
+    Unto the author's work, than to his dust.
+    Thou dost make good his title, aid his claim,
+    Both vindicate his poem and his name,
+    So shar'st a double wreath; for all that we
+    Unto the poet[12:2] owe, he owes to thee.                         20
+    Though change of tongues stol'n praise to some afford,
+    Thy version hath not borrow'd, but restor'd.
+
+
+          ON MR. HALL'S ESSAYS [HORAE VACIVAE, 1646].[13:1]
+
+    Wits that matur'd by time have courted praise,
+    Shall see their works outdone in these essays,
+    And blush to know thy earlier years display
+    A dawning clearer than their brightest day.[13:2]
+    Yet I'll not praise thee, for thou hast outgrown                   5
+    The reach of all men's praises but thine own.
+    Encomiums to their objects are exact:
+    To praise, and not at full, is to detract.
+    And with most justice are the best forgot;
+    For praise is bounded when the theme is not:                      10
+    Since mine is thus confin'd, and far below
+    Thy merit, I forbear it, nor will show
+    How poor the autumnal pride of some appears,[13:3]
+    To the ripe fruit thy vernal season bears!
+    Yet though I mean no praise, I come t'invite                      15
+    Thy forward aims still to advance their flight.
+    Rise higher yet; what though thy spreading wreath
+    Lessen, to their dull sight who stay beneath?
+    To thy full learning how can all allow
+    Just praise, unless that all were learn'd as thou?                20
+    Go on, in spite of such low souls, and may
+    Thy growing worth know age, though not decay,
+    Till thou pay back thy theft, and live to climb
+    As many years as thou hast snatch'd from Time.
+
+
+          ON SIR J[OHN] S[UCKLING] HIS PICTURE AND
+            POEMS [1646].[14:1]
+
+    Suckling, whose numbers could invite
+    Alike to wonder and delight,
+    And with new spirit did inspire
+    The Thespian scene, and Delphic lyre,
+    Is thus express'd in either part,                                  5
+    Above the humble reach of Art.
+    Drawn by the pencil, here you find
+    His form; by his own pen, his mind.
+
+
+          ANSWER [TO "THE UNION," POEM ADDRESSED TO
+            STANLEY BY HIS FRIEND AND TUTOR, WILLIAM
+            FAIRFAX].[15:1]
+
+    If we are one, dear Friend! why shouldst thou be
+    At once unequal to thyself and me?
+    By thy release thou swell'st my debt the more,
+    And dost but rob thyself to make me poor.
+    What part can I have in thy luminous cone,                         5
+    What flame, since my love's thine, can call my own,
+    (The palest star is less the son of night,)
+    Who but thy borrow'd know no native light?[15:2]
+    Was't not enough thou freely didst bestow
+    The Muse, but thou must[15:3] give the laurel too,                10
+    And twice my aims by thy assistance raise,
+    Conferring first the merit, then the praise?
+    But I should do thee greater injury,
+    Did I believe this praise were meant to me,
+    Or thought, though thou hast worth enough to spare                15
+    T'enrich another soul, that mine should share.
+    Thy Muse, seeming to lend, calls home her fame,
+    And her due wreath doth, in renouncing, claim.
+
+
+
+
+V. LYRICS PRINTED ONLY IN EDITIONS OF 1647 AND 1657 [GAMBLE].
+
+
+          THE BLUSH.
+
+    So fair Aurora doth herself discover
+    (Asham'd o' th' aged bed of her cold lover,)
+    In modest blushes, whilst the treacherous light
+    Betrays her early shame to the world's sight.
+    Such a bright colour doth the morning rose                         5
+    Diffuse, when she her soft self doth disclose
+    Half drown'd in dew, whilst on each leaf a tear
+    Of night doth like a dissolv'd pearl appear;
+    Yet 'twere in vain a colour out to seek
+    To parallel my Chariessa's cheek;                                 10
+    Less are compar'd[16:1] with greater, and these seem
+    To blush like her, not she to blush like them.
+    But whence, fair soul, this passion? what pretence
+    Had guilt to stain thy spotless innocence?
+    Those only this feel who have guilty been,                        15
+    Not any blushes know, but who know[16:2] sin.
+    Then blush no more; but let thy chaster flame,
+    That knows no cause, know no effects of shame.
+
+
+          THE COLD KISS.
+
+    Such icy kisses, anchorites that live
+    Secluded from the world, to dead skulls give;
+    And those[17:1] cold maids on whom Love never spent
+    His flame, nor know what by desire is meant,
+    To their expiring fathers such bequeath,                           5
+    Snatching their fleeting spirits in that breath:
+    The timorous priest doth with such fear and nice
+    Devotion touch the Holy Sacrifice.
+
+    Fie, Chariessa! whence so chang'd of late,
+    As to become in love a reprobate?                                 10
+    Quit, quit this dulness, Fairest, and make known
+    A flame unto me equal with mine[17:2] own.
+    Shake off this frost, for shame, that dwells upon
+    Thy lips; or if it will not so be gone,
+    Let's once more join our lips,[17:3] and thou shalt see           15
+    That by the flame of mine 'twill melted be.
+
+
+          THE IDOLATER.
+
+    Think not, pale lover, he who dies
+    Burnt in the flames of Celia's eyes,
+    Is unto Love a sacrifice;
+
+    Or, by the merit of this pain,
+    Thou shalt the crown of martyrs gain!                              5
+    Those hopes are, as thy passion, vain.
+
+    For when, by death, from[18:1] these flames free,
+    To greater thou condemn'd shalt be,
+    And punish'd for idolatry,
+
+    Since thou, Love's votary before,                                 10
+    (Whilst she[18:2] was kind,) dost him no more,
+    But, in his shrine, Disdain adore.
+
+    Nor will this fire the gods prepare
+    To punish scorn, that cruel Fair,
+    Though now from flames exempted, spare;                           15
+
+    But as together both shall die,
+    Both burnt alike in flames shall lie,
+    She in thy heart,[18:3] thou in her eye.
+
+
+          THE MAGNET.
+
+    Ask the empress of the night
+      How the Hand which guides her sphere,
+    Constant in unconstant light,
+      Taught the waves her yoke to bear,
+    And did thus by loving force                                       5
+    Curb or tame the rude sea's course.
+
+    Ask the female palm how she
+      First did woo her husband's love;
+    And the magnet, ask how he[19:1]
+      Doth th' obsequious iron move;                                  10
+    Waters, plants, and stones know this:
+    That they love; not what Love is.
+
+    Be not thou[19:2] less kind than these,
+      Or from Love exempt alone!
+    Let us twine like amorous trees,                                  15
+      And like rivers melt in one.
+    Or, if thou more cruel prove,
+    Learn of steel and stones to love.
+
+
+          ON A VIOLET IN HER BREAST.
+
+    See how this violet, which before
+      Hung sullenly her drooping head,
+    As angry at the ground that bore
+      The purple treasure which she spread,
+    Doth smilingly erected grow,                                       5
+    Transplanted to those hills of snow.
+
+    And whilst the pillows of thy breast
+      Do her reclining head sustain,
+    She swells with pride to be so blest,
+      And doth all other flowers disdain;                             10
+    Yet weeps that dew which kissed her last,
+    To see her odours so surpass'd.
+
+    Poor flower! how far deceiv'd thou wert,
+      To think the riches of the morn
+    Or all the sweets she can impart.                                 15
+      Could these or sweeten or adorn,
+    Since thou from them dost borrow scent,
+    And they to thee lend ornament!
+
+
+          SONG.
+
+    Foolish Lover, go and seek
+      For the damask of the rose,
+      And the lilies white dispose
+    To adorn thy mistress' cheek;
+
+    Steal some star out of the sky,                                    5
+      Rob the phoenix, and the east
+      Of her wealthy sweets divest,
+    To enrich her breath or eye!
+
+    We thy borrow'd pride despise:
+      For this wine to which we are                                   10
+      Votaries, is richer far
+    Than her cheek, or breath, or eyes.
+
+    And should that coy fair one view
+      These diviner beauties, she
+      In this flame would rival thee,                                 15
+    And be taught to love thee too.
+
+    Come, then, break thy wanton chain,
+      That when this brisk wine hath spread
+      On thy paler cheek a red,
+    Thou, like us, may'st Love disdain.                               20
+
+    Love, thy power must yield to wine!
+      And whilst thus ourselves we arm,
+      Boldly we defy thy charm:
+    For these flames extinguish[20:1] thine.
+
+
+          THE PARTING.
+
+          I go, dear Saint, away,
+              Snatch'd from thy arms
+          By far less pleasing charms,
+          Than those I did[21:1] obey;
+      But if hereafter thou shalt know                                 5
+          That grief hath kill'd me, come,[21:2]
+              And on my tomb
+          Drop, drop a tear or two;
+    Break with thy sighs the silence of my sleep,
+    And I shall smile in death to see thee weep.                      10
+
+          Thy tears may have the power
+              To reinspire
+          My ashes with new fire,
+          Or change me to some flower,
+      Which, planted 'twixt thy breasts, shall grow:                  15
+          Veil'd in this shape, I will
+          Dwell with thee still,
+      Court, kiss, enjoy thee too:
+    Securely we'll contemn[21:3] all envious force,
+    And thus united be by death's divorce.                            20
+
+
+          COUNSEL.
+
+    When deceitful lovers lay
+      At thy feet their suppliant hearts,
+    And their snares spread to betray
+      Thy best treasure[22:1] with their arts,
+    Credit not their flatt'ring vows:                                  5
+    Love such perjury allows.
+
+    When they with the[22:2] choicest wealth
+      Nature boasts of, have possess'd thee;
+    When with flowers (their verses' stealth),
+      Stars, or jewels they invest thee,[22:3]                        10
+    Trust not to their borrow'd store:
+    'Tis but lent to make thee poor.
+
+    When with poems[22:4] they invade thee,
+      Sing thy praises or disdain;
+    When they weep, and would persuade thee                           15
+      That their flames beget that rain;
+    Let thy breast no baits let in:
+    Mercy's only here a sin!
+
+    Let no tears or offerings move thee,
+      All those cunning charms avoid;                                 20
+    For that wealth for which they love thee,
+      They would slight if once enjoy'd.
+    Guard thy unrelenting mind!  }
+    None are cruel but the kind. }[22:5]
+
+
+          EXPOSTULATION WITH LOVE, IN DESPAIR.
+
+    Love! what tyrannic laws must they obey    }
+    Who bow beneath thy uncontrolled sway!     }
+    Or how unjust will that harsh empire prove }[23:1]
+    Forbids to hope and yet commands to love!  }
+    Must all are to thy hell condemn'd sustain                         5
+    A double torture of despair and pain?
+    Is't not enough vainly to hope and woo,
+    That thou shouldst thus deny that vain hope too?
+    It were some joy,[23:2] Ixion-like, to fold
+    The empty air, or feed on thoughts as cold;[23:3]                 10
+    But if thou to my passion this deny,
+    Thou may'st be starv'd to death as well as I;
+    For how can thy pale sickly flame burn clear
+    When death and cold despair inhabit here?[23:4]
+    Then let thy dim heat warm, or else expire;[23:5]                 15
+    Dissolve this frost, or let that quench the[23:6] fire.
+    Thus let me not desire, or else possess!
+    Neither, or both, are equal happiness.[23:7]
+
+
+          SONG.
+
+    Faith, 'tis not worth thy pains and care
+            To seek t'ensnare
+        A heart so poor as mine:[24:1]
+            Some fools there be
+            Hate liberty,                                              5
+    Who[m] with more ease thou may'st confine.
+
+    Alas! when with much charge thou hast
+            Brought it at last
+        Beneath thy power to bow,
+            It will adore                                             10
+            Some twenty more,
+    And that, perhaps, you'd[24:2] not allow.
+
+    No, Chloris, I no more will prove
+            The curse of love,
+        And now can boast a heart                                     15
+            Hath learn'd of thee
+            Inconstancy,
+    And cozen'd women of their art.
+
+
+          EXPECTATION.
+
+      Chide, chide no more away
+    The fleeting daughters of the day,
+    Nor with impatient thoughts outrun
+            The lazy sun,
+    Nor[25:1] think the hours do move too slow;                        5
+            Delay is kind,
+        And we too soon shall find
+    That which we seek, yet fear to know.
+
+      The mystic dark decrees
+    Unfold not of the Destinies,                                      10
+    Nor boldly seek to antedate
+            The laws of Fate;
+    Thy anxious search awhile forbear,
+            Suppress thy haste,
+        And know that Time at last                                    15
+    Will crown thy hope, or fix thy fear.
+
+
+
+
+VI. LYRICS PRINTED IN ALL ORIGINAL EDITIONS OF STANLEY.
+
+
+          THE BREATH.
+
+    Favonius, the milder breath o' th' Spring,
+    When proudly bearing on his softer wing
+    Rich odours, which from the Panchean groves
+    He steals, as by the phoenix-pyre he moves,
+    Profusely doth his sweeter theft dispense                          5
+    To the next rose's blushing innocence;
+    But from the grateful flower, a richer scent
+    He doth receive[26:1] than he unto it lent.
+    Then, laden with his odour's richest store,
+    He to thy breath hastes, to which these are poor;                 10
+    Which, whilst the amorous wind[26:2] to steal essays,
+    He like a wanton lover 'bout thee plays,
+    And sometimes cooling thy soft cheek doth lie,
+    And sometimes burning at thy flaming eye:
+    Drawn in at last by that breath we implore,                       15
+    He now[26:3] returns far sweeter than before,
+    And rich by being robb'd, in thee he finds
+    The burning sweets of pyres, the cool of winds.
+
+
+          THE NIGHT: A DIALOGUE.
+
+    _Chariessa._[27:1]  What if Night
+            Should betray us, and reveal
+                    To the light
+            All the pleasures that we steal?
+
+    _Philocharis._  Fairest! we                                        5
+            Safely may this fear despise:
+                    How can she
+            See our actions, who wants eyes?
+
+    _Chariessa._    Each dim star,
+            And the clearer lights, we know,                          10
+                    Night's eyes are:
+            They were blind that thought her so!
+
+    _Philocharis._  Those pale fires
+            Only burn to yield a light
+                    T' our desires;                                   15
+            And, though blind, to give us sight.
+
+    _Chariessa._    By this shade
+            That surrounds us, might our flame
+                    Be betray'd!
+            And the day disclose its name.                            20
+
+    _Philocharis._  Dearest Fair!
+            These dark witnesses, we find,
+                    Silent are:
+            Night is dumb, as well as blind.
+
+          _Chorus._
+
+        Then whilst these black shades conceal us,                    25
+              We will scorn
+              Th' envious morn,
+        And the sun that would reveal us.
+    Our flames shall thus their mutual light betray,
+    And night, with these joys crown'd, outshine the day.             30
+
+
+          UNALTER'D BY SICKNESS.
+
+    Pale envious Sickness, hence! no more }
+    Possess her breast, too cold before.  }
+    In vain, alas, thou dost invade       }[28:1]
+    A beauty that can never fade.         }
+    Could all thy malice but impair                                    5
+    One o' th' sweets which crown her fair;[28:2]
+    Or steal the spirits from her eye;
+    Or kiss into a paler dye
+    The blooming[28:3] roses of her cheek;
+    Our suffering[28:4] hopes might justly seek                       10
+    Redress from thee, and thou mightst save
+    Thousands of lovers from the grave.
+    But such assaults are vain, for she
+    Is too divine to stoop to thee,
+    Blest with a form as much too high                                15
+    For any change, as[28:5] Destiny,
+    Which no attempt can violate:
+    For what's her beauty is our fate.
+
+
+          TO CELIA.
+
+    EXCUSE FOR WISHING HER LESS FAIR.[29:1]
+
+    Why thy passion should it move
+      That I wished thy beauty less?
+    Fools desire what is above
+      Power of nature to express;
+    And to wish it had been more                                       5
+    Had been to outwish her store.
+
+    If the flames within thine eye
+      Did not too great heat inspire,
+    Men might languish, yet not die, }[29:2]
+      At thy less ungentle fire,     }                                10
+    And might on thy weaker light
+    Gaze, and yet not lose their sight.
+
+    Nor wouldst thou less fair appear,
+      For detraction adds to thee;
+    If some parts less beauteous were,                                15
+      Others would much fairer be;
+    Nor can any part we know
+    Best be styl'd, when all are so.
+
+    Thus this great excess of light,
+      Which now dazzles our weak eyes,                                20
+    Would, eclips'd, appear more bright;
+      And the only way to rise,
+    Or to be more fair, for[29:3] thee,
+    Celia! is less fair to be.
+
+
+          CELIA, SLEEPING OR SINGING.[30:1]
+
+    Roses, in breathing forth their scent,
+    Or stars their borrowed ornament;
+    Nymphs in the watery sphere that move,
+    Or angels in their orbs above;
+    The winged chariot of the light,                                   5
+    Or the slow silent wheels of night;
+    The shade which from the swifter sun
+    Doth in a circular motion run,
+    Or souls that their eternal rest do keep,
+    Make far more[30:2] noise than Celia's breath in sleep.           10
+
+    But if the angel which inspires
+    This subtle frame[30:3] with active fires,
+    Should mould this[30:4] breath to words, and those
+    Into a harmony dispose,
+    The music of this heavenly sphere                                 15
+    Would steal each soul out at the ear,
+    And into plants and stones infuse
+    A life that cherubim[30:5] would choose,
+    And with new powers[30:6] invert the laws of fate:
+    Kill those that live, and dead things animate.                    20
+
+
+          PALINODE.[31:1]
+
+    Beauty, thy harsh imperious chains
+    As a scorn'd weight, I here untie,
+    Since thy proud empire those disdains
+    Of reason or philosophy,
+    That would[31:2] within tyrannic laws                              5
+    Confine the power of each free cause.
+
+    Forc'd by the potent[31:3] influence
+    Of thy disdain, I back return:
+    Thus with those flames I do dispense
+    Which, though they would not light, did burn,                     10
+    And rather will through cold expire,
+    Than languish at[31:4] a frozen fire.
+
+    But whilst I the insulting pride
+    Of thy vain beauty do despise,
+    Who gladly wouldst be deified                                     15
+    By making me thy sacrifice,
+    May Love thy heart which to his charm
+    Approach'd, seem'd cold, at distance warm!
+
+
+          THE RETURN.
+
+    Beauty, whose soft magnetic chains
+    Nor time nor absence can untie,[32:1]
+    Thy power the narrow bound[32:2] disdains
+    Of Nature or Philosophy;
+    Thou[32:3] canst by unconfined laws                                5
+    A motion, though at distance, cause.
+
+    Drawn by the powerful[32:4] influence
+    Of thy bright eyes, I back return;
+    And since I nowhere can dispense
+    With flames that[32:5] do in absence burn,                        10
+    I rather choose 'twixt[32:6] them t'expire,
+    Than languish by a hidden fire.
+
+    But if thou th'[32:7] insulting pride
+    Of vulgar beauties dost despise,
+    Who, by vain triumphs deified,                                    15
+    Their votaries do sacrifice,
+    Then let those flames, whose magic charm
+    At distance scorch'd, approach'd, but warm.
+
+
+          CHANG'D, YET CONSTANT.
+
+        Wrong me no more
+          In thy complaint,
+      Blam'd for inconstancy:
+        I vow'd t' adore
+          The fairest Saint,                                           5
+      Nor chang'd whilst thou wert she:
+    But if another thee outshine,
+    Th' inconstancy is only thine!
+
+        To be by such
+          Blind fools admir'd                                         10
+      Gives thee but small esteem,
+        By whom as much
+          Thou'dst be desir'd,
+      Didst thou less beauteous seem.
+    Sure, why they love they know not well,                           15
+    Who why they should not, cannot tell!
+
+        Women are by
+          Themselves betray'd,
+      And to their short joys cruel,
+        Who foolishly                                                 20
+          Themselves persuade
+      Flames can outlast their fuel;
+    None (though platonic their pretence),
+    With reason love, unless by sense.
+
+        And he,[33:1] by whose                                        25
+          Command to thee
+      I did my heart resign,
+        Now bids me choose
+          A deity
+      Diviner far than thine;                                         30
+    No power can Love from Beauty sever:
+    I'm still Love's subject; thine was, never.
+
+        The fairest she
+          Whom none surpass,
+      To love hath only right;                                        35
+        And such to me
+          Thy beauty was,
+      Till one I found more bright;
+    But 'twere as impious to adore
+    Thee now, as not to have done 't before.                          40
+
+        Nor is it just
+          By rules of Love,
+      Thou shouldst deny to quit
+        A heart that must
+          Another's prove                                             45
+      Even in thy right to it;
+    Must not thy subjects captives be
+    To her who triumphs over thee?
+
+        Cease, then, in vain
+          To blot my name                                             50
+      With forg'd apostasy!
+        Thine is that stain
+          Who dar'st to claim
+      What others ask of thee.
+    Of lovers they are only true                                      55
+    Who pay their hearts where hearts[33:2] are due.
+
+
+          TO CHARIESSA,
+
+    _Beholding herself in a Glass._[34:1]
+
+    Cast, Chariessa, cast that glass away;
+    Not in its crystal face thine own survey.
+    What can be free from Love's imperious laws,
+    When painted shadows real flames can cause?
+    The fires may burn thee from this mirror rise,                     5
+    By the reflected beams of thine own eyes;
+    And thus at last fall'n with thyself in love,
+    Thou wilt my rival, thine own[34:2] martyr, prove.
+    But if thou dost desire thy form to view,
+    Look in my heart, where Love thy picture drew,                    10
+    And then, if pleas'd with thine own shape thou be,
+    Learn how to love thyself by[34:3] loving me.
+
+
+          SONG.
+
+    When I lie burning in thine eye,
+      Or freezing in thy breast,
+    What martyrs, in wish'd flames that die,
+      Are half so pleas'd or blest?
+
+    When thy soft accents through mine ear                             5
+      Into my soul do fly,
+    What angel would not quit his sphere,
+      To hear such harmony?
+
+    Or when the kiss thou gav'st me last
+      My soul stole in its breath,                                    10
+    What life would sooner be embrac'd
+      Than so desir'd a death?
+
+    When I commanded am by thee,      }
+      (Or by thine eye or hand,)      }
+    What monarch would not prouder be }[35:1]                         15
+      To serve than to command?       }
+
+    Then think not[35:2] freedom I desire,
+      Or would my fetters leave,
+    Since, phoenix-like, I from this fire
+      Both life and youth receive.                                    20
+
+
+          SONG.
+
+    Fool! take up thy shaft again.
+                        If thy store
+    Thou profusely spend in vain,
+      Who can furnish thee with more?
+    Throw not then away thy darts                                      5
+    On impenetrable hearts.
+
+    Think not thy pale flame can warm
+                        Into tears,
+    Or dissolve the snowy charm
+      Which her frozen bosom wears,                                   10
+    That expos'd unmelted lies
+    To the bright suns of her eyes.
+
+    But since thou thy power hast lost,
+                        Nor canst fire
+    Kindle in that breast, whose frost                                15
+      Doth these flames in mine inspire;
+    Not to thee but her I'll sue,
+    That disdains both me and you!
+
+
+          DELAY.
+
+    Delay! Alas, there cannot be
+    To Love a greater tyranny:
+    Those cruel beauties that have slain
+    Their votaries by their disdain,
+    Or studied torments sharp and witty.                               5
+    Will be recorded for their pity,
+    And after-ages be misled
+    To think them kind, when this is spread.
+    Of deaths the speediest is despair;
+    Delays the slowest tortures are;                                  10
+    Thy cruelty at once destroys,
+    But expectation starves my joys.
+    Time and Delay may bring me past
+    The power of Love to cure, at last;
+    And shouldst thou wish to ease my pain,                           15
+    Thy pity might be lent in vain.
+    Or if thou hast decreed that I
+    Must fall[36:1] beneath thy cruelty,
+    O kill me soon! Thou wilt express
+    More mercy, ev'n in showing less.                                 20
+
+
+          THE REPULSE.
+
+      Not that by this disdain
+              I am releas'd,
+    And, freed from thy romantic[37:1] chain,
+      Do I myself think blest;
+
+      Not that thy flame shall burn                                    5
+              No more; for know
+    That I shall into ashes turn
+      Before this fire doth so.
+
+      Nor yet that unconfin'd
+              I now may rove,                                         10
+    And with new beauties please my mind;
+      But that thou ne'er didst love!
+
+      For since thou hast no part
+              Felt of this flame,
+    I only from thy tyrant heart                                      15
+      Repuls'd, not banish'd, am.
+
+      To lose what once was mine
+              Would grieve me more
+    Than those inconstant sweets of thine
+      Had pleas'd my soul before.                                     20
+
+      Now I've not lost that[37:2] bliss
+              I ne'er possessed;
+    And, spite of Fate, am blest in this:
+      That I was never blest.
+
+
+          SONG.
+
+    Celinda, by what potent art
+      Or unresisted charm,
+    Dost thou thine ear and frozen heart
+      Against my passion arm?
+
+    Or by what hidden influence                                        5
+      Of powers in one combin'd,
+    Dost thou rob Love of either sense,
+      Made deaf as well as blind?
+
+    Sure thou as friends[38:1] united hast
+      Two distant deities,                                            10
+    And scorn within thy heart hast plac'd,
+      And love within thine eyes;
+
+    Or those soft fetters of thy hair,
+      (A bondage that disdains
+    All liberty,) do guard thine ear                                  15
+      Free from all other chains.
+
+    Then my complaint how canst thou hear,
+      Or I this passion fly,
+    Since thou imprison'd hast thine ear,
+      And not confin'd thine eye?                                     20
+
+
+          THE TOMB.
+
+    When, cruel fair one, I am slain
+            By thy disdain,
+    And as a trophy of thy scorn
+        To some old tomb am borne,
+    Thy fetters must their power bequeath                              5
+            To those of Death;
+        Nor can thy flame immortal burn
+    Like monumental fires within an urn.
+    Thus freed from thy proud empire, I shall prove
+    There is more liberty in Death than Love.                         10
+
+    And when forsaken lovers come
+            To see my tomb,
+    Take heed thou mix not with the crowd,
+        And, as a victor, proud
+    To view the spoils thy beauty made,                               15
+            Press near my shade!
+        Lest thy too cruel breath, or name,
+    Should fan my ashes back into a flame.
+    And thou, devour'd by this revengeful fire, }[39:1]
+    His sacrifice, who died as thine, expire.   }                     20
+
+    Or should my dust thy pity move
+            That could not, love,
+    Thy sighs might wake me, and thy tears
+        Renew my life and years;
+    Or should thy proud insulting scorn                               25
+            Laugh at my urn,
+        Kindly deceiv'd by thy disdain,
+    I might be smil'd into new life again.
+    Then come not near: since both thy love and hate
+    Have equal power to kill[39:2] or animate.                        30
+
+    But if cold earth or marble must
+            Conceal my dust,
+    Whilst, hid in some dark ruins, I
+        Dumb and forgotten lie,
+    The pride of all thy victory                                      35
+            Will sleep with me;
+        And they who should attest thy glory
+    Will or forget, or not believe this story.
+    Then, to increase thy triumph, let me rest,
+    (Since by thine eye slain,) buried in thy breast!                 40
+
+
+          TO CELIA.
+
+      PLEADING WANT OF MERIT.[40:1]
+
+        Dear, urge no more the killing cause
+                      Of our divorce:
+        Love is not fetter'd by such laws,
+                      Nor bows to any force.
+        Though thou deniest I should be thine,                         5
+    Yet say not thou deserv'st not to be mine!
+
+        Oh, rather frown away my breath
+                      With thy disdain,
+        Or flatter me with smiles to death;
+                      By joy or sorrow slain,                         10
+        'Tis less crime to be kill'd by thee,
+    Than I thus cause of mine[40:2] own death should be.
+
+        Thyself of beauty to divest,
+                      And me of love,
+        Or from the worth of thine own breast                         15
+                      Thus to detract, would prove
+        In us a blindness, and in thee
+    At best a sacrilegious modesty.
+
+        But, Celia,[40:3] if thou wilt despise
+                      What all admire,                                20
+        Nor rate thyself at the just price
+                      Of beauty or desire,
+        Yet meet my flames! and thou shalt see
+    That equal love knows no disparity.
+
+
+          THE KISS.[41:1]
+
+        When on thy lip my soul I breathe,
+                Which there meets thine,
+        Freed from their fetters by this death,
+            Our subtle forms[41:2] combine:
+        Thus without bonds of sense they move,                         5
+    And like two cherubim converse by[41:3] love.
+
+        Spirits to chains of earth confin'd
+                Discourse by sense;
+        But ours, that are by flames refin'd,
+            With those weak ties dispense.                            10
+        Let such in words their minds display:
+    We in a kiss our mutual thoughts convey.[41:4]
+
+        But since my soul from me doth fly,
+                To thee retir'd,
+        Thou canst not both retain; for I                             15
+            Must be with one inspir'd;
+        Then, Dearest,[41:5] either justly mine
+    Restore, or in exchange let me have thine.
+
+        Yet if thou dost return mine own,
+                O tak't again!                                        20
+        For 'tis this pleasing death alone
+            Gives ease unto my pain.
+        Kill me once more, or I shall find
+    Thy pity than thy cruelty less kind.
+
+
+          THE SNOWBALL.
+
+    Doris, I that could repel
+    All those darts about thee dwell,
+    And had wisely learn'd to fear
+    'Cause I saw a foe so near;
+    I that my deaf ear did arm                                         5
+    'Gainst thy voice's powerful charm;
+    And the lightning of thine eye
+    Durst, by closing mine, defy;
+    Cannot this cold snow withstand
+    From the winter[42:1] of thy hand.                                10
+    Thy deceit hath thus done more
+    Than thy open force before:
+    For who could suspect or fear
+    Treason in a face so clear,
+    Or the hidden fires descry                                        15
+    Wrapt in this cold outside lie?
+    Flames might thus, involv'd in ice,
+    The deceiv'd world sacrifice;
+    Nature, ignorant of this
+    Strange antiperistasis,                                           20
+    Would her falling frame admire,
+    That by snow were set on fire!
+
+
+          SPEAKING AND KISSING.
+
+    The air which thy smooth voice doth break
+      Into my soul like lightning flies;
+    My life retires whilst thou dost speak,
+      And thy soft breath its room supplies.
+
+    Lost in this pleasing ecstasy,                                     5
+      I join my trembling lips to thine,
+    And back receive that life from thee,
+      Which I so gladly did resign.
+
+    Forbear, platonic fools! t'inquire
+      What numbers do the soul compose:                               10
+    No harmony can life inspire,
+      But that which from these accents flows.
+
+
+          THE DEPOSITION.[43:1]
+
+    Though when I lov'd thee thou wert[43:2] fair,
+      Thou art no longer so:
+    Those glories do[43:3] the pride they wear
+      Unto opinion owe.
+    Beauties, like stars, in borrow'd lustre shine;                    5
+    And 'twas my love that gave thee thine.
+
+    The flames that dwelt within thine eye
+      Do now with mine expire;
+    Thy brightest graces[43:4] fade and die
+      At once, with my desire.                                        10
+    Love's fires thus mutual influence return:
+    Thine cease to shine when mine to burn.
+
+    Then, proud Celinda, hope no more
+      To be implor'd or woo'd,
+    Since by thy scorn thou dost restore                              15
+      The wealth my[43:5] love bestow'd;
+    And thy despis'd disdain too late shall find
+    That none are fair but who are kind.
+
+
+          LOVE'S HERETIC.
+
+    He whose active thoughts disdain
+      To be captive to one foe,
+    And would break his single chain,
+      Or else more would undergo,
+    Let him learn the art of me,                                       5
+    By new bondage to be free!
+
+    What tyrannic mistress dare
+      To one beauty Love confine?
+    Who, unbounded as the air,
+      All may court, but none decline.                                10
+    Why should we the heart deny
+    As many objects as the eye?
+
+    Wheresoe'er I turn or move,
+      A new passion doth detain me:
+    Those kind beauties that do love,                                 15
+      Or those proud ones that disdain me.
+    This frown melts, and that smile burns me;
+    This to tears, that, ashes, turns me.
+
+    Soft fresh virgins not full-blown
+      With their youthful sweetness take me;                          20
+    Sober matrons that have known,
+      Long since, what these prove, awake me;
+    Here, staid coldness I admire,
+    There, the lively active fire.
+
+    She that doth by skill dispense                                   25
+      Every favour she bestows,
+    Or the harmless innocence
+      Which nor court nor city knows;--
+    Both alike my soul inflame,
+    That wild beauty, and this tame.                                  30
+
+    She that wisely can adorn
+      Nature with the wealth of Art,
+    Or whose rural sweets do scorn
+      Borrow'd helps to[44:1] take a heart;--
+    The vain care of that's my pleasure;                              35
+    Poverty of this, my treasure.
+
+    Both the wanton and the coy
+      Me with equal pleasure[44:2] move;
+    She whom I by force enjoy,
+      Or who forceth me to love:                                      40
+    This, because she'll not confess,
+    That, not hide, her happiness.
+
+    She whose loosely flowing hair,
+      (Scatter'd like the beams o' th' morn.)
+    Playing with the sportive air,                                    45
+      Hides the sweets it doth adorn,
+    Captive in that net restrains me,
+    In those golden fetters chains me;
+
+    Nor doth she with power less bright
+      My divided heart invade,                                        50
+    Whose soft tresses spread, like night,
+      O'er her shoulders a black shade;
+    For the starlight of her eyes
+      Brighter shines through those dark skies.
+
+    Black, or fair, or tall, or low,                                  55
+      I alike with all can sport,
+    The bold sprightly Thaïs woo,
+      Or the frozen vestal court:
+    Every beauty takes my mind,
+    Tied to all, to none confin'd.                                    60
+
+
+          LA BELLE CONFIDANTE.
+
+    You earthly souls that court a wanton flame,
+        Whose pale weak influence
+    Can rise no higher than the humble name
+        And narrow laws of sense!
+      Learn by our friendship to create                                5
+        An immaterial fire,
+      Whose brightness angels may admire
+        But cannot emulate.
+
+    Sickness may fright the roses from her cheek,
+        Or make the lilies fade,                                      10
+    But all the subtle ways that Death doth seek
+        Cannot my love invade.
+      Flames that are kindled by the eye
+        Through time and age expire,
+      But ours, that boast a reach far higher,                        15
+        Cannot decay or die.[45:1]
+
+    For[45:2] when we must resign our vital breath,
+        Our loves by Fate benighted,[45:3]
+    We by this friendship shall survive in death,
+        Even in divorce united:                                       20
+      Weak love, through fortune or distrust,
+        In time forgets to burn,
+      But this pursues us to the urn,
+        And marries either's dust.
+
+
+          LA BELLE ENNEMIE.
+
+    I yield, dear enemy, nor know
+    How to resist so fair a foe.
+    Who would not thy soft yoke sustain,
+    And bow beneath thy easy chain,
+    That with a bondage blest might be                                 5
+    Which far transcends all liberty?
+    But since I freely have resign'd,
+    At first assault, my willing mind,
+    Insult not o'er my captiv'd heart
+    With too much tyranny and art,                                    10
+    Lest by thy scorn thou lose the prize
+    Gain'd by the power of thy bright eyes;
+    And thou this conquest thus shalt prove,
+    Though got by beauty, kept by love.
+
+
+          LOVE DEPOSED.
+
+        You that unto your mistress' eyes
+              Your hearts do sacrifice,
+    And offer sighs or tears at Love's rich shrine,
+                    Renounce with me
+                    Th' idolatry,                                      5
+    Nor this infernal power esteem divine!
+
+        The brand, the quiver, and the bow,
+              Which we did first bestow,
+    And he as tribute wears from every lover,
+                    I back again                                      10
+                    From him have ta'en,
+    And the impostor now unveil'd discover.
+
+        I can the feeble Child disarm,
+              Untie his mystic charm,
+    Divest him of his wings, and break his arrow;                     15
+                    We will obey
+                    No more his sway,
+    Nor live confin'd to laws or bounds so narrow
+
+        And you, bright Beauties, that inspire
+              The Boy's pale torch with fire,                         20
+    We safely now your subtle power despise,
+                    And unscorch'd may,
+                    Like atoms, play
+    And wanton in the sunshine of your eyes.
+
+        Nor think hereafter by new arts                               25
+              You can bewitch our hearts,
+    Or raise this devil by your pleasing charm:
+                    We will no more
+                    His power implore,
+    Unless, like Indians, that he do no harm.                         30
+
+
+          THE DIVORCE.
+
+    Dear, back my wounded heart restore,
+      And turn away thy powerful eyes;
+    Flatter my willing soul no more:
+      Love must not[46:1] hope what Fate denies.
+
+    Take, take away thy smiles and kisses!                             5
+      Thy love wounds deeper than disdain;
+    For he that sees the heaven he misses,
+      Sustains two hells of loss and pain.
+
+    Shouldst thou some other's suit prefer,
+      I might return thy scorn to thee,                               10
+    And learn apostasy of her
+      Who taught me, first, idolatry.[46:2]
+
+    Or in thy unrelenting breast
+      Should I[46:3] disdain or coyness move,
+    He by thy hate might be releas'd,  }                              15
+      Who now is prisoner to thy love. }[46:4]
+
+    Since, then, unkind Fate will divorce
+      Those whom affection long united,
+    Be thou as cruel as this force,
+      And I in death shall be delighted.                              20
+
+    Thus whilst so many suppliants woo, }
+      And beg they may thy pity prove,  }[46:5]
+    I only for thy scorn do sue:
+      'Tis charity here not to love.
+
+
+          THE BRACELET.
+
+      Rebellious fools that scorn to bow
+        Beneath Love's easy sway,
+      Whose stubborn wills no laws allow,
+        Disdaining to obey,
+    Mark but this wreath of hair, and you shall see                    5
+    None that might wear such fetters would be free.
+
+      I once could boast a soul like you,
+        As unconfin'd as air;
+      But mine, which force could not subdue,
+        Was caught within this snare;                                 10
+    And by myself betray'd, I for this gold
+    Have to mine enemy my freedom sold.[47:1]
+
+      No longer now, wise Art, inquire,
+        (With this vain search delighted,)
+      How souls that human[47:2] breasts inspire                      15
+        Are to their frames united:
+    Material chains such spirits well may bind,
+    When this soft braid can tie both arm and mind.
+
+      Now, Beauties, I defy your charm,
+        Rul'd by more powerful art:                                   20
+      This mystic wreath which crowns my arm
+        Defends my vanquish'd heart;[47:3]
+    And I, subdu'd by one more fair, shall be
+    Secur'd from conquest by captivity.
+
+
+          THE FAREWELL.
+
+    Since Fate commands me hence, and I
+    Must leave my soul with thee, and die,
+    Dear, spare one sigh, or else let fall
+    A tear to crown my funeral,
+    That I may tell my grieved heart                                   5
+    Thou art unwilling we should part;
+    And martyrs that embrace the fire
+    Shall with less joy than I expire.
+
+    With this last kiss I will bequeath
+    My soul, transfus'd into thy breath,                              10
+    Whose active heat shall gently slide
+    Into thy breast, and there reside,
+    And may, (in spite of Fate thus blest,)
+    Be, in this death, of heaven possess'd.[48:1]
+    Then prove but kind; and thou shalt see                           15
+    Love hath more power than Destiny.
+
+
+          THE EXCHANGE: DIALOGUE.[49:1]
+
+        _Phil[ocharis]._
+
+    That kiss which last thou gav'st me, stole
+      My fainting life away;
+    Yet, though to thy breast fled, my soul
+      Still in mine own doth stay.
+    Weak Nature no such power doth know: }                             5
+    Love only can these wonders show.    }[49:2]
+
+        _Char[iessa]._
+
+    And with the same warm breath did mine
+      Into thy bosom slide,
+    There dwell, contracted unto thine,
+      Yet still with me reside.                                       10
+    Weak Nature no such power doth know:
+    Love only can these wonders show.
+
+        _Chor[us]._
+
+    Both souls thus in desire are one,
+      And each is two in skill,
+    Doubled in intellect alone,                                       15
+      United in the will.
+    Weak Nature no such power doth know:
+    Love only can these wonders show.
+
+
+          THE EXEQUIES.
+
+            Draw near,
+          You lovers, that complain
+          Of Fortune or Disdain,
+        And to my ashes lend a tear.
+        Melt the hard marble with your groans,                         5
+        And soften the relentless stones,
+    Whose cold embraces the sad subject hide     }
+    Of all Love's cruelties, and Beauty's pride. }[50:1]
+
+            No verse,
+          No epicedium, bring;                                        10
+          Nor peaceful requiem sing,
+        To charm the terrors of my hearse;
+        No profane numbers must flow near
+        The sacred silence that dwells here.
+    Vast griefs are dumb: softly, oh softly mourn!                    15
+    Lest you disturb the peace attends my urn.
+
+            Yet strew
+          Upon my dismal grave
+          Such offerings as you have:
+        Forsaken cypress, and sad yew;                                20
+        For kinder flowers can take no birth
+        Or growth from such unhappy earth.
+    Weep only o'er my dust, and say: "Here lies
+    To Love and Fate an equal sacrifice."
+
+
+          THE SILKWORM.
+
+    The[51:1] silkworm, to long sleep retir'd,
+    The early year hath re-inspir'd,
+    Who now to pay to thee prepares
+    The tribute of her pleasing cares;
+    And hastens with industrious toil                                  5
+    To make her ornament thy spoil.[51:2]
+    See with what pains[51:3] she spins for thee
+    The thread of her own destiny,
+    Then, (growing proud in death, to know
+    That all her curious labours thou[51:4]                           10
+    Wilt, as in triumph, deign to wear!)
+    Retires to her soft sepulchre.
+
+      Such, Dearest, is that hapless state
+    To which I am design'd by Fate,
+    Who, by thee willingly o'ercome,                                  15
+    Work mine own fetters and my tomb.
+
+
+          AMBITION.
+
+        I must no longer now admire
+            The coldness which possess'd
+                Thy snowy breast,
+    That can by other flames be set on fire;
+        Poor Love, to harsh Disdain betray'd,                          5
+        Is by Ambition thus outweigh'd.
+
+        Hadst thou but known the vast extent
+            Of constant faith, how far
+                'Bove all that are
+    Born slaves to wealth, or honours' vain ascent;[52:1]             10
+        No richer treasure couldst thou find
+        Than hearts with mutual chains combin'd.
+
+        But Love is too despis'd a name,
+            And must not hope to rise
+                Above these ties.                                     15
+    Honours[52:2] and wealth outshine his paler flame!
+        These unite souls, whilst true desire
+        Unpitied dies in its own fire.
+
+        Yet, cruel fair one, I did aim
+            With no less justice too,                                 20
+                Than those that sue
+    For other hopes, and thy proud fortunes claim.
+        Wealth honours, honours wealth, approve;
+        But Beauty's only meant for Love.
+
+
+          SONG.
+
+    When, dearest Beauty, thou shalt pay
+    Thy faith and my vain hope away
+    To some dull soul that cannot know
+    The worth of that thou dost bestow;
+    Lest[53:1] with my sighs and tears I might                         5
+    Disturb thy unconfin'd delight,
+    To some dark shade I will retire,
+    And there, forgot by all, expire.
+
+    Thus, whilst the difference thou shalt prove
+    Betwixt a feign'd and real love,                                  10
+    Whilst he, more happy, but less true,
+    Shall reap those joys I did pursue,
+    And with those pleasures crowned be
+    By Fate, which Love design'd for me,
+    Then thou perhaps thyself wilt find                               15
+    Cruel too long, or too soon kind.
+
+
+          SONG.
+
+    I will not trust thy tempting graces,
+      Or thy deceitful charms,
+    Nor prisoner be to thy embraces,
+      Or fetter'd in thy arms;
+    No, Celia, no: not all thy art                                     5
+    Can wound or captivate my heart.
+
+    I will not gaze upon thy eyes,
+      Or wanton with thy hair,
+    Lest those should burn me by surprise,
+      Or these my soul ensnare;                                       10
+    Nor with those smiling dangers play,
+    Or fool my liberty away.
+
+    Since, then, my wary heart is free
+      And unconfin'd as thine,
+    If thou wouldst mine should captiv'd[54:1] be,                    15
+      Thou must thine own resign;
+    And gratitude may thus move more
+    Than love or beauty could before.
+
+
+          SONG.
+
+      No, I will sooner trust the wind,
+              When, falsely kind,
+    It courts the pregnant sails into a storm,
+      And when the smiling waves persuade,
+          Be willingly betray'd,                                       5
+      Than thy deceitful vows or form.
+
+      Go, and beguile some easy heart
+              With thy vain art;
+    Thy smiles and kisses on those fools bestow
+      Who only see the calms that sleep                               10
+          On this smooth flattering deep,
+      But not the hidden dangers know.
+
+      They that, like me, thy falsehood prove,
+              Will scorn thy love,
+    Some may, deceiv'd at first, adore thy shrine;                    15
+      But he that as thy sacrifice
+          Doth willingly fall twice,
+      Dies his own martyr, and not thine.
+
+
+          SONG.
+
+    I prithee let my heart alone!
+      Since now 'tis raised above thee:
+    Not all the beauty thou dost own
+      Again can make me love thee.
+
+    He that was shipwreck'd once before                                5
+      By such a Siren's call,
+    And yet neglects to shun the[55:1] shore,
+      Deserves his second fall!
+
+    Each flattering kiss, each tempting smile
+      Thou dost in vain bestow,                                       10
+    Some other lovers might beguile
+      Who not thy falsehood know.
+
+    But I am proof against all art:
+      No vows shall e'er persuade me
+    Twice to present a wounded heart                                  15
+      To her that hath betray'd me.
+
+    Could I again be brought to love
+      Thy form, though more divine,
+    I might thy scorn as justly move
+      As now thou sufferest mine.                                     20
+
+
+          THE LOSS.
+
+        Yet ere I go,
+    Disdainful Beauty, thou shalt be
+        So wretched as to know
+    What joys thou fling'st away with me:
+
+        A faith so bright,                                             5
+    As Time or Fortune could not rust,
+        So firm, that lovers might
+    Have read thy story in my dust,
+
+        And crown'd thy name
+    With laurel verdant as thy youth.                                 10
+        Whilst the shrill voice of Fame
+    Spread wide thy beauty and my truth.
+
+        This thou hast lost!
+    For all true lovers, when they find
+        That my just aims were crossed,                               15
+    Will speak thee lighter than the wind;
+
+        And none will lay
+    Any oblation on thy shrine,
+        But such as would betray
+    Their[56:1] faith to faiths as false as thine.                    20
+
+        Yet if thou choose
+    On such thy freedom to bestow,
+        Affection may excuse:
+    For love from sympathy doth flow.
+
+
+          THE SELF-CRUEL.[57:1]
+
+    Cast off, for shame, ungentle maid,
+      That misbecoming joy thou wear'st!
+    For in my death (though long delay'd),
+      Unwisely cruel thou appear'st.
+    Insult o'er captives with disdain:                                 5
+    Thou canst not triumph o'er the slain.
+
+    No, I am now no longer thine;
+      Nor canst thou take delight to see
+    Him whom thy love did once confine
+      Set, though by death, at liberty;                               10
+    For if my fall a smile beget,
+    Thou gloriest in thy own defeat.
+
+    Behold how thy unthrifty pride
+      Hath murthered him that did maintain it;
+    And wary souls who never tried                                    15
+      Thy tyrant beauty, will disdain it:
+    But I am softer, and, (though[57:2] me
+    Thou wouldst not pity,) pity thee.
+
+
+          AN ANSWER TO A SONG, "WERT THOU MUCH [?] FAIRER
+            THAN THOU ART," BY MR. W. M.[58:1]
+
+    Wert thou by all affections sought,
+    And fairer than thou wouldst be thought,
+    Or had thine eyes as many darts
+    As thou believ'st they shoot at hearts,
+    Yet if thy love were paid to me,                                   5
+    I would not offer mine to thee.
+
+    I'd sooner court a fever's heat,
+    Than her that owns a flame as[58:2] great.
+    She that my love will entertain
+    Must meet it with no less disdain;                                10
+    For mutual fires themselves destroy,
+    And willing kisses yield no joy.
+
+    I love thee not because alone
+    Thou canst all beauty call thine own,
+    Nor doth my passion fuel seek                                     15
+    In thy bright eye or softer cheek.
+    Then, Fairest! if thou wouldst know why:
+    I love thee 'cause thou canst deny.
+
+
+          THE RELAPSE.[59:1]
+
+    O turn away those cruel eyes,
+      The stars of my undoing!
+    Or death, in such a bright disguise,
+      May tempt a second wooing.
+
+    Punish their blindly impious[59:2] pride,                          5
+      Who dare contemn thy glory!
+    It was my fall[59:3] that deified
+      Thy name, and seal'd thy story.
+
+    Yet no new sufferings can prepare
+      A higher praise to crown thee;                                  10
+    Though my first death proclaim thee fair,
+      My second will unthrone thee.
+
+    Lovers will doubt thou canst entice
+      No other for thy fuel,
+    And if thou burn one victim twice,                                15
+      Both think thee poor and cruel!
+
+
+
+
+APPENDIX
+
+
+A SHEAF OF TRANSLATIONS.
+
+
+          THE REVENGE.
+
+            [Ronsard.]
+
+    Fair rebel to thyself and Time,
+      Who laugh'st at all my tears,
+    When thou hast lost thy youthful prime,
+      And Age his trophy rears,
+
+    Weighing thy inconsiderate pride,                                  5
+      Thou shalt in vain accuse it:
+    'Why beauty am I now denied,
+      Or knew not then to use it?'
+
+    Then shall I wish, ungentle Fair,
+      Thou in like flames may'st burn!                                10
+    Venus, if just, will hear my prayer,
+      And I shall laugh my turn.
+
+
+          CLAIM TO LOVE.
+
+            [Guarini.]
+
+    Alas! alas! thou turn'st in vain
+      Thy beauteous face away,
+    Which, like young sorcerers, rais'd a pain
+      Above its power to lay.
+
+    Love moves not as thou turn'st thy[60:1] look,                     5
+      But here doth firmly rest:
+    He long ago thine[60:2] eyes forsook
+      To revel in my breast.
+
+    Thy power on him why hop'st thou more
+      Than his on me should be?                                       10
+    The claim thou lay'st to him is poor
+      To that he owns from me.
+
+    His substance in my heart excels,
+      His shadow, in thy sight:
+    Fire where it burns more truly dwells                             15
+      Than where it scatters light.
+
+
+          THE SICK LOVER.
+
+            [Guarini.]
+
+        My sickly breath
+      Wastes in a double flame,
+        Whilst Love and Death
+      To my poor life lay claim;
+    The fever in whose heat I melt                                     5
+    By her that causeth it[61:1] not felt.
+
+        Thou who alone
+      Canst, yet wilt grant no ease,
+        Why slight'st thou one,
+      To feed a new disease?                                          10
+    Unequal Fair! the heart is thine:
+    Ah, why then should the pain be mine?
+
+
+          TIME RECOVER'D.
+
+            [Casone.]
+
+    Come, my Dear, whilst youth conspires
+    With the warmth of our desires!
+    Envious Time about thee watches,
+    And some grace each minute snatches:
+    Now a spirit, now a ray                                            5
+    From thy eye he steals away;
+    Now he blasts some blooming rose
+    Which upon thy fresh cheek grows;
+    Gold now plunders in a hair;
+    Now the rubies doth impair                                        10
+    Of thy lips; and with sure haste
+    All thy wealth will take at last;
+    Only that of which thou mak'st
+    Use in time, from Time thou tak'st.
+
+
+          SONG.
+
+        [De Voiture.]
+
+    I languish in a silent flame:
+        For she to whom my vows incline
+        Doth own perfections so divine,
+    That but to speak were to disclose her name.
+    If I should say that she the store                                 5
+        Of Nature's graces doth comprise,
+        (The love and wonder of all eyes,)
+    Who will not guess the Beauty I adore?
+
+    Or though I warily conceal
+        The charms her looks and soul possess,                        10
+        Should I her cruelty express,
+    And say she smiles at all the pains we feel,
+    Among such suppliants as implore
+        Pity, distributing her hate,
+        Inexorable as their fate,--                                   15
+    Who will not guess the Beauty I adore?
+
+
+          APOLLO AND DAPHNE.
+
+            [Marino.]
+
+    When Phoebus saw a rugged bark beguile
+      His love, and his embraces intercept,
+    The leaves, instructed by his grief to smile,
+      Taking fresh growth and verdure as he wept,
+    'How can,' saith he, 'my woes expect release,                      5
+    When these,[62:1] the subject of my tears, increase?'
+
+    His chang'd yet scorn-retaining Fair he kiss'd,
+      From the lov'd trunk plucking a little bough,
+    And though the conquest which he sought he miss'd,
+      With that triumphant spoil adorns his brow.                     10
+    Thus this disdainful maid his aim deceives:
+    Where he expected fruit he gathers leaves.
+
+
+          SONG: TORMENT OF ABSENCE AND DELAY.
+
+            [Montalvan.]
+
+    Torment of absence and delay
+      That thus afflicts my memory!
+    Why dost thou kill me every day,
+      Yet will not give me leave to die?
+    Why dost thou suffer me to live                                    5
+      All hope of life in life denying,
+    Or to my patience tortures give
+      Never to die, yet ever dying?
+
+    To fair Narcissa's brighter eyes
+      I was by Love's instruction guided,                             10
+    (A happiness I long did prize,)
+      But now am from their light divided.
+    Favours and gifts my suit obtain'd,
+      But envious Fate would now destroy them,
+    Which if to lose I only gain'd,                                   15
+      What greater pain than to enjoy them?
+
+
+          A LADY WEEPING.
+
+            [Montalvan.]
+
+    As when some brook flies from itself away,
+    The murmuring crystal loosely runs astray,
+    And, as about the verdant plain it winds,
+    The meadows with a silver ribbon binds,
+    Printing a kiss on every flower she meets,                         5
+    Losing herself to fill them with new sweets,
+    To scatter frost upon the lily's head.
+    And scarlet on the gilliflower to spread,--
+    So melting sorrow, in the fair disguise
+    Of humid stars,[63:1] flow'd from bright Chloris' eyes,           10
+    Which, watering every flower her cheek discloses,
+    Melts into jasmines here, there into roses.
+
+
+          TO HIS MISTRESS IN ABSENCE.
+
+            [Tasso.]
+
+    Far from thy dearest self, the scope
+            Of all my aims,
+        I waste in secret flames;
+    And only live because I hope.
+
+    O when will Fate restore                                           5
+            The joys, in whose bright fire
+        My expectation shall expire,
+    That I may live because I hope no more!
+
+
+          THE HASTY KISS.
+
+            [Secundus.]
+
+    A kiss I begg'd, and thou didst[64:1] join
+          Thy[64:2] lips to mine;
+    Then, as afraid, snatch'd[64:3] back their treasure,
+          And mock'd[64:4] my pleasure.
+    Again, my Dearest![64:5]--for in this                              5
+    Thou only gav'st[64:6] desire, and not a kiss.
+
+
+          SONG: WHEN THOU THY PLIANT ARMS.
+
+            [Secundus.]
+
+    When thou thy pliant arms dost wreathe
+    About my neck, and gently breathe
+    Into my breast that soft sweet air
+    With which thy soul doth mine repair;
+    When my faint life thou draw'st away,                              5
+    (My life which scorching flames decay,)
+    O'ercharg'd, my panting bosom boils,
+    Whose fever thy kind art beguiles,
+    And with the breath that did inspire
+    Doth mildly fan my glowing fire.                                  10
+    Transported, then I cry: 'Above
+    All other deities is Love!
+    Or if a deity there be
+    Greater than Love, 'tis only thee.'
+
+
+          SONG: 'TIS NO KISS.
+
+            [Secundus.]
+
+    'Tis no kiss my Fair bestows!
+    Nectar 'tis, whence new life flows.
+    All the sweets which nimble bees
+    In their osier treasuries
+    With unequall'd art repose,                                        5
+    In one kiss, her lips disclose.
+    These, if I should many take,
+    Soon would me immortal make,
+    Rais'd to the divine abodes,
+    And the banquets of the gods.                                     10
+    Be not, then, too lavish, Fair!
+    But this heavenly treasure spare,
+    'Less thou'lt, too, immortal be:
+    For without thy company
+    What to me were the abodes                                        15
+    Or the banquets of the gods?
+
+
+        TRANSLATED FROM ANACREON.
+
+          I. _The Chase._
+
+    With a whip of lilies, Love
+    Swiftly me before him drove:
+    On we cours'd it through deep floods,
+    Hollow valleys, and rough woods,
+    Till a snake that lurking lay                                      5
+    Chanc'd to sting me by the way.
+
+    Now my soul was nigh to death,
+    Ebbing, flowing, with my breath,
+    When Love, fanning with his wings,
+    Back my fleeting spirit brings:                                   10
+    'Learn,' saith he, 'another day,
+    Love without constraint t'obey!'
+
+          II.
+
+    Vex no more thyself and me
+    With demure philosophy,
+    Hollow precepts, only fit
+    To amuse the busy wit.
+    Teach me brisk Lyæus' rites;                                       5
+    Teach me Venus' blithe delights.
+    Jove[65:1] loves water: give me wine,
+    That my soul ere I resign
+    May this cure of sorrow have.
+    There's no drinking in the grave!                                 10
+
+          III. _The Spring._
+
+    See, the Spring herself discloses,
+    And the Graces gather roses;
+    See how the becalmed seas
+    Now their swelling waves appease;
+    How the duck swims; how the crane                                  5
+    Comes from 's winter home again;
+    See how Titan's cheerful ray
+    Chaseth the dark clouds away!
+
+    Now in their new robes of green
+    Are the ploughman's labours seen;                                 10
+    Now the lusty teeming earth
+    Springs, each hour, with a new birth;
+    Now the olive blooms; the vine
+    Now cloth with plump pendants shine,
+    And with leaves and blossoms now                                  15
+    Freshly bourgeons every bough.
+
+          IV. _The Combat._
+
+    Now will I a lover be!
+    Love himself commanded me.
+    Full at first of stubborn pride,
+    To submit, my soul denied.                                        20
+    He his quiver takes, and bow,
+    Bids defiance: forth I go.
+    Armed with spear and shield we meet:
+    On he charges: I retreat,
+
+    Till, perceiving in the fight                                     25
+    He had wasted every flight,
+    Into me, with fury hot,
+    Like a dart himself he shot.
+    And my cold heart melts; my shield
+    Useless, no defence could yield;                                  30
+    For what boots an outward screen,
+    When, alas, the fight's within?
+
+          V.
+
+    On this verdant lotus laid,
+    Underneath the myrtle's shade,
+    Let us drink our sorrows dead,
+    Whilst Love plays the Ganymed.
+
+    Life like to[66:1] a wheel runs round:                             5
+    And, ere long, we underground
+    Ta'en by death asunder, must
+    Moulder in forgotten dust.
+
+    Why then graves should we bedew,
+    Why the ground with odours strew?                                 10
+    Better, whilst alive, prepare
+    Flowers and unguents for our hair.
+
+    Come, my Fair,[66:2] and come away!
+    All our cares behind us lay,
+    That these pleasures we may know,                                 15
+    Ere we come to those below.
+
+
+          E. CATALECTIS VET[ERUM] POET[ARUM].
+
+    A small well-gotten stock, and country seat
+    I have, yet my content makes both seem great.
+    My quiet soul to fears is not inur'd,
+    And from the sins of idleness secur'd.
+    Others may seek the camp, others the town,                         5
+    And fool themselves with pleasure or renown;
+    Let me, unminded in the common crowd,
+    Live, master of the time that I'm allow'd!
+
+
+          SEVEN EPIGRAMS.[67:1]
+
+            [Plato.]
+
+          I. _Upon One named Aster._
+
+    The stars, my Star! thou view'st: heaven I would be,
+    That I with thousand eyes might gaze on thee.
+
+          II. _Upon Aster's Death._
+
+    A Phosphor 'mongst the living late wert thou,
+    But shin'st, among the dead, a Hesper now.
+
+          III. _On Dion, engraved on his Tomb at Syracuse._
+
+    Old Hecuba, the Trojan matron's, years
+    Were interwoven by the Fates with tears,
+    But thee, with blooming hopes, my Dion! deck'd,
+    Gods did a trophy of their power erect.
+    Thy honour'd relics in thy country rest,                           5
+    Ah, Dion! whose love rages in my breast.
+
+          IV. _On Alexis._
+
+    'Fair is Alexis,' I no sooner said,
+    When every one his eyes that way convey'd.
+    My soul, as when some dog a bone we show
+    Who snatcheth it,--lost we not Phaedrus so?
+
+          V. _On Archaeanassa._
+
+    To Archaeanassa, on whose furrow'd brow
+    Love sits in triumph, I my service vow.
+    If her declining graces shine so bright,
+    What flames felt you who saw her noon of light?
+
+          VI. _Love Sleeping._
+
+    Within the covert of a shady grove
+    We saw the little red-cheek'd god of Love:
+    He had nor bow nor quiver: these among
+    The neighbouring trees upon a bow were hung.
+    Upon a bank of tender rosebuds laid,                               5
+    He smiling slept; bees with their noise invade
+    His rest, and on his lips their honey made.
+
+          VII. _On a Seal._
+
+    Five oxen, grazing in a flowery mead,
+    A jasper seal, (done to the life,) doth hold;
+    The little herd away long since had fled,
+    Were't not enclos'd within a pale of gold.
+
+
+
+
+TEXTUAL NOTES
+
+
+      1:1. _To the Countess of S. with 'The Holy Court'_ (p. 6).
+
+This is most probably Dorothy Spencer, born Sidney, Countess of
+    Sunderland, Waller's 'Saccharissa,' then a widow: a woman entirely
+    worthy of Stanley's admiration, and within his circle of personal
+    friends. _The Holy Court_, a practical and devotional treatise by
+    Nicolas Caussin, S.J., was first translated into English by Sir
+    Thomas Hawkins, and published in London in 1626. There was a fine
+    five-volume edition printed in 1650. A copy of this may, very
+    likely, have been Stanley's gift. The poem, 1651, is preceded by
+    'Madam' in formal address.
+
+
+
+      2:1. _Drawn for Valentine, etc._ (p. 7).
+
+The Editor guesses this young lady, the 'bright dawn,' who will
+    'challenge every heart,' later, to be the future Marchioness of
+    Halifax, the little Dorothy, daughter of the Earl of Sunderland (who
+    was killed at Newbury when she was three years old), and
+    'Saccharissa.' She was eleven in 1651. Waller, Sedley, and others,
+    have left happier poems addressed to children, in the same forced
+    tone, which was quite characteristic of the time.
+
+
+
+      '_Dear, fold me once more in thine arms_' (p. 10).
+
+3:1. P. 10, line 15. A final couplet difficult to scan. If correctly
+    printed, it has a dissyllable rhyme, with the accentual stress on
+    '_wi_' thee.'
+
+
+
+      _Love's Innocence_ (p. 12).
+
+4:1. P. 12. The 1647 title is 'The Innocence of Love.'
+
+4:2. P. " line 1. 1647 reads:
+
+    'See how this ivy, Dear, doth twine.'
+
+4:3. P. " line 7. 1647: 'To one another whispering there.'
+
+4:4. P. " lines 9-12. 1647:
+
+     'Then blush not, Fair, that flame to show,
+      Which, like thyself, no crime can know.
+      Thus, led by those chaste guides, we may
+      Embrace and kiss as free as they.'
+
+4:5. Pp. 12-13, lines 20-21. 1647:
+
+     'As are our flames, 'bove reach of words.
+      Thus, Doris, we of these may learn.'
+
+
+
+      5:1. _The Dedication_ (p. 13).
+
+This, in the edition of 1647, is followed by twenty-seven lines of
+    citations from the Greek poets, giving the origins of the epithets
+    applied here to Love.
+
+
+
+      _The Glow-Worm_ (p. 13).
+
+6:1. P. 13, line 2. 1647 has:
+
+      'This living star of earth.'
+
+    But Stanley's sensitive sequence, 'A star _thought_,' etc., seems to
+    forbid our recurring to the 'living star' as better than the
+    'animated gem.'
+
+6:2. P. 14, line 4. 1647: 'deceiv'd.'
+
+6:3. P. " line 12. 1647:
+
+      'Which doth deceive.'
+
+
+
+      7:1. _To Chariessa_ (p. 14).
+
+The title, 1651, is simply: 'Desiring her to Burn his Verses.'
+
+7:2. P. 14, line 4. 1647: 'as.'
+
+7:3. P. 15, line 7. 1651: 'about.'
+
+
+
+      8:1. _On Mr. Fletcher's Works_ (p. 15).
+
+Title, in Stanley, 1651, reads: 'On the Edition of Mr. Fletcher's
+    Works.'
+
+8:2. P. 15, line 5. 1651: 'did.'
+
+8:3. P. " line 11. 1651: 'could.'
+
+8:4. P. 16, line 19. 1647: 'doth.'
+
+8:5. P. " line 29. 1647 has 'ris''; 1651, 'rise.'
+
+8:6. P. " line 30. 'With' reads 'not' in all texts: clearly a misprint.
+
+
+
+      9:1. _To the Lady D[ormer]._ _Sic_ 1651 (p. 16).
+
+This poem, under the title, 'To my most honour'd Aunt, the Lady Dormer,'
+    is the dedication of 1647. Who this lady was is not clear to the
+    Editor, unless she was Alice, daughter to Sir Richard Molyneux,
+    Bart., of Sefton, Lancashire, widow of Sir William Dormer, and
+    mother of the splendid first Earl of Carnarvon, killed in the King's
+    cause at Newbury, 1643. It is rather noticeable that many of
+    Stanley's friends and kinsfolk, like the Dormers, were Catholics.
+
+
+
+      _To Mr. W. Hammond_ (p. 17).
+
+10:1. P. 18, line 30. 1647 reads:
+
+      'Nor any flame but what is thine will own.'
+
+
+
+      11:1. _On Mr. Shirley's Poems_ (p. 18).
+
+Title in Stanley, 1647: 'On Mr. I. S. his Poems.'
+
+11:2. P. 18, line 7. 1647:
+
+      'Next like some skilful artist, who to wonder.'
+
+11:3. P. " line 8. 1651 has 'a piece.'
+
+11:4. P. 19, line 19. 1647: 'speech.'
+
+11:5. P. " line 21. 'Voice' tentative. Original texts have 'veil.'
+
+11:6. P. " line 30. 1651: 'poetry.'
+
+11:7. P. 19, lines 31-32 omitted in 1647.
+
+11:8. P. " line 33. Thus, 1647. 1651, erroneously:
+
+      'And hast so far even future aims surpass'd.'
+
+
+
+      12:1. _On Mr. Sherburne's Translation, etc._ (p. 20).
+
+In Stanley, 1647, entitled: 'To Mr. E. S. on his Translation of Medea,
+    with the other Tragedies of Seneca the philosopher, and vindication
+    of the Author.' Sherburne was not knighted until 1682, four years
+    after Stanley's death.
+
+12:2. P. 20, line 20. 1647: 'author.'
+
+
+
+      13:1. _On Mr. Hall's Essays_ (p. 21).
+
+In Stanley, 1647: 'To Mr. I. H. on his Essays.'
+
+13:2. P. 21, line 4. Here ends the prologue-like poem, in the edition of
+    1647. Then, as a separate piece on another page, under a new title,
+    'To Mr. I. H.,' follow these lines:
+
+     'I'll not commend thee; for thou hast outgrown
+      The reach of all men's praises but thine own.
+      Encomiums to their full objects are exact:
+      To praise, and not at full, is to detract.
+      And with most justice,' etc.
+
+    The rest as in the present edition. 'Full,' in the third line just
+    quoted, is certainly a misprint, crept up from the line below.
+
+13:3. P. 21, line 13. 1647 has:
+
+      'The pride of others' autumns poor appears.'
+
+    John Hall of Durham was but nineteen years old in 1646.
+
+
+
+      14:1. _On Sir John Suckling, etc._ (p. 22).
+
+_Fragmenta Aurea_, the posthumous collection of Suckling's poetry, came
+    out in 1646, with a fine portrait engraving by Marshall.
+
+
+
+      15:1. _Answer._
+
+The verses by Stanley's tutor and friend are reproduced in the editions
+    both of 1647 and of 1651.
+
+          THE UNION.
+
+        [Greek: Mia psychê, duo sômata]
+
+        By Mr. William Fairfax.
+
+    As in the crystal-centre of the sight
+    Two subtle beams make but one cone of light,
+    Or, when one flame twin'd with another is,
+    They both ascend in one bright pyramis;
+    Our spirits thus into each other flow,                             5
+    One in our being, one in what we know,
+    In what we will, desire, dislike, approve,
+    In what we love; and one is that pure love.
+    As in a burning glass the aerial flame
+    With the producing ray is still the same,                         10
+    We to love's purest quintessence refin'd,
+    Do both become one undivided mind.
+    This sacred fire into itself converts
+    Our yielding spirits and our melting hearts,
+    Till both our lines into one spirit run;                          15
+    So several lines are in their centre one.
+    And when thy fair idea is impress'd
+    In the soft tablet of my easier breast,
+    The sweet reflexion brings such sympathy,
+    That I my better self behold in thee;                             20
+    And all perfections that in thee combine,
+    By this resultance are entirely mine.
+    Thy rays disperse my shades, who only live
+    Bright in the lustre thou art pleas'd to give,
+
+15:2. P. 22, line 8. _i.e._ 'I [who] know no native light but light
+    borrowed from thee.' The rather obscure phrase is obscured the more
+    by its slovenly original punctuation.
+
+15:3. P. 22, line 10. 'Wouldst': 1651.
+
+
+
+      _The Blush_ (p. 24).
+
+16:1. P. 24, line 11. 'Conferr'd' in 1647; 'comferd' in Gamble's
+    _Ayres_, 1657. The right word is obvious.
+
+16:2. P. 24, line 16. 'Knows': 1647.
+
+
+_The Cold Kiss_ (p. 25).
+
+17:1. P. 25, line 3. 'These': 1657.
+
+17:2. P. " line 12. 'My': 1657.
+
+17:3. P. " line 15. 'Lip': 1657.
+
+
+
+      _The Idolater_ (p. 25).
+
+18:1. P. 26, line 7. 'By' in other texts, but 'from' in Gamble, 1856.
+
+18:2. P. " line 11. 'He' in 1647: the later text must be right.
+
+18:3. P. " line 18. 'Breast': 1647.
+
+
+
+      _The Magnet_ (p. 26).
+
+19:1. P. 26, line 9. 'She': 1657.
+
+19:2. P. 27, line 13. 'Then': 1647.
+
+
+
+      _Song: 'Foolish Lover'_ (p. 28).
+
+20:1. P. 28, line 24. 'Distinguish,' by printer's error, in 1657.
+
+
+
+      _The Parting_ (p. 29).
+
+21:1. P. 29, line 4. 'Do': 1647.
+
+21:2. P. " lines 5-6. 1647:
+
+     'But when hereafter thou shalt know
+      That grief hath slain me, come.'
+
+21:3. P. " line 19. 'Condemn': 1647; 'contain': 1657. 'Contemn' is
+    Stanley's word, if one is to judge from the context.
+
+
+
+      _Counsel_ (p. 29).
+
+22:1. P. 29, line 4. 'Creature': 1647.
+
+22:2. P. 30, line 7. 'Their': 1657.
+
+22:3. P. " line 10. This line is a tangle of misprints in 1657, viz.:
+
+      'Stars to jewels they divest thee.'
+
+22:4. P. " line 13. 'Powers': a misprint of 1647.
+
+22:5. P. " lines 23-24. The final couplet in 1647 is:
+
+     'Who would keep another's heart,
+      With her own must never part.'
+
+
+
+      _Expostulation with Love, in Despair_ (p. 30).
+
+The text here given is a composite. The variants follow:
+
+23:1. P. 30, lines 1-4. 1647:
+
+     'Love, with what strange tyrannic laws must they
+      Comply, which are subjected to thy sway!
+      How far all justice thy commands decline
+      Which though they hope forbid, yet love enjoin!'
+
+    The elision of the relative pronoun between lines 3 and 4 of the
+    present text, and again in the course of line 5, is an irritating
+    mannerism of the time, nowhere more frequent than in Stanley.
+
+23:2. P. 31, line 9. 1657: 'hope.'
+
+23:3. P. " line 10. 1647: 'hopes as cold'; 1657: 'thoughts that's cold.'
+
+23:4. P. 31, line 14. 1647:
+
+      'When death and cold despair inhabit near?'
+
+    And 1657:
+
+      'When death and old despair inhabit here?'
+
+23:5. P. 31, line 15. 1647:
+
+      'Rule in my breast alone, or else retire.'
+
+23:6. P. " line 16. 1647: 'thy.'
+
+23:7. P. " lines 17-18. The closing couplet of 1647 reads:
+
+     'Or let me not desire, or else possess!
+      Neither, or both, are equal happiness.'
+
+    And 1657:
+
+     'Thus let me ...
+      Either, or both ...'
+
+
+
+      _Song: 'Faith, 'tis not worth your pains'_ (p. 31).
+
+24:1. P. 31, lines 2-3. 1657, blunderingly:
+
+     'To seek t'inspire
+      A heart so pure as mine.'
+
+24:2. P. " line 12. 1647: 'you'll.'
+
+
+
+      _Expectation_ (p. 32).
+
+25:1. P. 32, line 5. 1647: 'or.'
+
+
+
+      _The Breath_ (p. 33).
+
+26:1. P. 33, line 8. _Sic_ in 1647 and 1657. 'He back receives': 1651.
+
+26:2. P. " line 11. 1647 and 1657 have: 'Which, while he sportively.'
+
+    Gamble evidently had the 1647 copy of this song before him, as he
+    follows it throughout, slighting Stanley's corrections of 1651.
+
+26:3. P. 33, line 16. 1647 and 1657: 'back.'
+
+
+
+      _The Night: a Dialogue_ (p. 34).
+
+27:1. P. 34, line 1. 'Chariessa' is misprinted, in 1651, 'Charissa.' The
+    names are placed over the speeches. 1647 has for title: 'Amori
+    Notturni: A Dialogue between Philocharis and Chariessa.'
+
+
+
+      _Unalter'd by Sickness_ (p. 35).
+
+28:1. P. 35, lines 1-4. The editions of 1647 and 1651 start off:
+
+     'Sickness, in vain thou dost invade
+      A beauty that can never fade.'
+
+    The additional opening lines figure only in 1657; there, however,
+    'her' in the second line is misprinted 'our,' and line 4 reads:
+
+      'Those beauties which can never fade.'
+
+28:2. P. 35, line 6. 1647, 1651:
+
+      'One o' th' sweets which crown this Fair.'
+
+    But 1657:
+
+      'On those sweets which crown her fair.'
+
+28:3. P. 35, line 9. 'Blushing' in the earlier versions.
+
+28:4. P. " line 10. 'Drooping' in the earlier versions.
+
+28:5. P. " line 16. 'But' in 1657, to the confusion of the sense.
+
+
+
+      29:1. _To Celia: Excuse for Wishing her less Fair_ (p. 36).
+
+'To Celia' is omitted in 1651.
+
+29:2. P. 36, lines 9-10. 1647:
+
+     'Men might languish, and not die
+      At thy then less scorching fire.'
+
+29:3. P. " line 23. 'Than': 1657.
+
+
+
+      30:1. _Celia, Sleeping or Singing_ (p. 37).
+
+
+'Celia Singing' is the title except in 1647, and the whole is there
+    printed as one stanza.
+
+30:2. P. 37, line 10. By a wickedly diverting mishap, 'more' reads
+    'less' in 1651 and 1657!
+
+30:3. P. 37, line 12. 'Flame,' by error, in 1651 and 1657.
+
+30:4. P. " line 13. 'His': 1647.
+
+30:5. P. " line 18. 'Cherubins' in all three texts.
+
+30:6. P. " line 19. 'Power': 1647.
+
+
+
+      31:1. _Palinode_ (p. 37).
+
+Not in the edition of 1651. The poem is printed in this section on
+    account of its relation to 'The Return,' which follows. 'The Return'
+    is possibly but another version of 'Palinode.'
+
+31:2. P. 38, line 5. The Editor has ventured to print 'That would,'
+    though against all three texts, which give 'That wouldst.' The
+    meaning seems to be that the 'proud empire' of Beauty is rebellions
+    to Reason or Philosophy, the restraints of which, ('chains') 'would
+    within tyrannic laws confine,' etc.
+
+31:3. P. 38, line 7. 'Powerful': 1657.
+
+31:4. P. " line 12. 'In': 1657.
+
+
+
+      _The Return_ (p. 38).
+
+32:1. P. 38, line 2. 'Unite,' by a misprint: 1651.
+
+32:2. P. " line 3. 'Bounds': 1651, 1657.
+
+32:3. P. " line 5. 'That': 1647.
+
+32:4. P. " line 7. 'Sacred': 1647, 1651.
+
+32:5. P. " line 10. 'Which': 1657.
+
+32:6. P. 39, line 11. 'Midst': 1647, 1651.
+
+32:7. P. " line 13. 'Th'' dropped out in 1651.
+
+
+
+      _Chang'd, yet Constant_ (p. 39).
+
+33:1. P. 40, line 25. Eros.
+
+33:2. P. 41, line 56. May the Editor be forgiven for altering, with no
+    explicit help from printed texts, one word of this splendid lyric,
+    in the very best impudent spirit of the time? The second 'hearts' in
+    the closing line reads 'they' in all editions of Stanley. It is
+    possible that this word 'they' has been caught from the line just
+    before, after a fashion only too familiar to copyists and printers.
+    Even so, it would mean not 'lovers' but 'hearts.' The word 'hearts,'
+    one is tempted to think, may be the right word.
+
+
+
+      34:1. _To Chariessa: Beholding herself, etc._ (p. 41).
+
+The edition of 1651 omits 'To Chariessa.' The Editor regrets having
+    included it, by an oversight, in this section.
+
+34:2. P. 41, line 8. 'One': 1657.
+
+34:3. P. " line 12. The reading of 1657. 'In': 1647.
+
+
+
+      _Song: 'When I lie burning'_ (p. 42).
+
+35:1. P. 42, lines 13-16. This stanza, probably by inadvertence, is not
+    included in the edition of 1651. 'Eye,' line 14, is 'eyes' in 1657;
+    and 'than,' line 16, is misprinted 'them' in 1647.
+
+35:2. P. 42. line 17. 'No': 1651 and 1657.
+
+
+
+      _Delay_ (p. 43).
+
+36:1. P. 44, line 18. 'Be': 1657.
+
+
+
+      _The Repulse_ (p. 44).
+
+37:1. P. 44, line 3. The reading of 1657. 'Tyrannic': 1647, 1651.
+
+37:2. P. 45, line 21. 'The': 1651, 1657.
+
+
+
+      _Song: 'Celinda, by what potent art?'_ (p. 45).
+
+38:1. P. 45, line 9. 'Friend': 1647, 1651.
+
+
+
+      _The Tomb_ (p. 46).
+
+39:1. P. 47. lines 19-20. In the version of 1647, these lines read:
+
+     'And (thou in this flame sacrific'd to me),
+      We might each other's mutual martyr be.'
+
+    The whole third stanza is reproduced from 1647; it figures neither
+    in 1651 nor in 1657.
+
+39:2. P. 47, line 30. 'Love': 1647; a manifest befogging duplication of
+    the 'love' in the preceding line. 'Kill' seems to be called for, or
+    perhaps 'slay,' a word less in favour with Stanley.
+
+
+
+      40:1. _To Celia, pleading want of merit_ (p. 48).
+
+1647: 'To One that pleaded her own Want of Merit.'
+
+40:2. P. 48, line 12. 'My': 1647.
+
+40:3. P. " line 19. The name in 1651, 1657; but 'Dearest' in 1647.
+
+
+
+      41:1. _The Kiss_. (p. 49).
+
+1647: 'The Killing Kiss.'
+
+41:2. P. 49, line 4. 'Forms' may be a misprint of 1651, 1657. This line
+    in 1647 reads:
+
+      'They both unite and join.'
+
+41:3. P. 49, line 6. 'And': 1651; 'by' (which carries out the context)
+    in the others.
+
+41:4. P. 49, line 12. 1647:
+
+      'Our lips, our tongues, each other's thoughts betray.'
+
+41:5. P. 49, line 17. 1647: 'Doris.'
+
+
+
+      _The Snowball_ (p. 50).
+
+42:1. P. 50, line 10. 'Whiter' in all; but 'winter' must be the word.
+
+
+
+      43:1. _The Deposition_ (p. 50).
+
+1647: 'A Deposition from Beauty.'
+
+43:2. P. 51, line 1. 'Were': 1651.
+
+43:3. P. " line 3. 'Do': 1647; somewhat clearer than 'all,' in the texts
+    of 1651, 1657.
+
+43:4. P. 51, line 9. 'Glories': 1651.
+
+43:5. P. " line 16. 'Which': 1647.
+
+
+
+      _Love's Heretic_ (p. 52).
+
+44:1. P. 53, line 34. 'That': 1647.
+
+44:2. P. " line 38. 'Pleasures': 1651, 1657.
+
+
+
+      _La Belle Confidante_ (p. 54).
+
+45:1. P. 55, line 16. 'Can nor decay nor die': 1651.
+
+45:2. P. 55, line 17. 'And': 1647.
+
+45:3. P. " lines 18, 20. 1647:
+
+     'Even in divorce delighted,
+       .     .     .     .     .
+      Still in the grave united.'
+
+
+
+      _The Divorce_ (p. 57).
+
+46:1. P. 57, line 4. 1657: 'cannot.'
+
+46:2. P. " line 12. 1647:
+
+      'That taught me such idolatry.'
+
+    The line as printed in this book follows 1657.
+
+46:3. P. 57, line 14. 'Cold': 1647.
+
+46:4. P. " lines 15-16. 1647:
+
+     'I by thy hate might be releas'd,
+      Who now am prisoner to thy love.'
+
+46:5. P. 58. lines 21-22. 1647:
+
+     'Thus whilst so many suppliants do
+      Implore thy pity they may prove.'
+
+
+
+      _The Bracelet_ (p. 58).
+
+47:1. P. 58, line 12. 1651 and 1657 have the line revised to its
+    detriment:
+
+      'A heart that many storms withstood, have sold.'
+
+47:2. P. 58, line 15. 1647: 'souls that do our life inspire.' 'Human' in
+    1651, but 'humane,' in the commoner spelling of the time, in 1657.
+
+47:3. P. 59, line 22. Thus in 1651, 1657. 1647 has:
+
+      'Guards and defends my heart.'
+
+
+
+      _The Farewell_ (p. 59).
+
+48:1. P. 59, lines 13-14. The text as given is 1657 only. 1647 has:
+
+     'And may, in spite of Fate, thus blest,
+      Be, by this death, of heaven possess'd.'
+
+    And 1651:
+
+     'And be, in spite of Fate, thus blest,
+      By this sad death, of heaven possess'd.'
+
+
+
+      49:1. _The Exchange: Dialogue_ (p. 60).
+
+'Exchange of Souls': 1647.
+
+49:2. P. 60, lines 5-6. This refrain is omitted after the speeches in
+    1651, but figures in other editions, earlier and later.
+
+
+
+      _The Exequies_ (p. 61).
+
+50:1. P. 61, lines 7-8. Text as given in 1651, 1657. 1647 has:
+
+     'Whose cold embraces do a victim hide
+      That, paid to Beauty, on Love's altar died.'
+
+
+
+      _The Silkworm_ (p. 62).
+
+51:1. P. 62, line 1. 'This': 1651, 1657.
+
+51:2. P. " line 6. All editions read:
+
+      'To make thy ornament her spoil.'
+
+    Facts, and the context, force one to reverse the possessive
+    pronouns.
+
+51:3. P. 62, line 7. 1651: 'pain.'
+
+51:4. P. " line 10. 1647:
+
+     'That her rich work and labours, thou
+      Wilt,' etc.
+
+
+
+      _Ambition_ (p. 62).
+
+52:1. P. 63, line 10. Misspelt 'assent' in 1657.
+
+52:2. P. " line 16. 'Honour,' in all texts, obviously wrong.
+
+
+
+      _Song: 'When, dearest Beauty'_ (p. 63).
+
+53:1. P. 63, line 5. 'Left': 1651; 'least': 1657.
+
+
+
+      _Song: 'I will not trust'_ (p. 64).
+
+54:1. P. 64, line 15. 'Captive': 1657; the older form in 1647, 1651.
+
+
+
+      _Song: 'I prithee'_ (p. 65).
+
+55:1. P. 66, line 7. 'That,' 1647, 1651.
+
+
+
+      _The Loss_ (p. 66).
+
+56:1. P. 67, line 20. This word reads 'thy' in all editions of Stanley.
+    The right reading is almost certainly 'their.'
+
+
+
+      57:1. _The Self-Cruel_ (p. 67).
+
+Entitled 'Song': 1647.
+
+57:2. P. 68, line 17. 'That' in all texts: but presumably a misprint.
+
+
+
+      58:1. _An Answer to a Song: 'Wert thou much [?] Fairer'_ (p. 68).
+
+Stanley gives the title inaccurately.
+
+Mr. W. M.'s Wither-like song (the author of which the Editor has not
+    identified), appears only in the edition of 1651:--
+
+      Wert thou yet fairer than thou art,
+      (Which lies not in the power of art,)
+      Or hadst thou in thine eyes more darts
+      Than ever Cupid shot at hearts;
+      Yet if they were not thrown at me,                               5
+      I would not cast a thought on thee.
+
+      I'd rather marry a disease,
+      Than court the thing I cannot please:
+      She that will cherish my desires
+      Must meet my flames with equal fires.                           10
+      What pleasure is there in a kiss,
+      To him that doubts the heart's not his?
+
+      I love thee not because thou'rt fair,
+      Softer than down, smoother than air;
+      Nor for the Cupids that do lie                                  15
+      In either corner of thine eye.
+      Wouldst thou then know what it might be?
+      'Tis I love you, 'cause you love me.
+
+58:2. P. 68, line 8. 'So': 1647, 1651.
+
+
+
+      59:1. _The Relapse_ (p. 69).
+
+Entitled simply 'Song' in 1647.
+
+59:2. P. 69, line 5. 'Blind and impious': 1647.
+
+59:3. P. 69, line 7. 'Fall': 1657; in the earlier versions 'name,'
+    caught up by the compositor, in error, from the succeeding line. But
+    the 1647 copy of Stanley in the Bodleian Library, which belonged to
+    William Fairfax, has 'name' erased, and 'fall' written, in a
+    seventeenth-century hand, above it.
+
+
+
+TRANSLATIONS.
+
+
+
+      _Claim to Love._ Guarini. [1651, 1657] (p. 72).
+
+60:1. P. 72, line 5. 'To': 1651.
+
+60:2. P. " line 7. 'Thy': 1651.
+
+
+
+      _The Sick Lover._ Guarini. [1647, 1651, 1657] (p. 72).
+
+61:1. P. 72, line 6. 'It' in all texts, possibly a misprint for 'is.'
+
+
+
+      _Apollo and Daphne._ Marino. [1651] (p. 74).
+
+62:1. P. 74, line 6. 'Tears,' manifestly wrong, in the text; 'these' as
+    relating to 'leaves,' is inserted at a venture, and may or may not
+    be the right word.
+
+
+
+      _A Lady Weeping._ Montalvan. [1651, 1657] (p. 75).
+
+63:1. P. 76, line 10. 'Stars' in both texts; but this may be in error
+    for 'tears.'
+
+
+
+      _The Hasty Kiss._ Secundus. [1647, 1651, 1657] (p. 76).
+
+64:1. P. 76, line 1. 1647: 'she did.'
+
+64:2. P. " line 2. 1647: 'her.'
+
+64:3. P. 76, line 3. 1651: 'snatch.'
+
+64:4. P. " line 4. 1651: 'mock.'
+
+64:5. P. " line 5. 1647: 'my Chariessa!'
+
+64:6. P. " line 6. 1651: 'gavest.'
+
+
+
+      _Translations from Anacreon._ [1651, 1657.]
+
+65:1. No. II. P. 79, line 7. 'Love,' in both originals, is
+    self-contradictory.
+
+66:1. No. V. P. 80, line 5. 'To' omitted in 1657.
+
+66:2. No. V. P. 81, line 13. So 1657. 'My fair one' elsewhere.
+
+
+67:1. _Seven Epigrams: Plato._ From Laertius and the Anthology. (p.
+    81.)
+
+
+
+
+A LIST OF EDITIONS OF THOMAS STANLEY'S POEMS AND TRANSLATIONS
+
+[NOTE.--The present 'List' may be looked upon as an _apology_ for a
+Stanley Bibliography, which, on the present occasion, is an
+impossibility to the compiler, who has, to some extent, had to satisfy
+himself with the sparse details of the ordinary bibliographical works;
+in addition, he has been aided by the Editor of the present edition of
+Stanley's Poems.--J. R. TUTIN.]
+
+1. [Anonymous lines[A] to Sir John Suckling occurring beneath Marshall's
+    portrait of him in edd. 1646-1696 of Suckling's Works.
+
+    [Footnote A: Commencing: 'Suckling, whose numbers could invite.']]
+
+2. Poems and Translation. By Thomas Stanley, Esquire. Quæ mea culpa
+    tamen, nisi si lusisse vocari Culpa potest: nisi culpa potest &
+    amasse, vocari? Tout vient a poinct qui peut attendre. Printed for
+    the Author, and his friends, 1647. Collation--[13 pp.] 49 pp. [+8
+    pp.]
+
+    In a copy of this edition in the Bodleian Library, Oxford [Mason cc.
+    297], is the following Note:--
+
+    'Privately printed for presents only; afterwards reprinted in 1649
+    and 1650 for sale. The only other copy of this first edition I can
+    trace was in Isaac Reed's Sale.'
+
+    This 1647 edition has half-titles for Europa, Cupid Crucified, and
+    Venus Vigils; but for Oronta and for Aurora, etc., a title: Oronta,
+    The Cyprian Virgin, by Sig^r Girolamo Preti. London. Printed by F.
+    B. for Humphrey Moseley at the Signe of the Princes Armes in St.
+    Pauls Churchyard, 1637.
+
+    Aurora, Ismenia. By Don Juan Perez de Montalvan, 1648.
+
+3. Europa, Cupid Crucified, Venus Vigils. With Annotations by Tho:
+    Stanley, Esq. Printed by W. W. for Humphrey Moseley, and are to be
+    sold at his shop at the Signe of the Princes Armes in St. Pauls
+    Churchyard. 1649 [2], 61 pp.
+
+4. Aurora, Ismenia, and the Prince, by Don Juan Perez de Montalvan.
+    Oronta the Cyprian Virgin, by Sign^r Girolamo Preti. Tout vient a
+    poinet qui peut attendre. Translated by Thomas Stanley, Esq.; The
+    Second Edition, with additions. London. Printed by W. Wilson for
+    Humphrey Moseley at the Signe of Princes Armes in St. Pauls
+    Churchyard. 1650 [8 pp.], 87 p.
+
+    Considered by bibliographers part of succeeding (_i.e._ Poems of
+    1651), though the pagination begins anew and the date is 1650.
+
+5. Poems, By Thomas Stanley, Esquire. Quæ mea culpa tamen, nisi si
+    lusisse vocari Culpa potest: nisi culpa potest & amasse, vocari?
+    Printed in the Year 1651. 86 pp.
+
+6. Anacreon, Bion, Moschus: Kisses by Secundus: Cupid Crucified by
+    Ausonius: Venus Vigils. Incerto authore. [Translated by Thomas
+    Stanley.] Printed in the year 1651. 164 pp.
+
+7. Sylvias Park by Theophile, Acanthus Complaint by Tristran, Oronto by
+    Preti, Echo by Marino, Loves Embassy by Boscan, The Solitude by
+    Gongora. [Translated by Thomas Stanley.] Printed in the year 1651.
+    Pp. 167-212. (Paged continuously with Anacreon, Bion, etc.)
+
+8. A Platonick Discourse upon Love. Written in Italian by John Picus
+    Mirandula, in Explication of Sonnet by Hieronimo Benvieni.
+    [Translated by Thomas Stanley.] Printed in the year 1651. Pp.
+    215-260. (Paged continuously with Sylvias Park, etc.)
+
+9. Poems by Thomas Stanley, Esquire. Quæ mea culpa tamen, nisi si
+    lusisse vocari Culpa potest: nisi culpa potest et amasse, vocari.
+    London: Printed for Humphrey Moseley, and are to be sold at his Shop
+    at the Signe of the Princes Armes in S. Pauls Church Yard, 1652.
+
+10. Ayres and Dialogues (To be Sung to the Theorbo-Lute or Bass-Violl).
+    By John Gamble. Horat. Od. 2. 10.--Quondam cithara tacentem Suscitat
+    Musam, neque semper arcum Tendit Apollo. London. Printed by William
+    Godbid for the Author. 1656. [10 pp.] 83 pp. Fo.
+
+    Containing a full-page portrait of Gamble engraved by T. Cross. The
+    Prefaces precede the complimentary Poems.
+
+11. Ayres and Dialogues (To be Sung to the Theorbo-Lute or Bass-Violl).
+    By John Gamble. Horat. Ode II., 10.--Quondam cithara tacentem
+    Suscitat Musam, neque semper arcum Tendit Apollo. London: Printed by
+    W. Godbid for Humphry Moseley at the Princes-Arms in St. Pauls
+    Church-yard, 1657. [10 pp.] 78 pp. [+ 1]. F^o.
+
+    Followed by twenty very complimentary lines by Alexander Broome
+    [Brome] addressed 'To His Friend Thomas Stanley, Esq., On his Odes
+    set and Published by Mr. John Gamble'; by twenty-two lines 'On my
+    Friend Mr. John Gamble his Excellent Composition of the Songs and
+    Dialogues of Thomas Stanley, Esq.,' signed Jo: Tatham; and a Preface
+    of Gamble's own, reproduced herewith. Then another Preface, To the
+    Noble Few Lovers of Musick (Gamble's); and poems, in order, by
+    Richard Lovelace, Jo: Redmayne, Dudley Lovelace, and Eldred Revet.
+
+    [Gamble's Preface, 1657.]
+
+    To the Worthy of all Honour, Thomas Stanley, Esq.
+
+    SIR,--You have been a merciful Creditor in the trust of these
+    inestimable Poems so long with me, a person inconsiderable. But, I
+    beseech you, think I have been sensible of the great obligation, and
+    alwayes thought it a lesse trespass to break with all the world,
+    then, by the least forgetfulness, make an unhappy forfeit of myself
+    to your displeasure. Sir, I have brought home your Principal; and
+    though it be a thing beneath your generous expectation to look at
+    profit, yet I thought it became my justice to tender you a small
+    interest, the endevours of my poor Art, to wait upon it: I
+    acknowledge it a bold Undertaking to compose your Words, (which are
+    so pure Harmonie in themselves,) into any other Musick. But it was
+    not in my ambition or hope to mend the least Accent or Emphasis
+    w^{ch} they received from your own numerous Soul, but to essay how
+    neer a whole life spent in the study of Musical Compositions could
+    imitate the flowing and naturall Graces which you have created by
+    your Fancie. I have onely to say, if my zeal have not stained what
+    you have excellently made, I will not despair of your pardon; and if
+    any thing herein, (the wel-meant tender of my service,) may obtain
+    your smile and permission, I shalbe confirmed in my thoughts that I
+    may stil write myself,--Sir, The most humble and faithful of your
+    Servants,
+                                                           JOHN GAMBLE.
+
+    In this collection of Stanley's verse, 1656, 1657, the lyrics have
+    no titles of any sort, but are numbered.
+
+12. Psalterium Carolinum: the Devotions of His Sacred Majestie in his
+    Solitudes and Sufferings rendred in Verse [from the Eikon Basilike
+    by T. Stanley]. Set to Musick for 3 Voices and an Organ or Theorbo
+    by John Wilson, Dr. and Music Professor of Oxford, London. Printed
+    for John Martin and James Allestrey, and are to be sold at the Bell
+    in St. Pauls Church-yard. 1657. Folio.
+
+13. Psalterium Carolinum: the Devotions of His Sacred Majesty Charles
+    the First in his Solitudes and Sufferings. Rendred in Verse. London.
+    Printed for John Martin, James Allestry, and Thomas Dicas, and are
+    to be sold at the Bell in St. Pauls Church-yard, 1660.
+
+    The Dedication, to King Charles the Second, is signed Tho: Stanley.
+    The twenty-seven paraphrases here are without the music. F^o.
+
+14. Poems, by Thomas Stanley, Esq. Quæ mea culpa tamen, nisi si lucisse
+    [sic] vocari Culpa potest: nisi culpa potest et amasse, vocans
+    [sic]. Reprinted from the Edition of 1651. London: From the Private
+    Press of Longman, Hurst, Rees, Orme, and Brown. Printed by T.
+    Davison, Whitefriars. 1814. Pp. xxiv, 107. crown 8vo.
+
+    Edited, with Preface, etc., by Sir Egerton Brydges.
+
+    The edition contained about 100 copies.
+
+15. Anacreon, Bion, and Moschus, with Other Translations. By Thomas
+    Stanley, Esq. First Printed 1651. A New Edition, with a Preface,
+    Critical and Biographical. London: From the Private Press of
+    Longman, Hurst, Rees, Orme, and Brown. Printed by T. Davison,
+    Whitefriars. 1815. Pp. xxvii. 276. crown 8vo.
+
+    Edited by Sir Egerton Brydges; about 100 copies only.
+
+    Pp. 133-276 comprise a large number of "excitations," by Stanley,
+    upon the authors dealt with in these translations.
+
+16. The Elegies of Propertius, &c. London: H. G. Bohn. 1854. cr. 8vo
+    [Bohn's Classical Library].
+
+    Contains The Kisses of Secundus, translated into English verse by T.
+    Stanley.
+
+17. The Poems of Catullus, &c. London: H. G. Bohn. 1854. cr. 8vo [Bohn's
+    Classical Library].
+
+    Contains The Vigil of Venus, translated into English Verse by T.
+    Stanley.
+
+18. Anacreon: with Thomas Stanley's Translation. Edited by A. H. Bullen.
+    Illustrated by J. R. Weguelin. London: Lawrence & Bullen, 16
+    Henrietta Street, Covent Garden. MDCCCXCIII. 4to. Collation: Pp.
+    xxix. 224. Contains twelve photogravures. 1000 copies only were
+    printed for England and America.
+
+    [It may be here noted that many of Stanley's Verse-Translations
+    appeared in his _History of Philosophy_, of which there are many
+    editions, dating from 1655 to 1743, the best edition of which is
+    said to be the latter.]
+
+19. Anacreon, Translated by Thomas Stanley. With a Preface and Notes by
+    A. H. Bullen, and Illustrations by J. R. Weguelin. London: A. H.
+    Bullen, 47, Great Russell Street, W.C. 1906. Pp. xxiv+92.
+
+20. Thomas Stanley: His Original Lyrics, Complete, in their Collated
+    Readings of 1647, 1651, 1657. With an Introduction, Textual Notes, A
+    List of Editions, An Appendix of Translations, and a Portrait.
+    Edited by L. I. Guiney, J. R. Tutin, Hull, 1907.
+
+    _Collation._ Titles, Dedication, Contents, and Prefatory Note, pp.
+    i-xxi; Original Lyrics, pp. 1-69; Appendix of Translations, pp.
+    71-83; Textual Notes, pp. 85-100; List of Editions, pp. 101-105;
+    Index to First Lines, pp. 107-110.
+
+    The present edition.
+
+
+
+
+
+INDEX TO FIRST LINES
+                                                                    PAGE
+
+A kiss I begg'd, and thou didst join [Secundus]                       76
+
+A Phosphor 'mongst the living late wert thou [Plato]                  81
+
+A small well-gotten stock, and country seat [E. Cat[alectis]
+  Vet[erum] Poet[arum.]]                                              81
+
+Alas! alas! thou turn'st in vain [Guarini]                            72
+
+As in the crystal-centre of the sight [Fairfax]                       89
+
+As when some brook flies from itself away [Montalvan]                 75
+
+Ask the empress of the night                                          26
+
+
+Beauty, thy harsh imperious chains                                    37
+
+Beauty, whose soft magnetic chains                                    38
+
+
+Cast, Chariessa, cast that glass away                                 41
+
+Cast off, for shame, ungentle maid                                    67
+
+Celinda, by what potent art                                           45
+
+Chide, chide no more away                                             32
+
+Come, my Dear, whilst youth conspires [Casone]                        73
+
+
+Dear, back my wounded heart restore                                   57
+
+Dear, fold me once more in thine arms                                 10
+
+Dear, urge no more the killing cause                                  48
+
+Delay! Alas, there cannot be                                          43
+
+Doris, I that could repel                                             50
+
+Draw near                                                             61
+
+
+'Fair is Alexis,' I no sooner said [Plato]                            82
+
+Fair rebel to thyself and Time [Ronsard]                              71
+
+Faith, 'tis not worth thy pains and care                              31
+
+Far from thy dearest self, the scope [Tasso]                          76
+
+Favonius, the milder breath o' th' Spring                             33
+
+Five oxen, grazing in a flowery mead [Plato]                          83
+
+Fletcher, whose fame no age can ever waste                            15
+
+Fool! take up thy shaft again                                         43
+
+Foolish Lover, go and seek                                            28
+
+
+He whose active thoughts disdain                                      52
+
+
+I go, dear Saint, away                                                29
+
+I languish in a silent flame [De Voiture]                             73
+
+I must no longer now admire                                           62
+
+I prithee let my heart alone                                          65
+
+I will not trust thy tempting graces                                  64
+
+I yield, dear enemy, nor know                                         55
+
+If we are one, dear Friend! why shouldst thou be                      22
+
+
+Love! what tyrannic laws must they obey                               30
+
+
+Madam! the blushes I betray                                           16
+
+My sickly breath [Guarini]                                            72
+
+
+No, I will sooner trust the wind                                      65
+
+No, no, poor blasted Hope!                                             1
+
+Not that by this disdain                                              44
+
+Now will I a lover be [Anacreon]                                      79
+
+
+O turn away those cruel eyes                                          69
+
+Old Hecuba, the Trojan matron's, years [Plato]                        82
+
+On this swelling bank, once proud                                      9
+
+On this verdant lotus laid [Anacreon]                                 80
+
+
+Pale envious Sickness, hence! no more                                 35
+
+
+Rebellious fools that scorn to bow                                    58
+
+Roses, in breathing forth their scent                                 37
+
+
+See how this ivy strives to twine                                     12
+
+See how this violet, which before                                     27
+
+See, the Spring herself discloses [Anacreon]                          79
+
+Since every place you bless, the name                                  6
+
+Since Fate commands me hence, and I                                   59
+
+So fair Aurora doth herself discover                                  24
+
+Stay, fairest Chariessa, stay and mark                                13
+
+Such icy kisses, anchorites that live                                 25
+
+Suckling, whose numbers could invite                                  22
+
+
+That I might ever dream thus! that some power                          1
+
+That kiss which last thou gav'st me, stole                            60
+
+That wise philosopher who had design'd                                20
+
+The air which thy smooth voice doth break                             50
+
+The lazy hours move slow                                              10
+
+The silkworm, to long sleep retir'd                                   62
+
+The stars, my Star! thou view'st: heaven I would be [Plato]           81
+
+These papers, Chariessa, let thy breath                               14
+
+Think not, pale lover, he who dies                                    25
+
+Thou best of Friendship, Knowledge and of Art!                        17
+
+Thou that both feel'st and dost admire                                 2
+
+Thou whose sole name all passions doth comprise                       13
+
+Though 'gainst me Love and Destiny conspire                            7
+
+Though when I lov'd thee thou wert fair                               51
+
+'Tis no kiss my Fair bestows [Secundus]                               77
+
+To Archaeanassa, on whose furrow'd brow [Plato]                       82
+
+Torment of absence and delay [Montalvan]                              75
+
+
+Vex no more thyself and me [Anacreon]                                 78
+
+
+Wert thou by all affections sought                                    68
+
+Wert thou yet fairer than thou art ['Mr. W. M.']                      98
+
+What busy cares too timely born                                        4
+
+What if Night                                                         34
+
+When, cruel fair one, I am slain                                      46
+
+When, dearest Beauty, thou shalt pay                                  63
+
+When, dearest Friend, thy verse doth re-inspire                       18
+
+When deceitful lovers lay                                             29
+
+When I lie burning in thine eye                                       42
+
+When on thy lip my soul I breathe                                     49
+
+When Phoebus saw a rugged bark beguile [Marino]                       74
+
+When thou thy pliant arms dost wreathe [Secundus]                     77
+
+Whence took the diamond worth? the borrow'd rays                       2
+
+Why thy passion should it move                                        36
+
+With a whip of lilies, Love [Anacreon]                                78
+
+Within the covert of a shady grove [Plato]                            82
+
+Wits that matur'd by time have courted praise                         21
+
+Wrong me no more                                                      39
+
+
+Yet ere I go                                                          66
+
+You earthly souls that court a wanton flame                           54
+
+You that unto your mistress' eyes                                     56
+
+
+
+
+_Printed by_ MORRISON & GIBB LIMITED, _Edinburgh_
+
+
+       *       *       *       *       *
+
+Transcriber's Notes:
+
+1.  Obvious punctuation errors in the preface and textual notes have
+    been fixed without further note, but punctuation within poems
+    remains as printed in the original book.
+
+2.  Line numbers in the poems are as printed in the original book,
+    even in cases where they may seem inconsistent.
+
+3.  Page xiii: In the quote by Hammond, "you too" has been corrected
+    to "you two".
+
+4.  Page 36: The reference to note 2 was missing and has been added.
+
+5.  Page 79: In IV. The Combat, the line numbering should probably
+    restart at 1, rather than continuing from III. The printed
+    numbering has been retained.
+
+6.  Page 81: The text note reference on line 13 of V was missing and
+    has been added.
+
+7.  Page 100: The reference in text note 66:1 to line 5 of No. IV has
+    been corrected to refer to No. V instead.
+
+8.  Page 100: The note numbers in the notes for 'Translations from
+    Anacreon' were inconsistent with the numbers actually used in the
+    poems, and have been corrected.
+
+9.  The book has a number of inconsistencies in spelling, word usage,
+    or style of citation in the List of Editions, all of which have
+    been retained. Some of them are noted here:
+      church yard, church-yard, and churchyard
+      Princes-Arms and Princes Armes
+      St. Pauls and S. Pauls
+      Fo. and F^o. (Folio)
+      re-inspire and reinspire
+      James Allestrey and James Allestry
+
+10. The book uses some possibly obscure abbreviations, such as:
+      cr. 8vo, crown octavo
+      4to, quarto
+      Dñi, Domini
+      edd., editions
+      Horat., Horatius (Horace)
+      Jo:, John
+      Od., Ode
+      Tho:, Thomas
+
+
+
+
+
+End of the Project Gutenberg EBook of Thomas Stanley:  His Original Lyrics,
+Complete, In Their Collated Readings of 1647, 1651, 1657., by Thomas Stanley
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THOMAS STANLEY:  HIS ***
+
+***** This file should be named 32986-8.txt or 32986-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/2/9/8/32986/
+
+Produced by Charlene Taylor, Walt Farrell and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/Canadian Libraries)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

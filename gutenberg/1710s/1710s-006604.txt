@@ -1,0 +1,1971 @@
+﻿The Project Gutenberg EBook of A Critical Essay on Characteristic-Writings
+by Henry Gally
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: A Critical Essay on Characteristic-Writings
+       From his translation of The Moral Characters of Theophrastus (1725)
+
+Author: Henry Gally
+
+Editor: Alexander H. Chorney
+
+Release Date: July 15, 2005 [EBook #16299]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK A CRITICAL ESSAY ***
+
+
+
+
+Produced by David Starner, Louise Hope and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+[Transcriber's Note:
+This e-text includes a few phrases in accented Greek. It should look
+like this:
+  Λυδὲ γένος, πολλῶν βασιλεύ, μέγα νήπιε Κροῖσε
+    (Ludè génos, pollôn basileú, méga nêpie Kroîse)
+If it does not display properly, use the transliterated (Latin-1)
+version instead. ]
+
+       *       *       *       *       *
+
+
+         The Augustan Reprint Society
+
+
+                  HENRY GALLY
+
+  A Critical Essay on Characteristic-Writings
+
+            from his translation of
+
+     The Moral Characters of Theophrastus
+
+                    (1725)
+
+
+
+
+            With an Introduction by
+             Alexander H. Chorney
+
+             Publication Number 33
+
+
+                 Los Angeles
+    William Andrews Clark Memorial Library
+           University of California
+                     1952
+
+
+       *       *       *       *       *
+
+GENERAL EDITORS
+
+H. RICHARD ARCHER, _Clark Memorial Library_
+RICHARD C. BOYS, _University of Michigan_
+ROBERT S. KINSMAN, _University of California, Los Angeles_
+JOHN LOFTIS, _University of California, Los Angeles_
+
+
+ASSISTANT EDITOR
+
+W. EARL BRITTON, _University of Michigan_
+
+
+ADVISORY EDITORS
+
+EMMETT L. AVERY, _State College of Washington_
+BENJAMIN BOYCE, _Duke University_
+LOUIS BREDVOLD, _University of Michigan_
+JAMES L. CLIFFORD, _Columbia University_
+ARTHUR FRIEDMAN, _University of Chicago_
+EDWARD NILES HOOKER, _University of California, Los Angeles_
+LOUIS A. LANDA, _Princeton University_
+SAMUEL H. MONK, _University of Minnesota_
+ERNEST MOSSNER, _University of Texas_
+JAMES SUTHERLAND, _University College, London_
+H.T. SWEDENBERG, JR., _University of California, Los Angeles_
+
+
+CORRESPONDING SECRETARY
+
+EDNA C. DAVIS, _Clark Memorial Library_
+
+
+       *       *       *       *       *
+
+INTRODUCTION
+
+
+Henry Gally's _A Critical Essay on Characteristic-Writings_, here
+reprinted, is the introductory essay to his translation of _The Moral
+Characters of Theophrastus_ (1725). Of Gally's life (1696-1769) little
+is known. Apparently his was a moderately successful ecclesiastical
+career: he was appointed in 1735 chaplain-in-ordinary to George II. His
+other published works consist of sermons, religious tracts, and an
+undistinguished treatise on the pronunciation of Greek.
+
+His essay on the character, however, deserves attention because it is
+the first detailed and serious discussion by an Englishman of a literary
+kind immensely popular in its day. English writers before Gally had, of
+course, commented on the character. Overbury, for example, in "What A
+Character Is" (_Sir Thomas Overbury His Wife..._ 1616) had defined the
+character as "wit's descant on any plain-song," and Brathwaite in his
+Dedication to _Whimzies_(1631) had written that character-writers must
+shun affectation and prefer the "pith before the rind." Wye Saltonstall
+in the same year in his Dedicatory Epistle to _Picturae Loquentes_ had
+required of a character "lively and exact Lineaments" and "fast and
+loose knots which the ingenious Reader may easily untie." These remarks,
+however, as also Flecknoe's "Of the Author's Idea of a Character"
+(_Enigmaticall Characters_, 1658) and Ralph Johnson's "rules" for
+character-writing in _A Scholar's Guide from the Accidence to the
+University_ (1665), are fragmentary and oblique. Nor do either of the
+two English translations of Theophrastus before Gally--the one a
+rendering of La Bruyère's French version,[1] and the other, Eustace
+Budgell's _The Moral Characters of Theophrastus_ (1714)--touch more
+than in passing on the nature of the character. Gally's essay, in which
+he claims to deduce his critical principles from the practice of
+Theophrastus, is both historically and intrinsically the most
+important work of its kind.
+
+Section I of Gally's essay, thoroughly conventional in nature, is
+omitted here. In it Gally, following Casaubon,[2] theorizes that the
+character evolved out of Greek Old Comedy. The Augustans saw a close
+connection between drama and character-writing. Congreve (Dedication to
+_The Way of the World_, 1700) thought that the comic dramatist Menander
+formed his characters on "the observations of Theophrastus, of whom he
+was a disciple," and Budgell, who termed Theophrastus the father of
+modern comedy, believed that if some of Theophrastus's characters "were
+well worked up, and brought upon the British theatre, they could not
+fail of Success."[3] Gally similarly held that a dramatic character
+and Theophrastan character differ only in
+
+  the different Manner of representing the same Image. The _Drama_
+  presents to the Eyes of a Spectator an Actor, who speaks and acts as
+  the Person, whom he represents, is suppos'd to speak and act in real
+  Life. The _Characteristic_ Writer introduces, in a descriptive manner,
+  before a Reader, the same Person, as speaking and acting in the same
+  manner.
+
+Section III of Gally's essay, like Section I thoroughly conventional,
+is also omitted here. Gally attributes to Theophrastus the spurious
+"Proem," in which Theophrastus, emphasizing his ethical purpose,
+announces his intention of following up his characters of vice with
+characters of virtue. At one point Gally asserts that Theophrastus
+taught the same doctrine as Aristotle and Plato, but
+
+  accommodated Morality to the Taste of the _Beau Monde_, with all the
+  Embellishments that can please the nice Ears of an intelligent Reader,
+  and with that inoffensive Satir, which corrects the Vices of Men,
+  without making them conceive any Aversion for the Satirist.
+
+It is Gally's concept of the character as an art-form, however, which
+is most interesting to the modern scholar. Gally breaks sharply with
+earlier character-writers like Overbury who, he thinks, have departed
+from the Theophrastan method. Their work for the most part reflects
+corrupted taste:
+
+  A continued Affectation of far-fetched and quaint Simile's, which
+  runs thro' almost all these Characters, makes 'em appear like so many
+  Pieces of mere Grotesque; and the Reader must not expect to find
+  Persons describ'd as they really are, but rather according to what
+  they are thought to be like.
+
+And Gally attacks one of the favorite devices of the seventeenth-century
+character:
+
+  An Author, in this Kind, must not dwell too long upon one Idea; As
+  soon as the masterly Stroke is given, he must immediately pass on
+  to another Idea.... For if, after the masterly Stroke is given, the
+  Author shou'd, in a paraphrastical Manner, still insist upon the same
+  Idea, the Work will immediately flag, the Character grow languid, and
+  the Person characteris'd will insensibly vanish from the Eyes of the
+  Reader.
+
+One has only to read a character like Butler's "A Flatterer" to
+appreciate Gally's point. The Theophrastan method had been to describe
+a character operatively--that is, through the use of concrete dramatic
+incident illustrating the particular vice. The seventeenth-century
+character is too often merely a showcase for the writer's wit. One
+frequently finds a succession of ingenious metaphors, each redefining
+from a slightly different angle a type's master-passion, but blurring
+rather than sharpening the likeness.
+
+Gally insists that the style of the character be plain and easy,
+"without any of those Points and Turns, which convey to the Mind nothing
+but a low and false Wit." The piece should not be tediously rambling,
+but compact. It must have perfect unity of structure: each sentence
+should add a significant detail to the portrait. The manner ought
+to be lively, the language pure and unaffected.
+
+As for the character-writer's materials, they are "Human Nature, in its
+various Forms and Affections." Each character should focus on a single
+vice or virtue, yet since "the Heart of Man is frequently actuated by
+more Passions than one," subsidiary traits ought to be included to round
+out the portrait (e.g., the covetous man may also be impudent, the
+impudent man generous). Budgell had expressed a similar conception. A
+character, he wrote, "may be compared to a Looking-glass that is placed
+to catch a particular Object; but cannot represent that Object in its
+full Light, without giving us a little Landskip of every thing else
+that lies about it."[4] By Gally's time writers like Pascal, La
+Rochefoucauld, and La Bruyère had done much to show the complex
+and paradoxical nature of human behaviour. Gally, who praises La
+Rochefoucauld as the one modern as well equipped as Theophrastus to
+compose characters, reacts with his age against the stale types which
+both comedy and the character had been retailing _ad nauseam_. Human
+nature, says Gally, is full of subtle shadings and agreeable variations
+which the character ought to exploit. He quotes Temple to the effect
+that England is richer than any other nation in "original Humours" and
+wonders that no one has yet attempted a comprehensive portrait-gallery
+of English personality. Those writers who have come closest to Gally's
+idea of how "humour" ought to be handled are the "great Authors" of the
+_Tatlers_ and _Spectators_, with their "interspers'd Characters of Men
+and Manners compleatly drawn to the Life."
+
+In admiring the Roger de Coverley sketches, Gally typifies the
+increasingly tolerant attitude of the Augustans toward eccentric
+behavior.[5] Like Sterne and Fielding he is delighted by people whose
+idiosyncracies are harmless and appealing. As for the harsh satiric
+animus of a character-writer like Butler, it is totally alien to Gally,
+who would chide good-naturedly, so as "not to seem to make any Attacks
+upon the Province of Self-Love" in the reader. "Each Man," he writes,
+"contains a little World within himself, and every Heart is a new
+World." The writer should understand and appreciate, not ridicule,
+an individual's uniqueness.
+
+Of course, the character as Theophrastus wrote it described the type,
+not the particular person. Gally, who sets up Theophrastus as his model,
+apparently fails to realize that a "humourist" like Sir Roger verges on
+individuality. Indeed, while discussing the need for writers to study
+their own and other men's passions, he emphasizes that "without a
+Knowledge of these Things, 'twill be impossible ever to draw a Character
+so to the Life, as that it shall hit one Person, and him only." Here
+Gally might well be talking of the Clarendon kind of portrait. If a
+character is "one Person, and him only," he is no longer a type, but
+somebody peculiarly himself.
+
+Gally, then, is not as Theophrastan as he professes to be. True, he
+harks back to Theophrastus in matters of style and technique. And he
+does not criticize him, as does La Bruyère,[6] for paying too much
+attention to a man's external actions, and not enough to his "Thoughts,
+Sentiments, and Inclinations." Nevertheless his mind is receptive to
+the kind of individuated characterization soon to distinguish the
+mid-eighteenth century novel. The type is still his measuring-stick, but
+he calibrates it far less rigidly than a Rymer analyzing Iago or Evadne.
+A man can be A Flatterer or A Blunt Man and still retain a private
+identity: this private identity Gally recognizes as important. Gally's
+essay thus reflects fundamental changes in the English attitude toward
+human nature and its literary representation.
+
+Alexander H. Chorney
+Fellow, Clark Library
+Los Angeles, California
+
+
+  Notes to the Introduction
+
+  1. _The Characters, Or The Manners of the Age. By Monsieur De La
+  Bruyère of the French Academy. Made English by several hands. With the
+  Characters of Theophrastus..._ 1699. 2 vols.
+
+  2. Isaac Casaubon's Latin edition of Theophrastus appeared in 1592 and
+  was reprinted frequently during the seventeenth century.
+
+  3. Eustace Budgell, _The Moral Characters of Theophrastus_ (1714),
+  Preface, sig. a5.
+
+  4. _Ibid._, sig. a6 verso.
+
+  5. For a full account of the shift in attitude see Edward Miles
+  Hooker, "Humour in the Age of Pope," _Huntington Library Quarterly_,
+  XL (1948), 361-385.
+
+  6. "A Prefatory Discourse concerning Theophrastus," in _The
+  Characters, Or The Manners of the Age_, II, xxii.
+
+
+       *       *       *       *       *
+
+                      The
+                Moral Characters
+                      of
+
+                 THEOPHRASTUS.
+
+                Translated from
+             The Greek, with Notes.
+              To which is prefix’d
+
+                       A
+                CRITICAL ESSAY
+                      on
+             Characteristic-Writings.
+
+        By Henry Gally, M.A. Lecturer of
+         St. Paul’s Covent-Garden, and
+      Rector of Wanden in Buckinghamshire.
+
+  Respicere exemplar vitæ morumque jubebo
+  Doctum imitatorem, & vivas hinc ducere voces.
+                       Hor. in Art. Poet.
+
+
+                    LONDON:
+    Printed for John Hooke, at the _Flower-
+ de-luce_ over-against St. _Dunstan’s_ Church in
+          _Fleet-street_. MDCCXXV.
+
+
+       *       *       *       *       *
+
+                      THE
+
+                    PREFACE.
+
+
+The following Papers, which I now commit to the Public, have lain by
+me unregarded these many Years. They were first undertaken at the
+Request of a Person, who at present shall be nameless. Since that
+Time I have been wholly diverted from Studies of this Nature, and
+my Thoughts have been employed about Subjects of a much greater
+Consequence, and more agreeable to my Profession: Insomuch, that I had
+nothing in my Mind less than the Publication of these Papers; but some
+Friends, who had perus’d them, were of Opinion, that they deserv’d to
+be publish’d, and that they might afford an agreeable Entertainment
+not without some Profit to the Reader. _These_ Motives prevailed upon
+me to give _them_ a second Care, and to bestow upon them so much
+Pains, as was necessary to put them in that State, in which they now
+appear.
+
+The first Piece that the Reader will meet with is, _A Critical
+ESSAY on Characteristic-Writings_: It treats of the Origin of those
+Writings: It points out the general Laws to be observ’d in such
+Compositions, and it contains some Reflexions on _Theophrastus’s_ and
+Mr. _de la Bruyere’s_ Performances in this Way. The Design of this at
+least is, I think, new. Mr. _Fabricius_ mentions a [A]Book, which, by
+its Title, shou’d bear some Relation to this Essay, but tho’ I have
+enquir’d after it pretty strictly, yet I never cou’d get a Sight of
+it, nor have I conversed with any Person that had perus’d it.
+
+  [A: Georgii Paschii Professoris Kiloniensis Diatriba de
+  philosophia Characteristica & Parænetica. 4to. _Kilonie._ 1705.
+  Vid. Fabric. Bib. Græc. L. 3. p. 241.]
+
+The next Piece is a Translation of the _Moral Characters of
+Theophrastus_ from the _Greek_. This is not the first Time that
+_Theophrastus_ has appeared in a modern Dress. Mr. _de la Bruyere_
+translated him into _French_: And this was the Foundation of those
+Characters, which he himself compos’d, and which gave Rise to those
+many Performances, that were afterwards attempted in the same Way.
+[B]Mr. _Menage_ has highly extoll’d this Translation. _Elle est_, says
+he, _bien belle, & bien françoise, & montre que son Auteur entend
+parfaitement le Grec. Je puis dire que j’y ay vu des Choses, que,
+peut etre, Faute d’Attention, je n’avois pas vues dans le Grec._ This
+is great; and it must be own’d that Mr. _Menage_ was a Man of very
+extensive Learning, and a great Master of the _Greek_ Tongue; but that
+his Judgment was always equal to his Knowledg of Words, will not be so
+readily allow’d. Besides, the Credit of the Books ending in _ana_ runs
+very low, and in particular the _Menagiana_ have been disown’d by Mr.
+_Menage’s_ own [C]Relations, as being injurious to the Merit and
+Memory of that great Man. And therefore it must still be left to the
+inquisitive and judicious Reader to determine, whether those Faults,
+which I have observ’d in Mr. _de la Bruyere’_s Translation are justly
+censur’d or not.
+
+  [B: Menagiana. Ed. _Paris._ 1715. T. 4. p. 219.]
+
+  [C: Mr. _du Tremblay_. Traité des Langues. ad fin.]
+
+The _Characters_ of _Theophrastus_ have been twice translated into
+_English_. The former Translation is _anonymous_, and the latter was
+done by the ingenious Mr. _Eustace Budgell_. It will be expected that
+I shou’d say something of these two Translations. And I shall be the
+more ready to do this, because I shall hereby insensibly lead the
+Reader to the Reasons which induc’d me to undertake a
+third.
+
+The anonymous _English_ Translation is said to have been done upon
+the _Greek_. But this is only a Pretence, and a low Artifice of the
+ignorant Translator: For in reality ’tis no more than a mean and
+insipid Translation of the _French_ of Mr. _de la Bruyere_, revis’d
+upon the _Latin_ of _Casaubon_, which answers almost verbally to the
+Original _Greek_. If this were a Matter of Importance, I wou’d here
+fully demonstrate it: For the Fact is so glaring, that tho’ the
+Translator is wholly unknown to me, yet I can aver what I have
+asserted to be Truth, almost as certainly, as if I had been an Eye
+Witness to the doing of it_.
+
+Mr. _Budgell_’s Translation must be own’d to be polite: But politeness
+is not the only Qualification that is required in such a Translation.
+The learn’d Reader, who understands the Original, will consider it in
+a different View. And to judg of it according to those Rules which
+Translators ought to observe, it must be condemned. In general, it is
+not exact and accurate enough; but what is far worse, Mr. _Budgell_
+gives, in too many Instances, his own Thoughts instead of representing
+the true Sense of _Theophrastus_. This is perverting the _Humour_ of
+the Original, and, in Effect, making a new Work, instead of giving
+only a Translation. Mr. _Budgell_ ingenuously confesses, that he has
+taken a great deal of Liberty; but when a Translator confesses thus
+much, it does but give the Reader good Reason to suspect that instead
+of taking a great deal, he has in reality taken too
+much.
+
+Antient Authors (when they are translated) suffer in nothing more,
+than in having the Manners and Customs, to which they allude,
+transformed into the Manners and Customs of the present Age. By this
+Liberty, or rather Licenciousness of Translators, Authors not only
+appear in a different Dress, but they become unlike themselves, by
+losing that peculiar and distinctive Character in which they excel.
+This is most palpable in those Authors, whose Character consists in
+_Humour_. Let any one read _Terence_, as he is translated by Mr.
+_Echard_, and he will take him to have been a Buffoon: Whereas
+_Terence_ never dealt in such a Kind of low Mirth. His true Character
+is, to have afforded to his Spectators and Readers the gravest, and,
+at the same Time, the most agreeable, most polite Entertainment of
+any antient Author now extant. This is, in some Measure, the Case of
+_Theophrastus:_ He has been transformed; and he has suffer’d in the
+Transformation. What I have endeavoured is, to do him that Justice
+which, I think, he has not hitherto met with, by preserving the native
+Simplicity of his Characters, by retaining those antient Manners and
+Customs which he alludes to, and keeping up the peculiar _Humour_ of
+the Original as nearly, as the Difference of Language wou’d allow.
+This is the Attempt; how far I have succeeded, must be let to the
+judicious and curious Reader to determine. Thus much I thought
+necessary to say concerning former Translations, in order to justify
+my own Undertaking, which will not acquire an intrinsic Merit from the
+Censures, that I have pass’d upon others. No: The Faults of others
+cannot extenuate our own; and that Stamp, which every Work carries
+along with it, can only determine of what Kind it really
+is.
+
+The Reader will expect that I shou’d here say a Word or two
+concerning the _Notes_ which follow the _Characters_. Some Authors or
+Commentators (call them which you will) out of a vain Ostentation of
+Literature, lay hold of the slightest of Opportunities to expose all
+their Learning to the World, without ever knowing when they have said
+enough: Insomuch, that in most Commentaries upon antient Authors, one
+may sooner meet with a System of Antiquities, than with Solutions of
+the real Difficulties of the Text. Consider’d barely as a Translator,
+I lay under no immediate Necessity of writing _Notes_, but then as
+I was highly concern’d, even in that Capacity, to lay before the
+_English_ Reader, what I took to be the true Sense of the _Greek_,
+and as I farther propos’d to preserve that particular _Humour_ of the
+Original, which depends on those Manners and Customs which are alluded
+to, I found, my self necessitated to add some _Notes_; but yet I have
+endeavoured to shun that Fault, which I have already censur’d, by
+saying no more, but what was immediately necessary, to illustrate
+the Text, to vindicate a received Sense, or to propose a new one.
+
+I am not conscious of having made any great Excursions beyond the
+Bounds which these Rules prescrib’d to me, unless it is in the Chapter
+concerning _Superstition_. And even here, unless the Commentary had
+been somewhat copious, the Text it self wou’d have appear’d like a
+motly Piece of mysterious Nonsense. Thus much I thought my self
+oblig’d to do in Justice to _Theophrastus_; and as for the
+Enlargements which I have made, over and above what wou’d have
+satisfy’d this Demand, they will not, ’tis hop’d, be unacceptable to
+the curious Reader. They are Digressions I own; but I shall not here
+offer to make one Digression to execute another, or, according to the
+Custom and Practice of modern Authors, beg a thousand Pardons of the
+Reader, before I am certain of having committed one Offence. Such a
+Procedure seems preposterous. For when an Author happens to digress,
+and take a Trip ὑπὲρ τὰ ἐσκαμμένα, beyond the Bounds prescrib’d;
+the best, the only consistent thing he can do, is to take his Chance
+for the Event. If what he has said does not immediately relate to the
+Matter in Hand, it may nevertheless be _a propos_, and good in its
+Kind; and then instead of Censure, he will probably meet with Thanks;
+but if it be not good, no prefatory Excuses will make it so: And
+besides, it will ever be insisted on, that ’tis an easier Matter to
+strike out bad Digressions, than it is to write good
+Apologies.
+
+One Word more, and then I have done. Since Mr. _Budgell_ has thought
+fit to censure Mr. _de la Bruyere_, for troubling his Reader with
+_Notes_, I think my self oblig’d, in order to justify both Mr. _de la
+Bruyere_ and my self, to shew that this Censure is very unreasonable,
+and very unjust.[D] Mr. _Budgell’s_ Words are as follow.
+
+  _Theophrastus_, at the Time he writ, referr’d to nothing but what
+  was well known to the meanest Person in _Athens_; but as Mr. _Bruyere_
+  has manag’d it, by hinting at too many _Grecian_ Customs, a modern
+  Reader is oblig’d to peruse one or two _Notes_, which are frequently
+  longer than the Sentence it self he wou’d know the meaning of. But if
+  those Manners and Customs, which _Theophrastus_ alludes to, were, in
+  his Time, well known to the meanest _Athenian_, it does not follow
+  that they are now so well known to a modern Reader.
+
+  [D: Preface to his Translation of _Theophrastus_.]
+
+_Mr. _de la Bruyere’s_ Fault does not consist in having put _Notes_
+to his Translation, but rather in not having put enough. When a
+Translator of an antient Author intends to preserve the peculiar
+Character of the Original, _Notes_ become absolutely necessary to
+render the Translation intelligible to a modern Reader. The Learn’d
+may pass them over; and those, for whom _Explanatory Notes_ are
+chiefly designed, must not think it too much Trouble, to bestow a
+second Reading on the Text, after they have given a First to the
+Whole. This Trouble (if any thing ought to be call’d so that conveys
+Instruction) is no more than what many persons, who have attained to
+no small share of Knowledg in the learn’d Languages, must submit to,
+at the first Perusal of an Original Author. If in a translated Author
+any Difficulties occur, on this Head, to a modern Reader, and the
+Translator has taken Care to clear up those difficulties by adding
+_Notes_, the modern Reader ought to thank him for his Pains, and not
+think his Labour superfluous.
+
+’Tis hop’d then that the _Notes_, that I have added, will be kindly
+receiv’d. The Reader will nevertheless be at full Liberty to peruse
+them, or to pass them over. If he if but so favourable as to approve
+of the Translation it self, this will be a sufficient Satisfaction to
+the Translator, and be looked upon as no finall Commendation of the
+Performance. For a Translation, if it be well performed, ought in
+Justice to be receiv’d as a good Commentary_.
+
+
+
+
+SECT. II.
+
+
+There is no Kind of polite Writing that seems to require a deeper
+Knowledge, a livelier Imagination, and a happier Turn of Expression
+than the Characteristic. Human Nature, in its various Forms and
+Affections, is the Subject; and he who wou’d attempt a Work of this
+Kind, with some assurance of Success, must not only study other Men;
+he has a more difficult Task to perform; he must study himself. The
+deep and dark Recesses of the Heart must be penetrated, to discover
+how Nature is disguis’d into Art, and how Art puts on the Appearance
+of Nature.--This Knowledge is great; ’tis the Perfection of Moral
+Philosophy; ’tis an inestimable Treasure: But yet if it shou’d fall
+into the Hands of one, who wants proper Abilities to communicate his
+Knowledge to the World, it wou’d be of no Service but to the Owner: It
+wou’d make him, indeed, an able Philosopher, but not an able Writer of
+Characters.
+
+The Mind has its peculiar Features as well as the Body; and these
+must be represented in their genuine and native Colours, that so the
+Picture may strike, and every Reader, who is concern’d in the Work,
+may presently discover himself; and those, who are unconcern’d may,
+nevertheless, immediately perceive a just Correspondence between that
+Piece and Nature.
+
+Every Action has its proper Thought, and every Thought its proper
+Expression. And these Correspondences are not imaginary, but have a
+real Foundation in Nature: For when any one of these is wanting, the
+whole is lame and defective, but when they all meet and conspire
+together, the Character is then genuine and compleat, the Thing
+or Person design’d is drawn to the Life, and the Reader is left
+uncertain, whether the Character, that lies before him, is an Effect
+of Art, or a real Appearance of Nature.--A Master-Piece of this Kind,
+requires the Hand of one who is a Critic in Men and Manners, a Critic
+in Thoughts, and a Critic in Language.
+
+A superficial Knowledge of human Nature, will never qualify a Man to
+be a Writer of Characters. He must be a Master of the Science; and
+be able to lead a Reader, knowingly, thro’ that Labyrinth of the
+Passions, which fill the Heart of Man, and make him either a noble or
+a despicable Creature. For tho’ some, who have never attempted any
+thing of this kind, may think it an easy Matter to write two or three
+Pages of Morality with Spirit, to describe an Action, a Passion, a
+Manner; yet had they made the Experiment, the Event wou’d not have
+answer’d their Expectation, and they wou’d have found, that this easy
+Work was more difficult than they, at first, imagin’d.
+
+The Features of every single Passion must be known; the Relation which
+that Passion bears to another, must be discover’d; and the Harmony and
+Discord which result from them must be felt. Many have studied these
+Things, but few have thoroughly understood them. The Labour is vast;
+’tis almost infinite; and yet without a Knowledge of these Things,
+’twill be impossible ever to draw a Character so to the Life, as that
+it shall hit one Person, and him only.
+
+We have all of us different Souls, and our Souls have Affections
+as different from one another, as our outward Faces are in their
+Lineaments. Each Man contains a little World within himself, and
+every Heart is a new World. We cannot therefore attain to a perfect
+Knowledge of human Nature, by studying others or our selves alone, but
+by studying both. ’Tis this Knowledge which sets the Philosopher above
+the Peasant, and gives the Preference to one Author above another.
+This Knowledge has a Force, something like to that of Magic Charms: by
+the help of it one, who is Master of the Science, can turn Men inside
+outwards, and expose them to the Eyes of the World, as they really
+are, and not as they wou’d fain appear to be. By the help of this
+Knowledge an intelligent Writer can form to his Reader the most
+agreeable, most instructive Entertainment that can possibly be
+desir’d; transport him, with the greatest Ease imaginable, from the
+Solitude of his Chamber to Places of the greatest Concourse; there to
+see and learn the Virtues of Men; there to see and shun their Vices,
+without any danger of being corrupted by the Contagion of a real
+Commerce.
+
+How absolutely necessary a thorough Insight into the Heart and
+Passions of Man is to a Writer of Characters, will be more evident by
+descending to some Particulars, and pointing out some of those nice
+Circumstances, which a Writer of Characters must accurately observe,
+and by which his Capacity in this Way may be easily judg’d
+of.
+
+It must be observ’d then, that the Heart of Man is frequently actuated
+by more Passions than one: And as the same Object does, by its
+different Position, afford to the Spectator different Representations,
+so does the same Affection of the Mind, by exerting it self after a
+different manner, lay a real Foundation for so many distinct
+Characters. The under Passions may, by their various Operations, cause
+some Diversity in the Colour and Complexion of the Whole, but ’tis the
+Master-Passion which must determine the Character.
+
+Since therefore the under Parts of a Character are not essential, they
+may or may not be reciprocal. A covetous Man may be impudent, or he
+may have some share of Modesty left: On the other Hand, an impudent
+Man may be generous, or his Character may be stain’d by Avarice. And
+therefore to make the Features of one Virtue or Vice enter, as under
+Parts, into the Character of another Virtue or Vice, is so far from
+being a Transgression of the Nature of Things, that, on the contrary,
+all the Beauty of _Characteristic-Writing_, and all the Beauty which
+arises from the Variety of an agreeable Mixture, entirely depends on
+_this_. The main Difficulty consists in making the Master-Passion
+operate so conspicuously throughout the Whole, as that the Reader may,
+in every step of the Performance, immediately discover
+it.
+
+The Truth of it is, that there are some Affections of the Mind, which
+not only constitute of themselves a distinct Virtue or Vice, but are
+also the Foundation of many others. Avarice is of this extensive
+Nature; it constitutes, of it self, a distinct Character, and it
+enters into the Competition of several others. St. _Paul_ says, that
+_the love of money is the root of all evil_; which Maxim the spurious
+_Phocylides_ has express’d in the following Verse,
+
+  Ἡ φιλοχρημοσύνη μήτηρ κακότητος ἁπάσης.
+
+This Doctrine may be made yet more sensible by applying it to the
+Practice of _Theophrastus_, whose Conduct, in this Respect, ought
+to be look’d upon as an authentick Pattern. Rusticity, Avarice and
+Impudence, are in their own Nature distinct Vices, but yet there is a
+very near Relation between them, which has a real Foundation in the
+Actions of Men. And, as on the one Hand, _Theophrastus_ has drawn
+distinct Characters of these Vices, so, on the other Hand, he has made
+the peculiar Features of one or more of these Vices enter into the
+Characters of the other. This is Matter of Fact; and if the Reader
+will be at the Pains to compare the _6th_, _9th_, and _11th_,
+Chapters, as he will be perswaded of the Truth of what is here
+asserted, so will he be convinc’d, at the same Time, that
+_Theophrastus_ has not confounded by this Mixture the real Nature
+of Things, or transgress’d thereby, in any wise, the Rules of
+_Characteristic-Justice_.
+
+Again; Loquacity and an ill-tim’d Behaviour are two very different
+Vices in common Conversation; but yet _Theophrastus_ has concluded his
+Character of Loquacity, with the same Stroke which begins that of an
+ill-tim’d Behaviour; because tho’ these Vices are of a different
+Nature, yet do they not exclude each other; and the Actions of Men
+manifestly prove, that they are frequently to be found in the same
+Subject.
+
+The nice Reader therefore, instead of being offended to find the
+peculiar Features of one Vice interspers’d in the Character of
+another, ought, on the contrary, to admire the Judgment and Accuracy
+of _Theophrastus_ in this Respect: For this Mixture does not proceed
+from Inaccuracy, but is founded in Nature: And ’tis the Work of a
+sagacious Head, as well to discover the near Relations that are
+between different things, as to separate those Things, which by
+Nature are nearly related, but yet are really distinct.
+
+The Beauty of every Kind of Writing arises from the Conformity
+which it bears to Nature; and therefore the Excellency of
+_Characteristic-Writings_ must consist in exact Representations of
+human Nature.--This Harmony between Art and Nature may be call’d
+Justice: And tho’ the Boundaries of it may be more extensive in those
+Works, in which a greater Range is allow’d to the Imagination, yet
+still, Invention and Fiction must be admitted in _Characteristic-
+Writings_, when the Characters design’d are of a general Nature;
+for then the Writer does not copy from an individual Original, and
+all the Extravagances of Nature are natural, when they are well
+represented.
+
+It requires, I own, a great deal of Penetration to hit exactly this
+Point of Reality: But then it must be confess’d, that as the great
+difficulty of _Characteristic-Writing_ consists in this, so does the
+main Beauty and Force of it too: For Objects are apt to affect and
+move us according to their Presence or Absence; and a Character will
+naturally strike us more forcibly, the more the Images, which it
+consists of, are lively and natural; because the Object is then most
+present to our Mind.
+
+Since every Feature must be drawn exactly to the Life, great Care must
+be taken, that the Strokes be not too faint, nor yet too strong: For
+Characteristic-Justice is to be observ’d as strictly by the Writers of
+this Kind, as Poetic-Justice is to be by Poets. That Medium must be
+copied, which Nature it self has mark’d out; whatever falls short of
+it is poor and insipid, whatever is above it is Rant and
+Extravagance.
+
+  [E] _Quodcunque ostendis mihi sic, incredulus odi._
+
+    And whatsoever contradicts my Sense,
+    I hate to see, and never can believe.
+      Ld. _Roscommon_.
+
+  [E: Horat. Art. Poet. _v._ 188.]
+
+A consummate Delicacy of Sentiments, and an exquisite Judgment are the
+very Soul of _Characteristic-Writing_; for every particular Stroke, as
+well as the whole Character, has a proper Degree of Perfection. To
+attain this Point, and to bring the several Parts, as well as the
+Whole, exactly to this Pitch, is the Work of a sagacious Head, and
+of a perfect Judgment.--An Author, in this Kind, must not dwell too
+long upon one Idea: As soon as the masterly Stroke is given, he must
+immediately pass on to another Idea. This will give Life to the Work,
+and serve to keep up the Spirit of the Writing, and of the Reader too:
+Forif, after the masterly Stroke is given, the Author shou’d, in a
+paraphrastical Manner, still insist upon the same Idea, the Work will
+immediately flag, the Character grow languid, and the Person
+characteris’d will insensibly vanish from the Eyes of the
+Reader.
+
+An honest Writer, who has the Profit as well as the Pleasure of his
+Reader in View, ought always to tell the Truth. But as he is at
+Liberty to chuse his manner of telling it, so that Method of
+Instruction ought to be observ’d in _Characteristic-Writings_,
+which will keep up the good Humour of the Reader, altho’ he is, at
+the same Time, made sensible of his Errors. And this Artifice ought
+industriously to be pursu’d, since the proper Management of it is so
+necessary to the Success of _Characteristic-Writings_. For those who
+love and admire Truth themselves, must yet be sensible that ’tis
+generally unwelcome, both to themselves and to others, when the Point
+of Self-Interest is concern’d. And the Reason of it is, not because
+Truth is really ugly and deform’d, but because it presents to our View
+certain Inconsistencies and Errors, which Self-Love will not allow us
+to condemn. And therefore the great Art and Difficulty, in making
+Truth pleasant and profitable, is so to expose Error, as not to seem
+to make any Attacks upon the Province of Self-Love.
+
+  [F] _Omne vafer vitium ridenti Flaccus amico
+  Tangit, & admissus circum præcordia ludit,
+  Callidus excusso Populum suspendere naso._
+
+  [F: Persius Sat. I. V. 116, &c.]
+
+      ----With conceal’d Design,
+    Did crafty _Horace_ his low Numbers join:
+    And, with a sly insinuating Grace,
+    Laugh’d at his Friend, and look’d him in the Face:
+    Wou’d raise a Blush, where secret Vice he found;
+    And tickle, while he gently prob’d the Wound.
+    With seeming Innocence the Crowd beguil’d;
+    But made the desp’rate Passes, when he smil’d.
+      Mr. _Dryden_.
+
+This was the Character of one of the greatest _Roman_ Poets; and in
+this Art, amongst the Moderns, [G]_Benserade_ particularly excell’d,
+if we may believe his Successor and Panegyrist _Pavillon_.
+
+  [G: Dictionaire de _Bayle_. Artic. _Benserade._ Not. L.]
+
+What is the proper Style for _Characteristic-Writings_ is briefly laid
+down by [H]_Libanius_ in the following Words. Ἐργάση τὴν ἠθοποιίαν
+χαρακτῆρι σαφεῖ, συντόμῳ, ἀνθηρῷ, ἀπολύτῳ, ἀπηλλαγμένῳ πάσης πλοκῆς
+τε καὶ σχήματος. “When you describe Manners you must use a plain,
+concise, florid, easy Style, free from all artificial Turns and
+Figures.” Every Thing must be even, smooth, easy and unaffected;
+without any of those Points and Turns, which convey to the Mind
+nothing but a low and false Wit, in which our Moderns so much abound,
+and in which they seem to place their greatest Beauties.
+
+  [H: Ap. _Is. Casaub._ Proleg. ad Theophrast.]
+
+The primary Standard for Style is the Nature of the Subject: And
+therefore, as _Characteristic-Writings_ are professed Representations
+of Nature, an Author in this Way is immediately concern’d to use a
+simple and natural Style: Nor has he any Reason to fear, that this
+will any ways prejudice his Performance, and make it appear low, flat
+and insipid; for in Reality there is nothing more noble than a true
+Simplicity, and nothing more beautiful than Nature, when it appears in
+the easy Charms of its own native Dress.
+
+In _Characteristic-Writings_ both the Way of Thinking and the Style
+must be Laconic: Much must be contained in a little Compass. Brevity
+of Diction adds new Life to a good Thought: And since every perfect
+Stroke ought to be a distinct Representation of a particular Feature,
+Matters shou’d be so order’d, that every perfect Sentence may contain
+a perfect Thought, and every perfect Thought may represent one
+Feature.
+
+Many other Particulars might have been observ’d and recommended to
+those, who wou’d attempt a Performance in this Kind, with some
+Assurance of Success. The Laws of good Writing, in general, may and
+ought to be applied to _Characteristic-Writing_, in particular, as far
+as the Nature of it will bear. But to pursue these Things accurately,
+wou’d carry me beyond the Bounds which the Title of this Work
+prescribes to me. To shew the peculiar Nature; to point out
+the principal Beauties, and to lay down the general Laws of
+_Characteristic-Writing_, is all that was propos’d. Besides, I shall
+have Occasion, in the Sequel of this Essay, to make some further
+Observations relating to the Constitution of _Characteristic-Writings_;
+which, to prevent Repetitions, I forbear mentioning here; but if the
+Reader be religious in the Observance of a strict Method, he is at
+full Liberty to alter the Situation of them, and to refer them to this
+Section.
+
+
+
+
+SECT. IV.
+
+
+Mr. _de la Bruyere_ has given us a Translation of the Characters of
+_Theophrastus_; to which he has annex’d what he calls the Characters
+or Manners of the present Age. This Work was receiv’d with Applause,
+and the Author gain’d by it a great Reputation amongst Men of polite
+Literature. And if to make a great deal of Noise in the World, and to
+undergo several Editions, were infallible Proofs of the intrinsick
+Merit of a Book, Mr. _de la Bruyere_’s Performance would, upon both
+these Accounts, sufficiently recommend itself to our Approbation.
+--I confess, there are very considerable Beauties in this Piece: but
+yet if it should be examin’d by those Rules of Characteristic-Writing,
+which I have already mention’d, and which I take to be essential to
+Performances in this Kind, I am afraid it would not be able, in every
+Respect, to stand the Test of an impartial Examination.
+
+I do not intend to enter upon an exact Critique of this Piece; the
+intended Brevity of this Essay will permit me to take Notice of but
+some few Particulars.--I have no Design or Desire to derogate from the
+Reputation of the deceas’d Author; but this I take to be a standing
+Rule in Critical Writings, as well as in judicious Reading, that we
+ought not to be so struck with the Beauties of an Author, as to be
+blind to his Failings; nor yet so prejudiced by his Failings, as to
+be blind to his Beauties.
+
+The original Design of Characteristic-Writings is to give us real
+Images of Life. An exact Imitation of Nature is the chief Art which is
+to be us’d. The Imagination, I own, may be allow’d to work in Pieces
+of this Kind, provided it keeps within the Degrees of Probability; But
+Mr. _de la Bruyere_ gives us Characters of Men, who are not to be
+found in Nature; and, out of a false Affectation of the Wonderful, he
+carries almost every thing to Excess; represents the Irregularities of
+Life as downright Madness, and by his false Colours converts Men into
+Monsters.
+
+[I]_Troilus_ is a very supercilious Man: And ’tis no ways inconsistent
+with this Character to suppose, that he may entertain a natural
+Antipathy against an ugly Face, or a bad Voice; but our Author
+represents him as labourirg under this Distemper to such a Degree of
+Excess, as, I believe, has never been observ’d in any Man. I do not
+know by what Name it may be call’d. _Troilus_ conceives an immediate
+Aversion against a Person that enters the Room where he is; he shuns
+him, flies from him, and will throw himself out at the Window, rather
+than suffer himself to be accosted by one, whose Face and Voice he
+does not like.--Is this Humour, or, rather, are not these the genuine
+Symptoms of Madness and Phrenzy? And if _Troilus_ does really act
+after this manner, is he not rather an Object of Pity, than a Subject
+for Humour and Ridicule?
+
+  [I: De la Societè & de la Conversation. Ad init.]
+
+The Character of _Cleanthes_, in the same [K]Chapter, is a
+Misrepresentation of Nature.--“_Cleanthes_ is a very honest Man; he
+has chosen a Wife, who is the best and the most reasonable Woman in
+the World: They, each of them, in their respective Ways, make up all
+the Pleasure and Agreeableness of the Company they are in: ’Tis
+impossible to meet with more Probity or Politeness. They part to
+Morrrow, and the Deed of their Separation is ready drawn up at the
+Notary’s. There are, certainly, some Kinds of Merit that were never
+made to be together, and some Virtues that are incompatible.” But
+those who are endow’d with such good Qualities, as Mr. _de la Bruyere_
+ascribes to _Cleanthes_ and his Wife, can never agree to a willful
+Separation. Nay, ’tis a Contradiction to their Character to suppose
+that either of ’em is faln into those Circumstances, which only can
+make a Separation become lawful and just. ’Tis true, some Virtues and
+Accomplishments, as well as some Vices, may be inconsistent with each
+other. But to apply this Maxim to the present Case must betray a great
+Want of Judgment and Knowledge in the Nature of Things: For where can
+one expect to meet with a more perfect Harmony of Virtues, than in the
+reciprocal Honesty, Reason and Good-breeding of _Cleanthes_ and his
+Wife?
+
+  [K: Ibid. fere.]
+
+An absent Man often acts out of the Way of common Life, when the Fit
+of Absence is upon him; but that this Fit should dwell upon a Man,
+so long as it does upon Mr. _de la Bruyere_’s[L] _Menalcas_ I confess,
+passes my Belief.--_Menalcas_ rises in the Morning; and from that Time
+till he goes to Bed again, he never recovers from his Fit of Absence:
+The Distractions of his Mind admit of no Cessation or Interruption:
+His whole Life is a continued Series of the greatest Follies.
+_Menalcas_ is really never _Menalcas_; he has no lucid Intervals;
+he is always another Man.
+
+  [L: C. de l’Homme.]
+
+If we consult the Operations of our Soul, to discover the proper
+Causes of what is call’d _Absence of Mind_, we shall perceive that
+the Powers of it are sometimes contracted within themselves by a
+Multiplicity of Thought: In these Cases the inward Exercise of the
+Soul makes it unable to attend to any outward Object. But at other
+Times the Soul wanders from itself; and in these Cases the Soul being
+conversant about remote Objects, cannot immediately recover itself, so
+as to reflect duly on those which are present. So that this Absence of
+the Mind must proceed, either from a Fulness and Intention of Thought,
+or from a Want of Reflexion. If it proceeds from a Fulness of Thought,
+I say ’tis impossible for the Mind to keep bent so long, as that of
+_Menalcas_ does: It must necessarily have some Relaxations. If it
+proceeds from a Want of Reflexion, it must be confess’d, that he who
+can live so many Hours without reflecting, must be either wholly
+stupid, or some Degrees below the Species of Mankind.
+
+But what makes the Character of _Menalcas_ still more ridiculous
+and unnatural is, that he is stupid and sensible at the same
+Time.--_Menalcas_ is in the Drawing-Room at Court; and walking very
+majestically under a Branch of Candlestics; his Wig is caught up by
+one of them, and hangs dangling in the Air. All the Courtiers fall a
+laughing.--_Menalcas_ unluckily loses his Feeling, but still retains
+the Use of his Ears. He is insensible that his Wig is taken off his
+Head; but yet is so happy as to hear the loud Mirth of the Courtiers,
+and has still so much good Humour left as to join in Company with
+them.--_Menalcas_ plays at Backgammon.--He calls for a Glass of Water;
+’tis his Turn to throw; he has the Box in one Hand and the Glass in
+the other; and being extremely dry, and unwilling to lose Time, he
+swallows down both the Dice and almost the Box, and at the same
+Time throws the Glass of Water into the Tables.--If this is not
+to overstrain the Bow, to carry Things to an unnatural Excess and
+Extravagance, and to make no Distinction between Absence of Mind and
+Insensibility, or downright Folly, I confess, I know not what is. _Mr.
+de la Bruyere_ should have consider’d, that a Man, who has lost his
+Feeling, is not, in that Respect, a proper Subject for Ridicule,
+and that ’tis no Jest to take away a Man’s Senses. Extravagances of
+this Nature are no Beauties in any Kind of Writing, much less in
+Characteristics. In Performances of this Kind there must be Spirit and
+Strength, but especially there must be Justice. The real Images of
+Life must be represented, or the Probabilities of Nature must strictly
+be observ’d.
+
+  [M] _Respicere exemplar vitæ morumque jubebo
+  Doctum imitatorem, & vivas hinc ducere voces._
+
+    These are the likeliest Copies, which are drawn
+    By the Original of human Life.
+      Ld. _Roscommon_.
+
+  [M: Horat. in Art. Poet. _v._ 317, &c.]
+
+The Strokes which compose a Character must be bold, but not
+extravagant. Nature must not be distorted, to excite either Ridicule
+or Admiration. Reason must hold the Reins of the Imagination: Judgment
+must direct the Fancy; otherwise we shall be apt to miscarry, and
+connect inconsistent Ideas, at the very Time, when we think we hit the
+Point of Humour to the Life.
+
+The only Thing that can be said to excuse Mr. _de la Bruyere_ on this
+Head, is what the Abbot _Fleury_ has alledg’d to his Praise; namely,
+[N]that his Characters are sometimes loaded, on purpose that they
+might not too nearly resemble the Persons design’d.
+
+  [N: On trouve dans ses Characteres une severe Critique, des
+  Expressions vives, des Tours ingenieux, des Peintures quelquefois
+  chargeés exprés, pour ne les pas faire trop ressemblantes.
+  _Discours prononcé dans l’Academie Française._ 1696.]
+
+’Tis very dangerous, I confess, to make free with the Characters of
+particular Persons; for there are some Men in the World, who, tho’
+they are not asham’d of the Impropriety of their own
+
+Manners, yet are they easily offended at the public Notice which is
+taken of ’em. But tho’ Mr. _de la Bruyere_ might have very good
+prudential Reasons for not making his Characters too particular, yet
+those Reasons cannot be urg’d, as a just Plea for his transgressing
+the Bounds of Characteristic-Justice, by making his Images unnatural.
+
+In every Kind of Writing there is something of an establish’d Nature
+which is essential to it. To deviate from this, is to deviate from
+Nature it self. Mr. _de la Bruyere_ is not the only _French_ Man who
+is guilty in this Point. Others of his Country-Men have committed much
+the same Fault in Pastoral and Comedy. Out of a vain Affectation of
+saying something very extraordinary and remarkable, they have departed
+from the nature of Things: They have given to the Simplicity of the
+Country, the Airs of the Town and Court, introduced upon the Stage
+Buffoonry and Farce instead of Humour; and by misrepresenting the real
+Manners of Men, they have turn’d Nature into Grimace.
+
+The main Beauty of _Characteristic-Writings_ consists in a certain
+Life and Spirit, which the Writer ought to endeavour to keep up, by
+all the Arts which he is Master of. Nothing will contribute to this
+more, than the Observance of a strict Unity in the very Conception of
+a Character: For Characters are Descriptions of Persons and Things, as
+they are such: And, as [O]Mr. _Budgell_ has very judiciously observ’d,
+“If the Reader is diverted in the midst of a Character, and his
+Attention call’d off to any thing foreign to it, the lively Impression
+it shou’d have made is quite broken, and it loses more than half its
+Force.” But if this Doctrine be applied to the Practice of Mr. _de la
+Bruyere_, it will find him Guilty. He sometimes runs his Characters
+to so great a Length, and mixes in ’em so many Particulars and
+unnecessary Circumstances, that they justly deserve the Name, rather
+of Histories than Characters.--Such is the [P]Article concerning
+_Emira_. ’Tis an artful Description of a Woman’s Vanity, in pretending
+to be insensible to the Power of Love, merely because she has never
+been exposed to the Charms of a lovely Person; and there is nothing in
+this Character, but what is agreeable to Nature, and carried on with a
+great deal of Humour. But the many Particulars which Mr. _de la
+Bruyere_ has drawn into the Composition of it, and which, in Truth,
+are not essential to the main Design, have quite chang’d the Nature of
+the Character, and converted it into a History, or rather a little
+Romance.--’Tis true, Histories are Pictures as well as Characters; but
+yet there will ever be as wide a Difference between ’em, as there is
+between a Picture at full Length, and one in Miniature.
+
+  [O: Preface to _Theophrastus_.]
+  [P: C. des Femmes. ad fin.]
+
+The [Q]Characters of _Giton_ and _Phebon_ are humorous enough. And
+they are allow’d to be kept within the just Bounds of Probability. But
+Mr. _de la Bruyere_ has heap’d up so many Particulars and unnecessary
+Circumstances, which do not convey any new Ideas, that the Characters
+grow languid and tedious.--_Giton_ is respected; every thing that he
+says or does is approved of. _Phebon_ is despis’d; no Notice is taken
+of what he says or does. The Reason of this Difference is not so
+mysterious, but that it may be told in less than two or three Pages.
+_Giton_ is rich, and _Phebon_ is poor.
+
+  [Q: C. id. ibid. feré.]
+
+Sometimes there is such a Confusion in Mr. _de la Bruyere’s_ Designs,
+that one cannot easily discover whether he intended to draw the
+Character of a particular Person, or to make a Picture of some
+prevailing Vice, or only a moral Reflexion.--Such is the [R]Article of
+_Zenobia_. Was it design’d for the Character of _Zenobia_? But ’tis
+rather a Description of the Magnificence, and beautiful Situation of
+the Palace, which she was then building. Or was it design’d to censure
+and lash the Publicans of the Age, for the Extortions which they
+practis’d, and the immense Riches which they amass’d by Fraud and
+Oppression? But this Satir comes in only by the by, and in a very
+jejune Manner. Or lastly, was it intended only for a moral Reflexion
+on the sudden Revolutions and Vicissitudes of Fortune? But the Length
+of this Article is inconsistent with the nature of a Reflexion; and if
+any thing like this was intended, it must come in as the ἐπιμύθιον,
+the Moral of the Fable; which will make the Contents of this Article,
+still more different from the nature of a Character, than any thing
+that has yet been mentioned.
+
+  [R: C. des Biers de Fortune. sub fin.]
+
+’Tis not enough that a Character be drawn conformable to that
+Existence which it really has, or probably may have in Nature: It must
+further be cloath’d in proper Sentiments, and express’d in a simple
+and natural Style. But Mr. _de la Bruyere_, consider’d as a Writer of
+Characters, is too affected in his way of Thinking, and too artificial
+in the Turn of his Expressions.
+
+The previous Apology which he made for himself in this Point, is so
+far from the Purpose, that nothing is more so.
+
+  Recollecting, [S]says he, that amongst the Writings ascrib’d to
+  _Theophrastus_ by _Diogenes Laertius_, there is one which bears the
+  Title of _Proverbs_, i.e. of loose unconnected Observations, and
+  that the most considerable Book of Morality, that ever was made,
+  bears that Name in the sacred Writings; we have been excited by
+  such great Examples to imitate, according to our Capacity, a like
+  Way of Writing concerning Manners.
+
+--’Tis true, that in the Catalogue of _Theophrastus _ his Works,
+preserv’d by [T]_Diogenes Laertius_, there is one Book under the Title
+περὶ παροιμιῶν concerning _Proverbs_: But that, probably, was nothing
+but a Collection of some of those short, remarkable, useful, pithy
+Sayings, which are of common Use in the World, and which every Nation
+has peculiar to it self. However, tho’ we cannot exactly tell, what the
+Nature of that Performance was, because the Book is now lost, yet we are
+certain, on the other Hand, that the Design of _Solomon_ was not to
+write Characters, but to deliver some Maxims of Morality by way of
+Advice and Instruction. So that for a profess’d Writer of Characters,
+to take a Book of _Proverbs_ for a Model, is as inconsistent, as if any
+one, who intended to compose an Oration, shou’d form his Diction upon a
+Poem. _Proverbs_ consist of short Sentences, which contain in themselves
+a full and compleat Sense; and therefore they do not essentially require
+a strict Relation and Correspondence; but _Characteristic-Writings_
+do require such a strict Relation and Correspondence. And Mr. _de la
+Bruyere_ is so faulty in this Point, that almost every where he has no
+visible Connexion. --_Characteristic-Writings_ ought, I own, to have a
+lively Turn, and a Laconic Air: but there is a wide Difference between
+using a concise Manner, and writing as many Aphorisms as
+Sentences.
+
+  [S: Discours sur _Theophraste_.]
+  [T: Lib. 5. Segm. 45.]
+
+How far Mr. _de la Bruyere_ is defective as to Propriety of Style and
+Justness of Expression, I chuse to set down in the Words of one of his
+[V]Countrymen, a very judicious Writer, and a better Judge in this
+Matter than I pretend to be.
+
+  [V: Melanges de Vigneul Marville. _Edit. Rot._ T. 1. p. 336.]
+
+  Mr. _de la Bruyere_, qui n’a point de Style formé, ecrivant au
+  hazard, employe des Expressions outrées en des Choses tres communes;
+  & quand il en veut dire de plus relevées, il les affoiblit par des
+  Expressions basses, & fait ramper le fort avec le foible. Il tend
+  sans relache a un sublime qu’il ne connoit pas, & qu’il met tantot
+  dans les choses, tantot dans les Paroles, sans jamais attraper le
+  Point d’Unité, qui concilie les Paroles avec les choses, en quoi
+  consiste tout le Secret, & la Finesse de cette Art merveilleux.
+
+--This is the Censure which an ingenious Author, under the feign’d
+Name of _Vigneul Marville_, has pass’d upon Mr. _de la Bruyere’s_
+Style. However, I think my self oblig’d in Justice to inform the
+Reader, that Mr. _Coste_, in his Defence of Mr. _de la Bruyere_, has
+endeavour’d to prove that this Censure is ill grounded. But I will not
+pretend to decide in a Case of this Nature. Matters relating to Style
+are the nicest Points in Learning: The greatest Men have grosly err’d
+on this Subject. I only declare my own Opinion on the Matter, that Mr.
+_de la Bruyere_’s Style appears to me forc’d, affected, and improper
+for Characteristic Writings. Several ingenious _French_ Gentlemen, who
+have themselves writ with Applause in this Language, entertain the
+same Sentiments, and have ingenuously confess’d to me, that they could
+never read ten Pages together of Mr. _de la Bruyere_, without feeling
+such an Uneasiness and Pain, as arises from a continued Affectation
+and a perpetual Constraint. But the Reader is still left free. To form
+a right Judgment on Correctness is an easy Matter by the ordinary
+Rules of Grammar, but to do the same concerning the Turn and Air, and
+peculiar Beauties of Style, depends on a particular Taste: They are
+not capable of being prov’d to those who have not this Taste, but to
+those who have it, they are immediately made sensible by a bare
+pointing out.
+
+The running Title which Mr. _de la Bruyere_ has given to his Book
+does, by no Means, square with the several Parts of it. With Relation
+to my present Purpose I observe, that, strictly speaking, this
+Performance is, but in Part, of the Characteristic-Kind. The
+Characters, which are interspers’d in it, being reducible to a very
+narrow Compass, and the main Body of it consisting of miscellaneous
+Reflexions. And these are not confin’d, as is pretended, only to the
+present Age, but extend themselves both to past and present Times. So
+that if Mr. _de la Bruyere_ had, with his View, chosen another Title
+for his Book, tho’ it wou’d not have been so uncommon, yet wou’d it
+have been more proper than the present Title; and the Performance it
+self wou’d then, in some Measure, have less deserv’d
+Censure.
+
+Tho’ Mr. _de la Bruyere’s_ Work is not perfect in that Kind, in which
+it is pretended to excel, it must nevertheless be confess’d, that it
+has many Beauties and Excellencies. To deny this, wou’d be an Affront
+to the Judgment of the Gentlemen of the _French_ Academy: But yet our
+Complaisance ought not, cannot go so far, as to prejudice our own
+Judgment. We cannot think, as [X]some of ’em did, that Mr. _de la
+Bruyere_ has excell’d _Theophrastus_, the great Original which he
+propos’d to himself. Mr. _de la Bruyere_ had a more modest Opinion
+of himself: He wou’d have been proud of the Title of _little
+Theophrastus_. And in Truth, it deserves no small Share of Praise, to
+come up to _Theophrastus_ in any Degree of Comparison.--If then Mr.
+_de la Bruyere_ has committed some Faults, ’tis nothing but what
+others have done, both before and since him: But if he has, as I have
+already allow’d him to have, some considerable Beauties; ’tis more
+than a great many other Authors have, tho’ of greater Bulk: And these
+Excellencies ought in Justice to be admitted as some Excuse for those
+Defects.
+
+  [X: Discours de l’Abbé Fleury deja cité.]
+
+
+
+
+SECT. V.
+
+
+Theophrastus has not only prevented, but he has also out-done the
+Moderns in _Characteristic-Writings_. Yet Mr. _de la Rochefoucault_
+had an extraordinary Genius. He seems to be the only one, amongst
+all the Moderns, who was equal to so great a Work. He had studied Man
+in himself; and, in a small Collection of moral Reflexions, he has
+laid open the various Forms and Folds of that Heart, which by Nature
+is deceitful above all Things. He has given us, as it were, the
+Characters of all Mankind, by discovering those secret Springs of Self
+Love, which are the Source of all our _Actions_.--Self Love is born
+with us; and this great Author has shewn, that there is no Principle
+in human Nature so secret, so deceitful: ’Tis so Hypocritical, that it
+frequently imposes on it self, by taking the Appearances of Virtue for
+Virtue it self. It borrows all the Disguises of Art: It appears in a
+thousand Forms, and in a thousand Shapes; but yet the Principle of
+Error is still the same.
+
+  [Y] ---- _Velut Silvis ubi passim
+  Palantes Error certo de Tramite pellit,
+  Ille sinistrorsum, hic dextrorsum abit: unus utrique
+  Error, sed variis illudit Partibus._
+
+    As Men that lose their Ways in Woods, divide,
+    Some go on this, and some on t’other Side.
+    The Error is the same, all miss the Road,
+    Altho’ in different Quarters of the Wood.
+
+        Mr. _Creech_.
+
+  [Y: Horat. Lib. 2. Sat. 3. v. 48, _&c_.]
+
+’Tis true Mr. _de la Rochefoucault_’s Design was too general, and his
+Piece cannot properly be reckoned among _Characteristic-Writings_. But
+tho’ he did not professedly write Characters, yet this Work shews that
+he was very able to do it; and it may be of very great Service to
+those, who wou’d attempt any thing in this Kind.
+
+I have often wonder’d that no _English_ Writer has ever professedly
+attempted a Performance in the Characteristic-Way. I mean, such a
+profess’d Performance, as wou’d extend it self to the different
+Conditions of Men, and describe the various Ends which they propose to
+themselves in Life; as wou’d take in the chief Branches of Morality
+and Behaviour, and, in some Measure, make a compleat Work: For as to
+loose Attempts and Sketches in this Kind, there are many Years since
+we had some; the most considerable of which, I mean of those that bear
+the Title of Characters, are printed together with Sir _Thomas
+Overbury_’s Wife. These are said to have been written, partly by that
+unfortunate Knight, and partly by some of his Friends. And if the
+Editor had not taken Care to give us this Notice, yet still that great
+Disparity which appears but too visibly in them, wou’d manifestly
+prove that they were compos’d by very different Hands.--There are,
+I confess, many good Things to be met with in these Characters, but
+they are very far from making a compleat Work: And really this was not
+intended. Besides, nothing can possibly be more contrary to the Nature
+of _Characteristic-Writings_, than the corrupted Taste which prevail’d
+in the Age. A continued Affectation of far-fetch’d and quaint
+Simile’s, which runs thro’ almost all these Characters, makes ’em
+appear like so many Pieces of mere Grotesque; and the Reader must
+not expect to find Persons describ’d as they really are, but rather
+according to what they are thought to be like.
+
+This Censure may be thought hard; but yet it leaves Room for some
+Exceptions: And that I may do Justice to Merit, where it is really
+due, I shall here set down one of those Characters, which seem’d to me
+to be exquisite in its Kind. And this I shall the rather do, because
+the Book it self is not in every body’s Hands. The Image is taken from
+low Life; ’tis a beautiful Description of Nature in its greatest
+Simplicity, and ’tis the more beautiful because ’tis natural.
+
+  A fayre and happy MILKE MAID.
+
+  Is a Country Wench, that is so farre from making herselfe
+  beautifull by Art, that one Looke of hers is able to put all
+  _Face-Physicke_ out of Countenance. Shee knowes a fayre Looke is but
+  a dumbe Orator to commend Vertue, therefore mindes it not. All her
+  Excellencies stand in her so silently, as if they had stolne upon her
+  without her Knowledge. The Lining of her Apparell (which is her selfe)
+  is farre better than Outsides of Tissew: for tho’ shee be not arraied
+  in the Spoyle of the Silke Worme, shee is deckt in Innocency, a far
+  better Wearing. Shee doth not, with lying long a Bed, spoile both her
+  Complexion and Conditions; Nature hath taught her, _too immoderate
+  Sleepe is rust to the Soul_: She rises therefore with _Chaunticleare_
+  her Dames Cocke, and at Night makes the Lambe her _Corfew_. In milking
+  a Cow, and straining the Teates through her Fingers, it seemes that so
+  sweet a Milke-Presse makes the Milke the whiter, or sweeter; for never
+  came Almond Glove or Aromatique Oyntment on her Palme to taint it. The
+  golden Eares of Corn fall and kisse her Feete when shee reapes them,
+  as if they wisht to be bound and led Prisoners by the same Hand that
+  fell’d them. Her Breath is her owne, which sents all the Yeere long
+  of _June_, like a new made Hay-cocke. Shee makes her Hand hard with
+  Labour, and her Heart soft with Pitty: And when Winter Evenings fall
+  early (sitting at her merry Wheele) she sings a Defiance to the giddy
+  Wheele of Fortune. Shee doth all things with so sweet a Grace it
+  seemes _Ignorance_ will not suffer her to do Ill, being her Minde is
+  to do Well. Shee bestowes her Yeeres Wages at next Faire; and in
+  chusing her Garments, counts no Bravery i’th’ World, like Decency. The
+  Garden and Bee-hive are all her Physicke and Chyrurgerie, and shee
+  lives the longer for’t. Shee dares goe alone, and unfold Sheepe i’th’
+  Night, and feares no manner of Ill, because shee meanes none: Yet to
+  say Truth, shee is never alone, for shee is still accompanied with old
+  Songs, honest Thoughts, and Prayers, but short ones; yet they have
+  their Efficacy, in that they are not pauled with insuing idle
+  Cogitations. Lastly, her Dreames are so chaste, that shee dare tell
+  them; onely a Fridaies Dreame is all her Superstition; _that_ she
+  conceales for feare of Anger. Thus lives shee, and all her Care is
+  shee may die in the Spring-Time, to have Store of Flowers stucke upon
+  her winding Sheet.
+
+What makes me wonder that no _English_ Writer has ever attempted a
+profess’d Performance in the _Characteristic-Way_ is, that we are,
+certainly, more able to undertake a Work of this Nature than any other
+Nation; because our Countrymen afford a greater Variety of Subject
+Matter than any other People.--Human Nature, as I observ’d before, in
+its various Forms and Affections, is the Subject of _Characteristic-
+Writings_: And from this Diversity of Manners arises that, which is
+properly call’d _Humour_, and which, upon a double Account, seems to
+be peculiar to our Nation; not only because there is no Word in any
+other Language so expressive, but also because there is no Nation, in
+which we can find a greater Variety of original _Humour_, than amongst
+the _English_. Sir _William Temple_, speaking of the Dramatic
+Performances of the Stage, expresses himself after the following
+Manner.--[Z]
+
+  [Z: Essay on Poetry, p. 355, _&c_.]
+
+  In this the _Italian_, the _Spanish_, and the _French_, have all had
+  their different Merit, and receiv’d their just Applauses. Yet I am
+  deceiv’d, if our _English_ has not in some Kind excell’d both the
+  Modern and the Antient; which has been by Force of a Vein, natural
+  perhaps to our Country, and which with us is call’d _Humour_, a Word
+  peculiar to our Language too, and hard to be express’d in any other;
+  nor is it (that I know of) found in any Foreign Writers, unless it be
+  _Moliere_, and yet his it self has too much of the Farce, to pass for
+  the same with ours. _Shakespear_ was the first that opened this Vein
+  upon our Stage, which has run so freely and so pleasantly ever since,
+  that I have often wonder’d to find it appear so little upon any
+  others; being a Subject so proper for them, since _Humour_ is but
+  a Picture of particular Life, as Comedy is of general; and tho’ it
+  represents Dispositions and Customs less common, yet they are not
+  less natural than those that are more frequent among Men.
+
+_Humour_ is the only genuine Source of all that agreeable Variety of
+original Characters, which is so entertaining to a Spectator and
+Reader: And Sir _William Temple_ proceeds to observe, that in this
+Point the Moderns in general, and the _English_ in particular, have
+far excell’d the Antients. This Observation is very just, however
+partial it may seem to a Foreigner, and the Reason of it is very
+obvious. I shall represent ’em both in Sir _William_’s own Words. The
+Passage is somewhat long, but the Goodness of it will amply pay the
+Reader for his Trouble in perusing it.
+
+  It may seem a Defect (says he) in the antient Stage, that the
+  Characters introduc’d were so few, and those so common, as a
+  covetous old Man, an amorous young, a witty Wench, a crafty Slave,
+  a bragging Soldier. The Spectators met nothing upon the Stage, but
+  what they met in the Streets, and at every Turn. All the Variety is
+  drawn only from different and uncommon Events; whereas if the
+  Characters are so too, the Diversity and the Pleasure must needs be
+  the more. But as of most general Customs in a Country, there is
+  usually some Ground, from the Nature of the People or Climat, so
+  there may be amongst us for this Vein of our Stage, and a greater
+  Variety of _Humour_ in the Picture, because there is a greater
+  Variety in the Life. This may proceed from the native Plenty of our
+  Soil, the Unequalness of our Climat, as well as the Ease of our
+  Government, and the Liberty of professing Opinions and Factions,
+  which perhaps our Neighbours may have about them, but are forc’d to
+  disguise, and thereby they may come in Time to be extinguish’d.
+  Plenty begets Wantonness and Pride, Wantonness is apt to invent,
+  and Pride scorns to imitate; Liberty begets Stomach or Heart,
+  and Stomach will not be constrain’d. Thus we come to have more
+  Originals, and more that appear what they are; we have more
+  _Humour_, because every Man follows his own, and takes a Pleasure,
+  perhaps a Pride, to shew it.
+
+--_Shakespear_, _Johnson_, _Shadwell_, _Etherege_, and _Wycherly_ have
+shewn the Richness of this Source: They excell’d in the Variety and
+_Humour_ of the Characters which they exhibited; and in this they have
+receiv’d just Applauses: But yet they did not exhaust the Spring from
+whence they drew: The ingenious Mr. _Congreve_ has pursu’d the same
+Vein of _Humour_; and he has imitated his Predecessors so well, that
+he has by far out-done ’em all. In his Dramatic-Pieces there is the
+greatest Variety of _Humour_ and of original Characters, set off by
+the greatest Delicacy of Sentiments, and adorn’d with the Beauties of
+the justest Diction that can possibly be imagined. Mr. _Dryden_ must
+be allow’d to be a competent Judge in an Affair of this Nature, and he
+has given us the true Character and Panegyric of Mr. _Congreve_ in the
+following Lines.
+
+  In him all Beauties of this Age we see;          }
+  _Etherege_ his Courtship, _Southern_’s Purity;   }
+  The Satir, Wit and Strength of manly _Wicherly_. }
+
+’Tis true, there is some Difference between the Characters which
+enter into the Composition of Dramatic Pieces, and those which are
+represented by _Characteristic-Writers_; but this Difference is so
+small, that I doubt not but he, who is an able Master in one of these
+Kinds, would as successfully perform in the other. For, in reality,
+the essential Parts of the Characters, in the _Drama_, and in
+_Characteristic-Writings_, are the same. They are both an Image of one
+Life; a Representation of one Person: All the Diversity lies in the
+different Manner of representing the same Image. The _Drama_ presents
+to the Eyes of a Spectator an Actor, who speaks and acts as the
+Person, whom he represents, is suppos’d to speak and act in real Life.
+The _Characteristic_ Writer introduces, in a descriptive manner,
+before a Reader, the same Person, as speaking and acting in the same
+manner: And both must be perform’d in such a natural and lively
+manner, as may deceive the Spectator and Reader, and make them fancy
+they see the Person represented or characteris’d.
+
+But tho’ no _English_ Author has attempted a Performance in this Kind,
+yet it must be confess’d that in some late diurnal Papers we have had
+excellent Specimens in the Characteristic-Way. The Papers, which I
+mean to point out, are the _Tatlers_ and the _Spectators_. They are of
+the miscellaneous Kind, and were design’d for the universal Delight
+and Instruction of the _British_ Nation. In these Papers are contained
+Abundance of true Wit and _Humour_, lively Descriptions of human
+Nature in its various Forms and Disguises, the Praises of Virtue,
+and pointed Satir against Vice; and here and there are interspers’d
+Characters of Men and Manners compleatly drawn to the Life.--If the
+great Authors, who were concerned in the Composition of those Papers,
+would have join’d their Abilities to form a Work of this Kind, I doubt
+not but it would have been inimitable, and deserv’d the next Place,
+in Point of Fame, to that of _Theophrastus_: For this is the highest
+Pitch to which Moderns can aspire. A greater Design would be
+Presumption, and would only serve to shew the greater Vanity of the
+Attempt. An establish’d Reputation of above two thousand Years cannot
+be easily shaken. _Theophrastus_ is, and ever will be, an Original in
+_Characteristic-Writings_. His Fame still lives in our Memory, and the
+Main of his Characters still subsists in our Actions.
+
+
+                    _FINIS._
+
+
+       *       *       *       *       *
+
+  PUBLICATIONS OF THE AUGUSTAN REPRINT SOCIETY
+              FIRST YEAR (1946-47)
+
+[Transcriber’s Note:
+Many of the listed titles are or will be available from Project
+Gutenberg. Where possible, the e-text number is given in brackets.]
+
+Numbers 1-4 out of print. [#13484, #14528, #14973]
+
+5.  Samuel Wesley’s _Epistle to a Friend Concerning Poetry_ (1700)
+    and _Essay on Heroic Poetry_ (1693).
+
+6.  _Representation of the Impiety and Immorality of the Stage_
+    (1704) and _Some Thoughts Concerning the Stage_ (1704). [#15656]
+
+
+SECOND YEAR (1947-1948)
+
+7.  John Gay’s _The Present State of Wit_ (1711); and a section on
+    Wit from _The English Theophrastus_ (1702). [#14800]
+
+8.  Rapin’s _De Carmine Pastorali_, translated by Creech (1684).
+    [#14495]
+
+9.  T. Hanmer’s (?) _Some Remarks on the Tragedy of Hamlet_ (1736).
+    [#14899]
+
+10. Corbyn Morris’ _Essay towards Fixing the True Standards of Wit,
+    etc._ (1744). [#16233]
+
+11. Thomas Purney’s _Discourse on the Pastoral_ (1717). [#15313]
+
+12. Essays on the Stage, selected, with an Introduction by Joseph
+    Wood Krutch.
+
+
+THIRD YEAR (1948-1949)
+
+13. Sir John Falstaff (pseud.), _The Theatre_ (1720).
+
+14. Edward Moore’s _The Gamester_ (1753). [#16267]
+
+15. John Oldmixon’s _Reflections on Dr. Swift’s Letter to Harley_
+    (1712); and Arthur Mainwaring’s _The British Academy_ (1712).
+
+16. Nevil Payne’s _Fatal Jealousy_ (1673).
+
+17. Nicholas Rowe’s _Some Account of the Life of Mr. William
+    Shakespeare_ (1709).
+
+18. “Of Genius,” in _The Occasional Paper_, Vol. III, No. 10 (1719);
+    and Aaron Hill’s Preface to _The Creation_ (1720). [#15870]
+
+
+FOURTH YEAR (1949-1950)
+
+19. Susanna Centlivre’s _The Busie Body_ (1709).
+
+20. Lewis Theobold’s _Preface to The Works of Shakespeare_ (1734).
+    [In Preparation]
+
+21. _Critical Remarks on Sir Charles Grandison, Clarissa, and
+    Pamela_ (1754).
+
+22. Samuel Johnson’s _The Vanity of Human Wishes_ (1749) and Two
+    _Rambler_ papers (1750). [#13350]
+
+23. John Dryden’s _His Majesties Declaration Defended_ (1681). [#15074]
+
+24. Pierre Nicole’s _An Essay on True and Apparent Beauty in Which
+    from Settled Principles is Rendered the Grounds for Choosing and
+    Rejecting Epigrams_, translated by J.V. Cunningham.
+
+
+FIFTH YEAR (1950-51)
+
+25. Thomas Baker’s _The Fine Lady’s Airs_ (1709). [#14467]
+
+26. Charles Macklin’s _The Man of the World_ (1792). [#14463]
+
+27. Frances Reynolds’ _An Enquiry Concerning the Principles of
+    Taste, and of the Origin of Our Ideas of Beauty, etc._ (1785).
+    [#13485]
+
+28. John Evelyn’s _An Apologie for the Royal Party_ (1659); and
+    _A Panegyric to Charles the Second_ (1661).
+
+29. Daniel Defoe’s _A Vindication of the Press_ (1718). [#14084]
+
+30. Essays on Taste from John Gilbert Cooper’s _Letters Concerning
+    Taste_, 3rd edition (1757), & John Armstrong’s _Miscellanies_
+    (1770). [#13464]
+
+31. Thomas Gray’s _An Elegy Wrote in a Country Church Yard_ (1751);
+    and _The Eton College Manuscript_. [#15409]
+
+32. Prefaces to Fiction; Georges de Scudéry’s Preface to _Ibrahim_
+    (1674), etc. [#14525]
+
+
+
+
+William Andrews Clark Memorial Library: University of California
+
+THE AUGUSTAN REPRINT SOCIETY
+
+_General Editors_
+
+H. RICHARD ARCHER
+William Andrews Clark Memorial Library
+
+R.C. BOYS
+University of Michigan
+
+E.N. HOOKER
+University of California, Los Angeles
+
+JOHN LOFTIS
+University of California, Los Angeles
+
+The Society exists to make available inexpensive reprints (usually
+facsimile reproductions) of rare seventeenth and eighteenth century
+works. The editorial policy of the Society continues unchanged. As in
+the past, the editors welcome suggestions concerning publications. All
+income of the Society is devoted to defraying cost of publication and
+mailing.
+
+
+Publications for the sixth year [1951-1952]
+
+(At least six items, most of them from the following list, will be
+reprinted.)
+
+Thomas Gray: _An Elegy Wrote in a Country Church Yard_ (1751).
+Introduction by George Sherburn. [#15409]
+
+James Boswell, Andrew Erskine, and George Dempster: _Critical
+Strictures on the New Tragedy of Elvira_ (1763). Introduction by
+Frederick A. Pottle. [#15857]
+
+_An Essay on the New Species of Writing Founded by Mr. Fielding_
+(1751). Introduction by James A. Work.
+
+Henry Gally: _A Critical Essay on Characteristic Writing_ (1725).
+Introduction by Alexander Chorney.
+
+[John Phillips]: _Satyr Against Hypocrits_ (1655). Introduction by
+Leon Howard.
+
+_Prefaces to Fiction._ Selected and with an Introduction by Benjamin
+Boyce. [#14525]
+
+Thomas Tyers: _A Biographical Sketch of Dr. Samuel Johnson_ ([1785]).
+Introduction by Gerald Dennis Meyer.
+
+
+       *       *       *       *       *
+
+[Problems Noted by Transcriber:
+
+p. xv, xvii, xxiv
+  judg; knowledg
+    _spellings as in original_
+
+p. 16
+  is said to have been done upon
+    _original has_ is sa d to...
+
+p. 78
+  and in a very / jejune Manner
+    _original has_ ...j june Manner
+
+p. 88
+  yet this Work shews
+    _original has_ ye  this Work... (_with extra space_)
+
+List of ARS Publications:
+  20. Lewis Theobold’s _Preface to The Works of Shakespeare_ (1734).
+    _so in original: correct spelling is_ Theobald
+
+Publications for the sixth year:
+  ...Gray’s _Elegy_ and ..._Prefaces to Fiction_)
+    _so in original: see titles 31 and 32, fifth year_ ]
+
+
+
+
+
+End of the Project Gutenberg EBook of A Critical Essay on
+Characteristic-Writings, by Henry Gally
+
+*** END OF THIS PROJECT GUTENBERG EBOOK A CRITICAL ESSAY ***
+
+***** This file should be named 16299-0.txt or 16299-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/6/2/9/16299/
+
+Produced by David Starner, Louise Hope and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

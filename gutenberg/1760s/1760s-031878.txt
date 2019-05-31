@@ -1,0 +1,1784 @@
+﻿Project Gutenberg's Discovery of Oxygen, Part 2, by Carl Wilhelm Scheele
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Discovery of Oxygen, Part 2
+
+Author: Carl Wilhelm Scheele
+
+Release Date: August 9, 2008 [EBook #26243]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK DISCOVERY OF OXYGEN, PART 2 ***
+
+
+
+
+Produced by Bryan Ness, Viv and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+DISCOVERY OF OXYGEN
+
+PART 2
+
+EXPERIMENTS BY
+
+CARL WILHELM SCHEELE
+
+(1777)
+
+Re issue Edition:
+
+Published for THE ALEMBIC CLUB
+
+BY
+
+E. & S. LIVINGSTONE LTD.
+
+16 & 17 TEVIOT PLACE
+
+EDINBURGH
+
+1964
+
+[Illustration]
+
+
+
+
+PREFACE
+
+
+The portions of Scheele's "Chemical Treatise on Air and Fire" here
+reproduced in English are intended to form a companion volume to No. 7
+of the Club Reprints, which contains Priestley's account of his
+discovery of oxygen. Not only have the claims of Scheele to the
+independent discovery of this gas never been disputed, but the valuable
+volume of "Letters and Memoranda" of Scheele, edited by Nordenskjöld,
+which was published in 1892, places it beyond doubt that Scheele had
+obtained oxygen by more than one method at least as early as Priestley's
+first isolation of the gas, although his printed account of the
+discovery only appeared about two years after Priestley's. The evidence
+of this has been found in Scheele's laboratory notes, which are still
+preserved in the Royal Academy of Science in Stockholm.
+
+In his "Chemical Treatise" Scheele endeavours, at considerable length,
+to prove by experiments his views as to the compound character of heat
+and of light. These portions of the work have been entirely omitted from
+what is reproduced here. All the places where omissions have been made
+are indicated.
+
+Every care has been taken in the endeavour to make the translation a
+faithful reproduction of the meaning of the original, whilst literal
+accuracy has been aimed at rather than literary elegance.
+
+L. D.
+
+
+
+
+CHEMICAL TREATISE ON AIR AND FIRE.[A]
+
+
++1.+ It is the object and chief business of chemistry to skilfully
+separate substances into their constituents, to discover their
+properties, and to compound them in different ways.
+
+How difficult it is, however, to carry out such operations with the
+greatest accuracy, can only be unknown to one who either has never
+undertaken this occupation, or at least has not done so with sufficient
+attention.
+
+
++2.+ Hitherto chemical investigators are not agreed as to how many
+elements or fundamental materials compose all substances. In fact this
+is one of the most difficult problems; some indeed hold that there
+remains no further hope of searching out the elements of substances.
+Poor comfort for those who feel their greatest pleasure in the
+investigation of natural things! Far is he mistaken, who endeavours to
+confine chemistry, this noble science, within such narrow bounds! Others
+believe that earth and phlogiston are the things from which all material
+nature has derived its origin. The majority seem completely attached to
+the peripatetic elements.
+
+
++3.+ I must admit that I have bestowed no little trouble upon this
+matter in order to obtain a clear conception of it. One may reasonably
+be amazed at the numerous ideas and conjectures which authors have
+recorded on the subject, especially when they give a decision respecting
+the fiery phenomenon; and this very matter was of the greatest
+importance to me. I perceived the necessity of a knowledge of fire,
+because without this it is not possible to make any experiment; and
+without fire and heat it is not possible to make use of the action of
+any solvent. I began accordingly to put aside all explanations of fire;
+I undertook a multitude of experiments in order to fathom this beautiful
+phenomenon as fully as possible. I soon found, however, that one could
+not form any true judgment regarding the phenomena which fire presents,
+without a knowledge of the air. I saw, after carrying out a series of
+experiments, that air really enters into the mixture of fire, and with
+it forms a constituent of flame and of sparks. I learned accordingly
+that a treatise like this, on fire, could not be drawn up with proper
+completeness without taking the air also into consideration.
+
+[Footnote A: Carl Wilhelm Scheele's Chemische Abhandlung von der Luft
+und dem Feuer. Upsala and Leipzig, 1777.]
+
+
++4.+ Air is that fluid invisible substance which we continually breathe,
+which surrounds the whole surface of the earth, is very elastic, and
+possesses weight. It is always filled with an astonishing quantity of
+all kinds of exhalations, which are so finely subdivided in it that they
+are scarcely visible even in the sun's rays. Water vapours always have
+the preponderance amongst these foreign particles. The air, however, is
+also mixed with another elastic substance resembling air, which differs
+from it in numerous properties, and is, with good reason, called aerial
+acid by Professor Bergman. It owes its presence to organised bodies,
+destroyed by putrefaction or combustion.
+
+
++5.+ Nothing has given philosophers more trouble for some years than
+just this delicate acid or so called fixed air. Indeed it is not
+surprising that the conclusions which one draws from the properties of
+this elastic acid are not favourable to all who are prejudiced by
+previously conceived opinions. These defenders of the Paracelsian
+doctrine believe that the air is in itself unalterable; and, with Hales,
+that it really unites with substances thereby losing its elasticity; but
+that it regains its original nature as soon as it is driven out of these
+by fire or fermentation. But since they see that the air so produced is
+endowed with properties quite different from common air, they conclude,
+without experimental proofs, that this air has united with foreign
+materials, and that it must be purified from these admixed foreign
+particles by agitation and filtration with various liquids. I believe
+that there would be no hesitation in accepting this opinion, if one
+could only demonstrate clearly by experiments that a given quantity of
+air is capable of being completely converted into fixed or other kind of
+air by the admixture of foreign materials; but since this has not been
+done, I hope I do not err if I assume as many kinds of air as experiment
+reveals to me. For when I have collected an elastic fluid, and observe
+concerning it that its expansive power is increased by heat and
+diminished by cold, while it still uniformly retains its elastic
+fluidity, but also discover in it properties and behaviour different
+from those of common air, then I consider myself justified in believing
+that this is a peculiar kind of air. I say that air thus collected must
+retain its elasticity even in the greatest cold, because otherwise an
+innumerable multitude of varieties of air would have to be assumed,
+since it is very probable that all substances can be converted by
+excessive heat into a vapour resembling air.
+
+
++6.+ Substances which are subjected to putrefaction or to destruction by
+means of fire diminish, and at the same time consume, a part of the air;
+sometimes it happens that they perceptibly increase the bulk of the air,
+and sometimes finally that they neither increase nor diminish a given
+quantity of air; phenomena which are certainly remarkable. Conjectures
+can here determine nothing with certainty, at least they can only bring
+small satisfaction to a chemical philosopher, who must have his proofs
+in his hands. Who does not see the necessity of making experiments in
+this case, in order to obtain light concerning this secret of nature?
+
+
++7. General properties of ordinary air.+
+
+(1.) Fire must burn for a certain time in a given quantity of air. (2.)
+If, so far as can be seen, this fire does not produce during combustion
+any fluid resembling air, then, after the fire has gone out of itself,
+the quantity of air must be diminished between a third and a fourth
+part. (3.) It must not unite with common water. (4.) All kinds of
+animals must live for a certain time in a confined quantity of air. (5.)
+Seeds, as for example peas, in a given quantity of similarly confined
+air, must strike roots and attain a certain height with the aid of some
+water and of a moderate heat.
+
+Consequently, when I have a fluid resembling air in its external
+appearance, and find that it has not the properties mentioned, even when
+only one of them is wanting, I feel convinced that it is not ordinary
+air.
+
+
++8. Air must be composed of elastic fluids of two kinds.+
+
++First Experiment.+--I dissolved one ounce of alkaline liver of sulphur
+in eight ounces of water; I poured 4 ounces of this solution into an
+empty bottle capable of holding 24 ounces of water, and closed it most
+securely with a cork; I then inverted the bottle and placed the neck in
+a small vessel with water; in this position I allowed it to stand for 14
+days. During this time the solution had lost a part of its red colour
+and had also deposited some sulphur: afterwards I took the bottle and
+held it in the same position in a larger vessel with water, so that the
+mouth was under and the bottom above the water-level, and withdrew the
+cork under the water; immediately water rose with violence into the
+bottle. I closed the bottle again, removed it from the water, and
+weighed the fluid which it contained. There were 10 ounces. After
+subtracting from this the 4 ounces of solution of sulphur there remain 6
+ounces, consequently it is apparent from this experiment that of 20
+parts of air 6 parts have been lost in 14 days.
+
+
++9. Second Experiment.+--(_a._) I repeated the preceding experiment with
+the same quantity of liver of sulphur, but with this difference that I
+only allowed the bottle to stand a week, tightly closed. I then found
+that of 20 parts of air only 4 had been lost. (_b._) On another occasion
+I allowed the very same bottle to stand 4 months; the solution still
+possessed a somewhat dark yellow colour. But no more air had been lost
+than in the first experiment, that is to say 6 parts.
+
+
++10. Third Experiment.+--I mixed 2 ounces of caustic ley, which was
+prepared from alkali of tartar and unslaked lime and did not precipitate
+lime water, with half an ounce of the preceding solution of sulphur
+which likewise did not precipitate lime water. This mixture had a yellow
+colour. I poured it into the same bottle, and after this had stood 14
+days, well closed, I found the mixture entirely without colour and also
+without precipitate. I was enabled to conclude that the air in this
+bottle had likewise diminished, from the fact that air rushed into the
+bottle with a hissing sound after I had made a small hole in the cork.
+
+
++11. Fourth Experiment.+--(_a._) I took 4 ounces of a solution of
+sulphur in lime water; I poured this solution into a bottle and closed
+it tightly. After 14 days the yellow colour had disappeared, and of 20
+parts of air 4 parts had been lost. The solution contained no sulphur,
+but had allowed a precipitate to fall which was chiefly gypsum. (_b._)
+Volatile liver of sulphur likewise diminishes the bulk of air. (_c._)
+Sulphur, however, and volatile spirit of sulphur, undergo no alteration
+in it.
+
+
++12. Fifth Experiment.+--I hung up over burning sulphur, linen rags
+which were dipped in a solution of alkali of tartar. After the alkali
+was saturated with the volatile acid, I placed the rags in a flask, and
+closed the mouth most carefully with a wet bladder. After 3 weeks had
+elapsed I found the bladder strongly pressed down; I inverted the flask,
+held its mouth in water, and made a hole in the bladder; thereupon water
+rose with violence into the flask and filled the fourth part.
+
+
++13. Sixth Experiment.+--I collected in a bladder the nitrous air which
+arises on the dissolution of the metals in nitrous acid, and after I had
+tied the bladder tightly I laid it in a flask and secured the mouth very
+carefully with a wet bladder. The nitrous air gradually lost its
+elasticity, the bladder collapsed, and became yellow as if corroded by
+_aqua fortis_. After 14 days I made a hole in the bladder tied over the
+flask, having previously held it, inverted, under water; the water rose
+rapidly into the flask, and it remained only 2/3 empty.
+
+
++14. Seventh Experiment.+--(_a._) I immersed the mouth of a flask in a
+vessel with oil of turpentine. The oil rose in the flask a few lines
+every day. After the lapse of 14 days the fourth part of the flask was
+filled with it; I allowed it to stand for 3 weeks longer, but the oil
+did not rise higher. All those oils which dry in the air, and become
+converted into resinous substances, possess this property. Oil of
+turpentine, however, and linseed oil rise up sooner if the flask is
+previously rinsed out with a concentrated sharp ley. (_b._) I poured 2
+ounces of colourless and transparent animal oil of Dippel into a bottle
+and closed it very lightly; after the expiry of two months the oil was
+thick and black. I then held the bottle, inverted, under water and drew
+out the cork; the bottle immediately became 1/4 filed with water.
+
+
++15. Eighth Experiment.+--(_a._) I dissolved 2 ounces of vitriol of iron
+in 32 ounces of water, and precipitated this solution with a caustic
+ley. After the precipitate had settled, I poured away the clear fluid
+and put the dark green precipitate of iron so obtained, together with
+the remaining water, into the before-mentioned bottle (§ 8), and closed
+it tightly. After 14 days (during which time I shook the bottle
+frequently), this green calx of iron had acquired the colour of crocus
+of iron, and of 40 parts of air 12 had been lost. (_b._) When iron
+filings are moistened with some water and preserved for a few weeks in a
+well closed bottle, a portion of the air is likewise lost. (_c._) The
+solution of iron in vinegar has the same effect upon air. In this case
+the vinegar permits the dissolved iron to fall out in the form of a
+yellow crocus, and becomes completely deprived of this metal. (_d._) The
+solution of copper prepared in closed vessels with spirit of salt
+likewise diminishes air. In none of the foregoing kinds of air can
+either a candle burn or the smallest spark glow.
+
+
++16.+ It is seen from these experiments that phlogiston, the simple
+inflammable principle, is present in each of them. It is known that the
+air strongly attracts to itself the inflammable part of substances and
+deprives them of it: not only this may be seen from the experiments
+cited, but it is at the same time evident that on the transference of
+the inflammable substance to the air a considerable part of the air is
+lost. But that the inflammable substance[B] alone is the cause of this
+action, is plain from this, that, according to the 10th paragraph, not
+the least trace of sulphur remains over, since, according to my
+experiments this colourless ley contains only some vitriolated tartar.
+The 11th paragraph likewise shews this. But since sulphur alone, and
+also the volatile spirit of sulphur, have no effect upon the air (§ 11.
+_c._), it is clear that the decomposition of liver of sulphur takes place
+according to the laws of double affinity,--that is to say, that the
+alkalies and lime attract the vitriolic acid, and the air attracts the
+phlogiston.
+
+[Footnote B: "Das Brennbare."]
+
+It may also be seen from the above experiments, that a given quantity of
+air can only unite with, and at the same time saturate, a certain
+quantity of the inflammable substance: this is evident from the 9th
+paragraph, _letter b_. But whether the phlogiston which was lost by the
+substances was still present in the air left behind in the bottle, or
+whether the air which was lost had united and fixed itself with the
+materials such as liver of sulphur, oils, &c., are questions of
+importance.
+
+From the first view, it would necessarily follow that the inflammable
+substance possessed the property of depriving the air of part of its
+elasticity, and that in consequence of this it becomes more closely
+compressed by the external air. In order now to help myself out of these
+uncertainties, I formed the opinion that any such air must be
+specifically heavier than ordinary air, both on account of its
+containing phlogiston and also of its greater condensation. But how
+perplexed was I when I saw that a very thin flask which was filled with
+this air, and most accurately weighed, not only did not counterpoise an
+equal quantity of ordinary air, but was even somewhat lighter. I then
+thought that the latter view might be admissible; but in that case it
+would necessarily follow also that the lost air could be separated again
+from the materials employed. None of the experiments cited seemed to me
+capable of shewing this more clearly than that according to the 10th
+paragraph, because this residuum, as already mentioned, consists of
+vitriolated tartar and alkali. In order therefore to see whether the
+lost air had been converted into fixed air, I tried whether the latter
+shewed itself when some of the caustic ley was poured into lime water;
+but in vain--no precipitation took place. Indeed, I tried in several
+ways to obtain the lost air from this alkaline mixture, but as the
+results were similar to the foregoing, in order to avoid prolixity I
+shall not cite these experiments. Thus much I see from the experiments
+mentioned, that the air consists of two fluids, differing from each
+other, the one of which does not manifest in the least the property of
+attracting phlogiston, while the other, which composes between the third
+and the fourth part of the whole mass of the air, is peculiarly disposed
+to such attraction. But where this latter kind of air has gone to after
+it has united with the inflammable substance, is a question which must
+be decided by further experiments, and not by conjectures.
+
+We shall now see how the air behaves towards inflammable substances when
+they get into fiery motion. We shall first consider that kind of fire
+which does not give out during the combustion any fluid resembling air.
+
+
++17. First Experiment.+--I placed 9 grains of phosphorus from urine in a
+thin flask, which was capable of holding 30 ounces of water, and closed
+its mouth very tightly. I then heated, with a burning candle, the part
+of the flask where the phosphorus lay; the phosphorus began to melt, and
+immediately afterwards took fire; the flask became filled with a white
+cloud, which attached itself to the sides like white flowers; this was
+the dry acid of phosphorus. After the flask had become cold again, I
+held it, inverted, under water and opened it; scarcely had this been
+done when the external air pressed water into the flask; this water
+amounted to 9 ounces.
+
+
++18. Second Experiment.+--When I placed pieces of phosphorus in the same
+flask and allowed it to stand, closed, for 6 weeks, or until it no
+longer glowed, I found that 1/3 of the air had been lost.
+
+
++19. Third Experiment.+--I placed 3 teaspoonfuls of iron filings in a
+bottle capable of holding 2 ounces of water; to this I added an ounce of
+water, and gradually mixed with them half an ounce of oil of vitriol. A
+violent heating and fermentation took place. When the froth had somewhat
+subsided, I fixed into the bottle an accurately fitting cork, through
+which I had previously fixed a glass tube A (Fig. 1). I placed this
+bottle in a vessel filled with hot water, B B (cold water would greatly
+retard the solution). I then approached a burning candle to the orifice
+of the tube, whereupon the inflammable air took fire and burned with a
+small yellowish-green flame. As soon as this had taken place, I took a
+small flask C, which was capable of holding 20 ounces of water, and held
+it so deep in the water that the little flame stood in the middle of the
+flask. The water at once began to rise gradually into the flask, and
+when the level had reached the point D the flame went out. Immediately
+afterwards the water began to sink again, and was entirely driven out of
+the flask. The space in the flask up to D contained 4 ounces, therefore
+the fifth part of the air had been lost. I poured a few ounces of lime
+water into the flask in order to see whether any aerial acid had also
+been produced during the combustion, but I did not find any. I made the
+same experiment with zinc filings, and it proceeded in every way
+similarly to that just mentioned. I shall demonstrate the constituents
+of this inflammable air further on; for, although it seems to follow
+from these experiments that it is only phlogiston, still other
+experiments are contrary to this.
+
+We shall now see the behaviour of air towards that kind of fire which
+gives off, during the combustion, a fluid resembling air.
+
+[Illustration: _Fig. 1._]
+
+[Illustration: _Fig. 2._]
+
+[Illustration: _Fig. 3._]
+
+[Illustration: _Fig. 4._]
+
+[Illustration: _Fig. 5._]
+
+
++20. Fourth Experiment.+--It is well known that the flame of a candle
+absorbs air; but as it is very difficult, and, indeed, scarcely
+possible, to light a candle in a closed flask, the following experiment
+was made in the first place:--I set a burning candle in a dish full
+water; I then placed an inverted flask over this candle; at once there
+arose from the water large air bubbles, which were caused by the
+expansion, by heat, of the air in the flask. When the flame became
+somewhat smaller, the water began to rise in the flask; after it had
+gone out and the flask had become cold, I found the fourth part filled
+with water. This experiment was very undecisive to me, because I was not
+assured whether this fourth part of the air had not been driven out by
+the heat of the flame; since necessarily in that case the external air
+resting upon the water seeks equilibrium again after the flask has
+become cold, and presses the same measure of water into the flask as of
+air had been previously driven out by the heat. Accordingly, I made the
+following experiment:
+
+
++21. Fifth Experiment.+--(_a._) I pressed upon the bottom of the dish A
+(Fig. 2) a tough mass, of the thickness of two fingers, made of wax,
+resin, and turpentine metal together; in the middle I fastened a thick
+iron wire which reached to the middle of the flask B; upon the point of
+this wire C, I stuck a small wax candle, whose wick I had twisted
+together out of three slender threads. I then lighted the candle, and at
+the same time placed over it the inverted flask B, which I then pressed
+very deep into the mass. As soon as this was done, I filled the dish
+with water. After the flame was extinguished and everything had become
+quite cold, I opened the flask in the same position under the water,
+when 2 ounces of water entered; the flask held 160 ounces of water.
+Accordingly, there is wanting here so much air as occupies the space of
+2 ounces of water. Has this air been absorbed by the inflammable
+substance, or has the heat of the small flame driven it out even before
+I could press the flask into the tough mass? The latter seems to have
+taken place in this case, as I conclude from the following:--I took a
+small flask capable of holding 20 ounces of water; in this I caused a
+candle to burn as in the preceding; after everything had become cold, I
+opened this flask likewise under water, whereupon similarly nearly 2
+ounces entered. Had the former 2 ounces measure of air been absorbed,
+then there should have been only 2 drachms measure absorbed in this
+experiment.
+
+(_b._) I repeated the preceding experiment with the large flask in
+exactly the same way, except that I employed spirit of wine in place of
+the candle. I fastened three iron wires, which were of equal length and
+reached up to the middle of the flask, into the tough mass which was
+firmly pressed on to the bottom of the dish. Upon these wires I laid a
+four-cornered plate of metal, and upon this I placed a small vessel into
+which spirit of wine was poured. I set fire to this and placed the flask
+over it. After cooling, I observed that 3 ounces measure of air had been
+driven out by the heat of the flame.
+
+(_c._) Upon the same stand I placed a few small glowing coals, and
+allowed then go out in the same way under the flask. I found after
+cooling that the heat of the coals had driven out three and a half
+ounces measure of air.
+
+The experiments seem to prove that the transference of phlogiston to the
+air does not always diminish its bulk, which, however, the experiments
+mentioned in §§ 8.16 shew distinctly. But the following will shew that
+that portion of the air which unites with the inflammable substance, and
+is at the same time absorbed by it, is replaced by the newly formed
+aerial acid.
+
+
++22. Sixth Experiment.+--After the fire had gone out and everything had
+become cold in the experiments mentioned above (§ 21. _a._ _b._ _c._), I
+poured into each flask 6 ounces of milk of lime (lime water which has in
+it more unslaked lime than the water can dissolve); I then placed my
+hand firmly on the mouth of the flask and swung it several times up and
+down; then I held the flask inverted under water and drew my hand a
+little to one side, so that a small orifice might be made. Water
+immediately rose into the flask. Then I shut the mouth again very
+tightly with my hand under water, and afterwards shook it several times
+up and down. I opened it again under water; this operation I repeated
+twice more until no more water would rise into the flask, or until no
+more aerial acid was present in it. I then perceived that in each
+experiment between 7 and 8 ounces of water rose into the flasks,
+consequently the nineteenth part of the air has been lost. This was
+indeed something, but since in the combustion of phosphorus (§ 17)
+nearly the third part of the air was lost, there must be another reason
+besides, why as much is not absorbed in this case also. It is known that
+one part of aerial acid mixed with 10 parts of ordinary air extinguishes
+fire; and there are here in addition, expanded by the heat of the flame
+and surrounding the latter, the watery vapours produced by the
+destruction of these oily substances. It is these two elastic fluids,
+separating themselves from such a flame, which present no small
+hindrance to the fire which would otherwise certainly burn much longer,
+especially since there is here no current of air by means of which they
+can be driven away from the flame. When the aerial acid is separated
+from this air by milk of lime, then a candle can burn in it again,
+although only for a very short time.
+
+
++23. Seventh Experiment.+--I placed upon the stand (§ 21. _b._) a small
+crucible which was filled with sulphur; I set fire to it and placed the
+flask over it. After the sulphur was extinguished and everything had
+become cold, I found that out of 160 parts of air, 2 parts were driven
+out of the flask by the heat of the flame. I next poured 6 ounces of
+clear lime water into the flask and dealt with it by shaking, as already
+explained, and observed that the sixth part of all the air had been lost
+in consequence of the combustion. The lime water was not in the least
+precipitated in this case, an indication that sulphur gives out no
+aerial acid during its combustion, but another substance somewhat
+resembling air; this is the volatile acid of sulphur, which occupies
+again the empty space produced by the union of the inflammable substance
+with air. It is not, as may be seen, a trifling circumstance that
+phlogiston, whether it separates itself from substances and enters into
+union with air, with or without a fiery motion, still in every case
+diminishes the air so considerably in its external bulk.
+
+
++24. Experiments which prove that ordinary air, consisting of two kinds
+of elastic fluids, can be compounded again after these have been
+separated from each other by means of phlogiston.+
+
+I have already stated in § 16 that I was not able to find again the lost
+air. One might indeed object, that the lost air still remains in the
+residual air which can no more unite with phlogiston; for, since I have
+found that it is lighter than ordinary air, it might be believed that
+the phlogiston united with this air makes it lighter, as appears to be
+known already from other experiments. But since phlogiston is a
+substance, which always presupposes some weight, I much doubt whether
+such hypothesis has any foundation....
+
+
++25.+ How often must not chemists have distilled the fuming acid of
+nitre from oil of vitriol and nitre, when it is impossible that they
+should not have observed how this acid went over red in the beginning,
+white and colourless in the middle of the distillation, but at the end
+red again; and indeed so dark-red that one could not see through the
+receiver? It is to be noticed here that if the heat is permitted to
+increase too much at the end of the distillation, the whole mixture
+enters into such frothing that everything goes over into the receiver;
+and, what is of the greatest importance, a kind of air goes over during
+this frothing which deserves no small attention. If one takes for such
+distillation a very black oil of vitriol, not only does the acid go over
+at the beginning of a far darker red than when one takes a white oil of
+vitriol, but further, when one introduces a burning candle into the
+receiver after about an ounce has gone over, this goes out immediately.
+On the other hand, when one places a burning candle in the receiver
+filled with blood-red vapours, towards the end of the distillation when,
+as has been said, the mixture froths strongly, not only will it continue
+to burn, but this will take place with a much brighter light than in
+ordinary air. The same thing occurs when one attaches, at the close of
+the distillation, a receiver which is filled with an air in which fire
+will not burn, for, when this has been attached for half an hour, a
+candle will likewise continue to burn in the air.
+
+In this case there now arises in the first place the question: Are the
+vapours of the acid of nitre naturally red? I beg leave to raise this
+question here because I believe there are people who advance the redness
+of this acid as a distinguishing characteristic. The colours of the acid
+of nitre are accidental. When a few ounces of fuming acid of nitre are
+distilled by a very gentle heat, the yellow separates itself from it and
+goes into the receiver, and the residuum in the retort becomes white
+and colourless like water. This acid has all the chief properties of
+acid of nitre, except that the yellow colour is wanting. This I call the
+pure acid of nitre; as soon, however, as it comes into contact with an
+inflammable substance, it becomes more or less red. This red acid is
+more volatile than the pure, hence heat alone can separate them from one
+another; and, for exactly the same reason, the volatile spirit must go
+over first in the distillation of Glauber's spirit of nitre. When this
+has gone over, the colourless acid follows; but why does the acid make
+its appearance again so blood-red at the end of the distillation? Why
+has not this redness already been driven over at the beginning? Where
+does it now obtain its phlogiston? This is the difficulty.
+
+
++26.+ I intimated in the preceding paragraph that the candle went out in
+the receiver at the beginning of the distillation. The reason is to be
+found in the experiment which I have cited in § 13. In this case the
+acid of nitre, passing over in vapours, takes to itself the inflammable
+substance, whose presence is indicated by the black colour of the oil of
+vitriol; as soon as this has taken place it meets with the air, which
+again robs the now phlogisticated acid of its inflammable substance; by
+this means a part of the air contained in the receiver becomes lost,
+hence the fire introduced into it must go out (§ 15).
+
+
++27.+ The acid of nitre can attract phlogiston in varying quantity, when
+it likewise receives other properties with each proportion. (_a._) When
+it becomes, as it were, saturated with it, a true fire arises, and it is
+then completely destroyed. (_b._) When the inflammable principle is
+present in smaller quantity, this acid is converted into a kind of air
+which will not unite either with the alkalies or with the absorbent
+earths, and with water only in very small quantity. When this acid of
+nitre, resembling air, meets with the air, the latter takes the
+inflammable substance from it again, it loses its elasticity (§ 13), the
+vapours acquire redness, and the air undergoes at the same time this no
+less remarkable than natural alteration, that it is not only diminished,
+but also becomes warm. (_c._) When the acid of nitre receives still
+somewhat less phlogiston, it is likewise converted into a kind of air,
+which, like the air, is also invisible, but unites with the alkalies and
+earths, and along with them can bring forth real intermediate salts.
+This phlogisticated acid is, however, so loosely united with these
+absorbing substances, that even the simple mixture with the vegetable
+acids can drive it out. It is present in this condition in nitre which
+has been made red hot, and also in _Nitrum Antimoniatum_. When this acid
+of nitre meets the air it also loses its elasticity and is converted
+into red vapours. When it is mixed in a certain quantity with water,
+this acquires a blue, green, or yellow colour. (_d._) When the pure acid
+of nitre receives but very little of the inflammable substance, the
+vapours only acquire a red colour, and are wanting in expansive power;
+it is, however, more volatile than the pure acid. This acid holds this
+small quantity of phlogiston so firmly that even the air, which so
+strongly attracts the inflammable substance, is not able to separate
+this from it.
+
+       *       *       *       *       *
+
++29.+ I took a glass retort which was capable of holding 8 ounces of
+water, and distilled fuming acid of nitre according to the usual method.
+In the beginning the acid went over red, then it became colourless, and
+finally all became red again; as soon as I perceived the latter, I took
+away the receiver and tied on a bladder, emptied of air, into which I
+poured some thick milk of lime (§ 22) in order to prevent the corrosion
+of the bladder. I then proceeded with the distillation. The bladder
+began to expand gradually. After this I permitted everything to cool,
+and tied up the bladder. Lastly I removed it from the neck of the
+retort. I filled a bottle, which contained 10 ounces of water, with this
+gas (§ 30, _e._), I then placed a small lighted candle in it; scarcely
+had this been done when the candle began to burn with a large flame,
+whereby it gave out such a bright light that it was sufficient to dazzle
+the eyes. I mixed one part of this air with three parts of that kind of
+air in which fire would not burn; I had here an air which was like the
+ordinary air in every respect. Since this air is necessarily required
+for the origination of fire, and makes up about the third part of our
+common air, I shall call it after this, for the sake of shortness,
+Fire-air; but the other air which is not in the least serviceable for
+the fiery phenomenon, and makes up about two-thirds of our air, I shall
+designate after this with the name already known, of Vitiated Air.
+
+
++30.+ Anyone might ask me in what way I bring air from one vessel into
+another. I find it necessary therefore to describe this in the first
+place. My arrangements and vessels are the very simplest that one can
+possibly have: flasks, retorts, bottles, glasses, and ox bladders are
+the things which I employ. The bladders, while they are still fresh, are
+rubbed, and blown up very fully, then tightly tied and hung up to dry.
+When I wish to use such a bladder and find it blown up just as fully as
+at first, I am thereby assured that it is tight.
+
+(_a._) When I wish to collect any kind of air in a bladder, for example
+the phlogisticated acid of nitre (§ 13), I take a soft bladder smeared
+inside with a few drops of oil, and place in it some filings of a metal,
+as iron, zinc, or tin; I then press the air as completely as possible
+out of the bladder and tie it very tightly over a small bottle into
+which some _aqua fortis_ has been poured; I then partly unfold the
+bladder so that a few iron filings may fall into the _aqua fortis_,
+according as this dissolves the bladder becomes expanded. When I have
+collected enough of the air so produced, I tightly tie up the bladder
+with a thread close above the mouth of the bottle, and then detach it
+from the bottle. (_b._) If this phlogisticated acid of nitre is mixed
+with aerial acid, which is the case when the acid of the nitre is
+extracted over sugar, I tie a bladder, softened with some water, to the
+extreme end of the neck of the retort A (Fig. 3); in order, however,
+that I may properly prevent the escape of the air it is necessary to
+scratch the neck of the retort somewhat at this place with a flint.
+(Retorts which I employ for investigations of this kind I have blown not
+larger than to be capable of holding only from one half to three ounces
+of water, but which have at the same time a neck which is about half an
+ell long, and that for this reason that the attached bladder may not be
+destroyed during the operation by the heat of the furnace or by the hot
+vapours.) Into this bladder I pour some milk of lime (§ 22), and press
+the air out as fully as possible. This lime will absorb the aerial acid
+during the distillation, and leave the phlogisticated acid of nitre
+untouched. (_c._) In exactly the same way as is described in _a_ I also
+collect aerial acid and the inflammable air of sulphur (of which I shall
+speak further on). But if the bladders are moist, or even if only the
+air surrounding them is so, both these kinds of air penetrate completely
+through the bladders in a few days; if the bladders and air are dry,
+however, this does not take place. I obtain inflammable air from the
+metals, as iron or zinc, in exactly the same way, except that I place
+the bottle in warm sand. This air is still more subtle than the
+preceding; it penetrates through the fine pores of the bladder in a few
+days, although air and bladder are dry. I frequently experienced this
+to my vexation. (_d._) I not infrequently catch air in bladders, without
+any bottles. I place in a soft bladder (AA, Fig. 4) the material from
+which I intend to collect the air, for example, chalk; above this chalk
+I draw the bladder together with twine BB; I then pour above it the acid
+diluted with water and press out the air as completely as possible; I
+finally tie up the bladder above at CC. I then untie the twine B, when
+the acid runs upon the chalk; it immediately drives out the aerial acid,
+whereupon the bladder must expand. (_e._) When I require to get an air
+out of the bladder into a flask, glass, retort, or bottle, I fill such
+apparatus with water and place in it a tightly fitting cork; I then tie
+the bladder which contains the air, that is, the opening from C to D
+(Fig. 4), very firmly over such bottle; I then invert the bottle so that
+the bladder comes below and the bottle above, whereupon I hold the
+bottle with the left hand and with the right I withdraw the cork; I hold
+this cork firmly between both fingers inside the bladder until the water
+has flowed out of the bottle into the bladder, and the air has mounted
+out of the bladder into the bottle; I then put in the cork and detach
+the bladder from the bottle. When I wish to preserve the air for a long
+time I place the neck of the bottle in a vessel with water. (_f._) When
+there is aerial acid in the bladder, or another air which can unite with
+water, and I wish to unite it with water neatly, I fill a bottle with
+cold water, and, after it has been attached to the bladder, I permit
+about the fourth part to run into the bladder; I then push the cork,
+which, as previously, was firmly held within the bladder, into the
+bottle again; I then shake the bottle gently, when the air will dissolve
+in the water. Thereupon I make a small opening by means of the cork,
+when air passes out of the bladder into the bottle in order to fill up
+again the space which has become empty, without any water running into
+the bladder; I then push the cork again into the bottle and shake the
+water contained in it. I repeat this operation two or three times more,
+when the water is saturated with this air. (_g._) When I wish to mix
+together two kinds of air in a flask or bottle, I permit in the first
+place just as much water, by measure, to run from the bottle filled with
+water, into the bladder, as I wish to have of air. I then tie the bottle
+over with a bladder filled with another kind of air and permit the
+remaining water to run into the bladder, whereupon I immediately replace
+the cork in the bottle, as soon as the last of the water has run out.
+(_h._) When I wish to have in a bladder an air collected in a bottle, I
+reverse the operation. That is to say, I fill the bladder with as much
+water as I wish to have in it of air and tie it up at the top; I then
+tie this bladder tightly over the top of the bottle and untie the
+ligature of the bladder, draw the cork out of the bottle and so permit
+the water to run out of the bladder into the bottle. I then tie up the
+bladder, which now contains the air out of the bottle, and detach it
+from the bottle. (_i._) When I have in a bottle an air mixed with
+another kind of air which can be absorbed by water or lime, but wish to
+know how much of each kind is present in the bottle, I tie over it a
+bladder into which so much milk of lime has been poured that the bottle
+can be filled with it; I then withdraw the cork and permit the water or
+milk of lime to run into the bottle. I afterwards invert the bottle and
+permit the milk of lime to flow again into the bladder; I repeat this
+running out and in several times. So much air by measure has been
+absorbed as there now remains behind of milk of lime in the bottle.
+
+These are the methods which I employed in my investigations of air. I
+admit that they will not particularly please some, because they do not
+decide with great exactness. They afforded me satisfaction, however, in
+all my investigations; and people will often split a hair where it is
+not in the least necessary.
+
+
++31. Continuation of the Experiment mentioned in § 29+ ...
+
+Anyone might object and say that the air obtained according to § 29 is
+perhaps nothing else than a dry acid of nitre converted into elastic
+vapours. But if this opinion had any foundation, this air should not
+only be corrosive, but should also produce nitre anew with alkalies.
+This, however, does not occur. Nevertheless, this objection would
+possess considerable weight were I not able to prove that several
+substances produce the same air as the acid of nitre does during
+distillation. But proof of this is not wanting.
+
+I have proved in a treatise on manganese, which is to be found in the
+Transactions of the Royal Swedish Academy of Sciences for the year 1774,
+that this mineral is not soluble in any acid unless an inflammable
+substance be added, which communicates the phlogiston to the manganese,
+and by this means effects an entrance of the latter into the acids. I
+have shown in the same place that vitriolic acid, nevertheless, during a
+strong distillation with powdered manganese, unites with it and makes it
+soluble in water; and if this manganese is separated again from the
+vitriolic acid by means of precipitating agents, there are found in it
+the most distinct traces of the inflammable substance.... I had already
+observed a few years ago, that if in the calcination of manganese with
+oil of vitriol in an open crucible, some coal dust was driven by the
+current of air over the surface of this mixture, these fine coals took
+fire in the same instant with very great brilliancy. I accordingly made
+the following experiments.
+
+
++32. First Experiment.+--I mixed so much concentrated oil of vitriol
+with finely powdered manganese that it became a stiff magma. I distilled
+this mixture from a small retort on the open fire. In place of a
+receiver I made use of a bladder, empty of air, and, in order that the
+vapours which might pass over should not attack the bladder, I poured
+into it some milk of lime (§ 30, letter _b_). As soon as the bottom of
+the retort became red hot, an air passed over which gradually expanded
+the bladder. This air had all the properties of a pure fire-air.
+
+
++33. Second Experiment.+--When I distilled two parts of finely
+pulverised manganese with one part of the phosphorous acid of urine in
+the same way as is indicated in the preceding paragraph, I likewise
+obtained fire-air.
+
+
++34. Third Experiment.+--(_a._) I dissolved in _aqua fortis_ the white
+magnesia employed in medicine; I evaporated this solution to dryness. I
+then placed the salt in a small retort for distillation, as is described
+in § 32. Even before the retort was red hot the acid of nitre separated
+from the magnesia, and that in blood-red vapours; and at the same moment
+the bladder began to expand. The air thus obtained was my fire-air.
+
+It is thus seen constantly that the acid of nitre goes off again
+blood-red when separated by means of heat from the metals which had been
+dissolved in this menstruum.
+
+(_b._) I distilled mercurial nitre in the foregoing manner until the
+acid of nitre had separated from the residual red precipitate. In this
+case also I obtained our fire-air.... Whence comes the boiling of nitre,
+fused in a crucible and obscurely red-hot? Neither smoke nor vapours are
+seen to rise from it, and yet coal dust flying above the open crucible
+takes fire, burning brilliantly. Whence comes it that such nitre
+maintained in red-hot fusion in a glass retort for half an hour, becomes
+moist in open air and deliquesces after cooling, and still does not
+show any trace of alkali? (§ 27, letter _c._) What is the reason that
+this liquefied nitre permits its volatile acid to escape immediately,
+when rubbed or mixed with the vegetable acids?... If the chemists of the
+preceding century had thought worthy of a more particular examination,
+the elastic fluids resembling air which manifest themselves in so many
+operations, how advanced should we now be! They desired to see
+everything in corporeal form, and to collect everything as drops in the
+receiver. This is now for the first time better inquired into, and the
+air has begun to be carefully examined: and who is there who does not
+perceive the advantage which the results of such experiments carry with
+them?
+
+       *       *       *       *       *
+
++35. Fourth Experiment.+--I put an ounce of purified nitre into a glass
+retort for distillation and made use of a bladder, moistened and emptied
+of air, in place of a receiver (Fig. 3). As soon as the nitre began to
+glow it also began to boil, and at the same time the bladder was
+expanded by the air that passed over. I proceeded with the distillation
+until the boiling in the retort ceased, and the nitre was about to force
+its way through the softened retort. I obtained in the bladder the pure
+fire-air which occupied the space of 50 ounces of water. This is the
+cheapest and best method of obtaining fire-air.
+
+       *       *       *       *       *
+
++38. Fifth Experiment.+--I took a silver solution prepared with acid of
+nitre, and precipitated it with alkali of tartar; I washed the
+precipitate thus obtained and dried it. I then placed this calx of
+silver in a small glass retort on the open fire for reduction, and
+fastened an empty bladder to the neck. The bladder was immediately
+expanded by the air which passed over. After the end of the distillation
+I found the calx of silver half melted together in the retort, with its
+metallic lustre; however, as I had effected the precipitation with
+alkali of tartar, and this is always united with a quantity of aerial
+acid which attaches itself to the calx of silver in the precipitation,
+so this acid was necessarily present also in the bladder. This acid was
+removed from it by milk of lime (§ 30, letter _i._), and there remained
+behind one-half of pure fire-air.
+
+
++39. Sixth Experiment.+--I precipitated with alkali of tartar a solution
+of gold which was made with _aqua regia_; I reduced in the foregoing
+manner the washed and dried calx of gold. I obtained in this case the
+same fire-air, except that no aerial acid accompanied it. This is not to
+be wondered at, because the saturated solution of gold effervesces with
+the alkali, which does not take place with the solution of silver.
+
+
++40. Seventh Experiment.+--It is likewise known that the red precipitate
+of mercury regains its flowing condition without the addition of an
+inflammable substance. Since mercury, however, really loses its
+phlogiston as well by means of vitriolic acid as of the acid of nitre,
+it must necessarily assume this again as soon as it recovers its
+metallic property.
+
+(_a._) I added a solution of alkali of tartar, drop by drop, to a
+solution of corrosive sublimate. I washed the brown-red precipitate
+obtained, and dried it; then I placed it, for reduction, upon the open
+fire in a small retort, which was provided with a bladder empty of air.
+As soon as the calx began to glow, the bladder became expanded, and
+quicksilver rose into the neck. The fire-air obtained had some aerial
+acid mixed with it.
+
+(_b._) Mercury converted into calx by the acid of nitre, or red
+precipitate, treated in the same way behaved similarly. In this case I
+obtained a pure fire-air, without any aerial acid in it.
+
+
++41. Eighth Experiment.+--I have proved, in a treatise on arsenic
+communicated to the Royal Swedish Academy of Sciences, that this
+poisonous substance is compounded of a peculiar acid and an inflammable
+substance. I also shewed in the same treatise how this acid can be
+sublimed into ordinary arsenic simply by continued heat; and although I
+clearly perceived the reason for this, even at that time, still I was
+unwilling to mention it there in order to avoid prolixity. I placed some
+of this fixed acid of arsenic in a small retort with a bladder attached,
+for distillation. When the acid had gone into fusion, and glowed
+brightly, it began to boil; during this ebullition arsenic rose into the
+neck and the bladder became expanded; I continued with this heat as long
+as the retort would hold out. The air collected was likewise fire-air.
+In the same treatise I made mention of a peculiar explosion which took
+place in the distillation of zinc with the acid of arsenic. How clear,
+how manifest does the explanation of this phenomenon not become when one
+is satisfied that in this case fire-air is present in the retort in its
+greatest purity, and the zinc is in red hot fusion? What more is
+necessary for its ignition?
+
+I have very often regarded with pleasure the brightly glowing sparks
+which are produced in a retort by heat alone, during the reduction of
+metallic calces, when only a very little coal dust is mixed along with
+it.
+
+We shall now see whether this fire-air is not the same air which had
+been lost without fire (§§ 8-15), and with fire (§§ 17-23).
+
+
++42. First Experiment.+--I filled a bottle which was capable of holding
+16 ounces of water with pure fire-air according to the method which is
+described in § 30, letter e. I placed the bottle, inverted, in a glass
+which was filled with a solution of liver of sulphur. The solution rose
+a little into the bottle hour by hour, and after the lapse of 2 days the
+bottle was filled with it.
+
+
++43. Second Experiment.+--I mixed in a bottle 14 parts of that air from
+which the fire-air had been removed by liver of sulphur (§ 8), and which
+I have called vitiated air (§ 29), with 4 parts of our fire-air, and
+placed the bottle, inverted and open, in a vessel which was also filled
+with a solution of liver of sulphur. After 14 days the 4 parts of
+fire-air were lost, and the solution had risen into their place.
+
+
++44. Third Experiment.+--After I had filled a bottle with our air, I
+poured some colourless animal oil into it and closed it tightly. After a
+few hours it had already become brown, and by the next day black. It is
+no small inconvenience to preserve this oil white in apothecaries'
+shops. It is found necessary to pour this oil into small phials, and to
+preserve it most carefully from the access of air. When such a
+colourless oil is mixed with any acid, the acid, as well as the oil,
+becomes black even in an hour, although it has been diluted with water.
+Even vinegar has the same effect. There is no other reason, therefore,
+why the oil becomes at once black in the air, than that the fire-air
+present in the air deprives it of its phlogiston, and thereby develops a
+subtle acid, previously united with this phlogiston, which produces the
+blackness.
+
+
++45. Fourth Experiment.+--(_a._) Into a bottle of 7 ounces, which was
+filled with fire-air, I put a piece of phosphorus from urine and closed
+it with a cork. I then heated, by means of a burning candle, the place
+where the phosphorus lay; the phosphorus took fire with very great
+brilliancy. As soon as the flame had gone out, the bottle broke into
+fragments.
+
+(_b._) As the bottle in the foregoing experiment was very thin, I
+repeated it with a somewhat thicker bottle, and after everything had
+become cold I wanted to take the cork out of the bottle under water. It
+was not possible for me to do this, however, so tightly did the
+external air press the cork into the bottle. Accordingly I forced it
+inside the bottle; thereupon water entered the bottle and filled it
+almost completely. Since the first bottle was only very thin, the reason
+that it was crushed must be ascribed to the external air.
+
+(_c._) When I mixed vitiated air with one third of fire-air, and burned
+a piece of phosphorus in the mixture, only 1/3 of it was absorbed.
+
+
++46. Fifth Experiment.+--I also repeated the same experiment which is
+described in § 19, only with this difference that I took the tube
+longer, and filled the flask with my fire-air. It was pleasing to
+observe how the water rose gradually into the flask; and how the flame
+went out when 7/8 of the flask were full of water.
+
+
++47. Sixth Experiment.+--I laid some glowing coals upon the stand (§ 21,
+letter _c_), and placed over them a flask which was filled with
+fire-air. The coals had not even reached the air in the flask before
+they began to burn very brilliantly.
+
+After everything had become cold, I made an aperture under the flask,
+whereupon the fourth part became filled with water. But when I removed,
+by means of milk of lime, the aerial acid which was present in the
+residual air (§ 22) there remained in the flask only the fourth part. In
+this air a candle could still burn.
+
+
++48. Seventh Experiment.+--I also examined the behaviour of fire-air
+with sulphur (§ 23). As soon as the burning sulphur came into contact
+with the fire-air contained in the flask, the flame became much larger
+and brighter. When this fire had gone out, the water in the dish had
+found a way to come through the mass into the flask, which became 3/4
+filled with it. As I employed for these last 3 experiments a flask which
+was only of 30 ounces measure, I was obliged to arrange the stand (§ 21)
+to suit.
+
+
++49.+ I have mentioned (§ 16) that I found vitiated air lighter than
+ordinary air. Must it not follow from this that the fire-air is heavier
+than our air? As a matter of fact, I actually found, when I accurately
+weighed as much fire-air as occupied the space of 20 ounces of water,
+that this was almost 2 grains heavier than the same bulk of common air.
+
+
++50.+ These experiments shew, therefore, that this fire-air is just that
+air by means of which fire burns in common air; only it is there mixed
+with a kind of air which seems to possess no attraction at all for the
+inflammable substance, and this it is which places some hindrance in the
+way of the otherwise rapid and violent inflammation. And in fact, if air
+consisted of nothing but fire-air, water would surely render small
+service in extinguishing outbreaks of fire. Aerial acid mixed with this
+fire-air, has the same effect as vitiated air. I mixed one part of
+fire-air with 4 parts of aerial acid; in this mixture a candle still
+burned moderately well. The heat which lurks in the small interstices of
+the inflammable substance cannot possibly make up so much heat as is
+felt in fire; and I think I am not mistaken when I conclude from my
+experiments that the heat is really brought forth and produced in the
+first place from fire-air and the phlogiston of the inflammable
+substance....
+
+       *       *       *       *       *
+
+
++80.+ I had long wished to have some of the precipitate of mercury _per
+se_, in order to see whether it also would yield fire-air during
+reduction by means of heat alone. At length I obtained some from my much
+esteemed friend Doctor Gahn. This so-called precipitate had the
+appearance of small dark-red crystals resembling cinnabar. Now, as I
+know that mercury cannot be dissolved in muriatic acid unless it has
+lost its phlogiston, which takes place during its solution in acid of
+nitre or in vitriolic acid; and as this is also the reason why nitre
+must be present in a mixture of calcined vitriol, common salt, and
+quicksilver, I therefore poured muriatic acid upon a part of this red
+precipitate; the solution was soon formed and was somewhat hot; I
+evaporated it to dryness and increased the heat. Everything sublimed,
+and a true corrosive sublimate was formed. Hence this precipitate,
+produced by heat alone, is a calcined mercury. I then placed the other
+part of this precipitate over the fire in a small glass retort to which
+I had fastened an empty bladder. As soon as the retort became red hot
+the bladder became expanded, and at the same time the reduced mercury
+rose into the neck. In this case no red sublimate arose as customarily
+takes place with that calx which is prepared by the acid of nitre. The
+air obtained was a pure fire-air. This is a remarkable circumstance,
+that the fire-air which had previously removed from the mercury its
+phlogiston in a slow calcination, gives this same phlogiston up to it
+again when the calx is simply made red-hot. Still we have several such
+phenomena, where heat similarly alters the attractive forces between
+substances.
+
+       *       *       *       *       *
+
+
++83. Air is a Dulcified Elastic Acid.+
+
+In the foregoing experiments I have demonstrated the two proximate
+constituents of common air, because it was not necessary to know
+anything more about it for a clear knowledge of fire. I shall now go
+further, and see whether a still deeper decompounding of air is
+possible.
+
++First Experiment.+--I placed a rat in a flask capable of holding 4
+quarts of water; I gave it some bread softened in milk and closed the
+flask with a wet bladder. It died 31 hours afterwards. I then held the
+flask, inverted, under water and made a hole in the bladder, when two
+ounces of water rose into it. This small diminution of the air was
+probably caused by the heat which the rat took with it, which had
+previously driven the air out.
+
+
++84. Second Experiment.+--I took a large soft bladder and fastened a
+tube into its opening; then I filled it with the air out of my lungs,
+and held the tube and bladder with my right hand and closed my nostrils
+with the left. I respired the air as long as I could, and was able to
+make 24 inspirations (regarding which it is to be observed that at the
+last I was obliged to draw the whole bladder full of air into my lungs
+at once, while at the beginning only the half of it was necessary). I
+then closed the tube with my finger, and tied up the bladder. This air
+had properties similar to the preceding in which the rat died. That is
+to say, it contained one-thirtieth part of aerial acid, which I
+separated from it by milk of lime; and a burning candle at once went out
+in it.
+
+
++85. Third Experiment.+--I placed a few flies in a bottle into which I
+had put some honey smeared upon paper. After a few days they had died.
+They likewise had not absorbed any air; milk of lime, however,
+diminished this air about one fourth part, and the remainder
+extinguished fire.
+
+I then took a bottle of 20 ounces measure and bored a hole in the bottom
+of it with the corner of a broken file (Fig. 5, A). Into this bottle I
+put a small piece of unslaked lime, and closed the mouth with a cork
+through which I had previously fixed a tube B. Round about this cork I
+placed a ring of pitch, and placed over it an inverted glass C, into
+which I had previously put a large bee and had given it some honey which
+was smeared upon paper; but in order that no air could penetrate within
+the ring of pitch, I pressed the glass firmly in; I afterwards placed
+the bottle in the dish D, into which I poured so much water that it was
+half immersed in it; as soon I observed that the bottle was raised by
+the water, I put a small weight upon the glass. The water rose a little
+into the bottle every day through the opening A; and I also shook the
+bottle a little sometimes in order that the skin which formed over the
+milk of lime might break. After the lapse of seven days the water had
+risen to E, and the bee was dead. Occasionally I put 2 bees into the
+glass C, when just as much air was converted into aerial acid in half
+the time. Caterpillars and butterflies behaved in exactly the same way.
+
+
++86. Fourth Experiment.+--I placed some peas in a small flask, which was
+capable of holding 24 ounces of water, and poured so much water upon
+them that they were half covered with it; I then closed the flask. The
+peas began to strike roots, and grew up. As I found after 14 days that
+they would not increase further, I opened the flask, inverted, under
+water, and found the air neither increased nor diminished. The fourth
+part, however, was absorbed by milk of lime, and the remaining air
+extinguished flame. I kept fresh roots, fruits, herbs, flowers, and
+leaves, each by itself, in the flask, and after a few days I likewise
+observed the fourth part of the air converted into aerial acid. If flies
+are placed in such air they die immediately.
+
+
++87.+ These are accordingly strange circumstances, that the air is not
+noticeably absorbed by animals endowed with lungs, contains in it very
+little aerial acid, and yet extinguishes fire. On the other hand insects
+and plants alter the air in exactly the same way, but still they convert
+the fourth part of it into aerial acid. Accordingly I was curious to
+know whether the fire-air was not that which was here converted into
+aerial acid, because in these latter experiments just as much of the air
+was converted into aerial acid as there was of fire-air present in it.
+
+
++88. Fifth Experiment.+--In a bottle of 20 ounces capacity, I mixed one
+part of fire-air with 3 parts of the preceding air in which peas would
+not any longer grow, and from which the aerial acid was separated. (That
+is to say, I filled the bottle with water, and placed 4 peas in it; I
+then allowed one fourth of the water to run into the bladder in which
+fire-air was contained, and the remainder into another bladder in which
+this vitiated air was contained (§ 30, _g._), while I took care that the
+peas did not fall into the bladder. I also left so much water behind,
+that the peas were half covered with it.) Here also I observed the peas
+growing up, and after they would not increase any more I found this air
+likewise not absorbed, but almost the fourth part was absorbed by milk
+of lime. Hence it is the fire-air which is here converted into aerial
+acid. In 3 parts of aerial acid and one part of fire-air peas do not
+grow. I mixed vitiated air (§ 20) with fire-air which behaved in just
+the same way: that is to say the fire-air was converted into aerial
+acid.
+
+
++89. Sixth Experiment.+--I mixed, in the same proportions, fire-air and
+air vitiated by peas, and filled a bladder with it. Then when I had
+completely exhaled the air present in my lungs, I respired this newly
+compounded air as many times as possible. I then found that it contained
+very little aerial acid in it, and when this was separated from it, it
+extinguished fire. I believe that one must ascribe to the blood present
+in the pulmonary veins, the effect which animals endowed with lungs have
+upon the air. The following experiment gives me cause for this.
+
+It is known that freshly drawn blood, when it stands in the open air,
+assumes a fine red on the surface, and that the under portions likewise
+become red when they come into contact with the air. Does the air in
+this case undergo any alteration? I filled a flask one third part with
+freshly drawn ox blood, closed it tightly with a bladder, and shook up
+the blood frequently. Eight hours afterwards I neither found aerial acid
+in this air, nor that its bulk was diminished; but the flame of a candle
+was immediately extinguished in it. I made this experiment in winter
+time, from which may be gathered that the effect cannot be ascribed to
+any putrefaction, for this blood was found still fresh 6 days
+afterwards, and besides, all putrefactions produce aerial acid. I was
+now curious to know how fire-air by itself would behave with animals and
+plants.
+
+
++90. Seventh Experiment.+--(_a._) I put 2 ounces of nitre into a small
+glass retort upon glowing coals, and attached a large bladder softened
+with water (§ 35), and allowed the nitre to boil until I had received
+3/4 of a quart of fire-air in the bladder. I then tied up the bladder
+and separated it from the retort; I then placed a tube in its opening,
+and after I had completely emptied my lungs, I began to respire air from
+this bladder (§ 84). This proceeded very well, and I was able to make 40
+inspirations before it became difficult for me; eventually I expelled
+the air again from my lungs as completely as possible. It did not seem
+to have diminished particularly, and when I filled a bottle with it and
+introduced a burning candle, this still burned. I then began to respire
+this air anew, and was able to make 16 more inspirations. It now
+extinguished the flame, but I found only some traces of aerial acid in
+it. (_b._) I was surprised that I was not able the first time to take
+away from this air the property of allowing fire to burn in it; I
+thought that perhaps the great humidity prevented me from drawing this
+air into my lungs so often as was really possible. Accordingly I
+repeated the same experiment, only with this difference, that I put a
+handful of potashes into the bladder before the fire-air was driven into
+it. I then began to draw this air into my lungs, and counted 65
+inspirations before I was compelled to desist. But when I lowered a
+burning candle into this air, it still burned well, although only for a
+few seconds.
+
+
++91. Eighth Experiment.+--I closed the hole in the bottle at A (Fig. 5)
+with a cork, as also the tube B, and then filled the bottle with
+fire-air (§ 30, _e._). Then I had at hand the glass C, in which I had
+placed 2 large bees, and had provided some honey for their stay. I
+opened the stopped-up tube, placed this glass over it as quickly as
+possible, and pressed it into the ring of pitch. I afterwards placed the
+whole in the dish D, which I had filled with milk of lime, and withdrew
+the cork at A. In this case I observed the milk of lime to rise a little
+into the bottle every day, and after 8 days had elapsed the bottle was
+almost completely filled with it, and the bees were dead.
+
+
++92. Ninth Experiment.+--Plants, however, will not grow noticeably in
+pure fire-air. I filled with this air a bottle capable of holding 16
+ounces of water, and which contained 4 peas (§ 88). They got roots, but
+did not grow up at all; with milk of lime the twelfth part was absorbed.
+I then filled this air into another bottle which also contained 4 peas.
+After 14 days they had got roots, but also did not grow up, and with
+milk of lime likewise only the twelfth part was absorbed. I repeated
+this experiment 3 times more with the same air, and it was observed that
+the fourth and fifth times the peas had grown upwards a little. There
+still remained one-half of the whole air, and in this fire could still
+burn. There is no doubt that the whole quantity of fire-air could have
+been converted into aerial acid if I had continued the operation longer.
+It may also be observed that the peas act more strongly upon the
+fire-air when they send out roots than subsequently.
+
+
++93.+ Hence it is the fire-air by means of which the circulation of the
+blood and of the juices in animals and plants is so fully maintained.
+Still it is a peculiar circumstance that blood and the lungs have not
+such action upon fire-air as insects and plants have, for the latter
+convert it into aerial acid, and the former into vitiated air (§§ 29,
+89, 90). It is not so easy to furnish the reason for this, yet I will
+risk it. It is known that the acids lose those properties by which they
+reveal themselves as acids, by the addition of the inflammable
+substance, as sulphur, the elastic acid of nitre, regulus of arsenic,
+sugar, and the like, plainly shew. I am inclined to believe that
+fire-air consists of a subtle acid substance united with phlogiston, and
+it is probable that all acids derive their origin from fire-air. Now, if
+this air penetrates into plants, these must attract the phlogiston, and
+consequently the acid, which manifests itself as aerial acid, must be
+produced. This they again give up. The objection that so great a
+quantity of aerial acid is nevertheless obtained in the destruction of
+plants, and that, consequently, these must attract the aerial acid, has
+no weight, since otherwise the air in my vessels in which the peas were
+contained must have become for the most part lost, which, however, did
+not take place.... If plants abstract the phlogiston from the air, the
+aerial acid must be lighter. But experiment shows me the opposite; I
+found it, after careful weighing, somewhat heavier, but this is not
+contrary to my opinion; as it is known that all acids retain water
+strongly, the aerial acid must possess the same property, and this may
+consequently cause the most of the weight. If all this is accurate,
+another question then arises: Why do not blood and the lungs likewise
+convert fire-air into such an aerial acid? I take the liberty here also
+of giving my opinion of this, for how would all these laboriously
+executed experiments help me if I had not the hope of coming by means
+of them nearer to my ultimate object, the truth? Phlogiston, which makes
+most substances with which it unites liquid as well as mobile and
+elastic, must have the same effect upon blood. The globules of blood
+must attract it from the air through the small pores of the lungs. By
+this union they become separated from one another, and are consequently
+made more liquid. They then appear bright red (§ 89). They must,
+however, give this attracted phlogiston up again during the circulation,
+and in consequence, be placed in a condition to absorb the inflammable
+substance anew from the air at that place where they are in the most
+intimate contact with it, that is, in the lungs. Where this phlogiston
+has gone to during the circulation of the blood, I leave to others to
+ascertain. The attraction which the blood has for phlogiston cannot be
+so strong as that with which plants and insects attract it from the air,
+and then the blood cannot convert air into aerial acid; still it becomes
+converted into an air which lies midway between fire-air and aerial
+acid, that is, a vitiated air; for it unites neither with lime nor with
+water after the manner of fire-air and it extinguishes fire, after that
+of aerial acid. But that the blood really attracts the inflammable
+substance I have additional experiment to prove, since I have removed
+phlogiston by help of my lungs from inflammable air, and have converted
+this into vitiated air.
+
+I filled a bladder with the air which one obtains from iron filings and
+vitriolic acid (§ 30, _c._), and respired it in the manner previously
+described (§ 84). I was only able to inhale it 20 times, and after I had
+somewhat recovered, I expelled the air once more from my lungs as
+completely as possible, and again inhaled this inflammable air: after 10
+inhalations I was compelled to desist from it, and observed that it
+could no longer be kindled, and also would not unite with lime water.
+In one word it was a vitiated air.
+
+I kept a piece of sulphur in continuous ebullition over the fire in a
+retort, capable of holding 12 ounces of water, with an empty bladder
+attached in place of a receiver, the retort also placed so that the
+sulphur which rose into the neck could run back again. After all had
+become cold, I found the air neither increased nor diminished: it smelt
+slightly hepatic, and extinguished a burning candle. I shall prove
+further on that sulphur can unite with more phlogiston; and it seems to
+me to follow from this experiment that something inflammable from the
+air had deposited itself upon the sulphur, and that the air had thereby
+acquired the property of a vitiated air. It is, however, also remarkable
+that other bodies which attract the inflammable substance more strongly,
+as for example, the fuming acid of nitre, do not abstract it from the
+air. It is likewise strange that I was able to inhale the inflammable
+air into my lungs only 20 times; and I observe here as something
+peculiar that, if I mistake not, I became very warm a quarter of an hour
+afterwards. It is also to be observed that fire-air, vitiated by the
+lungs, extinguishes fire; why does not the aerial acid attract the
+phlogiston again? why not also the vitiated air? Mr. Priestley indeed
+has accomplished this, but it did not succeed with me however much I
+also wished it. He has converted aerial acid into wholesome air by means
+of a mixture of iron filings, sulphur, and some water. When I desired to
+repeat this experiment, the aerial acid was always absorbed by the iron
+filings. I likewise powdered finely some iron filings which had been
+fused together with excess of sulphur, moistened this with water, and
+preserved it in a bottle which was filled with aerial acid: but with the
+same result. After 2 two days the aerial acid was almost entirely
+absorbed. This philosopher also says that he has made vitiated air
+wholesome again by agitation with water. I must admit, however, that
+with me this likewise failed. I filled a flask one fourth part with
+vitiated air, and the remainder with fresh water; I closed the flask
+very tightly, and shook it up and down for almost a whole hour. Then
+when I collected this air in a bladder, and from this in a bottle, I
+found that the candle was extinguished afterwards as it was before. He
+mixed with water, by agitation, the inflammable air from metals; this
+also would not succeed with me, although I used only little inflammable
+air, and much water. He also observed that plants made vitiated air
+wholesome again. It follows from my experiments that they vitiate air. I
+kept plants, in the dark as well as exposed to sunlight, in a flask
+which was filled with vitiated air and carefully secured (which careful
+securing must really be attended to). I tested a little of this air
+every 2 days, and always found it vitiated.
+
+
++94.+ Water has the peculiar property of separating the proximate
+constituents of air; of uniting with fire-air; and of entering into no
+kind of union with vitiated air. (1.) I filled a large bottle with
+boiled water which had been cooled shortly before, and permitted the
+tenth part to run out. I then placed the bottle, inverted and open, in a
+vessel with water. I observed the quantity of air to diminish a little
+every day, and when this diminution ceased, I collected the remaining
+air first in a bladder (§ 30, _h._), and from the bladder in a bottle (§
+30, _c._), and brought a burning candle into the bottle; it had scarcely
+reached the mouth when it went out. (2.) I then took the same kind of
+water freed from air, filled a bottle with it, and permitted the tenth
+part of it to run into a bladder filled with vitiated air. I next placed
+the bottle, inverted, in a vessel with water, and observed the space
+which the air occupied in it. I found, 14 days afterwards, that the
+water had not absorbed the smallest quantity of it. (3.) I placed a
+large bottle, from which the bottom was knocked out, in a deep kettle
+with water, so that the water outside reached above the top of the
+bottle. I then tied a bladder, empty of air, over the top of the bottle,
+and made the water boil up once over the fire. The air which was in that
+portion of the water contained under the bottle rose into the bladder;
+and after I had tied up the bladder, and detached it front the bottle, I
+filled a phial with it, and put a small burning candle into it; it
+burned there more brightly than in ordinary air.
+
+This fire-air, dissolved in water, must be as indispensable for aquatic
+animals as for those which live upon the earth. They must draw it into
+their bodies, and convert it either into aerial acid or into vitiated
+air. Into whichever kind it is, however, it must always become separated
+from the water again, for as aerial acid it does not remain with the
+water in the open air, and vitiated air cannot unite with water at all
+(No. 2), the water is then in a condition again to absorb fire-air anew,
+and to convey it to the animals. My experiments made with respect to
+this matter agree with this entirely. I allowed a few leeches to remain
+in a bottle, which was half filled with water and well closed, until
+they died. I then examined the air standing over this water. It had no
+smell, nor had the water; it appeared to have increased a little and it
+extinguished fire. It seems that these creatures live only upon the
+phlogiston in fire-air, perhaps also upon the heat. I have preserved
+them alive in water, and that the same water, for two years; the bottle
+was only tied over with gauze. I have a convenient method to ascertain
+whether fire-air is present in water or not. I take, for example, an
+ounce of it, and add to it about 4 drops of a solution of vitriol of
+iron, and 2 drops of a solution of alkali of tartar which has been
+somewhat diluted with water. A dark green precipitate is immediately
+formed, which, however becomes yellow in a couple of minutes if the
+water contains fire-air; but if the water has been boiled, and has
+become cold without access of air, or if it is even a recently distilled
+water, the precipitate retains its green colour, and does not become
+yellow sooner than an hour afterwards, and not yellow at all if it is
+protected from access of air in full bottles. I have already shown (§
+15) that the green precipitate of iron owes its colour to phlogiston
+which still adheres to the earth, and it follows from this that
+fire-air, although not in the elastic condition, is able to attract
+phlogiston. The following experiment likewise shewed me that aquatic
+animals take fire-air from the water. I placed a leech in a bottle which
+was completely filled with water, and was protected from every kind of
+air. After two days it was almost dead. I then examined the water in the
+manner described above, and found that the earth of iron retained its
+green colour. The swelling up of peas in cold water is to be ascribed
+mainly to the fire-air present in the water. If a bottle is filled full
+of water and a few peas are placed in it, after 24 hours the water
+contains aerial acid it is true, but no fire-air. In water boiled and
+become cold, peas swell up only a little. I perceive in this the reason
+why the waters distilled from plants not only lose their smell, but why
+also a mucilaginous substance settles to the bottom, when the bottles
+are frequently opened, whereas the same waters, in perfectly full
+bottles, retain their smell and clearness unchanged. All plants
+communicate to water some mucilaginous material which is carried over
+along with it. Fire-air is the chief cause of this corruption; if this
+enters the water again, it attracts to itself the inflammable substance
+from the subtle oily and mucilaginous matter, and alters the whole of
+the water.
+
+       *       *       *       *       *
+
+
+Transcriber's Note
+
+All bold text has been surrounded by + signs. Italic text is
+denoted by underscores.
+
+
+
+
+
+End of the Project Gutenberg EBook of Discovery of Oxygen, Part 2, by 
+Carl Wilhelm Scheele
+
+*** END OF THIS PROJECT GUTENBERG EBOOK DISCOVERY OF OXYGEN, PART 2 ***
+
+***** This file should be named 26243-8.txt or 26243-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/6/2/4/26243/
+
+Produced by Bryan Ness, Viv and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

@@ -1,0 +1,2453 @@
+﻿The Project Gutenberg EBook of The Notorious Impostor and Diego Redivivus, by 
+Elkanah Settle
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: The Notorious Impostor and Diego Redivivus
+
+Author: Elkanah Settle
+
+Editor: Spiro Peterson
+
+Release Date: September 23, 2011 [EBook #37517]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK NOTORIOUS IMPOSTOR, DIEGO REDIVIVUS ***
+
+
+
+
+Produced by David Starner and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+
+ELKANAH SETTLE
+THE NOTORIOUS IMPOSTOR
+(1692)
+
+DIEGO REDIVIVUS
+(1692)
+
+
+Introduction by
+Spiro Peterson
+
+
+Publication Number 68
+
+
+Los Angeles
+William Andrews Clark Memorial Library
+University of California
+
+
+
+
+GENERAL EDITORS
+
+  RICHARD C. BOYS, _University of Michigan_
+  RALPH COHEN, _University of California, Los Angeles_
+  VINTON A. DEARING, _University of California, Los Angeles_
+  LAWRENCE CLARK POWELL, _Clark Memorial Library_
+
+
+ASSISTANT EDITOR
+
+  W. EARL BRITTON, _University of Michigan_
+
+
+ADVISORY EDITORS
+
+  EMMETT L. AVERY, _State College of Washington_
+  BENJAMIN BOYCE, _Duke University_
+  LOUIS BREDVOLD, _University of Michigan_
+  JOHN BUTT, KING'S COLLEGE, _University of Durham_
+  JAMES L. CLIFFORD, _Columbia University_
+  ARTHUR FRIEDMAN, _University of Chicago_
+  LOUIS A. LANDA, _Princeton University_
+  SAMUEL H. MONK, _University of Minnesota_
+  ERNEST C. MOSSNER, _University of Texas_
+  JAMES SUTHERLAND, _University College, London_
+  H. T. SWEDENBERG, JR., _University of California, Los Angeles_
+
+
+CORRESPONDING SECRETARY
+
+  EDNA C. DAVIS, _Clark Memorial Library_
+
+
+
+
+INTRODUCTION
+
+
+The great English novel of the eighteenth century was developed out of
+the long established traditions in the essay, letter, religious
+treatise, biography and personal memoir. Although this influence has
+been generally acknowledged, the critical investigation of its exact
+nature has often been hampered by the lack of readily available texts.
+Especially is this true of the criminal biographies written in the late
+seventeenth century. The reprinting of Elkanah Settle's _The Notorious
+Impostor_ (Part One) and the anonymous _Diego Redivivus_ is thus
+justified as providing the means for the further study of the early
+fiction-writer's techniques. Published In 1692, the two pamphlets
+belong to a group of five closely-related narratives dealing with a
+real criminal named William Morrell. In the probable order of their
+publication, these were _Diego Redivivus_, _The Notorious Impostor_
+(Part One), _The Second Part of the Notorious Impostor_, "_William
+Morrell's_ Epitaph" in _The Gentleman's Journal_, and _The Compleat
+Memoirs of the Life of that Notorious Impostor Will. Morrell_. The
+different accounts forcefully demonstrate how criminal fiction allied
+itself with both biography and the picaresque. In addition, _The
+Notorious Impostor_ serves as a representative work by Elkanah Settle
+whose criminal biographies have never received the attention they
+deserve.[1]
+
+The combination of fact and fiction in the William Morrell narratives
+had been tried earlier in Settle's first known criminal biography, _The
+Life and Death of Major Clancie, the Grandest Cheat of this Age_
+(1680). Like Bunyan's _Mr. Badman_, advertised in the same issue of
+_The Term Catalogues_ (I, 382), _Major Clancie_ purports to narrate
+"Real matter of Fact." Thus, in the background, significant historical
+events, from the Irish Rebellion to the Great Fire, are being enacted.
+Important English worthies--Lord Ormonde, Bishop Compton, Charles
+II--become entangled in the villainies of the Major, an actual Irish
+criminal. None of this historical backdrop is to be found, however, in
+_The Notorious Impostor_; and the characters here, although Sir William
+Walters and Humphrey Wickham were well-known local personages, are not
+historically eminent. The picaresque in _Major Clancie_, too, is more
+readily identifiable than in _The Notorious Impostor_. For, contrary to
+its stated aim, the biography of Clancie is more fiction than fact.
+Anthony Wood, noting the fictional elaborations, remarked: "Several
+stories in this book which belong to other persons are fathered on the
+said major; who, as I remember, was in Oxon in the plague year 1665
+when the king and the queen kept their respective courts there."[2]
+Wood then contributes a few of his own pungent stories about the Major,
+which have no counterparts in Settle's narrative. Where the two writers
+provide parallel accounts, the "fiction" appears to be based on a
+substratum of truth surviving in anecdotes. Settle's verisimilitude had
+an effect upon Theophilus Lucas's _Memoirs of the Lives, Intrigues, and
+Comical Adventures of the Most Famous Gamesters and Celebrated
+Sharpers_ (1714), which begins with a condensed version of _The Life
+and Death of Major Clancie_.[3] Lucas presents his account as if it
+were a true memoir.
+
+
+_The Notorious Impostor_ was to experience a similar acceptance as a
+memoir. All modern biographical accounts of its villain-hero, William
+Morrell,[4] are based on the two separate parts of _The Notorious
+Impostor_ or _The Compleat Memoirs_. On January 3, 1692, he had died, a
+criminal at large; and the strange circumstances of his death became
+the talk of London. While the event was still a sensation, the
+bookseller Abel Roper rushed his "last will and testament" lives into
+print. The first to appear was _Diego Redivivus_, reprinted here from
+the rare copy at the William Andrews Clark Memorial Library. Evidence
+for the publication of _Diego Redivivus_ before _The Notorious
+Impostor_ is fairly conclusive. _The Registers of the Worshipful
+Company of Stationers_ (III, 397) enters _Diego Redivivus_, on behalf
+of Abel Roper, for January 12, 1692, and _The Term Catalogues_ (II,
+392) advertises _The Notorious Impostor_ in the quarterly issue
+published in February, but Anthony Wood (III, 384) states that he
+bought his copy of the latter "in the beginning of March." A comparison
+of the two texts, moreover, supports this order of the publication.
+
+Events in _Diego Redivivus_, as in a news story, have greater
+immediacy. Morrell's death, the title asserts, took place the third
+of "this instant January." The specific detail of _Diego_ (p. 2:
+"about a fortnight before _Christmas_") is paralleled by the general
+statement of _The Notorious Impostor_ (p. 30: "Some few days before
+_Christmas_"). Although its title-page promises a "Full Relation" of
+Morrell's cheats, _Diego Redivivus_ presents only the final "will"
+episode, whereas _The Notorious Impostor_ ranges over the whole
+criminal career. Both narratives have in common the long will and
+codicil, except that _The Notorious Impostor_ (p. 34) drastically
+shortens the Latin passage which, in _Diego Redivivus_ (p. 10),
+states that the will had been probated. Even more conclusive evidence
+may be found in comparing the dates of the final events in the two
+accounts. _Diego Redivivus_, licensed on January 12, stops short with
+the humble burial of Morrell on January 13. Considerably later,
+certainly, must be the occurrence described in the Postscript of _The
+Notorious Impostor_: the nurse's and assistants' recollection that
+Morrell was laughing to himself in his last grim cheating of the
+world.
+
+Part One of _The Notorious Impostor_, as the sequel informs us, met
+with a "general Reception." Advertised in the February issue of _The
+Term Catalogues_, also, was a separate continuation. Interest in the
+impostor did not diminish during February. "The Death of _William
+Morrell_," complained _The Gentleman's Journal_ of this month, "hath
+made too much Noise not to have reach'd you before this.... Had not his
+Will and Life been printed, I would have given you a large Account of
+both." The anonymous writer refers here, perhaps, to _Diego Redivivus_
+("Will") and _The Notorious Impostor_ ("Life") in the order of their
+publication. He then ironically lauds, in the verses of "_William
+Morrell's_ Epitaph," the great skill of the impostor ("Columbus-like I
+a new World descry'd, / Of Roguery before untry'd").
+
+Elkanah Settle's two parts of _The Notorious Impostor_ were finally
+published together in 1694 as _The Compleat Memoirs of the Life of that
+Notorious Impostor Will. Morrell, alias Bowyer, alias Wickham, &c._ ...
+under the imprint of Abel Roper and E. Wilkinson. So extensive are the
+re-arrangements of the episodes taken from Parts One and Two that _The
+Compleat Memoirs_ may be regarded as a fifth, very different narrative.
+All the apologies for not resorting to "romance" are now dropped, and
+the humorous dedication is replaced by a direct appeal to Gabriel
+Balam, signed "E. Settle." _The Compleat Memoirs_ then reworks the
+texts of the two Parts into a smooth, chronologically consistent
+narrative.[5] Even more important in designating _The Compleat Memoirs_
+as "new" are the "Considerable Additions never before Published"
+announced by the title-page. After using the incidents from _The Second
+Part of the Notorious Impostor_, Settle then adds: "Since the first
+Publication of our fore-going History of our Grand Guzman, we have
+receiv'd some Comical Adventures, worth inserting in his Memoirs, which
+though they now bring up the Rear of his Chronicle, however, they were
+the first of all his Wedlock Feats...." In the totally new adventures
+that end _The Compleat Memoirs_ (pp. 72-88), the cynical tone and
+raciness of the picaresque become even more dominant than in the
+earlier separate narratives.[6]
+
+
+The importance of the Morrell narratives in the development of English
+fiction lies mainly in their deft combinations of the real and the
+picaresque and in their conscious effort to unify the action, draw out
+the humour, or handle realistic talk and setting. But the narratives
+also look backward to an older type, the picaresque. William Morrell
+makes his printed appearance as the new picaro. The title _Diego
+Redivivus_ (i.e. James Revived) had overtones of the sensationally
+picaresque. The witty pseudonym "Don Diego Puede-Ser" had been used by
+James Mabbe in his translation (1623) of Aleman's _Vita del Picaro
+Guzman_;[7] and more recent in English memories were the exploits of
+James Hind, the English Rogue. In the Dedication, _The Notorious
+Impostor_ describes itself as "_the Life of our English_ Guzman" and
+later promises to "paint our new _Guzman_ in some of his boldest and
+fairest Colours." But the picaresque traditions have shaded into one
+another. For Morrell is not simply the new Guzman; he is also Hudibras
+and, in _The Second Part_, Don Quixote.
+
+Still another reason for the importance of the Morrell narratives is
+their consciousness of fictional techniques and theory. In _Diego
+Redivivus_, for example, the final deception is meticulously developed
+with closely-woven incidents which do not appear elsewhere. The motives
+of the characters, too, are sharply defined; and the action is unified
+by the two references to oath-taking (pp. 2-3). The anonymous author,
+at the outset, stresses the value of "the Particulars ... no
+disacceptable Entertainment" (p. 1). Aware of theory, he specifies that
+Morrell created "some Romantick narrative" to explain his poverty (p.
+4). In fictional technique, Elkanah Settle approaches a unified theme
+especially in _The Second Part of the Notorious Impostor_ and the
+"Comical Adventures" of _The Compleat Memoirs_ where the incidents are
+mainly of one kind--matrimonial. Theorizing appears, too, in Part One
+somewhat in the manner of Daniel Defoe: "we dare not venture to play
+the Historian any farther than certain Intelligence (which yet we have
+not received) can guide us, being resolved not to load our Rambles with
+Romance or Fiction, his Life being furnisht with matter sufficiently
+voluminous without the addition of Flourish or Fancy" (p. 27). This may
+be Settle's pointed reference to the "fiction" of _Diego Redivivus_.[8]
+He maintains, also, that he had to delay for a fortnight the
+publication of _The Second Part of the Notorious Impostor_ in order to
+be certain of its authenticity.
+
+Finally, the importance of the Morrell narratives may be seen in terms
+of the realistic fiction that was to achieve fulfillment in the
+eighteenth-century novel. The clear presence of fictional elaboration,
+in _The Notorious Impostor_, caught the attention of both Frank
+Wadleigh Chandler and Ernest Bernbaum.[9] Elkanah Settle thus rightly
+belongs with writers, like Francis Kirkman, who masked fiction as the
+truth. Historians of the novel, moreover, attach significance to _The
+Notorious Impostor_ in its resemblance to the novels of Defoe, Mrs.
+Heywood, and Smollett. Only the claim of influence on Smollett's
+_Ferdinand Count Fatham_ has been investigated to any extent. In a full
+analysis of Smollett's novel, Chandler's strong statement will have to
+be taken into account: "The resemblance, indeed, between the two
+anti-heroes and the terms in which the accounts of their cheating are
+couched is so strong as to suggest actual borrowing on the part of
+Smollett."[10]
+
+    Spiro Peterson
+
+    Miami University
+    Oxford, Ohio
+
+
+    Since writing the above, I have been informed by G. F. Osborn,
+    archivist of the City of Westminster Public Libraries, that the
+    registers of St. Clement Danes, in his keeping, have the following
+    entry under 12 January 169-1/2: "William Morrell alias Bowier a man
+    bur[ied] poor."
+
+
+
+
+Notes to the Introduction
+
+
+ [1] See F. C. Brown, _Elkanah Settle: His Life and Works_ (1910), pp.
+22, 29, 127.
+
+ [2] _The Life and Times of Anthony Wood_, ed. Andrew Clark (1892), II,
+48-49.
+
+ [3] _Games and Gamesters of the Restoration_, ed. Cyril Hughes
+Hartmann (The English Library, 1930), pp. 123-137.
+
+ [4] E.g. Alfred Beasley's in _The History of Banbury_ (1841), pp.
+448-492, and G. T. Crook's in _The Complete Newgate Calendar_ (1926),
+pp. 117-124.
+
+ [5] The text of _The Compleat Memoirs_ is indeed a composite.
+Paragraph one of p. 1 unites a paragraph from p. 1 of Part One and a
+paragraph from pp. 34-35 of Part Two; pp. 1-27 are the same as pp.
+5-27 of Part One; pp. 27-46: pp. 2-21 of Part Two; pp. 46-50: pp.
+27-29 of Part One; pp. 50-57: pp. 22-29 of Part Two; pp. 57-65: pp.
+30-36 of Part One; pp. 66-71: pp. 29-36 of Part Two.
+
+ [6] _The Post Boy_ advertised _The Compleat Memoirs_ from February 17
+to April 23, 1698. See also W. Carew Hazlitt (_Bibliographical
+Collections_, Third Series, p. 229) for a description of a copy dated
+1699.
+
+ [7] Morrell's last impersonation involving the fake will resembles
+Pantalon's "last Will and Testament" jest in Mabbe's _The Rogue or The
+Life of Guzman de Alfarache_ (The Tudor Translations, 1924), II,
+184-186.
+
+ [8] Settle's authorship of _The Notorious Impostor_ is confirmed by
+his name appended to the Dedication of _The Compleat Memoirs_.
+Although _Diego Redivivus_ occasionally resembles _The Notorious
+Impostor_, it need not necessarily be Settle's work. The similar style
+and the identical documentation (e.g. the will) may be due to Settle's
+direct use of the earlier narrative. None of its minutely-drawn
+description, curiously, is perpetuated in _The Compleat Memoirs_. The
+authorship of _Diego Redivivus_ remains an unsettled question.
+
+ [9] _The Literature of Roguery_ (1907), I, 153: _The Mary Carleton
+Narratives_ (1914), p. 6.
+
+[10] I, 153. Ernest A. Baker makes a similar statement (_The History of
+the English Novel_ [1937], III, 46). With respect to the influence of
+_The Notorious Impostor_ on Mrs. Eliza Haywood, he should have cited
+_Miss Betsy Thoughtless_ (1751)--the very book praised by Captain
+Minikin as "worth reading" in _Ferdinand Count Fathom_ (Chap. XXXIX).
+
+
+
+
+THE
+
+Notorious Impostor,
+
+Or the History of the LIFE of
+
+William Morrell,
+
+ALIAS
+
+BOWYER,
+
+Sometime of _Banbury_, Chirurgeon.
+
+Who lately personated _Humphrey Wickham_ of _Swackly_, in the County of
+_Oxon_, Esquire, at a Bakers House in the _Strand_, where he Died the
+third of _Jan. 169-1/2_
+
+Together
+
+With an Authentick Copy of his Will, taken out of the _Prerogative
+Court_, and the manner of his Funeral in St. _Clements_ Church-yard.
+
+_LONDON_,
+Printed for _Abel Roper_ at the _Mytre_ near _Temple-Bar_, 1692.
+
+
+
+
+TO THE
+
+Honourable Capt. _Humph. Wickham_.
+
+
+SIR,
+
+_When this following 'Paper makes thus bold to be your Addressor, the
+only Encouragement for the Presumption is, that your borrow'd Name has
+fill'd up so large a Sheet in our History, as justly entitles You to
+this Presentation. And truly as a considerable part of it has already
+furnisht you with no small Jest at your Laughing Hours, we hope the
+Life of our English_ Guzman, _your late Adopted Name-sake, will be no
+undiverting Entertainment. His Life, 'tis true, has been little else
+than a continued Scene of Masquerade; and if to finish his last Act, he
+had occasion of borrowing a Face and Character of Quality and
+consequently fixt upon Captain_ Wickham; _alas, you must consider he
+wanted Worth and Honour, and can you blame him for looking for 'em
+where they were to be found? You stood fair for him, and the World,
+however, it may censure his Impudence, at least it cannot but commend
+his Choice. And the Reason (if you have any) to complain, is, that
+whereas the World is but a Stage, and_ Life _but a Play, and Captain_
+Wickham _was only personated to Cheat a poor Baker of a Fortnights
+Lodging and Bread. 'Tis pity your Name, that much better deserved, was
+only drawn in to the filling up of a Farce. But, as great a Thief as he
+was to steal a Title of Honour, whatever hard Charge the poor suffering
+Baker has against him, yet considering how little you have lost by him,
+we hope your excusing Goodness will not load him higher than Petty
+Larceny. And truly if he can feel it in his Grave, he has sufficiently
+felt the Lash for it. His Last Will and Testament, I confess, has very
+bountifully cantoned out your Estate; all the sorrow is, that the
+Gaping Executors, and the rest of the Inheritors, have no shorter a
+Walk than into_ Fairy-Land _to receive their Legacies; a longer
+Journey, 'tis to be feared, than either the Bright Bay, or Dappled
+Grey, will ever be able to carry 'em._
+
+_And now to do our last Office,_ viz. _to speak a good word of the Dead
+(for truly he had no Funeral Sermon to do it) they may talk of
+Monuments and Epitaphs for preserving of Memories; but our_ quondam
+_Operator of_ Banbury, _tho' with plainer Funeral Ceremonies, has taken
+care for a lasting Renown, when much finer Dust under Statues and
+Marble shall sleep forgotten: And whereas there are famous Examples of
+old, that have perpetuated their Names at no less price than the
+burning of Temples, his better Husbandry, to his Glory be it recorded,
+has purchased Immortality much cheaper; where we'll leave him, and beg
+your Pardon for this Boldness_
+
+_Of_
+
+Your unknown Humble Servant.
+
+
+
+
+THE
+
+Notorious Impostor:
+
+OR THE
+
+HISTORY
+
+OF THE
+
+LIFE
+
+OF
+
+_William Morrell_ alias _Bowyer_, &c.
+
+
+This Famous Rover, from the Multitude of his Titles, to begin with his
+right Name _William Morrell_, was by Profession a Chyrurgion, and more
+than twenty Years ago, for many Years together, a Practitioner of good
+Credit in _Banbury_, where his Industry honestly got him, by his
+Practice, near two Hundred a Year, with which he maintained himself,
+his Wife and Family very handsomely, till about eighteen Years ago
+he began to be very Lazy, and much addicted to hanker after the
+Conversation of the Gentry thereabouts; and being a Person very
+Facetious, and his Company not disacceptable, he screwed himself into
+the Society of the best Quality round about, and would be a Month or
+two a Guest at several Great Mens Houses; more particularly he some
+time since insinuated himself into the Favor of a Worthy Gentleman
+near _Banbury_, viz. _Humphry Wickham_ of _Swakely_ Esq; whose Person
+and Character he pretended to represent, and in which Imposture he
+made his last _Exit_.
+
+But to begin our History in order; From his Conversing with Gentlemen
+and Herding with Quality, Business began to fall off: His many Rambles
+from home, soon made his Practice flag; when the Glass and the Bottle
+came into play, the Salvatory and Playster-box went out. And his
+Patients could not well stay for the Setting of a Broken Limb, or
+Tenting a Green Wound, till our _Esculapius_ was to be called, the
+Lord knows where, and found the Devil knows when. This Trade
+continuing, the other fell to decay, till at last Poverty began to
+peep in at his Window, and Duns to hover about his Door. In these
+little Exigencies and Necessities (for the Gentleman's Tables abroad
+would not fill the Bellies at home, nor would Hunting or Hawking pay
+Landlords Rent) his Wants put him upon Shifts and Artifices for his
+Subsistence; and what with a Natural Wit and a pretty large Talent of
+Confidence, the pressing Hand of Fortune threw him upon several Tricks
+and Frauds to hold his Head above-board. But not to trouble you with
+any of his lesser Diminutive Exploits, the Infancy and Nonage of his
+Activity, we do not think fit to treat you with these pettier
+Adventures, but e'en set out in one of his noblest Atchievements, and
+paint our new _German_ in some of his boldest and fairest Colours.
+
+Accordingly he Equips himself with a Sturdy Young Country Fellow, a
+_Ralpho_ to our _Hudibras_, and takes a Knight-Errantry one day to a
+Fair at _Brayls_ in _Warwickshire_, his Habit between a Grazier and a
+plain Country Gentleman; where Santering about with his Man _Tom_ (for
+so his Squire was titled) at last spying a Knot of good likely Kine
+(near a Score of them). _Ah Master_, says Tom, _what a parcel of brave
+Cattle are these_. _Ay_ Tom, replies the Master, _I am sorry I saw
+them no sooner; these would do my Business to a T; but as the Devil
+and ill Luck would have it, I have laid out my whole Stock already,
+and so I'll e'en set my Heart at Rest_. The Country Fellow, the Owner
+of the Cattle, seeing a Gentleman of his honest Appearance surveying
+his Beasts, and hearing every word that pass'd between the Man and
+Master (for they took care to talk loud enough to be heard) thought he
+had got a good Chapman, and desired the Gentleman to draw nearer and
+handle the Cattle. _Handle_, answers _Tom, what for?_ _You know, Sir,
+you have laid out all your Money already, and what should we handle
+Cattle unless we had Cole to buy 'em. I confess they are for your Turn
+above any I have zeen in the whole Vair, but that's nothing, the Money
+Master the Money._ _The Money_, replies the Country-man, _Troth
+that shall make no Difference, nor break Squares between us; if you
+and I can agree, the Cattle are at your Service: I suppose you are
+some honest Gentleman hereabouts, and the Money will do my work next
+Market-day. Pray what may I call your Name? My Name is_ Walters,
+replies our Cattle-Merchant, _Walters, Master_, answers our
+Country-man, _What any Relation to his Worship the Noble Sir_ William
+Walters? _Ay, Friend, a small Relation, a Brother of his. A Brother of
+Sir_ William_'s_! Off goes the Country-man's Bonnet at the next word,
+and a long Scrape made; for no Respect was too great for a Brother to
+a Person of such eminent Quality. _My Cattle, Noble Squire, Ay with
+all my Heart._ In short after much ado to make the Country-man be
+covered before him, he fell to treat about the Price of the Cattle, in
+which he bargained so warily, that they had almost parted for a single
+Shilling in a Dispute between them. But at last the Bargain and Sale
+concluded, _Tom_ is commanded to drive home the Cattle, the Money to
+be paid next Market-day, and the Country-man has the Honor to drink a
+Pot at parting with his Worshipful Chapman our Sir _William_'s
+Brother: This Feat performed, he takes a walk round the Fair, and
+picks up a pretty Country Girl, a Mason's Daughter, at a small Town
+about four Miles off, and gives her the common Country Civility of a
+Fair, _viz._ a Glass of White-wine and Sugar. During this
+Entertainment of our young Damsel, he is most desperately smitten with
+her Beauty, insomuch that our _Inamorato_ must wait upon her home to
+her Father's House, nothing but Death and Despair attending if he
+cannot have that extraordinary Happiness. The Girl who by this time
+had learnt his Name and Quality, was not a little confounded at the
+pressing Importunities of a Person of his Worth to a poor Girl of her
+little Capacity, and notwithstanding her modest Refusals, felt a
+secret Pride from so kind an offer, and at last accepted of his
+Service home. No sooner was she got safe handed home, and Mother and
+Daddy, were privately whispered what Honor they received from such a
+Visitant; the best the House could afford was not good enough for him:
+after the courser Compliments of [_Lord, Sir, such a Person of Quality
+under our poor Roof_] and the like; the best welcome that could be
+made him was not wanting: Nay, for what was deficient at home, the
+whole Neighborhood was Ransakt to lend help toward the Accommodation.
+Our new Lover not to baulk a good Cause, openly Professes no less than
+honourable Matrimonial Affection to his dear Conqueror. Estate he
+wants none; and Portion or Quality are below his Consideration, the
+Satisfaction of Love is the only thing in the World he resolves to
+gratifie.
+
+The Father and Mother are much astonish'd at such an Addressor to
+their Daughter, nor is the Daughter her self a little surprized at it,
+though of the two her Wonder is the least; for her Sexes natural
+Frailty was so apt to make her think it the pure Effect of her own
+sweet Face, that the power of her Charms, and the Quality of her
+Captive was not altogether (she fancied) so extraordinary an
+Adventure. In fine, Our passionate Admirer pushes on his suit with all
+the Vigour and Application imaginable, and truly you may well conceive
+so weak a Resistance could not well hold out long against so Puissant
+an Assailer: The Siege is press'd home, and in three short days the
+white Flag is hung out, a Parly beat, Articles concluded, and the Fort
+surrendered. Our Damsel, in short, commits Matrimony; and the whole
+Family is not a little Transported at such a Noble Alliance. Thus
+Wedded and Bedded, Our new Couple are all Honey and Sweetness, and
+though Sir _William Walter_'s House was not above a dozen Miles from
+thence, his Adopted Brother all safe and secure, sleeps in the soft
+Arms of his young Bride with all the Rapture of Pleasure and Delight.
+After three Revelling days were spent in Feasting and Joy, the
+Father-in-Law and himself enter in a close Cabinet Consult about
+providing for Family and Settlement. He tells the Old Man, that truly
+his Brother the Knight will undoubtedly take no little Dudgeon at this
+Match, not that he cares a Farthing for't. He has Married the only
+Creature of the World he can Love, and he is resolved to Cherish her
+accordingly. But however, to manage Affairs with Discretion, he thinks
+it his best Prudence and Policy, to get his Trunks and the Writings of
+his Estate safe out of his Brother's Hands, before he publishes the
+Marriage. And for that purpose he has no better way than for his
+Father-in-Law to help him to a small Cart and a couple of able Horses,
+and to drive to his Brothers, and take up his Trunks, _&c._ And
+considering he had laid out all his ready Money in Cattle at _Brayle_
+Fair, he desired the favour of him to furnish him with Ten Pounds,
+that he might not be unprovided with a little of the Ready about him,
+in case of any Rupture between his Brother and himself, till he could
+furnish himself better amongst his Tenants.
+
+The Old Man very readily embraced this reasonable proposition, and
+though truly the Summ of Ten Pounds was above his Stock, nevertheless
+living in Repute amongst his Neighbors, through great Solicitation,
+some forty and some thirty Shillings, and such like Summs, with much
+ado he raises the Ten Pounds desired; and more and above he procures
+two very Able Horses and a Cart to bring away the Treasure aforesaid,
+_&c._
+
+By this time his Man _Tom_ having Sold the Cattle, is come to wish his
+Noble Master Joy of his fair Bride, and so the Master and _Tom_
+attended by a Brother of his Bride, an Honest Country Swain, who
+though so highly honoured with this new Affinity, is at present
+planted in no higher a Post than to be a Mate with his Man _Tom_ to
+drive the Cart, set forwards, _&c._
+
+The Brother-in-Law, Cheek by Jowl, with the fore-Horse of his small
+Team, drives on very merrily for about Nine of the Twelve Miles to Sir
+_William_'s, entertaining his Worshipful Relation with the very best
+Tune he could Whistle all the way they travell'd.
+
+But now within Three Miles of home, our politick Bridegroom thinks it
+advisable, that one of his Carters, the Brother, should make a Halt at
+an Alehouse where they stopp'd, and the whole Manage of the Cart and
+Horses be intrusted with _Tom_, for fear the sight of a Stranger to
+come to take up Goods at his Brother's might give occasion of
+Curiosity and Inquiry, whereas _Tom_, an old Servant in the Family,
+with less Suspision and Inspection might do it.
+
+These strong Reasons (or indeed weaker would have served turn) were
+satisfactory enough, and so the Gentleman Equipping his Brother
+_Clodpate_ with a _George_ to stay and Drink till they returned, the
+Master and Man fairly drive on, for the remaining three Miles to bring
+off the Bag and Baggage, _&c._
+
+The Potent Summ of a whole Half Crown to be laid out in Ale, set in our
+Country Youth to a hearty Carouse with the kind Hostess of the House,
+where the Esquires Health was over and over remembred, not forgetting
+the Great Man at the Great House about Three Miles off; where, as
+simple a Country Fellow as he was, he expected one day to be better
+acquainted.
+
+But to draw this Adventure towards a Conclusion, our waiting Carter
+long expecting the return of the Brother, the Palfries and the Cargo,
+notwithstanding the Strength of powerful Ale, and his Sweet Land-Ladies
+diverting Company, began at last to be Impatient; sometimes he fancied
+the Loading was too heavy for the Poor Beasts, and he thought it his
+best way to walk out and see if he could meet them: But all Inquiry was
+in vain, Night at last drew on, and the best part of his Half-crown
+melted down; at last, though very Uneasie and Restless, he is perswaded
+by his kind Hostess to take a hard Nap till Morning. The Cock was not
+so soon awake as he, for to tell Truth, he ne're slept at all, though
+indeed he dreamt all Night, for he could not think less, than that some
+Retainers of the Family had undoubtedly followed the Cart, and Murder'd
+the Squire to run away with the Treasure, and what his poor Sister
+would suffer to be a Widow so early, was little less than a mortal
+Apprehension. Thereupon very betimes in the morning he pads to Sir
+_William_'s, and very earnestly enquires, what was become of the
+Squire, the Knights Brother. Sir _William_'s Brother, _reply'd the
+Servants_, we know none he has; 'tis true, he had one some years beyond
+Sea, but whether dead or alive, is more than any Man upon _English_
+Ground (_God wott_) can tell. How! no Brother-in-law Squire! No Sir
+_William_'s Family! No Sister like to be a Lady, nor Brother a
+Gentleman! nor no Horses nor Cart neither! This staggering Account, put
+him into so doleful a Dumps, that he stood almost Thunderstruck. And
+truly the twelve Miles home agen, was so tedious a Journey, and the
+lamentable Narrative he must make 'em at home, so killing a Fancy, that
+it was a great Mercy he did not make a stay upon some convenient Twig
+in some Hedge in the Road, rather than live to be the Messenger of such
+a woful, sad Tale--But ill News at last must out. The Bird and the
+Beasts were all flown; the poor Bride sweetly brought to Bed, a Cart
+and two Horses to pay for, a Son-in-law to find when the Devil was
+blind, the Daughters sweet play thing lost, the Father and Mother dipt
+ten whole pounds in Chalk, and the whole Family under the suffering of
+a whole Chamberpot full of waylings and Tears for their Calamities and
+Misfortunes.
+
+But to return to our Rover: By the sale of Cart and Team, ten pound in
+Cole the last lump, and the price of his Kine the other, his Pockets
+were pretty well lined; and considering this spot might soon grow too
+hot for him, he thinks it wisest to shift the Scene, and thereupon
+dismissing, for some time, his Man _Tom_, who had pretty well lick'd
+his Fingers in so profitable a Service, our Grasier now transmogrifies
+into a Spark, and very sprucely rigg'd, takes a ramble Westward, where
+meeting with no Adventure worth recital, in some small time he gets to
+_Ludlow_. There taking up the first Night at an Inn, his Garb (though
+unattended by Servants) soon made him good Reception; his first enquiry
+was to learn out the Eminentest People in the Town, of which being
+readily inform'd by the Drawers; he learnt, amongst other Relations,
+that there was a Substantial Wealthy Tradesman, had two pretty
+Marriageable Daughters: Being directed to the House, he addresses to
+the Father, telling him he was a _Barkshire_ Gentleman, and intending
+to make some small abode in _Ludlow_, he did not think fit to continue
+in a Publick House, but would gladly gain admission to some private
+Family. The Tradesman (whose name we will not mention) being a Widower,
+and taken with the manner of his Discourse, kindly invited him to his
+own House, which our Travelling Gallant as kindly embracing,
+Accommodation was made, and he was lodged that very Night at this
+private Landlords.
+
+His entrance here gave him the opportunity of daily conversing with no
+mean wit and charms in the two sweet Daughters of the Family; and our
+Gallant, very apt to take fire at but a small matter of Beauty,
+especially with a Portion at the Tail of it, felt no little wamblings
+at the extraordinary accomplishments of the elder, somewhat the sweeter
+Creature. But this new Adventure was not an enterprise so easie as the
+last; this Sire of some fashion, was so far above the Education and
+Extract of his former Father-in-Law, a Man of Mortar and Trowel; and
+his Daughters of a reach and understanding so much beyond the others
+humbler capacity; that measures must be quite alter'd here from those
+that he took before. Accordingly now his discourse was always upon
+Foreign subjects, himself and his own affairs the least part of his
+talk; and if any inquisitive question, either by Father or Daughters
+were made relating to his Family or Concerns, he answered with that
+Modesty, and almost silence to all demands of that kind, that he left
+their curiosity still in the dark; and which indeed was so much a
+heightning to the favourable imaginations they had conceived of him;
+that they doubted not in the least, but he was of eminent Quality; and
+what any boasting Vanity would have made 'em rather suspect, his
+Modesty on the contrary confirm'd. 'Twas some few days before they
+inquired his name, for which he had ready at his Tongue's end, the
+name of a very great Family in _Barkshire_; but not descending to
+particulars, the remoteness of the place did not gain 'em much
+intelligence of his Quality from only the bare name. All this while, at
+some little distance, he dropt a great many complaisant words to the
+elder Sister, which look'd very much like Love, and which he indeed
+desired should be so interpreted. In this Conversation, now of a
+Fortnights continuance, he had rendred himself so acceptable to the
+whole Family, that a great many favourable thoughts on all sides
+inclined towards him. The Address to the Daughter, at last looked a
+little more plain and barefac'd, and at that time a Fair happening at
+_Ludlow_, where he had been diverting himself with seeing of Fashions,
+he came home in much Concern, and some kind of Passion, much greater
+than hitherto they had at any time seen from him. "Certainly there is
+no place in the world (_says he passionately_) so retir'd, but some
+Devil or other will still find out and haunt me." The odness of this
+expression invited the elder Sister to ask him what he meant. "Why
+truly, Madam, (_he replied_) I have been hunted from three or four
+Towns already, for in spight of all my resolutions of living
+_incognito_, some unlucky Person or other comes full in my mouth, and
+will betray me in spight of my Soul." This answer did but heighten her
+Curiosity, and having, as she thought, some little Interest in him as a
+profest Servant of hers, she was a little the bolder in pressing the
+Question; and therefore plainly ask'd him why he liv'd _incognito_, and
+what accident had now discovered him: To this at last, with a little
+more frankness than he had hitherto used, he replied, the reason of his
+Ramble from his Family, with his Living three or four Months past
+unknown to the whole World, was only to prevent the ruine of a Sister,
+who like a foolish Girl, was in much danger to be undone by a Beggerly
+Match she was too fond of; and her Portion being in his hands, he had
+absented himself from his home, left the softness of her tears, the
+importunities of several Advocate's in behalf of this indigent Lover,
+together with the weakness of his own tender heart, might at last be
+prevail'd upon to grant his consent to what he knew would be his shame
+and her undoing. And as ill luck would have it, he had unfortunately
+tumbled upon a Countryman of his, now at the Fair, who would infallibly
+run open mouth'd to his Sister and his Family, and tell 'em all where
+he was. This discovery gave a good occasion to the fair Examiner to be
+not only a Pleader for her own Sex in the Person and cause of his
+unknown Sister, but likewise to be a Champion for Love. For now she
+plainly told him, that a great many grains of allowance were to be
+made, where hearts were inseparable. If this Lover of his Sisters was a
+man of Sense and Quality (as neither of those he could deny him) it was
+a little barbarous in him to oppose the whole Repose and Contentment of
+so near a Relation as a Sister, for so sordid a consideration as a
+little Worldly Interest. Besides, there was a Providence always
+attended Faith and Truth in Love, and undoubtedly sooner or later would
+provide for their well-being, or else enable 'em to bear a meaner
+portion of Riches, which others perhaps might, less contentedly,
+possess. This argument was almost the daily discourse, in which she
+seem'd to gain some little ground, but not enough to perswade him to
+the unreasonable Grant of his Sisters desires.
+
+About five days after comes a Letter directed to him at _Ludlow_, with
+the Post Mark upon it very authentically, which in a very legible
+Woman's hand contained these words.
+
+    Dear Brother,
+
+    _What unhappy Star am I born under, to suffer all this miserable
+    Persecution? Certainly, when my Father left me to your disposal,
+    and tied my Portion to your liking of the man that must marry me,
+    surely he could never have died reconciled to Heaven, could he have
+    foreseen the Slavery he tied his poor Child to, in putting me into
+    the power of so cruel a Brother. To run so many Months from your
+    House, your Family, nay, your Honour too, (for what must the
+    censuring world talk of you) and all to break a poor Sister's
+    Heart. Oh shameful! to hide your self from the World, and run from
+    Mankind, only to shut your Ears against Justice, and to be deaf to
+    all Goodness and Humanity! Alas, what Capital Crime have I
+    committed, who only loved a Gentleman, in Birth and Blood no ways
+    my Inferiour; and what if an unfortunate Younger Brother's slender
+    Patrimony of a Hundred a Year, is not answerable to a Portion of
+    Two thousand Pounds. A wonderful Cause to make me the most unhappy
+    Creature living, in refusing me the only Blessing the World has to
+    give. How many fair steps to Preferment and Honour lye in the way
+    of so accomplish'd and so well Related a Gentleman, notwithstanding
+    his Elder Brother run away with the Estate; and what good Fortune
+    have I not to hope for, if your Barbarous Aversion did not
+    interpose between my Felicity and me. In short, resolve to return
+    home, and be kind to your languishing, and almost despairing
+    Sister, or else expect very speedily to be visited by her at your
+    Bedside in her Winding-sheet. For if Ghosts can walk, and your
+    Barbarity has sworn my Death, expect to be eternally haunted, as
+    you shall deserve from----_
+
+    Your Distracted----
+
+The next Post four or five Letters more came after him; one from his
+Bayliff, to desire him, for God's sake to come home again; for the
+Devil a Farthing would his Tenants pay till they saw their Landlord. A
+second from one of his Tenants, complaining of his bad Crop, and the
+low price of Corn, and that unless he would bate him Twenty pound a
+Year Rent, he could never hold his Farm; earnestly desiring his Worship
+to come home, and take care of his poor Tenants, _&c._ A third
+condoling his Misfortune in the loss of his Eldest Son, and desiring to
+see his Sweet Worship's Face, that he might get him to put his Second
+Boy's Life into his Copy-hold; and others of the like Import.
+
+These Letters our Spark left in his Closet Window, and one whole day
+going abroad, by a pretended Negligence, he shot the Bolt of his Closet
+Lock out of the Staple, and so left his Door a-jar, and his Letters
+expos'd to any body that would please to read 'em. This Stratagem
+succeeded to his Wish, for the Daughter, whom I may now call his
+Mistress, knowing him safe abroad, had dropt into his Chamber when the
+Maid was making the Bed, and finding the Closet Door open, made bold to
+peep, and spying his Letters there, tips the wink upon the Maid, whom
+she made of the Council, and read 'em all out. The Contents put her
+mightily upon the gog; for certainly she concluded he must be a Man of
+a mighty Estate, so many Tenants, and the Lord knows what; and if a
+Sister had Two thousand Pounds, what must an Elder Brother possess.
+After she had conjured the Maid to silence, she could not forbear
+running to her Father, and telling him all she had discover'd: The
+Father at first a little reprimanded her Curiosity, but considering he
+had found out a Love Intrigue between his Daughter and him, he thought
+it no unwelcome discovery. At last looking very stedfastly upon his
+Daughter's Face, with a sort of a kind fatherly leer, he cry'd, _Ah
+Child, would he were a Bed with thee_. How, Father, _reply'd the Girl
+blushing_. Nay no harm (_quoth the Father_) Chicken, that's all. Thou
+sayst he makes love to thee, and troth I must own it no small part of
+my Ambition to have a Person of his Quality and Fortunes for a
+Son-in-law. In short, The Father gave her very seasonable Admonition;
+for having sounded her Inclinations, and found 'em to his own wish,
+with a Fatherly Authority he commanded her, if his Addresses hinted at
+Marriage, to make him all reasonable Advances that way.
+
+Our Gallant found his Plot had taken; for he had critically observed in
+what most particular manner and station to a quarter of an inch he had
+laid his Letters; and finding all of 'em displaced more or less from
+the exact point he had left 'em, he plainly perceived they had all of
+'em been read. Besides, in compliance to her Father's Orders, and
+indeed a little to her own Inclinations, he discover'd her usual
+Coldness to him a little diminish'd, and her Aspect more favourable,
+which plainly told him the Bait had taken. Whereupon one Evening
+finding her alone in her Garden, with a confidence more than usual, he
+plainly spoke home, telling her what an inestimable Blessing he should
+acquire in possessing so much sweetness for a Wife.
+
+A long Courtship ensued, the Particulars too tedious, only the Girl was
+a little more pliant than ordinary, but much doubting the integrity of
+his Protestations; alledging it was very unlikely he would debase
+himself to marry a Creature of her mean Fortune, for all she could at
+present challenge, except what her Father might do for her after his
+decease, was only a 100_l._ left her in her Father's hands by an Uncle
+deceas'd. Our Gallant presently with much disdain seem'd to slight all
+thoughts of her Fortune, for that, he thank'd Heav'n, he wanted not;
+and truly her dear Person was the only consideration that had fix'd his
+Heart intirely her Captive. To bring him to the happy point, 48 hours
+are not past, before he comes to reap the fair Fruit. The marriage-knot
+is tied; and the Nuptials consummated, and Joy and Felicity runs high
+between them.
+
+In this happy State, and uninterrupted Delights, they continued some
+days, when of a sudden his old Servant, _Tom_, booted and spurr'd,
+comes to _Ludlow_, and now in a little higher station than before, in
+the garb and figure of one of his Bayliffs, he comes post thus far,
+first to tell him the Distraction of his Family occasion'd by his
+absense; 2dly, The Lady his Sister's sudden departure, God knows
+whither, for she went away by night two days before he set out from
+home, and has not been heard of since. And that a Letter was come from
+_Bristol_, intimating that his Venture in _Sherry_ was safely landed
+there, and that the King's Customs came to 97_l._ but his Correspondent
+at _Bristol_ being lately dead, the Custom was yet unsatisfied; and
+truly for his part none of the Tenants would pay him one Groat till
+they saw their Landlord again, and therefore he could not raise the
+Money to satisfy it. Our new Bridegroom hearing all this, presently
+communicates the whole matter to his sweet Bedfellow, desiring her to
+get her Father to accommodate him with that Sum; not that he ask'd it
+as any part of her Unkle's Legacy, he scorned to be so poor-spirited;
+no, he requested it as a Boon, and the Monies should speedily be repaid
+with Thanks: Which if he pleas'd to do for him, his Servant should fall
+down the _Severn_, and take care of his Wines, of which his dear
+Father-in-law should have one Hogshead to drink to her _Hans in
+Keldar_. The Daughter was a speedy and successful Embassadress, for the
+Money was presently laid him down in Gold, for the more ease of his
+Servant's carriage of it. _Tom_ had not been two hours gone, but a
+Footboy in a very fine Livery brings him a Letter from his Sister,
+signifying her extreme Concern for his deserting his Affairs and
+Family, and that her Griefs and Disquiets had made her take a long
+Ramble to see him once more. And that she was now at _Hereford_, not
+daring to approach any nearer till she had his gracious Warrant and
+Permission, which she humbly upon her bended Knees intreated of him,
+with a great deal more passionate Courtship to him upon that Subject.
+Upon perusal of this Letter he seem'd to melt into a great deal of good
+nature and compassion for his dear Sister, insomuch that a Tear stood
+in his Eyes which his sweet Bride very kindly drank in a kiss. At
+length launching out into a great many tender Expressions towards his
+Sister, which Goodness his kind Bride much applauded and encouraged,
+throwing in many a kind word in her Sisters behalf; At last the Brother
+concluded he would be so civil to her, that since her extravagant
+Affection had brought her thus far to visit him, he would return her
+the Favour of Riding himself to _Hereford_ to fetch her, if his kind
+Father would procure him a Horse. Ay, with all his heart. Nay, both
+Father and Daughter proffer'd to take the same Journey with him to pay
+their Respects to the young Lady, and attend upon her as part of her
+Train to _Ludlow_. No, by no means, replied our Spark; that was more
+than the Rules of Honour would allow: for his dear Bride, as his Wife,
+was a Person in Quality above her, and whatever Kindnesses she pleased
+to show her when at _Ludlow_, was in her free Power; but this
+complaisance was too great a Condescension, and consequently he beg'd
+her leave that the tenderness he had of her Honour might absolutely
+forbid her any such thought. And indeed his Father's was much the same
+Condescention, which he must likewise no way suffer.
+
+The Father and Daughter both silenced with this Answer, acquiesced with
+his Reasons, as being much a more experienced Master of Ceremonies than
+they could pretend to; consenting to let him go alone only attended by
+the Sister's Page; in the mean while resolving to apply their officious
+Respects to this fair, tho yet unknown Relation another way, _viz._ in
+making a suitable preparation for her honourable Reception. But first a
+very stately Horse was borrow'd, one that a Collonel of the Guards had
+lately bid a lumping Sum for; with all Accoutrements answerable. And at
+mounting, our Cavalier whispering in his Father's ear, and telling him
+he had been long from home, and not knowing whether his remaining Stock
+might hold out to his present Occasions, he desired---- The Father
+would not hear out the Speech, but running up stairs presently, fetch'd
+down, and stole into his hand a silk Purse richly lined with Twenty
+Broad Pieces.
+
+Our Squire thus every way obliged, after his due Conges all made, bids
+them all Farewel till tomorrow, and so prances off. Here let us leave
+the Father and Daughter as busy for the Credit of the Cause, as may be
+imagined, making all suitable Provision for tomorrow's Entertainment;
+the Kitchin, and Pantry, the Bed-Chamber, and the Court-Cubboard, must
+all appear in Splendour extraordinary.
+
+And now to return to our Traveller: Heaven knows he had the misfortune
+to miss his way, for he never found _Hereford_, nor Sister. His Barb
+too found another Chapman than the Collonel of the Guards; for both
+Horse and Accoutrements all embargoed, and the dismounted Cavalier
+slipt into a Frize-Coat of his Man _Tom's_ providing, who waited his
+coming, The Master, Page, and _Tom_, in a small prepared Vessel,
+troul'd down the _Severn_ as fast as Tide and good Speed could carry
+them.
+
+As we thunder'd down the _Severn_, one of our Strollers being at
+present useless, our Page (well rewarded for playing his part in the
+_Farse_) is dropt at _Worcester_, from whence we continue our Voyage to
+_Bristol_. Arrived there pretty late in a Summers Evening, 'tis not
+thought convenient to appear in any Dress whatever had been seen before
+at _Ludlow_, nor indeed to expose his Face, lest any Inquiry might be
+made there about him as a Sherry-Merchant, and so trunking up all his
+best Rayment, he gets himself new rigged at a Salesman's in a genteel
+Garb, but something modester than his _Ludlow_ Bravery, and _Tom_ and
+he next morning move off to _Bath_.
+
+It fortunes here, that he Quarters at one of the great Inns, it being
+the beginning of the Summer, just before _Bath_ time, where was a brisk
+Daughter of the house, about half way stage between 20 and 30. and
+consequently much inclinable manwards. A Girl that had had the Honour
+of many a slap cross the Mouth, and chuck under the Chin by Lords and
+Earls in her time, her Fathers honourable Guests at _Bath_ season. Our
+most constant Lover of every new face, feels the old Itch again.
+Business he finds will thicken upon him, and therefore flusht with his
+late Successes, he resolves to throw out his winning hand as far as it
+will run.
+
+But now to know what Portion this Damsel had, for without a spill of
+yellow Boys, naked White and Red has but indifferent Charms with him.
+This Intelligence was quickly made, without asking the question; for
+there was a Jest in the Family of one of the Drawers being Suitor
+there, who belike wanted a tite sum of 80_l._ to set up withal (a small
+Portion of hers formerly left her by a Grandfather, and now at use.)
+This Drawer forsooth was a Rival, but not an over-formidable one. For
+truly our Inn-keepers Daughter had so often been tickled with the
+Addresses of Quality, that (_Foh!_) her Fathers Drawer was scarce
+worthy to hold up her Train. A Gentleman, or nothing for her. Nay, if
+she has not the happiness to strike in for a Lease for Life at Bed and
+Board with some honourable Person, rather than dye in ignorance, keep a
+stale Maiden-head, and so lead Apes, she has long since resolved not to
+stand out at a lower game, and en'e admit a Tenant at Will to an Inmate
+of Fashion and Quality; and was grosly suspected she had tried the
+Constitution of her Body, under a load of Honour long before her
+present year of twenty five. But true or false, that's a small Blot, in
+her Scutchion.
+
+Our _Don John_ is absolutely captivated, and plies her home with all
+the Rhetorick that Love can afford. Our man _Tom_ in the meanwhile but
+very modestly, is whispering amongst his Mates, the lower Tire of the
+Family, the Servants, what a Worthy Gentleman his Master is, being a
+Rich _Norfolk_ Gentleman (a pretty large stride from _Bathe_) of 500 a
+year. This Narrative passes pretty well amongst the shallower pates,
+the Chamberlain, the Tapster, the Hostler, and the rest of the inferior
+Domesticks; but our hardfaith'd young Mistress of the house, whither
+bit before, or naturally not over-credulous, does as good as declare,
+That her Principles are to look before she leaps. Our _Norfolk_ Suitor
+finds his Addresses very acceptable, but still with a reserve, Provided
+he be the Man he appears. He plainly sees, that the Girl, upon good
+Grounds is very pliable, but she's a little past the years of being
+dandled and kist out of her Reason: He or any man else (any Tooth good
+Barber) with Honour and Estate may go far with her; but Demonstration
+is the only Argument that must carry her Cause. As many years as she
+has lived (or at least past for) a Maid, she is not so hard set, but
+she can tarry till Substantial Testimony (as far off as _Norfolk_ lies)
+can make out the Lands and Tenements, before she consents to an
+Inclosure. Our Spark therefore put to his last Trumps, finds this last
+a craggier and more difficult Enterprize than any he had ever yet
+encountred; however, thinking it a very great scandal to his Wit, to
+lie down before her, and shamefully for want of Ammunition, be forced
+to raise the Siege, he sets all his Brains at work for one last Mine to
+blow her up; or if that take not, he is resolved to quit the Field. In
+a day or two after, he begins to be Melancholly and indisposed; during
+this fit, he is very cold in his Love, and applies him to Religious
+Books, talks much of very odd Dreams he has had, till at last he takes
+his Bed. Physitians are sent for, whether they found any real
+indications of sickness or no, or acquiesced to his own Declaration of
+the Pains he felt, no Medicinal Application was wanting. His Distemper
+increasing, he desires a Man of Law to be sent for, accordingly a
+Scrivener of the Town is called, who draws up his Will, in which he
+gives away about Three Thousand pounds in several Legacies, leaving his
+Nephew his full and sole Executor. The Will is sealed up, and delivered
+to his Man _Tom_; and all the cognizance taken of his Mistress, is only
+10_l._ to buy her Mourning. Next a Man of God is sent for, and all the
+necessary preparations for a Man of another World are made. His
+Conscience setled, and his Viaticum for his long Journey most devoutly
+furnisht. But it pleases Fate, or the Sick man rather, in some few days
+after, to give some small symptoms of amendment, and to shorten the
+matter, in Eight or Ten days time he is pretty well recovered, and the
+next talk is of fancying his own Native _Norfolk_ Air for perfecting
+his Health; all this while the young Damsel, who, tho not call'd to the
+Will-making, knew all the Contents of it, and finding from all hands,
+the great uprightness and devotion of her humble Servant, could not
+fancy that so much Religion and Piety could be an Impostor, and
+therefore she doubted not in the least, but the Estate in _Norfolk_ was
+unquestionable; and tho indeed her Prudence would still incline her to
+a full inquiry and satisfactory account, yet 'tis now too late, her
+cooling Admirer talks of speeding to _London_; and tho he professes he
+will leave his heart behind with her, She is afraid that new Faces and
+better Fortunes will soon shake her hold there, and therefore taking
+her Pillow upon the business, she resolves not to slip so favourable an
+opportunity, but to lay hold of the forelock, and take a good offer
+whilst she may have it: For with all her natural Pride, she considers
+her self but the Lees of a Tap; and 'tis not every Rich Gudgeon will
+bite at a Bait so blown, and so stale.
+
+Her departing Lover still pressing for his Journey, the good-natur'd
+Girl watches the next amorous sally of her Gallant, and takes him at
+his word, and without asking advice, thinks her own wit sufficient, and
+in two days time enters into _for better, for worse_. The Town-Bells
+soon rung All Joy; and the best Hogshead in Daddy's Cellar run
+_Claret_. His Honourable Guest and Son-in-Law was the little Idol of
+all the Virgins of the Town, and the envied preferment of sweet Mrs.
+_Betty_ had fill'd all Tongues; and scarce a Prayer offered up for a
+Husband, but Mrs. _Betty_'s felicity was made the Pattern of their
+Devotion.
+
+But now, as the Devil would have it, our dignified Bride is for having
+her Dear Spouse, by all means, doing her and her Father the honour of
+staying out the whole Bathe Season (now coming on) amongst 'em, and
+nothing can divert her from that resolution. This is a very unwelcome
+proposal; for the multitude of Faces from all quarters of the Kingdom,
+may not only be very dangerous to his circumstances, but likewise his
+_Norfolk_ Abilities, long before that time, may be examin'd too
+narrowly; and therefore not being able to make any harsh refusal of his
+fair Brides request, lest it should look like design, and to marry a
+young Girl, and be ashamed of her parentage, would appear so unkind,
+that he has no Artifice to wean her from _Bathe_, and drill her out of
+Town, but by pretending a small relapse of his Indisposition, which he
+acted so well, that he denied himself the very pleasures of Love, and
+fell off even from Family-Duties. This Curtain-failure began to
+moderate her passion for staying at _Bathe_, for her tame Bedfellow
+still preaching up the virtues of his own Native _Norfolk_ Air, his
+poor defeated Bride could not but have a womanly longing for so
+necessary a Restorative, and thereupon for so important a Medicine to
+her feeble Yokemate, she consented to go along with him.
+
+All her fine Cloaths were Boxed up, together with several Bed and
+Table-Linnen, _&c._ (for she had pretty good Moveables, all the
+Legacies of Deceased Aunts and Grannies, and other good Kin) and all
+sent by her Man _Tom_ to the Carriers, and two days after places took
+in the flying Coach for their speeding to _London_.
+
+But one main thing was almost forgotten. She had call'd in her Portion,
+which for a Guinies Gratification the Scrivener had ready at an Hours
+warning, having at that time some other peoples Money by him
+undisposed, and hers being out upon Mortgage, the Owners were very well
+pleas'd to make an Exchange upon the same security. This Money was not
+to be trusted by the Waggon, but to be carryed up with her in the Coach
+box, for which her Man _Tom_ beg'd her acceptance of a little Gilt
+leather'd Trunk that happen'd to be just small enough to go into the
+Coach-box. The Day of setting out being the Morrow, her thoughtful
+Spouse had nicely consider'd that the Coach would be in _London_ half a
+day before the Carrier, which for some Reasons you'll find in the
+sequel was not altogether for his convenience, and therefore he made a
+shift to put off the Journey till next Coach-day.
+
+Against that time the Gilt-leather'd Trunk, and the Key to it was
+deliver'd her, (tho by the by he had got two Keys) and the 80_l._ some
+Broad pieces, a Caudle-Cup, half a dozen of Silver Spoons, and some
+other Toys were all stowed in it; and the Kind Couple are trundling
+away for _London_, with the Man well mounted riding by.
+
+Now as a Man of his Estate, he had freely given her all her own
+Portion, a small Privy Purse to buy her Pins with, having Marryed her
+only for Beauty, and much disdaining the addition of so small a sum to
+his plentiful Fortune. The first stage being done (for they had but one
+Night to lye by the way) the small Cabinet of Treasure was carefully
+taken out of the Coach, and lodged in a Closet in the Chamber, and next
+Morning deliver'd to _Tom_ to see safely laid in the Coach-box as
+before.
+
+The next Night arriving both at _London_, (whither _Tom_ about
+_Brenford_ was commanded by his Master to speed a little before to
+prepare for their Reception) a very fair Lodging near St. _James_'s was
+ready to entertain her, but no _Tom_ had been there; and coming to open
+the Trunk, instead of the Gold and Silver Entrayls there was nothing
+but a Bag of Stones, and a piece of a Brickbat to supply their places,
+enclosed in a few Rags that stuft up the Trunk. This amazing sight
+threw the poor Lady into a most violent Distraction, and 'twas very
+hard to hold her from falling into a Fit, her Husband seeming as much
+amazed as her self, and joining in the complaint as loud as she. But to
+abate her Rage, he told her the wicked Rogue should not so scape, he
+had very sufficient security from able Friends for his honest and
+faithful service, and their Purses should make her Reparation, till
+when the Loss should be made up out of his own Pocket. Nor would he
+sleep till he had made her some farther satisfaction, and therefore
+beg'd her Excuse but for one half Hour till he took Coach, and made
+that search and quest that perhaps would bring her some considerable
+Light into the Villany. Her Zeal for her Loss never look'd any farther,
+and accordingly well pleas'd with the Kind Motion, she took leave of
+him for the half Hour aforesaid.
+
+But, alas, a long half Hour, for half the Evening, nay the whole Night
+was gone, and neither Man nor Master to be heard of. So Husband and
+Portion all departed, she thought fit to secure her Goods and Cloaths
+at the Carriers, but the same Calamity attended there likewise, for
+_Tom_ had been there too, and swept all.
+
+To describe the Distress and Anguish of our present Female Sufferer, or
+either of her two foregoing Sisters in Affliction, being a work beyond
+our power, we shall e'ne do as the Painter did of old, that is, draw a
+Vail before the Face of sorrow, the Lineaments of true Grief being
+above the Pen or Pencils skill.
+
+And now to follow our Libertine through all his Rambles and Exploits in
+this wide Town of _London_, (for there lyes his next Scene) being
+matter we have not yet fully been inform'd in, we dare not venture to
+play the Historian any farther than certain Intelligence (which yet we
+have not received) can guide us, being resolved not to load our Rambles
+with Romance or Fiction, his Life being furnisht with matter
+sufficiently voluminous without the addition of Flourish or Fancy.
+
+Let it suffice that some time after all these three successive
+Adventures, the poor _Ludlow_ VVife comes up to _London_, being the
+last place she has to make her quest after this Impostor and Monster,
+for those are the gentlest Names her Sufferings and Resentments can
+give him. She has a great Opinion that _Newgate_ or _Newgate_ Roll, or
+some other such Chronicles of his Renown will give her some light into
+his Life and Fortune, and perhaps the Justice of Heaven afford her a
+sight of him at least, if not a power to execute Heavens and her just
+Vengeance on so egregious a Reprobate.
+
+Her Inn being at _Holborn_ Bridge, she lights into the Company of a
+good Motherly VVoman just come from _Oxfordshire_; the sorrow in so
+young a Face, and the swoln Eyes which were not yet dryed, the Fountain
+being indeed inexhaustible, the Curiosity of the Elder Traveller made
+bold to ask her the cause of so doleful a look, &c. The young one (who
+now had no Reserves) plainly told her whole sufferings, to which the
+Matron replyed, Alas young VVoman, what are your griefs to mine? I have
+been many years the VVife of the most Infamous Miscreant that the Earth
+ever bore; deserted and abandoned by the wickedest of Men, after long
+years of Honest and Loyal Fidelity to his Bed, and exposed to perish
+(which you, thanks to able Friends, need not fear) _&c._ with a great
+deal more bitter Invectives against him. Till at last upon further
+conferring of Notes, and describing of Characters and Persons they came
+to jump together, and found 'emselves both abused by the very same
+Monster, the eldest being indeed his old _Banbury_ Wife. What Amazement
+this Accident produced may easily be conjectured, it will be enough to
+tell you that the Anguish of both their Souls, and the Bitterness of
+Gall on each side made 'em Swear an inviolable Friendship, determining
+to search (if possible) the whole World, to hunt down this Devil.
+Accordingly they take a Lodging a little higher in _Holborn_, where
+making no secret of both their hard cases, they open their whole Souls
+to their new Landlady to engage her assistance in the Quarrel. The
+Landlady Transported at both their Narrations fell upon her Knees, and
+blest God he had sent 'em to her House, for this _Lucifer_ they had
+described, was certainly the very Man that next Week was to Marry her
+Daughter. This surprize put 'em all into new Confusion, and the
+Daughter being called to the Council, it was evident that this very
+Fellow had made Love to the Daughter of the House, the day of Marriage
+concluded, the Ring and Wedding Cloaths preparing, &c. This last
+Deliverance made the poor old Woman, and the Daughter no less, melt
+into Tears at this happy Discovery.
+
+Well, 'tis agreed between 'em all, that they shall not stir till he
+comes thither, which will be in twenty four Hours at most; and all
+their united Vengeance, Constables, Warrants, and what not, shall be
+prepar'd for his Reception.
+
+This Resolution was heartily fix'd amongst 'em; only the _Banbury_ Wife
+would that Evening take a walk to a Cozens, a Citizen, where she had
+some important Affairs, but nothing should stay her abroad above an
+Hour; she had not walk'd half a Furlong but Destiny or some other
+ruling Power threw her full in the Mouth of her Husband; her Passion at
+sight of him rose so high, that at first it could not find vent for
+words, which he perceiving desired her to walk into a Tavern which was
+just before 'em, and there recover her Confusion. You may conceive she
+was very ready to accept the Invitation, her Stomach being so full,
+that 'twas the only thing she wanted to have her full swing at him. The
+Discourse of her part you may well guess at; but his Answer was so
+tender, and his Confession so open, that at last she grew patient
+enough to hear him out. He plainly told her all he had done, or at
+least the greatest part: that it was only the Effects of his Wants and
+Necessities, that now he had rais'd enough to re-establish him in the
+World, that the Hony Moon of Love had been almost over between them,
+and that if he had made any Lapse in Disloyalty to her Marriage Right,
+it was not Infidelity but Interest that had enforced him to all. And so
+showing her handfuls of Gold and Silver, he humbly intreated a
+Reconciliation betwixt 'em. Which good Words and Address at last so
+perfectedly obtained, that he perswaded her to send for all her
+Houshold Goods, and to live with him somewhere in the Liberties of
+_Westminster_, where disguising his Name, and amending his Faults,
+he doubted not through his practice to recover a plentiful Being, and
+maintain her like a Woman.
+
+The poor Creature absolutely mollified, promises Fidelity to him, and
+never returning to her new Lodgings, takes him along with her,
+defeating the whole Vengeance that was hatching against him, and not
+stirring from him till all her Goods were come up from _Banbury_, and a
+new House furnisht with 'em. She had not lived there three days, till
+finding a Gossiping Errand for her to keep her from home a whole day,
+at her Return at Night to Bed, she finds neither Husband nor Goods, Bed
+to lye, or Stool to sit upon; the whole House being utterly dismantled,
+and nothing but nakedness and empty Walls to receive her.
+
+This last Cruelty of her Barbarian made her almost run stark Mad, and
+returning to her _Holborn_ Lodging to own her frailty in believing an
+Infidel, and the Just Judgment that had befaln her upon it, she found
+the poor _Ludlow_ Mourner departed, and all her Relief left was to
+return to _Banbury_ to live upon the Alms of the Parish.
+
+This Libertine Life of our Renegade did not long continue till found at
+last by the _Ludlow_ Wife he was thrown into _Worcester_ Jail; from
+thence by _Habeas Corpus_ (at the Charge of a Parson in _Southwark_
+whose Daughter he had likewise Married) removed to _Newgate_, & upon an
+Indictment of six Wives appearing against him, being then Tryed by the
+Name of _Morrel_ alias _Bowyer_ (a Name of a Worthy Person of Quality,
+for personating of whom he had stood in the Pillory) he pleaded Guilty
+to those six and twelve more, and thereby received only the punishment
+of a Squeeze in the Fist.
+
+After this Escape of a Halter, what his following Adventures have been
+we are not informed: 'tis to be believed his Will was no ways wanting,
+though his power of managing such hardy Exploits might undoubtedly be a
+little retrencht: and therefore we have reason to conclude he fell into
+smaller Games, in which his Walks have lain something more obscure, and
+thereupon by reason of our unacquaintance with the Truth of that part
+of his Life, we shall over-leap some years, and bring him to his
+Conclusion.
+
+Some few days before _Christmas_ he came to one Mr. _Cullens_ a Baker
+in the _Strand_ to seek him a Lodging, his Habit but indifferent, and
+his Stock not above Two Shillings, pretending himself to be a Person of
+Worth and Honour, _viz. Humphrey Wickham_ of _Swaclift_ in the County
+of _Oxon_ Esq; a Person whose Name and Reputation was well known to
+Mrs. _Cullen_, being Born not far from him, which contributed much to
+the swallowing of the Imposture. His pretence for leaving his Family in
+the Countrey, and living here _Incognito_ was occasion'd (he said) to
+avoid the payment of 500_l._ which he stood engaged for, and for which
+the principal had left him in the lurch; and which he had made a rash
+Vow he would not pay.
+
+Mr. _Cullen_'s Family thus imposed upon supplied all his wants, and
+paid him the due Respects to the Quality he Personated, till falling
+sick, on the 28th of _December_ he made a Will, as follows.
+
+
+His WILL.
+
+In the name of God, Amen. _I_ Humphrey Wickham _of_ Swatclift, _in the
+County of_ Oxon _Esquire; being sick and weak in Body, but of sound
+Mind and Memory, do make this my last WILL and TESTAMENT, revoking all
+Wills by me formerly made: And as touching such Worldly Estate as God
+hath been pleased to bless me withal, I do hereby give and bequeath the
+same in manner following._
+
+Imprimis, _I do give, devise, and bequeath, to my Kinsman_ William
+Wickham, _of_ Gazington, _in the County of_ Oxon, _all that my Mansion
+House of_ Swaclift _aforesaid; and all the Lands, Tenements, and
+Hereditaments thereunto belonging, to hold unto him the said_ William
+Wickham, _and his Heirs for ever_.
+
+Item, _I give and bequeath unto_ John Cullin, _Son of_ Thomas Cullin,
+_of the Parish of St._ Clement Danes, _in the County of_ Middlesex,
+_Baker, all that my impropriated Personage of_ Sowgrate, _in the County
+of_ Northampton, _with the Rents, Issues, and Profits thereof_.
+
+Item, _I give unto Anne Cullin_, _Sister of the said_ John Cullin, _the
+Summ of Two hundred and fifty Pounds_.
+
+Item, _I give unto_ Thomas Cullin, _Son of the said_ Thomas Cullin,
+_the Sum of Three hundred Pounds_.
+
+Item, _I give unto_ Dorothy Halford _of_ Halford, _in the County of_
+Warwick, _the Sum of two hundred Pounds_.
+
+Item, _I give unto_ Richard Davis, _Son of_ William Davis _of the said
+Parish of St._ Clement Danes, _the Sum of Four hundred Pounds_.
+
+Item, _I give unto_ William Davis, _Son of the said_ William Davis,
+_the Summ of Two hundred Pounds_.
+
+Item, _I give unto_ Anne Fowkes, _for her Care and Diligence in Looking
+after me in my Sickness, the Sum of one hundred pounds_.
+
+Item, _I give unto_ Robert Croker, _Son of_ William Croker _of_
+Sanford, _in the said County of_ Oxon _(being my God-son) the Sum of
+Five hundred Pounds_.
+
+Item, _I give unto the said_ William Croker, _the Sum of Five hundred
+Pounds_.
+
+Item, _I give unto_ Robert Penniston, _Son of Sir_ Thomas Penniston,
+_and younger Brother to Sir_ Farmalis Penniston _of_ Cornhill, _in the
+said County of_ Oxon _the Sum of Three hundred Pounds_.
+
+Item, _I give unto Mrs._ Jane Penniston, _Sister of the said Mr._
+Robert Penniston, _the Summ of Two hundred Pounds_.
+
+Item, _I do hereby give, devise, and bequeath, all my Lands, Tenements,
+and Hereditaments whatsoever, called by the name of_ Apple-tree Ducy,
+_in_ Cropridee, _in the County of_ Northampton, _unto_ John Brooking
+_of_ Rashly, _in the County of_ Devon, _Esquire, and the said_ William
+Davis senior, _and_ Thomas Cullin senior, _and the Survivor of them,
+and their Heirs, and the Survivor of them upon Trust and Confidence:
+Nevertheless, that they the said_ John Brooking, William Davis, _and_
+Thomas Cullin, _shall sell and dispose of the same; and out of the
+Money thereby raised, pay, or cause to be paid, the respective Legacies
+herein before bequeathed unto the said_ Anne Cullin, Thomas Cullin
+Junior, Dorothy Halford, Richard Davis, William Davis Junior, _and_
+Anne Fowkes. _And whereas I have herein before bequeathed unto my
+Kinsman_ Will. Wickham, _and his Heirs, all my Mansion-house at_
+Swacklift _aforesaid, with the Lands, Tenements, and Hereditaments
+thereunto belonging; my true Will and Meaning is, That the same Devise
+is upon this special Trust and Confidence, That the said_ William
+Wickham _shall pay, or cause to be paid, the several Legacies herein
+before bequeathed unto the said_ Rob. Croker, _and_ Will. Croker,
+Robert Penniston, _and_ Jane Penniston; _and also pay and discharge one
+Bond for the Principal Sum of five hundred pounds, with Interest, which
+I became bound for with_ Thomas Walker, _to one_ Thomas Irons, _any
+thing herein before contained, to the contrary thereof in any wise
+notwithstanding; and also that he the said_ William Wickham, _shall out
+of his Legacy, and Lands, and Premises aforesaid, to him devised, pay,
+or cause to be paid unto my Executors hereafter named, the Sum of five
+hundred pounds, to be by them bestowed, distributed, or employed for
+the use and benefit of the Poor of the Parish of_ Swacklift _aforesaid,
+in such manner as they, or the major part of them shall think fit and
+convenient_.
+
+Item, _I give and bequeath unto the said_ John Brooking _out of the
+Moneys that shall be raised of the Sale of the said Lands and
+Tenements, called_ Apple-tree Ducy _aforesaid, the Summ of Five hundred
+Pounds: And all the rest and residue of the Moneys that shall be
+thereby raised, I do hereby give and bequeath unto the said_ William
+Davies _Senior, and_ Thomas Cullin _Senior, to be equally divided
+between them and the Survivor of them_.
+
+Item, _I give and bequeath unto_ Alice Cullin, _Wife of the said_
+Thomas Cullin _Senior, the Sum of Six hundred Pounds to her own proper
+Use and Disposal_.
+
+Item, _I give and bequeath in like manner the Sum of Six hundred Pounds
+unto_ Jane Davis, _the Wife of the said_ William Davis.
+
+Item, _I give unto the said_ Robert Croker _and_ Will. Croker, _the Sum
+of Ten Pounds a piece to buy them Mourning: and also to each of them a
+Ring of Twelve Shillings_.
+
+Item, _I give unto_ Jane Croker _and_ Mary Croker; _and also to the
+said_ Robert Penniston, _and_ Jane Penniston, _and all other my Legates
+herein before mentioned, and to every of them the Sum of Ten Pounds a
+piece to buy them Mourning, and a Ring of Twelve Shillings_.
+
+Item, _Whereas I have the Sum of Seven hundred Pounds lying at Interest
+in the hands of Mr._ Ambrose Holbitch, _in the name of_ Oliver Charles,
+_my Servant, I do hereby give and bequeath the same to and amongst my
+Four Servants_, Oliver Charles, John Harber, Sarah Winn, _and_ Margery
+Smith, _and the Survivor of them, to be equally divided amongst them,
+share and share alike_.
+
+Item, _I give and bequeath my Three Geldings, and all my Accoutrements
+belonging to them unto the said_ John Brookeing, William Davis _Senior,
+and_ Thomas Cullin, _Senior_, viz. _my Bright Bay Gelding to the said_
+Thomas Cullin, _and my Black Gelding to the said_ William Davis, _and
+my Dapple-grey Gelding to the said_ John Brookeing. _All the Arrears of
+Rent in my Tenants Hands at the time of my Decease I do hereby freely
+acquit and discharge. And all the rest and Residue of my Personal
+Estate, not herein before devised, after my Debts, Legacies and Funeral
+Expences, paid and discharged, I do hereby give and bequeath unto my
+said Kinsman_ William Wickham.
+
+_And, lastly. I do hereby nominate, constitute and appoint the said_
+William Wickham, John Brooking, William Davis senior, _and_ Thomas
+Cullin senior, _Executors of this my Will; hereby revoking and making
+void all other, and former Will or Wills by me made_.
+
+_In Witness whereof I the said_ Humphrey Wickham _have to this my last
+Will, containing one side of a Sheet of Paper, and almost half the
+back, thereof, set my Hand and Seal this Twentieth day of_ Decemb. Anno
+Dom. 1691.
+
+Humphrey Wickham.
+
+_Signed, Sealed, Published and Declared in the presence of us, with the
+words_ (Will. Wickham) _being first interlined_, Rob. Smith, Jo.
+Chapman, Rich. Chapman, Mart. Pinckard.
+
+_I, the above-named_ Humphrey Wickham, _having omitted out of my Will
+above-mentioned, the Disposition of my Estate in_ Huntingtonshire, _do
+hereby make this Addition to, and part of my said Will, in manner
+following: I give and bequeath all my Lands, Tenements and
+Hereditaments, called_ Pryor'_s Farm, and all other my Estate in_
+Holly-well _and_ Needingworth, _unto the above-named_ John Brooking,
+William Davis senior, _and_ Tho. Cullin senior, _and the Survivor of
+them, and their Heirs, and the Heirs of the Survivor of them, under
+this special Trust and Confidence, that the said_ Jo. Brooking, William
+Davis, _and_ Thomas Cullin, _shall sell and dispose of the same; and
+out of the Moneys thereby raised, pay, or cause to be paid the
+respective Legacies hereafter named_; viz. _I give and bequeath to_
+Humphrey Longford _the sum of six hundred pounds, and to his Sister_
+Mary Longford _the like sum of six hundred pounds_.
+
+Item, _I give and bequeath unto the said_ Tho. Cullin _Sen. the further
+Sum of_ 800 l. _and all the Remainder of the Moneys thereby raised, I
+give and bequeath unto the said_ Will. Davis _Sen. and_ Jane _his Wife,
+and the Survivor of them_.
+
+Item, _Whereas I have by Will above-said, given unto_ John Cullin, _Son
+of the said_ Thomas Cullin, _the impropriated Parsonage of_ Sowgrave;
+_my true meaning is, That I do give and devise the same to the said_
+John Cullin, _and his Heirs for ever. In Witness whereof, I the said_
+Humphrey Wickham _have to this Codicil Addition, or further part of my
+said Will, set my Hand and Seal, this Twenty eighth Day of_ December,
+_Anno Dom._ 1691.
+
+Humphrey Wickham.
+
+_Signed, Sealed, Published, and Declared, in the Presence of us_,
+Robert Smith, John Chapman, Rich. Chapman, Martin Pinkard. Probatum
+fuit, _&c._
+
+    This stupendious confidence of a dying man is very amazing, nay he
+    drove on the Masquerade at that strange rate, that he may be truly
+    said to have ended as he began, having received the blessed
+    Sacrament, pretended the settlement of his Conscience, and making
+    peace with Heaven with that seeming sincerity, as if he had
+    resolved to prevaricate with God with the same assurance he had all
+    along done with Mankind. The credulity of these deluded persons his
+    Landlord, and the rest, is not much to be wonder'd at, when the
+    last Gasps of Death could carry so fair an Hypocrisie, and their
+    Transports for his extravagant Legacies bequeathed 'em are rather
+    to be pittied then rediculed. And if they have been faulty in any
+    little over-fondness of their imaginary good fortune, the Jests and
+    Gibes they have received, have been their sufficient punishment;
+    besides Mr. _Cullin's_ being run out of above 30_l._
+
+    After his Death care was taken to provide him a Coffin of about
+    10_l._ value, and the Embalmers were paid for some of their Office
+    of preserving him sweet, till preparations for a solemn and
+    sumptuous Funeral could be made, suitable to the remains of the
+    honourable Deceased. And this Letter was sent as follows.
+
+
+    _Sir_,
+
+    These serve to inform you that _Humphrey Wickham_ Esquire of
+    _Swaclift_ in the County of _Oxon_ died this morning at my House
+    where he has been about ten days; He has made his Will, and you are
+    one of his Executors with me and others; A very great share of his
+    Estate is given to you; therefore pray Sir speed to _London_, that
+    we may take care of his Funeral and other matters necessary to be
+    done upon this occasion.
+
+    I think it may not be amiss that you keep this private, lest any
+    thing may be Purloyned or Imbezelled by any of the deceaseds
+    Servants, or any else at his Seat at _Swaclift_, which is all given
+    to you, some Legacies thereout to be paid; I am, Sir,
+
+    _Your Servant_
+
+    Tho. Cullin.
+
+    London 3. January 169-1/2. From my House at the Wheat-sheaf near
+    St. _Clements_ Church over against _Arundel_ Street. _Strand_.
+
+    To Mr. _William Wickham_ of _Gazington_ inquire at the Blew Boars
+    Head in _Oxon_.
+
+    _These following Lines were inclosed from the aforesaid Executors
+    in the said Letter being left by the deceased._
+
+    Whereas, I _Humphrey Wickham_ Esquire, in Company with my own man
+    _John Harbert_, _and John Austin_, Son of _Nich. Austin_, did carry
+    a black Hoggs Skin Trunk, marked with the Letters
+
+    _H. W._ 1688.
+
+    Wherein are the Deeds of my Estate at _Sowgrave_ and _Apple-tree
+    Ducy_; these are to desire you to deliver them to the Executors,
+    signed with his own Name, thus
+
+    _Humphrey Wickham_
+
+    _Memorandum_, there are two Mortgages in the hands of _Austin_, the
+    one for 1400_l._ and the other for 400_l._ In the name of _Oliver
+    Charles_, in the hands of Mr. _Ambrose Holbech_.
+
+In answer to this Letter came a Gentleman from _Oxford_ to tell Mr.
+_Cullin_, that the Christian name of this Mr. _Wickham_ of _Gazington_
+was mistaken, which gave the first Alarm of an Imposture, otherwise
+Horse and Mourning had been provided to have carried him down to
+_Swackley_ for his Interment there.
+
+Mr. _Cullin_ being not over apt to believe himself cheated, but more to
+satisfie the rest of the World, sent down a Messenger to _Swackley_,
+with fifteen shillings in his Pocket, mounted upon a poor Hackney, but
+ordered to return upon the Bright Bay Gelding bequeathed him in his
+Will; being not convinced of the Delusion till his Messengers Return
+notwithstanding several persons of Reputation had declared him a
+counterfeit; & Major _Richardson_ and Mr. _Compton_ had both inspected
+the Corps, and averred him to be the very man formerly Judged for six
+Wives as before mentioned, and more than once their Prisoner in
+Newgate.
+
+The Messenger returning _Tuesday_ the 12th of _January_ he brought a
+Compliment to the Executors from Captain _Wickham_, (who had treated
+the Messenger very civilly,) to this effect; that he gave 'em his
+hearty thanks for their intended kindness to him, and if they would
+please to come to _Swackley_ for a Month or more they should be very
+welcome, and have the use of all the Geldings, _viz._ the Black, the
+Bright Bay, and Dapple Grey, tho he could not well part with 'em for
+good and all.
+
+Upon this full satisfaction received, about three the next Morning with
+no more than a Watchman and a Lanthorn in a Coffin of four shillings
+price, he was laid in Earth in a Nook of St. _Clements_ Churchyard.
+
+
+Postscript.
+
+The Nurse and Assistants that attended him in his sickness now call to
+mind, that they once or twice observed him to laugh to himself very
+pleasantly, which they suppose proceeded from the pleasure he took in
+cheating the World he was then just upon leaving.
+
+_FINIS._
+
+
+
+
+_DIEGO REDIVIVUS:_
+
+or the
+
+Last WILL
+
+AND
+
+TESTAMENT
+
+Of the Pretended
+
+_Humphrey Wickham_, Esq;
+
+Alias WILLIAM MORREL, alias BOWYER, &c.
+
+WITH A Full RELATION of his Notorious CHEATS and IMPOSTURES: Who dyed
+at Mr. _Cullins_ House, the Third of this Instant _January_, in the
+Parish of St. _Clement Danes_, &c.
+
+
+_LICENSED and Entred in the REGISTER-BOOK of the Company of
+Stationers._
+
+
+_LONDON_, Printed for _Abel Roper_, at the _Mitre_ near _Temple-Bar_.
+1692.
+
+
+
+
+ADVERTISEMENT.
+
+
+This is to give notice, That the Fine COFFIN, mentioned in the
+following Relation, is to be sold in _Shipyard_, without _Temple-bar_.
+
+
+
+
+    _The Last_ Will _and_ Testament _of the pretended_ Humphrey Wickham
+    _Esq_; _alias_ William Morrel, _alias_ Bowyer, _&c. with
+    Annotations thereupon_.
+
+The Publick undoubtedly cannot be better entertained, than by the
+following Relation, of one of the most notorious Cheats as has been
+known in an Age, which has already made a very amazing Noise in the
+Town and the Particulars whereof, may be no disacceptable
+Entertainment.
+
+A Person not over-well Clad, was seen standing gazing about him in the
+Streets, over-against _Arundel_-Buildings in the _Strand_; but the
+gravity of his Age (being a Person between 50 and 60) invited the
+Curiosity of Mr. _Cullin_ the Baker, to ask this unknown Person what he
+wanted? To which he replied, He wanted a Lodging. Upon this, Mr.
+_Cullin_ very courteously made answer, He should be welcome to his
+House; which he very easily and readily accepted; and accordingly was
+received very kindly. Now having no extraordinary Stock of Money,
+_viz._ but Two Shillings in his Pocket, he was exposed to the necessity
+of making use of some Romantick Narrative of his Quality and Condition,
+to make good his Quarters with so slender a Purse, to hold out payment.
+Accordingly the Curiosity of his Landlady enquiring what Country-man he
+was? He replied, _Oxfordshire_; that his Name was _Wickham_, a Person
+of a good Estate near _Banbury_; and that the occasion of his coming to
+Town, was only to avoid the payment of 500_l._ which he stood engaged
+for by Bond, in behalf of a Person that was run away, and had left him
+to pay that Money, and which truly he had made an Oath to himself he
+would never pay; not that the Summ was so considerable to a Man of his
+plentiful Fortune, only he was resolved to keep his Vow; and that had
+made him retire a little from being arrested for it.
+
+The Affability and good Language of this Person of imaginary Quality,
+soon found Credit with his believing Landlord and Landlady, and no
+Caress was thought kind enough to a Person of his eminent Figure and
+Extraction. His first entrance into this indulgent Family was about a
+fortnight before _Christmass_, where he gained that daily ground, that
+no Respect could be sufficiently paid him: His little Pocket Strength
+signified nothing, for his Host was not a little exalted with the
+Honour of such a Guest under his Roof.
+
+But, as Providence was pleased to order it, his Reign was ordain'd to
+be but short; for he soon fell into a languishing Sickness, in which
+time neither Doctor, Apothecary, Nurse, or any other Assistance was
+wanting.
+
+Now our pretended Captain, what ever other Faults he had, was resolv'd
+not to be guilty of Ingratitude, and accordingly made an ample Last
+Will and Testament, and most liberally gave extraordinary large
+Donations and Legacies to his kind Landlord, _&c._
+
+It was very remarkable, that during his Sickness, his Landlord, being
+Overseer of the Poor, had requested a kind Brother in Office, the
+Church-Warden, to pay a small Office of Christian Duty to this poor
+languishing Gentleman; who making him a condoling Visit, with wet Eyes
+and uplifted Hands, was so kind as to wish his Worship's Soul
+everlasting Rest, which was seconded by many a repeated sigh from the
+rest of the Condolers about him: And one more especially, having heard
+of this great Wind-fall, lamented much his Unhappiness, in not visiting
+this Gentleman, saying, _He was never born to do himself good, having
+lost by his Negligence at least_ 1000_l._ Also another eminent Man of
+the Parish, being dissatisfied that he did not come in for a Share with
+the rest of his Neighbours, went and told them, _That the Coroner ought
+to be sent for, and an Enquiry made how he died_.
+
+All Care and Application signified but little, for his last _Exit_ was
+drawing on; in which time, not in the least to shrink from his
+Character of Quality, he still kept up the Honourable Figure he had so
+long presented; and accordingly made most prodigious Protestations of
+Good-will and Acknowledgments to the Family, avowing that the few
+Hundreds he had bequeathed them, was nothing to what he would do for
+'em, if please God to lengthen his Life to serve them and theirs.
+
+And now having performed the Part of a good Patron and Friend, as his
+last Legacies do sufficiently testifie; he was resolved to be as good a
+Christian too, and thereupon requested the taking the Sacrament: To
+which, being admitted (with what Integrity you'll find by the Sequel)
+with a grave Countenance to the very last, he was very ready to receive
+the Sacrament; and upon so serious an Undertaking, was pleased to put a
+Case of Conscience to the Minister, _viz._ having made a Vow never to
+pay the 500_l._ he stood engaged for, Whether he was obliged to keep
+his Vow, or no? To which being answered in the Negative, That he was
+obliged to pay his Debts, notwithstanding his rash Vow. He made answer,
+That truly now drawing near Heaven, he considered the point, and
+acquiesced with his Ghostly Monitor; and thereupon incerted the 500_l._
+into the Will.
+
+This piece of extraordinary Justice being perform'd with a very
+composed and setled mind he left this troublesom World on _Sunday_ the
+Third Instant, seeming very well contented to part with his great
+Riches and Lands, for the more valuable consideration of future
+Happiness.
+
+Now I must do the Family this Right, That notwithstanding the great
+Sums they gain'd by so ample a Testament, and such bounteous Legacies,
+however their sorrow for the lamented Departure of so worthy a
+Gentleman was very hearty and cordial: Nay, some are of Opinion, that
+instead of diminishing (as Sorrow generally wears off) theirs, on the
+contrary is daily encreasing.
+
+But perhaps nothing was so unkind as excluding the poor Prentice from
+visiting the sick Gentleman. For, alas, the poor Boy has been heard
+most dolefully to bewail the unkindness of his Master; for undoubtedly
+the worthy Gentleman would have left him enough to have set him up, had
+he been amongst the Throng of Visitants, who all tasted so highly of
+his extravagant Liberality.
+
+Now to assure you that the Kindness of his Executors continued beyond
+his Death, they thought themselves so far indebted to his Memory, that
+not only the Embalmer was sent for, but likewise a Coffin, price 12_l._
+was made, and all little enough for so generous a Patron, so much as
+Mourning, and Rings, and what else bespoken, _&c._
+
+But before these Honourable Exequies could be performed, an unhappy
+Letter from the True _Humphrey Wickham_ Esq; a Person of a great Estate
+and Reputation, detected the whole Fraud and Delusion, and the Remains
+of our _Quandam_ Person of Honour was committed to Earth, in a Coffin,
+price 4_s._ with Shrowd and other Funeral Materials accordingly.
+
+You are hereby informed, That this grand Impostor, whose true Name was
+_VVilliam Morrell_ alias _Bowyer_, formerly a Surgeon in _Banbury_, had
+been two Months a Guest at Mr. _Wickham_'s, and thereby so acquainted
+with his Family as enabled him to personate the Cheat so artificially,
+and so we leave him.
+
+_His_ WILL.
+
+_In the Name of God, Amen_, I _Humphrey Wickham_ of _Swaclift_, in the
+County of _Oxon_ Esq; being sick and weak in Body, but of sound Mind
+and Memory, do make this my last WILL and TESTAMENT, revoking all Wills
+by me formerly made: And as touching such Worldly Estate as God hath
+been pleased to bless me withal, I do hereby give and bequeath the same
+in manner following:
+
+_Imprimis_, I do give, devise, and bequeath to my Kinsman _William
+Wickham_, Son of _George Wickham_, of _Gazington_ in the County of
+_Oxon_, all that my Mansion-House of _Swaclift_ aforesaid; and all the
+Lands, Tenements, and Hereditaments thereunto belonging, to hold unto
+him the said _William Wickham_, and his Heirs forever.
+
+_Item_, I give and bequeath unto _John Cullin_, Son of _Thomas Cullin_,
+of the Parish of St. _Clement Danes_, in the County of _Middlesex_,
+Baker, all that my impropriated Parsonage of _Sowgrate_, in the County
+of _Northampton_, with the Rents, Issues, and Profits thereof.
+
+_Item_, I give unto _Anne Cullin_, Sister of the said _John Cullin_,
+the Summ of Two hundred and fifty Pounds.
+
+_Item_, I give unto _Thomas Cullin_, Son of the said _Thomas Cullin_,
+the Summ of Three hundred Pounds.
+
+_Item_, I give unto _Dorothy Halford_, Daughter of _Thomas Halford_ of
+_Halford_, in the County of _Warwick_, the Summ of Two hundred Pounds.
+
+_Item_, I give unto _Richard Davis_, Son of _William Davis_ of the said
+Parish of St. _Clement Danes_, the Summ of Four hundred Pounds.
+
+_Item_, I give unto _William Davis_, Son of the said _William Davis_,
+the Summ of Two hundred Pounds.
+
+_Item_, I give unto _Anne Fowkes_, for her Care and Diligence in
+Looking after me in my Sickness, the Summ of One hundred Pounds.
+
+_Item_, I give unto _Robert Croker_, Son of _William Croker_ of
+_Sanford_, in the said County of _Oxon_ (being my God-son) the Sum of
+Five Hundred Pounds.
+
+_Item_, I give unto the said _William Croker_, the Summ of Five hundred
+Pounds.
+
+_Item_, I give unto _Robert Penniston_, Son of Sir _Thomas Penniston_,
+and younger Brother to Sir _Farmalis Penniston_ of _Cornhill_, in the
+said County of _Oxon_ the Summ of Three hundred Pounds.
+
+_Item_, I give unto Mrs. _Jane Penniston_, Sister of the said Mr.
+_Robert Penniston_, the Summ of Two hundred Pounds.
+
+_Item_, I do hereby give, devise, and bequeath, all my Lands,
+Tenements, and Hereditaments whatsoever, called by the Name of
+_Apple-tree Ducy_, in _Cropridee_, in the County of _Northampton_, unto
+_John Brooking_ of _Rashly_, in the County of _Devon_, Esquire, and the
+said _William Davis_ Senior, and _Thomas Cullin_ Senior, and the
+Survivor of them, and their Heirs, and the Survivor of them upon Trust
+and Confidence: Nevertheless, that they the said _John Brooking_,
+_VVilliam Davis_, and _Thomas Cullin_, shall sell and dispose of the
+same; and out of the Money thereby raised, pay, or cause to be paid,
+the respective Legacies herein before bequeathed unto the said _Anne
+Cullin_, _Thomas Cullin_ Jun. _Dorothy Halford_, _Richard Davis_,
+_VVilliam Davis_ Jun. and _Anne Fowkes_. And whereas I have herein
+before bequeathed unto my Kinsman _VVilliam VVickham_, and his Heirs,
+all my Mansion-House at _Swaclift_ aforesaid, with the Lands,
+Tenements, and Hereditaments thereunto belonging; my true Will and
+Meaning is, That the same Devise is upon this special Trust and
+Confidence, That the said _VVilliam VVickham_ shall pay, or cause to be
+paid, the several Legacies herein before bequeathed unto the said _Rob.
+Croker_, and _VVil. Croker_, _Robert Penniston_, and _Jane Penniston_;
+and also pay and discharge one Bond for the Principal Sum of five
+hundred Pounds, with Interest, which I became bound for and with
+_Thomas VValker_, to one _Thomas Irons_, any thing herein
+before-contained to the contrary thereof in any wise notwithstanding;
+and also that he the said _VVilliam VVickham_, shall out of his Legacy,
+and Lands, and Premises aforesaid, to him devised, pay, or cause to be
+paid unto my Executors hereafter named, the Sum of Five hundred Pounds,
+to be by them bestowed, distributed, or employed for the use and
+benefit of the Poor of the Parish of _Swaclift_ aforesaid, in such
+manner as they, or the major part of them shall think fit and
+convenient.
+
+_Item_, I give and bequeath unto the said _John Brooking_ out of the
+Moneys that shall be raised of the Sale of the said Lands and
+Tenements, called _Apple-tree Ducy_ aforesaid, the Summ of Five hundred
+Pounds: And all the rest and residue of the Moneys that shall be
+thereby raised. I do hereby give and bequeath unto the said _VVilliam
+Davies_ Senior, and _Thomas Cullin_ Senior, to be equally divided
+between them and the Survivor of them.
+
+_Item_, I give and bequeath unto _Alice Cullin_, Wife of the said
+_Thomas Cullin_ Senior, the Sum of Six hundred Pounds to her own proper
+Use and Disposal.
+
+_Item_, I give and bequeath in like manner the Summ of Six hundred
+Pounds unto _Jane Davis_, the Wife of the said _VVilliam Davis_.
+
+_Item_, I give unto the said _Robert Croker_ and _VVill. Croker_, the
+Summ of Ten Pounds a-piece to buy them Mourning: and also to each of
+them a Ring of Twelve Shillings.
+
+_Item_, I give unto _Jane Croker_ and _Mary Croker_; and also to the
+said _Robert Peniston_, and _Jane Peniston_, and all other my Legatees
+herein before-mentioned, and to every of them the Summ of Ten Pounds
+a-piece to buy them Mourning, and a Ring of Twelve Shillings.
+
+_Item_, Whereas I have the Sum of Seven hundred Pounds, lying at
+Interest in the hands of Mr. _Ambrose Holbitch_, in the name of _Oliver
+Charles_, my Servant, I do hereby give and bequeath the same to and
+amongst my Four Servants, _Oliver Charles_, _John Harbert_, _Sarah
+VVinn_, and _Margery Smith_, and the Survivor of them, to be equally
+divided amongst them, share and share alike.
+
+_Item_, I give and bequeath my Three Geldings, and all my Accoutrements
+belonging to them unto the said _John Brookeing_, _VVilliam Davis_
+Senior, and _Thomas Cullin_, Sen. _viz._ my Bright Bay Gelding to the
+said _Thomas Cullin_, and my Black Gelding to the said _VVilliam
+Davis_, and my Dapple-grey Gelding to the said _John Brooking_. All the
+Arrears of Rent in my Tenants Hands at the time of my Decease I do
+hereby freely acquit and discharge. And all the rest and Residue of my
+Personal Estate, not herein before devised, after my Debts, Legacies
+and Funeral Expences, paid and discharged, I do hereby give and
+bequeath unto my said Kinsman _VVilliam VVickham_.
+
+And, lastly, I do hereby nominate, constitute and appoint the said
+_VVilliam VVickham_, _John Brooking_, _VVilliam Davis_ Senior, and
+_Thomas Cullin_ Senior, Executors of this my Will; hereby revoking and
+making void all other, and former Will or Wills by me made.
+
+In Witness whereof I the said _Humphrey VVickham_ have to this my last
+Will, containing one side of a Sheet of Paper, and almost half the back
+thereof, set my Hand and Seal this Twenty seventh day of _December,
+Anno Dom._ 1691.
+
+_Humphrey Wickham._
+
+Signed, Sealed, Published and Declared in the presence of us, with the
+Words (_VVill. VVickham_) being first interlined, _Rob. Smith_, _Jo.
+Chapman_, _Rich. Chapman_, _Mart. Pinckard_.
+
+I, the above named _Humphrey VVickham_, having omitted out of my Will
+above-mentioned, the Disposition of my Estate in _Huntingtonshire_, do
+hereby make this Addition to, and part of my said Will, in manner
+following. I give and bequeath all my Lands, Tenements and
+Hereditaments, called _Pryor_'s Farm, and all other my Estate in
+_Hollywell_ and _Needingworth_, or else where, in the said County of
+_Huntington_, unto the above named _John Brooking_, _VVilliam Davis_
+Senior, and _Tho. Cullin_ Sen. and the Survivor of them, and their
+Heirs, and the Heirs of the Survivor of them, under this special Trust
+and Confidence, that the said _Jo. Brooking_, _VVilliam Davis_, and
+_Thomas Cullen_, shall sell and dispose of the same; and out of the
+Moneys thereby raised, pay, or Cause to be paid the respective Legacies
+hereafter named, _viz._ I give and bequeath to _Humphrey Longford_ the
+sum of six hundred pounds, and to his Sister _Mary Longford_ the like
+sum of six hundred pounds.
+
+_Item_, I give and bequeath unto the said _Tho. Cullin_ Sen. the
+further Summ of 800_l._. and all the Remainder of the Moneys thereby
+raised, I give and bequeath unto the said _Will. Davis_ Sen. and _Jane_
+his Wife, and the Survivor of them.
+
+_Item_, Whereas I have by Will above-said, given unto _John Cullin_,
+Son of the said _Thomas Cullin_, the impropriated Parsonage of
+_Sowgrave_; my true meaning is, That I do give and devise the same to
+the said _John Cullin_, and his Heirs for ever. In Witness whereof, I
+the said _Humphrey Wickham_ have to this Condicil Addition, or further
+part of my said Will, set my Hand and Seal, this Twenty eighth Day of
+_December_, Anno Dom. 1691.
+
+_Humphrey Wickham._
+
+Signed, Sealed, Published, and Declared, in the Presence of us, _Robert
+Smith_, _John Chapman_, _Rich. Chapman_, _Martin Pinkard_,
+
+    _Probatum fuit hum. Testium. cum Codicillo eidem annex. coram
+    Venerab. Vir. Henrico Fauconberge Legum Doctore, Surr. Venerab. &
+    Egregii Viri Dom. Richardi Raines Militis, Legem etiam Doctoris
+    Curiæ Prærogativæ Cantuar. Magist. &c. Quarto die Mensis Januarii,
+    Anno Dom. (Stilo Angliæ, 1691.) Juramentis Willielmi Davis, & Thomæ
+    Cullen, duorum ex Executor. &c. Quibus, &c. de bene & fidel.
+    Administrand. eadem ad Sancta Dei Evangelia Jurat. Reservata
+    potestate similem Com. faciendi Willielmo Wickham & Johanni
+    Brooking, alteris Executor. eum venerint seu eorum a'ter venerit
+    eand. petitur._
+
+_FINIS_
+
+
+
+
+PUBLICATIONS OF THE AUGUSTAN REPRINT SOCIETY
+
+
+First Year (1946-1947)
+
+Numbers 1-6 out of print.
+
+
+Second Year (1947-1948)
+
+ 7. John Gay's _The Present State of Wit_ (1711); and a section on
+Wit from _The English Theophrastus_ (1702).
+
+ 8. Rapin's _De Carmine Pastorali_, translated by Creech (1684).
+
+ 9. T. Hanmer's (?) _Some Remarks on the Tragedy of Hamlet_ (1736).
+
+10. Corbyn Morris' _Essay towards Fixing the True Standards of Wit,
+etc._ (1744).
+
+11. Thomas Purney's _Discourse on the Pastoral_ (1717).
+
+12. Essays on the Stage, selected, with an Introduction by Joseph Wood
+Krutch.
+
+
+Third Year (1948-1949)
+
+13. Sir John Falstaff (pseud.), _The Theatre_ (1720).
+
+14. Edward Moore's _The Gamester_ (1753).
+
+15. John Oldmixon's _Reflections on Dr. Swift's Letter to
+Harley_(1712); and Arthur Mainwaring's _The British Academy_ (1712).
+
+16. Nevil Payne's _Fatal Jealousy_ (1673).
+
+17. Nicholas Rowe's _Some Account of the Life of Mr. William
+Shakespeare_ (1709).
+
+18. "Of Genius," in _The Occasional Paper_, Vol. III, No. 10 (1719);
+and Aaron Hill's Preface to _The Creation_ (1720).
+
+
+Fourth Year (1949-1950)
+
+19. Susanna Centlivre's _The Busie Body_ (1709).
+
+20. Lewis Theobold's _Preface to The Works of Shakespeare_ (1734).
+
+21. _Critical Remarks on Sir Charles Grandison, Clarissa, and Pamela_
+(1754).
+
+22. Samuel Johnson's _The Vanity of Human Wishes_ (1749) and Two
+_Rambler_ papers (1750).
+
+23. John Dryden's _His Majesties Declaration Defended_ (1681).
+
+24. Pierre Nicole's _An Essay on True and Apparent Beauty in Which from
+Settled Principles is Rendered the Grounds for Choosing and Rejecting
+Epigrams_, translated by J. V. Cunningham.
+
+
+Fifth Year (1950-1951)
+
+25. Thomas Baker's _The Fine Lady's Airs_ (1709).
+
+26. Charles Macklin's _The Man of the World_ (1792).
+
+27. Out of print.
+
+28. John Evelyn's _An Apologie for the Royal Party_ (1659); and _A
+Panegyric to Charles the Second_ (1661).
+
+29. Daniel Defoe's _A Vindication of the Press_ (1718).
+
+30. Essays on Taste from John Gilbert Cooper's _Letters Concerning
+Taste_, 3rd edition (1757), & John Armstrong's _Miscellanies_(1770).
+
+
+Sixth Year (1951-1952)
+
+31. Thomas Gray's _An Elegy Wrote in a Country Church Yard_ (1751); and
+_The Eton College Manuscript_.
+
+32. Prefaces to Fiction; Georges de Scudéry's Preface to _Ibrahim_
+(1674), etc.
+
+33. Henry Gally's _A Critical Essay_ on Characteristic-Writings (1725).
+
+34. Thomas Tyers' A Biographical Sketch of Dr. Samuel Johnson (1785).
+
+35. James Boswell, Andrew Erskine, and George Dempster. _Critical
+Strictures on the New Tragedy of Elvira, Written by Mr. David Malloch_
+(1763).
+
+36. Joseph Harris's _The City Bride_ (1696).
+
+
+Seventh Year (1952-1953)
+
+37. Thomas Morrison's _A Pindarick Ode on Painting_ (1767).
+
+38. John Phillips' _A Satyr Against Hypocrites_ (1655).
+
+39. Thomas Warton's _A History of English Poetry_.
+
+40. Edward Bysshe's _The Art of English Poetry_ (1708).
+
+41. Bernard Mandeville's "A Letter to Dion" (1732).
+
+42. Prefaces to Four Seventeenth-Century Romances.
+
+
+Eighth Year (1953-1954)
+
+43. John Baillie's _An Essay on the Sublime_ (1747).
+
+44. Mathias Casimire Sarbiewski's _The Odes of Casimire_, Translated by
+G. Hils (1646).
+
+45. John Robert Scott's _Dissertation on the Progress of the Fine
+Arts._
+
+46. Selections from Seventeenth Century Songbooks.
+
+47. Contemporaries of the _Tatler_ and _Spectator_.
+
+48. Samuel Richardson's Introduction to _Pamela_.
+
+
+Ninth Year (1954-1955)
+
+49. Two St. Cecilia's Day Sermons (1696-1697).
+
+50. Hervey Aston's _A Sermon Before the Sons of the Clergy_ (1745).
+
+51. Lewis Maidwell's _An Essay upon the Necessity and Excellency of
+Education_ (1705).
+
+52. Pappity Stampoy's _A Collection of Scotch Proverbs_ (1663).
+
+53. Urian Oakes' _The Soveraign Efficacy of Divine Providence_ (1682).
+
+54. Mary Davys' _Familiar Letters Betwixt a Gentleman and a Lady_
+(1725).
+
+
+Tenth Year (1955-1956)
+
+55. Samuel Say's _An Essay on the Harmony, Variety, and Power of
+Numbers_ (1745).
+
+56. _Theologia Ruris, sive Schola & Scala Naturæ_ (1686).
+
+57. Henry Fielding's _Shamela_ (1741).
+
+58. Eighteenth Century Book Illustrations.
+
+59. Samuel Johnson's _Notes to Shakespeare_. Vol. I, Comedies, Part I.
+
+60. Samuel Johnson's _Notes to Shakespeare_. Vol. I, Comedies, Part II.
+
+
+Eleventh Year (1956-1957)
+
+61. Elizabeth Elstob's _An Apology for the Study of Northern
+Antiquities_ (1715).
+
+62. _Two Funeral Sermons_ (1635).
+
+63. _Parodies of Ballad Criticism_ (1711-1787).
+
+64. _Prefaces to Three Eighteenth Century Novels_ (1708, 1751, 1797).
+
+65. Samuel Johnson's _Notes to Shakespeare_. Vol. II, Histories, Part
+I.
+
+66. Samuel Johnson's _Notes to Shakespeare_. Vol. II, Histories, Part
+II.
+
+
+
+
+
+
+End of the Project Gutenberg EBook of The Notorious Impostor and Diego
+Redivivus, by Elkanah Settle
+
+*** END OF THIS PROJECT GUTENBERG EBOOK NOTORIOUS IMPOSTOR, DIEGO REDIVIVUS ***
+
+***** This file should be named 37517-8.txt or 37517-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/7/5/1/37517/
+
+Produced by David Starner and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

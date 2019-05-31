@@ -1,0 +1,1404 @@
+﻿Project Gutenberg's An Essay to Shew the Cause of Electricity, by John Freke
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: An Essay to Shew the Cause of Electricity
+       and Why Some Things are Non-Electricable
+
+Author: John Freke
+
+Release Date: June 30, 2016 [EBook #52439]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ESSAY TO SHEW CAUSE OF ELECTRICITY ***
+
+
+
+
+Produced by The Online Distributed Proofreading Team at
+http://www.pgdp.net (This file was produced from images
+generously made available by The Internet Archive)
+
+
+
+
+
+
+
+
+
+                                   AN
+
+                                 ESSAY
+
+                              TO SHEW THE
+
+                                 CAUSE
+
+                                   OF
+
+                              ELECTRICITY;
+
+                                  AND
+
+                 Why Some Things are Non-Electricable.
+
+                      In which is also Consider’d
+
+           Its Influence in the _Blasts_ on Human Bodies,
+             in the _Blights_ on Trees, in the _Damps_ in
+             Mines; and as it may affect the _Sensitive
+             Plant_, &c.
+
+                              In a LETTER
+                    To Mr. WILLIAM WATSON, _F.R.S._
+
+             By JOHN FREKE, Surgeon to _St. Bartholomew’s_
+                       Hospital, _London_, F.R.S.
+
+            _Naturam expellas furcâ, tamen usque recurret._
+
+                 The SECOND EDITION: With an APPENDIX.
+
+                               _LONDON:_
+              Printed for W. INNYS, in _Pater-noster Row_.
+
+                               MDCCXLVI.
+                         [Price One Shilling.]
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+                                   TO
+
+                         _MARTIN FOLKES_, Esq;
+
+                               PRESIDENT
+
+                                 OF THE
+
+                             ROYAL SOCIETY.
+
+
+    _SIR_,
+
+Those who have the Honour of your Acquaintance, and thence know your
+many excellent Qualifications, must applaud my Choice in dedicating this
+small Piece to you; whose Name, if there be any Merit in the
+Performance, will, before any other, add a Lustre to it. I am, with the
+highest Esteem,
+
+                                                     _Your most Obliged,
+                                                       Humble Servant_,
+
+                                                             JOHN FREKE.
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+                              The PREFACE.
+
+
+_When I first enter’d on this Subject of _Electricity_, I intended only
+to put some Thoughts in Writing concerning it, that I might the more
+easily convey them to the Understandings of such as I hoped would be
+more likely than I should be to go farther with it. And as nobody,
+either here or abroad, had published any thing touching the Cause from
+which it was produc’d, I chose to shew the Beginning I had made to some
+Friends, whose Opinion concerning Natural Knowlege I had a great
+Reliance on. I told them, I thought my Difficulty would be to convey
+what I had to propound on this new Subject to them with the necessary
+Clearness, as my Intention was to observe the utmost Brevity in it._
+
+_After I had read it to them, they assured me that what I had written
+was perfectly intelligible; and that it gave them many new Ideas
+respecting this _Phænomenon_; and were very earnest with me to print it,
+for the sake of the Publick._
+
+_I was not, however, inclined to comply with their Requests, till I had
+shewn it to a Person who is most justly distinguish’d for his great
+Candor, and superlative Understanding in all Natural Knowlege; and he
+likewise having express’d his Wishes to see it in Print, I could not but
+look on his Desire as a Command._
+
+_If what I have here undertaken to shew should enlighten the Minds of
+any of my Readers, or if it should so far awaken the Attention of
+others, as to make them give better Reasons for the Operation of this
+Power of Electricity than I have done, I shall not account the Time ill
+spent, which I have employ’d on this interesting Subject: A Subject
+which can, with more Nobleness and Dignity employ the Mind of Man, than
+any I can think of relating to the sublunary Part of this World. For by
+it you may be acquainted with the immediate Officer of _God Almighty_,
+which he seems to send to all Things living. Nay, this Power, according
+to my Conception, seems to be the Cause, under _HIM_, both of Life and
+Death. And when it may be more fully understood, it may afford us Means
+whereby we may be better enabled to reason more intelligibly than now we
+can, concerning various Operations in Nature._
+
+_I am very sensible what Tribute a new Author is liable to pay to
+Criticks: I know it is too common to find much too large a Part of them
+inclin’d to look into a Book for its Faults, rather than for its Use;
+and are more ready to pull down, than they have Abilities to put any
+thing in its Place. But as I am not writing this for any Gain to myself,
+but the Pleasure of informing, if I can, the Minds of such as may be
+informed by it, I chuse rather to stand their Censure, than deny the
+Publick what may possibly be the Beginning of much Good._
+
+_It is very probable, that those who pretend to know every thing, will
+be so good as to say, if they like what I have advanc’d, that it squares
+exactly with what they thought before concerning it: And those who set
+up for Criticks will try their Hands at this Performance, and, if they
+can, will condemn it._
+
+_It would be a great Wonder, indeed, if this should escape the Censure
+of some, when the great Dr. _Harvey_ had his implacable Adversaries to
+his Account of the Circulation of the Blood; and even Sir _Isaac Newton_
+met with Opponents to several of his Theorys. What I have said opposes
+no one’s Scheme, that I know of; it offers no Sentiments which can hurt
+any Man._
+
+_I have advanc’d only Conjectures for the clearing those Truths I would
+establish; and if, after all, what appears reasonable to me should not
+appear so to others, I cannot help it: For it is impossible for all Men
+to see the same Thing in one and the same Light, even though they were
+Men of the best Erudition. I would hope, that what I have undertaken to
+shew, is what all sensible Men would be glad to have shewn._
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+                                   AN
+
+                                 ESSAY
+
+                                To Shew
+
+                    From what CAUSES Electricity is
+                            Produced, _&c._
+
+
+    _Kind Sir_,
+
+When I reflect on the great Ingenuity you have shewn, in your
+_Apparatus_ for the Improvement of the Knowlege of Electricity, and how
+industrious and kind you have been in communicating the many Experiments
+you have made to your Friends and Acquaintance relating thereto, I was
+in hopes, from you or some of them, an Essay would be made ere this, not
+only to go farther with these Experiments, but to give some tolerable
+Conjecture from whence this Fire, and astonishing Effect, is produced.
+
+I was going to give you my Thoughts concerning it, when I last saw you
+at _Child_’s Coffee-house; but, on Reflection, I chose rather to do it
+in Writing: For, in all Novelty, till the Relater is quite understood,
+Words are forgotten easily; but Things of this sort in Writing may again
+and again be consider’d.
+
+To begin then: In order to shew whence this electrical Fire and Force is
+produc’d, I will first endeavour to prove, that it arises not from any
+of the _Apparatus_ itself; not either from the glass Ball, nor the
+Leather, nor from the Tube, or Hand that rubs it: Because nothing we
+know of can send out of it a Quantity of Matter, but there must be less
+of that Matter remaining, after it has been so discharged; whereas it
+cannot be shewn, but that the Ball of Glass, after ever so many Times
+using, remains as fit for the same Use as at first.
+
+Having, from Probability, I think, shewn, that the Fire and Force, here
+treated of, come not from the _Apparatus_, it is natural for me to
+suppose they are produced from the Air they are mov’d in. And I believe
+this Notion will not appear trifling, when we consider, that the most
+ancient and ablest Philosophers have look’d upon the Animal and
+Vegetable World as actuated by Fire; and that they are nourish’d by
+Water, and what it contains. If this be allow’d, then the Air, which is
+esteem’d the _Pabulum Vitæ_, from its rubefying the Blood of all Animals
+in Respiration, seems to be universally impregnated with this Fire. And
+tho’ there is not enough of it so dispersed as to hurt the Animals in
+Respiration, yet I can suppose it as universally dispersed, as I can a
+small Quantity of any Liquor dropp’d in Water, which, when so dispersed,
+is of no Harm to a Patient, though a few Drops of it by themselves would
+have been certain Death. And yet, if you farther consider it so
+dispersed, you cannot consider one Particle of the Water without a
+Particle of the Medicine: Just so it may be with the Fire of this lower
+Region, or, what I chuse rather to call it, this _Flamma Vitalis_.
+
+I proceed now to consider, how this Fire, so dispersed, may be
+collected; and have given to it, in electrical Experiments, a Force
+equal to, and of the same Nature with, Lightning.
+
+To make this Conjecture the more easily apprehended, I will suppose,
+that the Nature of Fire is as similar to its Parts, and they have as
+great a Propensity to adhere to one another, as we find the different
+Arrangements in all natural Bodies have; as may be seen in Gems, in
+Water, and in the various _Strata_ of the Earth, and the like. Do but
+force or invite these fiery Particles to a closer Contact than they have
+been supposed to be in, when uniformly dispersed through all Nature, and
+they are Lightning, or a Fire of less Force, as more or less Parts of
+that Fire are got together.
+
+To illustrate this, wax a small Thread, or slide a Rope swiftly thro’
+your Fingers, and you are liable to burn them: Which probably arises
+from their grinding in, betwixt your Fingers and the Rope, so many more
+Particles of Fire than naturally come together when left to float in the
+Air.
+
+If this Reasoning be allow’d to be just (which it must be, till it is
+overturn’d by stronger Reasoning), then it follows, that the Air, which
+is violently ground or rubb’d betwixt your Hand and a glass Tube, or
+betwixt a glass Ball whirl’d briskly, and rubb’d with a Piece of
+Leather, as they are used in electrical Experiments, I say, the Air, so
+rubb’d, may leave behind it that Quantity of agitated Fire which causes
+Electricity.
+
+For, suppose the Ball or Tube inveloped with a Quantity of this Fire
+moving spirally round them, with the utmost Velocity; and it can no more
+depart from its Company than you find Sparks of Fire which fly from
+Steel on a Knife-grinder’s Wheel are liable to do. Every body almost can
+remember to have seen them adhere to the Wheel, and frequently pursue
+each other quite round it.
+
+Those who try these Experiments, find, that in moist Weather this Power
+is less attainable than in a more clear Day; and therefore some may be
+liable to attribute that to the _Apparatus_, which may be better
+accounted for by the watry Particles in the Air; which may be liable to
+hinder the lambent Flame, by me supposed to be universally scatter’d,
+from uniting, by the Friction before-mention’d.
+
+As I have mention’d Friction, I cannot help observing how
+unphilosophical and unmeaning it is, for any one to advance, that Fire
+is caused by Friction; when I think he may as well say, that Water is
+caused by Pumping.
+
+We know, that a Cart or Coach-Wheel, for Want of Grease, by Friction
+will be set on Fire; and Fire-Canes, rubbed together smartly, will take
+Fire; but neither of these, I believe, nor any thing else, will beget or
+generate the Element of Fire. They must either collect it out of the
+Air, or else it must be lodged within them, as we find it to be in Steel
+in an eminent Degree: For, if you drop the Filings of Steel through the
+Flame of a Candle, it sends out the most fierce Fire of any thing in
+Nature.
+
+The Reason to be given why a greater Quantity of Fire is produced from
+Steel-Filings, than from any other Thing, I take to be owing to a larger
+Share of that Element which is impacted in it from its being made out of
+Iron long impregnated with Fire.
+
+Many other Bodies have actual Fire impacted in them, as Flints, and many
+other hard Stones and Metals; but whenever you produce Fire from
+Steel-Filings, you find that Steel melted: So when Fire is produced from
+Stones, and the like, each Spark is Part of that Stone burnt to a
+_Calx_.
+
+Now, as I am endeavouring to shew to you the natural Cohesion of Fire,
+and the Propensity there is in it to extend itself, I shall offer to
+your Consideration a very familiar Instance to prove it; which is that
+of the Snuff of a Candle just blown out. You cannot but have observ’d at
+how great a Distance from the Snuff the Flame will descend down the
+Smoke, and light it.
+
+I shall further take the Liberty to observe to you another Proof of
+this; which, I think, will not only shew a Propensity in Fire to cohere,
+but will greatly strengthen my Conjecture, that this Fire, produced in
+Electricity, is extracted from that I have supposed to be universally
+dispersed.
+
+A Person, who liv’d in the Town of _Warham_ in _Dorsetshire_, in the
+Year 1703, informed me, that in the Night of the great Hurricane and
+high Wind, in the strongest Part of the Tempest, he saw from his Window,
+on the neighbouring Hills, great Bodies of Fire, swiftly passing over
+them on the Ground.—Now whence arose that Fire, if it came not from the
+Air impelling it into those Flakes? And its subsisting together in that
+Hurricane shews, I think, very plainly, that if its Cohesion had not
+been natural, the Wind would then have scatter’d it.
+
+Though I apprehend that the Four Elements of Fire, Water, Earth, and
+Air, may never have been increased or diminished, since the Great GOD of
+Order created them, yet I can also apprehend each of them unequally
+dispers’d in the Universe by various Causes and Events: And when this
+happens, those which were intended, when in their due Order, to make
+every thing happy and easy, in their disordered State will create
+nothing but Confusion.
+
+For Instance, the chief Use of Water seems intended, when descending in
+warm and gentle Showers, or flowing in kind and easy Streams, to chear
+and nourish all Kinds of Vegetation, as well in Trees and Plants, as in
+Herbs and Flowers: But suppose, by the Contrivance of Man, or by the
+Accidents of Nature, a large Quantity of it lodged on the Tops of high
+Hills, if it breaks its Bank, it will never stop, till it finds a
+natural resting Place; and in its Torrent it will overwhelm and destroy
+those Trees and Plants, with the Herbs and Flowers, it was intended to
+nourish.
+
+The like may be said of the Fire, which I have been supposing uniformly
+dispersed over the Creation; which, if its Properties are to invigorate
+all Nature, you must of course suppose its Power not to be controul’d;
+but that it passes through all the Animal, Mineral, and Vegetable
+Creation, whilst they stand in need of Life, or any Increase.
+
+But as I have been conjecturing what different Purposes Water in its
+disorder’d State may produce, so the same Consideration may be had
+concerning Fire in its disorder’d State: When too much of it is brought
+together, either by the Contrivance of Man, or by the Disorders in the
+other Elements; is it not reasonable to suppose, that it will, according
+to its natural Appointment, get about its Business, and break as soon as
+it can from its Confinement?
+
+A very learned and eminent Author, who is now living, says, “That all
+Life, whether it be vegetable, sensitive, or animal, is only a kindled
+Fire of Life in such a Variety of States: And every dead insensitive
+Thing is only so because its Fire is quenched.”
+
+It had been impossible that this wonderful _Phænomenon_ of Electricity
+should ever have been discover’d, if there had not been such Things as
+are non-electricable. For, as fast as this Fire had been driven on any
+thing, its next Neighbour would have carried it further: But, when it
+was most wonderfully found out, that any thing which was suspended in a
+silk Cord (that being a Non-electricable) was obliged to retain the
+Fire, which by electrical Force was driven on it; and when, moreover, it
+appeared, that any Person or Thing being placed on a Cake of Bees-wax
+(which also is a Non-electricable), it could no more part with its Fire,
+than when suspended in a silk Cord, I think it will become worth
+Inquiry, why they are not electricable.
+
+To prove this, I would reflect upon the Passage before-quoted: For from
+thence I think it must follow, that if Fire be the Cause of the Life and
+Increase in any thing, then, whatever ceases to be in a State of Life or
+Increase, can no longer be supposed to be capable of them; and therefore
+must be consider’d as a _Caput Mortuum_. Of this sort are Bees-wax and
+Silk, both being non-electricable.
+
+To pursue this kind of Reasoning concerning them: They are, in truth,
+the Excrements only from those Beings which once had Life in them; the
+Wax being the excrementitious Matter from Bees, which, when made, was to
+be capable of no further Increase or Addition to its Nature: For, as its
+primitive Use was only intended to make Combs or Cells to preserve the
+Honey through the different Changes of the Season, so if this Wax had
+been liable to Alterations from this Fire (as all Things which are
+endued with it are) then the Cells would not have remained so intire as
+the wonderful Architects left them.
+
+As concerning the Silk, I look on it as an excrementitious Matter also;
+designed by GOD Almighty (who makes nothing in vain) to become a
+_Capsula_ or Coffin to preserve the Insect in it safely, for such a
+Season as was intended it should remain there.
+
+All resinous Bodies are likewise non-electricable; which I think will
+tend rather to prove my Conjecture to be true than false: For, are there
+such Things as Pitch or Resin in _Nature_? Are they not made out of the
+Juice of Plants? Which Plants, whilst they remained in the Life of
+Nature, had nothing but their unalter’d Juice in them. Pitch and Resin
+became so by Art; and therefore no Time or Chance can give an Increase
+to their Quantity: From whence they may be supposed not to be in the
+Course of Nature.
+
+I am aware what Objection this is liable to; for, though it must be
+acknowleg’d that these Things are non-electricable, it may be asked, If
+they are not the most inflammable Things that can be imagined, and,
+consequently, susceptible of Fire; because Candles are made out of Wax,
+and Torches out of Pitch and Resin? To which I answer, That here it may
+be necessary to inquire, what occasions this Flame, which is produced
+either from the Candle or Torch? Can this Flame subsist one Moment,
+without the Passage of Air through it? I answer, No. Well then, as this
+Treatise is not intended merely to state Facts, but to account for the
+Nature of them, by the best Conjectures I can make, pray why does Air
+keep this Flame subsisting? If you will suppose, with me, that the Cause
+of all Heat, and the Appearance of all Fire in the World, is collected
+out of this universal Element of Fire; which, perhaps, will never
+increase nor diminish; it being dispersed where it is most invited; if
+therefore, I say, you will suppose with me, that this Air, which is full
+of a lambent Flame, when it has been invited by the Property supposed to
+be in it, that the biggest Body congregates the less; from these
+Considerations, I think it may be supposed, that the Flame of Fire is
+produced out of the Air, only; the Wax or Resin being a fatty
+sulphureous Matter, which, as Coals, may likewise be supposed to serve
+as a _Pabulum_, fitly adapted only to let this Element pass through it,
+for the Purposes here described.
+
+The more of the Air that passes through them, the quicker they burn; as
+when the Snuff of a Candle is taken off, which hindered the Quantity to
+pass thro’ it, it increases the Flame; though, before, the same
+Materials were employ’d. The same may be said of clearing the Ashes
+from, and stirring the Fire; which impeded the Quantity of Air from
+leaving its Fire behind, in its Passage through the Coals.
+
+If the Wax had any Inherency of Fire in its Nature, Why, if you turn a
+lighted Candle downwards, does the Wax extinguish the Flame? If this my
+Conjecture be difficultly conceiv’d, pray let me farther ask, Why does a
+Candle, which is lighted, and let down into a Mine where there is a
+Damp, go out? In a large Mine there is Space enough surely for a Candle
+to burn in, if there had been enough of that _Pabulum Vitæ_ left in the
+stagnated Air which occupy’d that large Cavern.
+
+Now, if you will suppose, with me, that this Air had been robb’d of its
+Fire, by its supporting and keeping alive such Things under-ground as
+its Business is to do every-where, and that Space was left full of
+stagnated Air, and therefore could not admit of fresh to enter, it
+became impossible for Fire, or any living Creature, to subsist there.
+
+The Cure of this Evil is performed in Mines by a Horse-Mill, which works
+large Bellows, that drive fresh Air down a Shaft made for that Purpose.
+
+I remember Dr. _Halley_ told me, that he once try’d the Experiment of
+making a factitious Damp; which he did, by exhausting the Air out of the
+Receiver of an Air-Pump, and then luting to a Stop-cock a Gun-barrel;
+the other End of which he put into a Charcoal-Fire, and with the Air,
+which pass’d thro’ the Fire, he fill’d the Receiver again; he told me
+that it instantly kill’d a Mouse he put into it, and many other Animals,
+just as Damps did: Now how will you account for this, if you suppose not
+that its Fire was extinguish’d, and carried from it another Way?
+
+Having thus far, I hope, prepared your Mind to understand what I
+apprehend the Element of Fire is, and what its Office seems to be, I
+will shew, if I can,
+
+First, Why, in Electricity, Fire proceeds from an electrical Body, so as
+to light into a Flame many different Compositions.
+
+Secondly, Why a Tube of Glass, when rubbed so as to be made electrical,
+will not only attract to it, but repel from it alternately, any light
+Body, as Leaf-Gold, Feathers, and the like: And also, why it will seem
+to send from it a Quantity of Wind, with a singing small Noise, if you
+hold it nigh to your Cheek and Ear.
+
+Thirdly, Why, when any unelectrify’d Body touches any thing electrify’d,
+the Electricity breaks off with a smart Crack, and a Spark of Fire.
+
+Fourthly, Why a Number of Men, who are joined together by holding any
+metallic Body betwixt them, if one of them touch a Piece of Iron
+electrify’d, the whole Company shall feel a violent Concussion, in
+proportion to the Largeness of the Body electrify’d.
+
+First, I will endeavour to shew, Why an electrify’d Body will kindle an
+_Alcohol_, or rectify’d Spirit of Wine, and many other compounded
+Liquors, into a Flame.
+
+After having attempted to prove to you, that the Cause of Electricity
+arises from the universal Fire scatter’d through all Nature, by its
+being rubb’d together in its Passage betwixt a glass Ball and a Piece of
+Leather, _&c._ I hope I shall make it appear, that it passes from
+thence, to the Body electrify’d, in a converging and diverging State;
+just as a _Lens_ converges and diverges the Rays of Light which pass
+through it: And that all Bodies electrify’d are shut up in a _Capsula_
+or Covering of this electric Matter, or lambent Flame, which not only
+passes over it about half an Inch thick, but pervades also every Part
+and Particle of Matter which constitutes that Body; which it may as
+easily do, if it consisted of many Tons Weight, as soon, and from the
+same Necessity, as it would do to one of an Inch Diameter: And that the
+electrify’d Body is intirely seal’d up at each Extremity.
+
+To shew this Fire in a converging State, you may observe, when a
+Gun-barrel, or any long Bar of Iron, is to be electrify’d, and it is in
+a State of Suspension on silk Cords, which are non-electricable, you may
+perceive the Fire issue from a Piece of iron Wire coming from the glass
+Ball, in a lambent Flame, which draws to a Point, and then diverges, and
+drives itself on, till the Gun-barrel, or Bar, is electrify’d.
+
+Its being a Gun-barrel can be no other Reason for its Preference in that
+Shape than in another; but I believe the Occasion of its being used here
+is, because the greatest Effect which has been shewn from Electricity,
+was sent from abroad; and that was caused by suspending a great Gun in a
+non-electricable silk Cord. The Gun seems to have been made use of here
+as being the greatest Quantity of Iron, and in the best Shape, they
+could get it for Suspension. And were a Person so suspended, if he held
+in his Hand a naked Sword, you might see such a lambent Flame passing
+from it, in a converging and diverging State, as before describ’d.
+
+I would further prove this converging Fire, from a late Experiment I
+have heard of, which is as follows: If you suspend an iron Ball by a
+large Piece of Wire, which descends from a Bar of Iron electrify’d, and
+then hold under it, in a Saucer, some small round Bubbles of Glass, near
+enough to be in Contact with the electrical _Vortex_, the glass Balls
+will follow each other round in the Saucer; and each of these Balls, if
+the Experiment be made in the dark, will appear to have a Spot of blue
+Flame at each End of them.
+
+Now, as, by the Contrivance of Man, here is more of this Fire crouded
+together, than was intended by the Author of all Uniformity, seeing, by
+its natural Cohesion, and the infinite Celerity it is spirally driven on
+with, it is no Wonder, in this confined State, if that, which, as Water
+unconfin’d, would be gentle and beneficent, should, with all the Power
+that belongs to it, break out at the first Door which is opened for its
+Passage from this tortur’d State.
+
+It is no Wonder, therefore, that all undisorder’d Nature should be
+equally electrify’d: For how is it possible to have it otherwise? since,
+if a Person stands on the Ground, and touches but the _Capsula_ before
+he touches the Body, the electric Fire starts through him into the
+Ground, as swift as Lightning, and thence into the universal lambent
+Flame, from whence it was taken.
+
+Lightning from hence may in some measure be accounted for; though I
+cannot so exactly tell what collects it together, as I can in this
+factitious Lightning here treated of, yet I can suppose, that the Cause
+of Lightning is produc’d from a great Quantity of this Fire before
+spoken of; which being driven together, and included in a limited State,
+or Covering of some Kind, when discharged from this Covering, it goes
+off in an Explosion, which is Thunder. The Lightning I need not
+describe, being intirely the same with Electricity; for it will kill
+without a Wound, and pass through every thing, as this seems to do.
+
+I am to shew, first, the Cause of its kindling a Flame in certain
+compounded Liquors; which, if what I have supposed be true, that it is
+by the means spoken of that this Fire is collected and driven on, as I
+have said, it is plain to be seen, that at the Finger’s End of a Person
+electrify’d, or at the End of a Sword, held as before described, being
+in a dark Room, a Flame issues from them: It is no Wonder then, that an
+inflammable Spirit, as is shewn, should take Fire from it.
+
+The second Thing I proposed to shew is, Why a Tube of Glass, rubb’d
+smartly in the Hand, so as to become electrical, repels Leaf-Gold,
+Feathers, and other small Bodies; and when they touch any less
+electrify’d Body, they shall return back again to the Tube, and so _vice
+versa_. Now, if what I have been saying be true, how can this
+_Phænomenon_ be otherwise? For, if that Piece of Leaf-Gold, _&c._ be
+electrify’d by the Touch of the Tube, then it has as full Power given to
+it as the electrify’d Body had to give to it: And when the Gold, _&c._
+touches any other Body, it imparts to it so much of its electrical
+Property as it had in itself: And then it may be consider’d in the same
+State it was in when first electrify’d: And so it will be repeatedly
+attracted to it, and be repell’d _toties quoties_.
+
+But it may be asked, What causes these attractive and repulsive
+Faculties? I answer, The Attraction of fiery Particles one to another:
+For, if all Nature be agitated by this Fire, all Things have it in the
+common Proportion, as it was intended they should stand in Nature. And
+therefore, as I have endeavoured to shew, that Electricity is occasioned
+by crouding on any thing more of this Fire and Force than naturally
+belonged to it; and as the Flame of a Candle must of Necessity send out
+of it at its Point an Overplus (without which there could be no
+Succession or free Motion in its Flame); so, for the same Reason, the
+Redundancy of what is crouded on may be consider’d as spending itself at
+each Extremity, that it may thereby reach itself out to any thing, and
+invite it to it; as I have shewn the Flame descending down the Smoak of
+a Candle just blown out to kindle it again, will do.
+
+As therefore there is a trite Proverb, passing universally, that _where
+there is Smoak there must be some Fire_, I will endeavour to prove, That
+no Heat, either from Animals, or from any other Cause, can be produced
+but from this supposed Fire I have been speaking of. For, now, suppose
+you see the Flame of a Candle circumscribed and limited in its Shape and
+Size, which it has according to its Snuff; this Thought may serve to
+illustrate what I mean by the _Capsula_, which I have supposed passing
+over the Surface of every Body when it is electrify’d, and seems to be a
+lambent Flame, being more or less thick, as from the _Apparatus_ more or
+less Fire has been collected and rubbed together on it, either from the
+Friction of a glass Tube, or the Globe: Now, as what I am about to shew,
+is, why this attractive Faculty is found in this Experiment, I would
+offer to your Consideration, Whether, when common People see the Flame
+of a Candle circumscrib’d, they think of any Fire which may proceed
+further than in the Flame of that Candle? Yet every body, on
+Recollection, knows, that the Flame will heat Parts at a great Distance
+to such a Degree, as, at length, to kindle them into a Fire. And tho’,
+till you touch the Flame, your Finger is not immediately burn’d, yet
+there are shewn to be Emanations of Fire at a Distance from its burning
+Quality. So here I beg Leave to consider the same Property in this Fire
+occasion’d by Electricity. For, till you touch this _Capsula_ of lambent
+Flame (which is commonly to be met with near a Quarter of to Half an
+Inch short of the Body to be electrify’d) no Effect is perceiv’d,
+because you have not enter’d into the _Vortex_ of this Whirlpool of
+Fire: Yet you may suppose that it sends out an Emanation of its Fire
+beyond it, as other Flames do; which, when it has first, by its Heat,
+(which I take to be Part of it) prepared small Things to be electrify’d,
+then they are more easily lick’d into the whole Power, and so become
+electrify’d. The Reason therefore, why the Gold, and other light
+Materials, (which I have supposed to have some of this Fire in them) are
+attracted, is, the Invitation they receive from the curling _Effluvia_
+to a closer Contact: And when it has received as much as the former can
+give it, its Invitation ceases, till it has parted with what it had to
+its Neighbour; and then it is again invited as before.
+
+I come now to consider the Violence of this Fire; which, passing thro’
+the Pores of the glass Tube, may, as the Sound of Organ-Pipes, which
+proceeds only from their differently modifying the Air, cause the
+various hissing Noises you hear when the Tube is held nigh the Ear, from
+the Electricity passing through the different shaped Pores of it.
+
+And furthermore the Wind may seem to arise, from the distant Parts of
+the electrical Force playing at some Space from the Tube; which thereby
+agitate and fan the ambient Air, so as to make it feel like Wind.
+
+The third Thing I proposed to shew, is, Why the electrical Power departs
+from one Thing to another by giving a smart Crack, and send-out a Spark,
+which will set on fire many very inflammable Liquors.
+
+Now, (as I have, I hope, demonstrated) when this Fire of Electricity is
+issuing out at a Point into an inflammable Spirit, it can be no Wonder,
+that the Spirit, which is known to be full of Fire, should unite its
+Fire to that of Electricity.
+
+As to the Crack it gives when this Fire passes away: As all Sounds are
+occasioned only by the Air’s being put into a different Modification, it
+is here natural to suppose, that as the Cracking of a Whip is caused by
+the smart Stroke at the Point of it on the Air, so, in this Case, the
+Air seems to be agitated in the same manner, by breaking the Continuity
+of it, whereby the like Sound is perceiv’d.
+
+The next Thing I propose to account for, is, Why a Company of
+unelectrify’d Persons, who are joined together by their holding each a
+Piece of iron Wire betwixt them, tho’ they are ever so many, do all
+receive a violent Blow or Concussion on their Bodies, when one of them
+touches a Piece of electrify’d Iron.—I think this Experiment may be
+carried so far, that, as it has been found already sufficient to kill
+Birds, and hurt many Persons very grievously, it may have Force enough
+given to it to kill a Man, as effectually as the Darting of Lightning
+can do.
+
+For if you consider, that you may as effectually electrify one Quantity
+of Iron as another, that it may be done to many Ton Weight as easily as
+to a small Piece, and that, when it departs into a Person, all the Power
+given to it, not only on its Surface, but intimately thro’ every Pore
+and Particle of it, darts like Lightning from the Point only it was
+touch’d in; then further think, that if this Repercussion, or infinite
+Recoil, from so large and solid a Body, be so great, when its Power is
+thus sent, what may it not do in its utmost Extent?
+
+Having now, I think, gone thro’ what I propos’d to shew, and given a
+Reason, as far as my Conjecture reaches, for every _Phænomenon_ which I
+have seen or heard of in Electricity, I think it may not be improper to
+endeavour to proceed a little farther with it, and consider its Power as
+it stands in Nature. For, since the Antients have ever supposed some
+uniform compulsive Power, which they called the _Anima Mundi_, and which
+by these electrical Experiments seems to be Fire, I will endeavour to
+shew, that, in the Dispersion of it in common Nature, you may observe
+that some Plants abound with it, from the great Vigour they discover,
+compar’d with others in their own Tribe. Some are so, as being of a more
+verdant Nature than others are. Now, from this Consideration, I will
+venture to give a Reason for that which has hitherto puzzled every body
+that has thought about it, which is, Why the Sensitive Plant shrinks;
+and, from a turgid and vivid Appearance, it immediately becomes languid,
+and hangs its Leaves, on the Touch of any other Body or Thing.
+
+Now, from this my Conjecture on Electricity, if you will suppose with
+me, that as all Things, which stand in the common Nature of this lower
+World, have this Fire equally dispersed, and have more or less of it
+only as they are in this or that Place, where more or less of it is
+offer’d to be received by them, or as they are in their own Natures more
+capable of receiving more of it than others are, (as I think has been
+shewn by the electrical Experiments before-mention’d) and then likewise
+suppose the Nature of the Sensitive Plant is to have more of this Fire
+in it than there is in any other Plant or Thing, and it must, by the
+Nature of it, when any of them touches it, impart a great deal of its
+Fire into that Thing by which it is touched; because that had less of it
+than was in the Sensitive Plant. Therefore, till the Sensitive Plant has
+had Time to recover its Vigour, by receiving from the Air more of this
+Fire, its Leaves and Branches hang in a languid State, from the great
+Loss of its Spirit and Fire.
+
+To illustrate this, if you set any small Tree in a Pot upon a Cake of
+Resin, and then electrify the Tree, even tho’ it were a Willow, it would
+grow extremely turgid, so as to erect its Leaves to the great Wonder of
+the Beholder; and the Moment you touch even but one of its Leaves, the
+whole Tree becomes as languid as the Sensitive Plant would be, if
+touched by any Body or Thing.—This I think seems to me to give as great
+a Proof of the Truth of my Conjecture as the Nature of the Thing can
+admit of, respecting the Sensitive Plant.
+
+As I am upon the Subject of Vegetation, it may not be improper to offer
+somewhat concerning the Direction of the _Farina fecundans_, which is
+found in Plants and Flowers, to the _Matrix_ of that, or of a
+neighbouring Plant or Flower.
+
+Now, if there was not some very attracting Influence to guide it, it
+would but seldom happen, I think, that they could come together by
+Chance.—If therefore you suppose, that both the _Matrix_ and the
+_Farina_ abound with more of this Fire than is in any other Part of the
+Plant, or Flower, this great Wonder is at an End: For, by the natural
+Attraction there might be in each, from the Fire supposed to be in them,
+they would fly together, and be closely connected, as they are
+constantly found to be in their proper Season.
+
+I have mention’d, that the _Farina_ of one Plant may impregnate the
+_Matrix_ of another as well as its own; because I have observed
+formerly, at Mr. _Fairchild_’s, a Gardener at _Hoxton_, a Mule-Flower,
+begotten betwixt a Pink and a Sweet-William.
+
+Having consider’d how this electrical Power may be supposed to affect
+Vegetation in its common Growth, I shall reflect a little further
+concerning it, as it may affect animal Life.
+
+We may observe universally, that Youth abounds with infinitely more
+Spirits than Age doth, as well in the Human Species as in the Brute
+Creation; as it is clearly seen in Children, compar’d to Adults; as also
+in Lambs, in Colts, in Kittens, and almost all other Young, they being
+much more vigorous than their Dams are generally seen to be. Now what
+Reflection I would make on this, is, That if Life in them, and in all
+Nature, be owing to the same Fire as causes Electricity, then, from
+thence may proceed the Danger of lodging old People with young Children;
+who, by long Experience, have been found to draw from young Children
+their natural Strength; the old People having in them a less Proportion
+of this Fire than young ones seem to have.
+
+Being about to shew the Evil as well as the Good arising from this
+supposed Fire, I will, in the next place, endeavour to demonstrate, the
+Cause of Blasts in Mankind; and also to give some Reason for the Blights
+on Trees, which I think may be occasioned by this Fire before spoken of.
+
+Having given some Account of the Fire which was seen in the high Wind,
+to corroborate that Truth, I think it proper to inform you, that I have
+been told, by very good Authority, that, in tempestuous Weather at Sea,
+great Flakes of Fire are frequently seen passing not only in the Air,
+but on the Water also: And having myself seen the Sea-Water, in the
+Night-time, appear to have a great Quantity of Fire issuing out of it,
+when the Surface thereof was disturbed by the Feathering of Oars, or by
+the Vessel or Boat passing swiftly through it, I asked a Sailor, At what
+Time that Appearance happened most frequently? He told me, It most
+generally happen’d after tempestuous Weather; or, as his Term was, dirty
+Weather at Sea.
+
+I think this will sufficiently shew the Existence of this Fire in the
+Air; and, if any Regard be had to what I think its Power and Use is in
+the World, that it will intrude itself and force its Way into any Thing
+where less of it is, and so join itself to it by being in a greater
+Quantity; as has been shewn by many electrical Experiments.
+
+You may suppose a Person sitting, as it is too frequently found they
+are, near a Door, or in a Window, when they are in a warm Temperature,
+and in Perspiration; if you believe that there can be any Probability in
+the Conjecture I have offer’d to your Consideration, is it not natural
+for any of this Fire, which passes as frequently through the Air in the
+Daytime (though unobserved) as when it is seen in the Night; I say, Why
+is it not natural for it to force its Entrance into any Person or Thing?
+especially as it comes then with the Assistance of the Stream of Air the
+Person sits in, and with which it is driven.
+
+In order to make this Mischief the more to be regarded, I will endeavour
+to shew the natural State of the Air itself.
+
+Many Writers about it chuse to divide it into two Sorts; the first is
+the pure _Æther_, which is supposed to be moving above our Atmosphere;
+the second is the common Air, which is supposed to be within our
+Atmosphere. I confess, the Feats attributed to the mighty Weight of our
+Atmosphere, in causing Siphons and Pumps, _&c._ to operate, I never
+could understand; but if I were to account for their Operations, as well
+as that of a Barometer, by the Elasticity of the Air, I think I could
+more easily and more naturally shew it.
+
+Notwithstanding what has been advanced concerning the _Æther_, which is
+believed to inhabit above our Atmosphere, I chuse rather to suppose,
+that the Air is an Element as well as Fire, and that the Difference in
+it is only betwixt heavy and foul Air, and clean and light Air. That
+which comes on the highest Mountains is clean, and free from our Fogs
+and Putrefactions, and, consequently, more elastic.
+
+As a Proof of this, I would recommend the following Experiment: Fill a
+Bladder with this clean Air; then press it with a Weight just sufficient
+to make it give way; and you will find, that, by reason of its
+Elasticity, it will yield much further, than if it were fill’d with the
+other Air, which is impregnated with foggy and aqueous Particles.
+
+Now if, as in a Barometer, the Quicksilver is suspended by the Air on
+the Top of the Tube, which was extracted or emerged out of the
+Quicksilver, by the Weight of the said Quicksilver, and as that Air in
+the Barometer cannot but have a Communication with the ambient Air, the
+Air within the Barometer must thence be affected, by its becoming less
+elastic also.
+
+But this is not so much to my present Purpose, as to consider the Air
+loaded not only with Vapours, but with poisonous _Effluvia_ from the
+Steams of various Minerals, as well as with the Salts of dead Insects
+and Animals, which, in the Season of Autumn, may probably occasion so
+many Agues, and putrid Fevers, as are met with.
+
+Now, if you further consider the Air as loaded with any or all of these
+Vapours and _Effluvia_, and demanding Entrance with the Authority of
+Fire, its Companion, is it any Wonder, that the Rheumatism, and many
+other bad Effects, which frequently happen, in unguarded Seasons, to
+Mankind, may be owing to the Cause here treated of?
+
+I remember that a Person, riding in an open Chaise, in an Easterly Wind,
+receiv’d a Stroke upon one of his _Scapula’s_, with as great Pain, and
+with the same kind of Sensation, as if he had been stuck with a Dagger.
+Upon which he instantly said to his Friend in the Chaise, He expected a
+violent Rheumatism from it. Which accordingly happen’d; for he was not
+able to quit his Bed for Three Weeks after.—I think this cannot be
+better accounted for, than to suppose it proceeded from a pointed Body
+of this kind of Fire, and the _Effluvia_ which accompanied it.
+
+If you will be pleased to reflect on the Air in this last described
+State, you need not expect, I think, to have much said concerning the
+Blights on Trees. It is true, somewhat may be consider’d with regard to
+the Insects frequently found on the blighted Leaves: But whether, when
+by the Blight the Leaves have been curl’d up, the Insects come there as
+to a proper _Nidus_, or whether they are brought in this Fire, which
+seems plainly to have burn’d the Leaves, I will not undertake to account
+for.
+
+                                                             _I am_, &c.
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+                               APPENDIX.
+
+
+The kind Reception this small Treatise has met with from the Public
+occasions the Printing this Second Edition of it.
+
+It is, I confess, some Satisfaction to me, that my publishing it is not
+without Part of the Effect I hoped for; having been told by many, who
+have read it, that it gave them very new and satisfactory Ideas.
+
+As to those who have read it, and say nothing of it, either from their
+Want of Apprehension, or their Fear of being obliged to alter their
+Sentiments concerning it, or from a worse Cause than either, I
+absolutely have no Concern about them.
+
+There are those, I confess, who merit with me the highest Esteem, who,
+having read it, object to some Things, as fearing I have not conceiv’d
+them rightly; but this they have done with the Temper of Gentlemen.
+These I think deserve to be set right; which I will therefore attempt to
+do in the following Manner:
+
+The First Objection they make is, That I have called Silk, Wax, _&c._
+which do not ordinarily convey the electrical Power to other Bodies,
+non-electricable, or non-electrical; when other Writers have long since
+agreed to call them Electrics _per se_.
+
+The Second Objection is, That what I have advanced, to prove that the
+Power of Electricity proceeds not from the _Apparatus_, but from the
+Air, seems to be overthrown; because, since I wrote my Book, there has
+been a new Experiment made, by placing the whole _Apparatus_ on Wax, and
+also the Persons concerned in the Experiment, and by that means the
+Power is intercepted.
+
+The Third Objection is, That so large a Quantity of Iron, as I have
+supposed to be electrify’d, will not give greater Force, when touch’d by
+a Person unelectrify’d, than a smaller one will.
+
+In Answer to the First Objection; I cannot think, that the Term Electric
+_per se_ is suited to any Material whatever; unless some One was found
+out which would attract to it, of its own accord, any other Material; as
+we find a Loadstone will do, when placed near any thing in its Reach:
+but, if you lay even Amber unrubb’d in Contact with Straws, or any other
+Things, they will not be attracted to it. So that Friction, it is plain,
+collects this Power to the Amber.
+
+The Term Electric _per se_ seems to me to be used by these Gentlemen for
+the same Purposes as the old Term of _Occult Quality_ was.
+
+As the Word Electricity arises from Amber, I need not instance in any
+other Material; nor need I give again my Reasons, why certain Things are
+non-electricable. But, for clearing One Point, in which I am not rightly
+apprehended; I have said, That if Fire be the Cause of Life and Increase
+in any thing which stands in a State of Nature, then, whatever ceases to
+be in a State of Life or Increase, must have its Fire withdrawn, and it
+becomes a _Caput Mortuum_.—I have been told, This is not true; for a
+dead Animal will be electrify’d.
+
+This I complain of, as not having been understood concerning it. This
+Animal, though kill’d, had once its animal Increase from Fire. Boards,
+when dry, have Fire in them; because the Fire, which invigorated the
+Tree they were saw’d out of, must naturally remain in them. The like may
+be said of a dead Animal; but Wax, Pitch, Resin, and the Tribe of
+Non-electricables, never had their Existence from Nature only; and
+therefore they are quite of a different Tribe. For what I say is, That
+whatever had once Fire in it is capable of being electrify’d. Those
+called Electrics _per se_, having no Fire in them, when, by Friction,
+Fire is collected on their Surfaces, it is either driven from thence
+into the Air, or into some Electricable, and so it joins with that Fire
+which naturally belongs to it.
+
+Sealing-wax is compounded of Non-electricables, and, if you rub it, will
+attract Things to it as Amber will: And I believe all other Things,
+which will not imbibe the Fire into them, when by Friction it is
+collected on their Surfaces, will dispose of it thence to their next
+Neighbour. Resin and Pitch, from their Tenacity, may difficultly be made
+to do it, and, yet have the Nature in them I am supposing them to have.
+
+There may be such artful Tricks play’d with this Power, as, to an
+undiscerning Eye, may make it seem to be changed; for Instance, If you
+wet a silk Cord (Water being electricable) it passes on the Water
+through the Cord, by the Cord’s only retaining the Water. Some Dye, with
+which Silk is dyed, if it be of a vegetable Nature, will convey this
+Power through the Silk, by the Contiguity of the Dye-Stuff: So that you
+see there may be no End of Experiments.
+
+I think it is a great Pity that the Word _Electricity_ should ever have
+been given to so wonderful _Phænomenon_, which might properly be
+consider’d as the First Principle in Nature. Perhaps the Word _Vivacity_
+might not have been an improper one; but it is now too late to think of
+changing a Name it has so long obtain’d.
+
+As I am going to answer the Second Objection, I own I have not employ’d
+myself in making Experiments in Electricity, chusing rather, if I could,
+to account for those which have been found out by others, than to spend
+much Time in making them myself: Though I pay great Respect to those,
+who, for Improvement of Knowlege, have been employ’d in them. As to
+those who get Money by shewing these Experiments, I do not pay so high a
+Regard to their Performances; because all, who shew any Arts to new
+Customers, for Profit, are bound to try all Means to gain Applause. I
+would endeavour to ascertain the Laws or Principle by which they are
+perform’d; which when done, a Thousand Tricks like Legerdemain may be
+performed by it, by him whose Time is little worth.
+
+In the Second Objection it is said, I am mistaken, when I advance, that
+the _Apparatus_ is not the Cause of Electricity, but that it is produced
+by the Air. To shew this, I am told, That if a Person is placed, and
+also the _Apparatus_, on Wax or Resin (which are non-electricable), no
+Fire or Force is produced from them: But if the Person employ’d in doing
+it touches the Wainscot or the Floor with a Walking-Stick, or the like,
+the Electricity flows as freely as if he stood on the Floor. From whence
+some Conjecture this Power comes from the Earth only; than which I think
+nothing can be more absurd: For, if you fetch it out of the Wainscot, or
+the Boards of the Floor, it must first be in them, and the Air could
+only be the Carrier of it to them. So that here the main Things, which I
+at first only conjectur’d, I think are fully proved; which are, That
+Electricity was not generated by the _Apparatus_, but only collected by
+it out of the Air.
+
+As to the Third Objection to a larger Quantity of electrify’d Iron not
+giving greater Force than a smaller, it should be observ’d, that in this
+Essay I have only conjectured what most probably is true: And as I
+profess not to have been engaged in making electrical Experiments, I
+must rely on those only who have made them: But, surely, if there may be
+too much Iron employ’d to be so affected, as I have imagined, there may
+also be too little; and therefore Time may yet shew, that such a
+Quantity of this Power may be so collected as to kill a Man; since but
+Yesterday I was informed, that a Person, who lives in the _Strand_, is
+now recovering from a Palsy, in which he lost his Speech, and other
+Intellects; which Mischief he received from this Force of Electricity.
+
+I hope what I have written on this Subject will not call on me, from the
+thinking Part of Mankind, any undue Reflection: I have nevertheless met
+with such an unmannerly Abuse from a Country Show-man, who published
+some Experiments, and owns he added the Preface to it, in order to write
+what I am sure no Gentleman would have written—If this Person be poor,
+and did it for Gain, I heartily pity him. He owns he was much
+affrighted, when he heard of my publishing this Piece, because of the
+hard Fate, he says, of his Booksellers; but, before he had read Two
+Pages, he likewise owns he recovered his Spirits, when he found I
+pretended to think for myself, and did not let Sir _Isaac Newton_ think
+for me, after he had been so long dead. I am well satisfy’d, had that
+Great Man been living, and had seen these electrical Experiments, he
+would not have bow’d low to this great Philosopher, for thus supporting
+his Character. His doing this would be as ridiculous as to see a Pygmy
+attempt to carry a Giant. I believe there are more Answers to Books
+written to pay a Landlady, or an Alehouse-Score, than from any other
+Cause; especially, if they think they answer one whose Character will
+call it into the World.—I know nothing of my Adversary’s Finances; but
+how rich soever he may have made himself by his Show, he seems to have
+the Blessing of never being liable to the Headach from his Thinking too
+intensely.
+
+
+                                _FINIS._
+
+
+
+
+------------------------------------------------------------------------
+
+                          Transcriber’s note:
+
+Width of em-dashes has been regularised.
+
+Page 8, ‘unphilophical’ changed to ‘unphilosophical,’ “how
+unphilosophical and unmeaning”
+
+Page 16, ‘mortuum’ changed to ‘Mortuum,’ “as a Caput Mortuum. Of”
+
+Page 27, ‘convergeing’ changed to ‘converging,’ “prove this converging
+Fire”
+
+Page 31, ‘wil’ changed to ‘will,’ “so it will be”
+
+Page 56, ‘whetever’ changed to ‘whatever,’ “then, whatever ceases to”
+
+Page 57, second ‘to’ struck, “ceases to be in”
+
+
+
+
+
+End of the Project Gutenberg EBook of An Essay to Shew the Cause of
+Electricity, by John Freke
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ESSAY TO SHEW CAUSE OF ELECTRICITY ***
+
+***** This file should be named 52439-0.txt or 52439-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/2/4/3/52439/
+
+Produced by The Online Distributed Proofreading Team at
+http://www.pgdp.net (This file was produced from images
+generously made available by The Internet Archive)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

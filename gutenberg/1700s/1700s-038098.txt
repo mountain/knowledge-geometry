@@ -1,0 +1,2990 @@
+﻿The Project Gutenberg EBook of The Preface to the Aeneis of Virgil (1718), by 
+Joseph  Trapp
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Preface to the Aeneis of Virgil (1718)
+
+Author: Joseph  Trapp
+
+Editor: Malcolm Kelsall
+
+Release Date: May 17, 2011 [EBook #36137]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PREFACE ***
+
+
+
+
+Produced by Tor Martin Kristiansen, Margo Romberg, Joseph
+Cooper and the Online Distributed Proofreading Team at
+http://www.pgdp.net.
+
+
+
+
+
+
+
+    THE AUGUSTAN REPRINT SOCIETY
+
+
+    JOSEPH TRAPP
+
+
+
+
+    THE
+
+    PREFACE
+
+    TO
+
+    T H E  Æ N E I S
+
+    OF
+
+    VIRGIL
+
+
+    (_1718_)
+
+
+    _Introduction by_
+
+    MALCOLM KELSALL
+
+
+    PUBLICATION NUMBERS _214-215_
+
+    WILLIAM ANDREWS CLARK MEMORIAL LIBRARY
+
+    UNIVERSITY OF CALIFORNIA, LOS ANGELES
+
+    _1982_
+
+    GENERAL EDITOR
+
+    David Stuart Rodes, _University of California, Los Angeles_
+
+    EDITORS
+
+    Charles L. Batten, _University of California, Los Angeles_
+    George Robert Guffey, _University of California, Los Angeles_
+    Maximillian E. Novak, _University of California, Los Angeles_
+    Thomas Wright, _William Andrews Clark Memorial Library_
+
+    ADVISORY EDITORS
+
+    Ralph Cohen, _University of Virginia_
+    William E. Conway, _William Andrews Clark Memorial Library_
+    Vinton A. Dearing, _University of California, Los Angeles_
+    Arthur Friedman, _University of Chicago_
+    Louis A. Landa, _Princeton University_
+    Earl Miner, _Princeton University_
+    Samuel H. Monk, _University of Minnesota_
+    James Sutherland, _University College, London_
+    Robert Vosper, _William Andrews Clark Memorial Library_
+
+    CORRESPONDING SECRETARY
+
+    Beverly J. Onley, _William Andrews Clark Memorial Library_
+
+    EDITORIAL ASSISTANT
+
+    Frances M. Reed, _University of California, Los Angeles_
+
+
+
+
+INTRODUCTION
+
+
+Joseph Trapp's translation of the _Aeneid_ was first published in two
+volumes dated respectively 1718 and 1720. Its appearance coincided with
+his vacation of his chair as Professor of Poetry at the University of
+Oxford, an office which he was the first to hold and to which he had
+been elected in 1708.[1] The translation may be seen both as a
+valediction to the University by one whose subsequent career was to be
+made through the paths of clerical controversy and as a claim for the
+attention and patronage of the great world. The dedicatee was William,
+Lord North and Grey, and the list of subscribers is rich with the names
+of lords temporal and spiritual, including the Lord Primate of Ireland
+(Thomas Lindsay), who took four sets. Addison, Arbuthnot, Berkeley,
+Thomas Sheridan, Tickell, Swift, Young, and Thomas Warton (who succeeded
+Trapp as Professor of Poetry) also subscribed, but not Pope, whose views
+on Homer, Trapp criticised and misquoted. The University of Oxford was
+generous in its support (Cambridge was less so). We have, thus, in
+Trapp's _Aeneid_ a translation of Virgil that was probably read by many
+of the important figures of the English Augustan cultural milieu. In
+turn, Trapp, writing with highest academic authority, offers in his
+Preface an important critical account of Virgil's epic.
+
+Trapp's career was typical of his times, combining literary and critical
+activity with religious and political partisanship. He was born into a
+clerical family in 1679 (his father was rector of Cherrington,
+Gloucestershire) and after proceeding to New College School, Oxford, and
+Wadham College, he attracted the attention of the wits by a series of
+paraphrases, translations, complimentary effusions (including "Peace. A
+poem: inscribed to ... Viscount Bolingbroke, 1713"), and at least one
+successful tragedy, _Abra-Mule; or Love and Empire_ (1704). In public
+affairs he was active in the defence of Henry Sacheverell, and his
+partisanship here must have cemented his relationship with Dr. William
+Lancaster, one of the bail for Sacheverell, who was Vice-Chancellor of
+Oxford at the time of Trapp's election to the chair of poetry. Less
+fortunate was Trapp's association with the dedicatee of the translation
+of the _Aeneid_, for Lord North and Grey, who was prominent in seeking
+to quash Sacheverell's impeachment (and became a privy-councillor in
+1711), was committed to the Tower in 1722 for complicity in the
+Atterbury plot and ended his days a wanderer on the continent. That
+Atterbury himself was a subscriber to the _Aeneid_ serves further to
+underline Trapp's Tory affiliations. The dedication by Trapp of his
+Oxford lectures on poetry (_Praelectiones Poeticae_, 1711-19)[2] to
+Bolingbroke appears to complete a fatal concatenation of literary and
+political association in the light of events after the death of Queen
+Anne.
+
+Nonetheless, Trapp survived and prospered. Under the Tories he had been
+for a time chaplain to Sir Constantine Phipps, Lord Chancellor of
+Ireland, and shortly afterwards to Bolingbroke, who stood as godfather
+to Trapp's son Henry. During the Tory collapse, Peterborough presented
+him to the rectorship of Dauntsey in Wiltshire; Dr. Lancaster obtained
+for him the lectureship at St. Martin-in-the-Fields, Westminster; and in
+the 1730s Bolingbroke, restored, preferred him to the rectorship of
+Harlington, Middlesex. Other livings and the presidency of Sion College
+were to accrue for faithful service, as Trapp turned his pen to the
+defence of the established church: first against the Roman Catholics
+(for which, perhaps, the University of Oxford created him Doctor of
+Divinity in 1728) and later against the Methodists, especially in his
+discourses on _The Nature, Folly, Sin, and Danger of being Righteous
+over much_ (1739).
+
+Such engagements left him little time for literary creativity in the
+years before his death in 1747. However, Trapp finally finished his
+labors on Virgil by issuing a translation of the works (1731); and his
+poem _Thoughts Upon the Four Last Things: Death, Judgment, Heaven, Hell_
+(1734-35) shows him attempting to combine literary pleasure with
+theological instruction--a potent mixture forcibly administered to his
+parishoners, for it is recorded that he desired in his will that a copy
+be presented to each "housekeeper" among them. _The Paradisus Amissus,
+Latine Redditus_ appeared in 1741-44. This translation of Milton into
+Latin is more than a freak of the neoclassical mind. It is the natural
+complement to his earlier translation of the _Aeneid_ into Miltonic
+blank verse as well as his attempt to judge the classic sublime by the
+achievement of the masterwork of Christian epic, a task that had
+preoccupied him as Oxford's Professor of Poetry.
+
+The importance of Trapp's Preface to his version of the _Aeneid_ (and
+the extensive notes to the text) lies fundamentally in the fusion of
+Miltonic example with neoclassical precept in an attempt both to
+understand the Latin text rationally and to communicate the intensely
+exciting and moving experience that the _Aeneid_ evokes. This was a new
+departure. French Aristotelian criticism of classical epic was
+(inevitably) not influenced by Milton. In the English tradition, neither
+Dryden in his Dedication of the _Aeneid_ nor Pope in the prefatory
+material to the _Iliad_ (with which Trapp frequently takes issue) used
+_Paradise Lost_ as the basic touchstone of value. Trapp was to be
+sneered at in Delany's "News from Parnassus" for claiming in Pythagorean
+vein that the spirit of Milton had descended to him. This was unfair; he
+made no such claim. Trapp was trying to discover affinities between past
+and present in poetic sensibility and in the use of language. In doing
+so, he sought to place a major English poet in relation to Virgil, and
+he judged from this example that the English blank verse line had more
+of the grandeur of the Latin hexameter than the couplet in the hands
+even of Dryden or Pope. His taste told him that the imaginative
+invention and force of Milton had more of the Virgilian spirit than the
+elegant correctness of English Augustanism. He argues his position with
+vigor in the Preface and in his notes, and often with illustrative
+example.
+
+The conventional view that Trapp wished to change by the interpolation
+of Milton was that, whereas Virgil merited the laurel for judgment and
+decorum, Homer possessed greater "fire," "sublimity," "fecundity,"
+"majesty," and "vastness" (to use Trapp's terms). Homer was praised as
+the great original and inventor; Virgil followed in his steps with more
+refinement and rationality, showing everywhere that good sense and
+polished concision of expression characteristic of the Augustan age (so,
+for instance, René Rapin claimed in the well-known _Comparaison_).[3]
+One blossomed with the wild abundance and grandeur of nature; the other
+displayed that cultivated order shown in fields and gardens. Trapp
+accepts all that was granted to the Roman poet, but he claims for
+Virgil, Homeric qualities also: his borrowings are merely the basis for
+his invention (witness the tale of Dido); and as for the fire of
+sublimity, Trapp, like a critical Prometheus, filches that also. Among
+the many instances of the Virgilian fire given in the Preface, he cites
+"the Arrival of _Aeneas_ with his Fleet and Forces" in the tenth book.
+His translation runs thus:
+
+    Amaz'd stood _Turnus_, and th' _Ausonian_ Chiefs;
+    'Till, looking back, they saw the Navy move
+    Cov'ring the Sea, and gliding make to Shore.
+    Fierce burns his Helm; and from his tow'ring Crest
+    Flame flashes; and his Shield's round Bossy Gold
+    Vomits vast Fires: As when in gloomy Night
+    Ensanguin'd Comets shoot a dismal Glare;
+    Or the red Dog-Star, rising on the World,
+    To wretched Mortals threatens Dearth, and Plagues,
+    With Baleful Light; and saddens all the Sky.          (360 _ff._)
+
+Trapp does not play the trite old game of setting the texts of Homer and
+Virgil in comparison, but what comes to his mind at once in his note,
+and rightly, given the language of his translation, is Milton describing
+Satan:
+
+                        Like a Comet burn'd,
+    That fires the Length of _Ophiucus_ huge
+    In th' Artick Sky; and from his horrid hair
+    Shakes Pestilence and War.          (II. 708-711)
+
+Similarly, when Aeneas hastens to meet Turnus in the twelfth book,
+Miltonic translation and Miltonic original are brought together to show
+the similarity between Virgilian and Christian sublime:
+
+                        _Aeneas_ ... with Joy
+                Exults; and thunders terrible in Arms.
+    As great as _Athos_, or as _Eryx_ great,
+    Or Father _Apennine_, when crown'd with Okes
+    He waves the ruffled Forest on his Brow,
+    And rears his snowy Summit to the Clouds.          (902 ff.)
+
+       *       *       *       *       *
+
+                    On th' other Side _Satan_ allarm'd
+    Collecting all his Might, dilated stood;
+    Like _Teneriff_, or _Atlas_ unremov'd:
+    His Stature reach'd the Sky, and on his Crest
+    Sat Horrour plum'd.          (IV. 985-989)
+
+In the light of such illustration, it is not surprising that Trapp, in
+the Preface, when he wishes to give the feel of the Virgilian sublime,
+quotes Milton's description of the creation:
+
+    Let there be Light, said God; and forthwith Light
+    Ethereal, first of Things, Quintessence pure,
+    Sprang from the Deep.          (p. xxx)
+
+When he wants to show what grandeur with propriety the English language
+can achieve (even in the teeth of Dryden's rendering of Virgil, which he
+pertinently censures), he chooses his prime examples from Milton:
+witness the account of Satan "Hurl'd headlong, flaming from th' ethereal
+Sky...." It was a bold undertaking by Trapp, for Pope's version of
+Homer, elegantly correct in couplets, was in the press. Many a man was
+to suffer more in _The Dunciad_ for less.[4]
+
+Trapp's immediate critical associates in England clearly are John Dennis
+and Joseph Addison, and the origins of Trapp's thinking in classical
+antiquity may be found in Longinus. Dennis had united Milton with the
+poets of antiquity as an example of the passionate effects of the
+religious sublime,[5] while Addison (who had already translated a
+fragment of _Aeneid_ III into blank verse) in his _Spectator_ papers on
+_Paradise Lost_ had tastefully combined the structural formalism of
+Aristotelian criticism of the epic with enthusiastic comment on the
+grandeur and beauty of Milton's verse. To these must be added Trapp's
+favorite, Roscommon, who in _An Essay on Translated Verse_ (1685)[6] had
+interposed an imitation of Milton to illustrate how English verses might
+rise to Roman greatness. But it would be unfair to Trapp merely to
+reduce him to a series of component sources. He adopts and adapts; and
+as far as the criticism of Virgil was concerned, his Preface and his
+notes are a refreshing plea for something that he felt had not been
+sufficiently emphasized in the _Aeneid_: the ever-varying energetic
+passion that Longinian criticism had claimed was an essential quality of
+the greatest literary works. Trapp's choice of Miltonic example is only
+one means by which he emphasises that to truly respond to the _Aeneid_
+(as to any major poem) was to be ravished by an overwhelming emotive
+experience. "The Art, and Triumph of Poetry are in nothing more seen,
+and felt, than in _Moving the Passions_," he comments in his "Remarks"
+on the tragical action of the fourth book to which he prefaced "_An
+Essay upon the Nature, and Art of_ Moving the Passions _in Tragedy, and
+Epic Poetry_" (I. 377). "A Man cannot command his own Motions, while he
+reads This; The very _Verses are alive_" (II. 942) is a typical comment
+from his "Remarks" (on breaking the truce in the twelfth book). He
+introduces the third book by citing Horace: the poet's art is like
+magic, transporting us now to Thebes, now to Athens (I. 365). Sometimes
+he throws up his hands in rapture at the _je ne sais quoi_: "Some
+Beauties are the more so, for not being capable of Explanation. I feel
+it, tho' I cannot account for it" (I. 339). It is to the text the
+Preface lays the foundation for this kind of response in its emphasis on
+the emotive range of Virgil--on his power to burn and to freeze, to
+raise admiration, terror, and pity. "The _Greek_ Poet knew little of the
+Passions, in comparison of the _Roman_" his argument runs, setting
+Virgil on the peak of Parnassus.
+
+This enthusiastic excitement is firmly controlled in the Preface by the
+disciplines of more formal criticism, and here, inevitably, Trapp
+follows the same kind of standard authorities as Dryden in his
+translation. It would be untypical of the man not to give positive
+guarantees of his learning and respectability. He shows that he had
+absorbed the arguments of René le Bossu's _Traité du Poème Epique_
+(1675) and knows Jean Regnauld de Segrais' translation of the _Aeneid_
+(1668). He was familiar with René Rapin's _Réflexions sur la Poétique
+d'Aristote_ (1674) and André Dacier's _La Poétique d'Aristote Traduite
+en Français. Avec des Remarques_ (1692). The name of J. C. Scaliger
+intrudes, if only to be mentioned with distaste; for the pedantic
+querulousness of Scaliger's extended comparison of Homer with Virgil
+attracted Trapp no more than it did Addison, both critics, in the
+English humanistic tradition, being more concerned with an appreciative
+and elegant brevity than with exhaustive scholarship. It was necessary
+also to show some knowledge of the quarrel of the ancients and moderns;
+but Trapp is concerned with the integrity of European culture, not with
+the inane counting of points for or against past or present and not at
+all with scoring off personal antagonists. In comparison, he makes
+Swift, who always sneered at him, and even Pope seem sometimes trivial
+and bitchy.
+
+The restrained humanism of the Preface is noticeable. Thus, although the
+critical concerns of the age lead Trapp to seek to annex "clear Ideas"
+"to the Words, _Action_, _Fable_, _Incident_, and _Episode_," there is
+nothing in his writing resembling the prolegomena to the _Aeneid_ in the
+Delphin edition,[7] prolegomena that define epic from the doctrine of
+Aristotle as the imitation of one action, illustrious, complete, of a
+certain magnitude, which by narration in hexameter verse raises eminent
+men to the prime virtues by delight and admiration, proceeds to define
+the _actio_, _fabula_, _mores_, _sententia_, and _dictio_ in the
+abstract, and then demonstrates that the definitions fit the _Aeneid_
+(_ergo_ it is an epic poem). This is scientific method ossified. On the
+other hand, if one compares Dryden's Dedication of the _Aeneid_, Trapp
+equally eschews the quirky digressiveness (and the wholesale
+borrowings), which give to Dryden's writing both its sense of personal
+and spontaneous insight and yet its prolixity and mere messiness. Trapp
+had studied the art to blot. The reader is spared Dryden's extended and
+pointless discussion (at second hand) of how long the action of the
+_Aeneid_ takes, let alone whether this is the right length for an epic
+action or whether Aeneas was too lacrymose to be a hero (presumably
+Trapp thought that those who will believe that will believe anything).
+Likewise, Dryden's political insights, gathered as much from his own
+experience as from Roman history, are also swiftly passed by for more
+aesthetic concerns. Perhaps the view of Dryden (and Pope) that the
+_Aeneid_ was a party piece like _Absalom and Achitophel_ was
+unbalanced,[8] but Trapp might have reflected that, if any man knew
+about political poetry, it was John Dryden and that the _Aeneid_ has a
+place in the history of the Roman civil wars. But the Oxford professor
+was more concerned with the sublime and beautiful.
+
+As a critic of classical epic there can be little reasonable doubt that
+Trapp stands comparison with either Dryden or Pope, and the honesty and
+value of his critical endeavor are worth respect. He can be cool and
+analytical when dispassionate reason is required (witness his account of
+how in brevity and morality Virgil surpasses Homer); but he is in no
+sense tied by a rigidly formalistic approach, happy to praise even that
+"_Variety_" which "justifies the Breach of almost any Rule" (Preface p.
+xlvi), or the organic development of structure that seems to be "_no
+Method_ at all" (II. 953). Essentially, behind this firm but flexible
+criticism, there is a compelling sense that to read a great poem is to
+submit to an overwhelming experience; and his criticism is always
+hastening to illustration, with the tacit appeal, "It is like this,
+isn't it?" What is particularly stimulating, whether one accepts the
+claim or not that Virgilian style and sensibility are reflected in
+Milton, is the continual illumination of the classics by the vernacular
+and particularly by modern example. It seems as if he is claiming that,
+to understand the past, we must respond to the literature of our own
+culture and that there are no important barriers between antiquity and
+the modern world, the appreciation of foreign languages and our own
+tongue. All true culture is always immediate and felt vitally as part of
+our being. In attempting to express this, Trapp is in touch with what is
+best in neoclassicism.
+
+University of Reading.
+
+
+
+
+NOTES TO THE INTRODUCTION
+
+
+[1] He had held the chair for the maximum period of ten years permitted
+by the original statute. For further particulars, see Thomas Hearne,
+_Remarks and Collections_, ed. C. E. Doble (Oxford, 1886), entries for
+14 July and 27 July 1708.
+
+[2] There is a translation by William Bowyer, assisted by William
+Clarke, entitled _Lectures on Poetry_ (London, 1742).
+
+[3] _Comparaison des poèmes d'Homère et de Virgile_ (Paris, ?1688).
+
+[4] He is identified by the Twickenham editor as the "_T--_" of the line
+"_T--s_ and T--the church and state gave o'er," in _The Dunciad_ of 1728
+II. 381, but was dropped from the _Variorum_ in 1729. In the Warburton
+note of 1743, I.33, he may be alluded to in the gibe at "Professors."
+
+[5] Notably in _The Advancement and Reformation of Modern Poetry_
+(London, 1701) and _The Grounds of Criticism in Poetry_ (London, 1704).
+
+[6] The Miltonic passage was added to the second edition (1685). The
+poem originally appeared the previous year.
+
+[7] Ed. Carolus Ruaeus, i.e. Charles de la Rue (Paris, 1675).
+
+[8] I have further discussed this point in "What God, What Mortal? The
+_Aeneid_ and English Mock-Heroic," _Arion_ 8 (1969), 359-79.
+
+
+
+
+BIBLIOGRAPHICAL NOTE
+
+
+The Preface to Joseph Trapp's translation of _The ÆNEIS of Virgil_,
+Volume I (1718) is reproduced from a copy of the first edition in the
+William Andrews Clark Memorial Library (Shelf Mark:
+*FPR3736/T715V3/1718). A typical type-page (p. vii) measures 231 x 156
+mm.
+
+
+
+
+    THE
+    ÆNEIS
+    OF
+    VIRGIL,
+    TRANSLATED INTO
+    BLANK VERSE:
+
+    By _JOSEPH TRAPP_, M.A.
+    Professor of Poetry in the University of _Oxford_.
+
+    _----Parnassia Laurus
+    Parva sub ingenti Matris se subjicit umbra_.
+
+    Virg.
+
+    VOLUME _the_ FIRST.
+
+    _LONDON_:
+    Printed in the Year MDCCXVIII.
+
+
+
+
+THE
+
+PREFACE.
+
+
+However Poetry may have been dishonoured by the _Follies_ of some, and
+the _Vices_ of others; the Abuse, or Corruption of the best Things being
+always the worst: It will, notwithstanding, be ever regarded, as it ever
+has been, by the wisest, and most judicious of Men, as the very _Flower_
+of human _Thinking_, the most _exquisite Spirit_ that can be extracted
+from the _Wit_ and _Learning_ of Mankind. But I shall not now enter into
+a formal Vindication of this Divine Art from the many groundless
+Aspersions which have been cast upon it by Ignorance, and Ill-nature;
+nor display either it's Dignity in it self, or it's Usefulness both in
+Philosophy, and Religion; or the delightful Elegancy of it's refined
+Ideas, and harmonious Expressions. This I have in some measure
+attempted in another[1] Treatise; to which I rather chuse to refer the
+Reader, than to repeat what I have already said, tho' in a different
+Language from This, in which I am now writing. I shall therefore only
+observe at present, that to hate, or despise Poetry, not only argues a
+Man deficient in Wisdom, and Learning; but even brings his Virtue and
+Goodness under Suspicion: What our _Shakespear_ says of another
+melodious Science, being altogether as applicable to This; and Poetry it
+self being the Musick of Thoughts, and Words, as Musick is the Poetry of
+Sounds.
+
+    _The Man that hath not Musick in his Soul,
+    And is not mov'd with Concord of sweet Sounds;
+    Is fit for Treasons, Stratagems, and Spoils;
+    The Motions of his Spirit are dull as Night,
+    And his Affections dark as Erebus:
+    Let no such Man be trusted.----_[2]
+
+And as Poetry was by the Heathen stiled the _Language of the Gods_; much
+the same may be said by a Christian of the one true Deity: Since a great
+part of the Holy Scriptures themselves is to the last degree Poetical,
+both in Sentiments, and Diction.
+
+But among all the Species, or Kinds of Poetry; That which is
+distinguished by the Name of Epic, or Heroic, is beyond comparison the
+Noblest, and most Excellent. _An Heroic Poem, truly such, is undoubtedly
+the greatest Work which the Soul of Man is capable to perform._ These
+are the first Words of Mr. _Dryden_'s admirable Dedication of his
+_English Æneis_ to the present Duke of _Buckingham_: They are translated
+indeed from Monsieur _Rapin_; and are likewise the first Words of his
+Comparison between _Homer_ and _Virgil_.[3] "The Design of it (continues
+Mr. _Dryden_) is to form the Mind to Heroic Virtue by Example; 'Tis
+convey'd in Verse, that it may delight, while it instructs; The Action
+of it is always One, Entire, and Great. The least, and most trivial
+Episodes, or Under-Actions, which are interwoven in it, are Parts either
+necessary, or convenient; that no others can be imagined more suitable
+to the place in which they are. There is Nothing to be left void in a
+firm Building; even the Cavities ought not to be filled with Rubbish,
+which is of a perishable Kind, destructive of the Strength: But with
+Brick, or Stone, tho' of less pieces, yet of the same Nature, and fitted
+to the Cranies. Even the least Portions of them must be of the Epic
+kind; All Things must be Grave, Majestical, and Sublime: Nothing of a
+foreign Nature, like the trifling Novels, which _Ariosto_,[4] and others
+have inserted in their Poems. By which the Reader is misled into another
+sort of Pleasure, opposite to That which is designed in an Epic Poem.
+One raises the Soul, and hardens it to Virtue; the other softens it
+again, and unbends it into Vice." But what makes this Kind of Poem
+preferable to all others, is, that it virtually contains and involves
+them: I mean their Excellencies and Perfections, besides That which is
+proper, and peculiar to it self. This likewise is observed by Mr.
+_Rapin_ in the place above-cited: And by this Assertion I do not
+contradict what I have cited from Mr. _Dryden_; which I am supposed to
+approve, while I transcribe it. For besides that he does not speak, as I
+do, of the different _Turns_, and _Modifications_ of _Thinking_, and
+_Writing_, but of _trifling Episodes_, or _Under-Actions_, which he says
+are improper for this sort of Poetry, and in which I entirely agree with
+him; I say, besides This, I do not affirm that an Ode, or an Elegy, for
+example, can with propriety be _actually_, and _formally_ inserted in an
+Heroic Poem; But only that the regular Luxuriancy, and noble Excursions
+of _That_, and the pathetical and tender Complainings of _This_, are not
+always forreign to the Nature of an Epic Subject, but are sometimes very
+properly introduced to adorn it. The same may be said of the Poignancy
+of Satyr; and the natural Images of ordinary Life in Comedy. It is one
+Thing to say, that an Heroic Poem virtually includes These; and another,
+that it actually puts them into Practice, or shews them at large in
+their proper Forms, and Dresses. I do not mention Tragedy; because That
+is so nearly ally'd to Heroic Poetry, that there is no Dispute or
+Question concerning it. An Epic Poem then is the same to all the other
+Kinds of Poetry, as the _Primum Mobile_ is to the System of the
+Universe, according to the Scheme of the ancient Astronomy: That great
+Orb including all the heavenly Bodies in it's Circumference, and
+whirling them round with it's own Motion. And then the Soul of the
+Poet, or rather of Poetry, informing this mighty, and regular Machine,
+and diffusing Life and Spirit thro' the whole Frame, resembles that
+_Anima Mundi_, that Soul of the World, according to the _Platonic_, and
+_Pythagorean_ Philosophy, thus admirably represented in the Sixth
+_Æneid_:
+
+    _Principio cœlum, ac terras, camposque liquentes,
+    Lucentemque globum Lunæ, Titaniaque astra
+    Spiritus intus alit, totamque infusa per artus
+    Mens agitat molem, & magno se corpore miscet._
+
+Here we have at once the Soul of Poetry, and the Soul of the World: The
+one _exerted_, while the other is _described_. Whether there be any such
+Thing as the Last or not, we certainly perceive the First; and however
+That be, Nothing, in reality, can give us a justly resembling Idea of
+the Fabrick of an Heroic Poem; but That, which alone is superiour to it,
+the Fabrick of the Universe.
+
+I speak of an Heroic Poem, properly so called; for I know of but Three,
+or Four, which deserve the Glory of That Title. And it's transcendent
+Excellence is doubtless the Reason, why so few have attempted a Work of
+this Nature; and fewer have succeeded in such their Attempts. _Homer_
+arose like Light at the Creation; and shone upon the World, which (at
+least so far as we know) was, with respect to that kind of Light, in
+total Darkness, before his Appearing. Such was the Fire, and Vivacity of
+his Spirit; the Vastness, and Fecundity of his Invention; the Majesty,
+and Sublimity of his Thoughts, and Expressions; that, notwithstanding
+his Errours and Defects, which must be acknowledged, his controuling,
+and over-bearing Genius demanded those prodigious Honours, which in all
+Ages have been justly paid him. I say, notwithstanding his Errours and
+Defects: for it would have been strange indeed, had he been chargeable
+with None; or had he left no room to be refined, and improved upon by
+any Successour.
+
+This was abundantly performed by _Virgil_; whose _Æneis_ is therefore
+only not perfect, because it did not receive his last Hand. Tho', even
+as it now is, it comes the nearest to Perfection of any Heroic Poem; and
+indeed of any Poem whatsoever, except another of his Own: I mean his
+_Georgicks_; which I look upon to be the most Consummate of all human
+Compositions: It's Author for Genius and Judgment, for Nature and Art,
+joined together, and taken one with another, being the greatest, and
+best of all human Writers. How little Truth soever there may be in the
+Prodigies which are said to have attended his Birth; certain it is, that
+a Prodigy was then born; for He himself was such: And when God made That
+Man, He seems to have design'd to shew the World how far the Powers of
+mere human Nature can go, and how much they are capable of performing.
+The Bent of his Mind was turned to Thought, and Learning in general; and
+to Poetry, and Philosophy in particular. Which we are assured of not
+only from the Spirit and Genius of his Works; but from the express
+Account which he gives of himself, in Those sweet Lines of the second
+_Georgick_:
+
+    _Me vero primum dulces ante omnia Musæ
+    (Quarum sacra fero, ingenti perculsus amore)
+    Accipiant, cœlique vias, & sydera monstrent.
+    Defectus solis varios, lunæque labores;
+    Unde tremor Terris, quâ vi maria alta tumescant
+    Objicibus ruptis, rursusque in seipsa residant.
+    Quid tantum oceano properent se tingere soles
+    Hyberni, vel quæ tardis mora noctibus obstet._
+
+It is true, he here only tells us of his Inclination to Natural
+Philosophy; but then he tells it us in Poetry: As few Things are more
+nearly related.
+
+For his Temper, and Constitution; if We will believe Mr. _Dryden_[5], it
+was Phlegmatick, and Melancholick: As _Homer_'s was Sanguine, and
+Cholerick, and This, he says, is the Reason of the different Spirit,
+which appears in the Writings of those two great Authors. I make no
+doubt, but that _Virgil_, in his _natural Disposition, as a Man_, was
+rather Melancholick; as, I believe, most learned, and contemplative Men
+ever were, and ever will be. And therefore how does he breath the very
+Soul of a Poet, and of a Philosopher; when in the Verses immediately
+following Those above-cited, he thus expresses the Thoughtfulness of
+both those Tempers, as well as the peculiar Modesty of his Own!
+
+    _Sin has nè possim naturæ accedere partes
+    Frigidus obstiterit circum præcordia sanguis;
+    Rura mihi, & rigui placeant in vallibus amnes,
+    Flumina amem, silvasque inglorius.----_
+
+Methinks, I _see_ him, while I read Those Verses; I am sure I _feel_
+him. How delightful must it be, to enjoy so sweet a Retirement! What a
+Glory, to be so inglorious! This, I say, is generally the Natural Make
+of learned, and ingenious Men; and _Homer_ himself, notwithstanding his
+Poetical Fire, was in all probability of the same Complexion. But if we
+consider _Virgil as a Poet_; I hope to make it appear, before I have
+finished This Preface, that, _as such_, he wanted neither the Sanguine,
+nor the Cholerick; tho' at the same time I acknowledge a Man's _natural
+Temper_ will _very much incline_ him to one way of Thinking, and
+Writing, more than to another.
+
+But tho' his _Genius_ was thus perfect; yet I take his _most
+distinguishing_ Character to be the incomparable _Accuracy_ of his
+_Judgment_; and particularly his elegant, and exquisite _Brevity_. He is
+never luxuriant, never says any thing in vain: _We admire Others_ (says
+Monsieur _Rapin_) _for what they say; but we admire_ Virgil, _for what
+he does not say_: And indeed his very Silence is expressive, and even
+his Omissions are Beauties. Yet is his Brevity neither _dry_, nor
+_obscure_; so far otherwise, that he is both the _fullest_, and the
+_clearest_ Writer in the World. He always, says enough, but never too
+much: And This is to be observed in him, as well when he insists upon a
+Thing, as when he slightly passes it over, when his Stile is long, and
+flowing, as when it is short, and concise; in This Sense, he is brief,
+even where he enlarges; and while he rolls like a Torrent, he has
+nothing frothy, or redundant. So that to Him, of all Mankind, are Those
+famous Verses of Sir _John Denham_ most particularly applicable:
+
+    _Tho' deep, yet clear; tho' gentle, yet not dull;
+    Strong, without Rage; without O'erflowing, full._
+
+Meaning _Rage_ properly so called; not the _Poetical Fury_: For That He
+was very far from wanting; as will be seen in it's proper Place. His
+avoiding Redundancy therefore proceeded neither from Poverty, nor
+Parsimony; but from Elegancy, and Exactness. So correct is he in Those
+Parts of his Writings which are allowed to be finished; that I have
+often thought what a Treasure That Man would be possessed of (were such
+a Thing possible) who could procure the Filings of his Poems; and shew
+the World what _Virgil_ would _not_ shew it. The very Chippings of Those
+Diamonds would be more valuable than the richest Jewel of the _Indies_.
+
+I have already said enough to involve my self in the now unavoidable
+Comparison between _Homer_, and _Virgil_; which has so much employ'd the
+Speculations of the Learned. Because it will be justly expected that I
+should endeavour at least to give some Reasons for my Assertions; or
+rather for my _Opinion_: For I desire that my _Assertions_ may all along
+be understood to imply no more. As to _Homer_, nothing can be farther
+from my Thoughts than to defraud that prodigious Man of his due Praise.
+I have before said a little of it; and (would the Limits of this
+Discourse permit) could with Pleasure enlarge upon that Subject. Many of
+his Faults, as they are called, are indeed no Faults; but only charged
+upon him by ignorant Pretenders to Criticism: Others, if they are really
+so, are not His, but are entirely to be imputed to the Manners and
+Customs of the Age in which he writ: And even those which are least
+justifiable are to be excused upon this single Consideration, that he
+was the first of his Species. No Science starts into Perfection at it's
+Birth: And it is amazing that the Works of this great Poet come so near
+it as they do. Thus as to himself: Then as to others; his Glory in Point
+of Precedency is uncontestable; he is the Father of Poets, and of
+Poetry; and _Virgil_ particularly has copy'd from him in a multitude of
+Instances. But after all, the Question is; Whether upon the whole,
+_Homer_'s or _Virgil_'s be the best Poems_, as we have them now; setting
+aside all _external Considerations_, relating to Times, and Customs;
+Inventing, and Borrowing; Precedency, and Succession; Master, and
+Scholar; and regarding only the _internal Advantages_, and
+_Disadvantages_, Beauties, and Faults of both; upon the Foundations of
+Nature, and Art, of Truth, and Reason. _Homer_'s Faults are to be
+excused: I am very glad of it; for I have an exceeding Honour, and Love
+for him. But still _They are Faults_: Has _Virgil_ so many? I mean too
+in Proportion, and allowing for the unequal Length of their Writings.
+_Virgil_ imitated _Homer_, and borrowed from him: But did he not
+_improve_, as well as _imitate_; and by borrowing, and adding to his own
+vast Fund what the other never parted with, grow richer than him from
+whom he so borrowed? In a word, did he not out of two very good Poems
+make a better than either of them, or than both of them put together? I
+am sensible it may be said on the other hand, that _Homer_ had the
+_Disadvantage_, as well as _Glory_ of being the First: He had no body to
+rely upon, but himself; whereas _Virgil_ had _Homer_'s Materials,
+besides his own. All this I acknowledge; nay at present, and for
+Argument's sake, let _Homer_'s be the _greater Glory_: Still is not
+_Virgil_'s the _best Poem_? For I agree that in these Comparisons we
+ought to make a Distinction between the _Man_, and the _Work_. Or if we
+must make the Comparison in the former respect; _Homer_ was _Virgil_'s
+Master, Father, what you please: But nothing is more common, than for
+the Scholar to excel the Master, and the Son the Father. I think we
+ought to lay aside the Prejudices of an undue Veneration for the
+_greatest Antiquity_, and argue only from _Reason_; and that not only in
+the Comparison of the Ancients with one another; but even in That of the
+Ancients with the Moderns. I have a very great Honour for the _Greeks_
+and _Romans_; but 'tis because their Writings are generally _good_, not
+because they are _ancient_: And when we think they are otherwise than
+good, I cannot imagine why we should not say so; provided it be with
+Modesty, and with a due Deference to the Opinions of Those who differ
+from us, whether they be dead or living. The famous Dispute about
+Ancient and Modern Learning would, I believe, be soon determined; were
+it not for unreasonable Prejudices to each of Those Names respectively.
+The Ancients, _as such_, have the Advantage in This, that they ought to
+be honoured as the Inventers of most Arts and Sciences; but then the
+Moderns, _as such_, have the Advantage in This, that besides their own
+Strength and Sagacity, they have the Models of the Ancients to improve
+upon: And very strange it would be, if they should not improve in some
+things, as well as lose in others.
+
+I shall give the particular Reasons for my Opinion of these two great
+Poets, before I finish: In the mean time, I hope the Reader will excuse
+my Rambling. I am very sensible that I shall not only differ in judgment
+from many Criticks of great Name, both Ancient and Modern; but that I am
+like to fall under the ready, and natural Censure of being prejudiced my
+self, while I warn against it in others. All I can say, is, that I have
+endeavoured to divest my self of it as much as possible; but cannot be
+positive that I am entirely free from it; being well aware that nothing
+in the World is more difficult. For I am sure I have followed _One_
+Precept of my Lord _Roscommon_, in his excellent Essay on Translated
+Verse:
+
+    _Examine how your Humour is inclin'd,
+    And which the ruling Passion of your Mind;
+    Then seek a Poet who that way does bend,
+    And chuse an Author, as you chuse a Friend._
+
+And as this is _One_ Circumstance, which is like to make a Man succeed,
+as a _Translator_; so it is like to make him err, as a _Judge_. For this
+Sort of Friendship (like all others) will certainly incline us to be
+partial in favour of the Person whom we praise, or defend. It is in
+This, as in every thing else; the Affections will be apt to biass the
+Understanding; and doubtless a Man in a great measure judges This, or
+That way of Writing to be best, because it is most agreeable to his own
+natural Temper. Thus, for Example; One Man judges (as he calls it)
+_Horace_'s Satyrs to be the best; Another is for _Juvenal_'s: When, all
+this while, strictly speaking, they may not so much differ in
+_Judgment_, as _Inclination_: For each of them perhaps will allow Both
+to be best _in their Kind_; but the one is chiefly _delighted_ with this
+Kind, and the other with that; and _there_ is all the real Difference
+between them. And tho' this does not exactly parallel the present Case;
+the Poems of _Homer_ and _Virgil_ being more of the same Species, than
+the Satyrs of _Horace_ and _Juvenal_; yet it comes very near it: and the
+Word _Species_ will admit of more Distinction than is commonly imagined:
+These two Heroic Poets being very different in their _Turn_, and
+_Manner_ of Thinking, and Writing. But after all, there are in Nature
+and Reason certain Rules by which we are to judge in these Matters, as
+well as in others; and there are still such things as Truth and
+Falshood, notwithstanding Partiality and Prepossession. And this I can
+assure my Reader, I am not prejudiced in Behalf of my Author, by
+attempting to be his Translator; for I was of the same Opinion, before I
+had the least Thought of this daring Enterprize. However, I do not
+pretend to decide as a Judge, but only to argue as an Advocate; and a
+Man may be allowed to plead with Prejudice, tho' he always ought to
+determine without it: For it may do no Mischief at the Bar, tho it be
+intolerable upon the Bench. But that my Reader may not be misguided by
+it, upon a Supposition that I am; I desire him to consider, that as I
+differ from some great Criticks, so I have the Authority of others to
+support my Opinion. I need not insist upon _Scaliger_, _Rapin_, and the
+incomparable Earl of _Roscommon_, whose Judgments upon this Point are
+very well known; but I will produce the Words of _Macrobius_, as
+collected by _la Cerda_[6], because he is commonly supposed to be in the
+other Interest. It is true, in the Comparison of particular Passages, he
+generally prefers _Homer_; yet he says, _Virgilius Homero ditior,
+locupletior, cultior, purior, clarior, fortior vi argumentorum,
+diligentior, observantior, uberior, pulchrior_. "_Virgil_ is richer, and
+fuller than _Homer_, neater, purer, clearer, stronger in the Force of
+his Arguments, more diligent, more observing, more copious, more
+beautiful." Thus, I say, he speaks, as he is represented by the
+above-mentioned Commentator; who only pretends to have picked up those
+Words from several scattered Passages in his Writings: Whether they are
+faithfully collected, or no (for he does not quote the particular
+Places) I have not had the Patience to examine, nor am I at all
+solicitous to know. It would be endless to cite _Scaliger_ upon this
+Subject; and besides, when I agree with him, it is rather in his Praise
+of _Virgil_, than in his Dispraise of _Homer_. I am far from being of
+his Opinion in some Particulars, and farther from approving of his Way
+and Manner of Proceeding. He inveighs against _Homer_ with as much
+Bitterness, as if he had a personal Quarrel with him; prosecutes him
+with all the Malice of Criticism, and that too sometimes false
+Criticism; and is upon the whole highly injurious to the Character of
+that wonderful Poet. Yet I cannot on the other side agree with Madam
+_Dacier_, who is at least even with _Scaliger_, by calling him the worst
+Critick in the World: _Le plus mechant Critique du Monde_, are the very
+Words she uses. On the contrary, I think, he is generally upon these
+Occasions rather Hyperbolical in his Expressions, than Erroneous in his
+Judgment. I am indeed amazed at the Confidence of Monsieur _de la
+Motte_, who treats _Homer_ with the greatest Freedom, and almost with
+Contempt, when at the same time he acknowledges he does not understand
+one Word of his Language. For my self, I have nothing to say, but that
+I have a Right to deliver my Sentiments, as well as another; and, to use
+the Words of that noble Poet and Critick above-mentioned,
+
+    _I speak my private, but impartial Sense,
+    With Freedom, and I hope without Offence._
+
+And here I cannot but observe, that tho' I am charmed with that fine
+Turn of his, after having remarked upon some supposed Faults in _Homer_;
+
+    _But I offend_; Virgil _begins to frown,
+    And_ Horace _looks with Indignation down;
+    My blushing Muse with conscious Fear retires,
+    And whom they like implicitly admires:_
+
+Tho', I say, I am charmed with the Elegancy of the Poet, the Modesty of
+the Critick, and the courtly Politeness of the Nobleman; and tho', as I
+shall observe hereafter, I am not of his Opinion, as to the Particulars
+he takes notice of, in the Verses preceding: yet I do not understand
+why, for disapproving of some things in _Homer_, he should apprehend
+either the Frowns of _Virgil_, or the Indignation of _Horace_. As
+_Virgil_ saw the Beauties of _Homer_, while he imitated them; he no less
+saw his Errours, while he avoided them. And as to _Horace_, that _Nil
+molitur inepte_, in one Place, and----_Quandoque bonus dormitat
+Homerus_, in another, must be regarded as Hyperboles; the one as an
+Auxesis, the other as a Meiôsis. Not but that upon the whole, he
+certainly admired _Homer_; nor would he have been the good Judge he was,
+if he had not. But as he was acquainted with the _Iliad_, and the
+_Odyssee_, so had he lived to have been as well acquainted with the
+_Æneis_; would he not have preferred the last, before both the first?
+Those who differ from me will say he _would not_; and 'tis altogether as
+easy for me to say he _would_. The same, and more, may be remarked of
+_Aristotle_; who was perfectly acquainted with _Homer_, but not at all
+with _Virgil_.
+
+Invention, Fire, and Judgment, will, I think, include all the Requisites
+of an Epic Poem. The Action, the Fable, the Manners, the Compass, and
+Variety of Matter, seem to be properly comprehended under the First of
+these; yet not so as to exclude the Two last. For the particular
+Disposition of them all is an Act of the Judgment, as the first Creating
+of them is an Act of Invention; and Fire, tho' distinct from Invention,
+and Judgment, has a near Relation to them Both, as it assists the one,
+and is to be regulated by the other.
+
+By those who commonly discourse of Heroic, and Dramatic Poetry, the
+Action, and the Fable seem not to be sufficiently distinguished. The
+Action is a great Achievement of some illustrious Person, attended with
+an important and memorable Event. The Fable is that Complication of
+Incidents, Episodes, and other Circumstances, which tend to the carrying
+on of the Action, or give Reasons for it, or at least embellish and
+adorn it. I make this Distinction; because Episodes are such, as are
+either absolutely necessary, or very requisite. Of the former sort is
+that long Narration of _Æneas_, I mean in the main Substance of it,
+which is the entire Subject of the Second, and Third Books. This perhaps
+will not by some be allowed to be an Episode; because, I think, it is
+not commonly called so: For that Word is generally appropriated to
+_Actions_, and therefore will be supposed not applicable to a
+_Narration_. But I think we shall speak more clearly; if by that Word we
+mean (as indeed the [7]Etymology of it imports) whatsoever is
+_adventitious_ to the grand Action of the Poem, connected to it, or
+inserted in it; whether it be it self an Action, or no. And there is
+Ground enough to distinguish This from the immediate, and direct Train,
+or Course of the main Action it self; and to shew what may, and may not,
+be called an Episode. For Example; The Sailing of the _Trojan_ Fleet
+from _Sicily_ in the First Book, it's Arrival there again at the
+Beginning of the Fifth, and it's Sailing from thence at the End of that
+Book; The Landing at _Cumæ_ in the Beginning of the Sixth; and in
+another Part of _Italy_, at the Beginning of the Seventh; The whole
+Operations of that Book, and so of all the rest, wherever the Heroe
+himself, or his Armies for him, either with or without his Presence, are
+directly engaged in the great Affair to be carry'd on, are, all of them,
+so many successive Parts of one, and the same Action (the great Action
+of the Poem) continued in a direct Line, and flowing in it's proper
+Channel. But where any Part comes under any one of the Bye-Characters
+above-mentioned, it is properly an Episode, whether it be an Action, or
+a Narration. The long Recital of Adventures in the Second and Third
+Books is not an _Action_, but it is _Necessary_: The Expedition of
+_Nisus_ and _Euryalus_ in the Ninth is not _Necessary_, but it is an
+_Action_: And Both are Episodes. Which brings us back to the Distinction
+before taken notice of, between Incidents and Episodes, and the several
+Kinds of the latter. All Episodes are Incidents; but it is not so on the
+Reverse. The Storm in the First Book, driving the Fleet on the Coast of
+_Carthage_, is an Incident, but not an Episode; because the Heroe
+himself, and the whole Body of his Forces, are concerned in it; and so
+it is a _direct_, not a _collateral_ Part of the main Action. But even
+Episodes (as I said) must carry on the main Action, or give Reasons for
+it, or at least embellish it: And therefore I said they are either
+_absolutely necessary_, or _very requisite_. The Narration in the Second
+and Third Books is not a _Part_ of the Action; but it _gives Reasons_
+for it, and so is _Necessary_: The Adventures of _Nisus_ and _Euryalus_
+in the Ninth Book, of _Mezentius_ in the Tenth, and of _Camilla_ in the
+Eleventh, are all _requisite_, but not _absolutely necessary_; and yet
+they are properly _Parts_ of the main Action, tho' _collateral_, not
+_direct_. The Loves of _Dido_ and _Æneas_ in the Fourth Book, the Sports
+at the Tomb of _Anchises_ in the Fifth, the Description of Hell in the
+Sixth, the Story of _Cacus_, and the Decorations of the Shield in the
+Eighth, are all supposed by some to be entirely ornamental, and no Parts
+of the main Action. And This perhaps they may imagine to be a great
+Point yielded to the Disadvantage of _Virgil_. Admitting it were so,
+_Homer_ would gain nothing by it; most of them being taken from him, and
+he having more of such _Excrescencies_, if they must be so called. But
+This in Reality is no reasonable Objection against either. The Episode
+of _Dido_ and _Æneas_ shall be considered in my Remarks upon the Fourth
+Book. The Descent into Hell is a direct Part of the Action; the Heroe
+going thither to consult his Father's Ghost concerning the Operations of
+the War, and the future Fate of Himself, and his Posterity (for _all_
+Action, even in an Heroic Poem, does not consist in _Fighting_:) And it
+would be very strange, if, in a Work of such a Length, the Poet might
+not be allowed to take that Occasion, to describe the Regions thro'
+which his Heroe passed, and to make the noblest, and most surprizing
+Description that ever the World saw. The same may be said of the
+Casting, and Engraving of the Shield, which contains a considerable Part
+of the _Roman_ History; as does the Speech of _Anchises_ in the
+foregoing Division; both introduced with exquisite Art, and Judgment.
+For the rest; granting that they are purely ornamental; and that while
+the Poet is describing them, the Action stands still, as the Criticks
+express themselves: There let it stand, with all my heart, 'till
+_Virgil_ thinks fit to set it a going again. If the Action stands still,
+I am sure the Poem does not; and the Reader, I think, must be very
+phlegmatick, if his Spirits do. What if those Episodes are not Parts of
+the Action? They are Parts of the Poem, and with the greatest Skill
+inferred in it. What if they are not absolutely _necessary_? They are
+very _convenient_; and that is sufficient. For if we allow that they are
+entirely ornamental, we deny that they are impertinent, or superfluous;
+no Things in the World being more uniform, or more naturally and
+elegantly connected. Nor does _Virgil_ ever commit the Fault of those
+whom _Horace_ justly condemns; by whom
+
+    _Purpureus, late qui splendeat, unus & alter
+    Assuitur pannus----_
+
+But the Foundation of all this wrong Criticism, is the Errour of
+reducing an Heroic Poem to the narrow Rules of the _Stage_. For tho' the
+Drama be, in some Respects, more perfect than the Epopée, in others it
+is inferiour. And it is not _Virgil_'s Fault, if we will not distinguish
+between the Building of a House, and of a City; or between that of a
+City, and of the Universe. In a Work of such an Extent as an Epic Poem,
+and all delivered in Narration, not represented by Action, these
+Interruptions of the main Business (especially when they are some of the
+most beautiful Parts of the Poem, as they always are in _Virgil_'s) are
+so far from being Improprieties, that they are Excellencies. This
+Variety is a Relief to the Mind of the Reader; who is more diverted by
+the alternate Rest, and Rapidity of the Action, than he would be by it's
+perpetual Motion. Nay the Mind is therefore the more in perpetual
+Motion, (tho' in several kinds of it) than if the Action really were so.
+For the Poem, as I observed, does not stand still, tho' the Action may.
+
+If what I have discoursed upon Episodes be not in the usual, I think it
+is in the clearer way of Expressing; and as such I propose it to
+others. _Bossu_, in his excellent Treatise of Epic Poetry, has some
+nice Distinctions concerning them; which to me are more subtile, than
+perspicuous: But that, I am sensible, may be my Fault, not his. And yet
+he seems not to distinguish enough, when he says all Episodes are
+necessary Parts of the Action, and makes no Difference between
+Necessary, and Convenient. Nay he appears to be inconsistent[8] with
+himself upon this Head, and to mistake the Sense of _Aristotle_. To the
+Doctrine of which Philosopher I think my Account is more agreeable. For
+after he has represented the Action of the _Odyssée_ in a direct Line,
+as I have That of the _Æneis_; he immediately adds,[9] _This then is
+proper; the rest are Episodes_. By the Word _Proper_, I understand
+Immediately, and Directly Necessary. But he no where says that all
+Episodes are so in any Sense; but leaves that Matter at large. For tho'
+his _French_ Translators, _Bossu_, and _Dacier_ (which latter, I think,
+is in the same Errour with the former) use the same Word _Proper_, when
+apply'd to Episodes, as when apply'd to the main Action; yet the
+Words[10] in the Original are different. _Bossu_ argues, that the
+litteral Signification of the Word _Episode_, [something _adventitious_]
+cannot take place; because an Episode must not be _added_, or
+_superinduced_, but naturally _flow_, or _arise_ from the Subject. As if
+a new Person could not enter a Room to a Company already there
+assembled, without being impertinent: Surely his Coming may not only be
+proper, but necessary; tho' I confess it may not be necessary, and yet
+be proper: Which is the very thing I would say of Episodes. According to
+this, when _Virgil_ says in the Seventh Book,
+
+    _Hos_ super advenit _Volsca de gente Camilla;_
+
+That Heroine is a mere Intruder; and her Story afterwards in the
+Eleventh Book is no _Episode_. In short, it matters not whether we say
+those Incidents _flow_, or _arise from_ the Subject; or are _added_, and
+_connected to it_; or _inserted_, and _interwoven with_ it: If they are
+_natural_, and _proper Parts_ of the _Poem_, That is sufficient; all
+the rest is a Dispute about Words, and of no Importance, or
+Significancy. However it be, I think I cannot better represent the
+several sorts of Episodes which I have mentioned, than by an Instance
+nearly ally'd to my Subject; I mean that of a General making a Campaign.
+All the important Undertakings, and Performances of Himself, or the
+Gross of his Army, or Both, in pursuance of the Design proposed, are
+direct Parts of the main Action; and so far the Campaign, and the Poem
+agree even in Terms. If he sitting in his Tent either gives, or hears,
+the Recital of something past, the Knowledge of which is absolutely
+necessary to the Prosecution of his Enterprize; This indeed is not
+Action: But still it was said to be absolutely necessary in order to the
+Prosecution of his Enterprize. And so is that Narration of _Æneas_ in
+the Second, and Third Books, in order to the carrying on of the Action,
+and to shew the Reason of it. This in War would not be called an
+Episode; but it is so in Poetry. Should the same General detach a Part
+of his Army upon a particular Expedition; and the Commander of that Body
+behave himself with uncommon Gallantry, and attempt something very
+extraordinary, and to be distinguished in History; whether he succeeded
+in that Attempt or not: This would indeed be a Part of the Campaign; but
+perhaps not a necessary one; because the Campaign might have subsisted,
+and have been successful, or unsuccessful, with it, or without it. Such
+are the Episodes of _Nisus_ and _Euryalus_; of _Mezentius_; and of
+_Camilla_. The Case of the same General's being for some time diverted
+from Action by an Amour, or some such Incident, shall be considered in
+my Remarks upon the Fourth Book. But should he in Time of Inaction, tho'
+the Campaign still continued, entertain his Officers and Soldiers with
+warlike Sports and Recreations; or hear the Relation of some memorable
+Adventure, in the Place where he encamped (like the Adventure of
+_Hercules_, and _Cacus_) tho' no way concerning his own Affairs: These
+indeed would not be Parts of the Action of his Campaign; but still might
+be very properly recorded in History, and afford great Delight to the
+Reader; who would by no Means be offended either with the General, or
+the Historian; nor think the History of that Campaign to be less of a
+Piece, because the warlike Operations were for some Time suspended. For
+we must still remember, that tho' an Epic Poem be widely different from
+History in many Circumstances; yet it is more nearly ally'd to it, than
+any Dramatic Piece whatsoever. The learned Reader, I fear, will think I
+might have troubled him with fewer Words upon this Subject, but such
+Readers I presume not to instruct: What I have said may not perhaps be
+altogether unuseful to Those who are less conversant in these Matters:
+To acquaint them with which, nothing can contribute more, than clear
+Ideas annexed to the Words, _Action_, _Fable_, _Incident_, and
+_Episode_: All which (especially the last) are ill understood by many,
+who yet use them with the greatest Freedom and Familiarity.
+
+Now if my Opinion be not received, I hope my avowed Ignorance will at
+least be excused; while I confess, that tho' I very clearly apprehend
+the Settling of the _Trojan_ Colony in _Italy_ to be the Action of the
+_Æneis_; and the Return of _Ulysses_ to be the Action of the _Odyssée_:
+yet I do not so well understand how the Anger of _Achilles_ comes to be
+called the Action of the _Iliad_. For besides that Anger is a Passion,
+not an Action: And if you mean the immediate Effect of that Anger, not
+the Anger it self; Standing still, and doing nothing (which was the
+Consequence of that Heroe's Resentment) can as little be called an
+Action as the Other; I say, not to insist upon This, tho' it is by no
+means so trivial a Nicety as some may suppose; the Anger of _Achilles_
+is not the _main Subject_ of the Poem, nor the chief Hinge upon which it
+turns. The Action of it seems to be the Conquest of _Troy_; the Fable,
+the _Trojan_ War; and the Anger of _Achilles_, an important Incident,
+serving to aggrandize the Heroe, and consequently the Action, and to
+render them more illustrious; as also at the same time to convey that
+useful Moral, concerning the fatal Effects of Discord and Contention. It
+will be said, that what I have mentioned is not the Action of the Poem,
+because _Homer_ has not proposed it as such: But may it not be as well
+replied, that _it is_ the Action of the Poem; and therefore he _should
+have_ proposed it as such? For what is the Action, appears from the
+Stress and Turn of the Work, not from the Title or Exordium; from the
+End, not from the Beginning: And of This the Readers are to judge, as
+well as of any thing else. Did not _Homer_ then know the Action of his
+own Poem? Yes questionless; but he did not mention it in his
+Proposition; which may possibly be chargeable upon him as an Errour: He
+mentions the most important Incident, but omits the Action. Had the
+Exordium set forth the Defeat of the _Trojans_, and the Destruction of
+_Troy_, with such a Clause as this, "Tho' that great Event was suspended
+by the fatal Anger of _Achilles_, Ἠ μύρι' Ἀχαιοῖς ἄλγε' ἔθηκε, and so
+on, as it now stands; it would, in my humble Opinion, have been more
+unexceptionable than it is at present. But I beg Pardon for even seeming
+to pretend to correct _Homer_; and speak This with all possible
+Submission. It is true, the Conquest of _Troy_ is not compleated in the
+_Iliad_; no more is the Settlement of the _Trojans_ by the Building of
+the Heroe's City in the _Æneis_: But _Hector_ is killed in the one; as
+_Turnus_ is in the other; and the Consequences of Both are very visible.
+I acknowledge indeed, that those of the former are not so near in view
+as those of the latter. But tho' _Virgil_ in his _Æneis_, and _Homer_
+himself in his _Odyssée_, inform us that the Death of _Hector_ was not
+the immediate Cause of the Destruction of _Troy_; the War continuing
+with great Obstinacy for a considerable time after that Heroe's Death;
+as the Stratagem of the Wooden Horse was the immediate Cause of that
+City's Destruction; And tho' _Homer_ confines the direct Action of his
+_Iliad_ only to a Part of the _Trojan_ War: Yet he takes in the Whole
+from the Amour of _Paris_ and _Helen_ to the Burning of the Town, by way
+of Narration, and by way of Prophecy; which Artifice, next to Fiction,
+is the most proper Character of Epick Poetry, as distinguished from
+History. For the Invention of This, we are (at least so far as we know)
+solely obliged to _Homer_: And for This alone, if he had done nothing
+else, he would have merited that immortal Glory, which for This, and for
+a thousand other Excellencies, he now most justly possesses.
+
+The Shortness of the Time, and the Simplicity of the Action, are
+Circumstances which, in the Opinion of some, give the _Iliad_ a great
+Advantage over the _Æneis_. The first mentioned would be no such
+Advantage; if what _Ruæus_ says were true; that the _Iliad_ takes up a
+Year: For Monsieur _Segrais_ has made it plain to a Demonstration, that
+the _Æneis_ takes up no more. But I wonder _Ruæus_ should affirm That of
+the _Iliad_; when it is manifest that the whole Action includes no more
+than forty seven Days. As to the Simplicity, or Singleness of which; if
+That be the Action which I apprehend, (for, out of Deference to the
+commonly received Opinion, I do not insist upon it) the Action is more
+complex, than it is generally supposed. But admitting that in the
+_Iliad_ the Action is more simple, as well as the Time shorter, than in
+the _Æneis_: Doubtless a single Action is better than a complicated one,
+_as such_; or in other Words, it is better, if it can be made equally
+entertaining. But there is the Difficulty: And for that Reason, it is a
+Question not yet decided, whether, even in Pieces for the Theatre,
+complicated Actions, all things considered, be not, generally speaking,
+preferable to single ones. And there is yet more Reason to prefer the
+former in an Epic Poem; which is of a far wider Extent, and partakes the
+Nature of History in some Respects, as well as of the Drama in others.
+"_Virgil_ (says Mr. _Pope_[11]) for want of so warm a Genius [as
+_Homer_'s] aided himself by taking in a more extensive Subject, as well
+as a greater Length of Time; and contracted the Design of both _Homer_'s
+Poems into one, which is yet but a fourth Part as large as his." The
+supposed Coolness of _Virgil_'s Genius shall be considered hereafter. At
+present I acknowledge he took what he thought proper out of the _Iliad_
+and _Odyssée_, tho' he did not take his _Design_ from either; and his
+first six Books resemble the _Odyssée_, as the last six do the _Iliad_:
+And his one Poem, 'tis granted, is in Number of Books no more than a
+Quarter of _Homer_'s two. But in This the Advantage seems to be on his
+Side. For there is, if I do not greatly miscalculate, as much important
+Matter, and as great a Variety of Incidents, in _Virgil_'s Twelve, as in
+_Homer_'s Forty eight. And yet is _Virgil_'s Poem too much crouded, and
+the Matter too thick? I think not. Are not _Homer_'s, on the contrary,
+too lean? and is not the Matter too thinly spred? I think it is. When I
+say a greater Number of Incidents; I do not mean more Men killed, more
+Battles fought, more Speeches spoke, and the like: Those are not
+Incidents; and I own _Homer_ has many more of them than _Virgil_. Mr.
+_Pope_ admires the Variety of _Homer_'s Battles for this Reason, that
+tho' they are so numerous they are not tedious. This is _extraordinary_
+indeed, if it be _true_: But whether a Thing be tedious or not, is
+Matter of Experience, rather than of Judgment; and so every particular
+Person must speak as he finds. Upon his Multitude of Speeches, the most
+ingenious Gentleman above-mentioned, (who was certainly _born a Poet_,
+if ever Man was) has this Remark: "It is hardly credible, in a Work of
+such a Length, how small a Number of Lines are employed in Narration. In
+_Virgil_ the Dramatic Part is less in proportion to the Narrative." It
+is so; and even in proportion to the different Length of their Works,
+_Homer_ has undoubtedly more Speeches than _Virgil_; too many, in my
+humble Opinion. _Homer_ has not enough of the Narrative Part; but
+_Virgil_ has enough of the Dramatic; if it must be so called. For, by
+the way, (tho' I very well remember that _Aristotle_ applies this Word
+to the Epopée, and have elsewhere taken notice of it, and have observed
+from Monsieur _Dacier_, that he uses it in a different Sense from This
+of which we are now speaking) I do not understand why Speech-making in
+an Heroic Poem must be called _Dramatic_; and by virtue of that Name
+pass for a Beauty. The Drama indeed consists wholly of Speeches; but
+then they are spoken by the Persons themselves, who are actually
+introduced and represented; not related and recited by the Author as
+spoken by others, as they always are in an Epic Poem. _Those_ are both
+agreeable, and necessary; _These_, if they take up far the greatest Part
+of the Work, being inserted by the everlasting Repetition of those
+introducing, and closing interlocutory Tags, Κaί μιν φωνήσας, Τόν δ'
+αὖτε προσέειπε, Ὣς ἔφατ', Τὸν δ' ἀπαμειβόμενος, _&c._ are apt to tire
+the Reader; nor does the Word _Dramatic_ at all lessen the Disgust which
+they give him. I am aware too, that setting aside the Word _Dramatic_,
+_Aristotle_ expresly declares for a Multitude of Speeches, and little
+Narration in Epic Poetry: But then I beg Leave once for all to make a
+Remark upon this Subject, which may be applied to some others; That
+_Aristotle_'s Precepts are formed upon _Homer_'s Practice; no _other_
+Heroic Poet having _then_ appeared in the World. But since the Case is
+now quite altered, to give _Homer_ the Preference to _Virgil_ upon Rules
+entirely drawn from his own Practice, would be _begging the Question_
+even in the Judgment of _Aristotle_ as a Logician, whatever might be his
+Opinion as a Critick. Not but that, after all, a far greater Part even
+of _Virgil_'s Poem is employed in Speeches, than one would imagine
+without a _very close Attention_: If I may judge of others by my self,
+we are deceived by him in this Particular, (so exquisite is his Art) and
+even after frequent Readings do not ordinarily take notice that there
+are so many Speeches in his _Æneis_ as there really are: An infallible
+Sign that they are excellent in themselves, and most skilfully
+introduced and connected. I agree that in an Epic Poem they ought to be
+_very numerous_; tho' I do not ground that Opinion upon the Reason which
+_Aristotle_ assigns; _viz._ That otherwise a Poet would not be an
+_Imitator_. For is there no _Imitation_ but in _Speeches_? What are
+_Descriptions_?
+
+By more Incidents then I do not mean (as I said) more Men killed, more
+Battles fought, more Speeches spoke; but more memorable and surprizing
+Events. Take these Poems therefore purely as Romances; and consider them
+only with regard to the History, and Facts contained in them, the Plots,
+the Actions, Turns, and Events; That of _Virgil_ is more copious, full,
+various, and surprizing, and every way more entertaining, than Those of
+_Homer_. Then is there any Comparison between the Subjects of the Poems?
+Between the Anger of _Achilles_, (if That be the Subject of the _Iliad_)
+and the Return of _Ulysses_ in Those of the Greek Poet; and the Founding
+of _Rome_, and the Glory of the _Romans_ in That of the Latin one?
+
+It is said by Mr. _Dryden_[12], and others, that _Homer_'s Moral is more
+Noble than _Virgil_'s; but for what Reason I know not. The Quarrel of
+_Achilles_ and _Agamemnon_ teaches us the ill Consequences of Discord in
+a State; and the Story of the Dogs, the Sheep, and the Wolf, in _Æsop_'s
+Fables, does the same.[13] This indeed is a very good Lesson; but it
+seems too narrow, and particular, to be the _Grand Moral_ of an Heroic
+Poem. It is proper, if you please, to be _inserted_ in such a Work; and
+many more as important as This are interspersed up and down, and
+mentioned among other Things, both in That of _Virgil_, and in Those of
+_Homer_. But how much more noble, extensive, and truly Heroic a Moral is
+This; That Piety to God, and Justice and Goodness to Men, together with
+true Valour, both Active, and Passive, (not such as consists in
+Strength, Intrepidity, and Fierceness only, which is the Courage of a
+Tyger, not of a Man) will engage Heaven on our Sides, and make both
+Prince, and People, victorious, flourishing, and happy? And This is the
+Moral of the _Æneis_, properly so called. For tho' _Virgil_ had plainly
+another End in view, which was to conciliate the Affections of the
+_Roman_ People to the new Government of _Augustus Cæsar_; upon which
+_Bossu_, and after him Mr. _Dryden_, have largely, and excellently
+discoursed: Yet this is rather of a Political, than of a Moral Nature.
+Mr. _Pope_ seeming to acknowledge that the Moral of the _Æneis_ is
+preferable to That of the _Iliad_, only says that the same Arguments
+upon which that Preference is grounded might set the _Odyssée_ above the
+_Æneis_. But as he does not give Reasons for that Assertion, it will be
+sufficient to say, that there seems to me to be at least as much
+Morality in _Virgil_'s Poem, as in the _Odyssée_ it self; and that
+particularly in the Characters of the Heroes, _Æneas_ as much excels
+_Ulysses_ in Piety, as _Achilles_ does _Æneas_ in rapid Valour. And for
+Virtue in general, the Point between the two Heroes last mentioned is
+entirely yielded by every Body in favour of _Virgil_'s; the very Moral
+of the _Iliad_ requiring that it's Heroe should be immoral. But sure it
+is more artful and entertaining, as well as useful and instructive, to
+have the Moral of the Poem so cast and contrived, that the principal
+Person in it may be good and virtuous, as well as great and brave. It
+will be said, _Homer_ could not avoid that Inconvenience; _Achilles_
+having a known Character before: It may be so; and I am glad of that
+Excuse: But still _so it is_; and it would have been _better_, if it had
+been _otherwise_. Or if you will have it as Mr. _Pope_ puts it, (less, I
+think, to _Homer_'s Advantage) He did not design to do otherwise: "They
+blame him (says he) for not doing what he never designed: As because
+_Achilles_ is not as good, and perfect a Prince as _Æneas_, when the
+very Moral of his Poem required a contrary Character." I wish then his
+Design had been _different_: Because if it had, it would have been
+_better_. If a Man does ill; is it an Answer to say, He designed to do
+so? The Account which _Horace_ gives of _Achilles_ is a very true one:
+
+    _Impiger, iracundus, inexorabilis, acer;
+    Jura negat sibi nata, nihil non arrogat armis._
+
+Heroic Virtues, no doubt! An admirable Character of a Demi-god!
+
+But who will contend that the _Grecian_ Poet is comparable to the
+_Roman_, in his exquisite Understanding of humane Nature, and
+particularly in his Art of moving the Passions? Which is one of the most
+distinguishing Characters of a Poet, and in which he peculiarly triumphs
+and glories. I mention only the fourth _Æneid_, (tho' an hundred other
+Instances might be mentioned) and desire That Book alone may be matched
+in this respect by all _Homer_'s Works put together. And yet I am not
+unmindful of several excellent pathetical Passages in both those
+immortal Poems.
+
+What has been hitherto discoursed, includes both Judgment and Invention.
+That _Homer_ excels _Virgil_ in the latter of These, is generally taken
+for granted. That he invented _before_ him, and invented _more_, is an
+undoubted Truth: But it does not from thence follow that he invented
+_better_, or that he had a _better Invention_. For to say that _Virgil_
+betrays a Barrenness of Genius, or Scantiness of Imagination, (even in
+comparison with _Homer_) is a most groundless, and unjust Reflection
+upon him. It is his exact Judgment which makes both his Fancy, and his
+Fire seem less to Some, than they really are. And then we must consider
+that it was the Fashion among the _Romans_ to adopt all Learning of the
+_Greeks_ into their own Language: It was so in Oratory, and Philosophy,
+as well as in Poetry. And therefore it is no Consequence that _Virgil_
+was of a narrower Invention than _Homer_ himself, because in many things
+he copied from him: And yet That Inference is continually made, and
+those things unreasonably confounded. And after all; _Virgil_ did not
+copy so much from _Homer_, as some would make us believe; from whose
+Discourse, if we had no other Evidence, one would imagine the Latin to
+be little more than a Translation, and an Abridgment of the Greek. The
+admirable Choice of his Subject, and Heroe, for the Honour of his
+Country; his most artfully interweaving the _Roman_ History, especially
+at those three remarkable Divisions in the First, the Sixth, and the
+Eighth Books; his Action, and the Main of his Fable; the exquisite
+Mechanism of his Poem, and the Disposition of it's Parts, are entirely
+his own; as are most of his Episodes: And I suppose it will be allowed
+that his Diction and Versification were not taken from _Homer_. To pass
+over many other things which might be mentioned, and some of which I
+shall mention in my Notes; Why must _Dido_ and _Æneas_ be copied from
+_Calypso_ and _Ulysses_? The Reason is plain: _Dido_ and _Calypso_ were
+Women, (if the latter, being a Goddess, may be called so;) and _Ulysses_
+and _Æneas_ were Men; and between those Men and Women there was a
+Love-Adventure, and a Heroe detained by it. That is all the Resemblance
+between the Persons immediately concerned. _Jupiter_'s Message by
+_Mercury_ indeed is plainly taken from _Homer_ by _Virgil_: But _Virgil_
+might very well think of that Imitation, after he had laid the Plan of
+_Dido_'s Episode; which is quite of another Nature from _Calypso_'s, and
+introduced with a quite different Design. For the same Reason, I
+suppose, the Conversation between _Venus_ and _Jupiter_ in the First
+_Æneid_ must be taken from _Homer_; because _Thetis_ has a Conference
+with that God (in favour of her Son too) in the First _Iliad_. _Virgil_
+mentions Sea and Land, Heaven and Earth, Horses and Chariots, Gods and
+Men; nay he makes use of Hexameter Verse, and the Letters of the
+Alphabet; and _Homer_, tho' in a different Language, had I confess, done
+all This before him. But where _Virgil_ really does (as he often does)
+imitate _Homer_; how does he at the same time _exceed_ him! What
+Comparison is there between the Funeral Games for _Patroclus_, and those
+for _Anchises_? Between the Descent of _Ulysses_ into Hell, and that of
+_Æneas_? Between the merely ornamental Sculptures upon _Homer_'s
+_Vulcanian_ Shield, and the _Roman_ History, and the Triumphs of
+_Augustus_ upon _Virgil_'s? In my Notes I shall be more particular: At
+present, I cannot forbear saying, that to be _such_ an Improver is at
+least almost as much Glory, as to be the original Inventer.[14]
+
+As the Case is stated between these two great Poets by the most moderate
+Criticks; _Homer_ excelled in Fire, and Invention; and _Virgil_ in
+Judgment. _Invention_ has been already enough considered: _Judgment_,
+and _Fire_ are farther to be discoursed of. That _Virgil_ excelled in
+Judgment, we all allow. But _how far_ did he excel? Did he not _very
+much_? Almost beyond Comparison? I shall here say very little of
+_Homer_'s Errours, and _Virgil_'s Excellencies in that Respect. The
+latter I shall speak of in my Notes; And the former I have no mind to:
+Both, because it has been so frequently, and largely done already; and
+also, because it is an uneasy Task; and I had much rather remark upon
+Beauties, than upon Faults; especially in one of the greatest Men that
+ever lived; and for whom I have an exceeding Love, and Veneration. I
+think he is unjustly censured by my Lord _Roscommon_, and Others, for
+his _Railing Heroes, and Wounded Gods_. The one was agreeable to the
+Manners of those Ages, which he best knew: And as to the other, Those
+who are thus wounded are subordinate Deities, and supposed to have
+Bodies, or certain Vehicles equivalent to them. Indeed, as _Jupiter_ is
+invested with Omnipotence, and other Attributes of the supreme God; I
+know not how to account for his being bound and imprisoned by his
+Subjects, and requiring the Assistance of a Giant to release him: And
+tho' the _Wound_ of _Mars_ may be no Impropriety; yet his _Behaviour_
+upon it is very strange: He roars, and runs away, and tells his Father;
+and the God of War is the veriest Coward in the Field. Nor can I forbear
+thinking, notwithstanding all the Refinements of Criticks, and
+Commentators, that the Figure which _Vulcan_ makes in the Synod of the
+Gods is a little improper, and unheroical. But, as I said, I care not to
+insist upon these Things; nor do I deny that _Virgil_ has Faults, and
+that too in his first Six Books, which are most correct, and least
+liable to Exception. I shall in my Remarks take Notice of some Passages,
+which I think to be such. No _Mortal_ was ever yet the Author of a Work
+absolutely perfect: There are but _Two_ such in the World; if we may
+properly say so: For the _World_ it self is one of them.
+
+_Virgil_ then greatly excelled _Homer_ in Judgment: So much, that had he
+been greatly excelled by him in Fire, the Advantage, upon the Comparison
+in these two Respects, would have been on his Side. But I shall not
+consider, on the other hand, how far _Homer_ exceeded _Virgil_ in Fire;
+because I utterly deny that he exceeded him in it at all.
+
+This, I am sensible, will seem a bold Assertion. Many who, upon the
+Whole, prefer _Virgil_, give him up here: Many, I say; for Some do not.
+And never was any Author more injured, than he has been, by some
+Criticks, especially _Modern ones_, in the Article of Genius, and
+Poetical Fire. What do these Gentlemen call Fire? Or how much Fire would
+they have? It is impossible to instance in Particulars here; I shall do
+That in my Notes: I can now only refer to some general Heads, among a
+Multitude more, which I cannot so much as mention. In the First Book,
+_Juno_'s Speech, _Æolus_, the Storm, the Beginning of _Dido_'s Passion:
+Almost the whole Second Book throughout: _Polyphemus_, and _Ætna_ in the
+Third: The Sports, and the Burning of the Ships, in the Fifth: The
+Sibyl's Prophetick Enthusiasm, and the Descent into Hell in the Sixth:
+_Juno_'s Speech again, the Fury _Alecto_, the Occasion of the War, and
+the Assembling of the Forces in the Seventh: The Story of _Cacus_ in the
+Eighth, the _Cyclops_, and the Shield: In the Ninth, the Beginning of
+warlike Action; at
+
+    _Hic subitam nigro glomerari pulvere nubem
+    Prospiciunt Teucri, & tenebras insurgere campis,_ &c.
+
+_Nisus_ and _Euryalus_; and the amazing Exploits of _Turnus_ in the
+Enemy's City: In the Tenth, the Arrival of _Æneas_ with his Fleet and
+Forces, at
+
+    _Ardet apex capiti, cristisque à vertice flamma
+    Funditur, & vastos umbo vomit aureus ignes,_ &c.
+
+It is needless, and would be almost endless, to recite the Rapidity of
+the War in the Tenth, Eleventh, and Twelfth Books; _Mezentius_;
+_Camilla_; the Speeches of _Turnus_, to _Drances_, to _Latinus_, to his
+Sister _Juturna_; and lastly, the single Combat between _Æneas_ and Him:
+
+    _At Pater Æneas, audito nomine Turni,
+    Deserit & muros, & summas deserit arces;
+    Præcipitatque moras omnes, opera omnia rumpit,
+    Lætitia exultans, horrendumque intonat armis:
+    Quantus Athos,_ &c.
+
+Which reminds me, by the way, that the same Persons, who blame _Virgil_
+for want of Fire, blame his Heroe for want of Courage; and with just as
+much Reason. I agree, that each of these Poets in his Temper and Spirit
+extremely resembles his Heroe: And accordingly, _Homer_ is no more
+superior to _Virgil_ in _true Fire_, than _Achilles_ is to _Æneas_ in
+_true Courage_. But what necessarily supposes the Poetical Fire, and
+cannot subsist without it, has not been yet mentioned upon this Head;
+tho' it was taken Notice of upon another: I mean, _Moving the Passions_,
+especially those of Terrour and Pity. The Fourth Book throughout I have
+above referred to: The Death of _Priam_; The Meeting of _Æneas_ and
+_Andromache_; _Nisus_ and _Euryalus_ again: _Evander_'s Concern for his
+Son before his Death, and his Lamentation after it; The Distress of
+_Juturna_, and the Fury in the Shape of an Owl flapping upon the Shield
+of _Turnus_, are some Instances selected out of many. The Truth is, (so
+far as it appears from their several Works) the _Greek_ Poet knew little
+of the Passions, in comparison of the _Roman_.
+
+It must be observed, that tho' most of the Instances, which I have now
+produced out of _Virgil_, are taken from warlike Adventures; yet it is a
+great Errour to think (as some do) that all Fire consists in Quarrelling
+and Fighting: as do nine Parts in ten of _Homer_'s, in his _Iliad_. The
+Fire we are speaking of, is _Spirit_ and _Vivacity_; _Energy_ of
+_Thought_, and _Expression_; which way soever it _affects us_; whether
+it fires us by _Anger_, or _otherwise_; nay, tho' it _does not fire us
+at all_, but even produces a _quite contrary Effect_. However it may
+sound like a Paradox; it is the Property of this Poetical Flame to chill
+us with Horrour, and make us weep with Pity, as well as to kindle us
+with Indignation, Love, or Glory: It is it's Property to cool, as well
+as to burn; and Frost and Snow are it's Fuel, as much as Sulphur.
+
+    _----Jamque volans, apicem, & latera ardua cernit
+    Atlantis duri, cœlum qui vertice fulcit;
+    Atlantis, cinctum assidue cui nubibus atris
+    Piniferum caput, & vento pulsatur, & imbri:
+    Nix humeros infusa tegit, tum flumina mento
+    Præcipitant senis, & glacie riget horrida barba._
+
+In these Lines we have the Images of a hoary old Man, a vast rocky
+Mountain, black Clouds, Wind and Rain, Ice and Snow; One shrinks, and
+shivers, while one reads them: And yet the World affords few better
+Instances of Poetical Fire; which is as much shewn in describing a
+Winter-piece, as in describing a Battle, or a Conflagration. However, as
+it appears from the Examples before cited, _Virgil_ was not deficient
+even in That sort of Fire which is commonly called so, the fierce, the
+rapid, the fighting: And where he either shews not That, or none at all,
+'tis not because he _can't_, but because he _w'on't_; because 'tis not
+proper. To explain my self, I refer the Reader to my Remark upon V. 712
+of the First Book. Excepting some uncorrect Verses, _Virgil_ never
+flags: Or when he appears to do so, it is on purpose; according to that
+most true Opinion of my Lord _Roscommon_:
+
+    _For I mistake; or far the greatest Part
+    Of what some call Neglect, was study'd Art.
+    When_ Virgil _seems to trifle in a Line;
+    'Tis like a Warning-piece, which gives the Sign,
+    To wake your Fancy, and prepare your Sight
+    To reach the noble Height of some unusual Flight._
+
+His very Negligences are accurate, and even his Blemishes are Beauties.
+Besides; a considerable Number of Verses together may have little, or no
+Fire in them; and yet be very graceful, and deserve great Praise.
+_Virgil_ (which I think is not so observable in _Homer_) can be elegant,
+and admirable, without being in a Hurry, or in a Passion. He is
+sometimes higher indeed, and sometimes lower: but he always flies; and
+that too (as Mr. _Segrais_ judiciously observes) always at a Distance
+from the Ground: He rises, and sinks, as he pleases; but never flutters,
+or grovels. Can the same be as truly said of _Homer_? His Fire in the
+main is divine; but as I think he has too much of it in some Places, has
+he not too little in others? Mr. _Dryden_ says, [15]_Milton runs into a
+flat Thought, sometimes for a hundred Lines together_. Which, I think,
+is not true: He sometimes flags in many Lines together; and perhaps the
+same may be as truly said of his Greek Master. In _Homer_ methinks I see
+a Rider of a noble, generous, and fiery Steed; who always puts him upon
+the Stretch, and therefore sometimes tires him: _Virgil_ mounted upon
+the same, or such another, gives him either the Reins, or the Curb, at
+proper times; and so his Pace, if not always rapid, as it should not be,
+is always stately, and majestick; and his Fire appears by being
+suppressed, as well as by being indulged. For the Judgment of this
+incomparable Poet, in alternately suppressing, and indulging his Divine
+Fury, puts me in mind of his own _Apollo_ overruling and inspiring his
+own _Sibyl_; which whole Passage, by the way (for I shall cite but Part
+of it) is it self one of the noblest Instances of Poetical Fire this Day
+extant in the whole World. My Application a little perverts it: But That
+is a small Circumstance in Allusions.
+
+    _At Phœbi nondum patiens immanis in antro
+    Bacchatur vates, magnum si pectore possit
+    Excussisse Deum_; tanto magis ille fatigat
+    Os rabidum, fera corda domans, fingitque premendo.
+
+But afterwards;
+
+    _Talibus ex adyto dictis Cumæa Sibylla
+    Horrendas canit ambages, antroque remugit,
+    Obscuris vera involvens_; ea fræna furenti
+    Concutit, & stimulos sub pectore vertit Apollo.
+
+What was my Lord _Roscommon'_s Precept, was _Virgil_'s Practice,
+
+    _To write with Fury, but correct with Phlegm:_
+
+Things very consistent in their own Nature. And therefore I must insist
+that _Virgil_ was no way deficient in Poetical Fire; and that _Homer_
+excelled him not in that Particular. By which last I always mean, that
+either _Homer_ had not _more_ of it, or if he had _more in the Whole_,
+he had _too much_ in _some_ Instances, and _too little_ in _others_. If
+His were _more_ than _Virgil_'s, (tho' even That I question) it was not
+_better_; no nor _so good_: considering how their Fire was disposed, or
+(if I may so speak) situated in their several Constitutions; and what
+use they severally made of it in their Writings. And therefore upon this
+Article I must take the Liberty to say, Mr. _Pope_ is not just to
+_Virgil_, as well as to some other Poets, in the Preface to his
+admirable Translation of _Homer_. "This Fire (says he) is discerned in
+_Virgil_; but discerned as through a Glass, reflected, and rather
+shining than warm, but every-where equal and constant: In _Lucan_, and
+_Statius_, it bursts out in sudden, short, and interrupted Flashes: In
+_Milton_, it glows like a Furnace, kept up to an uncommon Fierceness by
+the Force of Art: In _Shakespear_, it strikes before we are aware, like
+an accidental Fire from Heaven: But in _Homer_, and in Him only, it
+burns every where clearly, and every where irresistibly." Supposing his
+Account of _Lucan_ and _Statius_ to be true: I no more know how to
+distinguish it from his Account of _Shakespear_, than I agree with him
+in the Character he gives of that great Man. For Fires from Heaven do
+not _often_ strike; and when they do, are of no long Continuance: And so
+_Shakespear_'s, like That of the other Two before mentioned, is supposed
+to _burst out in short, sudden, and interrupted Flashes_: For Instance,
+like Lightning; which is the only Fire from Heaven that we ordinarily
+see, or hear of, and even That not very frequently. For if any other
+Celestial flashes are here meant, they indeed may be more Divine; but
+they are much more rare, and short, than Those of _Statius_ and _Lucan_.
+Whereas _Shakespear_, in my Judgment, has more of the Poetical Fire,
+than either of those Poets. _Milton_ indeed had more of it than He: and
+therefore I am no less suprized at the Character here given of his Fire,
+that _it glows like a Furnace, kept up to an uncommon Fierceness by the
+Force of Art_: Because, tho' his Art, Learning, and Use of Books,
+especially of _Homer_, be very great; yet he is most distinguished by
+natural Genius, Spirit, Invention, and Fire; in all which perhaps he is
+not very much inferiour to _Homer_ himself. Whose Fire again does not, I
+conceive, _burn every where clearly, and irresistibly_: Or if it did, it
+would be no Commendation. For the small Praise here given to _Virgil_,
+is, in my Opinion, no true Praise at all: His Fire is not every where
+equal: and it would be a Fault in him, if it were; as I have above
+observed. But waving That; Surely such an Account of _Virgil_'s Fire was
+never given by any Critick before. _It is discerned_: As faint, and
+lessening an Expression, as could have been thought of. And how is it
+even _discerned_? Only _through a Glass_: And lest we should imagine
+That Glass to be a _Burning-Glass_; it is _reflected_, and _rather
+shining, than warm_. Now I desire to be informed, what truer Idea any
+one can have of the coldest, and most spiritless Writer in the World;
+supposing him only to be a good Judge, and a Man of tolerable Parts. If
+I am my self a little warm upon this Subject, I hope it may be pardoned
+upon such an Occasion; when so great a Genius as _Virgil_'s is unjustly
+censured by so great a Genius as Mr. _Pope_'s. However it be; _Homer_,
+according to this Account, remains the Sun of Poetry: For I know of no
+other Luminary (to which he may be compared) whose Fire _burns every
+where clearly, and every where irresistibly_. Whereas, if we must pursue
+these Similes of Light, and Fire, (tho', like other Similes, they do not
+answer in every Particular) I should rather say, as I hinted in the
+Beginning of this Preface, that the Fire of Poetry arose in _Homer_,
+like Light at the Creation; shining, and burning, it is true, but
+enshrined in a Cloud: But was afterwards transplanted into _Virgil_, as
+into the Sun; according to the Account which _Milton_ gives of Both:[16]
+
+    _Let there be Light, said God; and forthwith Light
+    Ethereal, first of Things, Quintessence pure,
+    Sprang from the Deep; and from her native East
+    To journy thro' the airy Gloom began,
+    Sphear'd in a radiant Cloud: For yet the Sun
+    Was not; She in a cloudy Tabernacle
+    Sojourn'd the while.----_
+
+Afterwards:
+
+    _Of Light by far the greater Part he took,
+    Transplanted from her cloudy Shrine, and plac'd
+    In the Sun's Orb, made porous to receive
+    And drink the liquid Light; firm to retain
+    Her gather'd Beams, great Palace now of Light._
+
+If it be said, that according to this Account, _Homer_ has the
+Advantage; because _all_ the Light is supposed to have been first in
+him, and only a _Part_ of it (tho' the greatest) transferred to
+_Virgil_: it must be remembered that we are only making a _Comparison_:
+For if it were an exact _Parallel_, we must conceive (which we are far
+from doing) that the _very individual_ Fire of the _Greek_ Poet was
+transferred into the _Roman_; and that the one ceases to exist
+separately from the other. But besides; admitting _Homer_ to have the
+Advantage _so far_ as this Objection supposes; yet still _Virgil_ has it
+_upon the Whole_, even with respect to Fire, of which we are now
+discoursing. Tho' the Light in the cloudy Shrine were _more_ than That
+in the Sun; yet in the Sun it is placed in a _higher_, and more
+_regular_ Sphere; more _aptly disposed_ for _warming_ and
+_illuminating_, and more _commodiously situated_ for the Delight and
+Benefit of Mankind. "The _Roman_ Author (we are told) seldom rises into
+very astonishing Sentiments, where he is not fired by the _Iliad_.[17]"
+Tho' I absolutely deny the Matter of Fact yet supposing it were true,
+still _fired he is_: The Poetical Spirit is in him, however he came by
+it; and that too _better_, if not _more_, than in him from whom he is
+imagined to have received it. How far the Reader will be of my Opinion
+upon this Head I know not: But to me the Truth of what I have urged
+resembles the _Things_ of which I have been speaking: It _shines_ like
+the _Light_, and _burns_ like the _Fire_.
+
+As to _Similes_, _Homer_ is supposed to have the full Propriety of
+_Them_; and even the greatest Part of _Virgil_'s must be His. That a
+great Number of _Virgil_'s are taken from him, I deny not; but most of
+them are exceedingly improved by being transplanted: Tho' I believe if
+he had taken fewer from _Homer_, and given us more of his own, his Poem
+would have been so much the better. Not that he really has copy'd from
+_Homer_ in this Instance, near so much as some Criticks pretend; and he
+has more Similes entirely his own; than the aforesaid Criticks will
+allow him. In my Remarks I shall mention some Particulars.
+
+Generally speaking, _Homer's Descriptions_ are admirable. But even in
+this View, I think Those are unjust to _Virgil_, who do not allow that
+he excels his Master. Consider the several Instances already cited, upon
+the Article of Poetical Fire; for most of them may be equally applied to
+This. What Images! what Paintings! what Representations of Nature! what
+Nature it self, do we find and feel in them! Besides a Multitude of
+others, which cannot now be so much as mentioned: I must here again
+refer to my Notes for Particulars.
+
+For _Style_, _Diction_, and _Verification_, _Homer_, I acknowledge, is
+allowed the Triumph, even by the Generality of _Virgil_'s Party:
+particularly by _Rapin_; as he is likewise by him in the Instances of
+_Fire_, and _Description_, above-mentioned. However, that I may not be
+thought singular in my Opinion, a Character which I by no means desire;
+it may be considered that I agree with _Scaliger_ in his express
+Assertions, and with my Lord _Roscommon_ in his Hints and Insinuations,
+not to mention other Authorities; when I frankly declare my Sentiments,
+that the _Roman_ Poet is superiour to the _Grecian_ even in this
+Respect. The _Greek_ Language, it is true, is superiour to the _Latin_,
+in This, as well as in every thing else; being the most expressive, the
+most harmonious, the most various, rich, and fruitful, and indeed, upon
+all Accounts, the best Language in the World. But if notwithstanding
+this great Advantage, _Virgil_'s Diction and Versification be preferable
+to _Homer_'s; his Glory for That very Reason will be so much the
+greater. _Homer's Epithets_, for the most part, are in _Themselves_
+exceedingly beautiful; but are not many of them _superfluous_? Whether
+many, nay all, of those Particles which are commonly (and indeed, I
+think, falsly enough) called Expletives, be significant or no, I do not
+now dispute: But admitting them to be so; are not too many little Words,
+whether _Expletives_, nay whether _Particles_, or not, often crouded
+together? Ἤ εἰ δή ποτέ τοι κατὰ, _&c._ and Ἦ ῥὰ νύ μοί ποτὲ καὶ σὺ,
+_&c._ are not, I own, very agreeable Sounds to my Ears; and many more of
+the same Kind are to be met with. Moreover, does not _Homer_ make an ill
+use of one great Privilege of his Language, (among many others) I mean
+That of dissolving Diphthongs, by so very frequently inserting a Word of
+five, or six Syllables, to drag his Sense to the End of a Verse, which
+concludes with the long Word aforesaid? Those Words, even at the End of
+a Verse, are sometimes indeed very agreeable: But are they not often
+otherwise? Especially at the Close of a Paragraph, or Speech; when for
+the most part too they are Epithets: and yet more especially, when those
+Epithets are of little Significancy? I shall give but one Instance,
+tho' it were very easy to produce many; and That shall be the last Line
+of the _Iliad_: Upon which, compared with the last of the _Æneis_, I
+cannot but think that
+
+    _Vitaque cum gemitu fugit indignata sub umbras_,
+
+is a nobler Conclusion of an Heroic Poem, than
+
+    Ὣς οἲ γ' ἀμφίεπον τάφον Ἕκτορος ἱπποδάμοιο.
+
+A thousand things of the same, or of the like Nature, might be
+mentioned: And I am aware that such Observations will by some Criticks
+be called _modern Criticisms_. But be That as it will; I am for Truth
+and Reason, whether it be called Ancient, or Modern.
+
+To display the Excellence of _Virgil_'s Style, Diction, and
+Versification, cannot be the Business of this Preface: Here again I must
+refer to my Notes. I only observe, that nothing can be more sublime, and
+majestick, than some Parts; nothing more sweet, and soft, than others;
+nothing more harmonious, flowing, numerous, and sounding than both his
+Soft, and his Sublime. As to which latter, when he describes the Fury,
+Noise, and Confusion of War, I recollect That of my Lord _Roscommon_;
+
+    _Th'_ Æneian _Muse, when she appears in State,
+    Makes all_ Jove's _Thunder on her Verses wait._
+
+And That of _Virgil_ himself:
+
+    _----Quo non præstantior alter
+    Ære ciere viros, Martemque accendere cantu._
+
+For those Lines may as well be applied to the Trumpet of _Virgil_, as of
+_Misenus_. Not but that in this way of Writing, I mean the Martial, and
+the Furious, _Homer_, setting aside his Redundancy, is at least equal to
+_Virgil_; perhaps superiour. But then he is not comparable to him in the
+other Part, the smooth, the soft, and the sweetly flowing. This in
+_Virgil_ always puts me in mind of some Verses of his own, which I have
+elsewhere cited: Verses, which, in the Sixth Eclogue, the Speakers
+apply to each other; and which, above all Writers, are most applicable
+to Him, who gives Speech to them both.
+
+    _Tale tuum carmen nobis, divine Poeta,
+    Quale sopor fessis in gramine, quale per æstum
+    Dulcis aquæ saliente sitim restinguere rivo.
+    Nam neque me tantum venientis sibilus Austri,
+    Nec percussa juvant fluctu tam littora, nec quæ
+    Saxosas inter decurrunt flumina valles._
+
+But the exquisite Art of _Virgil_'s Versification is seen in his varying
+the Pauses, and Periods, and Cadence of his Numbers; in being rough or
+smooth, soft or vehement, long or short, _&c._ according to the Nature
+of the Ideas he would convey to the Mind: in which, I think, he exceeds
+all Writers, whether Ancient or Modern; and is in particular the best
+Versifier, as well as, upon the whole, the best Poet in the World.
+
+Upon the Subject of _Speeches_, Mr. _Pope_ tells us, "That in _Virgil_
+they often consist of general Reflections, or Thoughts, which might be
+equally just in any Person's Mouth upon the same Occasion. As many of
+his Persons have no apparent Characters; so many of his Speeches escape
+being applied, and judged by the Rule of Propriety. We oftner think of
+the Author himself, when we read _Virgil_, than when we are engaged in
+_Homer_. All which are the Effects of _a colder Invention_, that
+interests us less in the Action described: _Homer_ makes us Hearers, and
+_Virgil_ leaves us Readers." I have the Misfortune to be of a quite
+different Sentiment. If _Virgil_ outshines _Homer_ in any thing, it is
+especially in his _Speeches_. Which are all, so far as it is necessary,
+adapted to the Manners of the Speakers, and diversified by their several
+Characters. Nor do I know of any one Beauty by which _Virgil_ is more
+peculiarly distinguished, than That of his Speeches: Considering the
+Sweetness and Softness of some, the Cunning and Artifice of others; the
+Majesty and Gravity of a third sort; the Fire and Fury of a fourth: In
+which two last Kinds especially we have the united Eloquence of Oratory,
+and Poetry; and read _Tully_ involved in _Virgil_. That the Characters
+of the Heroes are more particularly marked and distinguished in the
+_Greek_, than in the _Latin_, I readily acknowledge. In That the
+_Iliad_ excels the _Æneis_; and, I think, in nothing else. And the
+Controversy between these two great Poets Should, in my Opinion, be thus
+determined: "That _Virgil_ is very much obliged to _Homer_; and
+_Homer_'s Poems, upon the whole, very much exceeded by _Virgil_'s."
+
+But I am sensible, that by arguing for _Virgil_ I have all this while
+been arguing against my self. For the more excellent the Author, the
+more presumptuous the Translator. I have however thus much to plead in
+my Excuse, That this Work was very far _advanced_, before it was
+_undertaken_; having been for many Years the Diversion of my leisure
+Hours at the University, and growing upon me by insensible Degrees; so
+that a great _Part_ of the _Æneis_ was _actually translated_, before I
+had _any Design_ of _attempting the Whole_. But with regard to the
+_Publick Office in Poetry_, with which the University of _Oxford_ was
+afterwards pleased to honour me, (an Honour which I Now enjoy, and which
+I shall Forever gratefully acknowledge) I thought it might not be
+improper for me to review, and finish this Work; which otherwise had
+certainly been as much neglected by Me, as perhaps it will now be by
+Every body else.
+
+It is to That renowned Seat of Learning and Virtue, (the Pride and Glory
+of our Island!)
+
+    _----cujus amor mihi crescit in horas,_
+
+and my Love and Veneration for which I Shall never be able to express:
+It is to That famous University, I say, that I owe a very considerable
+Part of my Encouragement in this Undertaking; tho' at the same time I
+have great and signal Obligations to many _Others_, who were not only
+Subscribers to it themselves, but Promoters of it by their Interest in
+their Friends. With the most grateful Sense of the Favour, and Honour
+done me, I return my _general_ Thanks to _All_ Those of the Nobility,
+and Gentry, and all Others, who appear as my Subscribers: But These my
+_especial Benefactors_ are desired to accept of my more _particular_
+Acknowledgments. Even These (many of whom are Persons of Quality) are so
+numerous, that to mention them would be to transcribe a great Part of my
+List into my Preface: And Since I cannot properly name them _All_, I
+think it the best Manners to name _None_. I wish for Their sakes, as
+well as my Own, that, when they have read this Translation, they may
+not repent of the _generous Encouragement_ they have given it.
+
+One Thing of which, I hope, I may say; and That is, that _it is a
+Translation_. And if it be; I believe I may add, that it is almost the
+only one in Verse, and of a considerable Length. And this I am very far
+from speaking, upon the Account of any great Opinion which I have
+conceived of my own Performance. For besides that a Translation may be
+very _close_, and yet very _bad_. Others could have done the same thing
+much better, if they would: But they thought it either impracticable, or
+improper. They have been so averse from the Folly of rendering Word for
+Word, that they have ran into the other Extreme; and their Translations
+are commonly so very licentious, that they can scarce be called so much
+as Paraphrases. Whereas, were it practicable to translate _verbatim_ in
+the strictest Sense; and yet preserve the Elegance, and Sublimity, and
+Spirit of the Author, as much as if one allowed one's self a greater
+Latitude: That Method ought to be chosen before the other. And in
+proportion, the nearer one approaches to the Original, the better it is;
+provided the Version be in other Respects no way prejudiced, but rather
+improved by it: A Thing, in my Apprehension, by no Means inconceivable.
+A Translator should _draw the Picture_ of his Author: And in Painting,
+we know, _Likeness_ is the _first_ Beauty; so that if it has not _That_,
+all the rest are insignificant. Draw _Virgil_ as _like_ as you can; To
+think of _improving_ him is _arrogant_; and to flatter him, is
+_impossible_. I have not added, or omitted very many Words: Many indeed
+are varied; the Sense of the Substantive in the Latin, being often
+transferred to the Adjective in the English; and so on the Reverse: with
+a great Number of such like Instances, which it is needless to mention.
+Yet many Lines are translated Word for Word: But, upon the Whole, to
+give a tolerable, and yet a perfectly litteral Version, I take to be in
+the Nature of Things absolutely impossible.
+
+I am sensible too, as I said before, that it may be a true Translation,
+a close Translation; and yet, after all, a very bad Translation. Whether
+This be so, or not, is with all imaginable Deference submitted to the
+Judgment of the World. To render the bare Sense, and Words of a Poet, is
+only to paint his Features, and Lineaments; but to render his _Poetry_,
+that is, the _peculiar Turn_ of his Thoughts, and Diction, is to paint
+his _Air_ and _Manner_. And as the Air of a Face arises from a Man's
+_Soul_, as well as from his Body; it is just the same here: Or rather,
+This peculiar Turn of the Poet's Sentiments and Expressions _is it self_
+the Soul of his Poetry: If we are asked what That is; the Answer must
+be, if we may properly compare a _Mode_ to a _Substance_, that the Soul
+of Poetry, like the Soul of Man, is perceivable only by its Effects;
+like That, immaterial, and invisible; and like That too, immortal.
+
+But then all this being taken care of, certainly the nearer to the
+Original, the better: Nay indeed it is impossible to hit the Air right;
+unless you hit the Features, from which the Air, so far as it relates to
+the Body, rises, and results. Should my Translation be approved of for
+the Spirit of Poetry; I should not be sorry, nay I should be glad, if at
+the same time it served for a Construing-Book to a School-Boy. But still
+whenever it happens (as it very often does, and must) that a close
+Version, and a graceful Expression are inconsistent; the latter is
+always to be preferred. A _less litteral Translation_ is very frequently
+beautiful; but nothing can justify _an ill Verse_. In This Case, one
+departs from the Original by adhering to it; and such an Author as
+_Virgil_ might justly say of his bad Translator, what _Martial_ says of
+his bad Neighbour;
+
+    _Nemo tam prope, tam proculque nobis._
+
+For the Version would retain more not only of the _Beauty_, but of the
+_real Sense_ of the Original; and so _upon the whole_, be more _like_
+it: If it were a less faithful Interpretation of Words and Expressions.
+
+Here therefore we can no longer pursue the Comparison between Painting
+and Translating: When true Beauty is to be imitated, the Features cannot
+be too exactly traced in the One, to make a handsom Likeness; but Words
+may be too exactly rendered in the Other. Upon this Head I cannot avoid
+transcribing a Passage from the ingenious, and (in all Instances, but
+one) judicious Dr. _Felton_'s Dissertation upon _Reading the Classicks
+addressed to the Lord Marquis of_ Granby. "When therefore ([18]says He)
+you meet with any Expressions which will not be rendered without this
+Disadvantage, the Thing to be regarded is the Beauty and Elegance of the
+Original; and your Lordship, without minding any thing but the Sense of
+the Author, is to consider how that Passage would be best expressed in
+_English_, if you were not tied up to the Words of the Original: And you
+may depend upon it, that if you can find a Way of expressing the same
+Sense as beautifully in _English_; you have hit the true Translation,
+tho' you cannot construe the Words backwards, and forwards into one
+another: For then you certainly have translated, as the Author, were he
+an _Englishman_, would have wrote." And since I have cited thus much
+from That Treatise; I will borrow a little more from it upon the Nature,
+and Difficulty of Translations in general: Because it entirely expresses
+my Sentiments, in far better Words than I am able to make use of.
+"[19]'Tis no exceeding Labour for every great Genius to exert, and
+manage, and master his own Spirit: But 'tis almost an insuperable Task
+to compass, to equal, to command the Spirit of another Man. Yet this is
+what every Translator taketh upon himself to do; and must do, if he
+deserves the Name. He must put himself into the Place of his Authors,
+not only be Master of their Manner as to their Style, their Periods,
+Turn, and Cadence of their Writings; but he must bring himself to their
+Habit, and Way of Thinking, and have, if possible, the same Train of
+Notions in his Head, which gave Birth to Those they have selected, and
+placed in their Works." For the Rest, I refer my Reader to the
+Dissertation it self; of which I would say that it is a most curious and
+delicate Piece of Wit, and Criticism, and polite Learning; did I not
+fear that (for a Reason which I will not mention) it would look like
+Vanity in Me to do common Justice to it's Author. At the same time I
+must acknowledge that the Doctor represents a Translation of _Virgil_
+after Mr. _Dryden_'s as a desperate Undertaking: Which would be no small
+Mortification to me; were not mine of a different Nature from His: Of
+which more in it's proper Place.
+
+Endeavouring to resemble _Virgil_ as much as possible, I have imitated
+him in his _Breaks_. For tho' I am satisfied he never intended to leave
+those Verses unfinished, and therefore he is in that Particular absurdly
+mimicked by some Moderns in their Original Writings; yet _unfinished
+they are_: And this Imitation is not (with Mr. _Dryden_'s Leave) "like
+the Affectation of _Alexander_'s Courtiers, who held their Necks awry,
+because He could not help it." For besides that a _wry Neck_ is one
+thing, and a _Scar_ is another; _Apelles_ in a _Picture_ ought to have
+imitated his Master's Imperfection, if he intended to draw an exact
+Likeness, tho' his _Courtiers_ were ridiculous Flatterers for doing the
+Same in their _Gestures_.
+
+A Work of This Nature is to be regarded in Two different Views; both as
+a _Poem_, and as a _Translated Poem_. In the one, all Persons of good
+Sense, and a true Taste of Poetry, are Judges of it; tho' they are
+skilled in no Language, but their Own. In the other, Those only are so;
+who besides the Qualification just mentioned, are familiarly acquainted
+with the Original. And it may well admit of a Question, to which of
+these Species of Readers a good Translation is the more agreeable
+Entertainment. The Unlearned are affected like Those, who see the
+Picture of One whose Character they admire; but whose Person they never
+saw: The Learned, like Those who see the Picture of one whom they love,
+and admire; and with whom they are intimately acquainted. The Reason of
+the first Pleasure is clear; but That of the last requires a little more
+Consideration. It may all, be resolved into the Love of Imitation,
+Comparison, and Variety; which arises from the Imperfection of human
+Happiness; for a Reason which I have elsewhere[20] assigned. Delightful
+therefore it is to compare the Version with the Original: Through the
+whole Course of which Comparison, we discover many retired Beauties in
+the Author himself, which we never before observed. Delightful it must
+be to have the same Ideas started in our Minds, different ways; and the
+more agreeable those Ideas are in themselves, the more agreeable is this
+Variety. Therefore, the better we understand a Poet, the more we love
+and admire him; the more Pleasure we conceive in reading him well
+translated: As we most delight to see the Pictures of Those whom we best
+love; and to see the Persons themselves in Variety of Dresses. Upon
+which Account, I will be bold to affirm; that he who says he values no
+Translation of this, or that Poem, because he understands the Original,
+has indeed no true Relish, that is, in effect, no _true Understanding_
+of _Either_.
+
+It is indeed no less certain on the Reverse, that a Man is as much
+provoked to see an ill Picture of his Friend, or Mistress, as he is
+pleased to see a good one; and it is just the same in Translations. But
+it is evident that the _bare Understanding_ of a Poet (as that Word is
+commonly used) is not the _only_ Argument of one's _truly_ understanding
+him: that is, understanding him as a _Poet_. Because what I have just
+now said, concerning the Agreeableness of a good Translation, holds as
+true, when it is from our own Language to another, as when it is from
+another to our own. It may be presumed that _Milton_'s _Paradise Lost_,
+being in _English_, is well _understood_ (vulgarly speaking) by
+_Englishmen_. But notwithstanding That, were it possible (as I think it
+is not) to have all That amazing Poem as well translated into _Latin_,
+or _Greek_, as some Parts of it certainly may be; with what Pleasure
+should we read it! And he who would not read such a Translation with
+Pleasure, will, I believe, be allowed by all who have a right Taste of
+Poetry not _truly_ to understand the Original. Besides what I have said
+concerning the Delight arising from Imitation, Comparison, and Variety,
+which respects the Relation between the Version, and the Original; the
+Translator's Work, even to Those who understand the Original, is in a
+great measure a _New Poem_: The Thought, and Contrivance are his
+Author's; but his Language, and the Turn of his Versification, and
+Expressions, are his own. What I have offered upon this Subject relates
+to Translations in general: Of my own in particular I have nothing to
+say, but what I have said before; which is to submit it to the Judgment
+of Others.
+
+In Pursuance of my Design of endeavouring to be as like _Virgil_ as
+possible; I have chosen Blank Verse, rather than Rhime. For besides that
+the Fetters of Rhime often cramp the Expression, and spoil the Verse,
+and so you can both translate more closely, and also more fully express
+the Spirit of your Author, without it, than with it; I say besides This,
+supposing other Circumstances were equal, Blank Verse is _in it self
+better_. It is not only more Majestick, and Sublime, but more Musical,
+and Harmonious: It has more _Rhime_ in it, according to the ancient, and
+true Sense of the Word, than Rhime it self, as it is now used. For in
+it's original Signification, it consists not in the Tinkling of Vowels,
+and Consonants; but in the metrical Disposition of Words, and Syllables,
+and the proper Cadence of Numbers; which is more agreeable to the Ear,
+without the Jingling of like Endings, than with it. The Reader may say,
+To whose Ear is it so? To Yours perhaps; but not to Mine. And I grant
+all This to be matter of Fact, rather than of Reason; and to be
+determined by Votes, rather than Arguments. And accordingly a great
+Majority of the best Genius's, and Judges in Poetry now living, with
+many of whom I have frequently conversed upon this Subject, have
+determined in favour of this way of Writing. And among Those who are
+dead, the same was the Opinion not only of my Lord _Roscommon_ (to omit
+others,) but of [21]Mr. _Dryden_ Himself; who was the best Rhimer, as
+well as the best Poet, of the Age in which he lived. And indeed let but
+a Man consult his own Ears.
+
+    _----Him the Almighty Pow'r
+    Hurl'd headlong, flaming from th' ethereal Sky,
+    With hideous Ruin, and Combustion, down
+    To bottomless Perdition; there to dwell
+    In Adamantine Chains, and penal Fire;
+    Who durst defy th' Omnipotent to Arms.
+    Nine times the Space that measures Day, and Night
+    To mortal Men, he with his horrid Crew
+    Lay vanquish'd, rowling in the fiery Gulph,
+    Confounded, tho' immmortal----_
+
+Who that hears This, can think it wants Rhime to recommend it? Or rather
+does not think it sounds far better without it? I purposely produced a
+Citation, beginning and ending in the Middle of a Verse; because the
+Privilege of resting on this, or that Foot, sometimes one, and sometimes
+another, and so diversifying the Pauses, and Cadences, is the greatest
+Beauty of Blank Verse, and perfectly agreeable to the Practice of our
+Masters, the _Greeks_, and _Romans_. This can be done but rarely in
+Rhime: For if it were frequent, the Rhime would be, in a manner, lost by
+it: The End of almost every Verse must be something of a Pause; and it
+is but seldom that a Sentence begins in the Middle. The same may be said
+of placing the Verb after the Accusative Case; and the Adjective after
+the Substantive; both which, especially the last, are more frequent in
+Blank Verse, than in Rhime. This Turn of Expression likewise is
+agreeable to the Practice of the Ancients; and even in our own Language
+adds much to the Grandeur, and Majesty of the Poem, if it be wrought
+with Care, and Judgment. As does also the judicious interspersing (for
+_judicious_, and _sparing_ it must be) of _antique_ Words, and of such
+as, being derived from _Latin_, retain the Air of That Language: Both
+which have a better Effect in Blank Verse, than in Rhime; by Reason of a
+certain Majestick Stiffness, which becomes the one, more than the other.
+_Milton_ indeed has, I think, rather too much of This: And perhaps the
+most ingenious Mr. _Philips_ has too much imitated him in it; as he has
+certainly well nigh equalled him in his most singular Beauties. I speak
+of this Stiffness only in some particular Passages, for which it is
+proper: For Blank Verse, when it pleases, can be as smooth, as soft, and
+as flowing, as Rhime. Now these Advantages alone (were there no other)
+which Blank Verse has above Rhime, would more than compensate for the
+Loss of that Pleasure which comes from the Chiming of Syllables; the
+former, by reason of those Advantages, being, all things considered,
+even more musical, and harmonious, as well as more noble, and sublime,
+than the latter.
+
+Upon Varying the Pauses it is to be observed, that Two Verses together
+should rarely pause at the same Foot; for a Reason too plain to be
+mentioned. I said _rarely_; because there is no Law so strict in Things
+of This Nature, but that it is sometimes a Vertue to break it. And tho'
+it be one great Privilege in this sort of Verse, to make a full Period
+at the Beginning, or in the Middle of a Line; yet you may do it too
+often. _Milton_, I think, does so; who sometimes gives you thirty, or
+forty Verses together, not one of which concludes with a full Period.
+But to return to our Comparison.
+
+Tho' all This be rather Matter of Sense, than of Reason; yet I appealed
+to the best Genius's, and Judges in Poetry; because it is a great
+Mistake to think that all Ears are equally Judges. It may as well, nay
+better, be affirmed that all Persons have equally Ears for Musick. This
+Sentiment is not _purely_ Organical, and depends not _solely_ upon the
+Mechanism of Sense. The Judgment has _a Share_ in it: Or if it has not;
+there is (which amounts to much the same) so close an Union between the
+Soul and Body of Man, as also between the Spirit and the Diction, which
+may be called the Soul and Body of Poetry; that the Poetical Turn of any
+Person's Mind affects the very Organs of Sense. Readers of vulgar and
+mean Tastes may relish Rhime best; and so may Some even of the best
+Taste; because they have been habituated to it. But the more they
+accustom themselves to Blank Verse; the better they will like it:
+
+    _----Si propius stes,
+    Te capiet magis----_
+
+After all, I cannot agree with Those, who _entirely condemn_ the Use of
+Rhime even in an Heroic Poem; nor can I absolutely reject That in
+Speculation, which Mr. _Dryden_, and Mr. _Pope_ have ennobled by their
+Practice. I acknowledge too that, in some particular Views, tho' not
+upon the Whole, This Way of Writing has the Advantage over the other.
+You may pick out more Lines, which, singly considered, look mean, and
+low, from a Poem in Blank Verse, than from one in Rhime: supposing them
+to be in other respects equal. Take the Lines singly by themselves, or
+in Couplets; and more in Blank Verse shall be less strong, and smooth,
+than in Rhime: But then take a considerable Number together; and Blank
+Verse shall have the Advantage in both Regards. Little, and ignoble
+Words, as _Thus_, _Now_, _Then_, _Him_, &c. on the one Hand; and long
+ones, as _Elements_, _Omnipotent_, _Majesty_, &c. on the other, would in
+a Poem consisting of Rhime sound weak, and languishing, at the End of a
+Verse: because the Rhime draws out the Sound of those Words, and makes
+them observed, and taken notice of by the Ear: Whereas in Blank Verse
+they are covered, and concealed by running immediately into the next
+Line. And yet a considerable Number of Lines are not, in the Main,
+Prosaick, or Flat; but more Noble, than if they were all in Rhime. For
+Instance, the following Verses out of _Milton_'s _Paradise Lost_, Book
+II.
+
+    _Of Heav'n were falling, and these Elements----_
+
+    _Instinct with Fire, and Nitre hurry'd him----_
+
+taken singly, look low, and mean; but pray read them in Conjunction with
+others; and then see what a different Face will be set upon them.
+
+    _----Or less than if this Frame
+    Of Heav'n were falling, and these Elements
+    In Mutinie had from her Axle torn
+    The stedfast Earth. At last his sail-broad Vans
+    He spreads for flight; and in the surging Smoke,_ &c.
+
+    _----Had not by ill chance
+    The strong Rebuff of some tumultuous Cloud
+    Instinct with Fire, and Nitre, hurry'd him
+    As many miles aloft. That fury stay'd;
+    Quench'd in a boggy Syrtis, neither Sea,
+    Nor good dry Land: Nigh founder'd on he fares,
+    Treading the crude Consistence----_
+
+Thus again in the VIth Book.
+
+    _Had to her Center shook. What wonder? when----_
+
+    _Had not th' Eternal King Omnipotent----_
+
+    _And limited their Might; tho' number'd such----_
+
+These Verses disjointed from their Fellows make but an indifferent
+Figure: But read the following Passage and I believe you will
+acknowledge there is not one bad Verse in it:
+
+    _So under fiery Cope together rush'd
+    Both Battles maine, with ruinous Assault,
+    And inextinguishable Rage: All Heav'n
+    Resounded; and had Earth been then, all Earth
+    Had to her Center shook. What wonder? when
+    Millions of fierce encountring Angels fought
+    On either side; the least of whom could wield
+    These Elements, and arm him with the force
+    Of all their Regions. How much more of pow'r,
+    Army 'gainst Army, numberless, to raise
+    Dreadful Combustion, warring, and disturb,
+    Tho' not destroy, their happy native Seat:
+    Had not th' Eternal King Omnipotent
+    From his strong Hold of Heav'n high over-rul'd
+    And limited their Might; tho' number'd such
+    As each divided Legion might have seem'd
+    A num'rous Host in strength, each armed hand
+    A Legion----_
+
+In Short, a Poem consisting of Rhime is like a Building in which the
+Stones are all (or far the greatest part of them) _hewn with equal
+Exactness_; but are all of a Shape, and not so well jointed: _Every one_
+of them, _by it self_, is better squared, than _some_ in another
+Building, in which they are of different Figures. But tho' in this
+latter there shall be a few, which, taken separately, do not look so
+well: yet some _running into others_, and all being _better adjusted_
+together; it shall not only _upon the Whole_, but with regard to any
+_considerable Part_, by it self, be a stronger, and a more beautiful
+Fabrick, than the former.
+
+But we are told that Blank Verse is not enough distinguished from Prose.
+The Answer must be, It is according as it is. That of our _English_
+Tragedies, I confess, is not; tho' very proper for the Purpose to which
+it is apply'd. This indeed is what the _French_ rightly call _Prose
+mesurée_, rather than Verse. But much worse is to be said of _any_ Poem,
+which is only written in the Shape of Metre, but has no more of Verse in
+it, than of Rhime; no Harmony, or Prosody, no true Metrical Cadence;
+half the Lines concluding with double Syllables, as _Torment_,
+_Greatness_, and the Participles ending in _ing_. This deserves not so
+much as the Name of _Prose on Horseback_; 'Tis Prose upon Crutches; and
+of all Prose the vilest. But if Blank Verse be laboured, as it ought to
+be; it is sufficiently distinguished from Prose. We have no Feet, nor
+Quantities, like the Ancients; and nothing in our poor Language will
+ever supply That Defect: Rhime is at least as far from doing it, as the
+more Advantageous Variety of Cadences in Blank Verse: Which requires so
+much the more Care, and Art, to work it up into Numbers, and Support it
+from groveling into Prose.
+
+Which naturally leads us to observe further, that many Imperfections,
+both in Thought, and Expression, will be overlooked in Rhime, which will
+not be endured in Blank Verse: So that the same may be said of This,
+which _Horace_ applies to Comedy;
+
+    _Creditur----habere
+    Sudoris minimum; sed habet----tanto
+    Plus oneris, quanto veniæ minus----_
+
+I do not say, Rhime is, all things considered, more easy than the other:
+That Point cannot be well determined; because it relates to the
+particular Genius's of particular Persons. For my own part, if I never
+made one good Verse, I have made many good Rhimes: But supposing Both to
+be equally easy, I should chuse Blank Verse, for the Reasons already
+alledged.
+
+After all which, if some Gentlemen are resolved that _Blank Verse shall_
+be _Prose_; they have my free Leave to _enjoy their Saying_: provided I
+may have Theirs to think they mean nothing by it; unless they can prove
+that Rhime is essential to Metre; consequently that the _Goths_, and
+_Monks_ were the first Inventers of Verse; and that _Homer_, and
+_Virgil_, as well as _Milton_, wrote nothing but Prose.
+
+_Milton_ indeed has _too many_ of those looser and weaker Verses; as he
+has some Lines which are no Verses at all. These for Instance,
+
+    _Burnt after them to the bottomless Pit:_
+
+    _In the Visions of God; It was a Hill:_
+
+are Lines consisting of ten Syllables; but they are no more _English_
+Verses, than they are _Greek_ ones. Many _irregular_ and _redundant_
+Verses, and more of an ill Sound and Cadence, are to be met with in his
+Poem; sometimes a considerable Number of them together. Whether This was
+_Negligence_ in him, or _Choice_, I know not. Certain it is from the
+main Tenour of his Verification, than which nothing can be more
+heroically sonorous, that it was not Want of Ear, Genius, or Judgment.
+What is the true Cadence of an _English_ Verse, is sufficiently known to
+the Ears of every one who has a Taste of Poetry. Sometimes it is not
+only allowable, but beautiful, to run into harsh, and unequal Numbers.
+Mr. _Dryden_ himself does it; and we may be sure he knew when he did it,
+as well as we could tell him. In a Work intended for Pleasure, _Variety_
+justifies the Breach of almost any Rule, provided it be done but
+_rarely_. Among the Ancient Poets, what are many of those _Figures_ (as
+we call them) both in Prosody, and Syntax, but so many Ways of making
+_false Quantity_, and _false Grammar_, for the sake of _Variety_? False,
+I mean, ordinarily speaking; for Variety, and That only, makes it
+elegant. _Milton_ however has too much irregular Metre: But if his
+overruling Genius, and Merit might in Him _authorize_ it, or at least
+_excuse_ it; yet _nobis non licet esse tam audacibus_: especially when
+I am translating _Virgil_, the most exact, and accurate Versificator in
+the World: A Character, however, which he would not deserve (for the
+Reason just mentioned) were he not in _some_ Verses irregular, and
+unaccurate. I am sure I have truly imitated him in _That_; I wish I may
+have done so in _any thing else_.
+
+Two Things remain to be taken notice of, equally relating to Rhime, and
+Blank Verse. It is a known Fault in our Language, that it is too much
+crouded with _Monosyllables_: Yet some Verses consisting wholly of them
+sound well enough: However, the fewer we have of them, the better it is.
+I believe there are as few of them in this Translation as in any
+_English_ Poem of an equal Length; which is all I shall say upon This
+Article.
+
+The Other is the _Elision of Vowels_: Upon which, in my Opinion, the
+Criticks have ran into Extremes on both Sides. Mr. _Dryden_ declares for
+it as a general Rule which he has observed without Exception, in his
+Translation of the _Æneis_;[22] and is utterly against _a Vowel gaping
+after another for want of a Cesura_, as he expresses himself. Another
+great Master and Refiner of our Language[23] is for very little, or no
+Abbreviation; if I do not mistake his Meaning. It is true, in the
+Letter, to which I refer, he instances only in cutting off the Vowel E
+at the End of our Participles ending in _ed_; but I presume his Argument
+is equally designed against the Elision of a Vowel before a Vowel in two
+different Words: And, if I do not forget, he has declared himself of
+That Opinion, when I have had the Honour and Pleasure of his most
+agreeable and instructive Conversation. But with humble Submission to
+both these great Men, the Elision seems sometimes proper, and sometimes
+not, in the Particle _The_; for upon That, and the Particle _To_, the
+Question chiefly turns; _He_, and _She_ being but very rarely
+abbreviated by any tolerable Writer: And therefore Mr. _Dryden_
+expresses himself too much at large, when he speaks of Vowels in
+general. And when this Elision is proper, and when not, the Ear is a
+sufficient Judge. The _French_, we know, continually use it in their
+_Le_, and that in Prose, and common Discourse, as well as in Verse:
+_L'Amour_, _L'Eternel_, _L'Invincible_, &c. As also in their Pronouns,
+_me_, _te_, and _se_. In our _English_ Poetry, I think it may be either,
+_Th' Eternal_, _Th' Almighty_; or _The Eternal_, _The Almighty_; but
+rather the former: It should be always, _The Army_, _The Enemy_; never
+_Th' Army_, or _Th' Enemy_. And so in other Instances: Of which the Ear
+(which by the way will never endure the Sound of _Th' Ear_) is always to
+be Judge. But of these Things too much.
+
+The Kind of Verse therefore, which I have chosen, distinguishes this
+Translation from Those of Others, who have gone before me in this bold
+Undertaking: For I had never heard of Dr. _Brady_'s Design, 'till long
+after This was in a great Forwardness. And His being not yet executed;
+He is not to be reckoned among my Predecessors: of whom I presume it is
+expected that I should now give some Account. When I say my Translation
+is thus distinguished from Those of Others, I speak of our own
+Countrymen; because _Hannibal Caro_'s _Italian Æneis_ is in Blank Verse,
+such as it is: For [24]Mr. _Dryden_'s Character of it is a very true one;
+and I need not add any thing to it. Few Persons were ever more
+familiarly acquainted with the _Æneis_, had a truer Gust, and Relish of
+it's Beauties, or enter'd more deeply into the Sentiments, into the very
+Soul, and Spirit of it's Author, than Monsieur _Segrais_. His Preface is
+altogether admirable; and his Translation perhaps almost as good as the
+_French_ Language will allow; which is just as fit for an Epic Poem, as
+an ambling Nag is for a War-Horse. It is indeed my Opinion of the
+_French_; that none write better _of_ Poetry, and few (as to _Metre_)
+worse _in_ it. Their Language is excellent for Prose; but quite
+otherwise for Verse, especially Heroic. And therefore tho' the
+Translating of Poems into Prose is a strange, modern Invention; yet the
+_French_ Transposers are in the right; because their Language will not
+bear Verse. The Translation of the _Æneis_ into _Scotish_ Metre by
+_Gawin Douglas_ Bishop of _Donkeld_, is said to be a very extraordinary
+Work by Those who understand it better than I do: There being added to
+it a long List of great Men, who give him a wonderful Character, both as
+an excellent Poet, and a most pious Prelate. What Mr. _Pope_ says of
+_Ogilby's Homer_, may as well be apply'd to his _Virgil_, that his
+Poetry is too mean for Criticism. Mr. _Dryden_ tells us, that no Man
+understood _Virgil_ better than the Earl of _Lauderdale_; and I believe
+few did. His Translation is pretty near to the Original; tho' not so
+close, as it's Brevity would make one imagine; and it sufficiently
+appears that he had a right Taste of Poetry in general, and of
+_Virgil_'s in particular. He shews a true Spirit; and in many Places is
+very beautiful. But we should certainly have seen _Virgil_ far better
+translated by a Noble Hand; had the Earl of _Lauderdale_ been the Earl
+of _Roscommon_; or had the _Scotish_ Peer followed all the Precepts, and
+been animated with the Genius of the _Irish_.
+
+But the most difficult, and invidious Part of my prefacing Task is yet
+to come. How could I have the Confidence to attempt a Translation of
+_Virgil_, after Mr. _Dryden_? At least to publish it; after Mr. _Pope_
+has in effect given us his Opinion before-hand, that such a Work must be
+unsuccessful to any Undertaker (much more to so mean a one, as I am) by
+declaring that _He_ would never undertake it _Himself_? I do not say he
+makes That Inference; but if his _Modesty_ would not suffer him to do
+it, his _Merit_ must oblige others to do it for him. I so far agree with
+That most ingenious Gentleman, that Mr. _Dryden_'s is, in many Parts, a
+noble, and spirited Translation; and yet I cannot, upon the Whole, think
+it a good one; at least, for Mr. _Dryden_. Not but that I think his
+Performance is prodigious, and exceedingly for his Honour, considering
+the little time he allowed himself for so mighty a Work; having
+translated not the _Æneis_ only, but all _Virgil_'s Poems in the Compass
+of three Years. Nobody can have a truer Respect for That great Man, than
+I have; or be more ready to defend him against his unreasonable
+Accusers; who (as Mr. _Pope_ justly observes) envy, and calumniate him.
+But I hope I shall not be thought guilty of either (I am sure they are
+the Things of the World which I abhor) if I presume to say that his
+Writings have their dark, as well as their bright Side; and that what
+was said of somebody else may be as well applied to Him: _Ubi bene, nemo
+melius; Ubi male, nemo pejus_.
+
+This may be affirmed of his Works in general; but I am now obliged to
+consider his Translation of the _Æneis_ in particular. As he was the
+great Refiner of our _English_ Poetry, and the best Marshaller of Words
+that our Nation had then, at least, produced; and all, who have followed
+him, are extremely indebted to him, as such: his Versification here, as
+every where else, is generally flowing, and harmonious; and a multitude
+of Beauties of all kinds are scattered through the Whole. But then,
+besides his often grosly mistaking his Author's Sense; as a Translator,
+he is extremely licentious. Whatever he alledges to the contrary in his
+Preface; he makes no Scruple of adding, or retrenching, as his Turn is
+best served by either. In many Places, where he shines most as a Poet,
+he is least a Translator; And where you most admire Mr. _Dryden_, you
+see least of _Virgil_. Then whereas my Lord _Roscommon_ lays down this
+just Rule to be observed by a Translator with regard to his Author,
+
+    _Fall, as he falls; and as he rises, rise:_
+
+Nothing being more absurd than for those two Counter-parts to be like a
+Pair of Scales, one mounting as the other sinks; Mr. _Dryden_ frequently
+acts contrary to this Precept, at least to the latter Part of it: Where
+his _Author_ soars, and towers in the Air, _He_ often grovels, and
+flutters upon the Ground. Instances of all these Kinds are numerous. If
+I produce a few, it is not to detract from his Translation, in order to
+recommend my own: I detest That base Principle of little, and envious
+Spirits: And besides, I am sensible that it would be as foolish, as
+ungenerous: For of Mine, the World _will_, and _ought to be_ judge,
+whatever I say, or think; and it's Judgment in these Matters is never
+erroneous. It is not therefore that I am acted by the Spirit of
+_malevolent_ Criticism, or Criticism _commonly so called_; which is
+nothing but the Art of finding Fault: But I do it, partly to _justify_
+my _Undertaking_ (tho' of a different Kind from His, which is what I
+_chiefly_ insist upon) not to _recommend_ my _Performance_; partly for
+the Instruction, and Improvement of my self, and others; for the sake of
+Truth, and _true Criticism_; that is, right, and impartial Judgment,
+joined with good Nature, and good Manners; prone to _excuse_, but not to
+_falsify_; and _delighting_ to dwell upon _Beauties_, tho' _daring_ to
+remark upon _Faults_.
+
+Were we to make a few scattered Strictures upon the First Book only; we
+should observe that he leaves out a very material Word in the very
+_first_ Line: And That too happens to be the Word _First_: As if That
+stood for Nothing, in _Virgil_'s Verse; and as if _First_ would not have
+stood as well as _Forc'd_ in his own. Especially, since there are two
+Adjectives more of the same Signification [_Expell'd_, and _Exil'd_ in
+the next Verse but one] agreeing with the same Substantive, all three to
+express the single Epithet _Profugus_: Which, by the way, is Tautology,
+and utterly unlike _Virgil_'s Manner; who never says any thing in vain,
+and whose chief Beauty is Brevity. In the very next two Lines,
+_Italiam_, _Lavinaque Littora_ are left out; tho' necessary to the
+Design of the Poem: Not to mention his strange Transposing of _sævæ
+memorem Junonis ob iram_. V. 28. _Long cited by the People of the Sky_,
+is entirely added. As is, V. 41. _Electra's Glories, and her injur'd
+Bed_; and the two following Lines. The Addition of three Verses together
+is too much in all Reason. V. 66. _Then as an Eagle grasps the trembling
+Game_, is wholly his own. And so is V. 107, 108. _The charming Daughters
+of the Main Around my Person wait, and bear my Train._ V. 144,
+145.----_Whose dismember'd Hands yet bear The Dart aloft, and clench the
+pointed Spear_. As there is no Hint of This in _Virgil_; so I doubt it
+is not Sense in it self. For how the Hand of a Body, which has been dead
+seven Years, can hold a Spear aloft, I cannot imagine. V. 220. _And
+quenches their innate Desire of Blood_. This is not only added; but too
+gross, and horrid for _Virgil_'s Meaning in that Place. V. 233. After,
+_Two Rows of Rocks_ (which, by the way, is no Translation of _geminique
+minantur in coelum scopuli_) the next Words are totally omitted;
+_Quorum sub vertice late Æquora tuta silent_. V. 459. _Then on your Name
+shall wretched Mortals call_, is not included in _Multa tibi ante aras
+nostra cadet hostia dextra_. He is speaking of _himself_, and his
+_Friends_ in particular; not of _wretched Mortals_ in general; of
+_Thanksgiving_, not of _Prayer_. V. 886.----_You shall find, If not a
+costly Welcome, yet a kind_, is no more in _Virgil_, than it is like his
+Stile. But as for the _Flatnesses_, and low _prosaick_ Expressions,
+which are not a few, and which even the Rhime neither covers, nor
+excuses; I will for several Reasons forbear to transcribe any of them.
+These _Errata_ which I have mentioned in the First Book only, (and there
+are in it many more such, which I have not mentioned) are either in
+_adding to_, or _curtailing_, or _mistaking_ the Sense of the Original.
+
+But upon the Article of adding to his Author, and altering his Sense,
+there is one Fault in Mr. _Dryden_ which is not to be pardoned. I mean
+when he does it directly contrary not only to the _Sense_, but to the
+_Temper_ and _Genius_ of his Author; and that too in those Instances
+which injure him not only as a _good Poet_, but as a _good Man_. As
+_Virgil_ is the most chaste, and modest of Poets, and has ever the
+strictest Regard to Decency; after the Prayer of _Iarbas_ to _Jupiter_
+in the Fourth Book, he proceeds thus:
+
+    _Talibus orantem dictis, arasque tenentem
+    Audiit omnipotens; oculosque ad mœnia torsit
+    Regia, &_ oblitos famæ melioris amantes.
+
+What could be more well-mannered, more delicate, and truly _Virgilian_,
+than the Sweetness, and Softness of that remote, insinuating Expression,
+_oblitos famæ melioris amantes_? For this Piece of a Verse Mr. _Dryden_
+gives us Three entire ones; which I will not transcribe. The two first
+are totally his own; and to One who is not himself _insensible of
+Shame_, those fulsom Expressions must be very nauseous. Part of the last
+Verse indeed is _Virgil_'s; and it comes in strangely, after the odious
+Stuff that goes before it. If _Virgil_ can be said to be remarkable for
+any one good Quality more than for Modesty, it is for his awful
+Reverence to Religion. And yet, as Mr. _Dryden_ represents him
+describing _Apollo_'s Presence at one of his own Festivals, he speaks
+Thus; Book iv. V. 210.
+
+    _Himself, on Cynthus walking, sees below
+    The merry Madness of the sacred Show._
+
+_Virgil_ says, He walks on the Top of _Cynthus_; That's all: The rest is
+Mr. _Dryden_'s. And it is exactly of a Piece with a Passage in the Third
+Georgick; in which, without any sort of Provocation, or the least Hint
+from his Author, He calls the _Priest_ the _Holy Butcher_. If Mr.
+_Dryden_ took Delight in abusing Priests, and Religion; _Virgil_ did
+not. It is indeed wonderful that a Man of so fine, and elevated a
+Genius, and at the same time of so good a Judgment, as Mr. _Dryden_
+certainly was, could so much as endure those clumsey Ideas, in which he
+perpetually rejoices; and that to such a degree, as to thrust them into
+_Translations_, contrary not only to the Design, and Meaning, but even
+to the Spirit, and Temper, and most distinguishing Character of his
+Author. Thus in his Translation of the last Lines of _Homer_'s First
+Iliad he describes the Gods, and Goddesses as being drunk; and that in
+no fewer than three Verses, and in some of the coarsest Expressions
+that our Language will admit of: Whereas the Original gives not the
+least Intimation of any such thing; but only says that they were
+_sleepy_, and went _to bed_. And therefore here again I cannot be of Mr.
+_Pope_'s Opinion, _that it is a great Loss to the Poetical World that
+Mr._ Dryden _did not live to translate the Iliad_. If we may judge of
+what the Whole would have been by the Specimen which he has left us; I
+think it was a Gain to the Poetical World that Mr. _Dryden_'s Version
+did not hinder us from Mr. _Pope_'s. Which may be said, without any
+great Compliment to the latter.
+
+As to the Instances of Mr. _Dryden_'s sinking, where his Author most
+remarkably rises, and being flat where his Author is most remarkably
+elegant; they are many: But I am almost tired with Quotations; quite
+tired with such invidious ones, as these are; it being (as I said) much
+more agreeable to my Temper to remark upon Beauties, than upon Faults,
+and Imperfections; especially in the Works of great Men, who (tho' they
+may have written many things not capable of being defended, yet) have
+written many more, which I can only admire, but do not pretend to equal.
+And That is the present Case. I shall therefore mention but one Example
+of this Kind; And it is the unutterable Elegancy of these Lines in the
+Fourth Book, describing the Scrietch-Owl:
+
+    _Solaque culminibus, ferali carmine bubo
+    Sæpe queri_, & longas in fletum ducere voces.
+
+How is This translated in the following Verses? Or rather is it
+translated at all?
+
+                        _----With a boding Note
+    The solitary Scrietch-Owl strains her Throat;
+    And on a Chimney's Top, or Turret's height,
+    With Songs obscene disturbs the Silence of the Night._
+
+To produce more Instances would be needless; because One general Remark
+supersedes them all. It is acknowledged by every body that the First Six
+Books in the Original are the best, and the most perfect; but the Last
+Six are so in Mr. _Dryden_'s Translation. Not that even in These
+_Virgil_ properly sinks, or flags in his Genius; but only he did not
+live to correct them, as he did the former. However, they abound with
+Beauties in the Original; and so indeed they do in the Translation,
+more, as I said, than the First Six: Which is visible to any one that
+reads the Whole with Application.
+
+I observed in the last place, that where Mr. _Dryden_ shines most, we
+often see least of _Virgil_. To omit many other Instances, the
+Description of the _Cyclops_ forging Thunder for _Jupiter_, and Armour
+for _Æneas_, is elegant, and noble to the last degree in the _Latin_;
+and it is so to a very great degree in the _English_. But then is the
+_English_ a Translation of the _Latin_?
+
+    _Hither the Father of the Fire by Night
+    Thro' the brown Air precipitates his Flight:
+    On their eternal Anvils here be found
+    The Brethren beating, and the Blows go round._
+
+Our Language, I think, will admit of few things more truly Poetical,
+than those four Lines. But the two first are set to render
+
+    _Huc tunc Ignipotens cœlo descendit ab alto._
+
+There is nothing of _coelo ab alto_ in the Version; nor of _by Night,
+brown Air_, or _precipitates his Flight_ in the Original. The two last
+are put in the room of
+
+    _Ferrum exercebant vasto Cyclopes in antro,
+    Brontesque, Steropesque, & nudus membra Pyracmon._
+
+_Vasto in antro_ in the first of these Lines, and the last Line entirely
+are left out in the Translation. Nor is there any thing of _eternal
+Anvils_ (I wish there were) or _here be found_, in the Original: And
+_the Brethren beating, and the Blows go round_, is but a loose Version
+of _Ferrum exercebant_. Much the same may be said of the whole Passage
+throughout; which will appear to Those who compare the _Latin_ with the
+_English_. In the whole Passage Mr. _Dryden_ has the true Spirit of
+_Virgil_; but he would have had never the less of it, if he had more
+closely adhered to his Words, and Expressions.
+
+Sometimes he is _near enough_ to the Original; And tho' he _might have
+been nearer_, he is altogether admirable, not only as a _Poet_, but as a
+_Translator_. Thus in the Second Book;
+
+          _Pars ingentem formidine turpi
+    Scandunt rursus equum, & nota conduntur in alvo._
+
+    _And some, oppress'd with more ignoble Fear,
+    Remount the hollow Horse_, and pant in secret there.
+
+And in the Twelfth, after the last Speech of _Juturna_;
+
+    _Tantum effata, caput glauco contexit amictu,
+    Multa gemens, & se fluvio Dea condidit alto._
+
+    _She drew a length of Sighs; no more she said,
+    But with her azure Mantle wrap'd her Head;
+    Then plung'd into her Stream with deep Despair_,
+    And her last Sobs came bubbling up in Air.
+
+Tho' the last Line is not expressed in the Original, yet it is in some
+measure imply'd; and it is in it self so exceedingly beautiful, that the
+whole Passage can never be too much admired. These are Excellencies
+indeed; This is truly Mr. _Dryden_. _Si sic omnia dixisset_, tho' he had
+approached no nearer to the Original than This; my other Criticisms upon
+his Translation had been spared. And after all, I desire that Mine,
+being in a different sort of Verse, may be considered as an Undertaking
+of _another kind_, rather than as an Attempt to _excel His_. For tho' I
+think even That may very well _be done_; yet I am too sensible of my own
+Imperfection, to presume to say it can be done by _Me_. I have nothing
+to plead, besides what I have already alledged, in Excuse of my many,
+and great Faults, in the Execution of This bold Design; but that I was
+drawn into it, not by any Opinion of my Abilities to perform it, but by
+the inexpressible Passion which I have always had for this incomparable
+Poet. With a View to whom, I will here insert a noble Stroke out of my
+Lord _Roscommon_'s excellent _Essay on Translated Verse_: Which, I
+think, is proper to stand in This Place, both as a Conclusion of my
+Preface, and as a Kind of Poetical Invocation to my Work:
+
+    _Hail mighty_ MARO! _May That sacred Name
+    Kindle my Breast with Thy celestial Flame;
+    Sublime Ideas, and apt Words infuse:
+    The Muse instruct my Voice, and THOU inspire the Muse._
+
+
+
+
+FOOTNOTES TO THE PREFACE:
+
+[1] _Prælectiones Poeticæ._
+
+[2] _Merchant of Venice._
+
+[3] _De tous les Ouvrages dont l'Esprit de l'Homme est capable, le Poem
+Epique est sans doute le plus accompli._
+
+[4] _For so it should certainly be read; tho' both in the Folio and
+Octavo Editions, 'tis_ Aristotle.
+
+[5] _Preface to his Fables._
+
+[6] Elogia Virgilii Cap. IV Major _Homero_.
+
+[7] _The Word was originally applied to Dramatic Poetry, and from thence
+transferred to Epic._ Aristotle _uses it in more Senses than one; which
+seem not to be rightly distinguished by his Interpreters. However we are
+for that Reason more at Liberty to apply it, as we think most proper._
+
+[8] _For he mentions several Episodes, which he allows to be truly such;
+which yet are only convenient, not necessary. And besides, he says, p.
+100, and in other Places_, Une Episode est une partie necessaire de
+l'Action: _And yet, p. 102_, Le premier plan de l'Action contient
+_seulement ce qui est propre & necessaire_ à la Fable; _& n'a aucune
+Episode. By which he_ seems at least _to allow that an Episode may not
+be necessary._
+
+[9] Τὸ μεν οὖν ἰδιον τοὖτο, τὰ δ' ἄλλα ἐπεισόδια. Poetic. Cap XVII.
+
+[10] _The one is ἴδιον, the other is οἰκεῖον. The former is of a more_
+close, restrained, _and_ peculiar _Signification, than the latter: The
+former relating_ most properly _to a Man_'s Person; _the latter to his_
+Possessions.
+
+[11] _Preface to_ Homer.
+
+[12] _Dedication of the Æneis._
+
+[13] _See_ Bossu, _Chap. IX._
+
+[14] _Upon the Article of_ Virgil's _Invention, see M._ Segrais _at
+large in his admirable Preface to his Translation of the_ Æneis; _and
+from him Mr_. Dryden _in his Dedication of the_ Æneis, _p. 226_, &c. _of
+the Folio Edition._
+
+[15] _Preface_ to Juvenal.
+
+[16] Paradise lost, _Book VII._
+
+[17] _Preface to Mr._ Pope's Homer.
+
+[18] P. 142. _Second Edition._
+
+[19] _P. 158._
+
+[20] _Præl. Poet._ Vol. I. Præl. 2.
+
+[21] _Verses before L._ Roscommon's _Essay. And Preface to his_ Virgil.
+
+[22] _Preface to it._
+
+[23] _Dr._ Swift _in his Letter to the Earl of_ Oxford.
+
+[24] _Preface to his_ Virgil.
+
+
+       *       *       *       *       *
+
+
+Transcriber's Notes
+
+
+Spelling: English spelling in the 18th century had many differences from
+present-day spelling, and most of the spelling has therefore been
+retained without alteration.
+
+The following may also be correct, and have been retained:
+"Excrescencies" (Preface p. xiii), "it self" (Preface p. xvii), "w'on't"
+(Preface p. xxvii), "encountring" (Preface p. xliv, a quotation from
+Milton PL Book 6), "forreign" (Preface p. xlviii), "litteral" (Preface
+p. xv), "Scotish" (Preface p. xlviii), "grosly" (Preface p. xlix).
+
+The spelling "Aeneid" is standard in the Introduction, and the spelling
+"Æneid" is standard in the Preface.
+
+The following more obvious typos have been amended: "parishoners" to
+"parishioners" (Introduction p. iv) "mnch" to "much" (Preface p. xlv
+line 14) "Transprosers" to "Transposers" (Preface p. xlviii line 23)
+
+Missing period has been inserted on the following pages in the Preface:
+p. xv (after "rest are Episodes"), p. xlii (after "Vertue to break it"),
+and p. l (after "Erroneous").
+
+Footnotes 5, 6, 8, 9, 10, 12, 13 and 15 in the Preface have been
+particularly difficult to decipher.
+
+Missing period has been added at the end of footnotes 5, 11, 15 and 19.
+
+Incorrectly placed breathings and diacritics on diphthongs in the Greek
+text have been correctly placed.
+
+Inconsistent positioning of footnote numbers has been retained.
+
+
+
+
+
+End of the Project Gutenberg EBook of The Preface to the Aeneis of Virgil
+(1718), by Joseph  Trapp
+
+*** END OF THIS PROJECT GUTENBERG EBOOK PREFACE ***
+
+***** This file should be named 36137-0.txt or 36137-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/6/1/3/36137/
+
+Produced by Tor Martin Kristiansen, Margo Romberg, Joseph
+Cooper and the Online Distributed Proofreading Team at
+http://www.pgdp.net.
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

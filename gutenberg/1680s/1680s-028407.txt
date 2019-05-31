@@ -1,0 +1,2173 @@
+﻿The Project Gutenberg EBook of Reflections on Dr. Swift's Letter to Harley
+(1712) and The British Academy (1712), by John Oldmixon and Arthur Mainwaring
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Reflections on Dr. Swift's Letter to Harley (1712) and The British Academy (1712)
+
+Author: John Oldmixon
+        Arthur Mainwaring
+
+Commentator: Louis A. Landa
+
+Release Date: April 19, 2008 [EBook #25091]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK REFLECTIONS ***
+
+
+
+
+Produced by Louise Hope, David Starner, David Newman and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+
+Transcriber’s Note:
+
+This e-text comes in three different forms: unicode (utf-8), latin-1 and
+ascii-7.
+
+--If “œ” displays as a single character, and apostrophes and quotation
+marks are “curly” or angled, you have the utf-8 version (best). If any
+part of this paragraph displays as garbage, try changing your text
+reader’s “character set” or “file encoding”. If that doesn’t work,
+proceed to:
+
+--If “œ” is two letters, but French words like “étude” have accents,
+you have the latin-1 version. Apostrophes and quotation marks will be
+straight (“typewriter” form). Again, if you see any garbage in this
+paragraph and can’t get it to display properly, use:
+
+--The ascii-7 or rock-bottom version. All necessary text will still be
+there; it just won’t be as pretty.
+
+Some sections of the primary text used Italic body text, with Roman
+(de-italicized) type for emphasis. In these passages, Roman type is
+shown with +marks+ for clarity.
+
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+                  Series Six:
+             _Poetry and Language_
+
+                     No. 1
+
+       John Oldmixon, _Reflections on Dr.
+       Swift’s Letter to Harley_ (1712);
+
+                      and
+
+        Arthur Mainwaring, _The British
+                Academy_ (1712).
+
+            With an Introduction by
+                 Louis A. Landa
+
+
+          The Augustan Reprint Society
+                September, 1948
+               _Price: 75 cents_
+
+
+
+
+_GENERAL EDITORS_
+
+  RICHARD C. BOYS, _University of Michigan_
+  EDWARD NILES HOOKER, _University of California, Los Angeles_
+  H. T. SWEDENBERG, JR., _University of California, Los Angeles_
+
+_ASSISTANT EDITOR_
+
+  W. EARL BRITTON, _University of Michigan_
+
+_ADVISORY EDITORS_
+
+  EMMETT L. AVERY, _State College of Washington_
+  BENJAMIN BOYCE, _University of Nebraska_
+  LOUIS I. BREDVOLD, _University of Michigan_
+  CLEANTH BROOKS, Yale University
+  JAMES L. CLIFFORD, _Columbia University_
+  ARTHUR FRIEDMAN, _University of Chicago_
+  SAMUEL H. MONK, _University of Minnesota_
+  ERNEST MOSSNER, _University of Texas_
+  JAMES SUTHERLAND, _Queen Mary College, London_
+
+
+  Lithoprinted from copy supplied by author
+  by
+  Edwards Brothers, Inc.
+  Ann Arbor, Michigan, U.S.A.
+  1948
+
+
+
+
+_INTRODUCTION_
+
+
+The two tracts reprinted here, as well as Swift’s _Proposal for
+correcting, improving and ascertaining the English tongue_, which
+occasioned them, may be viewed in the context of the many seventeenth-
+and eighteenth-century suggestions for the formation of a British
+Academy. They are in part a result of the founding of the French Academy
+in 1635, although the feeling in England that language needed regulating
+to prevent its corruption and decline was not purely derivative. By the
+close of the seventeenth century an informed Englishman might have been
+familiar with a series of native proposals, ranging from those of Carew
+of Antony and Edmund Bolton early in the century to that of Defoe at the
+close. Among the familiar figures who urged the advantages of an Academy
+were Evelyn, the Earl of Roscommon, and Dryden. Of these Dryden was
+particularly vocal; but Evelyn’s suggestion, associated as it was with
+the Royal Society, was rather more spectacular. In 1665 he set forth for
+the Society’s Committee for Improving the Language an exhaustive
+catalogue of the forces tending to the corruption of the English tongue.
+Those, he declared, are “victories, plantations, frontiers, staples of
+commerce, pedantry of schools, affectation of travellers, translations,
+fancy and style of court, vernility and mincing of citizens, pulpits,
+political remonstrances, theatres, shops, &c.” There follows Evelyn’s
+careful formulation of the problems facing those who would refine the
+language and fix its standards.
+
+This sense of the corruption of the language and of the urgent need for
+regulation was communicated to the eighteenth century, in which a number
+of powerful voices called for action. Early in the period Addison
+advocated “something like an Academy that by the best Authorities and
+Rules ... shall settle all Controversies between Grammar and Idiom”
+(_The Spectator_, No. 135). He was followed by Swift, who in turn was
+followed by such diverse persons as Orator Henlay, the Earl of Orrery,
+and the Earl of Chesterfield. Curiously, Johnson’s appears to be the
+only weighty voice in opposition: “the edicts of an English Academy,” he
+insisted, “would probably be read by many, only that they might be sure
+to disobey them.”
+
+But if the two tracts reprinted here may be viewed in this context, they
+may also be seen from another vantage--as part of the interminable
+wrangling in the period between Whigs and Tories, even over a matter so
+apparently non-political as the founding of an Academy. Since it was
+Swift’s “petty treatise on the English Language”--the epithet is
+Johnson’s--which provoked these two replies, we must look briefly at
+his handiwork. Swift was undoubtedly guilty of pride of authorship with
+respect to his _Proposal_, which appeared on May 17, 1712, in the form
+of a _Letter to the Earl of Oxford_. He had touched on the problem
+earlier in the _Tatler_ (No. 230), but this is a more considered effort.
+In June, 1711, he first broached to Harley the idea of “a society or
+academy for correcting and settling our language,” and with Harley’s
+approval he began to compose the _Letter_. Yet it was eight months
+before the document reached Harley and another two months, during which
+it circulated among friends, before Swift retrieved it for the printer.
+Thus, and this fact has significance, the _Proposal_ had its inception
+and its first consideration in the Tory circles attached to the Harley
+ministry. A few days before its publication Swift wrote to Stella:
+“I suffer my name to be put at the End of it, wch I nevr did before in
+my Life.”
+
+Now this willingness to publish under his own name also has a special
+significance. It is not merely, as is often assumed, that he cherished
+the project, though very likely that played a part. He was motivated,
+I am convinced, by a desire to flaunt the _Proposal_ as a party
+document. It is true that he wrote to Stella two weeks after its
+publication that “there are 2 Answers come out to it already, tho tis no
+Politicks, but a harmless Proposall about the Improvement of the Engl.
+Tongue.” “I believe,” he added, “If I writt an Essay upon Straw some
+fool would answer it.” But this disclaimer is ingenuous in the light of
+the political overtones in the _Proposal_; for example, the extended
+praise of Barley as one who saved his country from ruin “by a foreign
+war and a domestic faction.” In fact, the lengthy panegyric of the Lord
+Treasurer, as well as other matter, is bluntly and deliberately
+partisan. It could not conceivably have been interpreted otherwise by
+contemporaries; nor could Swift have been unaware of its provocative
+impact upon his readers. Oldmixon remarks ironically of this part the
+_Proposal_--and small wonder that he does--that it is “incomparable,
+full of the most delicate Eulogy In the World.” Furthermore Swift knew,
+in view of his position as leading writer for the Tory ministry, that to
+sign his name was to invite attack--even if he wrote, as he says, upon
+straw.
+
+There is no doubt he thought the formation of an Academy a matter of
+great importance. Why then did he deliberately introduce controversial
+elements and thus make impossible a discussion of his proposal wholly on
+its merits? I suggest as a possible answer that he wished the Whigs to
+dissociate themselves from the project and that he used the tactics
+expected to achieve this end, in the desire that entire credit for the
+founding of the Academy should rest with Harley and Harley’s supporters.
+The partisan approach was therefore shrewdly calculated to provoke
+opposition and to avoid any leaven of Whiggism in the “institution and
+patronage” of the Academy. Swift wanted the contemporary prestige, as
+well as the favorable verdict of posterity, to be unmistakably placed.
+Nevertheless there was no intention of excluding meritorious Whigs from
+the original membership--only, as is clear from Swift’s attitude, from
+the “institution and patronage” of the Academy. In a list of
+Academicians drawn up by Swift and Harley, unhappily not extant, members
+of both parties were included--so Swift wrote to Archbishop King in
+Dublin, and there is no reason to doubt it. Even Oldmixon grudgingly
+reports that Swift had promised “the Whigs that they shall come in if
+they will.” However violent his partisanship at times, Swift could and
+did respect merit; and Harley was always ready to placate individual
+members of the Opposition. There is therefore no need to take seriously,
+as Oldmixon and the authors of _The British Academy_ pretend to do, the
+list of potential members of the Academy printed first in the _Amsterdam
+Gazette_ and quoted in _The British Academy_. It will be seen at a
+glance that they constitute that dinner group of Tory “Brothers,” the
+Society to which Swift belonged, a group sufficient for its avowed
+purpose--“to advance conversation and friendship, and to reward
+deserving persons”--but of course he would not have accepted them _in
+toto_ for the Academy.
+
+The Whig writers began their attack on the _Proposal_ immediately. In
+the _Medley_, founded by Mainwaring and Oldmixon “to provide an Antidote
+against the Poison of the Examiner,” there is a brief reference in the
+issue of May 19-23, 1712, to “the very extraordinary Letter to a Great
+Man,” followed in the next issue by an extended political attack with
+the _Proposal_ as the point of departure. Thus at the outset Swift’s
+pamphlet was treated as a party document. At the same time the Whig
+writers were readying two pamphlets in answer, both announced in the
+_Medley_ of May 19-23 as soon to be printed. Apparently neither of these
+appeared, at least not under the announced titles; but by May 26
+Oldmixon’s _Reflections_ had been published anonymously and was referred
+to in the _Medley_ as “a very ingenious Pamphlet.” As any reader of the
+_Reflections_ will observe for himself, the pamphlet opens on a violent
+political note and sustains it throughout. Although Oldmixon is more
+concerned to level charges against Swift--a lewd, irreverent cleric,
+a turncoat, a party scribbler, etc.--than to deny the validity of
+Swift’s views concerning the language, he does directly challenge
+certain points. And he arrives at a conclusion which may well have been
+the result of honest conviction rather than mere party opposition: that
+it is neither desirable nor possible to fix the language forever. In a
+sense this was the chief issue, and the one where the authoritarian view
+as represented by Swift and others was most vulnerable. Is it possible,
+by the edicts of an academy however eminent its members and respected
+its authority, to negate or control the principle of change inherent in
+language? Unfortunately Oldmixon did not live long enough to see his
+attitude aggressively expounded by one of greater stature who also took
+issue with Swift, both in the _Preface to the Dictionary_ and in the
+life of Swift.
+
+_The British Academy_, published May 30, 1712 (advertised in the
+_Spectator_ of that date), is of composite authorship. The one person
+known to have had a hand in it--“a great Hand,” says Oldmixon--is
+Arthur Mainwaring (_The life and posthumous works of Arthur Maynwaring,
+Esq._ [London, 1715], p. 324; this is the source of most of our
+knowledge of Mainwaring.). The identity of Mainwaring’s collaborators is
+a matter of conjecture. Perhaps the most eligible are those who assisted
+with the _Medley_, as Steele, Anthony Henley, and White Kennett. Among
+other possibilities are such active Whig writers as Thomas Burnet and
+George Duckett; and even Oldmixon cannot be ruled out. Doubtless
+Mainwaring was the inspiring spirit--of this as well as other attacks
+on the group surrounding Harley. Poet, ardent Jacobite convert to
+Whiggism, member of the Kit Kat Club, member of Parliament, and Auditor
+of the Imprest, Mainwaring had a brief but full career. It included a
+part in the _Whig Examiner_ and chief responsibility for the _Medley_.
+In the course of his political opposition he appears to have developed a
+genuine hatred of Swift, to whom he always referred, if Oldmixon’s word
+can be trusted, as “one of the wickedest Wretches alive.” By May, 1712,
+when _The British Academy_ was published, he was already ill of the
+disease which ended in his death a few months later; but he seems to
+have retained his vigor and his clear intelligence to the end. _The
+British Academy_ is shrewdly conceived to cast odium on Swift’s proposal
+for an Academy by identifying its potential members as a Tory faction
+and the whole project as merely a scheme to provide Harley with a set of
+pensioners who would be obliged in gratitude “to revere his Virtue and
+his Memory.” Whereas in the _Reflections_ Swift is assaulted with hard
+obvious blows, in _The British Academy_ a more subtle intelligence is
+evident: the attack is oblique and ironic, and a tone of Addisonian
+urbanity is fairly well maintained. Nevertheless it is not as literature
+that these two answers to Swift are to be judged. They are minor, though
+interesting, documents in political warfare which cut athwart a
+significant cultural controversy.
+
+ -- Louis A. Landa
+    Princeton University
+
+
+
+
+John Oldmixon’s _Reflections on Dr. Swift’s Letter to Harley_ (1712) is
+reproduced here, with permission, from the copy owned by the University
+of Chicago Library; Mainwaring’s _British Academy_ (1712) is reproduced
+here, with permission, from the copy owned by the Newberry Library,
+Chicago.
+
+
+       *       *       *       *       *
+           *       *       *       *
+
+                  REFLECTIONS
+
+                       on
+
+                 Dr. _Swift_’s
+
+                     LETTER
+
+                     to the
+
+               Earl of _OXFORD_,
+
+                   About The
+
+               _English_ Tongue.
+
+                   _LONDON:_
+
+  Sold by _A. Baldwin_ at the _Oxford Arms_ in
+       _Warwick-Lane_. (Price Six Pence.)
+
+
+
+
+THE PREFACE
+
+
+_The Bold Manner of publishing the +Letter+ for +correcting, improving+,
+and +ascertaining the+ English +Tongue+, made me conclude there was
+something very extraordinary in it, and more than any one could expect
+from Persons that were never thought to trouble themselves much about
++Fine Language+. But upon dipping into it, I found there was nothing
+worthy the Character the Author acquir’d by other Ingenious Pieces in
+our Tongue, tho’ I confess, it was not so much for the Beauty of his
+Style as for other Qualities, some of which a Divine need not brag of._
+
+_’Tis probable, our late Correspondence with +France+ put such a Whim
+into some Folks Heads, and because they have an +Academy+ for the same
+Use at +Paris+, we forsooth must have one at +London+. The Foreign News,
+which sometimes tells us more Truth of our doings here than our own, has
+the very Names of the Members of the +Academy+ which the Doctor speaks
+of. I do not find that it is come to any thing more yet than meeting
+over a Bottle once a Week, and being Merry. At which Times People mind
+talking much, more than talking well. I shou’d have taken what is
+printed in the +Amsterdam+ Gazette to have been only a dull +Dutch+ Jest
+upon those Men, if this +Letter+ had not been written, and some broad
+Hints given, that we are to be happier than we thought of, and to be
+surpriz’d with a Society that shall make us as Polite as that of
++Reformation+ has made us +Godly+; and I wish it may answer the Ends of
+it with all my Heart. But the more I reflected upon this +Project+ and
+the +Projectors+, the more I was diffident of it, for the Reasons
+mention’d in the following Pages._
+
+_I know very well the Epistle has but a sorry Reputation, even with the
+Writer’s own +Party+, that it is looked upon as a silly superficial
+Performance, and to be design’d only for an Opportunity to shew what a
++Nack+ he has at +Panegyrick+. Be that as it will, after I had
+consider’d the Subject he writes more leisurely than I was won’t to do,
+I was loth to lose those Considerations; and having put ’em into this
+Form, I flatter’d my self the Publick would not receive them ill; at
+least all those whom Faction and Prejudice have not render’d Insensible
+of Truth and Reason, and to such, a Man must be well set to work that
+writes a Task suitable to the Integrity and Ability of +Abel+ and his
+Brethren, among whom I am very unwilling to reckon our Author._
+
+
+
+
+                  REFLECTIONS
+
+                       on
+
+             Dr. _Swift_’s Letter,
+
+                     about
+
+          Refining the ENGLISH TONGUE.
+
+
+I should be guilty of the greatest Folly in the World, if I should go
+about to give a Character of Persons of whom I have no manner of
+Knowledge. To speak well or ill of ’em wou’d be equally Ridiculous and
+Dangerous: For it must be all Invention, and I might then abuse a Man
+both in my Praise and Dispraise. It is thus with me with Respect to the
+Author of the Letter lately publish’d about our Language, and to his
+Patron. I know neither of them, and if I say a Word more than
+themselves, or the World have said of them, I must have recourse to
+Fiction, which I cannot think of without abhorrence, where Reputation is
+concern’d.
+
+That good old Church Martyr the Earl of _Strafford_ was of Opinion,
+_Common Fame_ was enough to hang a Man, as in the Case of the Duke of
+_Buckingham_, when he was impeach’d by the Commons for Male Practices in
+his Ministry; and there were no better Grounds for accusing him, than
+that every Body said so. I am quite of another Mind, and let the World
+say what they will of any one, I am for condemning no body but whom the
+Law Condemns, and therefore in these Reflections I shall not consider so
+much how to please the Spleen of one Party, as how to expose the
+Arrogance of another, who would lord it over us in every Thing, and not
+only force their Principles upon us, but their Language, wherein they
+endeavour to ape their good Friends the _French_, who for these three or
+fourscore Years have been attempting to make their Tongue as Imperious
+as their Power.
+
+
+This most Ingenious Writer has so great a Value for his own Judgment in
+Matters of Stile, that he has put his Name to his Letter, and a Name
+greater than his own, as if he meant to Bully us into his Methods for
+pinning down our Language and making it as Criminal to admit Foreign
+Words as Foreign Trades, tho’ our Tongue may be enrich’d by the one, as
+much as our Traffick by the other. [Sidenote: _Page 28._] He would have
+it _corrected, enlarg’d and ascertain’d_ and who must do it? He tells
+you with great Modesty and Discernment in the 27th Page, _The Choice of
+Hands should be left to him_, and _he would then assign it over to the
+Women_, because they are softer mouth’d, and are more for _Liquids_ than
+the Men, as he try’d himself in a very notable Experiment. I wonder a
+grave, serious Divine, who is so well vers’d in College Learning, should
+in Compliment to a certain Lady, whose Breeding and Conversation must
+have given her wonderful Opportunities to refine our Tongue, imagine,
+that the Two Universities would give up so Essential a Branch of their
+Privileges to the Ladies, and take from them the Standard of _English_.
+This puts me in mind of _Fontenelle_’s way of Learning a Language, which
+he recommends to be by having an Intrigue with some Fair Foreigner; and
+beginning with the Verb _I Love, You Love_, &c. It is well enough from
+Him, a _Papist_, or _Layman_, but for a Protestant Divine to erect an
+Academy of Women to improve our Stile, is very extraordinary and
+gallant, and little agrees with the cruel Quotation of the Author of
+_the Tale of a Tub_, p. 163.
+
+  ---- _Cunnus Teterrimi Belli_
+  _Causa_ ------------
+
+That Excellent Moralist has not been pleas’d to discover himself, nor to
+Print his Name, but has set his Mark to his Works, which he has
+Embellish’d with new Flowers of Rhetorick, that shew what a Genius he
+has for refining Language, and how happily one may use the Figures of
+Cursing, Swearing, and Bawdy, which before were entirely exploded. Tho’
+we cannot well suppose the Writer of that _Merry Tale_ is any way
+related to the Author of the Letter, yet out of my great Zeal to promote
+his Project of polishing Us, I must refer to some shining Passages in
+that incomparable Treatise, and let the World judge if any Man can be
+more fit to Preside in a Society for refining the _English_ Tongue.
+
+[Sidenote: _Tale of a Tub. p. 109_] _Z---nds where’s the wonder of that?
+By G--- I saw a large House of Lime and Stone travel over Sea and Land.
+By G--- Gentlemen, I tell you nothing but Truth, and the Devil broil
+them eternally that will not believe me._ If there is any Thing like
+this in our Language from the lewdest of our Stage-Writers, I give them
+over to Mr. _Collier_ and the Reformers to do with them what they
+please. Yet I am inform’d these Florid Strokes came from the Pen of a
+Reverend Doctor, who has sollicited lately for a Deanery, and sets up
+mightily for a Refiner of our Tongue, which he would adorn with some
+more such graces of Speech; as, [Sidenote: _Preface, p. 21._] _Lord,
+what a Filthy Croud is here; Bless me! what Devil has rak’d this Rabble
+together; Z---nds, what squeezing is this! A Plague confound you for an
+overgrown Sloven? Who in the Devil’s Name, I wonder, helps to make up
+the Crowd half so much as your self? Don’t you consider with a Pox, that
+you take up more room with that Carcass than any Five here? Bring your
+own Guts to a reasonable Compass, and be d----d._ I tremble while I
+repeat such Stuff, which I defy any Man to match in any Language, Dead
+or Living, _Pagan_ or _Christian_; and yet this is the Eloquence, as is
+pretended, of a sound Orthodox Divine; one of the Champions of our
+Church, and the design’d Chairman of a new Academy to reform and improve
+our Stile. I shall only add here another Flower in p. 101. _If you fail
+hereof G---- damn you and yours to all Eternity_, says the same Reverend
+Author, whose Works on some other Occasion I shall examine, as to their
+Divinity, Piety, and other Merit, that the World may see on what Foot
+that Author has establish’d his Fame, and how judiciously a Man of his
+Cloth made himself first known to the World. Whether the late
+_Examiner_, the _Miscellanies in Prose and Verse_ publish’d by
+_Morphew_, and some more such Political and Pious Productions, did not
+come from the same Hand, I shall not determine. They are generally said
+to be written by the same Person, and how nearly related that Person is
+to our Letter Writer, is as well known as that he is a Doctor of
+Divinity, and hopes to make his Fortune by Preferments in that Church of
+which he is so bright an Ornament, as appears by what has been already
+quoted; by which one may perceive, how well qualify’d he is to form
+Schemes, for the _refining of our Tongue_, and the _Advancement of
+Religion_; of both which he has written. The latter does not come under
+Consideration so naturally in this Discourse as it will in another, and
+therefore it shall be deferr’d till such an Opportunity offers. Perhaps
+Our Elegant Writer will pretend to justify these Innovations in our
+Speech, for which the best Critick upon him would be my Lord Chief
+Justice, by the Example of our Modern Poets, and the Oaths and Curies of
+the Stage, where I never heard any thing so very Lewd, in Defyance of
+our Religion, Laws, and whatever is held Sacred by Christians, and
+Protestants. If he had a hand in the _Conduct of the Allies_, the
+_Remarks_, and other such Factious Papers, as is reported, and he never
+once thought fit to disown, being more Proud of the Honour done him in
+it, than asham’d of the Falshood and Scandal of those Libels, it is no
+strange Matter that a Man of such a Conscience should do or write any
+Thing; Cursing and Swearing being not so bad as the Robberies that
+Libeller has committed on the good Name of the best and greatest Men of
+this Age and Nation.
+
+The merriest part of the Project he has been hatching, for an _English_
+Academy to bring our Tongue to his pitch of Perfection, is that he has
+assign’d, that Task to the _Tories_, whose Wit have so distinguish’d
+them in all Times. If there had ever been a Man among ’em who had a
+right Notion of Letters or Language, who had any relish of Politeness,
+it had been something. But as there never was one, unless it were two or
+three Apostate Whigs who had been bred up by the Charity of those
+Friends they deserted, that had any smattering of Learning, except in
+Pedantry, nor Tast of any Books but _Eikon Basilike_, and the
+_Thirtieth_ of _January_ Sermons; ’tis amazing that he shou’d be so
+foolish as to fancy, that Learning which always goes by the Stile of
+Common-wealth, would submit to the Arbitary Government of an Ignorant
+and Tyrannical Faction. Nor is it at all strange, that those, who by
+their Practices and Principles, have for above Fourscore Years been
+doing their utmost to Enslave us, shou’d always have a Contempt for Wit
+and Eloquence, which ever have been the Friends of Reason and Liberty.
+
+Whoever reads the Thirty Fifth Chapter of _Longinus_ will find, that
+’tis impossible for a Tory to succeed in Eloquence, and that if they
+cannot impose so far on Men’s Understandings, as to make Fustian pass
+for Oratory, their Project of an Academy, will be as Chimerical as if
+they shou’d flatter us with a Trade and Settlements in the Moon. The
+Reader will not be displeas’d, to see what the Ancients thought of the
+Capacity of Men of such Principles in Matters of Eloquence, and let a
+long Experience among us, prove the right Judgment the _Philosopher_ in
+_Longinus_ made of them 1500 Years ago. He is treating of the _Causes of
+the Decay of Humane Wit_; _I can never enough admire_, said he, _how it
+came to pass, that there are so many Orators in our Times, and so few of
+’em rise very high in the Sublime; so Steril are our Wits now a Days; is
+it not_, continues he, _because what is generally said of Free
+Governments, that they nourish and form great Genius’s is true?
+especially, since almost all the Famous Orators that ever flourish’d and
+liv’d died with them? Indeed, can there be anything that raises the
+Souls of Great Men more than Liberty; any thing which can more
+powerfully excite and awaken in us that Sentiment of Nature which
+provokes us to Emulation, and the glorious desire of seeing our selves
+advanc’d above others? Add to this, that the Rewards propos’d in such
+Governments, whet and perfectly Polish the Orators Wit and make ’em
+cultivate the Talents Nature has given them; insomuch, that we see the
+Liberty of their Country shine in their Orations._ He goes on, _but as
+for us, who were early taught to endure the Yoke of Domination, and have
+been, as it were, wrapt up in the Customs and Ways of Arbitrary Rule;
+who in a Word, never tasted that living and Flowing Spring of Eloquence
+and Liberty; we commonly, instead of Orators, become pompous Flatterers,
+for which reason, I believe a Man Born in Servitude, may be capable of
+other Sciencies, but no Slave can ever be an Orator, since when the Mind
+is depress’d and broken by Slavery, it will never dare to think, or say
+any thing bold. All its Vigour evaporates of it self, and it remains
+always as in Bonds; in short, to make use of +Homer+’s Expression._
+
+  _The Day that makes a Free Born Man a Slave,_
+  _Robs him of half his Vertue._
+
+It is observable, that _Boileau_ has no manner of remark on all this
+Passage; it wou’d not have agreed with his Pension, from his Master the
+_French_ King, to have said a Word in praise of it, nor with his
+Conscience to have condemn’d it; but _Dacier_, who had a _Hugonot_
+Education, observes speaking of Liberty, shining in the Orations of
+Orators living in Free States, that as those _Men are their own Masters,
+their Mind us’d to this Independence, produces nothing but what has the
+Marks of that Liberty, which is the Principal Aim of all their Actions._
+
+
+Now what a Friend the Letter writer, is to Liberty, we may see in the
+_Examiner_ of the 26th of _April_, 1711, which, tho’, it may be he did
+not Write himself, whatever some People say to the contrary, he and his
+Party have sufficiently own’d to make them accountable for every Word in
+that and the rest of them. The reason why _Publick Injuries are so
+seldom redress’d is for want of Arbitrary Power_, he calls it
+_Discretionary_; ’tis true, and if I have wrong’d him, by putting
+Arbitrary in its Place; I ask his Pardon.--
+
+
+Having said thus much of his Party in general, I might descend to
+Particulars, and examine the sufficiency of the Characters of his
+Academicians, a List of them being handed up and down, in which the
+Author is not forgot. It is set off with Names that must not be
+repeated, and amongst the rest are a Doctor or two, two or three Poets
+and Tell Tales, and that Learned and Facetious Person Mr. _D----ny_,
+whose very Name gives unspeakeable Hopes of the Progress of such a
+Society, in refining our Language, which he and most of his Brethren are
+so great Masters of, that if twenty of the List will oblige us with as
+many Lines of Common Sense and Common Grammar, I will be bound to read
+every thing that shall be publish’d by this Famous Academy, that is to
+be or under their Auspices, tho’ I had much rather change that Pennance
+for _Ogilby_ and _Blome_. To give us the better _Idea_ of his _Scheme,
+he has consulted with very Judicious Persons_; we may judge of what
+truth there is in his _Panegyricks_, by that of the deceas’d _Examiner_
+on himself; where he says, _he had written with so much Reputation, and
+so much to the Confusion of the Whigs, that they themselves have a Value
+for his Person and Abilities, tho they have an Aversion to his Cause_.
+Of the same size, I doubt not, are the able and judicious Persons he has
+consulted about his Design, which must be own’d to be very good in it
+self, and capable of such Improvement as wou’d make it one of the
+Glories of Her Majesty’s most Glorious Reign. But alas, he will never
+have the Honour of it. A Noble Lord, on whom he has written _Libels_ and
+_Encomiums_, was the first that thought of such a thing, and some Years
+since nam’d forty Gentlemen to be Members of an Academy, on a Foundation
+refining on the _French_ of which Number I am very well satisfy’d, not a
+Man of his most Illustrious Band wou’d ever have been, and that tho’ he
+is so generous as to promise the Whigs that they shall come in if they
+will, he must look ’em out better Company, or his Academy will have the
+Glory of this great Work to themselves. Indeed the way is prepar’d for
+them to _Immortality_, two _English_ Grammars having been publish’d
+within this Twelvemonth, and it remains to him and his Fraternity, to
+add a _Dictionary_ worthy those Immortal Labours; for which, there are
+not a Set of Men in _England_ better qualify’d, and so equal to so
+honourable a Task.
+
+One wou’d think, that towards advancing this Scheme, all the _Literati_
+of this Kingdom had sent their Powers to Him. That all the Whigs as well
+as Tories had entrusted him with their Proxies; for he says _I do here
+in the Name of all the Learned and Polite Persons of the Nation
+complain, &c._ Whereas whatever has been brag’d by him in other Papers
+of the Nine in Ten, being on his side for the Land and Church Interest,
+not nine in a thousand will trust him with that of Wit. And I do here in
+the Name of all the Whigs, protest against all and every thing done or
+to be done in it, by him or in his Name; being a Person with whom they
+will have no manner of Dealings, as he very well knows, or they might
+now have had him Scribbling for them as well as when that Discourse was
+written _of the Contests and Dissentions of the Nobles and Commons in
++Athens+ and +Rome+_, wherein it is said, _’tis agreed, that in all
+Governments there is an absolute unlimited Power which naturally and
+originally seems to be plac’d in the People +in the whole Body+;
+wherever the Executive part lies_; again, _this unlimited Power plac’d
+fundamentally in the Body of a People, &c._ and that he wrote better
+then than he has done since is not to be wonder’d at, if there is any
+truth in what _Longinus_’s Philosopher says.
+
+It would be a poor Triumph to convict him of an Error in History 1700
+Years ago, where he tells us, That _Cæsar_ never attempted this Island;
+_no Conquest was ever attempted till the Time of +Claudius+_, since I do
+not find that he or his Brethren have any Notion at all that Truth is
+necessary in History: For they deny what was done Yesterday, as frankly
+as if it had been in _Julius Cæsar_’s Time; yet he himself has been
+sometimes forc’d to confess the Power of Truth, and pay Allegiance to
+it; as where he says, the great Reason of the Corruption of the _Roman_
+Tongue _was the changing their Government into Tyranny, which ruined the
+Study of Eloquence_; and because the _Whigs_ shall have a Share in it,
+he adds, and their calling in the _Palatines, their giving several Towns
+in +Germany+ the Freedom of the City_. A very pleasant Reason that; for
+when the _Roman_ Language was in the height of its Purity in the
+_Augustan_ Age, the Cities of _Asia_ and _Africk_ were admitted to that
+Privilege, as much as the _Europeans_ were afterwards; and yet it cannot
+be pretended the _Moors_ were naturally more Polite than the _Germans_.
+It is plain therefore this was a Party Stroke in favour of the
+_Naturalization_ Act, to shew what Inconveniences it hinders by
+preventing Foreigners coming among us to debauch our Stile, as may be
+seen by the prodigious Number of _Dutch_ Words that K. _William_ brought
+with him into _England_.
+
+Another Instance of the forc’d Homage he pays to Truth, is his blaming
+_the Slavish Disposition of the Senate and People of +Rome+, by which
+the Eloquence of the Age was wholly turn’d into Panegyrick_. Now
+considering how many Pages he has prodigally bestow’d upon it, in the
+very Letter I am taking cognizance of is it not very odd he should call
+Panegyrick _a Slavish Disposition_, and worse still that he should term
+it the _most barren of all Subjects_; what if I could prove, that above
+half of his Three Sheets of Paper are of that kind of Panegyrick, which
+is so fatal to great Men. The _Greeks_ said, _Flatterers were like so
+many Ravens croaking about them, and that they never lifted a Man up but
+as the +Eagle+ does the +Tortoise+, in order to get something by the
+fall of him._
+
+It is a sad Case, when Men get a habit of saying what they please, not
+caring whether True or False: Who can without pity see our Letter Writer
+accuse the Famous _La Bruyere_, for being accessary to the declining of
+the _French_ Tongue, by his Affectation; when it is notorious, that _La
+Bruyere_ is the most masterly Writer of that Nation, and that his
+Affectation was in the Turn of his Thought, which he did to strike his
+Readers, who had been too much us’d to dry Lessons to receive any
+Impression by them. He says, he has many Hundred _New Words, not to be
+found in the Common Dictionaries before his Time_. I should be glad to
+know, who are those Lexicographers, whose Knowledge in the _French_
+Tongue he prefers to _La Bruyere_’s; since _Richelet_ and the _Academy_
+are not of his Æra, I should rejoyce with him, if a way could be found
+out to _fix our Language for ever_, that like the _Spanish_ Cloak, it
+might always be in Fashion; but I hope he will come into Temper with the
+Inconstancy of Peoples Minds, of which he complains, and that we are in
+no Fear of the Invasion and Conquest he talks of, comforting himself,
+_that the best Writings may be preserved and esteem’d_, meaning his own
+and his Friends, which no doubt would fare much better than Mr. _Locks_
+or Mr. _Hoadly_’s; for Conquerors are not us’d to take much Care of
+those that write against them.
+
+I like extreamly his rejecting the Old Cant of _Forty One_, and giving
+the _great Rebellion_ its true Name _Forty Two_: But, if I had been he,
+I would not have named it at all. For there are a great many Men in
+_England_, who, tho’ they were not concern’d in it themselves, yet they
+do not love to hear of it, for the sake of those that were; and it
+certainly was an Error in delicacy to touch upon so tender a Part, no
+Man of Honour caring to have his Father and Grandfather call’d Rogue and
+Rebel to his Face, especially if such Grandfather or Father had no other
+Fault in the World but his Rebellion; which after so many Acts of
+Oblivion, and a Revolution besides, can not be a Crime of that Nature,
+as to last to the 3d and 4th Generation. He is much to be commended
+however for his Impartiality, and pleading Guilty to the Charge of the
+_Whigs_, that the _Licentiousness_ which enter’d with the
+_Rystauration_, infected our Religion and Morals. How it corrupted our
+Language I can’t imagine, when the greatest Master of it Arch-Bishop
+_Tillotson_, flourish’d all that Time; but I find he is more conversant
+in the Court Poetry and the Plays, than the other elegant Writings of
+those Times: Be it as it will, he would lay an Infinite Obligation upon
+us, if he would recommend us to any Author in the Reign of King
+_Charles_ the Martyr, which he distinguishes as the Golden Age of
+Politeness; who wrote with the Purity of _Dryden_, _Otway_, and
+_Etheridge_, and with less Affectation, which in Comick Writings is
+unavoidable, and in the best never us’d but to be expos’d. Yet the
+_Poets_ he affirms have _contributed very much to the spoiling the
+Tongue_: And who would he have to restore it? Himself, and his Brethren.
+Himself a Poet of Renown, and who, if he would once speak his Mind,
+I make no question is Prouder of his _Elegy upon Patridge_, and his
+Sonnet on Miss _Biddy Floyd_, than of all His Prose Compositions
+together, or even that elegant Poem, call’d _The Humble Petition of
++Frances Harris+_, which is the Pink of Simplicity.
+
+  _Therefore all the Money I have, which God knows is a
+      very small Stock,_
+  _I keep in a Pocket ty’d about my middle, next my Smock:_
+  _So when I went to put my Purse, as God would have it,
+      my Smock was unript,_
+  _And instead of putting it into my Pocket, down it slipt._
+  _Then the Bell rung, and I went down to put my Lady to Bed,_
+  _And God knows, I thought my Money was as safe as my Maidenhead._
+
+There is a great deal more of it, all as Easy and Natural as this, in
+the true Stile of Mrs. _Abigail_, and just as Amphibuous. It is as much
+Poetry as Prose, Pretty and Innocent, according to the Rules of
+Criticism; which the Author has taken more care not to break, than the
+First Commandment; tho’ one wou’d think it was his Business to have been
+mindful of it; and if he had left the Smock to be upript by the Butler,
+it wou’d have done every whit as well. I cannot help taking notice, that
+the Clamour he raises about the Poets of King _Charles_ the Second’s
+Reign, the only Age of Poetry in _England_, is for their Contractions
+and leaving out the _Eds_ and _Eths_, wherein he offends intollerably in
+this very Dogrel of his. Who wou’d have said _Smock unript and down it
+slipt_, and not _unripped_ and _slipped_; there is a waggery in it much
+better than any _Hudibrastick_; for it wou’d have run thus:
+
+  _So when I went to put my Purse as God wou’d have it,
+      my Smock was unripped,_
+  _And instead of putting it into my Pocket down it slipped._
+
+It will be no Authority with him, that Mr. _Dryden_ commonly contracted
+the Syllables that end _in Ed or Eth_. He was a Poet, and tho’ certainly
+in most cases the sound is sweetned by it, yet it offends those who are
+not for losing a Letter, and were they _Frenchmen_, would doubtless be
+for pronouncing every one of them, as well as Writing, to the great
+strengthning of that Enervate Tongue, which languishes in reading for
+want of the _Ez’s_ and _Er’s_, so barbarously mangled in Pronounciation.
+A great Lord, and one who wou’d be worthy of a Place, which is deny’d
+him in this Academy, having written against my Lord _Rochester_ in an
+_Essay upon Poetry_, Mr. _Wolseley_, attacks the _Essayer_ in a Preface
+written on purpose, and printed before _Valentinian_, wherein he has
+criticis’d on his Lordship’s Poem, and on these two Lines in particular.
+
+  _That Author’s Name has undeserved Praise,_
+  _Who pall’d the Appetite he meant to raise._
+
+Where he observes the Advantage the Verse had in the _Ed_, for without
+it it must have hobled on Nine Feet instead of Ten. _What does that Ed_,
+says he, _in +undeserved+ do there? I know no Business it has, unless it
+be to crutch a Lame Verse, and each out a scanty Sense; for the Word
+that is now used is Undeserv’d. I shou’d not take notice of such a Thing
+as this, but that I have to do with a giver of Rules, and a Magisterial
+Corrector of other Men; tho’ upon the observing such little Niceties,
+does all the Musick of Numbers defend. But the Refinement of our
+Versication is a sort of Criticism, which the +Essayer+, if we may judge
+of his Knowledge by his Practice, seems yet to learn; for never was
+there such a Pack of Stiff ill sounding Rhimes put together as his Essay
+is stuff’d with: To add therefore to his other Collections, let him
+remember hereafter, that Verses have Feet given ’em either to walk
+gracefully and smooth, and sometimes with Majesty and State like
++Virgils+, or to run light and easy like +Ovid+’s, not to stand
+stockstill like Dr. +Donne+’s, or to hobble like indigested Prose: That
+the counting of the Syllables is the least Part of the Poets Work, in
+the turning either of a soft or a Sonorous Line; that the +Ed’s+ went
+away with the +For to’s+, and the +Until’s+ in that general Rout that
+fell on the whole Body of the +thereon’s+, the +therein’s+, and
++thereby’s+, when those useful +Expletives+, the +altho’s+ and the
++Unto’s+, and those most convenient +Synalæpha’s+ +’midst+, +’mongst+,
++’gainst+, and +’twixt+, were every one +cut off+; which dismal
+Slaughter was follow’d with the utter Extirpation of the ancient House
+of the +hereof’s+ and the +therefrom’s+, &c. Nor is this Reformation the
+Arbitrary Fancy of a Few, who would impose their own Private Opinions
+and Practices upon the rest of their Countrymen, but grounded on the
+Authority of +Horace+, who tells us in his Epistle +de arte Poetica+,
+that Present Use is the final Judge of Language, (the Verse is too well
+known to need quoting) and on the common Reason of Mankind, which
+forbids us those antiquated Words and obsolete Idioms of Speech, whose
+worth Time has worn out, how well soever they may seem to stop a Gap in
+Verse, and suit our shapeless Immature Conceptions; for what is grown
+Pedantick and unbecoming when ’tis spoke, will not have a jot the better
+grace for being writ down._ This Gentleman’s Opinion, and that of
+others, which agrees with his, justify’d by the Example of all the
+Polite Writers in King _Charles_ the Second’s Reign, which probably may
+be the _Augustan_ Age of _English_ Poetry, is not to warrant the
+Affectation of such as are for the _Can’ts_, the _Don’ts_, the _Won’ts_,
+the _Shan’ts_, &c. but to refer to the Ear the cutting off those useless
+Syllables the _Ed’s_ and _Eth’s_ both in Verse and Prose; and I question
+whether any one wou’d not be better pleas’d to hear _disturb’d_ read
+than _disturbed_, and _rebuk’d_ than _rebuked_, tho’ the Doctor wonders
+how it can be endur’d.
+
+How intolerable must those two Lines of _Hudibras_ be to him then, on
+more Accounts than one.
+
+  _Hence ’tis that ’cause y’ ’ave gain’d o’ th’ College_
+  _A quarter Share at most of Knowledge._
+
+Where there are almost as many Abreviations as there are Words, and I
+question whether the being an _Hudibrastick_ is sufficient to excuse it,
+if it is, otherwise inexcusable; perhaps the Reader may not be
+displeas’d to see the Lines that follow, which are no great Digression
+from our Subject.
+
+  _Y’ assume a Pow’r as absolute,
+  To judge and censure and controul,
+  As if you were the sole, Sir Poll;
+  And sawcily pretend to know
+  More than your Dividend comes to.
+  You’ll find the Thing will not be done
+  With Ignorance and Face Alone:
+  No, tho’ y’ have purchas’d to your Name,
+  In History so great a Fame,
+  That now your Talent’s so well known
+  For having all belief out grown
+  That every strange prodigious Tale
+  Is measur’d by your +German+ Scale,
+  By which the +Virtuosi+ try
+  The Magnitude of every Lye, +&c.+_
+
+Which may very well be introduc’d as often as one has occasion to speak
+of the late _Examiner_, or any one that belongs to him. Let this Learned
+Doctor and his new Academy do their utmost to furnish our Language with
+what the _French_ call _Chevilles_, with his _Thoroughs_, _Althoughs_,
+and the whole Army of antiquated Words before-mention’d; I can’t imagine
+Mr. _Dryden_’s Poetry will be in any Danger of becoming unintelligible,
+tho’ he has us’d Abreviations as much as any Polite Writer; and will
+preserve that Character when the Doctor’s is forgotten, unless we should
+return to our Original Barbarity, as he says we incline to do. He
+complains the Refinement of our Language has hitherto been trusted to
+_illiterate Court Fops, Half-witted Poets, and University Boys_. He
+would have a thin Society, if he should exclude all such from his own
+Academy: And if the Choice be in himself, as he seems to insinuate,
+I believe the Reformation of our Language would have just as much
+success as the Reformation of our Manners, which, ’tis said, none have
+more corrupted than the very Reformers. He gives us his Word, That _the
+Style of some great Ministers very much exceed that of any other
+Productions_. Where I wonder are the Instances of this Excellence? In
+Speeches in Parliament, for themselves or others, or what Works of
+theirs has been communicated to him, that he should know more than all
+Mankind? One would think he was their Master by what he says, in the
+next Page, _What I have most at Heart, is some Method for ascertaining
+and fixing our Language for ever._ Now you must know, that this Reverend
+Author, who is so concern’d for the Fixing our Language, has himself a
+Style of a very deficient Character; in which the Reader will perceive
+how much we shou’d be _improv’d_, by having his manner _ascertained and
+fixed_; for doubtless he thinks his own the best, and his Friends know
+no better than to be of his Mind. _He would be more comprehensive_, says
+an Author of Note, _if he would alter and correct his Style, which is
+too loose and diffus’d in all Conscience. So that when I read him
+sometimes for a good while together, tho’ I go on very evenly and
+smoothly, I find it difficult to recollect what I have been doing, and
+whether I have been reading or sleeping. My present Advice to him
+therefore is, that he would study +Tacitus+, and such other Politicians
+as say much in few Words: And if he obstinately persists in the same
+Childish fondness for his Style, I shall be obliged to shew in how small
+a Compass the whole Substance of what he says, may be contained. All
+this vile Drudgery will I submit to for his sake_, &c. But so little
+likelihood there is of his mending his Style by reading _Tacitus_, that
+he defies him and charges him with the Corruption of the _Roman_ Tongue,
+by saying that in Two or Three Words, about which such a Genius as he is
+might have employ’d Twenty or Thirty. This Brevity he calls Affectation,
+and assures us, it brought Barbarisms into the _Latin_ Tongue, even
+before the _Goths_ invaded _Italy_. However he exposes his own
+Ignorance, he should have been careful not to have discover’d his
+Friends: Does the _Translation_ of the _Bible_ teach us to understand
+_Fairfax_? Are that and the _Common-Prayer_ the Standard of Language?
+Yet he affirms, that without them one cou’d not understand any thing
+written a hundred Years ago. Whereas the _Jerusalem_ of _Fairfax_ is
+older than that, and whoever reads it will find the Language as new as
+any can be expected from the New Academy these Fifty Years. For our
+Tongue is not so variable in the best Authors as the Doctor represents
+it, and the difference between the present _English_ and the _English_ a
+Hundred Years ago, is not so great as between the Old and Modern
+_French_ in that Term. Of all the Parts of Learning, that is surely the
+least ally’d to Politeness that deals in Old Musty Manuscripts, and
+affects a Knowledge in Tongues which have not one Polite Book to
+recommend them. How such a Quality can be serviceable to the Advancement
+of Wit and _Eloquence_, I cannot conceive; but there are some Characters
+in the World, that encroach upon all others, and some Men that for their
+Interest will say any thing that comes uppermost, either for or against
+another. The Knowledge of Tongues is certainly very useful; but if a
+Person knows a great many Ancient and Modern, and can hardly speak
+intelligibly in his own, He shou’d be no Orator for me. I would no more
+value his Learning than Sir _Hudibras_’s, of which the Doctor puts me in
+mind more than once by his Compliments, especially of this Passage in
+the first Canto.
+
+  _We grant, altho’ he had much Wit,
+  He was very shy of using it,
+  As being loth to wear it out.
+  And therefore bore it not about,
+  Unless on Holydays or so,
+  As Men their best Apparel do.
+  Besides, ’tis known he could speak +Greek+
+  As naturally as Pigs squeak.:
+  That +Latin+ was no more difficile
+  Than to a Blackbird ’tis to whistle;
+  Being rich in both he never scanted
+  His Bounty unto such as wanted;
+  But much of either wou’d afford,
+  To many that had not one Word:
+  For +Hebrew+ Roots altho they’re found
+  To flourish but in barren Ground,
+  He had such Plenty as suffic’d
+  To make some think him circumcis’d._
+
+The rest of Sir _Hudibras_’s Merit in Letters is of a Piece, and set off
+with a Puritanical Air, that renders the whole truly Ridiculous, and
+makes a good Comment on several Pages of the Doctor’s Epistle, which is
+most valuable for the great Judgment and Sincerity that he has shewn
+in it.
+
+It has already been observ’d, that _Horace_ asserts _Osse_ to be the
+only Rule of Language; and the Letter-Writer repeats what he says, _of
+Words going off and perishing like Leaves, and new ones coming in their
+Places_, which he tells us did not approve of _Horace_, notwithstanding
+his own Law of paying Obedience to usage. For if that were necessary,
+what, according to our Author, would become of his _Monumentum Ære
+perennius_? Did not the _Roman_ Tongue even by his own confession,
+change as much as ours has done. _The Latin Three Hundred Years before
+Tully was as unintelligible in his Time as the +English+ and +French+ of
+the same Period are now._ And the Corruptions afterwards by the
+_Barbarians_ made it as different from _Cicero_’s as _Ennius_’s; yet
+amidst all those variations, _Horace_’s Works are still _Monumentum ære
+perennius_. When a Tongue is come to any degree of Perfection, whoever
+writes well in it will Live; there’s a Thirst after Wit in all Ages, and
+those that have a Taste of it will distinguish the Thought from the
+Diction. _Chaucer_ will, no doubt, be admir’d as long as the _English_
+Tongue has a Being; and the Changes that have happen’d to our Language
+have not hinder’d his Works out living their Contemporary Monuments of
+Brass or Marble.
+
+The Doctor may as well set up a Society to find out the _Grand Elixir_,
+the _Perpetual Motion_, the _Longitude_, and other such Discoveries, as
+to fix our Language beyond their own Times. The Test of their Successors
+will vary with the Age, and their Rules grow obsolete as well as their
+Words. He would make us believe, that the _French_ Academy have not been
+able to preserve their Language from Decay, and who are the Men in
+_Britain_ who pretend to greater Genius for Eloquence than the most
+Polite of the Politest Nation in _Europe_. Mr. _Waller_ Elegantly
+complains of the Change which necessarily happens to Stile, and does it
+however in Language which shews, that the Doctor need not be afraid of
+People’s forgetting his Patron a Hundred Years hence, if he can write as
+good _English_ upon him now, as Mr. _Waller_ did on this Subject
+Threescore Years ago.
+
+  _But who can hope his Lines should long
+  Last, in a daily changing Tongue,
+  While they are new, Envy prevails,
+  And as that dies, our Language fails._
+
+  _When Architects have done their Part,
+  The Matter may betray their Art,
+  Time, if we use ill Chosen Stone,
+  Soon brings a well-built Palace down._
+
+  _Poets that Lasting Marble seek,
+  Must carve in +Latin+ or in +Greek+,
+  We write in Sand, our Language grows,
+  And like our Tide, Ours overflows._
+
+Our Author sees _no necessity of this Changing our Language_. What has
+been the Fate of all Tongues Ancient and Modern, and for the same
+Reasons will Eternally be so, he wou’d defend ours from, because the
+Chinese _have Books in their Tongue above 2000 Years Old_; And a History
+of 30000 Years Period with a Succession of Kings, 20000 Years before
+_Adam_. It wou’d be a Discovery worthy those Men who have lately been
+reconciling Contradictions, and building Arguments upon Nonsence, to
+find out that _certain Standard for our Tongue, to which, if it were
+refin’d_, he assures us, _it might be fixt for Ever_. This wou’d be
+doing what was never done before, what neither _Roman_ nor _Greek_,
+which lasted the longest of any in its Purity, could pretend to. And
+this would not be the only strange thing that has lately happen’d to us,
+which never happen’d to a Nation before. It will be in vain to pretend
+to _ascertain_ Language, unless they had the Secret of setting Rules for
+Thinking, and could bring Thought to a Standard too. For every Age, as
+well as every Nation, has its different manner of Thinking, of which the
+Expression and Words will always have a Relish, and be Barbarous or
+Polite, according as the Times take their Turn. If from the abundance of
+good Sense which appears lately in every thing we do, The Doctor can
+demonstrate, that we never were in a better way towards the Perfection
+of Thought and Language, let him set about his Academy as soon as he
+pleases. But if the contrary is apparent, it may not be improper to wait
+for some more propitious Opportunity. Besides, there will in all times
+be irregular Genius’s, who out of Humour will prefer Affectation to
+Nature, and mistake Novelty for Beauty. _Boileau_ in his Reflections
+upon _Longinus_, has several Observations of this kind, which will shew
+the difference between true and false Judgment, by comparing what he
+writes with several Passages in the Doctor’s Letter; he is speaking of
+the Famous _Ronsard_ and his Imitators, _Du-Bellai_, _Du Bartas_,
+_Desportes_, and other _French_ Poets in the Reigns of _Henry_ III. and
+IV. who were in great Fame for a long while, and when he wrote, sunk
+into the last Contempt. _The same among the_ +Romans+, says he, _was the
+Fate of_ +Nævius+, +Livius+, _and_ +Ennius+_,
+
+  who in _Horace_’s time had a great many Admirers as that Poet
+  informs us, but at last they were entirely decry’d. And it must not
+  be imagin’d that the Fall of these Authors, as well _French_ as
+  _Latin_, was owing to the Change of their Languages. The true Reason
+  was, they did not know how to hit the Point of Solidity and
+  Perfection in those Languages, which is necessary to make a Work
+  last, and set a Value upon it for ever. In effect, the _Latin_
+  Tongue, as it was written by _Cicero_ and _Virgil_, was very much
+  chang’d in _Quintilian_’s Time, and still more in the Time of _Aulus
+  Gellus_. However _Cicero_ and _Virgil_ were then more esteem’d than
+  even in their own Time, because they attain’d the height of
+  Perfection, of which I have spoken. It is not therefore on account
+  of the antiquated Words and Expressions in _Ronsard_, that _Ronsard_
+  has lost the Reputation he once had, but because the Beauties which
+  were thought to be in him, appear’d all at once to be no Beauties at
+  all.
+
+Thus we see, that in order to bring us to the degree of Perfection with
+which the Doctor flatters us by means of his new Academy, they must
+teach us first to think justly, to distinguish false Beauty from true,
+and glaring from Brightness, to banish those that write by Humour, and
+receive only such as aim at Solidity in their Writings. How the
+Celebrated _Tale_ of a Tub will come off then with the best Judges,
+I can easily guess, that excellent Treatise being much of the same
+nature as _Rabelais_, of whom _La Bruyere_ says, _+Rabelais+ is
+incomprehensible: His Book is an inexplicable Enigma, a meer Chimera; It
+has a Woman’s Face, with the Feet and Tail of a Serpent, or some Beast
+more deform’d. ’Tis a Monstrous Collection of Political and Ingenious
+Morality, with a Mixture of Beastliness; where ’tis bad ’tis abominable,
+and fit for the Diversion of the Rabble, and where ’tis good ’tis
+exquisite, and may entertain the most delicate._
+
+People very often apply those Faults to the Expression and Words which
+are originally in the thought. The Merit of such as write by Humour,
+Changes with the Mode, and their Language savouring of their Sentiments,
+must of course grow out of Fashion. _Ronsard_ the _French_ Poet was so
+far from writing ill _French_, that _Pasquier_ thought the _French_
+Tongue in its Perfection in his Writings and yet upon the Appearance of
+_Malherb_ and _Bacan_, he was no more read nor talk’d of; Whereas there
+were Authors before him, whose Writings are now in general Esteem, as
+_Marot_ and St. _Galais_, for the kind of Poetry in which they excell’d,
+and their Stile is imitated for its Simplicity, by which _la Fountain_
+acquir’d his Fame.
+
+Instances of this kind may be given in our own Tongue, which has
+improv’d in Refinement as much as the _French_. Our _Shakespear_ shone
+on the Stage, with all the Qualities of a Dramatick Poet, and _Diction_
+in particular, when the _French_ Stage was Barbarous. His Style has its
+Beauties now, and is newer than many who have since Writ, and for a
+while with Reputation.
+
+Among all the various ways in which we of late have endeavour’d to
+endear our selves to the _French_, and make ’em forgive us for beating
+them so, nothing certainly will oblige ’em more than our affecting to
+imitate them in our Political Style. Of this Nature is that Novelty the
+Reverend Author has introduc’d into our Language, where the Term _Prime
+Minister_ has no more a Place than _Will and Pleasure_. Pray who among
+the many Ministers Her Majesty is so happily serv’d by, does she Honour
+with that Name, and how comes it that _Prime_ does not go with
+Precedence? What Law of ours Impowers any body to order our Language to
+be _Inspected_, and who is there that wou’d think himself oblig’d to
+obey him in it? Is there no difference between the Ministers of a
+Despotick Monarchy, and the Servants of a limited one, who have no Rule
+but the Law, and are as accountable to it as the vilest of their
+Flatterers. We see how our Tongue would be improv’d and enlarg’d, had
+the Doctor and his Brethren the ordering of it. He has already impos’d
+on us the Court Style of _France_, and their Politicks wou’d soon come
+after it. He pastes a particular Compliment on our Tongue and his
+Patron, that they have not Merit enough to subsist a Hundred Years
+without mending. As bad as our _English_ is, I’ll engage it will subsist
+in the History of another great Man of this Nation, as long as the Names
+of _Edward_ the III. or _Henry_ V. shall be remembred in _Britain_.
+There being some Characters so illustrious that without the Ornaments of
+Stile or the Beauties of Wit, they Shine in their Native Dress, and make
+every thing look Glorious about them. Others there are which require all
+the Advantages of Language and Invention, and darken every Thing that
+comes near them. The best of it is, the Contempt with which he treats
+the _English_ Tongue, is not like to do it any harm, for whatever
+becomes of any ones History a Hundred Years hence, the Doctor’s will
+certainly be of much shorter Date, unless his Censurers should preserve
+the Memory of him, or he thinks fit to own at last some other of his
+Productions, when ’tis probable Fortune has done her best or her worst
+for him.
+
+I have several very good Reasons why, if I were to be of this Academy,
+I would banish the word Dozen out of our Dictionary, and the Doctor has
+no doubt his to be fond of it, and fixing it there for ever. The
+_French_ King says _he has given about half a dozen Pensions to Learned
+Men in several Parts of +Europe+, and perhaps a dozen in his own
+Kingdom_; which, he said, purely out of Affection to the Word Dozen,
+because he knew full well the _French_ King bestows Pensions on a
+Hundred Men in several Parts of _Europe_; and on a Thousand in his own
+Kingdom, who excel in Arts and Literature, _which, including the whole,
+do not amount to half the Income of many a Private Commoner in
++England+_. Whereas I will engage to name Him a Hundred Pensions in
+_France_ that have been given to Men of Letters, every one of which
+shall amount to more than half the Income of a dozen Lords, let me have
+the naming of them too. The History of his Reign, which has been so long
+Writing, has cost him near threescore Thousand Pounds Sterling.
+_Boileau_ himself, after he had liv’d a Life of Affluence and Pleasure,
+keeping a Country-House and City-House, dy’d worth above Five or Six
+Thousand Pounds, which he had wholly from the King. Not to mention the
+Rewards _Racine_, _Valincourt_, and other Poets and Historians had, who
+were imployed about his History; Nor those to all Academies of Sciences
+founded by him, and the great Pensions he allow’d the Professors. The
+prodigious Expences he has been at in Printing only at the _Louvre_,
+would perhaps amount to a Sum equal to the whole Income of several
+Dozens that might be thought of above the Rank of Commoners.
+
+
+The last Pages of the Doctor’s Book are incomparable, full of most
+delicate Eulogy in the World, which I cannot read without calling to
+mind that Verse of _Despreaux_ to Monsieur _Seignelai_.
+
+  _Tout Eloge imposteur blesse une ame sincere._
+
+  To paint a _Mecænas_ like a _Mars_, and confound Men’s Qualities, is
+    a Stale Practice of sorded Flatterers, which Men of Merit reject
+    with Disdain.
+
+  _Un Cœur Noble est content de ce qu’il trouve en lui._
+  _Et ne Supplaudit point de Qualitez d’autrui._
+
+  A great Soul scorns to usurp another’s worth, and is always content
+    with its own.
+
+The Doctor seems to have an Opinion, that every body loves Flattery as
+well as himself, and will take any Thing kindly that is said in their
+Favour. A little more Sincerity would not be amiss in the Composition of
+a Clergy-man and if this is the way to get the _Medal_ he talks of, it
+will be dearly purchas’d.
+
+I shall be heartily glad to see some of those Productions from Men above
+Money, that shall deserve the Laurel he has prepar’d for them. People,
+I doubt not, will crowd to get their Scriptions in, as they do to get
+Money into the Lottery; but certainly, the Society will take care of
+themselves, and if there’s any thing to be got have the Forestalling of
+the Market. The Design itself is useful, and cannot meet with too much
+Encouragement, Her Majesty, always willing to promote the Good of our
+Country, will, it is hop’d, hearken to it in due time; but if it _be
+defer’d till Peace_ there will be no great Harm in it, tho’ he is
+pleas’d to rally one of the late M------rs, as much above his Satyr as
+his Panagyrick, for being so silly as to prefer Necessity to
+Convenience.
+
+The want of a _Grammar_ and _Dictionary_ has been long complain’d of;
+and we cannot expect our Tongue will ever spread abroad, unless
+Foreigners are put into a more regular Method of learning it. To
+distribute Rewards to Merit, is the Duty of a good Ministry, and nothing
+contributes more to the Glory of a Country than Works of _Eloquence_ and
+_Wit_; but he has assum’d a Post that will not be allow’d him. He has
+set himself in the Director’s Chair of an _English_ Academy; before he
+has past Examination whether he is fit for a Place at the Board; Members
+are nam’d that have no Right to such Honour, unless it is a Privilege
+that is Inseperable from their Posts and Peerage; and he has given us
+Assurance of fine Pieces of _Wit_ and _Eloquence_ from a Quarter it
+never yet came.
+
+Projectors, like Quacks, promise Wonders but ’tis always the Labour of
+the Mountain------I might enlarge on this Head if I had not run my
+Reflections too far already. I shall therefore conclude with a
+Discription of one of those Quacks and Pretenders, as I find it in the
+Speech of the famous _Alexander Bendo_, who, as much a Quack as he was,
+understood our Tongue and our Constitution as well as the Doctor and his
+Master.
+
+_Reflect a little_, says he, _what a kind of Creature a Quack is._ Mind
+what follows. _He is one who is fain to supply some higher Ability he
+pretends to with Craft. He draws great Companies to him by undertaking
+strange Things which can never be effected._ The rest is so valuable,
+that tho I digress’d in it Ten times more than I do, I would present the
+Doctor with it, and leave it to his serious Consideration.
+
+_The Politician by his Example, no doubt, finding how the People are
+taken with specious, miraculous Impossibilities, plays the same Game,
+protests, declares, promises, I know not what things, which he is sure
+can ne’er be brought about. The People believe, are deluded, and
+pleased; the Expectation of a future Good, which shall never befal them,
+draws their Eyes off of a present Evil. Thus they are kept and
+establish’d in Subjection, Peace and Obedience, and he in Greatness,
+Wealth, and Power: So you see the Politician is, and must be a Quack in
+State Affairs and the Quack (no doubt if he thrives) is an Errant
+Politician in Physick._
+
+
+  _FINIS._
+
+
+       *       *       *       *       *
+           *       *       *       *
+
+
+                      The
+                   _BRITISH_
+                    ACADEMY:
+
+                    being a
+              New-Erected SOCIETY
+
+                    for the
+        Advancement of Wit and Learning:
+
+                      with
+          Some few OBSERVATIONS upon it.
+
+
+    ----_Hæ +Tibi+ erunt Artes:_
+    _Pacisq; imponere Morem._      Virgil.
+
+
+                   _LONDON_:
+
+          Printed in the Year MDCCXII.
+
+                Price Two-pence.
+
+
+
+
+  The
+
+  _British_ Academy, _&c._
+
+
+Such is our Case at present, that if we have a Mind to be agreeably
+entertain’d with the State of our own Affairs, we must look into Foreign
+Papers, rather than into those that are publish’d here by Authority; and
+therefore I often read the _Dutch_ Prints with the same Eagerness and
+Pleasure, as the _French_ at _Paris_ read the _Post Boy_. If we have no
+good News for Our selves here, we may sometimes find some from
+_Holland_; and what is good, is so rare, that I had rather have it from
+any Place, than not at all. I was so delighted with the following
+Paragraph in the _Amsterdam_ Gazette of the 20th of _May_ 1712. _N.S._
+that I cou’d not help transcribing, and turning it into _English_, that
+such Comfortable Tidings to _Men of Obscure Merit_, might be convey’d
+all over the Nation. And I shall endeavour to prove, that the Design
+there mention’d, is much likelier to succeed in _England_, than ever it
+was in _France_.
+
+The Words of the _Dutch_ Gazette are as follows, in the Article from
+_London_.
+
+_Il s’est formé ici depuis peu +une Societé pour recompenser &
+encourager le Mérite, par report aux beaux Arts+. Elle doit être
+composée de 21 Membres, dont il y en a déja 19 d’Arretez savoir les
+Ducs de Beaufort & d’Ormond; les Comites d’Arran & d’Orrery: les Lords
+Duplin, Gendre du Grand Tresorier; Harley, Fils dudit Tresorier;
+Lansdowne, Secretaire des Guerres; Masham & Bathurst: les Chevalier
+Windham: Messieurs St. Jean, Secretaire d’Etat: Harcourt Fils du Garde
+des Seaux; Raymond Solliciteur-General; les Colonels Hill & Desney;
+Swif, Docteur en Theologie; Prior Arbuthnott, Medicin de la Reine; &
+Friend, Medicin du Duc d’Ormond. Ces Messieurs, qui ont reservé de
+Nommer les Deux autre, Membres lors qu’ils le jugeront à propos,
+s’assemblant tous les Jeudis, & ont déja fait des gratifications à
+quelques Auteurs dont les ouvrages ont été goûtez, & recommandé d’autres
+aux Ministres d’Etat pour avoir quelque Etablissement._
+
+There has been lately form’d here _a Society to Reward and Encourage
+Merit, with respect to the Liberal Arts and Sciences_. It is to be
+composed of 21 Members, of which Number there are already 19 chosen:
+That is to say, The Dukes of _Beaufort_ and _Ormond_; the Earls of
+_Arran_ and _Orrory_; the Lords _Duplin_, Son-in-Law of the Great
+Treasurer; _Harley_, Son of the said Treasurer; _Lansdown_, Secretary of
+War; _Masham_ and _Bathurst_; Sir _W. Windham_; Mr. _St. John_,
+Secretary of State; _Harcourt_, Son of the Lord Keeper; and _Raymond_,
+Sollicitor-General: The Colonels _Hill_ and _Desney_; _Swift_, Doctor of
+Divinity; _Prior_, _Arbuthnott_ the Queen’s Physician; and _Friend_,
+Physician to the Duke of _Ormond_. These Gentlemen who have deferr’d
+naming the other Two Members till such time as they think fit, do now
+assemble every _Thursday_, and have already given Rewards to some
+Authors, whose Works have been approved of, and have recommended Others
+to the Ministers of State, that they may have some Establishment.
+
+This Fact being thus fairly related, the Reader is desired to observe,
+That it was in the Year 1629, under the single Ministry of Cardinal
+_Richlieu_, when a Society of such great Wits was first form’d at
+_Paris_; which was soon after establish’d, by an Edict of the King,
+with the Style and Title of the _French_ Academy. And it is left to be
+determin’d by all Judicious Readers, whether this _British_ Seminary of
+Wit and Learning is not a Copy of that Renown’d Society in _France_; and
+whether the Design and Model of it has not been approved of there, since
+our happy Correspondence with that Ingenious Nation.
+
+The _French_ Society consisted only at their first Meeting, of Seven or
+Eight Men of Letters, who met together to talk about their Books and
+Writings: And it was some time before Monsieur _Servien_, Secretary of
+State, and other Persons, distinguish’d by their Condition, as well as
+by their Merit, were added to the Company. But here we see the _British_
+Society, at the very first Formation of it, is compos’d of no less than
+Two Dukes, not only capable of _Rewarding_, but of Judging, as well as
+of Writing: And likewise of Two Earls; Five Lords; One Knight; One
+Secretary of State; Two Colonels of Foot, and One Squire: Not to mention
+the Lawyer; the Doctors; the Religious Priest; and the Poet. What
+therefore may we not expect from the future Progress of this Society,
+which sets out with so much greater Lustre, than that of its Original at
+_Paris_; so famous now all over _Europe_.
+
+The Great End and Business of the _French_ Academy, was to correct and
+refine their Language, as may be seen at large in the History of that
+Academy, written by Monsieur _Pelisson_: And we have already a Proposal,
+publish’d the 17th of _May_ 1712, _for Correcting, Improving, and
+Ascertaining the +English+ Tongue, in a Letter to the most Honourable
++Robert+ Earl of +Oxford+ and +Mortimer+, Lord High Treasurer of +Great
+Britain+: By +Jonathan Swift+, D.D._
+
+
+_Louis_, King of France, by Letters Patents, in the Year 1635, having
+mention’d the Great Things done for the Glory and Embellishment of
+_France_, by his dearly belov’d Cousin the Cardinal _Richlieu_, His
+Principal Minister of State, gives that Minister Power and Authority to
+call himself the Chief, and the Protector of the _French_ Academy: And
+doubtless the Scheme of this _British_ Academy is form’d with a View no
+less Glorious; That the Great and Memorable Actions of this _Minister_;
+the mighty Things perfom’d for the Allies and the Common Cause; the vast
+Successes against the Enemy; and, above all, the Restoring of Credit,
+and Paying the Publick Debts, may be fairly transmitted to Posterity.
+
+That this is the chief Design of our _new Erected Society_, is plainly
+insinuated by the Author of the Letter before mentioned; for which the
+Reader may please to see his own Words: _If Things go on_, says he, _at
+the present Rate_, (that is, if our Language be not corrected, improved,
+and ascertain’d,) _all I can promise your Lordship, is, That about Two
+hundred Years hence some painful Compiler, who will be at the Trouble of
+studying old Language, may inform the World, that in the Reign of +Queen
+ANNE+, +ROBERT Earl of OXFORD, a very Wise and Excellent Man+, was made
++High Treasurer+, and saved his Countrey._ [Mark those last Words, pray,
+as you go along.] _Thus much he may be able to pick out, and willing to
+transfer into his New History; but the rest of your Character which I,
+or any other Writer, may value our selves by drawing: And the Particular
+Account of the +great+ Things, done under your Ministry, for which you
+are already so Celebrated in +most+ Parts of +Europe+, will probably be
+dropt._ So far that Author: But I cannot help differing with him in one
+Particular: For I am firmly of Opinion, that altho our Language should
+happen not to be _improved_ or _ascertain’d_, yet the _great Things_
+done by that _very Wise and Excellent Man_, will not so easily be
+forgotten; nor the _rest_ of his Character be _dropt_, for which he is
+already _so celebrated in most Parts of +Europe+_.
+
+Besides, as there seems to be an Exact Agreement between the intended
+Protector of this Society, and that of the _French_ Academy in its
+Infancy, there can be no Doubt but the great Work will be carried on
+after much the same Manner, and under the same Statutes and Regulations.
+And it appears in Monsieur _Pelisson_’s History of the _French_ Academy,
+That every Member of it, both Present and Future, Friend or Foe, was
+oblig’d in Gratitude to their Protector, to _revere his Virtue and his
+Memory_. The _British_ Academicians being therefore under the same
+Obligation, how is it possible that their _Protector_’s _Vertue_ or
+_Memory_ should ever be forgotten?
+
+And there is one considerable Advantage, which our New Academy will have
+above the _French_. For it appears by the History just mention’d, that
+after the _French_ King had given his Consent, that his dear Cousin
+should be Chief of the Academy, the Parliament could not for a long
+while be brought to confirm the Patent. And Monsieur _Pelisson_ gives
+the Reasons of it. _Cardinal +Richlieu+_, says he, _having carried the
++Royal Authority+ a great deal higher than any one had done before him;
+tho belov’d by some, was envy’d by others, hated and detested by many,
+fear’d and dreaded by all. His Creatures_, continues he, _talk’d of this
+Design with excessive Encomiums. Never_, said they, _were the past Ages
+possest of so much Eloquence as ours is like to be. We shall out-do all
+that went before us, and all that shall come after. And the greatest
+Share of the Glory will redound to the Academy and the Cardinal. Others,
+on the contrary, treated this Design as ridiculous. They accused the
+Academy as aiming to give Laws to Things not susceptible of them, and
+were perpetually falling upon them with Jests and Satyrs. Distrustful
+People could not tell but there might be a Snake in the Grass; and were
+afraid the establishing this Society would be a new Support of his
+Domination, that they were only his Pensioners, maintain’d by him to
+justify all his Actions, and make Observations on those of others._
+These were the Difficulties in France: But our New Society need fear no
+such Opposition as the _Frenchmen_ found from their Parliament of
+_Paris_. Our _Parl----t_ will most certainly be as forward to pass an
+Act in Favour of them and their Protector, as they have been to do so
+many great Things already for him and the Nation, and even to pass a
+Vote in his Praise. Besides, there is no Body can pretend that _he has
+ever carried the Royal Authority higher than any one had done before
+him_; nor can it be imagin’d that he has a thousandth Part of the
+Enemies that Cardinal _Richlieu_ had: And I am fully persuaded, that all
+Things being consider’d, both at Home and Abroad, there is not a Man in
+the World that _envies_ him. And tho he has been suspected to _maintain
+Pensioners to justify his own Actions, and make Observations on those of
+others_; yet, whoever will look carefully over the List of the Members,
+must needs acquit him of that Calumny, and confess, that he who pick’d
+out such a Set of _Wits_ and _Patrons_, could have no such base Thoughts
+in his Head.
+
+When the _French_ Academy had settled their Statutes, the next Thing
+they did was to get a Seal. And what was the Impression? Why, only their
+Protectors Picture; not engrav’d like a _Seneca_’s Head, but drawn at
+length with a modest Word on the Reverse. _To Immortality._ Something
+like this may be very easily done here. But I am not for putting on the
+Reverse, _the Bill for the Protestant Succession_; tho it may be seen in
+the Protector’s Hand at Sir _G. Kneller_’s: For that is too gross, even
+for a common Picture. But what think you of his own Head on one Side and
+Twelve Lords on the Reverse? Or since all other Societies have taken
+their _Motto’s_ from the Old World, suppose he fetch’d one from the New;
+and clapp’d his own Face upon the Frontispiece, with this Word on the
+Reverse, written in Cyphers, _THE SOUTH-SEA_.
+
+I have but one or two Objections to the Statutes in _France_, which I
+cannot get over. One is, they must not meddle with Matters of Religion.
+This might have very ill Consequences, and hinder their Top Wit from
+shewing his Talents: I mean that Orthodox Divine, who it is well known
+was never half so witty upon any other Subject, as upon that of
+Religion. Another Law of theirs that gives me Offence, is, The Law by
+which they are oblig’d to judge of no-body’s Works but their own. For
+perhaps our Academy may not be in a Humour to write any Thing these
+Hundred Years, except a Trifle now and then, as an _Examiner_,
+a _Conduct_, a _John Bull_, or so. All which Works are allowable,
+because the _French_ Statute says, _Political Matters may be treated of
+conformably to the Authority of the State_.
+
+There was one Rule more among the _French_ Academicians, that will never
+do in _England_ which is their forbidding the Academy’s Certificate to
+be printed before the Writings of the Members, and allowing ’em only to
+put, _Par un tel de l’Academie Francoise_; As if one should say, _By
+such a Person of the +British+ Academy_. This would make mad Work here:
+Every little _Grubstreet_ Scribler would presently be publishing his
+Trash, with the stolen Title of _My Lord such a one, or Brigadier such a
+one, of the +British+ Academy._ And how should we be able to distinguish
+the Right from the Wrong, unless their License be printed before in
+Form, like a Privilege Royal, _To our Trusty and Well-beloved +Abel
+Roper+, of +London+, Bookseller_.
+
+Having just mention’d _Abel_, it puts me in Mind of a certain Officer
+belonging to the _French_ Academy, call’d a Library-Keeper. This was
+given to one _Camusat_, the most Eminent Bookseller then in _Paris_: And
+I presume no body will say that Trusty _Abel_ is not the fittest Man in
+_England_ for that Office: He being supposed not only to have printed,
+but even to have father’d some considerable Works of the most Elegant of
+all our Academicians.
+
+There’s nothing else very remarkable in the Laws of the _French
+Academy_, except their forbidding any Member to write in their Defence,
+which it is probable will be thought worth observing here. For if our
+Society should pretend to answer every impertinent Thing that will be
+written against them, they would be finely set to Work. If therefore
+they should happen to be daily pelted at, the shortest way will be to
+despise their Opponents, and to consider themselves as Persons above the
+Reach of Malice; incorporated under a glorious Protector for some good
+End or other; and in daily Expectation of having a Charter and an Act of
+Parliament to back them; and of being made Wits by the Laws of the Land.
+
+I cannot conclude without observing how pat every Thing happens: The
+_French_ Society met on _Thursdays_. So the News tells us, the _English_
+do; with this good difference: The _French_ met after they had din’d.
+The _English_, they say, dine together, and drink a chearful Glass
+afterwards; which has great Efficacy in Matters of Wit and Eloquence, as
+well for those that are to _write_, as those that are to _reward_. Wine
+is therefore call’d _Generous_, and is as nearly ally’d to Wit, as Wit
+is to Madness. How much wittier are some Men over the third Bottle than
+over the first! A strong Reason that the Meeting should be at a Tavern,
+and not any private House, which the _French_ Academy found very
+inconvenient; for whenever the Members, at whose Houses they met, took a
+Fancy to Marry, their Wives turn’d the Wits out of Doors; as it happen’d
+in the Case of Monsieur _Conrart_ and some others. Thus they were driven
+from one place to another, till their Protector got them a Room in the
+King’s own Palace; which cannot conveniently be done in _England_ whilst
+Lodgings are so scarce: And therefore I hope they will drink on as they
+do, till _Whitehall_ is rebuilt. And here I will leave them for the
+present: When their two other Members are chosen, it may perhaps be not
+unseasonable to acquaint the Publick with the further Progress of this
+hopeful Society; and to shew all the World how far we not only imitate
+or copy, but even excel our Friends the _French_. In the mean time,
+I hope, some of their best Writers will be order’d to give us a short
+Touch or Essay of their Eloquence, upon _our late Glorious Enterprize
+against the +French+, on +Tuesday+ the 20th of this present +May+, under
+the Command of his Grace the D. of +Orm--d+._
+
+
+  _FINIS._
+
+
+       *       *       *       *       *
+           *       *       *       *
+
+        _THE AUGUSTAN REPRINT SOCIETY_
+
+                 Announces Its
+
+ _Publications for the Third Year (1948-1949)_
+
+  [Transcriber’s Note:
+  Where available, Project Gutenberg e-text numbers are shown in
+  brackets, along with other information. Some announced titles were
+  published in a later year, or not at all.]
+
+
+_At least two_ items will be printed from each of the _three_
+following groups:
+
+Series IV: Men, Manners, and Critics
+
+  Sir John Falstaff (pseud.), _The Theatre_ (1720).  [15999]
+  Aaron Hill, Preface to _The Creation_; and Thomas Brereton,
+    Preface to _Esther_.  [15870: Hill article, and anonymous article
+    _Of Genius_]
+  Ned Ward, Selected Tracts.
+
+Series V: Drama
+
+  Edward Moore, _The Gamester_ (1753).  [16267]
+  Nevil Payne,  _Fatal Jealousy_ (1673).  [16916]
+  Mrs. Centlivre, _The Busie Body_ (1709).  [16740: Year 4]
+  Charles Macklin, _Man of the World_ (1781).  [14463: Year 5]
+
+Series VI: Poetry and Language
+
+  John Oldmixon, _Reflections on Dr. Swift’s Letter to Harley_ (1712);
+    and Arthur Mainwaring, _The British Academy_ (1712).
+  Pierre Nicole, _De Epigrammate_.
+    [In preparation as “An Essay on True and Apparent Beauty in Which
+    from Settled Principles is Rendered the Grounds for Choosing and
+    Rejecting Epigrams”]
+  Andre Dacier, Essay on Lyric Poetry.
+    [Published in year 13 as “The preface to Aristotle’s Art of poetry”]
+
+Issues will appear, as usual, in May, July, September, November,
+January, and March. In spite of rising costs, membership fees will be
+kept at the present annual rate of $2.50 in the United States and
+Canada; $2.75 in Great Britain and the continent. British and
+continental subscriptions should be sent to B. H. Blackwell, Broad
+Street, Oxford, England. American and Canadian subscriptions may be sent
+to any one of the General Editors.
+
+
+  TO THE AUGUSTAN REPRINT SOCIETY:
+
+                                     } _the third year_
+  _I enclose the membership fee for_ } _the second and third year_
+                                     } _the first, second,
+                                         and third year_
+
+  NAME .............................................................
+
+  ADDRESS ..........................................................
+
+NOTE: All income received by the Society is devoted to defraying cost of
+printing and mailing.
+
+
+
+
+  _THE AUGUSTAN REPRINT SOCIETY_
+
+  Makes Available
+
+  _Inexpensive Reprints of Rare Materials_
+
+  from
+
+  English Literature Of The Seventeenth And Eighteenth Centuries
+
+
+Students, scholars, and bibliographers of literature, history, and
+philology will find the publications valuable. _The Johnsonian News
+Letter_ has said of them: “Excellent facsimiles, and cheap in price,
+these represent the triumph of modern scientific reproduction. Be sure
+to become a subscriber; and take it upon yourself to see that your
+college library is on the mailing list.”
+
+The Augustan Reprint Society is a non-profit, scholarly organization,
+run without overhead expense. By careful management it is able to offer
+at least six publications each year at the unusually low membership fee
+of $2.50 per year in the United States and Canada, and $2.75 in Great
+Britain and the continent.
+
+Libraries as well as individuals are eligible for membership. Since the
+publications are issued without profit, however, no discount can be
+allowed to libraries, agents, or booksellers.
+
+New members may still obtain a complete run of the first year’s
+publications for $2.50, the annual membership fee.
+
+During the first two years the publications are issued in three series:
+I. Essays on Wit; II. Essays on Poetry and Language; and III. Essays on
+the Stage.
+
+
+_PUBLICATIONS FOR THE FIRST YEAR (1946-1947)_
+
+MAY, 1946: Series I, No. 1--Richard Blackmore’s _Essay upon Wit_ (1716),
+and Addison’s _Freeholder_ No. 45 (1716).  [13484]
+
+JULY, 1946: Series II, No. 1--Samuel Cobb’s _Of Poetry and Discourse on
+Criticism_ (1707).  [14528]
+
+SEPT., 1946: Series III, No. 1--Anon., _Letter to A. H. Esq.; concerning
+the Stage_ (1698), and Richard Willis’ _Occasional Paper_ No. IX (1698).
+[14047]
+
+NOV., 1946: Series I, No. 2--Anon., _Essay on Wit_ (1748), together with
+Characters by Flecknoe, and Joseph Warton’s _Adventurer_ Nos. 127 and
+133.  [14973]
+
+JAN., 1947: Series II, No. 2--Samuel Wesley’s _Epistle to a Friend
+Concerning Poetry_ (1700) and _Essay on Heroic Poetry_ (1693).  [16506]
+
+MARCH, 1947: Series III, No. 2--Anon., _Representation of the Impiety
+and Immorality of the Stage_ (1704) and anon., _Some Thoughts Concerning
+the Stage_ (1704).  [15656]
+
+
+_PUBLICATIONS FOR THE SECOND YEAR (1947-1948)_
+
+MAY, 1947: Series I, No. 3--John Gay’s _The Present State of Wit_; and a
+section on Wit from _The English Theophrastus_. With an Introduction by
+Donald Bond.  [14800]
+
+JULY, 1947: Series II, No. 3--Rapin’s _De Carmine Pastorali_, translated
+by Creech. With an Introduction by J. E. Congleton.  [14495]
+
+SEPT., 1947: Series III, No. 3--T. Hanmer’s (?) _Some Remarks on the
+Tragedy of Hamlet_. With an Introduction by Clarence D. Thorpe.  [14899]
+
+NOV., 1947: Series I, No. 4--Corbyn Morris’ _Essay towards Fixing the
+True Standards of Wit_, etc. With an Introduction by James L. Clifford.
+[16233]
+
+JAN., 1948: Series II, No. 4--Thomas Purney’s _Discourse on the
+Pastoral_. With an Introduction by Earl Wasserman.  [15313]
+
+MARCH, 1948: Series III, No. 4--Essays on the Stage, selected, with an
+Introduction by Joseph Wood Krutch.  [16335]
+
+
+The list of publications is subject to modification in response to
+requests by members. From time to time Bibliographical Notes will be
+included in the issues. Each issue contains an Introduction by a
+of special competence in the field represented.
+
+The Augustan Reprints are available only to members. They will never be
+offered at “remainder” prices.
+
+
+_GENERAL EDITORS_
+
+  RICHARD C. BOYS, _University of Michigan_
+  EDWARD NILES HOOKER, _University of California, Los Angeles_
+  H. T. SWEDENBERG, JR., _University of California, Los Angeles_
+
+_ADVISORY EDITORS_
+
+  EMMETT L. AVERY, _State College of Washington_
+  LOUIS I. BREDVOLD, _University of Michigan_
+  BENJAMIN BOYCE, _University of Nebraska_
+  CLEANTH BROOKS, _Louisiana State University_
+  JAMES L. CLIFFORD, _Columbia University_
+  ARTHUR FRIEDMAN, _University of Chicago_
+  SAMUEL H. MONK, _University of Minnesota_
+  JAMES SUTHERLAND, _Queen Mary College, London_
+
+
+Address communications to any of the General Editors. Applications for
+membership, together with membership fee, should be sent to
+
+  THE AUGUSTAN REPRINT SOCIETY
+  310 ROYCE HALL, UNIVERSITY OF CALIFORNIA
+  LOS ANGELES 24, CALIFORNIA
+
+  or
+
+  _Care of_ PROFESSOR RICHARD C. BOYS
+  ANGELL HALL, UNIVERSITY OF MICHIGAN
+  ANN ARBOR, MICHIGAN
+
+
+  _Please enroll me as a member of the Augustan Reprint Society._
+
+              { $2.50 }                             { _the second year_
+  _I enclose_ {  5.00 } _as the membership fee for_ { _the first and
+                                                        second year_
+
+  NAME ..........................................................
+
+  Address .......................................................
+
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+Errata (noted by transcriber)
+
+  The word “tho’” is written both with and without final apostrophe.
+
+Typographical Errors and Inconsistencies
+
+  those of Carew of Antony and Edmund Bolton  [_text unchanged_]
+  we are to be happier than we thought of  [thonght]
+  and are more for _Liquids_ than the Men  [more sor]
+  I give them over to Mr _Collier_  [_anomalous missing ._]
+  26th of _April_, 1711.  [_. for ,_]
+  and some Years since  [_“some-/Years” at line break_]
+  originally seems to be plac’d in the People  [to to]
+  the Smock to be upript by the Butler
+    [_text unchanged: quoted passage has “unript”_]
+  went away with the For to’s,  [_. for ,_]
+  No, tho’ y’ have purchas’d to your Name  [y have]
+  or what Works of theirs  [theris]
+  _Horace_ asserts _Osse_ to be the only Rule of  [_text unchanged_]
+  As naturally as Pigs squeak.:  [_punctuation unchanged_]
+  did not approve of _Horace_,  [_text unchanged_]
+  _Monumentum Ære perennius_?  [pereunius]
+  as unintelligible in his Time  [unintelligable]
+  _Horace_’s Works are still  [ere]
+  there’s a Thirst after Wit  [ther’es]
+  the Thought from the Diction.  [_missing ._]
+  when the _French_ Stage was Barbarous  [the the]
+  to see some of those Productions  [of of]
+  to rally one of the late M------rs  [ofs the]
+  an Errant Politician in Physick  [en Physick]
+
+  _with the +For to’s+ and the +Until’s+ in that general Rout that_ ...
+    [The italics are garbled in these lines: as printed,
+    _with the For to’s_ and the _Until’s_ in that general _Rout that_
+      or (with de-italicized text in +marks+)
+    _with the For to’s +and the+ Until’s +in that general+ Rout that_]
+
+
+Mechanical Errors
+
+  Unless otherwise noted, the error is an invisible apostrophe. In
+  phrases containing more than one apostrophe, the relevant word is
+  given in brackets.
+
+  I am very unwilling to reckon our Author.  [invisible .]
+  one of the Champions of our Church  [invisible u in “Church”]
+  Publick Injuries are so seldom redress’d
+  I am very well satisfy’d,
+  his Academy will have the Glory of  [invisible o in “of”]
+  for want of the _Ez’s_ and _Er’s_  [_Ez s_]
+  he has criticis’d on his Lordship’s Poem  [Lordship s]
+  Who pall’d the Appetite he meant to raise.
+  not to stand stockstill like Dr. +Donne+’s,
+  the +thereon’s+, the +therein’s+,  [therein s]
+  the ancient House of the +hereof’s+
+  his Epistle +de arte Poetica+, that  [invisible a in “that”]
+  the Example of all the Polite Writers  [invisible f in “of”]
+  whether any one wou’d not be better pleas’d  [pleas d]
+  very much chang’d in _Quintilian_’s Time  [_Quintilian_ s]
+  where ’tis bad ’tis abominable  [tis bad]
+  confound Men’s Qualities
+  of sorded Flatterers  [invisible r in “sorded”]
+  _Un Cœur Noble est content de ce qu’il trouve en lui
+  as much above his Satyr  [invisible a in “his”]
+  has been long complain’d of
+  he has assum’d a Post
+  Members are nam’d
+  strange Things which can never be effected.  [invisible .]
+
+
+Horace, _Ars Poetica_ (or _De Arte Poetica_) ll. 52-62
+
+  +Horace+, who tells us in his Epistle +de arte Poetica+,
+    that Present Use is the final Judge of Language,
+    (the Verse is too well known to need quoting)
+  Words going off and perishing like Leaves, and new ones coming in
+    their Places_,  [60-62]
+
+    et nova fictaque nuper habebunt verba fidem si
+    Graeco fonte cadent, parce detorta. quid autem
+    Caecilio Plautoque dabit Romanus ademptum         55
+    Vergilio Varioque? ego cur, acquirere pauca
+    si possum, invideor, cum lingua Catonis et Enni
+    sermonem patrium ditaverit et nova rerum
+    signatum praesente nota producere nomen.
+    ut silvae foliis privos mutantur in annos,        60
+    prima cadunt ita verborum vetus interit aetas
+    et iuvenum ritu florent modo nata vigentque.
+
+
+_Il s’est formé_ ...
+
+Except for clear typographical errors, the French text was left
+unchanged because it is impossible to know where the errors originated.
+All accents are as printed.
+
+  les Ducs [text has Dues]
+  les Comites [spelling unchanged: modern form is Comtes]
+  les Chevalier Windham  [error for le]
+  Fils du Garde des Seaux
+    [Error for Sceaux? In modern French, “seau” is a coal-scuttle while
+    “sceau” is a seal (here, Lord Keeper of the Seal)]
+  Swif [error for Swift]
+  Prior Arbuthnott [missing , or ; between names]
+  Medicin du Duc [text has Due, as above; spelling “Medicin” unchanged]
+  les Deux autre, [error for autres]
+  s’assemblant tous les Jeudis  [text has tons]
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Reflections on Dr. Swift's Letter to
+Harley (1712) and The British Academ, by John Oldmixon and Arthur Mainwaring
+
+*** END OF THIS PROJECT GUTENBERG EBOOK REFLECTIONS ***
+
+***** This file should be named 25091-0.txt or 25091-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/5/0/9/25091/
+
+Produced by Louise Hope, David Starner, David Newman and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

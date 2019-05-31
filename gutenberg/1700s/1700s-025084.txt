@@ -1,0 +1,2104 @@
+﻿The Project Gutenberg EBook of Parodies of Ballad Criticism (1711-1787), by 
+William Wagstaffe and Gregory Griffin AKA George Canning
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Parodies of Ballad Criticism (1711-1787)
+       A Comment Upon the History of Tom Thumb, 1711, by Wm.
+       Wagstaffe; The Knave of Hearts, 1787, by Gregory Griffin
+       AKA George Canning
+
+Author: William Wagstaffe
+        Gregory Griffin AKA George Canning
+
+Release Date: July 16, 2007 [EBook #22081]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PARODIES OF BALLAD CRITICISM ***
+
+
+
+
+Produced by Louise Hope, David Starner and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+  [In the "Tom Thumb" article, Latin "-que" was abbreviated with a
+  notation similar to "-q;". It has been "unpacked" for this e-text as
+  [que] in brackets.
+
+  The original texts printed all names in Italic type; italicized
+  passages put names in Roman type. To avoid ambiguity, these have been
+  marked with *asterisks*. All verse citations were printed in italics.]
+
+
+
+
+         THE AUGUSTAN REPRINT SOCIETY
+
+
+         _Parodies of Ballad Criticism_
+
+                  (1711-1787)
+
+               William Wagstaffe,
+_A Comment Upon the History of Tom Thumb_, 1711
+
+                George Canning,
+          _The Knave of Hearts_, 1787
+
+
+       Selected, with an Introduction, by
+            William K. Wimsatt, Jr.
+
+
+             Publication Number 63
+
+                  Los Angeles
+      William Andrews Clark Memorial Library
+            University of California
+                      1957
+
+
+       *       *       *       *       *
+
+  GENERAL EDITORS
+
+  RICHARD C. BOYS, University of Michigan
+  RALPH COHEN, University of California, Los Angeles
+  VINTON A. DEARING, University of California, Los Angeles
+  LAWRENCE CLARK POWELL, Clark Memorial Library
+
+  ASSISTANT EDITOR
+
+  W. EARL BRITTON, University of Michigan
+
+  ADVISORY EDITORS
+
+  EMMETT L. AVERY, State College of Washington
+  BENJAMIN BOYCE, Duke University
+  LOUIS BREDVOLD, University of Michigan
+  JOHN BUTT, King's College, University of Durham
+  JAMES L. CLIFFORD, Columbia University
+  ARTHUR FRIEDMAN, University of Chicago
+  LOUIS A. LANDA, Princeton University
+  SAMUEL H. MONK, University of Minnesota
+  ERNEST C. MOSSNER, University of Texas
+  JAMES SUTHERLAND, University College, London
+  H. T. SWEDENBERG, JR., University of California, Los Angeles
+
+  CORRESPONDING SECRETARY
+
+  EDNA C. DAVIS, Clark Memorial Library
+
+
+       *       *       *       *       *
+
+The Augustan Reprint Society regrets to announce the death
+of one of its founders and editors, Edward Niles Hooker.
+The editors hope, in the near future, to issue a volume
+in his memory.
+
+
+       *       *       *       *       *
+
+INTRODUCTION
+
+
+Joseph Addison's enthusiasm for ballad poetry (_Spectators_ 70, 74, 85)
+was not a sheer novelty. He had a ringing English precedent in Sidney,
+whom he quotes. And he may have had one in Jonson; at least he thought
+he had. He cited Dryden and Dorset as collectors and readers of ballads;
+and he might have cited others. He found comfort in the fact that
+Molière's Misanthrope was on his side. The modern or broadside version
+of _Chevy Chase_, the one which Addison quoted, had been printed, with a
+Latin translation, in the third volume of Dryden's _Miscellany_ (1702)
+and had been appreciated along with _The Nut-Brown Maid_ in an essay _Of
+the Old English Poets and Poetry_ in _The Muses Mercury_ for June, 1707.
+The feelings expressed in Addison's essays on the ballads were part of
+the general patriotic archaism which at that time was moving in rapport
+with cyclic theories of the robust and the effete, as in Temple's
+essays, and was complicating the issue of the classical ancients versus
+the moderns. Again, these feelings were in harmony with the new
+Longinianism of boldness and bigness, cultivated in one way by Dennis
+and in another by Addison himself in later _Spectators_. The tribute to
+the old writers in Rowe's Prologue to _Jane Shore_ (1713) is of course
+not simply the result of Addison's influence.[1]
+
+  Those venerable ancient Song-Enditers
+  Soar'd many a Pitch above our modern Writers.
+
+It is true also that Addison exhibits, at least in the first of the two
+essays on _Chevy Chase_, a degree of the normal Augustan condescension
+to the archaic--the vision which informs the earlier couplet poem on the
+English poets. Both in his quotation from Sidney ("... being so evil
+apparelled in the Dust and Cobweb of that uncivil Age, what would it
+work trimmed in the gorgeous Eloquence of _Pindar_?") and in his own
+apology for the "Simplicity of the Stile" there is sufficient
+prescription for all those improvements that either a Ramsay or a Percy
+were soon actually to undertake. And some of the Virgilian passages in
+_Chevy Chase_ which Addison picked out for admiration were not what
+Sidney had known but the literary invention of the more modern broadside
+writer.
+
+Nevertheless, the two _Spectators_ on _Chevy Chase_ and the sequel on
+the _Children in the Wood_ were startling enough. The general
+announcement was ample, unabashed, soaring--unmistakable evidence of a
+new polite taste for the universally valid utterances of the primitive
+heart. The accompanying measurement according to the epic rules and
+models was not a qualification of the taste, but only a somewhat awkward
+theoretical dimension and justification.
+
+  It is impossible that any thing should be universally tasted and
+  approved by a Multitude, tho' they are only the Rabble of a Nation,
+  which hath not in it some peculiar Aptness to please and gratify the
+  Mind of Man.... an ordinary Song or Ballad that is the Delight of
+  the common People, cannot fail to please all such Readers as are not
+  unqualified for the Entertainment by their Affectation or Ignorance.
+
+Professor Clarence D. Thorpe is surely correct in his view of Addison as
+a "grandfather" of such that would come in romantic aesthetics for the
+next hundred years.[2] Not that Addison invents anything; but he catches
+every current whisper and swells it to the journalistic audibility.
+Here, if we take Addison at his word, are the key ideas for Wordsworth's
+Preface on the language of rustic life, for Tolstoy's ruthless reduction
+of taste to the peasant norm. Addison went on to urge what was perfectly
+just, that the old popular ballads ought to be read and liked; at the
+same time he pushed his praise to a rather wild extreme, and he made
+some comic comparisons between _Chevy Chase_ and Virgil and Homer.
+
+We know now that he was on the right track; he was riding the wave of
+the future. It will be sufficient here merely to allude to that well
+established topic of English literary history, the rise of the ballad
+during the eighteenth century--in _A Collection of Old Ballads_
+(1723-1725), in Ramsay's _Evergreen_ and _Tea-Table_, in Percy's
+_Reliques_, and in all the opinions, the critiques, the imitations, the
+modern ballads, and the forgeries of that era--in _Henry and Emma_,
+_Colin and Lucy_, and _Hardyknute_, in Gay, Shenstone, and Gray, in
+Chatterton's Rowley. All these in a sense testified to the influence of
+Addison's essays. Addison was often enough given honorable mention and
+quoted.
+
+On the other hand, neo-classic stalwart good sense and the canons of
+decorum did not collapse easily, and the cultivation of the ballads had,
+as we have suggested, a certain aspect of silliness. It is well known
+that Addison's essays elicited the immediate objections of Dennis. The
+Spectator's "Design is to see how far he can lead his Reader by the
+Nose." He wants "to put Impotence and Imbecility upon us for
+Simplicity." Later Johnson in his _Life of Addison_ quoted Dennis and
+added his own opinion of _Chevy Chase_: "The story cannot possibly be
+told in a manner that shall make less impression on the mind."
+
+It was fairly easy to parody the ballads themselves, or at least the
+ballad imitations, as Johnson would demonstrate _ex tempore_. "I put my
+hat upon my head And walked into the Strand, And there I met another man
+Whose hat was in his hand." And it was just as easy to parody ballad
+criticism. The present volume is an anthology of two of the more
+deserving mock-criticisms which Addison's effort either wholly or in
+part inspired.
+
+An anonymous satirical writer who was later identified, on somewhat
+uncertain authority, as the Tory Dr. William Wagstaffe was very prompt
+in responding. His _Comment Upon the History of Tom Thumb_ appeared in
+1711 perhaps within a week or two of the third guilty _Spectator_ (June
+7) and went into a second edition, "Corrected," by August 18. An
+advertisement in the _Post Man_ of that day referred to yet a third
+"sham" edition, "full of errors."[3] The writer alludes to the author of
+the _Spectators_ covertly ("we have had an _enterprising Genius_ of
+late") and quotes all three of the ballad essays repeatedly. The choice
+of _Tom Thumb_ as the _corpus vile_ was perhaps suggested by Swift's
+momentary "handling" of it in _A Tale of a Tub_.[4] The satirical method
+is broad and easy and scarcely requires comment. This is the attack
+which was supposed by Addison's editor Henry Morley (_Spectator_, 1883,
+I, 318) to have caused Addison to "flinch" a little in his revision of
+the ballad essays. It is scarcely apparent that he did so. The last
+paragraph of the third essay, on the _Children in the Wood_, is a retort
+to some other and even prompter unfriendly critics--"little conceited
+Wits of the Age," with their "little Images of Ridicule."
+
+But Addison is not the only target of "Wagstaffe's" _Comment_. "Sir
+B------ B--------" and his "Arthurs" are another, and "Dr. B--tly"
+another. One of the most eloquent moments in the _Comment_ occurs near
+the end in a paragraph on what the author conceives to be the follies of
+the historical method. The use of the slight vernacular poem to parody
+the Bentleyan kind of classical scholarship was to be tried by Addison
+himself in _Spectator_ 470 (August 29, 1712) and had a French
+counterpart in the _Chef d'oeuvre d'un inconnu_, 1714. A later example
+was executed by Defoe's son-in-law Henry Baker in No. XIX of his
+_Universal Spectator_, February 15, 1729.[5] And that year too provided
+the large-scale demonstration of the _Dunciad Variorum_. The very
+"matter" of Tom Thumb reappeared under the same light in Fielding's
+_Tragedy of Tragedies or the Life and Death of Tom Thumb the Great with
+the Annotations of H. Scriblerus Secundus_, 1731. Addison's criticism of
+the ballads was scarcely a legitimate object for this kind of attack,
+but Augustan satire and parody were free and hospitable genres, always
+ready to entertain more than one kind of "bard and blockhead side by
+side."[6]
+
+No less a person than George Canning (as a schoolboy) was the author of
+the second of the two parodies reproduced in the present volume. A group
+of precocious Eton lads, Canning, J. Hookham Frere, John Smith, and
+Robert (Bobus) Smith, during the years 1786-1787 produced forty octavo
+numbers of a weekly paper called _The Microcosm_. They succeeded in
+exciting some interest among the literati,[7] were coming out in a
+"Second Edition" as early as the Christmas vacation of 1786,[8] and in
+the end sold their copyright for fifty pounds to their publisher,
+Charles Knight of Windsor.[9] Canning wrote Nos. XI and XII (February
+12, 1787), a critique of the "Epic Poem" concerning "The Reformation of
+the Knave of Hearts."[10] This essay in two parts, running for nearly as
+many pages as Wagstaffe's archetypal pamphlet, is a much more systematic
+and theoretically ambitious effort than any predecessor. _The Knave of
+Hearts_ is praised for its _beginning_ (_in medias res_), its _middle_
+(all "bustle and business"), and its _end_ (full of _Poetical Justice_
+and superior _Moral_). The earlier writers had directly labored the
+resemblance of the ballads to passages in Homer and Virgil. That method
+is now hardly invoked at all. Criticism according to the epic rules of
+Aristotle had been well enough illustrated by Addison on _Paradise Lost_
+(see especially _Spectator_ 267) if not by Addison on ballads. The
+decline of simple respect for the "Practice and Authority" of the
+ancient models during the neo-classic era, the general advance of
+something like reasoning in criticism, finds one of its quainter
+testimonials in the Eton schoolboy's cleverness. He would show by
+definition and strict deduction that _The Knave of Hearts_ is a "_due
+and proper Epic Poem_," having as "good right to that title, from its
+adherence to prescribed rules, as any of the celebrated master-pieces of
+antiquity." The post-Ramblerian date of the performance and a further if
+incidental aim of the satire--a facetious removal from the Augustan
+coffeehouse conversation--can be here and there felt in a heavy roll of
+the periods, a doubling and redoubling of the abstractions.[11]
+
+The essay, nevertheless, shows sufficient continuity with the earlier
+tradition of parody ballad criticism--for it begins by alluding to the
+_Spectator's_ critiques of Shakespeare, Milton, and _Chevy Chase_, and
+near the end of the first number slides into a remark that "one of the
+_Scribleri_, a descendant of the famous _Martinus_, has expressed his
+suspicions of the text being corrupted." A page or two of irony
+concerning the "plain and simple" opening of the poem seems to hark back
+to something more subtle in the Augustans than the Wagstaffian derision,
+no doubt to Pope's victory over Philips in a _Guardian_ on pastorals.
+"There is no task more difficult to a Poet, than that of _Rejection_.
+Ovid, among the ancients, and _Dryden_, among the moderns, were perhaps
+the most remarkable for the want of it."[12]
+
+The interest of these little pieces is historical[13] in a fairly strict
+sense. Their value is indirect, half accidental, a glancing revelation
+of ideas concerning simplicity, feeling, genius, the primitive, the
+historical which run steadily beneath all the ripples during the century
+that moves from "classic" to "romantic." Not all of Addison's parodists
+taken together muster as much fun, as such whimsical charm, as Addison
+himself in a single paragraph such as the one on "accidental readings"
+which opens the _Spectator_ on the _Children in the Wood_. But this
+passage, as it happens, requires only a slightly sophistical application
+to be taken as a cue to a useful attitude in our present reading.
+"I once met with a Page of _Mr. Baxter_ under a Christmas Pye....
+I might likewise mention a Paper-Kite, from which I have received great
+Improvement."
+
+  William K. Wimsatt, Jr.
+  Yale University
+
+
+  NOTES TO THE INTRODUCTION
+
+    [Footnote 1: The chief authorities for the history which I am
+    summarizing are W. L. Phelps, _The Beginnings of the English
+    Romantic Movement_, Boston, 1893, Chapter VII; E. K. Broadus,
+    "Addison's Influence on the Development of Interest in Folk-Poetry
+    in the Eighteenth Century," _Modern Philology_, VIII (July, 1910),
+    123-134; S. B. Hustvedt, _Ballad Criticism in Scandinavia and
+    Great Britain During the Eighteenth Century_, New York, 1916.]
+
+    [Footnote 2: "Addison's Contribution to Criticism," in R. F. Jones
+    _et al._, _The Seventeenth Century_ (Stanford, 1951), p. 329.]
+
+    [Footnote 3: Edward B. Reed, "Two Notes on Addison," _Modern
+    Philology_, VI (October, 1908), 187. The attribution of _A Comment
+    Upon Tom Thumb_ and other satirical pieces to the Dr. William
+    Wagstaffe who died in 1725 as Physician to St. Bartholomew's
+    Hospital depends entirely upon the fact that a collection of such
+    pieces was published, with an anonymous memoir, in 1726 under the
+    title _Miscellaneous Works of Dr. William Wagstaffe_. Charles
+    Dilke, _Papers of a Critic_ (London, 1875), I, 369-382. argues
+    that not Wagstaffe but Swift was the author of some of the pieces
+    in the volume. The case for Wagstaffe is put by Nicholas Moore in
+    a letter to _The Athenaeum_, June 10, 1882 and in his article on
+    Wagstaffe in the _DNB_. Paul V. Thompson, "Swift and the Wagstaffe
+    Papers," _Notes and Queries_, 175 (1938), 79, supports the notion
+    of Wagstaffe as an understrapper of Swift. The negative part of
+    Dilke's thesis is perhaps the more plausible. _A Comment Upon Tom
+    Thumb_, as Dilke himself confesses (_Papers_, p. 377), scarcely
+    sounds very much like Swift.]
+
+    [Footnote 4: Text, p. 6. The nursery rhyme _Tom Thumb, His Life
+    and Death_, 1630, and the augmented _History of Tom Thumb_,
+    c. 1670, are printed with introductory remarks by W. C. Hazlitt,
+    _Remains of the Early Popular Poetry of England_, II (London,
+    1866), 166-250.]
+
+    [Footnote 5: Cf. George R. Potter, "Henry Baker, F.R.S.
+    (1698-1774)," _Modern Philology_, XXIX (1932), 305. Nathan Drake,
+    _The Gleaner_, I (London, 1811), 220 seems mistaken in his remark
+    that Baker's Scriblerian commentary (upon the nursery rhyme "Once
+    I was a Batchelor, and lived by myself") was the model for later
+    mock-ballad-criticisms.]
+
+    [Footnote 6: For another early instance of our genre and a very
+    pure one, see an anonymous Cambridge correspondent's critique of
+    the burlesque broadside ballad of "Moor of Moore-Hall and the
+    Dragon of Wantley," in Nathaniel Mist's _Weekly Journal_ (second
+    series), September 2, 1721, reproduced by Roger P. McCutcheon,
+    "Another Burlesque of Addison's Ballad Criticism," _Studies in
+    Philology_, XXXIII (October, 1926), 451-456.]
+
+    [Footnote 7: _Diary & Letters of Madame d'Arblay_ (London,
+    1904-1905), III, 121-122, 295: November 28, 1786; July 29, 1787;
+    William Roberts, _Memoirs of the Life and Correspondence of Mrs.
+    Hannah More_ (London, 1834), II, 46, letter from W. W. Pepys,
+    December 31, 1786.]
+
+    [Footnote 8: Advertisement inserted before No. I in a collected
+    volume dated 1787 (Yale 217. 304g).]
+
+    [Footnote 9: The source of the anecdote seems to be William
+    Jordan, _National Portrait Gallery_ (London, 1831), II, 3, quoting
+    a communication from Charles Knight the publisher, son of Charles
+    Knight of Windsor.
+
+    The present reprint of Nos. XI and XII of _The Microcosm_ is from
+    the "Second" octavo collected edition, Windsor, 1788. _The
+    Microcosm_ had reappeared at least seven times by 1835.]
+
+    [Footnote 10: Iona and Peter Opie, _The Oxford Dictionary of
+    Nursery Rhymes_ (Oxford, 1951), are unable to find an earlier
+    printed source for this rhyme than the _European Magazine_, I
+    (April, 1782), 252.]
+
+    [Footnote 11: No. XXXVI of _The Microcosm_ is a letter from Capel
+    Lofft defending the "Middle Style" of Addison in contrast to the
+    more modern Johnsonian eloquence. Robert Bell, _The Life of the
+    Rt. Hon. George Canning_ (London, 1846), pp. 48-54, in a helpful
+    account of _The Microcosm_, stresses its general fidelity to
+    _Spectator_ style and themes.]
+
+    [Footnote 12: Canning's critique closes with an appendix of three
+    and a half pages alluding to the Eton Shrovetide custom of writing
+    Latin verses, known as the "Bacchus." See H. C. Maxwell Lyte,
+    _A History of Eton College_ (London, 1911), pp. 146-147.]
+
+    [Footnote 13: As late as the turn of the century the trick was
+    still in a manner feasible. The anonymous author of _Literary
+    Leisure, or the Recreations of Solomon Saunter, Esq._ (1799-1800)
+    divides two numbers, VIII and XV, between other affairs and a
+    Shandyesque argument about the nursery charm for the hiccup "Peter
+    Piper picked a peck of pickled pepper." This author was most
+    likely not Byron's assailant Hewson Clarke (born 1787, author of
+    _The Saunterer in 1804_), as asserted in the _Catalogue_ of the
+    Hope Collection (Oxford, 1865), p. 128.
+
+    A historical interest may be not only retrospective but
+    contemporary. The reader of the present volume will appreciate
+    "How to Criticize a Poem (In the Manner of Certain Contemporary
+    Poets)", a critique of the mnemonic rhyme "Thirty days hath
+    September," in the _New Republic_, December 6, 1943.]
+
+
+       *       *       *       *       *
+           *       *       *       *
+
+                       A
+
+                    COMMENT
+
+                    upon the
+
+                    HISTORY
+
+                       of
+
+                   Tom Thumb.
+
+
+    ----Juvat immemorata ferentem
+    Ingenuis oculis[que] legi manibus[que] teneri._
+        Hor.
+
+
+                    _LONDON_,
+
+ Printed for _J. Morphew_ near _Stationers-Hall_.
+     1711.    Price 3 _d._
+
+
+
+
+        A
+     COMMENT
+
+    upon the
+     HISTORY
+
+       of
+  _TOM THUMB_.
+
+It is a surprising thing that in an Age so Polite as this, in which we
+have such a Number of Poets, Criticks and Commentators, some of the best
+things that are extant in our Language shou'd pass unobserv'd amidst a
+Croud of inferiour Productions, and lie so long buried as it were, among
+those that profess such a Readiness to give Life to every thing that is
+valuable. Indeed we have had an Enterprising Genius of late, that has
+thought fit to disclose the Beauties of some Pieces to the World, that
+might have been otherwise indiscernable, and believ'd to have been
+trifling and insipid, for no other Reason but their unpolish'd
+Homeliness of Dress. And if we were to apply our selves, instead of the
+Classicks, to the Study of Ballads and other ingenious Composures of
+that Nature, in such Periods of our Lives, when we are arriv'd to a
+Maturity of Judgment, it is impossible to say what Improvement might be
+made to Wit in general, and the Art of Poetry in particular: And
+certainly our Passions are describ'd in them so naturally, in such
+lively, tho' simple, Colours, that how far they may fall short of the
+Artfulness and Embellishments of the _Romans_ in their Way of Writing,
+_yet cannot fail to please all such Readers as are not unqualify'd for
+the Entertainment by their Affectation or Ignorance_.
+
+It was my good Fortune some time ago to have the Library of a School-Boy
+committed to my Charge, where, among other undiscover'd valuable
+Authors, I pitch'd upon _Tom Thumb_ and _Tom Hickathrift_, Authors
+indeed more proper to adorn the Shelves of _Bodley_ or the _Vatican_,
+than to be confin'd to the Retirement and Obscurity of a private Study.
+I have perus'd the first of these with an infinite Pleasure, and a more
+than ordinary Application, and have made some Observations on it, which
+may not, I hope, prove unacceptable to the Publick; and however it may
+have been ridicul'd, and look'd upon as an Entertainment only for
+Children, and those of younger Years, may be found perhaps a Performance
+not unworthy the Perusal of the Judicious, and the Model superiour to
+either of those incomparable Poems of _Chevy Chase_, or _The Children in
+the Wood_. The Design was undoubtedly to recommend Virtue, and to shew
+that however any one may labour under the Disadvantages of Stature or
+Deformity, or the Meanness of Parentage, yet if his Mind and Actions are
+above the ordinary Level, those very Disadvantages that seem to depress
+him, shall add a Lustre to his Character.
+
+There are Variety of Incidents, dispers'd thro' the whole Series of this
+Historical Poem, that give an agreeable Delight and Surprise, _and are
+such as *Virgil* himself wou'd have touch'd upon, had the like Story
+been told by that Divine Poet_, viz. his falling into the Pudding-Bowl
+and others; which shew the Courage and Constancy, the Intrepidity and
+Greatness of Soul of this little Hero, amidst the greatest Dangers that
+cou'd possibly befall him, and which are the unavoidable Attendants of
+human Life.
+
+  Si fractus illabatur orbis,
+  Impavidum ferient ruinæ.
+
+The Author of this was unquestionably a Person of an Universal Genius,
+and if we consider that the Age he wrote in, must be an Age of the most
+profound Ignorance, as appears from the second Stanza of the first
+_Canto_, he was a Miracle of a Man.
+
+I have consulted Monsieur _Le Clerk_, and my Friend Dr. _B--ly_
+concerning the Chronology of this Author, who both assure me, tho'
+Neither can settle the Matter exactly, that he is the most ancient of
+our Poets, and 'tis very probable he was a _Druid_, who, as _Julius
+Cæsar_ mentions in his _Commentaries_, us'd to deliver their Precepts in
+Poetry and Metre. The Author of _The Tale of a Tub_, believes he was a
+_Pythagorean_ Philosopher, and held the _Metempsichosis_; and Others
+that he had read _Ovid's Metamorphosis_, and was the first Person that
+ever found out the Philosopher's Stone. A certain Antiquary of my
+Acquaintance, who is willing to forget every thing he shou'd remember,
+tells me, He can scarcely believe him to be Genuine, but if he is, he
+must have liv'd some time before the _Barons_ Wars; which he proves, as
+he does the Establishment of Religion in this Nation, upon the Credit of
+an old Monument.
+
+There is another Matter which deserves to be clear'd, whether this is a
+Fiction, or whether there was really such a Person as _Tom Thumb_. As to
+this, my Friends tell me, 'Twas Matter of Fact, and that 'twas an
+unpardonable Omission in a certain Author never once to mention him in
+his _Arthur_'s, when nothing is more certain than that he was the
+greatest Favourite of that Prince, and a Person who had perform'd some
+very eminent Services for his Country. And indeed I can't excuse his
+taking no Notice of our Poet who has afforded him such Helps, and to
+whom he is so much oblig'd for the Model of those Productions: Besides
+it had been but a Debt of Gratitude, as Sir _R---- B----_ was a Member
+of the Faculty, to have made honourable mention of him who has spoke so
+honourably of the Profession, on the Account of the Sickness of his
+Hero.
+
+I have an old Edition of this Author by me, the Title of which is more
+Sonorous and Heroical, than those of later Date, which for the better
+Information of the Reader, it may not be improper to insert in this
+Place. _*Tom Thumb* his Life and Death, wherein is declar'd his many
+marvellous Acts of Manhood, full of Wonder and strange Merriment_: Then
+he adds, _which little Knight liv'd in King *Arthur*'s Time in the Court
+of *Great Britain*_. Indeed there are so many spurious Editions of this
+Piece upon one Account or other, that I wou'd advise my Readers to be
+very cautious in their Choice, and it would be very wisely done, if they
+wou'd consult the curious _Ælianus_ concerning this Matter, who has the
+choicest Collection of any Man in _England_, and understands the most
+correct Editions of Books of this Nature.
+
+I have took a great deal of Pains to set these Matters of Importance in
+as clear a Light as we Criticks generally do, and shall begin with the
+first _Canto_, which treats of our Hero's Birth and Parentage, and
+Education, with some other Circumstances which you'll find are carry'd
+on in a manner not very inelegant, _and cannot fail to please those who
+are not Judges of Language, or those who notwithstanding they are Judges
+of Language, have a genuine and unprejudic'd Tast of Nature_.
+
+  In _Arthur's_ Court _Tom Thumb_ did live;
+  A Man of mickle Might,
+  The best of all the Table round,
+  And eke a doubty Knight,
+  In Stature but an Inch in Height,
+  Or quarter of a Span;
+  Then think you not this worthy Knight
+  Was prov'd a valiant Man.
+
+This Beginning is agreeable to the best of the Greek and Latin Poets;
+_Homer_ and _Virgil_ give an Idea of the whole Poem in a few of the
+first Lines, and here our Author draws the Character of his Hero, and
+shews what you may expect from a Person so well qualify'd for the
+greatest Undertakings.
+
+In the Description of him, which is very fine, he insinuates, that tho'
+perhaps his Person may appear despicable and little, yet you'll find him
+an Hero of the most consummate Bravery and Conduct, and is almost the
+same Account _Statius_ gives of _Tydeus_.
+
+  --------Totos infusa per artus,
+  Major in exiguo regnabat corpore virtus.
+
+If any suppose the Notion of such an Hero improbable, they'll find the
+Character _Virgil_ gives _Camilla_ to be as far stretch'd:
+
+  Illa vel Intactæ segetis per summa volaret
+  Gramina, nec teneras cursu læsisset Aristas:
+  Vel mare per medium, fluctu suspensa tumenti
+  Ferret Iter: celeres nec tingeret æquore plantas.
+
+But to proceed,
+
+  His Father was a Plowman plain,
+  His Mother milk'd the Cow,
+  And yet a Way to get a Son
+  This Couple knew not how,
+  Until such time the good old Man
+  To learned _Merlin_ goes,
+  And there to him in deep Distress
+  In secret Manner shows,
+  How in his Heart he wish'd to have,
+  A Child in time to come,
+  To be his Heir, tho' it might be
+  No bigger than his Thumb.
+  Of which old _Merlin_ was foretold,
+  That he his Wish should have,
+  And so a Son of Stature small
+  The Charmer to him gave.
+
+There is nothing more common throughout the Poets of the finest Taste,
+than to give an Account of the Pedigree of their Hero. So _Virgil_,
+
+  ----Æneas quem Dardanio Anchisæ
+  Alma Venus Phrygii genuit Simoentis ad undas.
+
+And the Manner of the Countryman's going to consult _Merlin_, is like
+that of _Æneas_'s approaching the Oracle of _Delphos_.
+
+  ----Egressi veneramur Apollinis Urbem.
+
+And how naturally and poetically does he describe the Modesty of the
+Man, who wou'd be content, if _Merlin_ wou'd grant him his Request, with
+a Son no bigger than his Thumb.
+
+The Two next Stanza's carry on the Idea with a great deal of Probability
+and Consistence; and to convince the World that he was born to be
+something more than Man, he produces a Miracle to bring him into it.
+
+  Begot, and born in half an Hour,
+  To fit his Father's Will.
+
+The following Stanza continues the Miracle, and brings the _Fairy Queen_
+and her Subjects, who gives him his Name, and makes him a Present of his
+Apparel.
+
+  Whereas she cloath'd him fine and brave,
+  In Garments richly fair,
+  The which did serve him many Years
+  In seemly sort to wear.
+
+So _Virgil_ of Queen _Dido_'s Present to _Ascanius_:
+
+  Hoc Juvenem egregium præstanti munere donat.
+
+And again,
+
+  --------Quem candida Dido
+  Esse sui dederat Monumentum & pignus Amoris.
+
+The Description of his Dress is very agreeable, and is not unlike what I
+have met with somewhere of a Giant going a Fishing, with an Account of
+his Implements equal to his Proportion.
+
+  His Hat made of an Oaken Leaf,
+    His Shirt a Spider's Web,
+  Both light and soft for these his Limbs
+    That were so smally bred.
+  His Hose and Doublet Thistle Down,
+    Together weav'd full fine;
+  His Stockings of an Apple green,
+    Made of the outward Rind;
+  His Garters were two little Hairs
+    Pluck'd from his Mothers Eye;
+  His Shooes made of a Mouse's Skin,
+    And Tann'd most curiously.
+
+The next Stanza's relate his Diversions, bearing some Analogy to those
+of _Ascanius_ and other Lads in _Virgil_:
+
+  Thus like a valiant Gallant He
+    Adventures forth to go,
+  With other Children in the Street,
+    His pretty Tricks to show.
+
+  Una Acies Juvenum ducit quam Parvus Ovantem
+  Nomen Avi referens Priamus.
+
+There is a Piece of Revenge our little Hero took upon a Play-fellow,
+which proves, to what an height Mechanical and Experimental Philosophy
+was arriv'd to in that Age, and may be worth while to be considered by
+the _Royal Society_.
+
+  Of whom to be reveng'd, he took
+    In Mirth and pleasant Game,
+  Black Pots and Glasses, which he hung
+    Upon a bright Sun-Beam.
+
+The third Line is a Demonstration of the Antiquity of Drinking out of
+Black-Pots, which still prevails in most Counties of this Nation, among
+the Justices of Peace at their Petty and Quarter Sessions.
+
+The last four Lines of this Canto, and the beginning of the next,
+contain the miraculous Adventure of the Pudding-Bowl: And, by the by,
+we may observe, That it was the Custom of the _Christians_ at that time,
+to make Hog-Puddings instead of Minc'd-Pies at _Christmas_; a laudable
+Custom very probably brought up to distinguish 'em more particularly
+from the _Jews_.
+
+  Whereas about a _Christmas_ time,
+    His Father an Hog had kill'd,
+  And _Tom_ to see the Pudding made,
+    Fear that it should be spill'd;
+  He sat, the Candle for to Light,
+    Upon the Pudding-Bowl:
+  Of which there is unto this Day
+    A pretty Pastime told:
+      For _Tom_ fell in----
+
+Perhaps some may think it below our Hero to stoop to such a mean
+Employment as the Poet has here enjoyn'd him, of holding the Candle, and
+that it looks too much like a _Citizen_, or a _Cot_, as the Women call
+it: But if we reflect on the Obedience due to Parents, as our Author
+undoubtedly did, and the Necessities those People labour'd under, we
+cannot but admire at his ready Compliance with what could by no Means be
+agreeable to the Heroical Bent of his Inclinations, and perceive what a
+tender Regard he had for the Wellfare of his Family, when he took the
+strictest Care imaginable for the Preservation of the Hog-Pudding. And
+what can be more remarkable? What can raise the Sentiments of Pity and
+Compassion to an higher Pitch, than to see an Hero fall into such an
+unforeseen Disaster in the honourable Execution of his Office? _This
+certainly is conformable to the way of Thinking among the Ancient Poets,
+and what a good-natur'd Reader cannot but be affected with._
+
+The following Part of this Canto is the Relation of our Hero's being put
+into a Pudding, and convey'd away in a Tinker's Budget; which is
+design'd by our Author to prove, if it is understood literally, That the
+greatest Men are subject to Misfortunes. But it is thought by Dr.
+_B--tly_ to be all Mythology, and to contain the Doctrine of the
+Transmutation of Metals, and is design'd to shew, that all Matter is the
+same, tho' very differently Modified. He tells me, he intends to publish
+a distinct Treatise of this Canto; and I don't question, but he'll
+manage the Dispute with the same Learning, Conduct, and good Manners,
+he has done others, and as Dr. _Salmon_ uses in his Corrections of Dr.
+_Sydenham_ and the _Dispensatory_.
+
+The next Canto is the Story of _Tom Thumb_'s being Swallow'd by a Cow,
+and his Deliverance out of her, which is treated of at large by
+_Giordano Bruno_ in his _Spaccio de la Bestia trionfante_; which Book,
+tho' very scarce, yet a _certain Gentleman_, who has it in his
+Possession, has been so obliging as to let every Body know where to meet
+with it. After this, you find him carried off by a Raven, and swallow'd
+by a Giant; and 'tis almost the same Story as that of _Ganimede_, and
+the Eagle in _Ovid_.
+
+  Now by a Raven of great Strength,
+    Away poor _Tom_ was born.
+
+  Nec mora: percusso mendacibus aere pennis
+  Abripit Iliaden.
+
+A certain great _Critick_ and _Schoolmaster_ who has publish'd such
+Notes upon _Horace_ as were never seen before, is of Opinion, and has
+very good Authority for what he says, that 'twas rather an Owl than a
+Raven; for, as he observes with a wonderful deal of Penetration and
+Sagacity, our Hero's Shoes were made of a Mouse's Skin which might
+induce the Owl to run away with him. The Giant, he owns, looks very
+probable, because we find 'em swallowing People very fast in almost all
+Romances.
+
+This Canto concludes with our Hero's Arrival at Court; after he had
+spent a considerable Part of his Youth in Labours and Fatigues, had been
+inur'd to nothing else but Hardships and Adventures, we see him receive
+the Recompence of his Merit, and become the Favourite of his Prince: And
+here we may perceive all the Fineness of the Gentleman, mixt with all
+the Resolution and Courage of the Warriour; We may behold him as ready
+to oblige the Ladies with a Dance, as he was to draw his Sword in their
+Defence.
+
+  Amongst the Deeds of Courtship done,
+    His Highness did command,
+  That he shou'd dance a Galliard brave
+    Upon the Queen's Left Hand.
+  The which he did----
+
+This shews he had all the Accomplishments of _Achilles_ who was
+undoubtedly one of the best Dancers in the Age he liv'd, according to
+the Character _Homer_ gives him so frequently of the Agility of his
+Feet. I have consulted a Master of the Profession of Dancing, who is
+excellently vers'd in the Chronology of all Dances, he tells me that
+this _Galliard_ came into Vogue about the latter End of the Reign of
+_Uter Pendragon_, and continu'd during that of King _Arthur_, which is
+Demonstration to me that our Poet liv'd about that Age.
+
+It is asserted very positively in the later Editions of this Poem, that
+the four following Lines are a Relation of the King and _Tom Thumb_'s
+going together an Hunting, but I have took indefatigable Pains to
+consult all the _Manuscripts_ in _Europe_ concerning this Matter, and I
+find it an _Interpolation_. I have also an _Arabick Copy_ by me, which I
+got a _Friend_ to translate, being unacquainted with the Language, and
+it is plain by the Translation that 'tis there also _interpolated_.
+
+  Now after that the King wou'd not
+    Abroad for Pleasure go,
+  But still _Tom Thumb_ must go with him
+   Plac'd on his Saddle Bow.
+
+  ----Ipse Uno graditur comitatus Achate.
+
+There is scarcely any Scene more moving than this that follows, and is
+_such an one as wou'd have shined in *Homer* or *Virgil*_. When he was
+favour'd with his Prince's Ear, and might have ask'd the most profitable
+and important Posts in the Government, and been indemnified if guilty of
+a _Peculatus_; He only used his Interest to relieve the Necessities of
+his Parents, when another _Person_ wou'd have scarcely own'd 'em for his
+_Relations_. This discovers such a Generosity of Soul, such an Humility
+in the greatest Prosperity, such a tender Affection for his Parents, as
+is hardly to be met with, but in our Author.
+
+  And being near his Highness Heart
+    He crav'd a wealthy Boon,
+  A noble Gift, the which the King
+    Commanded to be done;
+  To relieve his Father's Wants,
+    And Mother being old.
+
+The rest of this Canto relates the Visit to his Father, in which there
+is something very soft and tender, something _that may move the Mind of
+the most polite Reader, with the inward Meltings of Humanity and
+Compassion_.
+
+The Next Canto of the Tilts and Tournaments, is much like the Fifth Book
+of _Virgil_, and tho' we can't suppose our Poet ever saw that Author,
+yet we may believe he was directed to almost the same Passages, _by the
+same kind of Poetical Genius, and the same Copyings after Nature_.
+
+  Now he with Tilts and Tournaments,
+    Was entertained so,
+  That all the rest of _Arthur_'s Knights
+    Did him much Pleasure show;
+  And good Sir _Lancelot_ of _Lake_,
+    Sir _Tristram_, and Sir _Guy_;
+  But none like to _Tom Thumb_
+    For Acts of Chivalry.
+
+  Longeque ante omnia Corpora Nisus
+  Emicat----
+
+And agen,
+
+  Post Elymus subit, & nunc tertia palma Diores.
+
+  In Honour of which noble Day,
+    And for his Lady's Sake,
+  A Challenge in King _Arthur_'s Court,
+    _Tom Thumb_ did bravely make.
+
+  Talis prima Dares caput altum in prælia tollit,
+  Ostendit[que] humeros latos, alterna[que] Iactat
+  Brachia portendens, & verberat Ictibus auras,
+  Quæritur huic alius:----
+
+  'Gainst whom those noble Knights did run,
+    Sir _Chion_ and the rest,
+  But, still _Tom Thumb_ with all his Might
+    Did bear away the best.
+
+  Et primum ante omnes victorem appellat Acesten.
+
+At the same time our Poet shews a laudable Partiality for his Hero, he
+represents Sir _Lancelot_ after a manner not unbecoming so bold and
+brave a Knight.
+
+  At last Sir _Lancelot_ of _Lake_,
+    In manly sort came in,
+  And with this stout and hardy Knight
+    A Battle to begin.
+
+  Huic contra Æneas, speculatus in agmine longo
+  Obvius ire parat----
+
+  Which made the Courtiers all aghast.
+
+  Obstupuere animi----
+
+This Canto concludes with the Presents made by the King to the Champion
+according to the Custom of the _Greeks_ and _Romans_ in such Cases; only
+his tumbling thro' the Queen's Ring is observable, and may serve to give
+some Light into the Original of that ingenious Exercise so much
+practis'd by the Moderns, of tumbling thro' an Hoop.
+
+The last Canto treats of the Champion's Sickness and Death, and whoever
+considers the Beauty, Regularity and majestic Simplicity of the
+Relation, cannot but be surpris'd at the Advances that may be made in
+Poetry by the Strength of an uncultivated Genius, and may see how far
+Nature can proceed without the Ornamental Helps and Assistances of Art.
+The Poet don't attribute his Sickness to a Debauch, to the Irregularity
+or Intemperance of his Life, but to an Exercise becoming an Hero; and
+tho' he dies quietly in his Bed, he may be said in some measure to die
+in the Bed of Honour. And to shew the great Affection the King had for
+him, he sends for his Physicians, and orders all the Care imaginable to
+be taken for the Conservation of his Life.
+
+  He being slender and tall,
+    This cunning Doctor took
+  A fine perspective Glass, with which,
+    He did in Secret look.
+
+It is a Wonder that the learned World shou'd differ so in their Opinions
+concerning the Invention and Antiquity of Optic Glasses, and that any
+one should contend for _Metius_ of _Alcmaer_, or, as Dr. _Plot_ does,
+for _Fryar Bacon_, when, if this Author had been consulted, Matters
+might have been so easily adjusted. Some great Men indeed wou'd prove
+from hence, our Knight was the Inventor of 'em, that his Valet might the
+more commodiously see to dress him; but if we consider there were no
+Beau's in that Age, or reflect more maturely on the Epithet here given
+to the Doctor, we may readily conclude, that the Honour of this
+Invention belongs more particularly to that ingenious Profession.
+
+How lovely is the Account of the Departure of his Soul from his Body:
+
+  And so with Peace and Quietness
+    He left the World below.
+
+  Placida[que] demum ibi morte quievit.
+
+  And up into the Fairy Land
+    His Soul did fleeting go.
+
+  ----At Æthereas repetit mens ignea sedes.
+
+  Whereas the Fairy Queen receiv'd
+    With happy Mourning Cheer
+  The Body of this valiant Knight,
+    Whom she esteem'd so dear;
+  For with her dancing Nymphs in Green
+    She fetch'd him from his Bed,
+  With Musick and with Melody,
+    As soon as Life was fled.
+
+  ----Et fotum gremio Dea tollit in Altos
+  Idaliæ lucos----
+
+So one of our Modern Poets;
+
+  Thither the Fairys and their Train resort,
+  And leave their Revels, and their midnight Sport.
+
+We find in all the most celebrated Poets some Goddess that takes upon
+her to be the peculiar Guardian of the Hero, which has been carry'd on
+very elegantly in this Author.
+
+But agen;
+
+  For whom King _Arthur_ and his Knights,
+    Full forty Days did mourn,
+  And in Remembrance of his name,
+    Who was so strangely born,
+  He built a Tomb of Marble grey,
+    And Year by Year did come,
+  To celebrate the Mournful Day,
+    And Burial of _Tom Thumb_,
+  Whose Fame lives here in _England_ still,
+    Among the Country sort,
+  Of whom their Wives and Children small,
+    Tell Tales of pleasant Sport.
+
+So _Ovid_;
+
+  ----Luctus monumenta manebunt
+  Semper Adoni mei, repetita[que] mortis Imago
+  Annua plangoris peragit simulamina Nostri.
+
+Nor is this Conclusion unlike one of the best Latin Poems this Age has
+produc'd.
+
+  Tu Taffi Æternum vives, tua munera Cambri
+  Nunc etiam Celebrant, quoties[que] revolvitur Annus
+  Te memorant, Patrium Gens tota tuetur Honorem,
+  Et cingunt viridi redolentia tempora Porro.
+
+And now, tho' I am very well satisfied with this Performance, yet,
+according to the usual Modesty of us Authors, I am oblig'd to tell the
+World, _it will be a great Satisfaction to me, knowing my own
+Insufficiency_, if I have given but some Hints of the Beauties of this
+Poem, which are capable of being improv'd by those of greater Learning
+and Abilities. And I am glad to find by a Letter I have receiv'd from
+one of the _Literati_ in _Holland_, That the learned _Huffius_, a great
+Man of our Nation, is about the Translation of this Piece into _Latin_
+Verse, which he assures me will be done with a great deal of Judgment,
+in case he has enough of that Language to furnish out the Undertaking.
+I am very well Appris'd, That there has been publish'd Two Poems lately,
+Intituled, The Second and Third Parts of this Author; which treat of our
+little Hero's rising from the Dead in the Days of King _Edgar_: But I am
+inform'd by my Friend the _Schoolmaster_, and others, That they were
+compos'd by an Enthusiast in the last Century, and have been since
+Printed for the Establishment of the Doctrine of Monsieur _Marion_ and
+his Followers, and the Resurrection of Dr. _Ems_.
+
+I hope no Body will be offended at my asserting Things so positively,
+since 'tis the Priviledge of us _Commentators_, who understand the
+meaning of an Author Seventeen Hundred Years after he has wrote, much
+better than ever he cou'd be suppos'd to do himself. And certainly,
+a Critick ought not only to know what his Authors Thoughts were when he
+was Writing such and such Passages, but how those Thoughts came into his
+Head, where he was when he wrote, or what he was doing of; whether he
+wrote in a Garden, a Garret, or a Coach; upon a Lady, or a Milkmaid;
+whether at that Time he was scratching his Elbow, drinking a Bottle,
+or playing at Questions and Commands. These are material and important
+Circumstances so well known to the _True Commentator_, that were
+_Virgil_ and _Horace_ to revisit the World at this time, they'd be
+wonderfully surpris'd to see the minutest of their Perfections
+discover'd by the Assistances of _Modern Criticism_. Nor have the
+Classicks only reap'd Benefit from Inquiries of this Nature, but
+Divinity it self seems to be render'd more intelligible. I know a
+Divine, who understands what St. _Paul_ meant by _Higher Powers_, much
+better than that Apostle cou'd pretend to do; and another, That can
+unfold all the Mysteries of the _Revelations_ without Spectacles.
+
+I know there are some People that cast an Odium on me, and others, for
+pointing out the Beauties of such Authors, as have, they say, been
+hitherto unknown, and argue, That 'tis a sort of Heresie in Wit, and is
+like the fruitless Endeavours of proving the Apostolical Constitutions
+_Genuine_, that have been indisputably _Spurious_ for so many Ages: But
+let these Gentlemen consider, whether they pass not the same Judgment on
+an Author, as a Woman does on a Man, by the gayety of his Dress, or the
+gaudy Equipage of his Epithets. And however they may call me
+_second-sighted_, for discerning what they are Blind to, I must tell
+them this Poem has not been altogether so obscure, but that the most
+refin'd _Writers_ of this Age have been delighted with the reading it.
+Mr. _Tho. D'Urfey_, I am told, is an Admirer, and Mr. _John Dunton_ has
+been heard to say, more than once, he had rather be the Author of it
+than all his Works.
+
+How often, _says my Author_, have I seen the Tears trickle down the Face
+of the Polite _Woodwardius_ upon reading some of the most pathetical
+Encounters of _Tom Thumb_! How soft, how musically sorrowful was his
+Voice! How good Natur'd, how gentle, how unaffected was the Ceremoniale
+of his Gesture, and how unfit for a Profession so Merciless and
+Inhumane!
+
+I was persuaded by a Friend to write some Copies of Verses and place 'em
+in the Frontispiece of this Poem, in Commendation of My self and my
+_Comment_, suppos'd to be compos'd by _AG. FT. LM. RW._ and so forth.
+_To their very worthy and honour'd Friend_ C. D. upon his admirable and
+useful _Comment_ on the History of _Tom Thumb_; but my Bookseller told
+me the Trick was so common, 'twou'd not answer. Then I propos'd a
+Dedication to my Lord _such an One_, or Sir _Thomas such an One_; but he
+told me the Stock to be rais'd on Dedications was so small now a Days,
+and the Discount to my Lord's Gentleman, _&c._ so high, that 'twou'd not
+be worth while; besides, says he, it is the Opinion of some Patrons,
+that a Dinner now and then, with, _Sir, I shall expect to see you
+sometimes_, is a suitable Reward for a publick Compliment in Print. But
+if, continues my Bookseller, you have a Mind it shou'd turn to
+Advantage, write Treason or Heresy, get censur'd by the Parliament or
+Convocation, and condemn'd to be burnt by the Hands of the common
+Hangman, and you can't fail having a Multitude of Readers, by the same
+Reason, _A notorious Rogue has such a Number of Followers to the
+Gallows_.
+
+
+_FINIS._
+
+
+       *       *       *       *       *
+           *       *       *       *
+
+                [Illustration]
+
+
+                THE MICROCOSM.
+
+                       by
+
+                Gregory Griffin.
+
+
+
+
+  No. XI. of the
+
+  MICROCOSM.
+
+  MONDAY, _February_ 12, 1787.
+
+  Res gestæ regumque, ducumque, et tristia bella,
+  _Quo scribi possint numero, monstravit Homerus_.--HOR.
+  By Homer taught, the modern poet sings,
+  _In Epic strains, of heroes, wars, and Kings_.--FRANCIS.
+
+
+There are certain forms and etiquettes in life, which, though the
+neglect of them does not amount to the commission of a crime, or the
+violation of a duty, are yet so established by example, and sanctioned
+by custom, as to pass into Statutes, equally acknowledged by society,
+and almost equally binding to individuals, with the laws of the land,
+or the precepts of morality. A man guilty of breaking these, though he
+cannot be transported for a felon, or indicted for treasonable
+practices, is yet, in the High Court of Custom, branded as a flagrant
+offender against decorum, as notorious for an unprecedented infringement
+on propriety.
+
+There is no race of men on whom these laws are more severe than Authors;
+and no species of Authors more subject to them, than Periodical
+Essayists. _Homer_ having prescribed the form, or to use a more modern
+phrase, _set the fashion_ of _Epic Poems_, whoever presumes to deviate
+from his plan, must not hope to participate his dignity: And whatever
+method, _The Spectator_, _The Guardian_, and others, who first adopted
+this species of writing, have pursued in their undertaking, is set down
+as a rule for the conduct of their followers; which, whoever is bold
+enough to transgress, is accused of a deviation from the original
+design, and a breach of established regulation.
+
+It has hitherto been customary for all Periodical Writers, to take some
+opportunity, in the course of their labours, to display their Critical
+abilities, either by making observations on some popular Author, and
+work of known character, or by bringing forth the performances of hidden
+merit, and throwing light on genius in obscurity. To the critiques of
+_The Spectator_, _Shakespear_, and more particularly, _Milton_, are
+indebted, for no inconsiderable share of the reputation, which they now
+so universally enjoy; and by his means were the ruder graces, and more
+simple beauties of _Chevy Chace_ held up to public view, and recommended
+to general admiration.
+
+I should probably be accused of swerving from the imitation of so great
+an example, were not I to take occasion to shew that I too am not
+entirely destitute of abilities of this kind; but that by possessing a
+decent share of critical discernment, and critical jargon, I am capable
+of becoming a very tolerable commentator. For the proof of which,
+I shall rather prefer calling the attention of my readers to an object
+as yet untreated of by any of my immediate predecessors, than venture to
+throw in my observations on any work which has before passed the ordeal
+of frequent examination. And this I shall do for two reasons; partly,
+because were I to choose a field, how fertile soever, of which many
+others had before me been reaping the fruits, mine would be at best but
+the gleanings of criticism; and partly, from a more interested view,
+from a selfish desire of accumulated praise; since, by making a work,
+as yet almost wholly unknown, the subject of my consideration, I shall
+acquire the reputation of taste, as well as judgement;--of judiciousness
+in selection, as well as justness in observation;--of propriety in
+choosing the object, as well as skill in using the language, of
+commentary.
+
+The _Epic Poem_ on which I shall ground my present critique, has for its
+chief characteristics, brevity and simplicity. The Author,--whose name I
+lament that I am, in some degree, prevented from consecrating to
+immortal fame, by not knowing what it is--the Author, I say, has not
+branched his poem into excressences of episode, or prolixities of
+digression; it is neither variegated with diversity of unmeaning
+similitudes, nor glaring with the varnish of unnatural metaphor. The
+whole is plain and uniform; so much so indeed, that I should hardly be
+surprised, if some morose readers were to conjecture, that the poet had
+been thus simple rather from necessity than choice; that he had been
+restrained not so much by chastity of judgement, as sterility of
+imagination.
+
+Nay, some there may be perhaps, who will dispute his claim to the title
+of an _Epic Poet_; and will endeavour to degrade him even to the rank of
+a _ballad-monger_. But I, as his Commentator, will contend for the
+dignity of my Author; and will plainly demonstrate his Poem to be an
+_Epic Poem_, agreeable to the example of all Poets, and the consent of
+all Critics heretofore.
+
+First, it is universally agreed, that an _Epic Poem_ should have three
+component parts, _a beginning_, _a middle_, and _an end_;--secondly,
+it is allowed, that it should have one _grand action_, or _main design_,
+to the forwarding of which, all the parts of it should directly or
+indirectly tend; and that this design should be in some measure
+consonant with, and conducive to, the purposes of _Morality_;--and
+thirdly, it is indisputably settled, that it should have _a Hero_.
+I trust that in none of these points the poem before us will be found
+deficient. There are other inferior properties, which I shall consider
+in due order.
+
+Not to keep my readers longer in suspense, the subject of the poem is
+"_The Reformation of the Knave of Hearts_." It is not improbable, that
+some may object to me that a _Knave_ is an unworthy Hero for an Epic
+Poem; that a Hero ought to be all that is great and good. The objection
+is frivolous. The greatest work of this kind that the World has ever
+produced, has "_The Devil_" for its hero; and supported as my author is
+by so great a precedent, I contend, that his Hero is a very decent Hero;
+and especially as he has the advantage of _Milton_'s, by reforming at
+the end, is evidently entitled to a competent share of celebrity.
+
+I shall now proceed in the more immediate examination of the poem in its
+different parts. The _beginning_, say the Critics, ought to be plain and
+simple; neither embellished with the flowers of poetry, nor turgid with
+pomposity of diction. In this how exactly does our Author conform to the
+established opinion! he begins thus,
+
+    "The Queen of Hearts
+    "She made some Tarts"--
+
+Can any thing be more clear! more natural! more agreeable to the true
+spirit of simplicity! Here are no tropes,--no figurative
+expressions,--not even so much as an invocation to the Muse. He does not
+detain his readers by any needless circumlocution; by unnecessarily
+informing them, what he _is_ going to sing; or still more unnecessarily
+enumerating what he _is not_ going to sing: but according to the precept
+of Horace,
+
+  ----in medias res,
+  Non secus ac notas, auditorem rapit,----
+
+That is, he at once introduces us, and sets us on the most easy and
+familiar footing imaginable, with her Majesty of Hearts, and interests
+us deeply in her domestic concerns. But to proceed,
+
+    "The Queen of Hearts
+    "She made some Tarts,
+  "All on a Summer's Day."
+
+Here indeed the prospect brightens, and we are led to expect some
+liveliness of imagery, some warmth of poetical colouring;--but here is
+no such thing.--There is no task more difficult to a Poet, than that of
+_Rejection_. _Ovid_, among the ancients, and _Dryden_, among the
+moderns, were perhaps the most remarkable for the want of it. The latter
+from the haste in which he generally produced his compositions, seldom
+paid much attention to the "_limæ labor_," "the labour of correction,"
+and seldom therefore rejected the assistance of any idea that presented
+itself. _Ovid_, not content with catching the leading features of any
+scene or character, indulged himself in a thousand minutiæ of
+description, a thousand puerile prettinesses, which were in themselves
+uninteresting, and took off greatly from the effect of the whole; as the
+numberless suckers, and straggling branches of a fruit tree, if
+permitted to shoot out unrestrained, while they are themselves barren
+and useless, diminish considerably the vigour of the parent stock.
+_Ovid_ had more genius, but less judgement than _Virgil_; _Dryden_ more
+imagination, but less correctness than _Pope_; had they not been
+deficient in these points, the former would certainly have equalled, the
+latter infinitely outshone the merits of his countryman.--_Our Author_
+was undoubtedly possessed of that power which they wanted; and was
+cautious not to indulge too far the sallies of a lively imagination.
+Omitting therefore any mention of--sultry Sirius,--silvan
+shade,--sequestered glade,--verdant hills,--purling rills,--mossy
+mountains,--gurgling fountains,--&c. &c.--he simply tells us that it was
+"_All on a Summers Day_." For my own part, I confess, that I find myself
+rather flattered than disappointed; and consider the Poet as rather
+paying a compliment to the abilities of his readers, than baulking their
+expectations. It is certainly a great pleasure to see a picture well
+painted; but it is a much greater to paint it well oneself. This
+therefore I look upon as a stroke of excellent management in the Poet.
+Here every reader is at liberty to gratify his own taste; to design for
+himself just what sort of "_Summer's Day_" he likes best; to choose his
+own scenery; dispose his lights and shades as he pleases; to solace
+himself with a rivulet or a horse-pond,--a shower, or a sun-beam,--a
+grove, or a kitchen garden,--according to his fancy. How much more
+considerate this, than if the Poet had, from an affected accuracy of
+description, thrown us into an unmannerly perspiration by the heat of
+the atmosphere; forced us into a landscape of his own planning, with
+perhaps a paltry good-for-nothing zephyr or two, and a limited quantity
+of wood and water.--All this _Ovid_ would undoubtedly have done. Nay,
+to use the expression of a learned brother-commentator, "_quovis pignore
+decertem_" "I would lay any wager," that he would have gone so far as to
+tell us what the tarts were made of; and perhaps wandered into an
+episode on the art of preserving cherries. But _our Poet_, above such
+considerations, leaves every reader to choose his own ingredients, and
+sweeten them to his own liking; wisely foreseeing, no doubt, that the
+more palatable each had rendered them to his own taste, the more he
+would be affected at their approaching loss.
+
+  "All on a Summer's Day."
+
+I cannot leave this line without remarking, that one of the _Scribleri_,
+a descendant of the famous _Martinus_, has expressed his suspicions of
+the text being corrupted here, and proposes, instead of "_All on_"
+reading "_Alone_," alledging, in favour of this alteration, the effect
+of Solitude in raising the passions. But _Hiccius Doctius_, a High Dutch
+commentator, one nevertheless well versed in British literature, in a
+note of his usual length and learning, has confuted the arguments of
+_Scriblerus_. In support of the present reading, he quotes a passage
+from a poem written about the same period with our author's, by the
+celebrated _Johannes Pastor_[*], intituled "_An Elegiac Epistle to the
+Turnkey of Newgate_," wherein the gentleman declares, that rather indeed
+in compliance with an old custom, than to gratify any particular will of
+his own, he is going
+
+  --------"All hanged for to be
+  "Upon that fatal Tyburn tree."----
+
+    [Footnote *: More commonly known, I believe, by the appellation of
+    "_Jack Shepherd_."]
+
+Now as nothing throws greater light on an author, than the concurrence
+of a contemporary writer, I am inclined to be of _Hiccius's_ opinion,
+and to consider the "_All_" as an elegant expletive, or, as he more
+aptly phrases it "_elegans expletivum_." The passage therefore must
+stand thus,
+
+    "The Queen of Hearts
+    "She made some Tarts,
+  "All on a Summer's Day."
+
+And thus ends the first part, or _beginning_; which is simple and
+unembellished; opens the subject in a natural and easy manner; excites,
+but does not too far gratify our curiosity: for a reader of accurate
+observation may easily discover, that the _Hero_ of the Poem has not,
+as yet, made his appearance.
+
+
+I could not continue my examination at present through the whole of this
+Poem, without far exceeding the limits of a single paper. I have
+therefore divided it into two; but shall not delay the publication of
+the second to another week,--as that, besides breaking the connection of
+criticism, would materially injure the _unities_ of the Poem.
+
+
+
+
+  No. XII.
+
+  of the
+
+  MICROCOSM.
+
+  MONDAY, _February 12, 1787_.
+
+  --------Servetur ad imum,
+  Qualis ab incepto processerit, et sibi constet.
+
+      HORACE.
+
+  From his first Entrance to the closing Scene,
+  Let him one equal Character maintain.
+
+      FRANCIS.
+
+
+Having thus gone through the first part, or _beginning_ of the Poem,
+we may naturally enough proceed to the consideration of the second.
+
+The second part, or _middle_, is the proper place for bustle and
+business; for incident and adventure.
+
+    "The Knave of Hearts
+    "He stole those Tarts."
+
+Here attention is awakened; and our whole souls are intent upon the
+first appearance of the Hero. Some readers may perhaps be offended at
+his making his _entré_ in so disadvantageous a character as that of a
+_thief_. To this I plead precedent.
+
+The Hero of the Iliad, as I observed in a former paper, is made to
+lament very pathetically,--that "life is not like all other possessions,
+to be acquired by theft."--A reflection, in my opinion, evidently
+shewing, that, if he _did_ refrain from the practice of this ingenious
+art, it was not from want of an inclination that way. We may remember
+too, that in _Virgil's_ poem, almost the first light in which the _Pious
+Æneas_ appears to us, is a _deer-stealer_; nor is it much excuse for
+him, that the deer were wandering without keepers; for however he might,
+from this circumstance, have been unable to ascertain whose property
+they were; he might, I think, have been pretty well assured that they
+were not _his_.
+
+Having thus acquitted our Hero of misconduct, by the example of his
+betters, I proceed to what I think the Master-Stroke of the Poet.
+
+    "The Knave of Hearts
+    "He stole those Tarts,
+  "And----took them----quite away!!"
+
+Here, whoever has an ear for harmony, and a heart for feeling, must be
+touched! There is a desponding melancholy in the run of the last line!
+an air of tender regret in the addition of "_quite away!_" a something
+so expressive of irrecoverable loss! so forcibly intimating the "_Ah
+nunquam reditura!_" "They never can return!" in short, such an union of
+sound and sense, as we rarely, if ever meet with in any author, ancient
+or modern. Our feelings are all alive--but the Poet, wisely dreading
+that our sympathy with the injured Queen might alienate our affections
+from his Hero, contrives immediately to awaken our fears for him,
+by telling us, that
+
+    "The King of Hearts
+    "Call'd for those Tarts,"--
+
+We are all conscious of the fault of our Hero, and all tremble with him,
+for the punishment which the enraged Monarch may inflict;
+
+  "And beat the Knave--full sore!"
+
+The fatal blow is struck! We cannot but rejoice that guilt is justly
+punished, though we sympathize with the guilty object of punishment.
+Here _Scriblerus_, who, by the bye, is very fond of making unnecessary
+alterations, proposes reading "_Score_" instead of "_sore_," meaning
+thereby to particularize, that the beating bestowed by this Monarch,
+consisted of _twenty_ stripes. But this proceeds from his ignorance of
+the genius of our language, which does not admit of such an expression
+as "_full score_," but would require the insertion of the particle
+"_a_," which cannot be, on account of the metre. And this is another
+great artifice of the Poet: by leaving the quantity of beating
+indeterminate, he gives every reader the liberty to administer it, in
+exact proportion to the sum of indignation which he may have conceived
+against his Hero; that by thus amply satisfying their resentment, they
+may be the more easily reconciled to him afterwards.
+
+    "The King of Hearts
+    "Call'd for those Tarts,
+  "And beat the Knave full sore!"
+
+Here ends the second part, or _middle_ of the poem; in which we see the
+character, and exploits of the Hero, pourtrayed with the hand of a
+master.
+
+Nothing now remains to be examined, but the third part, or _End_. In the
+_End_, it is a rule pretty well established, that the Work should draw
+towards a conclusion, which our Author manages thus.
+
+    "The Knave of Hearts
+    "Brought back those Tarts."
+
+Here every thing is at length settled; the theft is compensated; the
+tarts restored to their right owner; and _Poetical Justice_, in every
+respect, strictly, and impartially administered.
+
+We may observe, that there is nothing in which our Poet has better
+succeeded, than in keeping up an unremitted attention in his readers to
+the main instruments, the machinery of his poem, viz. The _Tarts_;
+insomuch, that the aforementioned _Scriblerus_ has sagely observed, that
+"he can't tell, but he doesn't know, but the tarts may be reckoned the
+heroes of the Poem." _Scriblerus_, though a man of learning, and
+frequently right in his opinion, has here certainly hazarded a rash
+conjecture. His arguments are overthrown entirely by his great opponent,
+_Hiccius_, who concludes, by triumphantly asking, "Had the tarts been
+eaten, how could the Poet have compensated for the loss of his Heroes?"
+
+We are now come to the _denouèment_, the setting all to rights: and our
+Poet, in the management of his _moral_, is certainly superior to his
+great ancient predecessors. The moral of their fables, if any they have,
+is so interwoven with the main body of their work, that in endeavouring
+to unravel it, we should tear the whole. _Our Author_ has very properly
+preserved his whole and entire for the _end_ of his poem, where he
+completes his _main design_, the _Reformation_ of his Hero, thus,
+
+  "And vow'd he'd steal no more."
+
+Having in the course of his work, shewn the bad effects arising from
+theft, he evidently means this last moral reflection, to operate with
+his readers as a gentle and polite dissuasive from stealing.
+
+    "The Knave of Hearts
+    "Brought back those Tarts,
+  "And vow'd he'd steal no more!"
+
+Thus have I industriously gone through the several parts of this
+wonderful Work; and clearly proved it, in every one of these parts, and
+in all of them together, to be a _due and proper Epic Poem_; and to have
+as good a right to that title, from its adherence to prescribed rules,
+as any of the celebrated master-pieces of antiquity. And here I cannot
+help again lamenting, that, by not knowing the name of the Author, I am
+unable to twine our laurels together; and to transmit to posterity the
+mingled praises of Genius, and Judgment; of the Poet, and his
+commentator.
+
+
+Having some space left in this paper, I will now, with the permission of
+my readers of the _great world_, address myself more particularly to my
+fellow-citizens.
+
+To them, the essay which I have here presented, will, I flatter myself,
+be peculiarly serviceable at this time; and I would earnestly recommend
+an attentive perusal of it, to all of them whose muses are engaged in
+compositions of the Epic kind.--I am very much afraid that I may run
+into the error, which I have myself pointed out, of becoming too
+_local_,--but where it is evidently intended for the good of my fellow
+citizens, it may, I hope, be now and then pardonable. At the present
+juncture, as many have applied for my assistance, I cannot find in my
+heart to refuse it them. Were I to attempt fully explaining, why, at the
+_present juncture_, I fear it would be vain. Would it not seem
+incredible to the Ladies, were I to tell them, that the period
+approaches, when upwards of a hundred _Epic Poems_ will be exposed to
+public view, most of them nearly of equal length, and many of them
+nearly of equal merit, with the one which I have here taken into
+consideration; illustrated moreover with elegant etchings, designed
+either as _hieroglyphical_ explanations of the subject, or as _practical
+puns_ on the name of the author?--And yet in truth so it is,--and on
+this subject I wish to give a word of advice to my countrymen.
+
+Many of them have applied to me by letter, to assist them with designs
+for prefixing to their poems; and this I should very willingly have
+done, had those gentlemen been kind enough to subscribe their real names
+to their requests: whereas, all that I have received have been signed,
+_Tom Long_, _Philosophus_, _Philalethes_, and such like. I have
+therefore been prevented from affording them the assistance I wished;
+and cannot help wondering, that the gentlemen did not consider, that it
+was impossible for me to provide _typical references_ for feigned names;
+as, for ought I know, the person who signs himself _Tom Long_ may not be
+four feet high; _Philosophus_ may be possessed of a considerable share
+of folly; and _Philalethes_ may be as arrant a liar as any in the
+kingdom.
+
+It may not however be useless to offer some general reflections for all
+who may require them. It is not improbable, that, as the subject of
+their poems is the _Restoration_, many of my fellow-citizens may choose
+to adorn their _title-pages_ with the representation of His Majesty,
+Charles the Second, escaping the vigilance of his pursuers in the _Royal
+Oak_. There are some particularities generally observable in this
+picture, which I shall point out to them, lest they fall into similar
+errors. Though I am as far as any other Briton can be, from wishing to
+"curtail" his Majesty's Wig "of its fair proportion;" yet I have
+sometimes been apt to think it rather improper, to make the Wig, as is
+usually done, of larger dimensions than the tree in which it and his
+Majesty are concealed. It is a rule in Logic, and I believe may hold
+good in most other Sciences, that "_omne majus continet in se minus_,"
+that "every thing larger can hold any thing that is less;" but I own,
+I never heard the contrary advanced or defended with any plausible
+arguments, viz. "that every little thing can hold one larger."
+I therefore humbly propose, that there should be at least an edge of
+foliage round the outskirts of the said wig; and that its curls should
+not exceed in number the leaves of the tree. There is also another
+practice almost equally prevalent, of which I am sceptic enough to doubt
+the propriety. I own, I cannot think it by any means conducive to the
+more effectual concealment of his Majesty, that there should be three
+Regal Crowns stuck on three different branches of the tree. Horace says
+indeed,
+
+  --------Pictoribus atque Poetis,
+  Quidlibet audendi semper fuit æqua potestas.
+
+  Painters and Poets our indulgence claim,
+  _Their daring equal, and their art the same._--FRAN.
+
+And this may be reckoned a very allowable _poetical licence_; inasmuch
+as it lets the spectator into the secret, _who is in the tree_. But it
+is apt to make him at the same time throw the accusation of negligence
+and want of penetration on the three dragoons, who are usually depicted
+on the foreground, cantering along very composedly, with serene
+countenances, erect persons, and drawn swords, very little longer than
+themselves.
+
+
+       *       *       *       *       *
+           *       *       *       *
+
+PUBLICATIONS OF THE AUGUSTAN REPRINT SOCIETY
+
+  [Transcriber's Note:
+  Many of the listed titles are or will be available from Project
+  Gutenberg. Where possible, the e-text number is given in brackets.]
+
+
+*First Year (1946-1947)*
+
+Numbers 1-6 out of print.
+
+   [Titles:
+   1. Richard Blackmore's _Essay upon Wit_ (1716), and Addison's
+      _Freeholder_ No. 45 (1716). [13484]
+   2. Anon., _Essay on Wit_ (1748), together with Characters by
+      Flecknoe, and Joseph Warton's _Adventurer_ Nos. 127 and 133.
+      [14973]
+   3. Anon., _Letter to A. H. Esq.; concerning the Stage_ (1698), and
+      Richard Willis' _Occasional Paper_ No. IX (1698). [14047]
+   4. Samuel Cobb's _Of Poetry_ and _Discourse on Criticism_ (1707).
+      [14528]
+   5. Samuel Wesley's _Epistle to a Friend Concerning Poetry_ (1700)
+      and _Essay on Heroic Poetry_ (1693). [16506]
+   6. Anon., _Representation of the Impiety and Immorality of the Stage_
+      (1704) and anon., _Some Thoughts Concerning the Stage_ (1704).
+      [15656] ]
+
+
+*Second Year (1947-1948)*
+
+ 7. John Gay's _The Present State of Wit_ (1711); and a section on Wit
+    from _The English Theophrastus_ (1702). [#14800]
+
+ 8. Rapin's _De Carmine Pastorali_, translated by Creech (1684).
+    [#14495]
+
+ 9. T. Hanmer's (?) _Some Remarks on the Tragedy of Hamlet_ (1736).
+    [#14899]
+
+10. Corbyn Morris' _Essay towards Fixing the True Standards of Wit,
+    etc._ (1744). [#16233]
+
+11. Thomas Purney's _Discourse on the Pastoral_ (1717). [#15313]
+
+12. Essays on the Stage, selected, with an Introduction by Joseph
+    Wood Krutch. [#16335]
+
+
+*Third Year (1948-1949)*
+
+13. Sir John Falstaff (pseud.), _The Theatre_ (1720). [#15999]
+
+14. Edward Moore's _The Gamester_ (1753). [#16267]
+
+15. John Oldmixon's _Reflections on Dr. Swift's Letter to Harley_
+    (1712); and Arthur Mainwaring's _The British Academy_ (1712).
+    [In preparation]
+
+16. Nevil Payne's _Fatal Jealousy_ (1673). [#16916]
+
+17. Nicholas Rowe's _Some Account of the Life of Mr. William
+    Shakespeare_ (1709). [#16275]
+
+18. "Of Genius," in _The Occasional Paper_, Vol. III, No. 10 (1719);
+    and Aaron Hill's Preface to _The Creation_ (1720). [#15870]
+
+
+*Fourth Year (1949-1950)*
+
+19. Susanna Centlivre's _The Busie Body_ (1709). [#16740]
+
+20. Lewis Theobold's _Preface to The Works of Shakespeare_ (1734).
+    [#16346]
+
+21. _Critical Remarks on Sir Charles Grandison, Clarissa, and Pamela_
+    (1754).
+
+22. Samuel Johnson's _The Vanity of Human Wishes_ (1749) and Two
+    _Rambler_ papers (1750). [#13350]
+
+23. John Dryden's _His Majesties Declaration Defended_ (1681). [#15074]
+
+24. Pierre Nicole's _An Essay on True and Apparent Beauty in Which
+    from Settled Principles is Rendered the Grounds for Choosing and
+    Rejecting Epigrams_, translated by J. V. Cunningham.
+
+
+*Fifth Year (1950-1951)*
+
+25. Thomas Baker's _The Fine Lady's Airs_ (1709). [#14467]
+
+26. Charles Macklin's _The Man of the World_ (1792). [#14463]
+
+27. Out of print.
+
+    [Frances Reynolds' _An Enquiry Concerning the Principles of Taste,
+    and of the Origin of Our Ideas of Beauty, etc._ (1785). [#13485] ]
+
+28. John Evelyn's _An Apologie for the Royal Party_ (1659); and
+    _A Panegyric to Charles the Second_ (1661). [#17833]
+
+29. Daniel Defoe's _A Vindication of the Press_ (1718). [#14084]
+
+30. Essays on Taste from John Gilbert Cooper's _Letters Concerning
+    Taste_, 3rd edition (1757), & John Armstrong's _Miscellanies_
+    (1770). [#13464]
+
+
+*Sixth Year (1951-1952)*
+
+31. Thomas Gray's _An Elegy Wrote in a Country Church Yard_ (1751);
+    and _The Eton College Manuscript_. [#15409]
+
+32. Prefaces to Fiction; Georges de Scudéry's Preface to _Ibrahim_
+    (1674), etc. [#14525]
+
+33. Henry Gally's _A Critical Essay_ on Characteristic-Writings (1725).
+    [#16299]
+
+34. Thomas Tyers' A Biographical Sketch of Dr. Samuel Johnson (1785).
+
+35. James Roswell, Andrew Erskine, and George Dempster. _Critical
+    Strictures on the New Tragedy of Elvira, Written by Mr. David
+    Malloch_ (1763). [#15857]
+
+36. Joseph Harris's _The City Bride_ (1696). [In preparation]
+
+
+*Seventh Year (1952-1953)*
+
+37. Thomas Morrison's _A Pindarick Ode on Painting_ (1767). [In
+    preparation]
+
+38. John Phillips' _A Satyr Against Hypocrites_ (1655).
+
+39. Thomas Warton's _A History of English Poetry_.
+
+40. Edward Bysshe's _The Art of English Poetry_ (1708).
+
+41. Bernard Mandeville's "A Letter to Dion" (1732).
+
+42. Prefaces to Four Seventeenth-Century Romances.
+
+
+*Eighth Year (1953-1954)*
+
+43. John Baillie's _An Essay on the Sublime_ (1747).
+
+44. Mathias Casimire Sarbiewski's _The Odes of Casimire_, Translated
+    by G. Hils (1646).
+
+45. John Robert Scott's _Dissertation on the Progress of the Fine Arts._
+
+46. Selections from Seventeenth Century Songbooks.
+
+47. Contemporaries of the _Tatler_ and _Spectator_.
+
+48. Samuel Richardson's Introduction to _Pamela_.
+
+
+*Ninth Year (1954-1955)*
+
+49. Two St. Cecilia's Day Sermons (1696-1697).
+
+50. Hervey Aston's _A Sermon Before the Sons of the Clergy_ (1745).
+
+51. Lewis Maidwell's _An Essay upon the Necessity and Excellency of
+    Education_ (1705).
+
+52. Pappity Stampoy's _A Collection of Scotch Proverbs_ (1663). [#7018]
+
+53. Urian Oakes' _The Soveriegn Efficacy of Divine Providence_ (1682).
+
+54. Mary Davys' _Familiar Letters Betwixt a Gentleman and a Lady_
+    (1725).
+
+
+*Tenth Year (1955-1956)*
+
+55. Samuel Say's _An Essay on the Harmony, Variety, and Power of
+    Numbers_ (1745).
+
+56. _Theologia Ruris, sive Schola & Scala Naturae_ (1686).
+
+57. Henry Fielding's _Shamela_ (1741).
+
+58. Eighteenth Century Book Illustrations.
+
+59. Samuel Johnson's _Notes to Shakespeare_. Vol. I, Comedies, Part I.
+    [#7780]
+
+60. Samuel Johnson's _Notes to Shakespeare_. Vol. I, Comedies, Part II.
+    [#7780]
+
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+Errors corrected by transcriber:
+
+  the _Spectator's_ critiques of Shakespeare
+    [not underlined in original]
+  Artfulness and Embellishments of the _Romans_
+    [text reads "Embel/llishments" at line break]
+  the first Person that ever found out the Philosopher's Stone
+    [text reads "that that"]
+  But if, continues my Bookseller
+    [text reads "conti/tinues" at line break]
+  _denouèment_
+    _accent unchanged (grave on second "e")_
+  every thing larger can hold any thing that is less
+    [text reads "every think"]
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Parodies of Ballad Criticism
+(1711-1787), by William Wagstaffe and Gregory Griffin AKA George Canning
+
+*** END OF THIS PROJECT GUTENBERG EBOOK PARODIES OF BALLAD CRITICISM ***
+
+***** This file should be named 22081-8.txt or 22081-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/2/0/8/22081/
+
+Produced by Louise Hope, David Starner and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

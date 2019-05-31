@@ -1,0 +1,3768 @@
+﻿The Project Gutenberg EBook of Democritus Platonissans, by Henry More
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Democritus Platonissans
+
+Author: Henry More
+
+Editor: P. G. Stanwood
+
+Release Date: October 25, 2009 [EBook #30327]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK DEMOCRITUS PLATONISSANS ***
+
+
+
+
+Produced by Louise Hope, Chris Curnow, Joseph Cooper and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+
+[This e-text includes characters that require UTF-8 (Unicode) file
+encoding, primarily Greek and a few words of Hebrew:
+
+  Ἀγαθὸς ἦν τὸ πᾶν τόδε ὁ συνιστὰς
+  ... which is שׁמים
+
+If any of these characters do not display properly--in particular,
+if the diacritic does not appear directly above the letter--or if the
+apostrophes and quotation marks in this paragraph appear as garbage,
+make sure your text reader’s “character set” or “file encoding” is set
+to Unicode (UTF-8). You may also need to change the default font. As a
+last resort, use the Latin-1 version of the file instead.
+
+Roman (emphatic) type within italic body text is shown in =marks=.
+
+Unless otherwise noted, spelling, punctuation and capitalization in the
+primary text are unchanged. The distinction between u (vowel) and v
+(consonant) is as in the original. Typographical errors are listed at
+the end of the e-text.
+
+The General Interpretation (“Interp. Gen.”) referenced in the
+Particular Interpretation is not part of this text.]
+
+
+
+
+         The Augustan Reprint Society
+
+
+                   HENRY MORE
+
+                  _Democritus
+                 Platonissans_
+
+                     (1646)
+
+
+                _Introduction by_
+
+                 P. G. STANWOOD
+
+
+             Publication Number 130
+     WILLIAM ANDREWS CLARK MEMORIAL LIBRARY
+     University of California, Los Angeles
+                      1968
+
+
+
+
+GENERAL EDITORS
+
+  George Robert Guffey, _University of California, Los Angeles_
+  Maximillian E. Novak, _University of California, Los Angeles_
+  Robert Vosper, _William Andrews Clark Memorial Library_
+
+
+ADVISORY EDITORS
+
+  Richard C. Boys, _University of Michigan_
+  James L. Clifford, _Columbia University_
+  Ralph Cohen, _University of Virginia_
+  Vinton A. Dearing, _University of California, Los Angeles_
+  Arthur Friedman, _University of Chicago_
+  Louis A. Landa, _Princeton University_
+  Earl Miner, _University of California, Los Angeles_
+  Samuel H. Monk, _University of Minnesota_
+  Everett T. Moore, _University of California, Los Angeles_
+  Lawrence Clark Powell, _William Andrews Clark Memorial Library_
+  James Sutherland, _University College, London_
+  H. T. Swedenberg, Jr., _University of California, Los Angeles_
+
+CORRESPONDING SECRETARY
+
+  Edna C. Davis, _William Andrews Clark Memorial Library_
+
+
+
+
+INTRODUCTION
+
+
+Henry More (1614-1687), the most interesting member of that group
+traditionally known as the Cambridge Platonists, lived conscientiously
+and well. Having early set out on one course, he never thought to change
+it; he devoted his whole life to the joy of celebrating, again and
+again, “a firm and unshaken Belief of the Existence of GOD . . . , a God
+infinitely Good, as well as infinitely Great . . . .”[1] Such faith was
+for More the starting point of his rational understanding: “with the
+most fervent Prayers” he beseeched God, in his autobiographical
+“Praefatio Generalissima,” “to set me free from the dark Chains, and
+this so sordid Captivity of my own Will.” More offered to faith all
+which his reason could know, and so it happened that he “was got into a
+most Joyous and Lucid State of Mind,” something quite ineffable; to
+preserve these “Sensations and Experiences of my own Soul,” he wrote
+“a pretty full Poem call’d _Psychozoia_” (or _A Christiano-Platonicall
+display of Life_), an exercise begun about 1640 and designed for no
+audience but himself. There were times, More continued in his
+autobiographical remarks, when he thought of destroying _Psychozoia_
+because its style is rough and its language filled with archaisms. His
+principal purpose in that poem was to demonstrate in detail the
+spiritual foundation of all existence; Psyche, his heroine, is the
+daughter of the Absolute, the general Soul who holds together the
+metaphysical universe, against whom he sees reflected his own soul’s
+mystical progress. More must, nevertheless, have been pleased with his
+labor, for he next wrote _Psychathanasia Platonica: or Platonicall Poem
+of the Immortality of Souls, especially Mans Soul_, in which he attempts
+to demonstrate the immortality of the soul as a corrective to his age.
+Then, he joined to that _Antipsychopannychia, or A Confutation of the
+sleep of the Soul after death_, and _Antimonopsychia, or That all Souls
+are not one_; at the urging of friends, he published the poems in
+1642--his first literary work--as _Psychodia Platonica_.
+
+In his argument for the soul’s immortality toward the end of
+_Psychathanasia_ (III.4), More had urged that there was no need to plead
+for any extension of the infinite (“a contradiction,” and also, it would
+seem, a fruitless inquiry); but he soon changed his mind. The preface to
+_Democritus Platonissans_ reproduces those stanzas of the earlier poem
+which deny infinity (34 to the end of the canto) with a new (formerly
+concluding) stanza 39 and three further stanzas “for a more easie and
+naturall leading to the present Canto,” _i.e._, _Democritus
+Platonissans_, which More clearly intended to be an addition, a fifth
+canto to _Psychathanasia_ (Book III); and although _Democritus
+Platonissans_ first appeared separately, More appended it to
+_Psychathanasia_ in the second edition of his collected poems, this time
+with English titles, the whole being called _A Platonick Song of the
+Soul_ (1647).
+
+There is little relationship between _Democritus Platonissans_ and the
+rest of More’s poetry; even the main work to which it supposedly forms a
+final and conclusive canto provides only the slightest excuse for such a
+continuation. Certainly, in _Psychathanasia_, More is excited by the new
+astronomy; he praises the Copernican system throughout Book III, giving
+an account of it according to the lessons of his study of Galileo’s
+_Dialogo_, which he may have been reading even as he wrote.[2] Indeed,
+More tries to harmonize the two poems--his habit was always to look for
+unity. But even though _Democritus Platonissans_ explores an
+astronomical subject, just as the third part of _Psychathanasia_ also
+does, its attitude and theme are quite different; for More had meanwhile
+been reading Descartes.
+
+More’s theory of the infinity of worlds and God’s plenitude evidently
+owed a great deal to Descartes’ recent example; More responds
+exuberantly to him, especially to his _Principes de la Philosophie_
+(1644); for in him he fancied having found a true ally. Steeped in
+Platonic and neo-Platonic thought, and determined to reconcile Spirit
+with the rational mind of man, More thought he had discovered in
+Cartesian ‘intuition’ what was not necessarily there. Descartes had
+enjoyed an ecstatic illumination, and so had Plotinus; but this was not
+enough, as More may have wanted to imagine, to make Descartes a
+neo-Platonist.[3] But the Platonic element implicit in Descartes, his
+theory of innate ideas, and his proof of the existence of God from the
+idea of God, all helped to make More so receptive to him. Nevertheless,
+More did not really need Descartes, nor, as he himself was later to
+discover, had he even understood him properly, for More had looked at
+him only to find his own reflection.
+
+But there was nothing really new about the idea of infinite worlds which
+More described in _Democritus Platonissans_; it surely was not a
+conception unique to Descartes. The theory was a common one in Greek and
+Renaissance thought. Democritus and the Epicureans, of course, advocated
+the theme of infinite worlds in an infinite universe which More
+accepted; but at the same time, he rejected their view of a mechanistic
+and fortuitous creation. Although Plato specifically rejects the idea of
+infinite worlds (in _Timaeus_), More imagines, as the title of his poem
+implies, a Platonic universe, by which he really means neo-Platonic,
+combined with a Democritean plurality of worlds. More filled space, not
+with the infinite void of the Atomists, but with the Divine, ever active
+immanence. More, in fact, in an early philosophic work, _An Antidote
+against Atheisme_ (1652), and again in _Divine Dialogues_ (1668),
+refutes Lucretius by asserting the usefulness of all created things in
+God’s Providence and the essential design in Nature. His reference in
+_Democritus Platonissans_ (st. 20) is typical: “though I detest the
+sect/ of Epicurus for their manners vile,/ Yet what is true I may not
+well reject.” In bringing together Democritus’ theories and neo-Platonic
+thought, More obviously has attempted reconciliation of two exclusive
+world views, but with dubious success.
+
+While More stands firmly before a familiar tradition, his belief in an
+infinity of worlds evidently has little immediate connection with any
+predecessors. Even Bruno’s work, or Thomas Digges,’ which could have
+occupied an important place, seems to have had little, if any, direct
+influence on More. It was Descartes who stimulated his thought at the
+most receptive moment: in 1642 to have denied a theory which in 1646 he
+proclaimed with such force evidently argues in favor of a most powerful
+attachment. More responded enthusiastically to what he deemed a
+congenial metaphysical system; as a champion of Descartes, he was first
+to make him known in England and first in England to praise the infinity
+of worlds, yet Descartes’ system could give to him little real solace.
+More embraces God’s plenitude and infinity of worlds, he rejoices in the
+variety and grandeur of the universe, and he worships it as he might God
+Himself; but Descartes was fundamentally uninterested in such
+enthusiasms and found them even repellant--as well as unnecessary--to
+his thought. For More the doctrine of infinity was a proper corollary of
+Copernican astronomy and neo-Platonism (as well as Cabbalistic
+mysticism) and therefore a necessity to his whole elaborate and eclectic
+view of the world.
+
+In introducing Cartesian thought into England, More emphasized
+particular physical doctrines mainly described in _The Principles of
+Philosophy_; he shows little interest in the _Discourse on the Method of
+Rightly Conducting the Reason_ (1637), or in the _Meditations_ (1641),
+both of which were also available to him when he wrote _Democritus
+Platonissans_. In the preface to his poem, he refers to Descartes whom
+he seems to have read hopefully: surely “infinitude” is the same as the
+Cartesian “indefinite.” “_For what is his =mundus indefinitè extensus=,
+but =extensus infinitè=? Else it sounds onely =infinitus quoad nos=, but
+=simpliciter finitus=_,” for there can be no space “_unstuffd with
+Atoms_.” More thinks that Descartes seems “to mince it,” that difficulty
+lies in the interpretation of a word, not in an essential idea. He is
+referring to Part II, xxi, of _The Principles_, but he quotes, with
+tacit approval, from Part III, i and ii, in the motto to the poem. More
+undoubtedly knows the specific discussion of ‘infinity’ in Part I,
+xxvi-xxviii, where he must first have felt uneasy delight on reading
+“that it is not needful to enter into disputes regarding the infinite,
+but merely to hold all that in which we can find no limits as
+indefinite, such as the extension of the world . . . .”[4] More asked
+Descartes to clarify his language in their correspondence of 1648-49,
+the last year of Descartes’ life.
+
+_Democritus Platonissans_ is More’s earliest statement about absolute
+space and time; by introducing these themes into English philosophy, he
+contributed significantly to the intellectual history of the seventeenth
+century. Newton, indeed, was able to make use of More’s forging efforts;
+but of relative time or space and their measurement, which so much
+concerned Newton, More had little to say. He was preoccupied with the
+development of a theory which would show that immaterial substance, with
+space and time as attributes, is as real and as absolute as the
+Cartesian geometrical and spatial account of matter which he felt was
+true but much in need of amplification.
+
+In his first letter to Descartes, of 11 December 1648, More wrote:
+“. . . this indefinite extension is either _simpliciter_ infinite, or
+only in respect to us. If you understand extension to be infinite
+_simpliciter_, why do you obscure your thought by too low and too modest
+words? If it is infinite only in respect to us, extension, in reality,
+will be finite; for our mind is the measure neither of the things nor of
+truth. . . .” Unsatisfied by his first answer from Descartes (5 February
+1649), he urges his point again (5 March): if extension can describe
+matter, the same quality must apply to the immaterial and yet be only
+one of many attributes of Spirit. In his second letter to More
+(15 April), Descartes answers firmly: “It is repugnant to my concept to
+attribute any limit to the world, and I have no other measure than my
+perception for what I have to assert or to deny. I say, therefore, that
+the world is indeterminate or indefinite, because I do not recognize in
+it any limits. But I dare not call it infinite as I perceive that God is
+greater than the world, not in respect to His extension, because, as I
+have already said, I do not acknowledge in God any proper [extension],
+but in respect to His perfection . . . . It is repugnant to my mind
+. . . it implies a contradiction, that the world be finite or limited,
+because I cannot but conceive a space outside the boundaries of the
+world wherever I presuppose them.” More plainly fails to understand the
+basic dualism inherent in Cartesian philosophy and to sense the
+irrelevance of his questions. While Descartes is really disposing of the
+spiritual world in order to get on with his analysis of finite
+experience, More is keenly attempting to reconcile neo-Platonism with
+the lively claims of matter. His effort can be read as the brave attempt
+to harmonize an older mode of thought with the urgency of the ‘new
+philosophy’ which called the rest in doubt. More saw this conflict and
+the implications of it with a kind of clarity that other men of his age
+hardly possessed. But the way of Descartes, which at first seemed to him
+so promising, certainly did not lead to the kind of harmony which he
+sought.
+
+More’s original enthusiasm for Descartes declined as he understood
+better that the Cartesian world in practice excluded spirits and souls.
+Because Descartes could find no necessary place even for God Himself,
+More styled him, in _Enchiridion Metaphysicum_ (1671), the “Prince of
+the Nullibists”; these men “readily acknowledge there are such things as
+_Incorporeal Beings_ or _Spirits_, yet do very peremptorily contend,
+that they are _no where_ in the whole World [;] . . . because they so
+boldly affirm that a Spirit is _Nullibi_, that is to say, _no where_,”
+they deserve to be called _Nullibists_.[5] In contrast to these false
+teachers, More describes absolute space by listing twenty epithets which
+can be applied either to God or to pure extension, such as “Unum,
+Simplex, Immobile . . . Incomprehensible       ”[6] There is, however,
+a great difficulty here; for while Space and Spirit are eternal and
+uncreated, they yet contain material substance which has been created by
+God. If the material world possesses infinite extension, as More
+generally believes, that would preclude any need of its having a
+creator. In order to avoid this dilemma, which _Democritus Platonissans_
+ignores, More must at last separate matter and space, seeing the latter
+as an attribute of God through which He is able to contain a finite
+world limited in space as well as in time. In writing that “this
+infinite space because of its infinity is distinct from matter,”[7] More
+reveals the direction of his conclusion; the dichotomy it embodies is
+Cartesianism in reverse.
+
+While More always labored to describe the ineffable, his earliest work,
+the poetry, may have succeeded in this wish most of all. Although he
+felt that his poetry was aiming toward truths which his “_later and
+better concocted Prose_”[8] reached, the effort cost him the
+suggestiveness of figurative speech. In urging himself on toward an ever
+more consistent statement of belief, he lost much of his beginning
+exuberance (best expressed in the brief “Philosopher’s Devotion”) and
+the joy of intellectual discovery. In the search “_to find out Words
+which will prove faithful witnesses of the peculiarities of my
+Thoughts_,” he staggers under the unsupportable burden of too many
+words. In trying so desperately to clarify his thought, he rejected
+poetic discourse as “slight”; only a language free of metaphor and
+symbol could, he supposed, lead toward correctness. Indeed, More soon
+renounced poetry; he apparently wrote no more after collecting it in
+_Philosophical Poems_ (1647), when he gave up poetry for “more seeming
+Substantial performances in solid _Prose_.”[9] “Cupids Conflict,” which
+is “annexed” to _Democritus Platonissans_, is an interesting revelation
+of the failure of poetry, as More felt it: he justifies his “rude rugged
+uncouth style” by suggesting that sweet verses avoid telling important
+truths; harshness and obscurity may at least remind one that there is a
+significance beyond mere words. His lament is characteristic: “How ill
+alas! with wisdome it accords/ To sell my living sense for liveless
+words.”
+
+In spite of these downcast complaints, More was quite capable of lively
+and meaningful poetic ideas. One is the striking image of the cone which
+occurs in _Democritus Platonissans_ (especially in stanzas 7-8, 66-67,
+and 88) and becomes the most essential symbol to More’s expression
+of infinitude and extension. The figure first appears in
+_Antipsychopannychia_ (II.9) where his purpose is to reconcile the world
+Soul with Christian eschatology. In _Democritus Platonissans_, the cone
+enables More to adapt the familiar Hermetic paradox:
+
+    A Circle whose circumference no where
+    Is circumscrib’d, whose Centre’s each where set,
+    But the low Cusp’s a figure circular,
+  Whose compasse is ybound, but centre’s every where. (st. 8)
+
+Every point on the circumference, or base of the cone, relates to the
+single point at the top. The world, More wants to say, has no limits, no
+center, yet there are bounds in its not having any. More recognizes the
+contradiction when he fancies “some strong arm’d Archer” at the wide
+world’s edge (st. 37). Where shall he send his shafts? Into “mere
+vacuity”? But More hardly seems aware of the inappropriateness of the
+cone: he uses a geometrical figure to locate space, time, and numberless
+worlds within the universal sight of God, but matter is infinite,
+“distinct/ And yet proceeding from the Deitie” (st. 68). Obviously, the
+archer must forever be sending his arrows through an infinitely
+expanding surface. Nevertheless, the cone has great value as a metaphor,
+as a richly suggestive and fascinating conception. More, however, does
+not want to speak metaphorically; he is attempting to disclose truths,
+literal and plain, where pretty words and metaphors have no place. Even
+as he is writing his most effective poetry, we are aware that More is
+denying his poetic office; for he is pleading a reasoned case where the
+words crack and strain, where poetic meaning gathers, only to be denied.
+
+But these objections momentarily disappear when More forgets himself
+enough to let us feel his imagination and does not worry that we might
+miss the proofs of his philosophy. _Democritus Platonissans_ concludes
+with an apocalyptic vision wherein the poet imagines the reconciliation
+of infinite worlds and time within God’s immensity. He is also
+attempting to harmonize _Psychathanasia_, where he rejected infinitude,
+with its sequel, _Democritus Platonissans_, where he has everywhere been
+declaring it; thus we should think of endless worlds as we should think
+of Nature and the Phoenix, dying yet ever regenerative, sustained by a
+“centrall power/ Of hid spermatick life” which sucks “sweet heavenly
+juice” from above (st. 101). More closes his poem on a vision of harmony
+and ceaseless energy, a most fit ending for one who dared to believe
+that the new philosophy sustained the old, that all coherence had not
+gone out of the world, but was always there, only waiting to be
+discovered afresh in this latter age.
+
+The University of British Columbia
+
+
+
+
+NOTES TO THE INTRODUCTION
+
+[Footnote 1: The quotations from More’s Latin autobiography occur in the
+_Opera Omnia_ (London, 1675-79), portions of which Richard Ward
+translated in _The Life of . . . Henry More_ (London, 1710). Cf. the
+modern edition of this work, ed. M. F. Howard (London, 1911), pp. 61,
+67-68, the text followed here. There is a recent reprint of the _Opera
+Omnia_ in 3 volumes (Hildesheim, 1966) with an introduction by Serge
+Hutin. The “Praefatio Generalissima” begins vol. II. 1. One passage in
+it which Ward did not translate describes the genesis of _Democritus
+Platonissans_. More writes that after finishing _Psychathanasia_, he
+felt a change of heart: “Postea vero mutata sententia furore nescio quo
+Poetico incitatus supra dictum Poema scripsi, ea potissimum innixus
+ratione quod liquido constaret extensionem spacii dari infinitam, nec
+majores absurditates pluresve contingere posse in Materia infinita,
+infinitaque; Mundi duratione, quam in infinita Extensione spacii”
+(p. ix).]
+
+[Footnote 2: Cf. Lee Haring’s unpub. diss., “Henry More’s
+_Psychathanasia_ and _Democritus Platonissans_: A Critical Edition,”
+(Columbia Univ., 1961), pp. 33-57.]
+
+[Footnote 3: Marjorie Hope Nicolson’s various articles and books which
+in part deal with More are important to the discussion that follows, and
+especially “The Early Stage of Cartesianism in England,” SP, XXVI
+(1929), 356-379; _Mountain Gloom and Mountain Glory_ (Ithaca, 1959), pp.
+113-143, and _The Breaking of the Circle_ (New York, 1960), pp.
+158-165.]
+
+[Footnote 4: Cf. _The Meditations and Selections from the Principles of
+René Descartes_, trans. John Veitch (Chicago, 1908), p. 143. The
+quotations from the letters which follow occur in Alexandre Koyré’s very
+helpful book, _From the Closed World to the Infinite Universe_
+(Baltimore, 1957), pp. 114, 122-123, but the complete and original texts
+can be consulted in Descartes, _Correspondance avec Arnaud et Morus_,
+ed. G. Lewis (Paris, 1953).]
+
+[Footnote 5: This passage occurs at the beginning of “The Easie, True,
+and Genuine Notion, And consistent Explication Of the Nature of a
+Spirit,” a free translation of _Enchiridion Metaphysicum_, I. 27-28, by
+John Collins which he included in Joseph Glanvil’s _Saducismus
+Triumphatus_ (London, 1681). I quote from the text as given in
+_Philosophical Writings of Henry More_, ed. F. I. MacKinnon (New York,
+1925), p. 183.]
+
+[Footnote 6: Cf. _Enchiridion Metaphysicum_, VIII. 8, trans. Mary Whiton
+Calkins and included in John Tull Baker, _An Historical and Critical
+Examination of English Space and Time Theories_ . . . (Bronxville, N.Y.,
+1930), p. 12. For the original, cf. _Opera Omnia_, II. 1, p. 167.]
+
+[Footnote 7: “_Infinitum_ igitur hoc _Extensum_ à Materia distinctum,”
+_Enchiridion Metaphysicum_, VIII. 9, in _Opera Omnia, loc. cit._ Quoted
+by MacKinnon, p. 262.]
+
+[Footnote 8: This and the following reference appear in _An Explanation
+of the grand Mystery of Godliness_ (London, 1660), “To the Reader,” pp.
+vi and v.]
+
+[Footnote 9: _Ibid._, II. xi. 5 (p. 52).]
+
+
+
+
+BIBLIOGRAPHICAL NOTE
+
+
+The text of this edition is reproduced from a copy in the Henry E.
+Huntington Library.
+
+
+
+
+            Democritus Platonissans,
+
+                      Or,
+
+                   _AN ESSAY_
+
+                    Upon The
+
+               INFINITY OF WORLDS
+
+                     Out Of
+
+             PLATONICK PRINCIPLES.
+
+              Hereunto is annexed
+
+                CUPIDS CONFLICT
+
+                 together with
+
+           THE PHILOSOPHERS DEVOTION:
+
+        And a Particular Interpretation
+  appertaining to the three last books of the
+              _Song of the Soul_.
+
+
+   By _H. More_ Master of Arts, and Fellow of
+         Christs Colledge in Cambridge.
+
+
+  Ἀγαθὸς ἦν τὸ πᾶν τόδε ὁ συνιστὰς, ἀγαθῷ δὲ οὐδεὶς περὶ οὐδενὸς
+    οὐδέποτε ἐγγίνεται φθόνος. Τούτου δ’ ἐκτὸς ὢν πάντα ὁτι μάλιστα
+    ἐβουλήθη γενέσθαι παραπλήσια αὑτῷ. Plat.
+
+  _Pythagoras Terram Planetam quendam esse censuit qui circa solem
+    in centro mundi defixum converteretur, Pythagorans secuti sunt
+    Philolaus, Seleucus, Cleanthes, &c. imò PLATO jam senex, ut
+    narrat Theophrastus._ Libert. Fromond, de Orbe terræ immobili.
+
+
+    _CAMBRIDGE_
+
+  Printed by ROGER DANIEL, Printer to
+    the UNIVERSITIE. 1646.
+
+
+
+
+To the Reader.
+
+
+READER,
+
+_If thou standest not to the judgement of thine eye more then of thy
+reason, this fragment may passe favourably, though in the neglectfull
+disguise of a fragment; if the strangenesse of the argument prove no
+hinderance. INFINITIE of WORLDS! A thing monstrous if assented to, and
+to be startled at, especially by them, whose thoughts this one have
+alwayes so engaged, that they can find no leisure to think of any thing
+else. But I onely make a bare proposall to more acute judgements, of
+what my sportfull fancie, with pleasure hath suggested: following my old
+designe of furnishing mens minds with varietie of apprehensions
+concerning the most weightie points of Philosophie, that they may not
+seem rashly to have settled in the truth, though it be the truth:
+a thing as ill beseeming Philosophers, as hastie prejudicative sentence
+Politicall Judges. But if I had relinquishd here my wonted self, in
+proving Dogmaticall, I should have found very noble Patronage for the
+cause among the ancients, =Epicurus=, =Democritus=, =Lucretius=, =&c.=
+Or if justice may reach the dead, do them the right, as to shew, that
+though they be hooted at, by the Rout of the learned, as men of
+monstrous conceits, they were either very wise or exceeding fortunate to
+light on so probable and specious an opinion, in which notwithstanding
+there is so much difficultie and seeming inconsistencie._
+
+_Nay and that sublime and subtil Mechanick too, =DesChartes=, though he
+seem to mince it must hold infinitude of worlds, or which is as harsh
+one infinite one. For what is his =mundus indefinitè extensus=, but
+=extensus infinitè=? Else it sounds onely =infinitus quoad nos= but
+=simpliciter finitus=. But if any space be left out unstuffd with Atoms,
+it will hazard the dissipation of the whole frame of Nature into
+disjoynted dust. As may be proved by the Principles of his own
+Philosophie. And that there is space whereever God is, or any actuall
+and self-subsistent Being, seems to me no plainer then one of the κοιναί
+ἔννοιαι._
+
+_For mine own part I must confesse these apprehensions do plainly oppose
+what heretofore I have conceived; but I have sworn more faithfull
+friendship with Truth then with myself. And therefore without all
+remorse lay batterie against mine own edifice: not sparing to shew how
+weak that is, that my self now deems not impregnably strong. I have at
+the latter end of the last Canto of =Psychathanasia=, not without
+triumph concluded, that the world hath not continued =ab æterno=, from
+this ground:_
+
+                            Extension
+  That’s infinite implies a contradiction.
+
+_And this is in answer to an objection against my last argument of the
+souls Immortalitie, =viz.= divine goodnesse, which I there make the
+measure of his providence. That ground limits the essence of the world
+as well as its duration, and satisfies the curiositie of the Opposer, by
+shewing the incompossibilitie in the Creature, not want of goodnesse in
+the Creatour to have staid the framing of the Universe. But now roused
+up by a new Philosophick furie, I answer that difficultie by taking away
+the Hypothesis of either the world or time being finite: defending the
+infinitude of both, which though I had done with a great deal of vigour
+and life, and semblance of assent, it would have agreed well enough with
+the free beat of Poesie, and might have passed for a pleasant flourish:
+but the severitie of my own judgement, and sad Genius hath cast in many
+correctives and coolers into the Canto it self; so that it cannot amount
+to more then a discussion. And discussion is no prejudice but an honour
+to the truth: for then and never but then is she Victorious. And what a
+glorious Trophee shall the finite world erect when it hath vanquished
+the Infinite; a Pygmee a Giant._
+
+_For the better understanding of the connexion of this Appendix, with
+the Poem of the souls Immortalitie; I have taken off the last stanza’s
+thereof, and added some few new ones to them for a more easie and
+naturall leading to the present Canto. =Psychathan. lib. 3. Cant. 4.=_
+
+  _Stanz._ 33d.
+
+    But thou who ere thou art that thus dost strive
+    With fierce assault my groundwork to subvert,
+    And boldly dost into Gods secrets dive,
+    Base fear my manly face note make m’ avert.
+    In that odde question which thou first didst stert,
+    I’ll plainly prove thine incapacitie,
+    And force thy feeble feet back to revert,
+    That cannot climb so high a mysterie,
+  I’le shew thee strange perplexed inconsistencie.
+
+  34
+
+    Why was this world from all infinitie
+    Not made? say’st thou: why? could it be so made
+    Say I. For well observe the sequencie:
+    If this Out-world continually hath wade
+    Through a long long-spun-time that never had
+    Beginning, then there as few circulings
+    Have been in the quick Moon as Saturn sad;
+    And still more plainly this clear truth to sing,
+  As many years as dayes or flitting houres have been.
+
+  35
+
+    For things that we conceive are infinite,
+    One th’ other no’te surpasse in quantitie.
+    So I have prov’d with clear convincing light,
+    This world could never from infinitie
+    Been made. Certain deficiencie
+    Doth alwayes follow evolution:
+    Nought’s infinite but tight eternitie
+    Close thrust into itself: extension
+  That’s infinite implies a contradiction.
+
+  36
+
+    So then for ought we know this world was made
+    So soon as such a Nature could exist;
+    And though that it continue, never fade,
+    Yet never will it be that that long twist
+    Of time prove infinite, though ner’e desist
+    From running still. But we may safely say
+    Time past compar’d with this long future list
+    Doth show as if the world but yesterday
+  Were made, and in due time Gods glory out may ray.
+
+  37
+
+    Then this short night and ignorant dull ages
+    Will quite be swallowed in oblivion;
+    And though this hope by many surly Sages
+    Be now derided, yet they’ll all be gone
+    In a short time, like Bats and Owls yflone
+    At dayes approch. This will hap certainly
+    At this worlds shining conflagration.
+    Fayes, Satyrs, Goblins the night merrily
+  May spend, but ruddy Sol shall make them all to flie.
+
+  38
+
+    The roaring Lions and drad beasts of prey
+    Rule in the dark with pitious crueltie;
+    But harmlesse Man is matter of the day,
+    Which doth his work in pure simplicitie.
+    God blesse his honest usefull industrie.
+    But pride and covetize, ambition,
+    Riot, revenge, self-love, hypocrisie,
+    Contempt of goodnesse, forc’d opinion;
+  These and such like do breed the worlds confusion.
+
+  39
+
+    But sooth to say though my triumphant Muse
+    Seemeth to vant as in got victorie,
+    And with puissant stroke the head to bruize
+    Of her stiff so, and daze his phantasie,
+    Captive his reason, dead each facultie:
+    Yet in her self so strong a force withstands
+    That of her self afraid, she’ll not aby,
+    Nor keep the field. She’ll fall by her own hand
+  As _Ajax_ once laid _Ajax_ dead upon the strand.
+
+  40
+
+    For thus her-self by her own self’s oppos’d;
+    The Heavens the Earth the universall Frame
+    Of living Nature God so soon disclos’d
+    As He could do, or she receive the same.
+    All times delay since that must turn to blame,
+    And what cannot He do that can be done?
+    And what might let but by th’ all-powerfull Name
+    Or Word of God, the Worlds Creation
+  More suddenly were made then mans swift thought can run?
+
+  41
+
+    Wherefore that Heavenly Power or is as young
+    As this Worlds date; or else some needlesse space
+    Of time was spent, before the Earth did clung
+    So close unto her-self and seas embrace
+    Her hollow breast, and if that time surpasse
+    A finite number then Infinitie
+    Of years before this Worlds Creation passe.
+    So that the durance of the Deitie
+  We must contract or strait his full Benignitie.
+
+  42
+
+    But for the cradle of the _Cretian Jove_,
+    And guardians of his vagient Infancie
+    What sober man but sagely will reprove?
+    Or drown the noise of the fond _Dactyli_
+    By laughter loud? Dated Divinitie
+    Certes is but the dream of a drie brain:
+    God maim’d in goodnesse, inconsistencie;
+    Wherefore my troubled mind is now in pain
+  Of a new birth, which this one Canto’ll not contain.
+
+_Now Reader, thou art arrived to the Canto it self, from which I have
+kept thee off by too tedious Preface and Apologie, which is seldome made
+without consciousnesse of some fault, which I professe I find not in my
+self, unlesse this be it, that I am more tender of thy satisfaction then
+mine own credit. As for that high sullen Poem, =Cupids Conflict=, I must
+leave it to thy candour and favourable censure. The =Philosophers
+Devotion= I cast in onely, that the latter pages should not be
+unfurnished._
+
+  H. M.
+
+
+_Nihil tamen frequentius inter Autores occurrit, quám ut omnia adeò ex
+moduli ferè sensuum suorum æstiment, ut ea quæ insuper infinitis rerum
+spatiis extare possunt, sive superbè sive imprudenter rejiciant; quin &
+ea omnia in usum suum fabricata fuisse glorientur, perinde facientes ac
+si pediculi humanum caput, aut pulices sinum muliebrem propter se solos
+condita existimarent, eáque demum ex gradibus saltibúsve suis
+metirentur. =The Lord Herbert in his De Causis Errorum.=_
+
+
+_De generali totius hujus mundi aspectabilis constructione ut rectè
+Philosophemur duo sunt imprimis observanda: Unum ut attendentes ad
+infinitam Dei potentiam & bonitatem nè vereamur nimis ampla & pulchra &
+absoluta ejus opera imaginari: sed è contra caveamus, nè si quos fortè
+limites nobis non certò cognitos, in ipsis supponamus, non satìs
+magnificè de creatoris potentia sentire videamur._
+
+_Alterum, ut etiam caveamus, nè nimis superbè de nobis ipsis sentiamus.
+Quod fieret non modò, si quos limites nobis nullâ cognitos ratione, nec
+divinà revelatione, mundo vellemus affingere, tanquam si vis nostra
+cogitationis, ultra id quod à Deo revera factum est ferri posset; sed
+etiam maximè, si res omnes propter nos solos, ab illo creatas esse
+fingeremus. =Renatus DesCartes in his Princip. Philosoph. the third
+part.=_
+
+
+
+
+  THE ARGUMENT.
+
+  _’Gainst boundlesse time th’ objections made,
+    And wast infinity
+  Of worlds, are with new reasons weigh’d,
+    Mens judgements are left free._
+
+
+  1
+
+    Hence, hence unhallowed ears and hearts more hard
+    Then Winter clods fast froze with Northern wind.
+    But most of all, foul tongue I thee discard
+    That blamest all that thy dark strait’ned mind,
+    Can not conceive: But that no blame thou find;
+    What e’re my pregnant Muse brings forth to light,
+    She’l not acknowledge to be of her kind,
+    Till Eagle-like she turn them to the sight
+  Of the eternall Word all deckt with glory bright.
+
+  2
+
+    Strange sights do straggle in my restlesse thoughts,
+    And lively forms with orient colours clad
+    Walk in my boundlesse mind, as men ybrought
+    Into some spacious room, who when they’ve had
+    A turn or two, go out, although unbad.
+    All these I see and know, but entertain
+    None to my friend but who’s most sober sad;
+    Although the time my roof doth them contain
+  Their pretence doth possesse me till they out again.
+
+  3
+
+    And thus possest in silver trump I found
+    Their guise, their shape, their gesture and array.
+    But as in silver trumpet nought is found
+    When once the piercing sound is past away,
+    (Though while the mighty blast therein did stay,
+    Its tearing noise so terribly did shrill,
+    That it the heavens did shake, and earth dismay)
+    As empty I of what my flowing quill
+  In heedlesse hast elswhere, or here, may hap to spill.
+
+  4
+
+    For ’tis of force and not of a set will.
+    Ne dare my wary mind afford assent
+    To what is plac’d above all mortall skill.
+    But yet our various thoughts to represent
+    Each gentle wight will deem of good intent.
+    Wherefore with leave th’ infinitie I’ll sing
+    Of time, Of Space: or without leave; I’m brent
+    With eagre rage, my heart for joy doth spring,
+  And all my spirits move with pleasant trembeling.
+
+  5
+
+    An inward triumph doth my soul up-heave
+    And spread abroad through endlesse ’spersed aire.
+    My nimble mind this clammie clod doth leave,
+    And lightly stepping on from starre to starre
+    Swifter then lightning, passeth wide and farre,
+    Measuring th’ unbounded Heavens and wastfull skie;
+    Ne ought she finds her passage to debarre,
+    For still the azure Orb as she draws nigh
+  Gives back, new starres appear, the worlds walls ’fore her flie.
+
+  6
+
+    For what can stand that is so badly staid?
+    Well may that fall whose ground-work is unsure.
+    And what hath wall’d the world but thoughts unweigh’d
+    In freer reason? That antiquate, secure,
+    And easie dull conceit of corporature;
+    Of matter; quantitie, and such like gear
+    Hath made this needlesse, thanklesse inclosure,
+    Which I in full disdain quite up will tear
+  And lay all ope, that as things are they may appear.
+
+  7
+
+    For other they appear from what they are
+    By reason that their Circulation
+    Cannot well represent entire from farre
+    Each portion of the _Cuspis_ of the Cone
+    (Whose nature is elsewhere more clearly shown)
+    I mean each globe, whether of glaring light
+    Or else opake, of which the earth is one.
+    If circulation could them well transmit
+  Numbers infinite of each would strike our ’stonishd sight;
+
+  8
+
+    All in just bignesse and right colours dight
+    But totall presence without all defect
+    ’Longs onely to that Trinitie by right,
+    _Ahad_, _Æon_, _Psyche_ with all graces deckt,
+    Whose nature well this riddle will detect;
+    A Circle whose circumference no where
+    Is circumscrib’d, whose Centre’s each where set,
+    But the low Cusp’s a figure circular,
+  Whose compasse is ybound, but centre’s every where.
+
+  9
+
+    Wherefore who’ll judge the limits of the world
+    By what appears unto our failing sight
+    Appeals to sense, reason down headlong hurld
+    Out of her throne by giddie vulgar might.
+    But here base senses dictates they will dight
+    With specious title of Philosophie,
+    And stiffly will contend their cause is right
+    From rotten rolls of school antiquitie,
+  Who constantly denie corporall Infinitie.
+
+  10
+
+    But who can prove their corporalitie
+    Since matter which thereto’s essentiall
+    If rightly sifted ’s but a phantasie.
+    And quantitie who’s deem’d Originall
+    Is matter, must with matter likewise fall.
+    What ever is, is Life and Energie
+    From God, who is th’ Originall of all;
+    Who being everywhere doth multiplie
+  His own broad shade that endlesse throughout all doth lie.
+
+  11
+
+    He from the last projection of light
+    Ycleep’d _Shamajim_, which is liquid fire
+    (It _Æther_ eke and centrall _Tasis_ hight)
+    Hath made each shining globe and clumperd mire
+    Of dimmer Orbs. For Nature doth inspire
+    Spermatick life, but of a different kind.
+    Hence those congenit splendour doth attire
+    And lively heat, these darknesse dead doth bind,
+  And without borrowed rayes they be both cold and blind.
+
+  12
+
+    All these be knots of th’ universall stole
+    Of sacred _Psyche_; which at first was fine,
+    Pure, thin, and pervious till hid powers did pull
+    Together in severall points and did encline
+    The nearer parts in one clod to combine.
+    Those centrall spirits that the parts did draw
+    The measure of each globe did then define,
+    Made things impenetrable here below,
+  Gave colour, figure, motion, and each usuall law.
+
+  13
+
+    And what is done in this Terrestriall starre
+    The same is done in every Orb beside.
+    Each flaming Circle that we see from farre
+    Is but a knot in _Psyches_ garment tide.
+    From that lax shadow cast throughout the wide
+    And endlesse world, that low’st projection
+    Of universall life each thing’s deriv’d
+    What e’re appeareth in corporeall fashion;
+  For body’s but this spirit, fixt, grosse by conspissation.
+
+  14
+
+    And that which doth conspissate active is;
+    Wherefore not matter but some living sprite
+    Of nimble Nature which this lower mist
+    And immense field of Atoms doth excite,
+    And wake into such life as best doth fit
+    With his own self. As we change phantasies
+    The essence of our soul not chang’d a whit,
+    So do these Atoms change their energies
+  Themselves unchanged into new Centreïties.
+
+  15
+
+    And as our soul’s not superficially
+    Colourd by phantasms, nor doth them reflect
+    As doth a looking-glasse such imag’rie
+    As it to the beholder doth detect:
+    No more are these lightly or smear’d or deckt
+    With form or motion which in them we see,
+    But from their inmost Centre they project
+    Their vitall rayes, not merely passive be,
+  But by occasion wak’d rouze up themselves on high.
+
+  16
+
+    So that they’re life, form, sprite, not matter pure,
+    For matter pure is a pure nullitie,
+    What nought can act is nothing, I am sure;
+    And if all act, that is they’ll not denie
+    But all that is is form: so easily
+    By what is true, and by what they embrace
+    For truth, their feigned Corporalitie
+    Will vanish into smoke, but on I’ll passe,
+  More fully we have sung this in another place.
+
+  17
+
+    Wherefore more boldly now to represent
+    The nature of the world, how first things were
+    How now they are: This endlesse large Extent
+    Of lowest life (which I styled whileere
+    The _Cuspis_ of the _Cone_ that’s every where)
+    Was first all dark, till in this spacious Hall
+    Hideous through silent horrour torches clear
+    And lamping lights bright shining over all
+  Were set up in due distances proportionall.
+
+  18
+
+    Innumerable numbers of fair Lamps
+    Were rightly ranged in this hollow hole,
+    To warm the world and chace the shady damps
+    Of immense darknesse, rend her pitchie stole
+    Into short rags more dustie dimme then coal.
+    Which pieces then in severall were cast
+    (Abhorred reliques of that vesture foul)
+    Upon the Globes that round those torches trac’d,
+  Which still fast on them stick for all they run so fast.
+
+  19
+
+    Such an one is that which mortall men call Night,
+    A little shred of that unbounded shade.
+    And such a Globe is that which Earth is hight;
+    By witlesse Wizzards the sole centre made
+    Of all the world, and on strong pillars staid.
+    And such a lamp or light is this our Sun,
+    Whose firie beams the scortched Earth invade.
+    But infinite such as he, in heaven won,
+  And more then infinite Earths about those Suns do run;
+
+  20
+
+    And to speak out: though I detest the sect
+    Of _Epicurus_ for their manners vile,
+    Yet what is true I may not well reject.
+    Truth’s incorruptible, ne can the style
+    Of vitious pen her sacred worth defile.
+    If we no more of truth should deign t’ embrace
+    Then what unworthy mouths did never soyl,
+    No truths at all mongst men would finden place
+  But make them speedie wings and back to Heaven apace.
+
+  21
+
+    I will not say our world is infinite,
+    But that infinitie of worlds ther be.
+    The Centre of our world’s the lively light
+    Of the warm sunne, the visible Deitie
+    Of this externall Temple. _Mercurie_
+    Next plac’d and warm’d more throughly by his rayes,
+    Right nimbly ’bout his golden head doth flie:
+    Then _Venus_ nothing slow about him strayes,
+  And next our _Earth_ though seeming sad full spritely playes.
+
+  22
+
+    And after her _Mars_ rangeth in a round
+    With firie locks and angry flaming eye,
+    And next to him mild _Jupiter_ is found,
+    But Saturn cold wons in our utmost skie.
+    The skirts of his large Kingdome surely lie
+    Near to the confines of some other worlds
+    Whose Centres are the fixed starres on high,
+    ’Bout which as their own proper Suns are hurld
+  _Joves_, _Earths_ and _Saturns_; round on their own axes twurld.
+
+  23
+
+    Little or nothing are those starres to us
+    Which in the azure Evening gay appear
+    (I mean for influence) but judicious
+    Nature and carefull Providence her dear
+    And matchlesse work did so contrive whileere,
+    That th’ Hearts or Centres in the wide world pight
+    Should such a distance each to other bear,
+    That the dull Planets with collated light
+  By neighbour suns might cheared be in dampish night.
+
+  24
+
+    And as the Planets in our world (of which
+    The sun’s the heart and kernell) do receive
+    Their nightly light from suns that do enrich
+    Their sable mantle with bright gemmes, and give
+    A goodly splendour, and sad men relieve
+    With their fair twinkling rayes, so our worlds sunne
+    Becomes a starre elsewhere, and doth derive
+    Joynt light with others, cheareth all that won
+  In those dim duskish Orbs round other suns that run.
+
+  25
+
+    This is the parergon of each noble fire
+    Of neighbour worlds to be the nightly starre,
+    But their main work is vitall heat t’ inspire
+    Into the frigid spheres that ’bout them fare,
+    Which of themselves quite dead and barren are.
+    But by the wakening warmth of kindly dayes,
+    And the sweet dewie nights they well declare
+    Their seminall virtue in due courses raise
+  Long hidden shapes and life, to their great Makers praise.
+
+  26
+
+    These with their suns I severall worlds do call,
+    Whereof the number I deem infinite:
+    Else infinite darknesse were in this great Hall
+    Of th’ endlesse Universe; For nothing finite
+    Could put that immense shadow unto flight.
+    But if that infinite Suns we shall admit,
+    Then infinite worlds follow in reason right.
+    For every Sun with Planets must be fit,
+  And have some mark for his farre-shining shafts to hit.
+
+  27
+
+    But if he shine all solitarie, alone,
+    What mark is left,? what aimed scope or end
+    Of his existence? wherefore every one
+    Hath a due number of dim Orbs that wend
+    Around their centrall fire. But wrath will rend
+    This strange composure back’d with reason stout
+    And rasher tongues right speedily will spend
+    Their forward censure, that my wits run out
+  On wool-gathering, through infinite spaces all about.
+
+  28
+
+    What sober man will dare once to avouch
+    An infinite number of dispersed starres?
+    This one absurdity will make him crouch
+    And eat his words; Division nought impairs
+    The former whole, nor he augments that spares.
+    Strike every tenth out, that which doth remain,
+    An equall number with the former shares,
+    And let the tenth alone, th’ whole nought doth gain,
+  For infinite to infinite is ever the same.
+
+  29
+
+    The tenth is infinite as the other nine,
+    Or else, nor they, nor all the ten entire
+    Are infinite. Thus one infinite doth adjoyn
+    Others unto it and still riseth higher.
+    And if those single lights hither aspire,
+    This strange prodigious inconsistencie
+    Groweth still stranger, if each fixed fire
+    (I mean each starre) prove Sunnes, and Planets flie
+  About their flaming heads amid the thronged skie.
+
+  30
+
+    For whatsoever that their number be
+    Whether by seavens, or eighths, or fives, or nines,
+    They round each fixed lamp; Infinity
+    Will be redoubled thus by many times.
+    Besides each greater Planet th’ attendance finds
+    Of lesser. Our _Earths_ handmaid is the Moon,
+    Which to her darkned side right duly shines,
+    And _Jove_ hath foure, as hath been said aboven,
+  And _Saturn_ more then foure if the plain truth were known.
+
+  31
+
+    And if these globes be regions of life
+    And severall kinds of plants therein do grow,
+    Grasse, flowers, hearbs, trees, which the impartiall knife
+    Of all consuming Time still down doth mow,
+    And new again doth in succession show:
+    Which also ’s done in flies, birds, men and beasts;
+    Adde sand, pearls, pebbles, that the ground do strow
+    Leaves, quills, hairs, thorns, blooms, you may think the rest
+  Their kinds by mortall penne can not well be exprest:
+
+  32
+
+    And if their kinds no man may reckon well,
+    The summe of successive particulars
+    No mind conceive nor tongue can ever tell.
+    And yet this mist of numbers (as appears)
+    Belongs to one of these opacous sphears.
+    Suppose this _Earth_; what then will all those Rounds
+    Produce? No _Atlas_ such a load upbears.
+    In this huge endlesse heap o’rewhelmed, drownd,
+  Choak’d, stifled, lo! I lie, breathlesse, even quite confound.
+
+  33
+
+    Yet give me space a while but to respire,
+    And I my self shal fairly well out-wind;
+    Keep this position true, unhurt, entire,
+    That you no greater difficulty find
+    In this new old opinion here defin’d
+    Of infinite worlds, then one world doth imply.
+    For if we do with steddy patience mind
+    All is resolv’d int’ one absurdity,
+  The grant of something greater then infinitie.
+
+  34
+
+    That God is infinite all men confesse,
+    And that the Creature is some realty
+    Besides Gods self, though infinitely lesse.
+    Joyn now the world unto the Deity.
+    What? is there added no more entitie
+    By this conjunction, then there was before?
+    Is the broad breasted earth? the spacious skie
+    Spangled with silver light, and burning Ore?
+  And the wide bellowing seas, whose boyling billows roar,
+
+  35
+
+    Are all these nothing? But you will reply;
+    As is the question so we ought restrain
+    Our answer unto Corporeity.
+    But that the phantasie of the body’s vain
+    I did before unto you maken plain.
+    But that no man depart unsatisfi’d
+    A while this Universe here will we feigne
+    _Corporeall_, till we have gainly tride.
+  If ought that’s bodily may infinite abide.
+
+  36
+
+    What makes a body saving quantity?
+    What quantitie unlesse extension?
+    Extension if ’t admit infinity
+    Bodies admit boundlesse dimension.
+    That some extension forward on doth run
+    Withouten limits, endlesse, infinite
+    Is plane from Space, that ever paceth on
+    Unstop’d, unstaid, till it have filled quite
+  That immense infinite Orb where God himself doth sit.
+
+  37
+
+    But yet more sensibly this truth to show
+    If space be ended set upon that end
+    Some strong arm’d Archer with his Parthian bow,
+    That from that place with speedy force may send
+    His fleeter shafts, and so still forward wend.
+    Where? When shall he want room his strength to trie?
+    But here perversly subtill you’l contend
+    Nothing can move in mere vacuity,
+  And space is nought, so not extended properly.
+
+  38
+
+    To solve these knots I must call down from high
+    Some heavenly help, feather with angels wing
+    The sluggish arrow. If it will not flie,
+    Sent out from bow stiff-bent with even string,
+    Let angels on their backs it thither bring
+    Where your free mind appointed had before,
+    And then hold on, till in your travelling
+    You be well wearied, finding ever more
+  Free passage for their flight, and what they flying bore.
+
+  39
+
+    Now to that shift that sayes Vacuity
+    Is nought, and therefore not at all extent
+    We answer thus: There is a distancy
+    In empty space, though we be well content
+    To balk that question (for we never meant
+    Such needlesse niceties) whether that it be
+    A reall being; yet that there’s parts distent
+    One from another, no mans phantasie
+  Can e’re reject if well he weigh’t and warily.
+
+  40
+
+    For now conceive the aire and azure skie
+    All swept away from Saturn to the Sunne,
+    Which each is to be wrought by him on high.
+    Then in this place let all the Planets runne
+    (As erst they did before this feat was done)
+    If not by nature, yet by divine power,
+    Ne one hairs breadth their former circuits shun
+    And still for fuller proof, th’ Astronomer
+  Observe their hights as in the empty heavens they scoure.
+
+  41
+
+    Will then their Parallaxes prove all one
+    Or none, or different still as before?
+    If so, their distances by mortall men
+    Must be acknowledg’d such as were of yore,
+    Measur’d by leagues, miles, stades, nor lesse nor more
+    From circuit unto circuit shall be found
+    Then was before the sweeping of the floor.
+    That distance therefore hath most certain ground
+  In emptinesse we may conclude with reason sound.
+
+  42
+
+    If distance now so certainly attend
+    All emptinesse (as also mensuration
+    Attendeth distance) distance without end
+    Is wide disperst above imagination
+    (For emptinesse is void of limitation)
+    And this unbounded voidnesse doth admit
+    The least and greatest measures application;
+    The number thus of the greatest that doth fit
+  This infinite void space is likewise infinite.
+
+  43
+
+    But what so e’re that infinite number be,
+    A lesser number will a number give
+    So farre exceeding in infinity
+    That number as this measure we conceive
+    To fall short of the other. But I’ll leave
+    This present way and a new course will trie
+    Which at the same mark doth as fully drive
+    And with a great deal more facility.
+  Look on this endlesse Space as one whole quantity.
+
+  44
+
+    Which in your mind int’ equall parts divide,
+    Tens, hundreds, thousands or what pleaseth best.
+    Each part denominate doth still abide
+    An infinite portion, else nor all the rest
+    Makes one infinitude.
+    For if one thousandth part may be defin’d
+    By finite measures eas’ly well exprest,
+    A myriad suppose of miles assign’d
+  Then to a thousand myriads is the whole confin’d.
+
+  45
+
+    Wherefore this wide and wast Vacuity,
+    Which endlesse is outstretched thorough all,
+    And lies even equall with the Deity,
+    Nor is a thing meerly imaginall,
+    (For it doth farre mens phantasies forestall
+    Nothing beholden to our devicefull thought)
+    This inf’nite voidnesse as much our mind doth gall
+    And has as great perplexities ybrought
+  As if this empty space with bodies were yfraught.
+
+  46
+
+    Nor have we yet the face once to denie
+    But that it is although we mind it not;
+    For all once minded such perplexity
+    It doth create to puzzled reason, that
+    She sayes and unsayes, do’s she knows not what.
+    Why then should we the worlds infinity
+    Misdoubt, because when as we contemplate
+    Its nature, such strange inconsistency
+  And unexpected sequels, we therein descry?
+
+  47
+
+    Who dare gainsay but God is every where
+    Unbounded, measurelesse, all infinite;
+    Yet the same difficulties meet us here
+    Which erst us met and did so sore affright
+    With their strange vizards. This will follow right
+    Where ever we admit infinity
+    Every denominated part proves streight
+    A portion infinite, which if it be,
+  One infinite will into myriads multiply.
+
+  48
+
+    But with new argument to draw more near
+    Our purpos’d end. If God’s omnipotent
+    And this omnipotent God be every where,
+    Where e’re he is then can he eas’ly vent
+    His mighty virtue thorough all extent.
+    What then shall hinder but a roscid aire
+    With gentle heat each where be ’sperst and sprent.
+    Unlesse omnipotent power we will empair,
+  And say that empty space his working can debarre.
+
+  49
+
+    Where now this one supposed world is pight
+    Was not that space at first all vain and void?
+    Nor ought said; no, when he said, _Let ’t be light_.
+    Was this one space better then all beside,
+    And more obedient to what God decreed?
+    Or would not all that endlesse emptinesse
+    Gladly embrac’d (if he had ever tride)
+    His just command? and what might come to passe
+  Implies no contradictious inconsistentnesse.
+
+  50
+
+    Wherefore this precious sweet Ethereall dew
+    For ought we know God each where did distill,
+    And thorough all that hollow voidnesse threw
+    And the wide gaping drought therewith did fill,
+    His endlesse overflowing goodnesse spill
+    In every place; which streight he did contrive
+    Int’ infinite severall worlds, as his best skill
+    Did him direct and creatures could receive
+  For matter infinite needs infinite worlds must give.
+
+  51
+
+    The Centre of each severall world’s a sunne
+    With shining beams and kindly warming heat,
+    About whose radiant crown the Planets runne,
+    Like reeling moths around a candle light,
+    These all together, one world I conceit.
+    And that even infinite such worlds there be,
+    That inexhausted Good that God is bight
+    A full sufficient reason is to me,
+  Who simple Goodnesse make the highest Deity.
+
+  52
+
+    Als make himself the key of all his works
+    And eke the measure of his providence;
+    The piercing eye of truth to whom nought lurks
+    But lies wide ope unbar’d of all pretense.
+    But frozen hearts! away! flie farre from hence,
+    Unlesse you’l thaw at this celestiall fire
+    And melt into one minde and holy sense
+    With Him that doth all heavenly hearts inspire,
+  So may you with my soul in one assent conspire.
+
+  53
+
+    But what’s within, uneath is to convey
+    To narrow vessels that are full afore.
+    And yet this truth as wisely as I may
+    I will insinuate, from senses store
+    Borrowing a little aid. Tell me therefore
+    When you behold with your admiring eyes
+    Heavens Canopie all to bespangled o’re
+    With sprinkled starres, what can you well devize
+  Which causen may such carelesse order in the skies?
+
+  54
+
+    A peck of peasen rudely poured out
+    On plaister flore, from hasty heedlesse hond
+    Which lie all carelesse scattered about,
+    To sight do in as seemly order stond,
+    As those fair glistering lights in heaven are found.
+    If onely for this world they were intended,
+    Nature would have adorn’d this azure round
+    With better art, and easily have mended
+  This harsh disord’red order, and more beauty lended.
+
+  55
+
+    But though these lights do seem so rudely thrown
+    And scattered throughout the spacious skie,
+    Yet each most seemly sits in his own Throne
+    In distance due and comely Majesty;
+    And round their lordly seats their servants hie
+    Keeping a well-proportionated space
+    One from another, doing chearfully
+    Their dayly task. No blemmish may deface
+  The worlds in severall deckt with all art and grace.
+
+  56
+
+    But the appearance of the nightly starres
+    Is but the by-work of each neighbour sun;
+    Wherefore lesse marvell if it lightly shares
+    Of neater Art; and what proportion
+    Were fittest for to distance one from one
+    (Each world I mean from other) is not clear.
+    Wherefore it must remain as yet unknown
+    Why such perplexed distances appear
+  Mongst the dispersed lights in Heaven thrown here & there.
+
+  57
+
+    Again, that eminent similitude
+    Betwixt the starres and Phœbus fixed light,
+    They being both with steddinesse indu’d,
+    No whit removing whence they first were pight,
+    No serious man will count a reason slight
+    To prove them both, both fixed suns and starres
+    And Centres all of severall worlds by right,
+    For right it is that none a sun debarre
+  Of Planets which his just and due retinue are.
+
+  58
+
+    If starres be merely starres not centrall lights
+    Why swell they into so huge bignesses?
+    For many (as Astronomers do write)
+    Our sun in bignesse many times surpasse.
+    If both their number and their bulks were lesse
+    Yet lower placed, light and influence
+    Would flow as powerfully, and the bosome presse
+    Of the impregned Earth, that fruit from hence
+  As fully would arise, and lordly affluence.
+
+  59
+
+    Wherefore these fixed Fires mainly attend
+    Their proper charge in their own Universe,
+    And onely by the by of court’sie lend
+    Light to our world, as our world doth reverse
+    His thankfull rayes so farre as he can pierce
+    Back unto other worlds. But farre aboven
+    Further then furthest thought of man can traverse,
+    Still are new worlds aboven and still aboven.
+  In the endlesse hollow Heaven, and each world hath his sun.
+
+  60
+
+    An hint of this we have in winter-nights,
+    When reason may see clearer then our eye,
+    Small subtil starres appear unto our sights
+    As thick as pin-dust scattered in the skie.
+    Here we accuse our seeing facultie
+    Of weaknesse, and our sense of foul deceit,
+    We do accuse and yet we know not why.
+    But the plain truth is, from a vaster hight
+  The numerous upper worlds amaze our dazzled sight.
+
+  61
+
+    Now sith so farre as sense can ever trie
+    We find new worlds, that still new worlds there be,
+    And round about in infinite numbers lie,
+    Further then reach of mans weak phantasie
+    (Without suspition of temeritie)
+    We may conclude; as well as men conclude
+    That there is aire farre ’bove the mountains high,
+    Or that th’ Earth a sad substance doth include
+  Even to the Centre with like qualities indu’d.
+
+  62
+
+    For who did ever the Earths Centre pierce,
+    And felt or sand or gravell with his spade
+    At such a depth? what Histories rehearse
+    That ever wight did dare for to invade
+    Her bowels but one mile in dampish shade?
+    Yet I’ll be bold to say that few or none
+    But deem this globe even to the bottome made
+    Of solid earth, and that her nature’s one
+  Throughout, though plain experience hath it never shown.
+
+  63
+
+    But sith sad earth so farre as they have gone
+    They still descrie, eas’ly they do inferre
+    Without all check of reason, were they down
+    Never so deep, like substance would appear,
+    Ne dream of any hollow horrour there.
+    My mind with like uncurb’d facilitie
+    Concludes from what by sight is seen so clear
+    That ther’s no barren wast vacuitie
+  Above the worlds we see, but still new worlds there lie,
+
+  64
+
+    And still and still even to infinitie.
+    Which point since I so fitly have propos’d,
+    Abating well the inconsistencie
+    Of harsh infinitude therein supposd
+    And prov’d by reasons never to be loos’d
+    That infinite space and infinite worlds there be;
+    This load laid down, I’m freely now dispos’d
+    Awhile to sing of times infinitie,
+  May infinite Time afford me but his smallest fee.
+
+  65
+
+    For smallest fee of time will serve my turn
+    This part for to dispatch, sith endlesse space
+    (Whose perplext nature well mans brains might turn,
+    And weary wits disorder and misplace)
+    I have already passed: for like case
+    Is in them both. He that can well untie
+    The knots that in those infinite worlds found place,
+    May easily answer each perplexitie
+  Of these worlds infinite matters endlesse durancie.
+
+  66
+
+    The _Cuspis_ and the _Basis_ of the _Cone_
+    Were both at once dispersed every where;
+    But the pure _Basis_ that is God alone:
+    Else would remotest sights as bigge appear
+    Unto our eyes as if we stood them near.
+    And if an Harper harped in the Moon,
+    His silver sound would touch our tickled eare:
+    Or if one hollowed from highest Heaven aboven,
+  In sweet still Evening-tide, his voice would hither roam.
+
+  67
+
+    This all would be if the _Cuspe_ of the _Cone_
+    Were very God. Wherefore I rightly ’t deem
+    Onely a Creaturall projection,
+    Which flowing yet from God hath ever been,
+    Fill’d the vast empty space with its large streem.
+    But yet it is not totall every where
+    As was even now by reason rightly seen:
+    Wherefore not God, whose nature doth appear
+  Entirely omnipresent, weigh’d with judgement clear,
+
+  68
+
+    A reall infinite matter, distinct
+    And yet proceeding from the Deitie
+    Although with different form as then untinct
+    Has ever been from all Eternitie.
+    Now what delay can we suppose to be,
+    Since matter alway was at hand prepar’d
+    Before the filling of the boundlesse skie
+    With framed Worlds; for nought at all debar’d,
+  Nor was His strength ungrown, nor was His strength empair’d.
+
+  69
+
+    How long would God be forming of a flie?
+    Or the small wandring moats that play i’ th’ sun?
+    Least moment well will serve none can denie,
+    His _Fiat_ spoke and streight the thing is done.
+    And cannot He make all the World as soon?
+    For in each Atom of the matter wide
+    The totall Deitie doth entirely won,
+    His infinite presence doth therein reside,
+  And in this presence infinite powers do ever abide.
+
+  70
+
+    Wherefore at once from all eternitie
+    The infinite number of these Worlds He made,
+    And will conserve to all infinitie,
+    And still drive on their ever-moving trade,
+    And steddy hold what ever must be staid;
+    Ne must one mite be minish’d of the summe,
+    Ne must the smallest atom ever fade,
+    But still remain though it may change its room;
+  This truth abideth strong from everlasting doom.
+
+  71
+
+    Ne fear I what hard sequel after-wit
+    Will draw upon me; that the number’s one
+    Of years, moneths, dayes, houres, and of minutes fleet
+    Which from eternitie have still run on.
+    I plainly did confesse awhile agone
+    That be it what it will that’s infinite
+    More infinites will follow thereupon,
+    But that all infinites do justly fit
+  And equall be, my reason did not yet admit.
+
+  72
+
+    But as my emboldened mind, I know not how,
+    In empty Space and pregnant Deitie
+    Endlesse infinitude dares to allow,
+    Though it begets the like perplexitie:
+    So now my soul drunk with Divinitie,
+    And born away above her usuall bounds
+    With confidence concludes infinitie
+    Of Time of Worlds, of firie flaming Rounds;
+  Which sight in sober mood my spirits quite confounds.
+
+  73
+
+    And now I do awhile but interspire
+    A torrent of objections ’gainst me beat,
+    My boldnesse to represse and strength to tire.
+    But I will wipe them off like summer sweat,
+    And make their streams streight back again retreat.
+    If that these worlds, say they, were ever made
+    From infinite time, how comes ’t to passe that yet
+    Art is not perfected, nor metalls fade,
+  Nor mines of grimie coal low-hid in griesly shade.
+
+  74
+
+    But the remembrance of the ancient Floud
+    With ease will wash such arguments away.
+    Wherefore with greater might I am withstood.
+    The strongest stroke wherewith they can assay
+    To vanquish me is this; The Date or Day
+    Of the created World, which all admit;
+    Nor may my modest Muse this truth gainsay
+    In holy Oracles so plainly writ.
+  Wherefore the Worlds continuance is not infinite.
+
+  75
+
+    Now lend me, _Origen_! a little wit
+    This sturdy stroke right fairly to avoid,
+    Lest that my rasher rymes, while they ill fit
+    With _Moses_ pen, men justly may deride
+    And well accuse of ignorance or pride.
+    But thou, O holy Sage! with piercing sight
+    Who readst those sacred rolls, and hast well tride
+    With searching eye thereto what fitteth right
+  Thy self of former Worlds right learnedly dost write:
+
+  76
+
+    To weet that long ago these Earths have been
+    Peopled with men and beasts before this Earth,
+    And after this shall others be again
+    And other beasts and other humane birth.
+    Which once admit, no strength that reason bear’th
+    Of this worlds Date and Adams efformation,
+    Another Adam once received breath
+    And still another in endlesse repedation,
+  And this must perish once by finall conflagration.
+
+  77
+
+    Witnesse ye Heavens if what I say’s not true,
+    Ye flaming Comets wandering on high,
+    And new fixt starres found in that Circle blue,
+    The one espide in glittering _Cassiopie_,
+    The other near to _Ophiuchus_ thigh.
+    Both bigger then the biggest starres that are,
+    And yet as farre remov’d from mortall eye
+    As are the furthest, so those Arts declare
+  Unto whose reaching sight Heavens mysteries lie bare.
+
+  78
+
+    Wherefore these new-seen lights were greater once
+    By many thousand times then this our sphear
+    Wherein we live, ’twixt good and evil chance.
+    Which to my musing mind doth strange appear
+    If those large bodies then first shaped were.
+    For should so goodly things so soon decay?
+    Neither did last the full space of two year.
+    Wherefore I cannot deem that their first day
+  Of being, when to us they sent out shining ray.
+
+  79
+
+    But that they were created both of old,
+    And each in his due time did fair display
+    Themselves in radiant locks more bright then gold,
+    Or silver sheen purg’d from all drossie clay.
+    But how they could themselves in this array
+    Expose to humane sight, who did before
+    Lie hid, is that which well amazen may
+    The wisest man and puzzle evermore:
+  Yet my unwearied thoughts this search could not give o’re.
+
+  80
+
+    Which when I’d exercis’d in long pursuit
+    To finden out what might the best agree
+    With warie reason, at last I did conclude
+    That there’s no better probabilitie
+    Can be produc’d of that strange prodigie,
+    But that some mighty Planet that doth run
+    About some fixed starre in _Cassiopie_
+    As _Saturn_ paceth round about our Sun,
+  Unusuall light and bignesse by strange fate had wonne.
+
+  81
+
+    Which I conceive no gainer way is done
+    Then by the siezing of devouring fire
+    On that dark Orb, which ’fore but dimly shone
+    With borrowed light, not lightened entire,
+    But halfed like the Moon.
+    And while the busie flame did sieze throughout,
+    And search the bowels of the lowest mire
+    Of that _Saturnian_ Earth; a mist broke out,
+  And immense mounting smoke arose all round about.
+
+  82
+
+    Which being gilded with the piercing rayes
+    Of its own sun and every neighbour starre,
+    It soon appear’d with shining silver blaze,
+    And then gan first be seen of men from farre.
+    Besides that firie flame that was so narre
+    The Planets self, which greedily did eat
+    The wastning mold, did contribute a share
+    Unto this brightnesse; and what I conceit
+  Of this starre doth with that of _Ophiuchus_ sit.
+
+  83
+
+    And like I would adventure to pronounce
+    Of all the Comets that above the Moon,
+    Amidst the higher Planets rudely dance
+    In course perplex, but that from this rash doom
+    I’m bett off by their beards and tails farre strown
+    Along the skie, pointing still opposite
+    Unto the sun, however they may roam;
+    Wherefore a cluster of small starres unite
+  These meteors some do deem, perhaps with judgement right.
+
+  84
+
+    And that these tayls are streams of the suns light
+    Breaking through their near bodies as through clouds.
+    Besides the Optick glasse has shown to sight
+    The dissolution of these starrie crouds.
+    Which thing if ’t once be granted and allow’d,
+    I think without all contradiction
+    They may conclude these Meteors are routs
+    Of wandring starres, which though they one by one
+  Cannot be seen, yet joyn’d, cause this strange vision.
+
+  85
+
+    And yet methinks, in my devicefull mind
+    Some reasons that may happily represse
+    These arguments it’s not uneath to find.
+    For how can the suns rayes that be transmisse
+    Through these loose knots in Comets, well expresse
+    Their beards or curld tayls utmost incurvation?
+    Beside, the conflux and congeries
+    Of lesser lights a double augmentation
+  Implies, and ’twixt them both a lessening coarctation.
+
+  86
+
+    For when as once these starres are come so nigh
+    As to seem one, the Comet must appear
+    In biggest show, because more loose they lie
+    Somewhat spread out, but as they draw more near
+    The compasse of his head away must wear,
+    Till he be brought to his least magnitude;
+    And then they passing crosse, he doth repair
+    Himself, and still from his last losse renew’d
+  Grows till he reach the measure which we first had view’d.
+
+  87
+
+    And then farre distanc’d they bid quite adiew,
+    Each holding on in solitude his way.
+    Ne any footsteps in the empty Blew
+    Is to be found of that farre-shining ray.
+    Which processe sith no man did yet bewray,
+    It seems unlikely that the Comets be
+    Synods of starres that in wide Heaven stray.
+    Their smallnesse eke and numerositie
+  Encreaseth doubt and lessens probabilitie.
+
+  88
+
+    A cluster of them makes not half a Moon,
+    What should such tennis-balls do in the skie?
+    And few ’ll not figure out the fashion
+    Of those round firie meteors on high.
+    Ne ought their beards much move us, that do lie
+    Ever cast forward from the Morning sunne,
+    Nor back cast tayls turn’d to our Evening-eye,
+    That fair appear when as the day is done.
+  This matter may lie hid in the starres shadowed Cone.
+
+  89
+
+    For in these Planets conflagration,
+    Although the smoke mount up exactly round,
+    Yet by the suns irradiation
+    Made thin and subtil no where else its found
+    By sight, save in the dim and duskish bound
+    Of the projected Pyramid opake,
+    Opake with darknesse, smoke and mists unsound.
+    Yet gilded like a foggie cloud doth make
+  Reflection of fair light that doth our senses take.
+
+  90
+
+    This is the reason of that constant site
+    Of Comets tayls and beards: And that their show’s
+    Not pure Pyramidall, nor their ends seem streight
+    But bow’d like brooms, is from the winds that blow,
+    I mean Ethereall winds, such as below
+    Men finden under th’ Equinoctiall line.
+    Their widend beards this aire so broad doth strow
+    Incurvate, and or more or lesse decline:
+  If not, let sharper wits more subtly here divine.
+
+  91
+
+    But that experiment of the Optick glasse
+    The greatest argument of all I deem,
+    Ne can I well encounter nor let passe
+    So strong a reason if I may esteem
+    The feat withouten fallacie to been,
+    Nor judge these little sparks and subtile lights
+    Some auncient fixed starres though now first seen,
+    That near the ruin’d Comets place were pight,
+  On which that Optic instrument by chance did light.
+
+  92
+
+    Nor finally an uncouth after-sport
+    Of th’ immense vapours that the searching fire
+    Had boyled out, which now themselves consort
+    In severall parts and closely do conspire,
+    Clumper’d in balls of clouds and globes entire
+    Of crudled smoke and heavy clunging mists;
+    Which when they’ve staid awhile at last expire;
+    But while they stay any may see that lists
+  So be that Optick Art his naturall sight assists.
+
+  93
+
+    If none of these wayes I may well decline
+    The urging weight of this hard argument,
+    Worst is but parting stakes and thus define:
+    Some Comets be but single Planets brent,
+    Others a synod joyn’d in due consent:
+    And that no new found Meteors they are:
+    Ne further may my wary mind assent
+    From one single experience solitaire,
+  Till all-discovering Time shall further truth declare.
+
+  94
+
+    But for the new fixt starres there’s no pretence,
+    Nor beard nor tail to take occasion by,
+    To bring in that unluckie inference
+    Which weaken might this new built mysterie.
+    Certes in raging fire they both did frie.
+    A signe whereof you rightly may aread
+    Their colours changeable varietie
+    First clear and white, then yellow, after red,
+  Then blewly pale, then duller still, till perfect dead.
+
+  95
+
+    And as the order of these colours went,
+    So still decreas’d that Cassiopean starre,
+    Till at the length to sight it was quite spent:
+    Which observations strong reasons are,
+    Consuming fire its body did empare
+    And turn to ashes. And the like will be
+    In all the darksome Planets wide and farre.
+    Ne can our Earth from this state standen free
+  A Planet as the rest, and Planets fate must trie.
+
+  96
+
+    Ne let the tender heart too harshly deem
+    Of this rude sentence: for what rigour more
+    Is in consuming fire then drowning stream
+    Of Noahs floud which all creaturs choak’d of yore,
+    Saving those few that were kept safe in store
+    In that well builded ship? All else beside
+    Men, birds, and beasts, the lion, buck, and bore
+    Dogs, kine, sheep, horses all that did abide
+  Upon the spacious earth, perish’d in waters wide.
+
+  97
+
+    Nor let the slow and misbelieving wight
+    Doubt how the fire on the hard earth may seize;
+    No more then how those waters erst did light
+    Upon the sinfull world. For as the seas
+    Boyling with swelling waves aloft did rise,
+    And met with mighty showers and pouring rain
+    From Heavens spouts; so the broad flashing skies
+    Thickned with brimstone and clouds of fiery bain
+  Shall meet with raging Etna’s and Vesuvius flame.
+
+  98
+
+    The burning bowels of this wasting ball
+    Shall gullup up great flakes of rolling fire,
+    And belch out pitchie flames, till over all
+    Having long rag’d, Vulcan himself shall tire
+    And (th’ earth an ashheap made) shall then expire:
+    Here Nature laid asleep in her own Urn
+    With gentle rest right easly will respire,
+    Till to her pristine task she do return
+  As fresh as Phenix young under th’ Arabian Morn.
+
+  99
+
+    O happy they that then the first are born,
+    While yet the world is in her vernall pride:
+    For old corruption quite away is worn
+    As metall pure so is her mold well tride.
+    Sweet dews, cool-breathing airs, and spaces wide
+    Of precious spicery wafted with soft wind:
+    Fair comely bodies goodly beautifi’d
+    Snow-limb’d, rose-cheek’d, ruby-lip’d, pearl-ted, star eyn’d
+  Their parts each fair in fit proportion all conbin’d.
+
+  100
+
+    For all the while her purged ashes rest
+    These rellicks dry suck in the heavenly dew,
+    And roscid Manna rains upon her breast,
+    And fills with sacred milk sweet fresh and new,
+    Where all take life and doth the world renew;
+    And then renew’d with pleasure be yfed.
+    A green soft mantle doth her bosome strew
+    With fragrant herbs and flowers embellished,
+  Where without fault or shame all living creatures bed.
+
+  101
+
+    Ne ought we doubt how Nature may recover
+    In her own ashes long time buried,
+    For nought can ever consume that centrall power
+    Of hid spermatick life, which lies not dead
+    In that rude heap, but safely covered;
+    And doth by secret force suck from above
+    Sweet heavenly juice, and therewith nourished
+    Till her just bulk, she doth her life emprove,
+  Made mother of much children that about her move.
+
+  102
+
+    Witnesse that uncouth bird of Arabie
+    Which out of her own ruines doth revive
+    With all th’ exploits of skillfull Chymistrie,
+    Such as no vulgar wit can well believe.
+    Let universall Nature witnesse give
+    That what I sing ’s no feigned forgerie.
+    A needlesse task new fables to contrive,
+    But what I sing is seemly verity
+  Well suting with right reason and Philosophie.
+
+  103
+
+    But the fit time of this mutation
+    No man can finden out with all his pains.
+    For the small sphears of humane reason run
+    Too swift within his narrow compast brains.
+    But that vast Orb of Providence contains
+    A wider period; turneth still and slow.
+    Yet at the last his aimed end he gains.
+    And sure at last a fire will overflow
+  The aged Earth, and all must into ashes go.
+
+  104
+
+    Then all the stately works and monuments
+    Built on this bottome shall to ruine fall.
+    And all those goodly statues shall be brent
+    Which were erect to the memoriall
+    Of Kings Kæsars, ne may better ’fall
+    The boastfull works of brave Poetick pride
+    That promise life and fame perpetuall;
+    Ne better fate may these poor lines abide.
+  Betide what will to what may live no lenger tide!
+
+  105
+
+    This is the course that never-dying Nature
+    Might ever hold from all Eternitie,
+    Renuing still the faint decayed creature
+    Which would grow stark and drie as aged tree,
+    Unlesse by wise preventing Destinie
+    She were at certain periods of years
+    Reduced back unto her Infancie,
+    Which well fram’d argument (as plain appears)
+  My ship from those hard rocks and shelves right safely stears.
+
+  106
+
+    Lo! now my faithfull muse hath represented
+    Both frames of Providence to open view,
+    And hath each point in orient colours painted
+    Not to deceive the sight with seeming shew
+    But earnest to give either part their due;
+    Now urging th’ uncouth strange perplexitie
+    Of infinite worlds and Time, then of a new
+    Softening that harsher inconsistencie
+  To fit the immense goodnesse of the Deity.
+
+  107
+
+    And here by curious men ’t may be expected
+    That I this knot with judgement grave decide,
+    And then proceed to what else was objected.
+    But, ah! What mortall wit may dare t’ areed
+    Heavens counsels in eternall horrour hid?
+    And Cynthius pulls me by my tender ear
+    Such signes I must observe with wary heed:
+    Wherefore my restlesse Muse at length forbear.
+  Thy silver sounded Lute hang up in silence here.
+
+
+  FINIS.
+
+
+
+
+  Cupids Conflict.
+
+
+  _Mela._ _Cleanthes._
+
+  _Cl._ _Mela_ my dear! why been thy looks so sad
+  As if thy gentle heart were sunk with care?
+  Impart thy case; for be it good or bad
+  Friendship in either will bear equall share.
+    _Mel._ Not so; _Cleanthes_, for if bad it be
+    My self must bleed afresh by wounding thee.
+
+  But what it is, my slow, uncertain wit
+  Cannot well judge. But thou shalt sentence give
+  How manfully of late my self I quit,
+  When with that lordly lad by chance I strive:
+    _Cl._ Of friendship _Mela_! let’s that story hear.
+    _Mel._ Sit down _Cleanthes_ then, and lend thine ear.
+
+  Upon a day as best did please my mind
+  Walking abroad amidst the verdant field
+  Scattering my carefull thoughts i’ th’ wanton wind
+  The pleasure of my path so farre had till’d
+    My feeble feet that without timely rest
+    Uneath it were to reach my wonted nest.
+
+  In secret shade farre moved from mortals sight
+  In lowly dale my wandring limbs I laid
+  On the cool grasse where Natures pregnant wit
+  A goodly bower of thickest trees had made.
+    Amongst the leaves the chearfull birds did fare
+    And sweetly carrol’d to the echoing air.
+
+  Hard at my feet ran down a crystall spring
+  Which did the cumbrous pebbles hoarsly chide
+  For standing in the way. Though murmuring
+  The broken stream his course did rightly guide
+    And strongly pressing forward with disdain
+    The grassie flore divided into twain.
+
+  The place a while did feed my foolish eye
+  As being new, and eke mine idle ear
+  Did listen oft to that wild harmonie
+  And oft my curious phansie would compare
+    How well agreed the Brooks low muttering Base,
+    With the birds trebbles pearch’d on higher place.
+
+  But senses objects soon do glut the soul,
+  Or rather weary with their emptinesse;
+  So I, all heedlesse how the waters roll
+  And mindlesse of the mirth the birds expresse,
+    Into my self ’gin softly to retire
+    After hid heavenly pleasures to enquire.
+
+  While I this enterprize do entertain;
+  Lo! on the other side in thickest bushes
+  A mighty noise! with that a naked swain
+  With blew and purple wings streight rudely rushes.
+    He leaps down light upon the flowry green,
+    Like sight before mine eyes had never seen.
+
+  At’s snowy back the boy a quiver wore
+  Right fairly wrought and gilded all with gold.
+  A silver bow in his left hand he bore,
+  And in his right a ready shaft did hold.
+    Thus armed stood he and betwixt us tway
+    The labouring brook did break his toilsome way.
+
+  The wanton lad whose sport is others pain
+  Did charge his bended bow with deadly dart,
+  And drawing to the head with might and main,
+  With fell intent he aim’d to hit my heart.
+    But ever as he shot his arrows still
+    In their mid course dropt down into the rill.
+
+  Of wondrous virtues that in waters been
+  Is needlesse to rehearse, all books do ring
+  Of those strange rarities. But ne’re was seen
+  Such virtue as resided in this spring.
+    The novelty did make me much admire
+    But stirr’d the hasty youth to ragefull ire.
+
+  As heedlesse fowls that take their per’lous flight
+  Over that bane of birds, _Averno lake_,
+  Do drop down dead: so dead his shafts did light
+  Amid this stream, which presently did slake
+    Their fiery points, and all their feathers wet
+    Which made the youngster Godling inly fret.
+
+  Thus lustfull Love (this was that love I ween)
+  Was wholly changed to consuming ire.
+  And eath it was, sith they’re so near a kin
+  They be both born of one rebellious sire.
+    But he supprest his wrath and by and by
+    For feathered darts, he winged words let flie:
+
+  Vain man! said he, and would thou wer’st not vain
+  That hid’st thy self in solitary shade
+  And spil’st thy precious youth in sad disdain
+  Hating this lifes delight! Hath god thee made
+    Part of this world, and wilt not thou partake
+    Of this worlds pleasure for its makers sake?
+
+  Unthankfull wretch! Gods gifts thus to reject
+  And maken nought of Natures goodly dower
+  That milders still away through thy neglect
+  And dying fades like unregarded flower.
+    This life is good, what’s good thou must improve,
+    The highest improvement of this life is love.
+
+  Had I (but O that envious Destinie,
+  Or Stygian vow, or thrice accursed charm
+  Should in this place free passage thus denie
+  Unto my shafts as messengers of harm!
+    Had I but once transfixt thy froward breast,
+    How would’st thou then----I staid not for the rest;
+
+  But thus half angry to the boy replide:
+  How would’st thou then my soul of sense bereave!
+  I blinded, thee more blind should choose my guide!
+  How would’st thou then my muddied mind deceive
+    With fading shows, that in my errour vile,
+    Base lust; I love should tearm, vice, virtue stile.
+
+  How should my wicked rymes then idolize
+  Thy wretched power, and with impious wit
+  Impute thy base born passions to the skies
+  And my souls sicknesse count an heavenly fit,
+    My weaknesse strength, my wisdome to be caught
+    My bane my blisse, mine ease to be o’rewraught.
+
+  How often through my fondly feigning mind
+  And frantick phansie, in my Mistris eye
+  Should I a thousand fluttering Cupids find
+  Bathing their busie wings? How oft espie
+    Under the shadow of her eye-brows fair
+    Ten thousand Graces sit all naked bare?
+
+  Thus haunted should I be with such feat fiends:
+  A pretty madnesse were my portion due.
+  Foolish my self I would not hear my friends.
+  Should deem the true for false, the false for true.
+    My way all dark more slippery then ice
+    My attendents, anger, pride, and jealousies.
+
+  Unthankfull then to God I should neglect
+  All the whole world for one poor sorry wight,
+  Whose pestilent eye into my heart project
+  Would burn like poysonous Comet in my spright.
+    Aye me! how dismall then would prove that day
+    Whose onely light sprang from so fatall ray.
+
+  Who seeks for pleasure in this mortall life
+  By diving deep into the body base
+  Shall loose true pleasure: But who gainly strive
+  Their sinking soul above this bulk to place
+    Enlarg’d delight they certainly shall find
+    Unbounded joyes to fill their boundlesse mind.
+
+  When I my self from mine own self do quit
+  And each thing else; then an all-spreaden love
+  To the vast Universe my soul doth sit
+  Makes me half equall to all-seeing Jove.
+    My mighty wings high stretch’d then clapping light
+    I brush the starres and make them shine more bright.
+
+  Then all the works of God with close embrace
+  I dearly hug in my enlarged arms
+  All the hid paths of heavenly Love I trace
+  And boldly listen to his secret charms.
+    Then clearly view I where true light doth rise,
+    And where eternall Night low-pressed lies.
+
+  Thus lose I not by leaving small delight
+  But gain more joy, while I my self suspend
+  From this and that; for then with all unite
+  I all enjoy, and love that love commends.
+    That all is more then loves the partiall soul
+    Whose petty loves th’ impartiall fates controll.
+
+  Ah son! said he, (and laughed very loud)
+  That trickst thy tongue with uncouth strange disguize,
+  Extolling highly that with speeches proud
+  To mortall men that humane state denies,
+    And rashly blaming what thou never knew
+    Let men experienc’d speak, if they’ll speak true.
+
+  Had I once lanc’d thy froward flinty heart
+  And cruddled bloud had thawn with living fire
+  And prickt thy drousie sprite with gentle smart
+  How wouldst thou wake to kindly sweet desire,
+    Thy soul fill’d up with overflowing pleasures
+    Would dew thy lips with hony-dropping measures.
+
+  Then wouldst thou caroll loud and sweetly sing
+  In honour of my sacred Deity
+  That all the woods and hollow hills would ring
+  Reechoing thy heavenly harmonie.
+    And eke the hardy rocks with full rebounds
+    Would faithfully return thy silver sounds.
+
+  Next unto me would be thy Mistresse fair,
+  Whom thou might setten out with goodly skill
+  Her peerlesse beauty and her virtues rare,
+  That all would wonder at thy gracefull quill.
+    And lastly in us both thy self shouldst raise
+    And crown thy temples with immortall bayes.
+
+  But now thy riddles all men do neglect,
+  Thy rugged lines of all do lie forlorn.
+  Unwelcome rymes that rudely do detect
+  The Readers ignorance. Men holden scorn
+    To be so often non-plusd or to spell,
+    And on one stanza a whole age to dwell.
+
+  Besides this harsh and hard obscuritie
+  Of the hid sense, thy words are barbarous
+  And strangely new, and yet too frequently
+  Return, as usuall plain and obvious,
+    So that the show of the new thick-set patch
+    Marres all the old with which it ill doth match.
+
+  But if thy haughty mind, forsooth, would deign
+  To stoop so low to hearken to my lore,
+  Then wouldst thou with trim lovers not disdeign
+  To adorn the outside, set the best before.
+    Nor rub nor wrinkle would thy verses spoil
+    Thy rymes should run as glib and smooth as oyl.
+
+  If that be all, said I, thy reasons slight
+  Can never move my well establishd mind.
+  Full well I wote alwayes the present sprite,
+  Or life that doth possesse the soul, doth blind,
+    Shutting the windows ’gainst broad open day
+    Lest fairer sights its uglinesse bewray.
+
+  The soul then loves that disposition best
+  Because no better comes unto her view.
+  The drunkard drunkennesse, the sluggard rest,
+  Th’ Ambitious honour and obeisance due.
+    So all the rest do love their vices base
+    ’Cause virtues beauty comes not into place.
+
+  And looser love ’gainst Chastitie divine
+  Would shut the door that he might sit alone.
+  Then wholly should my mind to him incline:
+  And woxen strait, (since larger love was gone)
+    That paultrie sprite of low contracting lust
+    Would fit my soul as if ’t were made for ’t just.
+
+  Then should I with my fellow bird or brute
+  So strangely metamorphis’d, either ney
+  Or bellow loud: or if ’t may better sute
+  Chirp out my joy pearch’d upon higher spray.
+    My passions fond with impudence rehearse,
+    Immortalize my madnesse in a verse.
+
+  This is the summe of thy deceiving boast
+  That I vain ludenesse highly should admire,
+  When I the sense of better things have lost
+  And chang’d my heavenly heat for hellish fire,
+    Passion is blind, but virtues piercing eye
+    Approching danger can from farre espie.
+
+  And what thou dost Pedantickly object
+  Concerning my rude rugged uncouth style,
+  As childish toy I manfully neglect,
+  And at thy hidden snares do inly smile.
+    How ill alas! with wisdome it accords
+    To sell my living sense for livelesse words.
+
+  My thought ’s the fittest measure of my tongue,
+  Wherefore I’ll use what’s most significant,
+  And rather then my inward meaning wrong
+  Or my full-shining notion trimly scant,
+    I’ll conjure up old words out of their grave,
+    Or call fresh forrein force in if need crave.
+
+  And these attending on my moving mind
+  Shall duly usher in the fitting sense.
+  As oft as meet occasion I find.
+  Unusuall words oft used give lesse offence;
+    Nor will the old contexture dim or marre,
+    For often us’d they’re next to old, thred-bare.
+
+  And if the old seem in too rustie hew,
+  Then frequent rubbing makes them shine like gold,
+  And glister all with colour gayly new.
+  Wherefore to use them both we will be bold.
+    Thus lists me fondly with fond folk to toy,
+    And answer fools with equall foolerie.
+
+  The meaner mind works with more nicetie,
+  As spiders wont to weave their idle web,
+  But braver spirits do all things gallantly
+  Of lesser failings nought at all affred:
+    So Natures carelesse pencill dipt in light
+    With sprinkled starres hath spattered the Night.
+
+  And if my notions clear though rudely thrown
+  And loosely scattered in my poesie,
+  May lend men light till the dead Night be gone,
+  And Morning fresh with roses strew the skie:
+    It is enough, I meant no trimmer frame
+    Or by nice needle-work to seek a name.
+
+  Vain man! that seekest name mongst earthly men
+  Devoid of God and all good virtuous lere;
+  Who groping in the dark do nothing ken
+  But mad; with griping care their souls do tear,
+    Or burst with hatred or with envie pine
+    Or burn with rage or melt out at their eyne.
+
+  Thrice happy he whose name is writ above,
+  And doeth good though gaining infamie;
+  Requiteth evil turns with hearty love,
+  And recks not what befalls him outwardly:
+    Whose worth is in himself, and onely blisse
+    In his pure conscience that doth nought amisse.
+
+  Who placeth pleasure in his purged soul
+  And virtuous life his treasure doth esteem;
+  Who can his passions master and controll,
+  And that true lordly manlinesse doth deem,
+    Who from this world himself hath clearly quit
+    Counts nought his own but what lives in his sprite.
+
+  So when his sprite from this vain world shall flit
+  It bears all with it whatsoever was dear
+  Unto it self, passing in easie fit,
+  As kindly ripen’d corn comes out of th’ eare.
+    Thus mindlesse of what idle men will say
+    He takes his own and stilly goes his way.
+
+  But the retinue of proud Lucifer,
+  Those blustering Poets that flie after fame
+  And deck themselves like the bright Morning-starre.
+  Alas! it is but all a crackling flame.
+    For death will strip them of that glorious plume
+    That airie blisse will vanish into fume.
+
+  For can their carefull ghosts from Limbo take
+  Return, or listen from the bowed skie
+  To heare how well their learned lines do take?
+  Or if they could; is Heavens felicitie
+    So small as by mans praise to be encreas’d,
+    Hells pain no greater then hence to be eas’d?
+
+  Therefore once dead in vain shall I transmit
+  My shadow to gazing Posteritie;
+  Cast farre behind me I shall never see’t,
+  On Heavens fair Sunne having fast fixt mine eye.
+    Nor while I live, heed I what man doth praise
+    Or underprize mine unaffected layes.
+
+  What moves thee then, said he, to take the pains
+  And spenden time if thou contemn’st the fruit?
+  Sweet fruit of fame, that fills the Poets brains
+  With high conceit and feeds his fainting wit.
+    How pleasant ’tis in honour here to live
+    And dead, thy name for ever to survive!
+
+  Or is thy abject mind so basely bent
+  As of thy Muse to maken Merchandize?
+  (And well I wote this is no strange intent.)
+  The hopefull glimps of gold from chattering Pies,
+  From Daws and Crows, and Parots oft hath wrung
+  An unexpected Pegaseian song.
+
+  Foul shame on him, quoth I, that shamefull thought
+  Doth entertain within his dunghill breast,
+  Both God and Nature hath my spirits wrought
+  To better temper and of old hath blest
+    My loftie soul with more divine aspires
+    Then to be touchd with such vile low desires.
+
+  I hate and highly scorn that Kestrell kind
+  Of bastard scholars that subordinate
+  The precious choice induements of the mind
+  To wealth or worldly good. Adulterate
+    And cursed brood! Your wit and will are born
+    Of th’ earth and circling thither do return.
+
+  Profit and honour be those measures scant
+  Of your slight studies and endeavours vain,
+  And when you once have got what you did want
+  You leave your learning to enjoy your gain.
+    Your brains grow low, your bellies swell up high,
+    Foul sluggish fat ditts up your dulled eye.
+
+  Thus what the earth did breed, to th’ earth is gone,
+  Like fading hearb or feebly drooping flower,
+  By feet of men and beast quite trodden down,
+  The muck-sprung learning cannot long endure.
+    Back she returns lost in her filthy source,
+    Drown’d, chok’d or slocken by her cruell nurse.
+
+  True virtue to her self’s the best reward,
+  Rich with her own and full of lively spirit,
+  Nothing cast down for want of due regard.
+  Or ’cause rude men acknowledge not her merit.
+    She knows her worth and stock from whence she sprung,
+    Spreads fair without the warmth of earthly dung,
+
+  Dew’d with the drops of Heaven shall flourish long;
+  As long as day and night do share the skie,
+  And though that day and night should fail yet strong
+  And steddie, fixed on Eternitie
+    Shall bloom for ever. So the foul shall speed
+    That loveth virtue for no worldly meed.
+
+  Though sooth to sayn, the worldly meed is due
+  To her more then to all the world beside.
+  Men ought do homage with affections true
+  And offer gifts for God doth there reside.
+    The wise and virtuous soul is his own seat
+    To such what’s given God himself doth get.
+
+  But earthly minds whose sight’s seal’d up with mud
+  Discern not this flesh-clouded Deity,
+  Ne do acknowledge any other good
+  Then what their mole-warp hands can feel and trie
+    By groping touch; thus (worth of them unseen)
+    Of nothing worthy that true worth they ween.
+
+  Wherefore the prudent Law-givers of old
+  Even in all Nations, with right sage foresight
+  Discovering from farre how clums and cold
+  The vulgar wight would be to yield what’s right
+    To virtuous learning, did by law designe
+    Great wealth and honour to that worth divine.
+
+  But nought’s by law to Poesie due said he,
+  Ne doth the solemn Statesmans head take care
+  Of those that such impertinent pieces be
+  Of common-weals. Thou’d better then to spare
+    Thy uselesse vein. Or tell else, what may move
+    Thy busie use such fruitlesse pains to prove.
+
+  No pains but pleasure to do the dictates dear
+  Of inward living nature. What doth move
+  The Nightingall to sing so sweet and clear
+  The Thrush, or Lark that mounting high above
+    Chants her shrill notes to heedlesse ears of corn
+    Heavily hanging in the dewy morn.
+
+  When life can speak, it can not well withhold
+  T’ expresse its own impressions and hid life.
+  Or joy or grief that smoothered lie untold
+  Do vex the heart and wring with restlesse strife.
+    Then are my labours no true pains but ease
+    My souls unrest they gently do appease.
+
+  Besides, that is not fruitlesse that no gains
+  Brings to my self. I others profit deem
+  Mine own: and if at these my heavenly flames
+  Others receiven light, right well I ween
+    My time’s not lost. Art thou now satisfide
+    Said I: to which the scoffing boy replide.
+
+  Great hope indeed thy rymes should men enlight,
+  That be with clouds and darknesse all o’recast,
+  Harsh style and harder sense void of delight
+  The Readers wearied eye in vain do wast.
+    And when men win thy meaning with much pain,
+    Thy uncouth sense they coldly entertain.
+
+  For wotst thou not that all the world is dead
+  Unto that Genius that moves in thy vein
+  Of poetrie! But like by like is fed.
+  Sing of my Trophees in triumphant strein,
+    Then correspondent life, thy powerfull verse
+    Shall strongly strike and with quick passion pierce.
+
+  The tender frie of lads and lasses young
+  With thirstie eare thee compassing about,
+  Thy Nectar-dropping Muse, thy sugar’d song
+  Will swallow down with eagre hearty draught;
+    Relishing truly what thy rymes convey,
+    And highly praising thy soul-smiting lay.
+
+  The mincing maid her mind will then bewray,
+  Her heart-bloud flaming up into her face,
+  Grave matrons will wex wanton and betray
+  Their unresolv’dnesse in their wonted grace;
+    Young boyes and girls would feel a forward spring,
+    And former youth to eld thou back wouldst bring.
+
+  All Sexes, Ages, Orders, Occupations
+  Would listen to thee with attentive ear,
+  And eas’ly moved with thy sweet perswasions,
+  Thy pipe would follow with full merry chear.
+    While thou thy lively voice didst loud advance
+    Their tickled bloud for joy would inly dance.
+
+  But now, alas! poore solitarie man!
+  In lonesome desert thou dost wander wide
+  To seek and serve thy disappearing Pan,
+  Whom no man living in the world hath eyde:
+    For Pan is dead but I am still alive,
+    And live in men who honour to me give:
+
+  They honour also those that honour me
+  With sacred songs. But thou now singst to trees
+  To rocks to Hills, to Caves that senselesse be
+  And mindlesse quite of thy hid mysteries,
+    In the void aire thy idle voice is spread,
+    Thy Muse is musick to the deaf or dead.
+
+  Now out alas! said I, and wele-away
+  The tale thou tellest I confesse too true.
+  Fond man so doteth on this living clay
+  His carcase dear, and doth its joyes pursue,
+    That of his precious soul he takes no keep
+    Heavens love and reasons light lie fast asleep.
+
+  This bodies life vain shadow of the soul
+  With full desire they closely do embrace,
+  In fleshly mud like swine they wallow and roll,
+  The loftiest mind is proud but of the face
+    Or outward person; if men but adore
+    That walking sepulchre, cares for no more.
+
+  This is the measure of mans industry
+  To wexen some body and getten grace
+  To ’s outward presence; though true majestie
+  Crown’d with that heavenly light and lively rayes
+    Of holy wesdome and Seraphick love,
+    From his deformed soul he farre remove.
+
+  Slight knowledge and lesse virtue serves his turn
+  For this designe. If he hath trod the ring
+  Of pedling arts; in usuall pack-horse form
+  Keeping the rode; O! then ’t’s a learned thing.
+    If any chanc’d to write or speak what he
+    Conceives not ’t were a foul discourtesie.
+
+  To cleanse the soul from sinne, and still diffide
+  Whether our reasons eye be clear enough
+  To intromit true light, that fain would glide
+  Into purg’d hearts, this way ’s too harsh and rough:
+    Therefore the clearest truths may well seem dark
+    When sloathfull men have eyes so dimme and stark.
+
+  These be our times. But if my minds presage
+  Bear any moment, they can ne’re last long,
+  A three branch’d Flame will soon sweep clean the stage
+  Of this old dirty drosse and all wex young.
+    My words into this frozen air I throw
+    Will then grow vocall at that generall thaw.
+
+  Nay, now thou ’rt perfect mad, said he, with scorn,
+  And full of foul derision quit the place.
+  The skie did rattle with his wings ytorn
+  Like to rent silk. But I in the mean space
+    Sent after him this message by the wind
+    Be ’t so I ’m mad, yet sure I am thou ’rt blind.
+
+  By this the out-stretch’d shadows of the trees
+  Pointed me home-ward, and with one consent
+  Foretold the dayes descent. So straight I rise
+  Gathering my limbs from off the green pavement
+    Behind me leaving then the slooping Light.
+  _Cl._ And now let’s up, _Vesper_ brings on the Night.
+
+
+_FINIS._
+
+[Illustration]
+
+
+
+
+  _A Particular Interpretation appertaining to
+  the three last books of the Platonick
+  Song of the Soul._
+
+
+A
+
+_Atom-lives._ The same that Centrall lives. Both the terms denotate the
+indivisibility of the inmost essence it self; the pure essentiall form I
+mean, of plant, beast or man, yea of angels themselves, good or bad.
+
+  _Apogee_,          }
+  _Autokineticall_,  }
+  _Ananke_,          } See Interpret. Gen.
+  _Acronycall_,      }
+  _Alethea-land_,    }
+
+_Animadversall. That lively inward animadversall._ It is the soul it
+self, for I cannot conceive the body doth animadvert; when as objects
+plainly exposed to the sight are not discovered till the soul takes
+notice of them.
+
+
+B
+
+_Body._ The ancient Philosophers have defined it, Τὸ τριχῇ διάστατον
+μετ’ ἀντιτυπίας. _Sext. Emperic. Pyrrhon. Hypotyp. lib. 3. cap. 5._ Near
+to this is that description, _Psychathan_, Cant. 2. Stanz. 12. lib. 2,
+_Matter extent in three dimensions._ But for that ἀντιτυπία, simple
+trinall distension doth not imply it, wherefore I declin’d it. But took
+in _matter_ according to their conceit, that phansie _à Materia prima_,
+I acknowledge none, and consequently no such _corpus naturale_ as our
+Physiologist make the subject of that science. That Τριχῇ διάστατον
+ἀντίτυπον is nothing but a fixt spirit, the conspissation or coagulation
+of the Cuspidall particles of the Cone, which are indeed the Centrall
+Tasis or inward essence of the sensible world. These be an infinite
+number of vitall Atoms that may be wakened into diverse tinctures, or
+energies, into fiery, watery, earthy, &c. And one divine _Fiat_ can
+unloose them all into an universall mist, or turn them out of that sweat
+into a drie and pure Etheriall temper. These be the last projections of
+life from the soul of the world; and are act or form though debil and
+indifferent, like that which they call the first matter. But they are
+not meerly passive but meet their information half way, as I may so
+speak: are radiant _ab intimo_ and awake into this or the other
+operation, by the powerfull appulse of some superadvenient form. That
+which change of Phantasmes is to the soul, that is alteration of rayes
+to them. For their rayes are _ab intrinseco_, as the phantasmes of the
+soul. These be the reall matter of which all supposed bodies are
+compounded, and this matter (as I said) is form and life, so that all is
+life and form what ever is in the world, as I have somewhere intimated
+in _Antipsychopan_: But however I use the terme _body_ ordinarily in the
+usuall and vulgar acception. And for that sense of the ancients, nearest
+to which I have defined it in the place first above mentioned, that I
+seem not to choose that same as most easie to proceed against in
+disproving the corporeity of the soul, the arguments do as necessarily
+conclude against such a naturall body as is ordinarily described in
+Physiologie (as you may plainly discern if you list to observe) as also
+against this body composed of the Cuspidall particles of the Cone. For
+though they be Centrall lives, yet are they neither Plasticall,
+Sensitive, or Rationall, so farre are they from proving to be the humane
+soul whose nature is there discust.
+
+
+C
+
+_Cone_: Is a solid figure made by the turning of a rectangular triangle,
+about; one of the sides that include the right angle resting, which will
+be then the Axis of the compleated Cone. But I take it sometimes for the
+comprehension of all things, God himself not left out, whom I tearm the
+_Basis_ of the _Cone_ or _Universe_. And because all from him descends,
+καθ’ ὑποστολῆν, with abatement or contraction, I give the name of _Cone_
+to the Universe. And of Cone rather then Pyramid because of the
+roundnesse of the figure, which the effluxes of all things imitate.
+
+  _Chaos_,      }
+  _Chronicall_, } See interpret· Gen.
+  _Clare_,      }
+
+_Circulation_, The terme is taken from a toyish observation, _viz._ the
+circling of water when a stone is cast into a standing pool. The motion
+drives on circularly, the first rings are thickest, but the further they
+go they grow the thinner, till they vanish into nothing. Such is the
+diffusion of the species audible in the strucken aire, as also of the
+visible species. In brief any thing is said to circulate that diffuseth
+its image or species in a round. It might have been more significantly
+called orbiculation; seeing this circumfusion makes not onely a circle,
+but fills a sphere, which may be called the sphere of activity. Yet
+Circulation more fitly sets out the diminution of activity, from those
+ringes in the water which as they grow in compasse, abate in force and
+thicknesse. But sometimes I use Circulate in an ordinary sense to turn
+round, or return in a circle.
+
+_Centre_, _Centrall_, _Centrality_. When they are used out of their
+ordinary sense, they signifie the depth or inmost being of any thing,
+from whence its acts and energies flow forth. See _Atom-lives_.
+
+_Cuspis_ of the _Cone_. The multiplide Cuspis of the Cone is nothing but
+the last projection of life from Psyche, which is שׁמים a liquid fire or
+fire and water, which are the corporeall or materiall principles of all
+things, changed or disgregated (if they be centrally distinguishable)
+and again mingled by the virtue of Physis or Spermaticall life of the
+world; of these are the Sunne and all the Planets, they being kned
+together, and fixt by the Centrall power of each Planet and Sunne. The
+volatile Ether is also of the same, and all the bodies of plants, beasts
+and men. These are they which we handle and touch, a sufficient number
+compact together. For neither is the noise of those little flies in a
+summer-evening audible severally: but a full Quire of them strike the
+ear with a pretty kind of buzzing. Strong and tumultuous pleasure and
+scorching pain reside in these, they being essentiall and centrall, but
+sight and hearing are onely of the images of these, See _Body_.
+
+_Eternitie._ Is the steddie comprehension of all things at once. See Æon
+discribed in my Expos. upon Psychozoia.
+
+_Energie._ It is a peculiar Platonicall terme. In my Interpret. Gen.
+I expounded it Operation, Efflux, Activity. None of those words bear the
+full sense of it. The examples there are fit, _viz._ the light of the
+Sunne, the phantasms of the soul. We may collect the genuine sense of
+the word by comparing severall places in the Philosopher. Ἔχει γὰρ
+ἕκαστον τῶν ὄντων ἐνεργειαν, ἥ ἐστιν ὁμοίωμα αὐτοῦ, ὥστε αὐτοῦ ὄντος,
+κἀκεῖνο εἶναι, καὶ μένοντος φθάνειν εἰς τὸ πόῤῥω, τὸ μὲν ἐπὶ πλέον, τὸ
+δὲ εἰς ἔλαττον. Καὶ αἱ μὲν ἀσθενεῖς καὶ ἀμυδραὶ, αἱ δὲ καὶ λανθάνουσαι,
+τῶν δ’ εἰσὶ μείζους καὶ εἰς τὸ πόῤῥω. _For every being hath its Energie,
+which is the image of it self, so that it existing that Energie doth
+also exist, and standing still is projected forward more or lesse. And
+some of those energies are weak and obscure, others hid or
+undiscernable, othersome greater and of a larger projection._ Plotin.
+Ennead. 4. lib. 5. cap. 7. And again, Ennead. 3. lib. 4. Καὶ μένομεν τῷ
+μὲν νοητῷ ἀνθρώπῳ ἄνω· τῷ δὲ ἐσχάτῳ αὐτοῦ, πεπεδήμεθα τῷ κάτω, οἷον
+ἀπόῤῥοιαν ἀπ’ ἐκείνου διδόντες εἰς τὸ κάτω, μᾶλλον δὲ ἐνέργειαν, ἐκείνου
+οὐκ ἐλαττουμένου. _And we remain above by the Intellectuall man, but by
+the extreme part of him we are held below, as it were yielding an efflux
+from him to that which is below, or rather an energie he being not at
+all lessened._ This curiositie Antoninus also observes, (lib. 8.
+Meditat.) in the nature of the sun-beams, where although he admits of
+χύσις, yet he doth not of ἀπόῤῥοια which is ἔκχυσις. Ὁ ἥλιος
+κατακεχύσθαι δοκεῖ, καὶ πάντῇ γε κέχυται οὐ μὴν ἐκκέχυται. ἡ γὰρ χύσις
+αὐτοῦ τάσις ἐστίν. ἀκτῖνες γοῦν αἱ αὐγαὶ αὐτοῦ ἀπὸ τοῦ ἐκτείνεσθαι
+λέγονται. _The sunne_, saith he, _is diffused, and his fusion is every
+where but without effusion_, &c. I will onely adde one place more out of
+Plotinus. Ennead. 3. lib. 6. Ἑκάστου δὲ μορίου ἡ ἐνέργεια ἡ κατὰ φύσιν
+ζωὴ οὐκ ἐξιστᾶσα. _The naturall energie of each power of the soul is
+life not parted from the soul though gone out of the soul, =viz.= into
+act._
+
+Comparing of all these places together, I cannot better explain this
+Platonick term, _energie_, then by calling it the rayes of an essence,
+or the beams of a vitall Centre. For essence is the Centre as it were of
+that which is truly called Energie, and Energie the beams and rayes of
+an essence. And as the _Radii_ of a circle leave not the centre by
+touching the Circumference, no more doth that which is the pure Energie
+of an essence, leave the essence by being called out into act, but is
+ἐν-έργεια a working in the essence though it flow _out_ into act. So
+that _Energie_ depends alwayes on essence, as _Lumen_ on _Lux_, or the
+creature on God; Whom therefore Synesius in his Hymnes calls the Centre
+of all things.
+
+_Entelecheia._ See Interpret. Gen.
+
+
+F
+
+_Faith._ _Platonick faith in the first Good._ This faith is excellently
+described in Proclus, where it is set above all ratiocination, nay,
+Intellect it self. Πρὸς δὲ αὖ τὸ ἀγαθὸν οὐ γνώσεως ἔτι καὶ συνεργείας
+δεῖ τοῖς συναφθῆναι σπεύδουσιν, ἀλλ’ ἱδρύσεως καὶ μονίμου καταστάσεως
+καὶ ἠρεμίας. _But to them that endeavour to be joyned with the first
+Good, there is no need of knowledge or multifarious cooperation, but
+settlednesse, steddinesse, and rest._ lib. 1. cap. 24. Theolog. Platon.
+And in the next chapter; Δεῖ γὰρ οὐ γνωστικῶς οὐδ’ ἀτελῶς τὸ ἀγαθὸν
+ἐπιζητεῖν, ἀλλ’ ἐπιδόντας ἑαυτοὺς τῷ θείῳ φωτὶ καὶ μύσαντας, οὕτως
+ἐνιδρύεσθαι τῇ ἀγνώστῳ καὶ κρυφίῳ τῶν ὄντων ἑνάδι. _For we must not seek
+after that absolute or first Good cognoscitively or imperfectly, but
+giving our selves up to the divine light, and winking_ (that is shutting
+our eyes of reason and understanding) _so to place our selves steddily
+in that hidden Unitie of all things_. After he preferres this faith
+before the clear and present assent to the κοιναὶ ἔννοιαι, yea and the
+νοερὰ ἁπλότης, so that he will not that any intellectuall operation
+should come in comparison with it. Πολυειδὴς γὰρ αἵτη καὶ δι’ ἑτερότητος
+χωριζομένη τῶν νοουμένων, καὶ ὅλως κίνησίς ἐστι νοερὰ περὶ τὸ νοητόν.
+Δεῖ δὲ τὴν θείαν πίστιν ἑνοειδῆ καὶ ἤρεμον ὑπάρχειν ἐν τῷ τῆς ἀγαθότητος
+ὁρμῷ τελείως ἱδρυθεῖσαν. _For the operation of the Intellect is
+multiform and by diversitie separate from her objects, and is in a word,
+intellectuall motion about the object intelligible. But the divine faith
+must be simple and uniform, quiet and steddily resting in the haven of
+Goodnesse._ And at last he summarily concludes, Ἐστί οὖν οὗτος ὅρμος
+ἀσφαλὴς τῶν ὄντων ἁπάντων. See Procl. Theolog. Platonick. lib. 1. cap.
+25.
+
+
+H
+
+_Hyle._ See Interpret. Gen.
+
+
+I
+
+_Intellect._  Sometimes it is to be interpreted _Soul_. Sometime the
+intellectuall facultie of the soul. Sometimes Intellect is an absolute
+essence shining into the soul: whose nature is this. A substance purely
+immateriall, impeccable, actually omniform, or comprehending all things
+at once, which the soul doth also being perfectly joyned with the
+Intellect. Ἔχομεν οὖν καὶ τὰ εἴδη διχῶς, ἐν μὲν ψυχῇ οἷον μὲν
+ἀνειλιγμένα καὶ οἷον κεχωρισμένα, ἐν δὲ τῷ νῷ ὁμοῦ τὰ πάντα. Plot.
+Ennead. 1. lib. 1. cap. 8. _Ideas_, or _Idees_. Sometimes they are forms
+in the Intellectuall world. _viz._ in _Æon_, or _On_, other sometimes,
+phantasmes or representations in the soul. _Innate Idees_ are the souls
+nature it self, her uniform essence, able by her _Fire_ to produce this
+or that phantasme into act.
+
+  _Idiopathy._   } See Interpret. Gen.
+  _Iao_          }
+
+
+L
+
+_Logos._ See Interpret. Gen.
+
+_Life._ The vitall operation of any soul. Sometime it is the soul it
+self, be it sensitive, vegetative, or rationall.
+
+_Lower man._ The lower man is our enquickned body, into which our soul
+comes, it being fitly prepared for the receiving of such a guest. The
+manner of the production of souls, or rather their non-production is
+admirably well set down in Plotinus, See, _Ennead. 6. lib. 4. cap. 14,
+15_.
+
+
+M
+
+_Monad._ See Interpr. Gen.
+
+_Mundane._ _Mundane spirit_, Is that which is the spirit of the world or
+Universe. I mean by it not an intellectuall spirit, but a fine, unfixt,
+attenuate, subtill, ethereall substance, the immediate vehicle of
+plasticall or sensitive life.
+
+_Memory._ _Mundane memory._ Is that memory that is seated in the
+_Mundane_ spirit of man, by a strong impression, or inustion of any
+phantasme, or outward sensible object, upon that spirit. But there is a
+Memory more subtill and abstract in the soul it self, without the help
+of this spirit, which she also carries away with her having left the
+body.
+
+_Magicall._ That is, attractive, or commanding by force of sympathy with
+the life of this naturall world.
+
+_Moment._ Sometimes signifies an instant, as indivisible, as κίνημα,
+which in motion answers to an instant in time, or a point in a line,
+_Aristot. Phys._ In this sense I use it, Psychathan. lib. 3. cant. 2.
+stanz. 16; _But in a moment sol doth ray._ But Cant. the 3. Stanz. 45.
+v. 2. I understand, as also doth Lansbergius, by a _moment_ one second
+of a minute. In Antipsych. Cant. 2. Stanz. the 20. v. 2. by a _moment_ I
+understand a minute, or indefinitely any small time.
+
+
+O
+
+_Orb._ _Orb Intellectuall_, is nothing else but Æon or the Intellectuall
+world. The Orbs generall mentioned Psycathan. lib. 1. cant. 3. stanz.
+23. v. 2. I understand by them but so many universall orders of beings,
+if I may so terme them all; for _Hyle_ hath little or nothing of being.
+
+_Omniformity._ The omniformity of the soul is the having in her nature
+all forms, latent at least, and power of awaking them into act, upon
+occasion.
+
+_Out-world._ and _Out-Heaven._ The sensible world, the visible Heaven.
+
+
+P
+
+  _Perigee_,      }
+  _Psychicall_,   }
+  _Pareties_,     } See Interpret. Gen.
+  _Parallax_,     }
+  _Protopathy_.   }
+
+_Parturient._ See, _Vaticinant_.
+
+_Phantasie._ _Lower phantasie_, is that which resides in the Mundane
+spirit of a man, See _Memory_.
+
+
+Q
+
+_Quantitative._ Forms _quantitative_, are such sensible energies as
+arise from the complexion of many natures together, at whose discretion
+they vanish. That’s the seventh Orb of things, though broken and not
+filling all as the other do. But if you take it for the whole sensible
+world, it is entire, and is the same that _Tasis_ in Psycozoia. But the
+centre of _Tasis_, viz. the multiplication of the reall _Cuspis_ of the
+_Cone_ (for _Hyle_ that is set for the most contract point of the
+_Cuspis_ is scarce to be reckoned among realities) that immense
+diffusion of atoms, is to be referred to _Psyche_, as an internall
+vegetative act, and so belongs to _Physis_ the lowest order of life. For
+as that warmth that the sense doth afford the body, is not rationall,
+sensitive, or imaginative, but vegetative; So this, שׁמים _i.e._ liquid
+fire, which _Psyche_ sends out, and is the outmost, last, and lowest
+operation from her self, is also vegetative.
+
+
+R
+
+_Rhomboides._ See Interpr. general.
+
+_Reason._ I understand by Reason, the deduction of one thing from
+another, which I conceive proceeds from a kind of continuitie of
+phantasmes: and is something like the moving of a cord at one end; the
+parts next it rise with it. And by this concatenation of phantasmes I
+conceive, that both brutes and men are moved in reasonable wayes and
+methods in their ordinary externall actions.
+
+_Rayes._ The rayes of an essence is its energie. See _Energie_.
+
+_Reduplicative._ That is reduplicative, which is not onely in this
+point, but also in another, having a kind of circumscribed ubiquitie,
+_viz._ in its own sphear. And this is either by being in that sphear
+omnipresent it self, as the soul is said to be in the body _tota in toto
+& tota in qualibet parte_, or else at least by propagation of rayes,
+which is the image of it self; and so are divers sensible objects
+_Reduplicative_, as light, colours, sounds. And I make account either of
+these wayes justly denominate any thing spirituall. Though the former is
+most properly, at least more eminently spirituall. And whether any thing
+be after that way spirituall saving the Divinitie, there is reason to
+doubt. For what is entirely omnipresent in a sphear, whose diametre is
+but three feet, I see not, why (that in the circumference being as fresh
+and entire as that in the centre) it should stop there and not proceed
+even _in infinitum_, if the circumference be still as fresh and entire
+as the centre.      But I define nothing.
+
+
+S
+
+_Spermaticall._ It belongs properly to Plants, but is transferred also
+to the Plasticall power in Animalls, I enlarge it to all magnetick power
+whatsoever that doth immediately rule and actuate any body. For all
+magnetick power is founded in _Physis_, and in reference to her, this
+world is but one great Plant, (one λόγος σπερματικός giving it shape and
+corporeall life) as in reference to _Psyche_, one happy and holy
+Animall.
+
+_Spirit._ Sometimes it signifieth the soul, othersometime, the naturall
+spirits in a mans body, which are _Vinculum animæ & corporis_, and the
+souls vehicle: Sometimes life. See _Reduplicative_.
+
+_Soul._ When I speak of mans Soul, I understand that which _Moses_ saith
+was inspired into the body, (fitted out and made of earth) by God,
+Genes. 2. which is not that impeccable spirit that cannot sinne; but the
+very same that the Platonists call ψυχή, a middle essence betwixt that
+which they call νοῦς (and we would in the Christian language call
+πνεῦμα) and the life of the body which is εἴδωλον ψυχῆς, a kind of an
+umbratil vitalitie, that the soul imparts to the bodie in the enlivening
+of it: That and the body together, we Christians would call σὰρξ, and
+the suggestions of it, especially in its corrupt estate, φρόνημα σαρκός.
+And that which God inspired into _Adam_ was no more then ψυχὴ, the soul,
+not the spirit, though it be called נשמת חיים _Spiraculum vitæ_; is
+plain out of the text; because it made man but become a living soul, נפש
+חיה. But you will say, he was a dead soul before, and this was the
+spirit of life, yea the spirit of God, the life of the soul that was
+breathed into him.
+
+But if חיה implie such a life and spirit, you must acknowledge the same
+to be also in the most stupid of all living creatures, even the fishes
+(whose soul is but as salt to keep them from stinking, as Philo speaks)
+for they are said to be נשמת חיים chap. 1. v. 20. 21. See 1 Cor. chap.
+15, v. 45, 46. In brief therefore, that which in Platonisme is νοῦς, is
+in Scripture πνεῦμα; what σὰρξ in one, τὸ θηρίον, the brute or beast in
+the other, ψυχὴ the same in both.
+
+_Self-reduplicative._ See _Reduplicative_.
+
+
+T
+
+_Tricentreitie._ Centre is put for essence, so _Tricentreitie_ must
+implie a trinitie of essence. See _Centre_, and _Energie_.
+
+
+V
+
+_Vaticinant._ The soul is said to be in a _vaticinant_ or _parturient_
+condition, when she hath some kind of sense and hovering knowledge of a
+thing, but yet cannot distinctly and fully, and commandingly represent
+it to her self, cannot plainly apprehend, much lesse comprehend the
+matter. The phrase is borrowed of Proclus, who describing the
+incomprehensiblenese of God, and the desire of all things towards him,
+speaks thus; Ἄγνωστον γὰρ ὂν ποθεῖ τὰ ὄντα τὸ ἐφετὸν τοῦτο καὶ ἄληπτον,
+μήτε οῦν γνῶναι μήτε ἑλεῖν ὁ ποθεῖ, δυνάμενα, περὶ αὐτὸ πάντα χορεύει
+καὶ ὠδίνει μὲν αὐτὸ καὶ οἷον ἀπομαντεύεται. _Theolog. Platon. lib. 1.
+cap. 21._ See _Psychathan. lib. 3. cant. 3. stanz. 12. & 14._
+
+
+
+
+_The Philosophers Devotion._
+
+
+  Sing aloud his praise rehearse
+  Who hath made the Universe.
+  He the boundlesse Heavens has spread
+  All the vitall Orbs has kned;
+  He that on _Olympus_ high
+  Tends his flocks with watchfull eye,
+  And this eye has multiplide
+  Midst each flock for so reside.
+  Thus as round about they stray
+  Toucheth each with out-stretch’d ray,
+  Nimbly they hold on their way,
+  Shaping out their Night and Day.
+  Never slack they; none respires,
+  Dancing round their Centrall fires.
+    In due order as they move
+  Echo’s sweet be gently drove
+  Thorough Heavens vast Hollownesse,
+  Which unto all corners presse:
+  Musick that the heart of _Jove_
+  Moves to joy and sportfull love;
+  Fills the listning saylers eares
+  Riding on the wandering Sphears.
+  Neither Speech nor Language is
+  Where their voice is not transmisse.
+    God is Good, is Wise, is Strong,
+  Witnesse all the creature-throng,
+  Is confess’d by every Tongue.
+  All things back from whence they sprong,
+  As the thankfull Rivers pay
+  What they borrowed of the Sea.
+    Now my self I do resigne,
+  Take me whole I all am thine.
+  Save me, God! from Self-desire,
+  Deaths pit, dark Hells raging fire,
+  Envy, Hatred, Vengeance, Ire.
+  Let not Lust my soul bemire.
+    Quit from these thy praise I’ll sing,
+  Loudly sweep the trembling string.
+  Bear a part, O Wisdomes sonnes!
+  Free’d from vain Relligions.
+  Lo! from farre I you salute,
+  Sweetly warbling on my Lute.
+  _Indie_, _Egypt_, _Arabie_,
+  _Asia_, _Greece_, and _Tartarie_,
+  _Carmel_-tracts, and _Lebanon_
+  With the _Mountains_ of the _Moon_,
+  from whence muddie _Nile_ doth runne,
+  Or whereever else you won;
+  Breathing in one vitall aire,
+  One we are though distant farre.
+    Rise at once lett’s sacrifice
+  Odours sweet perfume the skies.
+  See how Heavenly lightning fires
+  Hearts inflam’d with high aspires!
+  All the substance of our souls
+  Up in clouds of Incense rolls.
+  Leave we nothing to our selves
+  Save a voice, what need we els!
+  Or an hand to wear and tire
+  On the thankfull Lute or Lyre.
+    Sing aloud his praise rehearse
+  Who hath made the Universe.
+
+
+_FINIS._
+
+
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+
+  WILLIAM ANDREWS CLARK
+  MEMORIAL LIBRARY
+  UNIVERSITY OF CALIFORNIA, LOS ANGELES
+
+
+PUBLICATIONS IN PRINT
+
+[Decoration]
+
+  [Where available, Project Gutenberg e-text numbers are given in
+  brackets.]
+
+
+1948-1949
+
+16. Henry Nevil Payne, _The Fatal Jealousie_ (1673).  [16916]
+
+18. Anonymous, “Of Genius,” in _The Occasional Paper_, Vol. III, No. 10
+(1719), and Aaron Hill, Preface to The Creation (1720).  [15870]
+
+
+1949-1950
+
+19. Susanna Centlivre, _The Busie Body_ (1709).  [16740]
+
+20. Lewis Theobald, _Preface to the Works of Shakespeare_ (1734).
+[16346]
+
+22. Samuel Johnson, _The Vanity of Human Wishes_ (1749), and two
+_Rambler_ papers (1750).  [13350]
+
+23. John Dryden, _His Majesties Declaration Defended_ (1681).  [15074]
+
+
+1950-1951
+
+26. Charles Macklin, _The Man of the World_ (1792).  [14463]
+
+
+1951-1952
+
+31. Thomas Gray, _An Elegy Wrote in a Country Churchyard_ (1751), and
+_The Eton College Manuscript_.  [15409]
+
+
+1952-1953
+
+41. Bernard Mandeville, _A Letter to Dion_ (1732).  [29478]
+
+
+1962-1963
+
+98. _Select Hymns Taken Out of Mr. Herbert’s Temple_ (1697).
+
+
+1963-1964
+
+104. Thomas D’Urfey, _Wonders in the Sun_; or, _The Kingdom of the
+Birds_ (1706).
+
+
+1964-1965
+
+110. John Tutchin, _Selected Poems_ (1685-1700).  [_In Preparation_]
+
+111. Anonymous, _Political Justice_ (1736).
+
+112. Robert Dodsley, _An Essay on Fable_ (1764).
+
+113. T. R., _An Essay Concerning Critical and Curious Learning_ (1698).
+
+114. _Two Poems Against Pope_: Leonard Welsted, _One Epistle to Mr. A.
+Pope_ (1730), and Anonymous, _The Blatant Beast_ (1742).  [21499]
+
+
+1965-1966
+
+115. Daniel Defoe and others, _Accounts of the Apparition of Mrs. Veal_.
+
+116. Charles Macklin, _The Covent Garden Theatre_ (1752).  [_In
+Preparation_]
+
+117. Sir Roger L’Estrange, _Citt and Bumpkin_ (1680).  [_In
+Preparation_]
+
+118. Henry More, _Enthusiasmus Triumphatus_ (1662).
+
+119. Thomas Traherne, _Meditations on the Six Days of the Creation_
+(1717).
+
+120. Bernard Mandeville, _Aesop Dress’d or a Collection of Fables_
+(1704).  [_In Preparation_]
+
+
+1966-1967
+
+122. James MacPherson, _Fragments of Ancient Poetry_ (1760).  [8161]
+
+123. Edmond Malone, _Cursory Observations on the Poems Attributed to
+Mr. Thomas Rowley_ (1782).  [29116]
+
+124. Anonymous, _The Female Wits_ (1704).  [_In Preparation_]
+
+125. Anonymous, _The Scribleriad_ (1742). Lord Hervey, _The Difference
+Between Verbal and Practical Virtue_ (1742).  [_In Preparation_]
+
+126. _Le Lutrin: an Heroick Poem, Written Originally in French by
+Monsieur Boileau: Made English by N. O._ (1682).
+
+       *       *       *       *       *
+
+Subsequent publications may be checked in the annual prospectus.
+
+Publications #1 through 90, of the first fifteen years of Augustan
+Reprint Society, are available in bound units at $14.00 per unit of six
+from:
+
+  KRAUS REPRINT CORPORATION
+  16 East 46th Street
+  New York, N.Y. 10017
+
+Publications in print are available at the regular membership rate of
+$5.00 yearly. Prices of single issues may be obtained upon request.
+
+
+
+
+  William Andrews Clark Memorial Library:
+  University of California, Los Angeles
+
+  THE AUGUSTAN REPRINT SOCIETY
+
+  _General Editors_: George Robert Guffey, University of California,
+    Los Angeles; Maximillian E. Novak, University of California, Los
+    Angeles; Robert Vosper, William Andrews Clark Memorial Library.
+  _Corresponding Secretary_: Mrs. Edna C. Davis, William Andrews Clark
+    Memorial Library.
+
+       *       *       *       *       *
+
+The Society’s purpose is to publish reprints (usually facsimile
+reproductions) of rare seventeenth and eighteenth century works. All
+income of the Society is devoted to defraying costs of publication and
+mailing.
+
+Correspondence concerning memberships in the United States and Canada
+should be addressed to the William Andrews Clark Memorial Library, 2520
+Cimarron St., Los Angeles, California. Correspondence concerning
+editorial matters may be addressed to any of the general editors at the
+same address. Manuscripts of introductions should conform to the
+recommendations of the MLA _Style Sheet_. The membership fee is $5.00 a
+year in the United States and Canada and 30/-- in Great Britain and
+Europe. British and European prospective members should address B. H.
+Blackwell, Broad Street, Oxford, England. Copies of back issues in print
+may be obtained from the Corresponding Secretary.
+
+
+PUBLICATIONS FOR 1967-1968
+
+127-128. Charles Macklin, _A Will and No Will, or a Bone for the
+Lawyers_ (1746). _The New Play Criticiz’d, or The Plague of Envy_
+(1747). Introduction by Jean B. Kern.  [_In Preparation_]
+
+129. Lawrence Echard, Prefaces to _Terence’s Comedies_ (1694) and
+_Plautus’s Comedies_ (1694). Introduction by John Barnard.  [29684]
+
+130. Henry More, _Democritus Platonissans_ (1646). Introduction by P. G.
+Stanwood.  [_Present Text_]
+
+131. John Evelyn, _The History of ... Sabatai Sevi ... The Suppos’d
+Messiah of the Jews_ (1669). Introduction by Christopher W. Grose.
+[_In Preparation_]
+
+132. Walter Harte, _An Essay on Satire, Particularly on the Dunciad_
+(1730). Introduction by Thomas B. Gilmore.  [29237]
+
+
+ANNOUNCEMENTS:
+
+Next in the series of special publications by the Society will be a
+volume including Elkanah Settle’s _The Empress of Morocco_ (1673) with
+five plates; _Notes and Observations on the Empress of Morocco_ (1674)
+by John Dryden, John Crowne and Thomas Shadwell; _Notes and Observations
+on the Empress of Morocco Revised_ (1674) by Elkanah Settle; and _The
+Empress of Morocco. A Farce_ (1674) by Thomas Duffet, with an
+Introduction by Maximillian E. Novak. Already published in this series
+are reprints of John Ogilby’s _The Fables of Aesop Paraphras’d in Verse_
+(1668), with an Introduction by Earl Miner and John Gay’s _Fables_
+(1727, 1738), with an Introduction by Vinton A. Dearing. Publication is
+assisted by funds from the Chancellor of the University of California,
+Los Angeles. Price to members of the Society, $2.50 for the first copy
+and $3.25 for additional copies. Price to non-members, $4.00.
+
+       *       *       *       *       *
+
+THE AUGUSTAN REPRINT SOCIETY
+
+William Andrews Clark Memorial Library
+
+2520 CIMARRON STREET AT WEST ADAMS BOULEVARD, LOS ANGELES, CALIFORNIA
+90018
+
+Make check or money order payable to THE REGENTS OF THE UNIVERSITY OF
+CALIFORNIA.
+
+       *       *       *       *       *
+           *       *       *       *
+
+Errors and Inconsistencies (noted by transcriber)
+
+The author used a number of forms that were unusual or archaic even in
+1646, and might be mistaken for typographical errors:
+
+  ne (_conjunction_)
+  won (stay, dwell, like German _wohnen_)
+  eath (easy, light; also “uneath”)
+  words in -en, especially verbs:
+    aboven, amazen, been (_infinitive_), causen, standen, withouten...
+
+Greek diacritics were consistently printed over the first vowel of an
+initial diphthong. This has been silently regularized.
+
+Both occurrences of the name “DesCartes” or “DesChartes” are at line
+break; the hyphen has been omitted conjecturally. In general, spellings
+that appear more than once, such as “Psyc-” for “Psych-”, were assumed
+to be intentional.
+
+The word “invisible” means that the letter is absent but there is an
+appropriately sized blank space.
+
+
+Modern Introduction:
+
+  Immobile . . . Incomprehensible       ”[6]
+    [_line-initial long space in the original, not explained in
+    the footnote_]
+  with its seque _Democritus Platonissans_
+    [_l in “sequel” invisible at line-end_]
+  describes the genesis of
+    [_final s in “genesis” illegible at line-end_]
+  Footnote 9: _Ibid._, II. xi. 5 (p. 52).  [II.xi. 5]
+
+To the Reader:
+
+  in the neglectfull disguise of a fragment  [of of]
+  or which is as harsh one infinite one.
+    [_. missing; text otherwise unchanged_]
+  defending the infinitude of both,  [both.]
+  Unum ut attendentes ad infinitam Dei potentiam
+    [_first i in “infinitam” invisible_]
+
+Democritus Platonissans
+
+  7. Numbers infinite of each would strike our ’stonishd sight;
+    [_er in “Numbers” invisible_]
+  25. This is the parergon of each noble fire  [is is]
+  27. What mark is left,? what aimed scope or end
+    [_punctuation as printed_]
+  45. This inf’nite voidnesse as much our mind doth gall
+    [_text cut off; “-all” conjectural_]
+  47. With their strange vizards. This will follow right
+    [_text cut off; “-ht” conjectural_]
+  55. Keeping a well-proportionated space  [ptoportionated]
+  81. And immense mounting  smoke arose all round about.  [mountiug]
+  99. Snow-limb’d, rose-cheek’d, ruby-lip’d, pearl-ted, star eyn’d
+    Their parts each fair in fit proportion all conbin’d.
+    [_text unchanged: possible hyphen in “star eyn’d”_]
+  102. Such as no vulgar wit can well believe.  [vnlgar]
+  103. A wider period; turneth still and slow.  [tnrneth]
+
+Cupids Conflict
+
+  Had I (but O that envious Destinie,
+    [_mismatched parenthesis in original; closing parenthesis may
+    belong after “harm!” in 4th line of stanza_]
+  Who can his passions master and controll,  [aud]
+  For can their carefull ghosts from Limbo take
+    [_reading uncertain: may be “take” corrected by hand to “Lake”_]
+
+Particular Interpretation
+
+  _Energie._ It is a peculiar Platonicall terme.  [_Energie,_]
+  _Faith._ ... excellently described in Proclus, [roclus.]
+  Ἐστί οὖν οὗτος ὅρμος ἀσφαλὴς τῶν ὄντων ἁπάντων.
+    [Εἰς οὖν ... τῶν ὅντων]
+    [_Original text could not be checked, but Εἰς is grammatically
+    impossible._]
+  _Intellect._ [_Intellect.._]
+  Ἔχομεν οὖν καὶ τὰ εἴδη διχῶς  [εἶδη]
+  _Idiopathy._ } See Interpret. Gen.
+  _Iao_        }
+    [_Printed as shown; may be damage or error for “Idea” or similar_]
+  _Omniformity._  [_Omniformity,_]
+  _Reduplicative._ ... as the centre.      But I define nothing.
+    [_blank space at mid-line in original_]
+  _Soul._ ... And that which God inspired into _Adam_  [that that]
+  _Vaticinant._ ... Theolog. Platon.  [Theolog Platon]
+
+Augustan Reprints
+
+Here as in e-texts 29237 and 29684 (from the same year), one or two
+pages from the list of titles in print appear to be missing. The same
+list should be present in any Augustan Reprint from a later year.
+
+  [First page] UNIVERSITY OF CALIFORNIA, LOS ANGELES  [. for,]
+  117. Sir Roger L’Estrange, _Citt and Bumpkin_ (1680).  [Sir George]
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Democritus Platonissans, by Henry More
+
+*** END OF THIS PROJECT GUTENBERG EBOOK DEMOCRITUS PLATONISSANS ***
+
+***** This file should be named 30327-0.txt or 30327-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/0/3/2/30327/
+
+Produced by Louise Hope, Chris Curnow, Joseph Cooper and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

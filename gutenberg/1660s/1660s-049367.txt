@@ -1,0 +1,3790 @@
+﻿Project Gutenberg's The Letters of a Portuguese Nun, by Marianna Alcoforado
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll
+have to check the laws of the country where you are located before using
+this ebook.
+
+
+
+Title: The Letters of a Portuguese Nun
+
+Author: Marianna Alcoforado
+
+Translator: Edgar Prestage
+
+Release Date: June 26, 2018 [EBook #57403]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE LETTERS OF A PORTUGUESE NUN ***
+
+
+
+
+Produced by Henry Flower and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive/American Libraries.)
+
+
+
+
+
+
+
+
+
+
+Transcriber's Note
+
+Superscript is indicated by caret signs, e.g. An^{ia}. Italics
+are indicated by _underscores_.
+
+
+
+
+  THE LETTERS OF
+  A PORTUGUESE NUN
+
+
+
+
+_All rights reserved_
+
+
+
+
+  THE LETTERS OF A
+  PORTUGUESE NUN
+  (MARIANNA ALCOFORADO)
+
+  TRANSLATED BY
+  EDGAR PRESTAGE
+  BALLIOL COLLEGE
+  OXFORD
+
+  [Illustration]
+
+  LONDON
+  PUBLISHED BY DAVID NUTT
+  IN THE STRAND
+  1893
+
+
+
+
+  Edinburgh: T. and A. CONSTABLE
+  Printers to Her Majesty
+
+
+
+
+  TO THE AUTHOR OF
+  ‘PORTUGAL CONTEMPORANEO’
+  J. P. DE OLIVEIRA MARTINS
+  I DEDICATE
+  THIS BOOK
+
+
+
+
+PREFACE
+
+
+_My attempt at an English rendering of the Letters is, I think, the
+first since the days of Bowles’ ‘Letters from a Portuguese Nun to
+an Officer in the French Army,’ London, 1808.[1] But during the two
+centuries which have elapsed since their first publication quite a
+small literature has grown up around them, and they have been turned
+into several European tongues, the French editions alone amounting to
+more than thirty. If the numerous so-called ‘Replies’ and ‘Imitations’
+were added to this reckoning the number would be nearly doubled, and
+this without taking into account the critiques and studies which have
+appeared about them. I do not propose here to enter into a comparison
+of the Letters with those of Heloïse, as many writers have done, but
+shall content myself with referring the curious to the excellent work
+of Senhor Cordeiro, ‘Soror Marianna. A Freira Portugueza,’ Lisbon,
+1888; 2nd edition, 1891. It is from him that I have learnt nearly
+all that I know about Marianna, and in my Introduction I have made a
+liberal use of his book, as well as of M. Asse’s preface to the edition
+of the ‘Lettres Portuguises avec les Réponses,’ Paris, 1889, upon which
+I have based my rendering._
+
+_If my translation should arouse any interest in things Portuguese,
+and lead others to read and make versions of such masterpieces of
+the world’s literature as the ‘Frei Luiz de Sousa’ and the ‘Folhas
+Cahidas’ of Garrett, or the poems of João de Deus, I should be more
+than rewarded for any trouble the present work may have cost me.
+But who can hope to succeed where Burton has apparently failed? The
+English public--and the critics too--will probably continue to believe
+that there is nothing worth reading in Portuguese literature with
+the exception of the Lusiads. Here too there is perhaps a lesson
+to be learnt from the Germans, especially from such as Storck,
+Reinhardstoettner, and Michaëlis de Vasconcellos._
+
+_I should like to thank Mr. York Powell of Christ Church for the
+kind help which he has given me in the difficult task of translation.
+My aim has been throughout to keep as close to the French text as
+possible--seeing that the original Portuguese is lost,--aided by the
+masterly re-translation of Senhor Cordeiro. L’Estrange’s version--‘Five
+Love Letters from a Nun to a Cavalier,’ London, 1678,--is somewhat free
+at times, but it has aided me in the Third Letter. I have followed
+Cordeiro in his re-arrangement of the order of the Letters, the Second
+and Fourth changing places._
+
+_The historical facts which concern the hero and heroine of these
+Letters I have given briefly in the Introduction, and a Bibliography
+and Appendix will be found at the end of the volume. The text of the
+first French edition of 1669 has been copied in Paris purposely for
+this work, and will, it is hoped, add much to its interest and value._
+
+_And so I deliver poor Marianna’s passionate Epistles to the
+consideration of those who can appreciate them and feel for her._
+
+    And weeping then she made her moan,
+    ‘The night comes on that knows not morn,
+    When I shall cease to be all alone,
+    To live forgotten and love forlorn.’
+
+  EDGAR PRESTAGE.
+
+ BOWDON, 1892.
+
+
+
+
+CONTENTS
+
+
+                    PAGE
+  PREFACE,            ix
+  INTRODUCTION,        3
+  THE LETTERS,        37
+  FRENCH TEXT,       111
+  BIBLIOGRAPHY,      169
+  APPENDIX,          175
+
+
+
+
+INTRODUCTION
+
+    Fuyd los deleytes, pues non da deleite
+    Perfecto, nin bueno, nin tan poco sano;
+    A todos engaña su falsso afeyte,
+    Sin sentir mata el su gozo vano.
+    A todos arriedran del bien soberano,
+    Jamas no aplazen que no den tristeza,
+    Aforjan cadenas del sotil Volcano,
+    Con que encarcelan a toda nobleza.
+
+    _Cancioneiro de Resende._
+
+
+‘In 1663,’ says Sainte-Beuve, ‘it became the policy of Louis XIV.
+to help Portugal against Spain, but the succour which he gave was
+indirect; subsidies were secretly furnished, the levying of troops was
+favoured, and a crowd of volunteers hastened there. Between this small
+army, commanded by Schomberg, and the feeble Spanish troops which
+disputed the soil with it, there were each summer many marches and
+counter-marches with but few results, many skirmishes and small fights,
+and among the latter, perhaps, one victory. Who troubles himself
+about it now? The curious reader, however, who only looks to his own
+pleasure, cannot help saying that all this was good, since the “Letters
+of the Portuguese Nun” grew from it.
+
+As Sainte-Beuve indicates, the subject of the ‘Letters’ forms one of
+the episodes of the war between Spain and Portugal which followed as
+a consequence of the Restoration of 1640 and the achievement of the
+latter’s independence under the House of Braganza. This war, which
+lasted for twenty-eight years, until the final peace in 1668, was
+intermittent, and carried on only at long intervals owing to the state
+of the two contending parties. Spain had now entered on the period of
+her decline, and Portugal was in a hardly better condition after her
+sixty years’ captivity and the exhaustion of her forces which had taken
+place during the reign of Philip IV. Owing, however, to the aid of
+France, she had been enabled to hold her own up to 1659; but the news
+of the Peace of the Pyrenees seemed at first to take from her all hope
+of preserving her hardly won autonomy. Yet in spite of this, Mazarin,
+while signing the clause which bound France to abandon the Portuguese
+cause, determined, with his usual duplicity, that this should not
+prevent him from secretly aiding an ally whom he had found so useful
+in the past as a thorn in the side of Spain. Hardly, indeed, had the
+treaty been made than he began to occupy himself in recruiting for the
+Portuguese service a number of French officers whom the peace had left
+without employment. Among these the chief was Schomberg, who went to
+Lisbon in 1660 as commander-in-chief and to reorganise the Portuguese
+army. It was not, however, until 1663 that the hero of the Letters,
+Noel Bouton, afterwards Marquis of Chamilly and St. Leger, arrived in
+the country, which he was to leave four years later with the betrayal
+of a poor nun as his title to fame. For at the time when Schomberg was
+already there, we see Chamilly (as he is generally called) assisting at
+the marriage of his brother to Catherine le Comte de Nonant, referred
+to in the text (Letter II.).
+
+Three years afterwards, finding himself without military employment in
+France, he came to Portugal, attracted probably, like so many others,
+by the reputation of the great captain, with whom he had doubtless
+established friendly relations during the campaign in Flanders (1656-8).
+
+Our hero, if hero he may be called, was the eleventh son of Nicholas
+Bouton, Lord of Chamilly, Charangeroux, and, later on, St. Leger,
+properties of modest size in Burgundy. His family was good, but its
+attachment to the Princes of Condé during the Fronde had compromised
+its position and damaged its fortunes. Noel, the future marquis, was
+born in 1636, and as soon as his age allowed he entered on a military
+career. He served through the Flanders campaign under Turenne, and in
+1658 was made captain, under the name of the Count of Chamilly, in
+Mazarin’s regiment of cavalry. Reaching Portugal at the end of 1663,
+or the commencement of 1664, he was given the same rank in a regiment
+commanded by a French officer of note, Briquemault. Although his name
+is not mentioned in any of the contemporary notices of the war, we know
+that he was present at the Siege of Valença de Alcantara (June 1664),
+at the battle of Castello Rodrigo (in the same month and year), at
+that of Montes Claros (June 1665), and at the principal sieges which
+occupied the next two years. In 1665, he was promoted to the rank of
+colonel, and two years later a diploma of Louis XIV., issued, perhaps,
+at the instance of his brother, the Governor of Dijon, gave Chamilly a
+similar post in the French army, with the evident intention of enabling
+him to leave the Portuguese service when he liked, even though the war
+with Spain should not be ended. This, taken together with the fact that
+in the document the space for the month is left blank, is extremely
+significant, and, as will be seen later on, certainly connects itself
+with the episode of the ‘Letters,’ even if it does not enter into their
+actual history.[2] The diploma of Louis XIV., it may be added, is dated
+1667, and the sudden departure of Chamilly took place at the end of
+that year, so that it seems probable that the French captain, fearing
+future annoyance or even danger to himself from his _liaison_, had
+determined to secure a safe retreat.
+
+But let us look for a moment at the authoress of the famous ‘Portuguese
+Letters.’
+
+Marianna Alcoforado was born of a good family in the city of Beja and
+province of Alemtejo in the year 1640. Her father appears to us in the
+first years of the Restoration as a man in an influential position,
+well related, and discharging important commissions both administrative
+and political. He possessed a large agricultural property, which he
+administered with attention and even zeal, and was a Cavalier of the
+Order of Christ, besides being intimate with some of the principal
+men of the time. He had six children, of whom Marianna, according to
+Cordeiro, was the second. Life in Beja at that time seems to have
+been sufficiently insecure, owing to the fact that the province of
+which it was one of the chief cities formed the theatre of the war,
+and Beja itself was the chief garrison town. Tumults were constantly
+arising from quarrels between the various parts of the heterogeneous
+mass which then composed the Portuguese army, and hence increased care
+would be necessary on the part of Francisco Alcoforado in order that
+the education of his daughters might be conducted in such a manner as
+their position demanded. Hence, too, probably, the reason why Marianna
+and her sister Catherine entered the Convent of the Conception at an
+earlier age than was usual. Their father, occupied with administrative
+and military work on the frontier, would be unable to give them the
+oversight and attention which quieter times would have allowed.
+
+The Convent of the Conception at Beja was founded in 1467 by the
+parents of King Emanuel the Fortunate, and, favoured successively by
+royal and private devotion, it had become one of the most important
+and wealthy institutions of its kind in Portugal. It was situated at
+the extreme south of the city, near to the ancient walls, and looked
+on to the gates still called ‘of Mertola,’ because they are on the
+side of the city towards Mertola, distant fifty-four kilometres to
+the south-west on the right bank of the Guadiana. There is still to be
+seen the remains of the balcony or verandah from which Marianna first
+caught sight of Chamilly, probably during some military evolutions (cf.
+Letter II.), and from it a good view may be obtained over the plains
+of Alemtejo as they stretch away to the south. Curiously enough, the
+tradition of Marianna and her fatal love has been perpetuated in the
+convent, in spite of the attempts, natural enough, on the part of
+monastic chroniclers and such like to hide all traces of it.
+
+In this as in most other convents there were two kinds of cells--the
+dormitories, divided into cubicles, and rooms forming independent
+abodes dispersed throughout the edifice. These latter the nuns of the
+seventeenth century called their ‘houses,’--_as suas casas_,--and
+it was one of these which Marianna possessed. The former were in
+accordance with the Constitutions, while the latter, though strictly
+forbidden, nevertheless existed. These separate abodes were, it is
+true, often necessitated by the growth of the convent population,
+and generally appertained to nuns of a better position, while the
+dormitories served for those who were either poorer or of an inferior
+rank. Many of these _casas_, too, were built by private individuals who
+had some connection or other with the particular convent, and there are
+indications that the father of Marianna had caused some to be erected
+in that of the Conception.[3]
+
+From the year 1665 to 1667, then, Beja was, as we have said, the centre
+of the various military movements in which Chamilly took part under
+the leadership of Schomberg, and there is no doubt that he spent much
+of his time there. Marianna was twenty-five years old. She had been
+intrusted to the Cloister when a child,[4] as she herself tells us, and
+her renunciation of the world must have been little more than a form.
+She had probably made her ‘profession’ too at the age of sixteen, that
+provided for by the Constitutions, if not at an earlier date.
+
+The dull routine of her life was suddenly broken in upon by the sight
+of a man surrounded with all the prestige of military glory--one who
+was the first to awaken in her a consciousness of her own beauty--the
+first to tell her that he loved her, one, moreover, who was ready to
+throw all his greatness, his present and his future, at her feet.
+
+‘I was young; I was trustful. I had been shut up in this convent since
+my childhood. I had only seen people whom I did not care for. I had
+never heard the praises which you constantly gave me. Methought I owed
+you the charms and the beauty which you found in me, and which you were
+the first to make me perceive. I heard you well talked of; every one
+spoke in your favour. You did all that was necessary to awaken love in
+me.’[5] Such is her simple confession, and, comments Cordeiro, nothing
+more natural.
+
+Their first meeting was probably due to the relations which Chamilly,
+an officer of rank, had entered into with the Alcoforados, one of the
+chief families in Beja. There are indications, indeed, that Chamilly
+and Marianna’s eldest brother had met, doubtless in the field, for
+the latter also followed the profession of arms; and this brother,
+named Balthazar Vaz Alcoforado, is probably the same as the ‘brother’
+referred to in the Letters as the lovers’ go-between. It was for his
+benefit that Marianna’s father had striven for years to build up an
+estate which was to be entailed on his offspring. But in the year 1669,
+just at the very time of the great sensation caused by the publication
+of the Letters in Paris, Balthazar abandoned his military career and
+all his brilliant prospects in the world to enter the priesthood. It is
+impossible not to hazard a guess, although we know nothing for certain
+on the point, that his motive for so doing was connected in some way
+with the almost tragic ending of the _liaison_ between his sister and
+the French captain. But to return:--The customs of the time, curiously
+enough, allowed a greater relative liberty to nuns as regards the
+visits which might be paid them than to married women,[6] or, as the
+Bishop of Gram Para puts it, ‘the liberty of the grating was wide in
+those miserable times.’[7]
+
+We cannot of course be expected to give an account of the progress of
+this _liaison_, nor do we wish to indulge in romantic hypotheses.
+
+Chamilly was thirty at the time when he first saw Marianna. Brought up
+as he had been to war as a trade, a man of small intelligence and few
+scruples, the intrigue would be a pleasant diversion, a means _pour
+passer le temps_ which he would otherwise have found dull enough in a
+Portuguese provincial town after the Paris of ‘Le Grand Monarque.’ The
+seduction and desertion of a poor nun must have seemed all so perfectly
+natural to one brought up in contact with the loose morality of camp
+life and in the France of Louis XIV.
+
+       *       *       *       *       *
+
+In June 1667 the authorities of Beja received an answer from the
+new King, Don Pedro, to the complaint which they had made of ‘the
+oppression which the French cavalry continued to exercise on this
+people.’[8] Already, on account of similar complaints, Schomberg had
+been ordered to move his cavalry from the town and district, but he
+had disobeyed these orders for strategic reasons. Now, we have already
+seen that it was between 1665 and 1667 that Chamilly carried on his
+intrigue with Marianna, and it is just in 1667 that the scandal must
+have attained greater proportions, coinciding with and ending, not in
+the withdrawal of the French cavalry, but in the sudden retirement
+of Chamilly to France. But what, it may be asked, was the reason for
+the King’s order, and what could those ‘oppressions’ have been in an
+important city where presumably there was a regular and well-appointed
+police administration? Has it not a relation, asks Cordeiro, with
+the incident in the ‘Letters,’ which would both afflict and irritate
+the influential family of the nun and the good burgesses of Beja?
+The special situation of the French captain, on the other hand--his
+interest in not aggravating the scandal, and the peril for the
+religious herself in the adoption of violent means, would all naturally
+counsel the withdrawal of Chamilly.[9]
+
+The danger of remaining longer in Beja was not in the nature of those
+which the French colonel could confront with his recognised courage. If
+he were surprised in the convent, if he were denounced as its violator
+and as the seducer of a nun, the daughter of a well-known family, and
+one, too, which was on excellent terms with the new sovereign, neither
+his own position nor the protection of Schomberg would avail him, since
+both the one and the other began to lose their importance with the
+approach of peace.[10]
+
+However this may be, certain it is that Chamilly’s own excuses for
+departure, referred to in the ‘Letters,’ were merely empty pretexts,
+and a reference to the history of the time will show this. If Louis
+XIV. needed his presence so much for the invasion of Franche Comté, why
+not, it may be asked, for the important campaign in Flanders in 1667?
+
+He seems to have left Portugal, too, a little clandestinely, for no
+notice is to be met with, as in the case of other French officers, of
+his asking and obtaining leave from the Portuguese Government, and he
+probably did not even embark in Lisbon. Already, in the beginning of
+February 1668, we find him with Louis XIV. in Dijon, so that he must
+have quitted Beja and the seat of war quite at the end of the preceding
+year.
+
+It is now that the ‘Letters’ enter into the history of the lives of
+Marianna and Noel Bouton de Chamilly. As is well known, they were all
+written after the latter’s retirement from Portugal, and probably
+between the December of 1667 and the June of 1668, and they express
+better than any remarks which we could make the stages of faith,
+doubt, and despair through which poor Marianna passed. As a piece
+of unconscious, though self-made, psychological analysis they are
+unsurpassed; as a product of the Peninsular heart they are unrivalled.
+If they are not, as Theophilo Braga calls them, the only beautiful
+work produced by his countrymen in the seventeenth century, they are,
+at any rate, by far the most beautiful. To compare them, as regards
+literary form, with those of Heloïse would be manifestly unfair, the
+situation of the two women was so different.[11] Think of the Abbess of
+the Paraclete, mistress of all the learning of the time, and surrounded
+by things to console her, or at least to divert her attention, and
+then regard poor Marianna, persecuted by her family, and liable to the
+tender mercies of the Inquisition, with none of the comforts, none of
+the consolations of the former. But if the ‘Letters’ of Heloise are
+superior to those of Marianna from the point of view of correctness of
+expression and style, they are inferior in all else. The nun’s are far
+more natural, and therefore more beautiful, and the very confusion
+of feelings and ideas which we should expect from one in her position
+rather adds to their charm. Finally, the moral character of Heloïse as
+displayed in her epistles cannot certainly, be placed beside that of
+the Portuguese nun with any advantage.
+
+Henceforth, we only meet with the name of Marianna at intervals--once
+in 1668, again in 1676 and 1709, and lastly in an obituary notice in
+1723.
+
+She, at any rate, is not an example of the well-known saying of
+Cervantes--‘the Portuguese die of love.’ It is true that some words
+at the end of the Fifth Letter seem to suggest suicide, but there is,
+on the other hand, throughout the whole of these _ultima verba_ an
+expression of energy and of her determination to tread under foot, if
+she cannot extinguish, the flames of her passion. Marianna came of a
+vigorous race, and, in spite of the great infirmities of which her
+obituary speaks, she lived, as we shall see, to the age of fourscore
+years and three.
+
+She was made Portress, as mentioned in the Letters, at the beginning
+of 1668, no doubt to distract her mind by giving her some definite
+occupation and a sense of responsibility. It is, however, significant,
+as Cordeiro remarks, that we do not find the name of Marianna, a
+daughter of one of the principal and most influential families in Beja,
+filling any more elevated post, whereas her younger sister Peregrina
+Maria appears in the conventual register as both Amanuensis and Abbess.
+This sister, before professing in the same convent in 1676, made her
+will, ‘being more than twelve years of age,’ and there she spoke of
+the many obligations which she owed Marianna for having brought her up
+‘from the age of three years.’[12] Her entering the Conception at such
+an early age is explained by the fact of the death of her mother, which
+took place at the end of 1663 or the beginning of 1664. Again, in
+1709, Marianna is mentioned as beaten by only ten votes in an election
+for the office of Abbess by a certain nun of the name of Joanna de
+Bulhão, of whom nothing is known.
+
+The next time we hear of her is in 1723, the date of her death. The
+obituary notice speaks for itself and for her life, since the episode
+which the ‘Letters’ contain, and needs no comment. ‘On the 28th day
+of the month of July, in the year 1723, died, in this Royal Convent
+of Our Lady of the Conception, Mother D. Marianna Alcanforada,[13]
+at the age of eighty-seven years,[14] all of which she spent in the
+service of God. She was always very regular in the choir and at the
+confraternities, and withal fulfilled her (other) obligations. She was
+very exemplary, and none had fault to find with her, for she was very
+kind to all. For thirty years she did rigid penance and suffered great
+infirmities with much conformity, desiring to have more to suffer. When
+she knew that her last hour was come, she asked for all the sacraments,
+which she received in a state of perfect consciousness, giving many
+thanks to God for having received them. Thus she ended her life with
+all the signs of predestination, speaking up to the last hour, in proof
+of which I, D. An^{ia} Sophia Bap^{ta} de Almeida, Amanuensis of the
+Convent, wrote this, which I signed on the same day, month and year as
+above.[15]
+
+  D. AN^{IA} SOPHIA BAP^{TA} DE ALM^{DA},
+  Amanuensis.’
+
+No such obscurity as that which hangs over the life of Marianna hides
+the doings of Chamilly after his return to France. Acts like the
+famous defence of Grave in 1674 against the Prince of Orange, and that
+of Oudenarde two years later, marked him out for future distinction.
+But if he knew how to defend towns he no less could attack and take
+them. He distinguished himself greatly at the sieges of Gand, Condé,
+Yprés and Heidelberg, and in 1703 received the recompense of his great
+services, being made a Marshal of France.
+
+M. Asse tells several anecdotes about him, which _seem_ to show that he
+was a generous man as well as a brave soldier.[16] United in 1671 by a
+_mariage de convenance_ to a lady who, according to S. Simon, was far
+from being gifted with personal beauty, he was always a most exemplary
+husband. S. Simon, who knew him well, also tells us that Chamilly was
+‘the best man in the world, the bravest, and the most honourable.’ He
+says, too, that no one after seeing him or hearing him speak, could
+understand how he had inspired such an unmeasured love as that revealed
+in the famous ‘Letters.’[17]
+
+How, then, are we to reconcile the Chamilly of the ‘Letters’ with
+the man of whom his contemporaries and friends speak so highly? The
+publication of the Epistles of Marianna was doubtless due to vanity, a
+fault which we may certainly credit Chamilly with possessing. It was,
+too, the custom in seventeenth-century France to hand round copies of
+letters, either received or written, for the admiration of friends, and
+thus, what now appears to us a brutal and cynical want of confidence,
+was then the most natural thing in the world.[18] It is not, however,
+so easy, even if it is possible, to excuse the conduct of the French
+captain in the betrayal and desertion of poor Marianna. Posterity, as
+M. Asse says, especially the feminine portion, has condemned him, and
+there seems to be no reason why we should seek to reverse the verdict.
+
+       *       *       *       *       *
+
+It was in 1669 that the first edition of what we know as the
+‘Portuguese Letters’ was published by Claude Barbin, the well-known
+Parisian bookseller. The translation seems to have been made towards
+the middle of the year preceding, and shortly after the return of
+Chamilly to France. The Letters were evidently shown by their possessor
+as one of those trophies, or at least souvenirs, which persons are
+accustomed to bring back with them from a foreign country.[19] The
+incognito, however, was complete, and neither the name of their
+recipient nor that of their translator was inscribed on this _editio
+princeps_. That of Marianna, indeed, the authoress, was not known until
+early in this present century, when in 1810 Boissonade discovered her
+name written in a copy of the edition of 1669 by a contemporary hand.
+The veracity of this note has since been placed beyond doubt by the
+recent researches of Senhor Cordeiro, who has shown the persistence of
+a tradition in Beja connecting the French captain and the Portuguese
+nun.
+
+The success of the first edition was rapid and complete. A second by
+Barbin, and two in foreign countries, one in Amsterdam, the other
+in Cologne, all in the same year, attest this. The success, indeed,
+took such proportions, that from the mutual rivalry of authors and
+publishers there sprung up a new kind of literature, that of ‘les
+Portugaises.’ The Five Letters of the nun had followers like most
+successful romances, and the title of ‘Portuguese Letters’ became
+a generic name applying not only to the imitations which amplified
+subsequent editions, but also to every kind of correspondence where
+passion was shown _toute nue_.[20]
+
+‘Brancas,’ says Mme. de Sévigné, ‘has written me a letter so
+excessively tender as to make up for all his past neglect. He speaks to
+me from his heart in every line; if I were to reply to him in the same
+tone, _ce seroit une Portugaise_.’[21]
+
+In the same year, 1669, Barbin issued a ‘second part’ of the Portuguese
+Letters, which was counterfeited shortly afterwards at Cologne, as the
+real ones had been. This was written, we are told in the preface, by a
+_femme du monde_, and its publication was suggested by the favour with
+which the letters of the nun had been received.
+
+The publisher counted, as he said, on the difference of style which
+distinguished these fresh letters from the original ones, to assure a
+success as great as the first five had obtained.
+
+After the second part came the so-called ‘Replies,’ all in the same
+year, and their publisher tells us in the preface that ‘he is assured
+that the gentleman who wrote them has returned to Portugal.’ Shortly
+afterwards appeared the ‘New Replies,’ but this time they were given
+for what they were, ‘a _jeu d’esprit_ for which the example of Aulus
+Salinus writing replies to the Heroides of Ovid, and, above all, the
+beauty of the first Portuguese Letters, should serve as an excuse.’[22]
+
+The motive, then, for the production of the second part of the
+‘Portuguese Letters’ as for that of the ‘New Replies’ is satisfactorily
+explained, but how about the ‘Replies’ themselves? Can we not account
+for them by supposing that it was felt necessary on the part of the
+friends of Chamilly to attenuate the sympathy expressed on all sides
+for the unfortunate nun, and the censure which must naturally have
+followed such a base betrayal? Hence, proceeds Senhor Cordeiro, the
+author of this suggestion, the publication of these Replies, whose
+capital idea is to show us the seducer of Marianna under a perfectly
+different aspect and character from that which readers of the Letters
+would naturally attribute to him. However this may be, it was not long
+before the name of their hero came to be printed in editions of the
+Letters, though, curiously enough, it was first divulged in an edition
+printed abroad--in Cologne--in 1669, a copy of which is to be found in
+the British Museum, marked 1085 _b._ 5 (2), containing the following:--
+
+‘The name of him to whom they (the Letters) were written is the
+Chevalier de Chamilly, and the name of him who made the translation is
+Cuilleraque.’[23]
+
+More strange still, the French editions of the Letters preserved a
+discreet silence as to the name of the recipient with the exception of
+the 1671 edition of the Replies, until the year 1690, when a similar
+notice to that above referred to as being in the Cologne edition was
+made public; so that even in Chamilly’s lifetime his name was appended
+to editions of the Letters as their recipient, and as far as we know he
+never denied the authenticity of the ascription.
+
+       *       *       *       *       *
+
+The question as to whether the Letters were originally written in
+French, or whether they are a translation, hardly needs discussion
+here, for the principal critics, both French and Portuguese--Dorat,
+Malherbe, Filinto Elysio and Sousa Botelho--have unanimously decided
+from the text itself that they are a translation, and a bad one.
+The last-named says:--‘A Portuguese, or indeed any one knowing that
+language, cannot doubt but that the Five Letters of the Nun have
+been translated almost literally from a Portuguese original. The
+construction of many of the phrases is such that, if re-translated
+word for word, they are found to be entirely in harmony with the genius
+and character of that language.’[24]
+
+But it is just this baldness for which we should all be truly thankful,
+because we are thus enabled to listen to what Marianna said, and hear
+how she said it. Had the translation been what the seventeenth century
+would have called a good one, we should have known M. Guilleragues well
+enough, it is true, but only seen the nun ‘darkly as through a glass.’
+
+       *       *       *       *       *
+
+As to the present version, the author can only add to what he has
+already said in the Preface, by confessing that he feels its inadequacy
+as much as any of his critics will doubtless do. At the same time,
+however, if its result be to excite competition, and call forth a
+better one, his labour will not, he thinks, have been in vain.
+
+
+
+
+LETTERS
+
+
+
+
+    She only said, ‘My life is dreary,
+      He cometh not,’ she said;
+    She said, ‘I am aweary, aweary,
+      I would that I were dead!’
+
+    _Mariana._--TENNYSON.
+
+
+
+
+FIRST LETTER
+
+ Meu amigo verdadeiro, quem me vos levou tão longe? ... Como vós vos
+ fostes, tudo se tornou tristeza; nem parece ainda, senão que estava
+ espreitando já que vos fosseis.
+
+  BERNARDIM RIBEIRO, _Saudades_, cap. i.
+
+
+Do but think, my love, how much thou wert wanting in foresight. Ah!
+unfortunate, thou wert betrayed, and thou didst betray me with illusive
+hopes. A passion on which thou didst rest so many prospects of pleasure
+now only causes thee a deadly despair, which is like nothing else
+but the cruelty of the absence which occasions it. What! must this
+absence, to which my sorrow, all ingenious though it be, cannot give
+a sad enough name, deprive me for ever of a sight of those eyes in
+which I was wont to see so much love, which made me feel so full of
+joy, which took the place of all else to me, and which, in a word,
+were all that I desired? Mine eyes, alas! have lost the only light
+that gave them life, tears alone are left them, and ceaseless weeping
+is the sole employment I have given them since I learned that you were
+bent upon a separation so unbearable to me that it must soon bring
+about my death. But yet it seems to me that I cling in some sort to
+the sorrows of which you are the sole cause. I consecrated my life
+to you from the moment when I first saw you, and I feel a certain
+pleasure in sacrificing it to you. I send you my sighs a thousand
+times each day, they seek you everywhere, and as sole recompense of so
+much disquietude they bring me back a warning too true, alas, of my
+unhappiness: an unhappiness which is cruel enough to prevent me from
+flattering myself with hope, and which is ever calling to me--Cease,
+cease to wear thyself out in vain, ill-fated Marianna, cease looking
+for a lover whom thou wilt never see again, who has crossed the seas
+to fly from thee, who is now in France in the midst of pleasures, who
+is not thinking for one moment on thy sorrows, who would not thank
+thee for these pangs for which he feels no gratitude. But no, I cannot
+make up my mind to think so ill of you, and I am too much concerned
+that you should right yourself. I do not even wish to think that you
+have forgotten me. Am I not unhappy enough already without torturing
+myself with false suspicions? And why should I try so hard to forget
+all the care you took to prove your love for me? I was so enchanted
+with it all that I should be ungrateful indeed were I not still to love
+you with the same transports that my passion lent me when I enjoyed
+the pledges of your love. How can the memory of moments so sweet have
+become so bitter? And, contrary to their nature, must they serve only
+to tyrannise over my heart? Alas, poor heart! your last letter brought
+it into a strange state; it endured such strong pangs that it seemed
+to be trying to tear itself from me to go and seek for you. I was so
+overcome by all these violent emotions that I was beside myself for
+more than three hours.[25] It was as though I refused to come back to a
+life which I feel bound to lose for you since I cannot preserve it for
+you. In spite of myself, however, I became myself again; I flattered
+myself with the feeling that I was dying of love, and besides, I was
+well pleased at the thought of being no longer obliged to see my heart
+torn by grief at your absence. Ever since those first symptoms I have
+suffered much from ill-health, but can I ever be well again until I
+see you? And yet I am bearing it without a murmur since it comes from
+you. What! is this the reward you give me for loving you so tenderly?
+But it matters not; I am resolved to adore you all my life and to care
+for no one else, and I tell you that you too will do well to love no
+other. Could you ever content yourself with a love colder than mine?
+You will perhaps find more beauty elsewhere (yet you told me once that
+I was very beautiful), but you will never find so much love: and all
+the rest is nothing. Do not fill any more of your letters with trifles:
+and do not write and tell me again to remember you. I cannot forget
+you, and as little do I forget the hope you gave me that you would come
+and spend some time with me. Alas! why are you not willing to pass your
+whole life at my side? Could I leave this unhappy cloister I should
+not await in Portugal the fulfilment of your promises. I should go
+fearlessly over the whole world seeking you, following you, and loving
+you. I dare not flatter myself that this can be. I do not care to feed
+a hope that would certainly give me some pleasure, while I wish to
+feel nothing but sorrow. Yet I confess the chance of writing to you
+which my brother gave me suddenly aroused in me a certain feeling of
+joy, and checked for a time the despair in which I live. I conjure you
+to tell me why you set yourself to bewitch me as you did, when you well
+knew that you would have to forsake me. Why were you so bent on making
+me unhappy? Why did you not leave me at peace in my cloister? Had I
+done you any wrong? But I ask your pardon. I am not accusing you. I am
+not in a state to think on vengeance, and I only blame the harshness of
+my fate. It seems to me that in separating us it has done us all the
+harm that we could fear from it. It will not succeed in separating our
+hearts,--for love, more powerful than it, has united them for ever. If
+you take any interest in my lot write to me often. I well deserve your
+taking some pains to let me know the state of your heart and fortune.
+Above all, come and see me. Good-bye. I cannot make up my mind to part
+from this letter. It will fall into your hands: would I might have
+the same happiness! Ah, how foolish I am! I know so well that this is
+impossible. Good-bye. I can no more. Good-bye. Love me always and make
+me suffer still more.
+
+
+
+
+SECOND LETTER[26]
+
+ Das tristezas, não se pôde contar náda ordenadamente, porque
+ desordenadamente acontescem ellas.
+
+  BERNARDIM RIBEIRO, _Saudades_, cap. i.
+
+
+Your lieutenant has just told me that a storm has forced you to put
+into port in the Algarve.[27] I am afraid you have suffered much on
+the sea, and so much has this fear absorbed me that I have thought no
+more on all my troubles. Do you think, perchance, that your lieutenant
+takes more interest in what happens to you than I do? If not, why then
+is he better informed of it? And then, why have you not written to
+me? I am unlucky indeed if you have found no time for writing since
+you left, and still more so if you could have written and would not.
+Your injustice and ingratitude are too great; but I should be in
+despair if they were to cause you any harm. I had rather you should
+remain unpunished than that they should avenge me. I withstand all
+the appearances which ought to persuade me that you do not love me
+at all, and I feel much more disposed to yield myself blindly to my
+passion than to the reasons you give me to complain of your neglect.
+What mortification you would have spared me, if, in the days when I
+first saw you, your conduct had been as cold as it has seemed to me
+for some time now! But who would not have been deceived by such ardour
+as you then showed, and who would not have thought it sincere? How
+hard it is to make up one’s mind to doubt for any time the sincerity
+of those one loves! I see clearly that the least excuse is good enough
+for you; and, without your troubling to make it to me, my love for you
+serves you so faithfully that I cannot consent to find you guilty,
+except for the sake of enjoying the infinite pleasure of declaring you
+guiltless myself. You overcame me by your assiduities, you kindled
+my passions with your transports, your tenderness fascinated me, your
+vows persuaded me, but it was the violence of my own love which led
+me away; and this beginning at once so sweet and so happy, has left
+nothing behind it but tears, sighs, and a wretched death, without
+the possibility of my ministering any relief to myself. It is true
+that in loving you I enjoyed a pleasure unthought of before, but this
+very pleasure is now costing me a sorrow, which once I knew nothing
+of. All the emotions which you cause me run to extremes. If I had
+shown obstinacy in resisting your love, if I had given you any motive
+for anger or jealousy in order to draw you on the more, if you had
+detected any artifice in my conduct, if, in a word, I had wished to
+oppose my reason to the natural inclination I felt for you, and which
+you soon made me perceive (though doubtless my efforts would have been
+useless), you might then have punished me severely and used your power
+over me with some show of justice. But you seemed to me worthy of my
+love before you had told me that you loved me: you gave evidence of
+a great passion for me: I was overjoyed at it, and I gave myself up
+to love you to distraction. You were not blinded as I was. Why then
+did you let me fall into the state in which I now am? What did you
+want with all my raptures, which must have been very troublesome to
+you? You well knew that you would not stay in Portugal for ever. Then
+why did you single me out to make me so unhappy? Doubtless you might,
+in this country, have found some woman more beautiful than I am, one
+with whom you could have enjoyed as much pleasure,--since in this you
+only sought the grosser kind--one who would have loved you faithfully
+as long as you were with her, whom time would have consoled for your
+absence, and whom you might have left without either treachery or
+cruelty. You act more like a tyrant bent on persecution than a lover
+whose only thought should be how to please. Alas! why do you treat
+so harshly a heart which is yours? I can see very well that you let
+yourself be turned against me as easily as I let myself be convinced
+in your favour. Without needing to call on all my love, and without
+imagining that I had done anything out of the way, I should have
+resisted much stronger arguments than those can be which have moved you
+to leave me. They would have seemed to me very weak, and none could
+have been strong enough to tear me from your side. But you were ready
+to make use of the first pretexts that you found in order to get back
+to France. A vessel was sailing. Why did you not let it sail? Your
+family had written to you. Surely you know all the persecutions which
+I have suffered from mine? Your honour obliged you to abandon me. Did
+I take any care of mine? You were forced to go and serve your king. If
+all they say of him is true he has no need of your help, and would have
+excused you. I should have been only too happy if we could have passed
+our whole lives together, but since it was fated that a cruel absence
+should separate us, I think I ought to be glad indeed at the thought
+of not having been faithless, and I would not wish to have committed
+such a base act for anything in the world. What! you who have known
+the depths of my heart and affection, could you make up your mind to
+leave me for ever and expose me to the dread of feeling that you only
+remember me in order to sacrifice me to some new passion?
+
+I well know that I love you as one distracted. Withal I do not complain
+of all the violence of my heart’s emotions; I am accustoming myself
+to its tortures, and I could not live without the pleasure which I
+find and enjoy in loving you in the midst of a thousand sorrows. But
+a disgust and hatred for everything torments me constantly; I feel
+my family, my friends, and this convent unbearable. All I am forced
+to see and everything I am obliged to do is hateful to me. I have
+grown so jealous of my passion that methinks all my actions and all
+my duties have regard to you. Yes, I have scruples in not employing
+every moment of my life for you. Ah! what should I do without the
+extremities of hate and love which fill my heart? Could I survive that
+which incessantly fills my thoughts, and lead a quiet cold life? Such a
+void, and such a lack of feeling, could never suit me. All have noticed
+how completely I am changed in my humour, my manners, and my person.
+My mother[28] spoke to me about it, sharply at first, but afterwards
+more kindly. I know not what I said in reply. I think I confessed all
+to her. Even the strictest religious pity my condition, and are moved
+by a certain consideration and regard for me. Every one, in fact, is
+touched by my love: and you alone remain profoundly indifferent. You
+write me letters at once cold and full of repetitions; the paper is not
+half filled, and you make it quite clear that you are dying to finish
+them.
+
+Dona Brites has been importuning me for several days to get me to leave
+my room, and thinking to divert me she took me for a walk upon the
+balcony, from which one sees the gates of Mertola.[29] I went with her,
+but at once cruel memories assailed me, and these made me weep for the
+rest of the day. She brought me back to my room, and there I threw
+myself on the bed and thought a thousand times on the little hope I
+have of ever being well again. What is done to alleviate only embitters
+my grief, and I find in the very remedies themselves particular reasons
+for fresh sorrows. It was from that spot that I often saw you pass by
+with that air which charmed me so, and I was up on that balcony on
+the fatal day when I began to feel the first effects of my unhappy
+passion. Methought you were wishing to please me, although as yet you
+did not know me. I persuaded myself that you singled me out among all
+my companions. When you paused I thought you were pleased for me to
+see you better and admire your skill and grace whilst you caracoled
+your horse. A sudden fright came over me when you made it go over some
+difficult place. In a word, I interested myself secretly in every act
+of yours. I felt quite sure you were not indifferent to me, and I took
+as meant for me all that you did. You know too well what came of all
+this; and although I have nothing to hide, I ought not to write to you
+so much about it, lest I make you more guilty than you are already,
+if that be possible, and lest I have to reproach myself with so many
+useless efforts to oblige you to be faithful. This you will never be.
+Can I ever hope that my letters and reproaches will have an effect on
+your ingratitude that my love for you and your desertion of me have
+not had? I know my sad fate too well: your injustice leaves me not the
+slightest reason to doubt of it, and I am bound to fear the worst,
+since you have cast me off. Have you a charm only for me, and do not
+other eyes find you pleasing? I should not be annoyed, I think, were
+the feelings of others in some sort to justify mine, and I would wish
+all the women in France to find you agreeable, but none to love you,
+none please you. This idea is ridiculous and impossible I well know.
+I have already, however, found by experience that you are incapable
+of a great affection, and that you could easily forget me without any
+help, and without a fresh love obliging you to it. I would, perhaps,
+wish you to have some reasonable pretext for your desertion of me.
+It is true that I should then be more unhappy, but you would not be
+so guilty. You mean to stay in France, I perceive, without great
+enjoyments, may be, but in the possession of full liberty. The fatigue
+of a long voyage, some punctilios of good manners, and the fear of not
+being able to correspond to my ardent passion, keep you there. Oh do
+not be afraid of me; I will be content with seeing you from time to
+time, and knowing only that we are in the same country; but perhaps I
+flatter myself, and may be you will be more touched by the rigour and
+hardness of another woman than you have been by all my favours. Can it
+be that cruelty will inflame you more?
+
+But before engaging yourself in any great passion, think well on
+the excess of my sorrows, on the uncertainty of my purposes, on the
+contradictions in my emotions, on the extravagance of my letters, on
+my trustfulness, my despair, my desires, and my jealousy. Oh! you are
+on the way to make yourself unhappy. I conjure you to profit by my
+example, that at least what I am suffering for you may not be useless
+to you. Five or six months ago you told me a secret which troubled me,
+and acknowledged, only too frankly, that you had once loved a lady in
+your own country. If it is she who prevents you from returning here,
+do not scruple to tell me, that I may fret no more. I am borne up by
+some remnants of hope still, but I should be well pleased, if it can
+have no good result, to lose it at a blow, and myself with it. Send
+me her likeness and some one of her letters, and write me all she
+says. Perchance I shall find reasons wherewith to console myself, or
+it may be to afflict myself still more. I cannot remain any longer in
+my present state, and any change whatsoever must be to my advantage.
+I should also like to have the portrait of your brother and of your
+sister-in-law.[30] All that concerns you is very dear to me, and I am
+wholly given up to what touches you in any way: I have no inclination
+of my own left. Sometimes, methinks, I could even submit to wait upon
+her whom you love. Your bad treatment and disdain have broken me down
+so far that at times I do not dare to think I could be jealous and yet
+not displease you, and I go so far as to think that I should be doing
+the greatest wrong in the world were I to upbraid you. I am often
+convinced that I ought not to let you see, so madly as I do, feelings
+which you disown. An officer has now been waiting long for this letter.
+I had resolved to write it in such a way that you might receive it
+without annoyance, but as it is, it is too extravagant, and I must
+close it. Alas! I cannot bring myself to this. I seem to be speaking
+to you whilst I write, and you seem to be more present to me. The
+next[31] letter shall neither be so long nor so troublesome; you may
+open and read it assured of this. It is true that I ought not to speak
+of a passion which displeases you, and I will not speak of it again.
+In a few days it will be a year since I gave myself up to you without
+reserve. Your love seemed to me very warm and sincere, and I should
+never have thought that my favours would so annoy you as to oblige
+you to voyage five hundred leagues and expose yourself to the risk of
+shipwreck to escape from them. I have not deserved such treatment as
+this at any man’s hands. You may remember my modesty, my shame, and my
+confusion, but you do not remember what would make you love me in spite
+of yourself. The officer who is to carry you this letter sends to me
+for the fourth time to say that he wishes to be gone. How pressing he
+is! doubtless he is leaving some unhappy lady in this country.
+
+Good-bye. It costs me more to finish this letter than it cost you to
+quit me, perhaps for ever. Good-bye. I do not dare give you a thousand
+names of love, nor abandon myself to all my feelings without restraint.
+I love you a thousand times more than my life, and a thousand times
+more than I think for. How dear you are to me, and yet how cruel! You
+do not write to me. I could not help saying this to you again. But I
+am beginning afresh, and the officer will be gone. What matters it?
+Let him go. ’Tis not so much for your sake that I write as for my own.
+I only seek some solace. Besides, the very length of my letter will
+frighten you, and you will not read it. What have I done to be so
+unhappy? And why have you poisoned my life? Why was I not born in some
+other country? Good-bye, and forgive me. I dare not now pray you to
+love me. See to what my fate has brought me. Good-bye!
+
+
+
+
+THIRD LETTER
+
+ ... Que este pequeno penhor de meus longos suspiros vá ante
+ os seus olhos. Muitas outras cousas desejo, mas esta me seria
+ assaz.’--BERNARDIM RIBEIRO, _Saudades_, cap. i.
+
+
+What will become of me, and what would you have me do? How far I am now
+from all that I had looked forward to! I hoped that you would write me
+from every place you passed through, and that your letters would be
+very long ones,--that you would feed my love by the hope of seeing
+you again, that full trust in your fidelity would give me some sort of
+rest, and that I should then remain in a state bearable enough, and
+without the extremes of sorrow. I had even thought of some poor plans
+of endeavouring, as far as possible, my own cure, in case I could but
+once assure myself that you had entirely forgotten me. The distance
+which you are at, certain impulses of devotion, the fear of entirely
+destroying the remainder of my health by so many wakeful nights and
+so many cares, the improbability of your return, the coldness of your
+love, and your last good-byes, your departure based on such cruel
+pretexts, and a thousand other reasons which are only too good and
+too useless, seemed to offer me a safe refuge if I needed one. Having
+indeed only myself to reckon with, I could never have been on my guard
+against all my weaknesses, nor foresee all that I now suffer. Ah! how
+pitiful it is for me,--I that am not able to share with you my sorrows,
+and must be all alone in my grief! This thought is killing me, and I
+almost die of horror when I think that you were never really affected
+by all the bliss that we shared. Yes, I understand now the untruth of
+all your transports. You betrayed me every time you told me that your
+supreme delight was to be alone with me. It is to my importunities
+alone that I owe your warmth and passion. Deliberately and in cold
+blood you formed a design to kindle my love; you only regarded my
+passion as your triumph, and your heart was never deeply touched. Are
+you not very wretched? and have you so little delicacy that you made no
+other use of my love but this?
+
+How then can it be that with such love I have not been able to make
+you entirely happy? It is solely for love of you that I regret the
+infinite pleasures you have lost. Can it be that you did not care to
+enjoy them? Ah! if you only knew them you would doubtless find them
+much greater than that of having deceived me, and you would have
+experienced how much happier it is, and how much more poignant it is
+to love violently than to be loved. I know not what I am, or what I do,
+or what I wish for. I am torn asunder by a thousand contrary emotions.
+Can a more deplorable state be imagined? I love you to distraction,
+and therefore I spare you sufficiently not to dare to wish that the
+same emotions should trouble you. I should kill myself or die of grief
+without were I to be assured that you were never having any rest, that
+your life was as anxious and disturbed as mine, that you were weeping
+ceaselessly, and that everything was hateful to you. I cannot bear my
+own sufferings, how then could I support the sorrow a thousand times
+more grievous which yours would give me? I cannot, on the other hand,
+make up my mind to wish that you should think no more of me; and to
+speak frankly, I am furiously jealous of all that gives you pleasure,
+and comes near to your heart and fancy in France. I know not why I
+write to you. I perceive that you will only pity me, and I wish for
+none of your pity. I hate myself when I look back on all that I have
+sacrificed for you. I have lost my honour. I have exposed myself to the
+anger of my parents, to all the severity of the laws of this country
+against religious, and finally to your ingratitude, which has seemed
+to me the greatest of all my evils. Withal, I feel that my remorse
+is not real, and that I would willingly, with all my heart, have run
+the greatest risks for the love of you, and that I experience a sad
+pleasure in having risked my life and honour in your service. Ought not
+all that I hold most dear to be at your disposal? Ought I not to be
+satisfied at having employed it as I have done? Methinks, even, I am
+not at all content with my sorrows, or the excess of my love, although
+I cannot, alas! flatter myself sufficiently to be content with you. I
+live, unfaithful that I am; I do as much to preserve my life as to lose
+it. Ah! I am dying of shame. Is my despair then only in my letters? If
+I loved you, as I have told you a thousand times, should I not have
+been dead long ago? I have deceived you, and you may rightly complain
+of me. Alas! why do you not complain of me? I saw you leave, I can
+never hope to see you come back, and in spite of all I yet breathe! I
+have deluded you. I ask your pardon, but do not grant it me. Treat me
+harshly--say my love for you is too weak; be more hard to please; tell
+me that you would have me die of love for your sake. Help me thus, I
+conjure you, to overcome the weakness of my sex, and to put an end to
+all my wavering in real despair. Doubtless a tragic end would force you
+to think of me often, my memory would become dear to you, and perhaps
+you would be really touched by so uncommon a death. Would not death be
+better than the state to which you have brought me? Good-bye. How I
+wish that I had never seen you. Ah! I feel how false this phrase is,
+and I know at the very moment in which I write it that I had far rather
+be unhappy in my love for you than never have seen you. Willingly, and
+without a murmur, I consent to my evil fate, since it has not been your
+wish to make it happier. Good-bye; promise me a few tender regrets if
+I die of grief, or at least that you will let the violence of my love
+give you a disgust and repulsion for everything else. This consolation
+will suffice me, and if I must leave you for ever, I would wish not to
+leave you to another woman. Would it not be very cruel indeed of you to
+make use of my despair to render yourself more agreeable, and to let
+it be seen that you have inspired the greatest passion in the world?
+Good-bye once again. My letters are too long, and I do not regard you
+sufficiently. I ask your pardon, and dare hope that you will show some
+indulgence to a poor mad woman who was not so, as you know, before
+she loved you. Good-bye. Methinks I too often speak to you of the
+insufferable state in which I am, yet I thank you from the bottom of my
+heart for the despair which you cause me, and I hate the peace which I
+lived in before I knew you.
+
+Good-bye! My love grows stronger each moment. Oh what a world of things
+I have to tell you of!
+
+
+
+
+FOURTH LETTER[32]
+
+        Ai gostos fugitivos!
+    Ai gloria já acabada e consumida!
+        Ai males tão esquivos!
+        Qual me deixais a vida!
+    Quão cheia de pezar! quão destruida!
+
+    CAMÕES, _Ode_ iii.
+
+
+Methinks I do the greatest possible wrong to the feelings of my heart
+in trying to make them known to you in writing. How happy should I be
+could you judge of my passion by the violence of yours! But I must
+not compare my feelings with yours, though I cannot help telling you,
+much less strongly than I feel it, it is true, that you ought not to
+maltreat me as you do by a forgetfulness which thrusts me into despair,
+and which even for you is dishonourable. It is but fair that you should
+allow me to complain of the evils which I clearly foresaw when I
+perceived that you were resolved to forsake me. I well know now that I
+deluded myself, thinking as I did that you would deal with me in better
+faith than is usually the case, because the excess of my love put me,
+it seemed, above all kind of suspicion, and merited more fidelity than
+is ordinarily met with. But your wish to deceive me overruled the
+justice you owe me for all that I have done for you. I should still be
+unhappy even if you only loved me because I love you, and I would wish
+to owe it all to your inclination alone. But so far is this from being
+the case that I have not received a single letter from you for the last
+six months. I put down all my misfortunes to the blindness with which I
+gave myself up to love of you. Should I not have foreseen that the end
+of my pleasure would come before that of my love? Could I expect you to
+stay all your life in Portugal and give up both country and career and
+think only of me? Nothing can lighten my sorrow, and the remembrance
+of all that I enjoyed fills me with despair. What! is all my desire
+then to be in vain? and shall I never see you again in my room with all
+the ardour and passion which you once showed? But, alas! I am deceiving
+myself, and I know too well that all the feelings that filled my head
+and heart were only excited in you by a few pleasures, and that they
+both ended at the same time. I ought then in those moments of supreme
+happiness to have called reason to my aid to moderate the deadly excess
+of my delight, and to foretell to me all that I am now suffering. But
+I gave myself up to you entirely, and I was not in a state to think
+of anything which would have poisoned my pleasure and prevented me
+from fully enjoying the pledges of your ardent love. I was too much
+delighted to feel that I was with you to think that you would one day
+be far from me. I remember, however, having told you sometimes that
+you would make me unhappy, but these fears were soon dissipated, and I
+took pleasure in sacrificing them to you, and in giving myself up to
+the enchantment and the faithlessness of your protests. I see clearly
+the remedy for all the evils which I suffer, and I should be soon rid
+of them if I loved you no more. But alas! what a remedy! I had rather
+suffer still more than forget you. Does that, alas! depend on me? I
+cannot reproach myself with having for a single moment wished to cease
+to love you. You are more to be pitied than I am, and all my sufferings
+are better than the cold pleasures which your French mistresses give
+you. I do not envy you your indifference, and you make me pity you. I
+defy you to forget me entirely. I flatter myself that I have put you in
+a state in which you can enjoy but imperfect pleasures without me, and
+I am happier than you because I am more occupied. Some little time ago
+I was made portress of this convent. All who speak to me think that I
+am mad. I know not what I answer them. The religious must be as mad as
+myself to have thought me capable of taking care of anything. Oh how I
+envy the good fortune of Manoel and Francisco![33] Why am I not always
+with you, as they are? I would have followed you and waited upon you
+with more goodwill, it is certain. To see you is all that I desire in
+this world. At least remember me; for you to remember me will content
+me, but I dare not make sure even of this. I used not to limit my hopes
+to your remembrance of me when I saw you daily, but you have taught
+me the necessity of submitting to all that you wish. Withal I do not
+repent of having adored you; I am glad that you betrayed me, and your
+absence, cruel though it is, and perhaps eternal, diminishes in no way
+the violence of my love. I wish everybody to know it; I make no mystery
+of it; and I pride myself on having done for you all that I did against
+every kind of decorum. My honour and religion consist but in loving you
+to distraction all my life through, since I have begun to love you. I
+am not telling you all this to oblige you to write to me. Oh do not
+force yourself; I only wish from you what comes spontaneously, and I
+reject all the testimonies of your love which you can control. I shall
+find pleasure in excusing you, because you will perhaps be glad not
+to have the trouble of writing to me, and I feel deeply disposed to
+pardon you all your faults. A French officer had the charity to talk
+to me of you for three hours this morning; he told me that peace was
+made with France.[34] If this is so could you not come and see me, and
+take me to France? But I do not deserve it. Do as you please, for my
+love no longer depends on the way in which you may treat me. I have
+not been well for a single moment since you left, and my only pleasure
+has been that of repeating your name a thousand times each day. Some
+religious who know the deplorable state into which you have plunged me
+often speak to me of you. I leave my room, where you so often used to
+come to see me, as little as possible, and I constantly look at your
+likeness, which is to me a thousand times clearer than life itself. It
+gives me some pleasure, but also much sorrow, when I consider that I
+shall perchance never see you again.
+
+Why must it be that I shall possibly never see you again? Have you then
+left me for ever? I am in despair. Your poor Marianna can no more; she
+is almost fainting while she finishes this letter. Good-bye, Good-bye.
+Have pity on me.
+
+
+
+
+FIFTH LETTER
+
+      Estou pôsto sem medo
+    A tudo o que o fatal destino ordene:
+      Póde ser que cansado,
+      Ou seja tarde, ou cedo,
+    Com pena de penar-me, me despene.
+
+    CAMÕES, _Canção_ ix.
+
+
+I am writing to you for the last time, and I hope to let you see by the
+difference in the terms and manner of this letter that you have at last
+persuaded me that you no longer love me, and that therefore I ought no
+longer to love you. I will send you on the first opportunity all that
+I still have of yours. Do not be afraid that I shall write to you; I
+will not even put your name on the packet. With all these details I
+have charged Dona Brites,[35] whom I have accustomed to confidences
+very different from this. Her care will be less suspected than mine.
+She will take all the necessary precautions, that I may be assured that
+you have received the portrait and bracelets which you gave me. I wish
+you to know, however, that for some days I have felt as if I could burn
+and tear up these tokens of your love, once so dear to me. But I have
+revealed such weakness to your eyes that you would perhaps never have
+believed me capable of going to a like extremity. I wish, however, to
+enjoy all the pain I have experienced in separating from them, and
+cause you some vexation at least. I confess, to your shame and mine,
+that I found myself more attached to these trifles than I should like
+to tell you, and I felt that I had again need of all my reasoning
+powers to enable me to get rid of each object in spite of my flattering
+myself that I cared no more for you. But, provided with such good
+reasons as mine, one always achieves the end one seeks. I have placed
+them in the hands of Dona Brites. What tears this resolution cost me!
+After a thousand different emotions and doubts which you know not of,
+and of which I shall certainly not give you an account, I have conjured
+her to speak no more to me of these baubles, and never to give them
+back to me even though I should beg to see them once again, and, in a
+word, to send them you without letting me know.
+
+It is only since I have been employing all my efforts to heal myself
+that I have come to know the excess of my love, and I fear that I
+should not have dared to take it in hand had I foreseen so many
+difficulties and such violence. I am persuaded that I should have
+experienced less disagreeable emotions in loving you, ungrateful
+though you are, than in quitting you for ever. I have found out that
+you were less dear to me than my passion; and I have had hard work to
+fight against it even after your insulting behaviour made you hateful
+to me. The pride natural to my sex has not helped me to resolve aught
+against you. Alas! I suffered your scorn, and I could have supported
+your hate and all the jealousy which the attachment you might have had
+for another woman could have caused me. I should have had at least some
+passion to combat, but your indifference is insupportable to me. Your
+impertinent protestations of friendship, and the ridiculous civilities
+of your last letter, convince me that you have received all those which
+I have written to you, that they have stirred no emotions in your
+heart, and yet that you have read them. O ungrateful man! I am still
+foolish enough to be in despair at not being able to flatter myself
+that they have not reached you or been given into your hands. I detest
+your frankness. Did I ever ask you to tell me the truth sincerely? Why
+did you not leave me my love? You had only not to write; I did not seek
+to be enlightened. Am I not unhappy enough with all my inability to
+make the task of deceiving me difficult to you, and now at not being
+able to exculpate you. Know that I am convinced that you are unworthy
+of all my love, and that I understand all your base qualities. If,
+however, all that I have done for you deserves that you should pay
+some slight regard to the favours I ask of you, write no more to me, I
+beg you, and help me to forget you entirely. If you were to show, even
+slightly, that you had felt some grief at the reading of this letter,
+perchance I should believe you. Perchance, also, your acknowledgment
+and assent would vex and anger me, and all that would inflame my love
+afresh. Do not then take any account of my life, or you would doubtless
+overthrow all my plans, however you entered into them. I care not
+to know the result of this letter, and I beg of you not to disturb
+the peace which I am preparing for myself. Methinks you may content
+yourself with the harm which you have already caused me, whatever be
+the intention you formed to make me miserable. Do not tear me from
+my state of uncertainty; I hope in time to combine with it something
+like peace of heart. I promise not to hate you; indeed I distrust any
+violent feelings too much to adventure that. I am persuaded that I
+should find, it may be in this country, another lover more faithful and
+handsomer; but, alas! who could make me feel love? Would a passion for
+another man fill my thoughts? Has mine had any power over you? Have I
+not experienced that a tender heart never forgets what first awakened
+it to feelings it knew not that it was capable of? I have found that
+all the feelings of such a heart are bound up with the idol it has
+created for itself--that its first impressions, its first wounds,
+can neither be healed nor effaced--that all the passions which offer
+their help and attempt to fill and content it promise it but vainly an
+emotion which it never feels again--that all the pleasures which it
+seeks, without any desire of finding them, serve only to convince it
+that nothing is so dear as the remembrance of its sorrows? Why have you
+made me feel the imperfection and bitterness of an attachment which
+cannot endure for ever, and all the evils that result from a violent
+love, when it is not mutual? Why is it that blind inclination and
+cruel fate agree as a rule in determining us in favour of those who
+could only love others? Even if I could hope for some diversion in a
+new engagement, and could find a man of good faith, I pity myself so
+much that I should have great scruples in putting the worst man in the
+world in the condition to which you have brought me; and although I
+may not be obliged to spare you I could not make up my mind to avenge
+myself so cruelly, even though it were to depend on me, by a change
+which I certainly do not foresee. At this very moment I am seeking
+excuses for you, and I understand that a religious is not as a rule
+loveable. Methinks, however, if reason guided one’s choice one ought
+to be more attached to them than to other women. Nothing prevents their
+thinking constantly of their passion, and they are not turned aside by
+a thousand things which divert and occupy the mind in the world. Surely
+it cannot be very pleasing to see those whom one loves ever distracted
+by a thousand trifles, and one must needs have but little delicacy to
+suffer them (without being in despair at it) to talk of nothing but
+assemblies, dress, and promenades. One is constantly exposed to fresh
+jealousies, for they are tied down to attentions, politenesses, and
+conversations with all. Who can be assured that they find no pleasure
+in all these occasions, and that they always endure their husbands
+with extreme disgust and never of their freewill? Ah, how they ought
+to distrust a lover who does not make them render an exact account of
+all, who believes easily and without disquiet what they tell him, who
+in unruffled trust sees them bound to all these society duties. But I
+do not seek to prove to you by good reasons that you ought to love me;
+these are very ill means, and I have made use of much better, without
+success. Too well do I know my fate to try to rise above it. I shall
+be miserable all my life. Was I not so even when I saw you daily? I
+was dying for fear that you would not be faithful. I wished to see
+you every moment, and I could not. The danger you ran in entering
+the convent troubled me. I almost died when you were with the army. I
+was in despair at not being more beautiful and more worthy of you. I
+used to murmur against my modest rank,[36] and I often thought that
+the attachment you appeared to cherish for me would be hurtful to you
+in some way. Methought I did not love you enough. I feared the anger
+of my parents against you, and I was, in a word, in as lamentable a
+state then as now. If you had shown me any signs of affection since you
+left Portugal I should have made every effort to leave it, and I would
+have disguised myself to go and find you. Ah, what would have became
+of me if you had troubled no more about me after I had arrived in
+France?--what confusion, what a false step, what depths of shame for my
+family which is so dear to me since I have ceased to love you! I quite
+understand, you see, that I might have been even more wretched than I
+am. At least for once in my life I am speaking reasonably to you. How
+delighted you will doubtless be at my moderation, and how pleased with
+me? But I wish not to know it. I have already prayed you not to write
+to me again, and I repeat it now. Have you never reflected on the way
+in which you have treated me? Have you never considered that you owe
+me more than any one else in the world? I have loved you as a mad woman
+might. How I despised everything else!
+
+Besides, you have not acted like an honourable man. You must have had
+a natural aversion for me, since you have not loved me to distraction.
+I allowed myself to be enchanted by very mediocre qualities. What
+have you ever done to please me? What sacrifice have you made for me?
+Did you not always seek a thousand other pleasures? Did you ever give
+up gaming or the chase? Were you not ever the first to leave for the
+army, and did you not always come back the last? You exposed yourself
+rashly, although I had begged you to spare yourself for my sake. You
+never sought the means of settling down in Portugal, where you were
+esteemed. A single letter from your brother made you leave without a
+moment’s hesitation. Do I not know that during the voyage you were in
+the best of humours? It must be confessed that I ought to hate you
+with a deadly hatred. Ah, I have brought down all these misfortunes on
+myself. I accustomed you from the first to a boundless love, and that
+with too much ingenuousness, while one needs to employ artifice to
+make one’s self loved. One should seek the means of skilfully exciting
+it, for love of itself does not engender love. You wished me to love
+you, and since you had formed this design there is nothing that you
+would not have done to accomplish it. You would even have made up your
+mind to love me had that been necessary, but you knew that you could
+succeed in your enterprise without passion, and that you had no need
+of it. What treachery! did you think that you could deceive me with
+impunity? If any chance brings you again to this country, I declare
+that I will hand you over to the vengeance of my kinsfolk. I have lived
+too long, in an abandonment and idolatry which strikes me with horror,
+and feelings of remorse persecute me with unbearable severity. I feel a
+lively shame for the crimes which you have made me commit, and I have
+no more, alas! the love which prevented me from comprehending their
+enormity. When will this heart of mine cease to be torn? When shall I
+be freed from these cruel trammels?
+
+In spite of all, methinks I do not wish you harm, and could resolve
+to consent to your being happy. But how could you be so, if you had
+a true heart? I mean to write you another letter, to show you that I
+shall perchance be more at peace some day. What pleasure I shall find
+in being able to reproach you for your injustice when I am no longer so
+vividly touched by it, in letting you know that I despise you, and that
+I can speak with indifference of your deceit, that I have forgotten
+all my pleasures and all my sorrows, and that I only remember you when
+I wish to do so! I recognise that you have a great advantage over me,
+and that you have inspired in me a love which has upset my reason; but
+at the same time you should take little credit to yourself for it. I
+was young, I was trustful, I had been shut up in this convent since
+my childhood,[37] I had only seen people whom I did not care for. I
+had never heard the praises which you constantly gave me. Methought I
+owed you the charms and the beauty which you found in me, and which you
+were the first to make me perceive: I heard you well talked of; every
+one spoke in your favour: you did all that was necessary to awake love
+in me. But I have at last returned to myself from this enchantment.
+You yourself helped me greatly, and I confess that I had much need of
+it. When I return you your letters I shall take care to keep the last
+two which you wrote me; and I shall re-read them more often than I
+have the previous ones, in order that I may not relapse into my former
+weakness. Ah! how dear they cost me, and how happy I should have been
+if you had allowed me to love you always. I well know that I am still
+a little too much taken up with my reproaches and your faithlessness,
+but remember that I have promised myself a state of greater peace, and
+that I shall reach it, or take some desperate resolve against myself,
+which you will learn, without great displeasure. But I wish no more of
+you, and I am foolish to repeat the same things so often. I must leave
+you, and think no more on you. I even think that I shall not write to
+you again. Am I under any obligation to render you an exact account of
+all I do?
+
+
+
+
+  LETTRES
+
+  PORTVGAISES
+
+  TRADVITES
+
+  EN FRANÇOIS
+
+
+  A PARIS,
+
+  Chez CLAVDE BARBIN, au
+  Palais, sur le second Perron
+  de la sainte Chapelle.
+
+
+  M. DC. LXIX
+
+  _Avec Privilege du Roy_
+
+
+
+
+AV LECTEVR
+
+
+_I ay trouué les moyens auec beaucoup de soin & de peine, de recouurer
+vne copie correcte de la traduction de cinq Lettres Portugaises, qui
+ont esté écrites a un Gentilhomme de qualité, qui seruoit en Portugal.
+I’ay veu tous ceux qui se connoissent en sentimens, ou les loüer, ou
+les chercher auec tant d’empressement, que j’ay crû que ie leur ferois
+un singulier plaisir de les imprimer. Ie ne sçay point le nom de celuy
+auquel on les à écrites, ny de celuy qui en a fait la traduction,
+mais il m’a semblé que ie ne deuois pas leur déplaire en les rendant
+publiques. Il est difficile quelles n’eussent, enfin, parû auec des
+fautes d’impression qui les eussent défigurées._
+
+
+
+
+PREMIERE LETTRE
+
+
+Considere, mon amour, jusqu’à quel excez tu as manqué de preuoyance.
+Ah mal-heureux! tu as esté trahy, & tu m’as trahie par des esperances
+trompeuses. Vne passion sur laquelle tu auois fait tant de projets de
+plaisirs, ne te cause presentement qu’vn mortel desespoir, qui ne peut
+estre comparé qu’à la cruauté de l’absence, qui le cause. Quoy? cette
+absence, à laquelle ma douleur, toute ingenieuse qu’elle est, ne peut
+donner vn nom assez funeste, me priuera donc pour toujours de regarder
+ces yeux, dans lesquels je voyois tāt d’amour, & qui me faisoient
+connoître des mouuemēs, qui me combloient de joye, qui me tenoient lieu
+de toutes choses, & qui enfin me suffisoient? Helas! les miens sont
+priuez de la seule lumiere, qui les animoit, il ne leur reste que des
+larmes & je ne les ay employez à aucun vsage, qu’à pleurer sans cesse,
+depuis que j’appris que vous estiez enfin resolu à vn éloignement,
+qui m’est si insupportable, qu’il me fera mourir en peu de temps.
+Cependant il me semble que j’ay quelque attachement pour des malheurs,
+dont vous estes la seule cause: Ie vous ay destiné ma vie aussi-tost
+que je vous ay veu; & je sens quelque plaisir en vous la sacrifiant.
+I’ enuoye mille fois le jour mes soupirs vers vous, ils vous cherchent
+en tous lieux, & ils ne me rapportent pour toute recompense de tant
+d’inquietudes, qu’vn aduertissement trop sincere, que me dōne ma
+mauuaise fortune, qui a la cruauté de ne souffrir pas, que je me
+flatte, & qui me dit à tous momens; Cesse, cesse Mariane infortunée de
+te consumer vainement: & de chercher vn Amant que tu ne verras iamais;
+qui a passé les Mers pour te fuir, qui est en France au milieu des
+plaisirs, qui ne pense pas vn seul moment à tes douleurs, & qui te
+dispense de tous ces transports, desquels il ne te sçait aucun gré?
+mais non, je ne puis me resoudre à juger si injurieusement de vous, &
+je suis trop interessée à vous justifier: Ie ne veux point m’imaginer
+que vous m’auez oubliée. Ne fuis-je pas assez malheureuse sans me
+tourmenter par de faux soupçons? Et pourquoy ferois-je des efforts
+pour ne me plus souuenir de tous les soins, que vous auez pris de me
+temoigner de l’amour? I’ay esté si charmée de tous ces soins, que je
+serois bien ingrate, si je ne vous aymois auec les mesmes emportemens,
+que ma Passion me donnoit, quand je joüissois des témoignages de la
+vostre. Comment se peut-il faire que les souuenirs des momens si
+agreables, soient deuenus si cruels? & faut-il que contre leur nature,
+ils ne seruent qu’à tyranniser mon cœur? Helas! vostre derniere lettre
+le reduisit en vn estrange état: il eut des mouuemens si sensibles
+qu’il fit, ce semble, des efforts, pour se separer de moy, & pour vous
+aller trouuer: Ie fus si accablée de toutes ces émotions violentes,
+que je demeuray plus de trois heures abandonnée de tous mes sens: je
+me défendis de reuenir à vne vie que je dois perdre pour vous: puis
+que je ne puis la cōnserver pour vous, je reuis enfin, malgré moy la
+lumiere, je me flatois de sentir que je mourois d’amour; & d’ailleurs
+j’estois bien-aise de n’estre plus exposée à voir mon cœur déchiré par
+la douleur de vostre absence. Apres ces accidens, j’ay eu beaucoup de
+differētes indispositions: mais, puis-je jamais estre sans maux, tant
+que je ne vous verray pas? Ie les supporte cependant sans murmurer,
+puis qu’ils viennent de vous. Quoy? est-ce là la recompēse, que vous
+me donnez, pour vous auoir si tendrement aymé? Mais il n’importe, je
+suis resoluë à vous adorer toute ma vie, & à ne voir jamais personne;
+& je vous asseure que vous ferez bien aussi de n’aymer personne.
+Pourriez vous estre content d’vne Passion moins ardente que la miēne?
+Vous trouuerez, peut-estre, plus de beauté (vous m’auez pourtant dit
+autrefois, que j’estois assez belle) mais vous ne trouuerez jamais tant
+d’amour, & tout le reste n’est rien. Ne remplissez plus vos lettres
+de choses inutiles, & ne m’escriuez plus de me souuenir de vous? Ie
+ne puis vous oublier, & je n’oublie pas aussi, que vous m’auez fait
+esperer, que vous viēdriez passer quelque temps auec moy. Helas!
+pourquoy n’y voulez vous pas passer toute vostre vie? S’il m’estoit
+possible de sortir de ce malheureux Cloistre, je n’attendrois pas en
+Portugal l’effet de vos promesses: j’irois, sans garder aucune mesure,
+vous chercher, vous suiure, & vous aymer par tout le monde: je n’ose me
+flater que cela puisse estre, je ne veux point nourrir vne esperance,
+qui me donneroit asseurément quelque plaisir, & je ne veux plus estre
+sensible qu’aux douleurs. I’auouë cependant que l’occasion, que mon
+frere m’a donnée de vous escrire, a surpris en moy quelques mouuemens
+de joye, & qu’elle a suspendu pour vn moment le desespoir, où je
+suis. Ie vous coniure de me dire, pourquoy vous vous estes attaché à
+m’enchanter, comme vous auez fait, puisque vous sçauiez bien que vous
+deuiez m’abandonner? Et pourquoy auez vous esté si acharné à me rendre
+malheureuse? que ne me laissiez vous en repos dans mon Cloistre? vous
+auois-ie fait quelque iniure? Mais ie vous demande pardon: ie ne vous
+impute rien: ie ne suis pas en estat de penser à ma vengeance, &
+i’accuse seulement la rigueur de mon Destin. Il me semble qu’en nous
+separant, il nous a fait tout le mal, que nous pouuiōs craindre; il
+ne sçauroit separer nos cœurs; l’amour qui est plus puissant que luy,
+les a vnis pour toute nostre vie. Si vous prenez quelque interest à la
+mienne, escriuez moy souuent. Ie merite bien que vous preniez quelque
+soin de m’apprendre l’estat de vostre cœur, & de vostre fortune, sur
+tout venez me voir. Adieu, ie ne puis quitter ce papier, il tombera
+entre vos mains, ie voudrois bien auoir le mesme bon-heur: Helas!
+insensée que ie suis, ie m’apperçois bien que cela n’est pas possible.
+Adieu, ie n’en puis plus. Adieu, aymez moy toûjours; & faites moy
+souffrir encore plus de maux.
+
+
+
+
+SECONDE LETTRE
+
+
+Il me semble que je fais le plus grād tort du monde aux sentimēs de
+mon cœur, de tascher de vous les faire connoistre en les écriuant:
+que je serois heureuse, si vous en pouuiez biē iuger par la violence
+des vostres! mais ie ne dois pas m’en rapporter a vous, & ie ne puis
+m’empescher de vous dire, bien moins vivement, que je ne le sens,
+que vous ne devriez pas me maltraitter, comme vous faites, par vn
+oubly, qui me met an desespoir, & qui est mesme honteux pour vous;
+il est bien iuste au moins, que vous souffriez que ie me plaigne des
+malheurs, que i’avois bien preveus, quand ie vous vis resolu de me
+quitter ie connois bien que ie me suis abuseé lorsque i’ay pensé,
+que vous auriez vn procedé de meilleure foy, qu’on n’a accoustumé
+d’auoir, parce que l’excez de mon amour me mettoit, ce semble, au
+dessus de toutes sortes de soupçons, & qu’il meritoit plus de fidelité,
+qu’on n’en trouue d’ordinaire: mais la dispositiō, que vous auez à me
+trahir, l’emporte enfin sur la justice, que vous deuez à tout ce que
+i’ay fait pour vous, ie ne laisserois pas d’estre bien malheureuse,
+si vous ne m’aymiez, que parce que ie vous ayme, & ie voudrois tout
+deuoir à vostre seule inclination mais ie suis si éloignée d’estre en
+cét estat, que ie n’ay pas receu vne seule lettre de vous depuis six
+mois: j’attribuë tout ce mal-heur à l’aueuglement, auec lequel ie me
+suis abandonnée à m’attacher a vous: ne deuois-je pas preuoir que mes
+plaisirs finiroient plûtost que mon amour? pouuois-ie esperer, que vous
+demeureriez toute vostre vie en Portugal, & que vous renonceriez à
+vostre fortune & à vostre Pays, pour ne penser qu’à moy? mes douleurs
+ne peuuent receuoir aucun soulagement, & le souuenir de mes plaisirs
+me comble de desespoir: Quoy! tous mes desirs seront donc inutiles, &
+ie ne vous verray iamais en ma chambre avec toute l’ardeur, & tout
+l’emportement, que vous me faisiez voir? mais helas! je m’abuse, & je
+ne connois que trop, que tous les mouuemens, qui occupoient ma teste,
+& mon cœur, n’estoient excitez en vous, que par quelques plaisirs, &
+qu’ils finissoient aussi-tost qu’eux; il falloit que dans ces momens
+trop heureux j’appellasse ma raison à mon secours pour moderer l’excez
+funeste de mes delices, & pour m’annoncer tout ce que ie souffre
+presentement: mais ie me donnois toute à vous, & ie n’estois pas en
+estat de penser à ce qui eût pû empoisonner ma ioye, & m’empescher
+de ioüyr pleinement des témoignages ardens de vostre passion; ie
+m’apperceuois trop agreablement que i’estois auec vous pour penser
+que vous seriez vn iour éloigné de moy: ie me souuiens pourtant de
+vous auoir dit quelquefois que vous me rendriez malheureuse: mais ces
+frayeurs estoient bien-tost dissipées, & ie prenois plaisir, à vous
+les sacrifier, & à m’abandonner à l’enchantement, & à la mauuaise foy
+de vos protestations: ie voy bien le remede à tous mes maux, & i’en
+ferois bien-tost déliurée si ie ne vous aymois plus: mais, helas! quel
+remède; non i’ayme mieux souffrir encore dauantage, que vous oublier.
+Helas! cela dépend il de moy? Ie ne puis me reprocher d’auoir souhaité
+vn seul moment de ne vous plus aymer: vous estes plus à plaindre;
+que je ne suis, & il vaut mieux souffrir tout ce que je souffre, que
+de ioüir des plaisirs languisans, que vous donnent vos Maitresses de
+France: ie n’enuie point vostre indifference, & vous me faites pitié:
+Ie vous défie de m’oublier entierement: Ie me flatte de vous auoir mis
+en estat de n’auoir sans moy, que des plaisirs imparfaits, & ie suis
+plus heureuse que vous, puisque ie suis plus occupée. L’on m’a fait
+depuis peu Portiere en ce Conuent: tous ceux qui me parlent, croyent
+que ie sois fole, ie ne sçay ce que ie leur répons: Et il faut que les
+Religieuses soyent aussi insensées que moy, pour m’auoir crû capable
+de quelque soin. Ah! i’enuie le bon-heur d’Emanuel, & de Francisque;
+pourquoy ne suis-je pas incessamment auec vous, comme eux? ie vous
+aurois suiuy, & ie vous aurois asseurément seruy de meilleur cœur,
+ie ne souhaite rien en ce mōde, que vous voir; au moins souuenez
+vous de moy? ie me contente de vostre souuenir: mais ie n’ose m’en
+asseurer; ie no bornois pas mes esperances à vostre souuenir, quād ie
+vous voyois tous les iours: mais vous m’auez bien apris, qu’il faut
+que ie me soûmette à tout ce que vous voudrez: cependāt ie no me repēs
+point de vous auoir adoré, ie suis bien-aise, que vous m’ayez seduite:
+vostre absence rigoureuse, & peut-estre éternelle, ne diminuë en rien
+l’emportement de mon amour: ie veux que tout le mond le sçache, ie
+n’en fais point vn mystere, & ie suis rauie d’auoir fait tout ce que
+i’ay fait pour vous contre toute sorte de bien-seance: ie ne mets plus
+mon honneur, & ma religion qu’à vous aymer éperdüement toute ma vie,
+puisque i’ay commencé à vous aymer: ie ne vous dis point toutes ces
+choses, pour vous obliger à m’escrire. Ah! ne vous contraignez point;
+ie ne veux de vous, que ce qui viendra de vostre mouuement, & ie refuse
+tous les témoignages de vostre amour dont vous pourriez vous empescher:
+j’auray du plaisir à vous excuser, parce que vous aurez, peut-estre,
+du plaisir à ne pas prendre la peine de m’écrire: & ie sens vne
+profonde disposition à vous pardonner toutes vos fautes. Vn Officier
+François a eu la charité de me parler ce matin plus de trois heures de
+vous, il m’a dit que la paix de France estoit faite: si cela est, ne
+pourriez vous pas me venir voir, & m’emmener en Frāce? Mai’s ie ne le
+merite pas, faites tout ce qu’il vous plaira, mon amour ne depend plus
+de la maniere, dont vous me traiterez; depuis que vous estes party,
+je n’ay pas eu vn seul moment de santé, & je n’ay aucun plaisir qu’en
+nomment vostre nō mille fois le iour; quelques Religieuses, qui sçauent
+l’estat deplorable, où vous m’auez plongée, me parlent de vous fort
+souuent: je sors le moins qu’il m’est possible de ma chambre, où vous
+estes venu tant de fois, & ie regarde sans cesse vôtre portrait, qui
+m’est mille fois plus cher que ma vie, il me donne quelque plaisir:
+mais il me donne aussi bien de la douleur, lors que ie pense que ie ne
+vous reuerray, peut-estre jamais; pourquoy faut-il qu’il soit possible
+que ie ne vous verray, peut-estre, iamais? M’auez vous pour toûjours
+abandonnée? Ie suis au desespoir, vostre pauure Mariane n’en peut plus,
+elle s’éuanoüit en finissant cette Lettre. Adieu, adieu, ayez pitié de
+moy.
+
+
+
+
+TROISIESME LETTRE
+
+
+Qv’est-ce que je deuiendray, & qu’est-ce que vous voulez que ie fasse?
+Ie me trouue bien éloignée de tout ce que j’auois preueu: I’esperois
+que vous m’écririez de tous les endroits, où vous passeriez, & que
+vos lettres seroient fort longues; que vous soustiēdrez ma Passion
+par l’esperance de vous reuoir, qu’vne entiere confiance en vostre
+fidelité me donneroit quelque sorte de repos, & que ie demeurerois
+cependant dans vn estat assez supportable sans d’extrèmes douleurs:
+j’auois mesme pensé à quelques foibles projets de faire tous les
+efforts dont ie serois capable, pour me guerir, si ie pouuois
+connoistre bien certainement que vous m’eussiez tout à fait oubliée;
+vostre éloignement, quelques mouuemens de deuotiō; la crainte de
+ruiner entierement le reste de ma santé par tant de veilles, & par
+tant d’inquietudes; le peu d’apparence de vostre retour: la froideur
+de vostre Passion, & de vos derniers adieux; vostre depart, fondé sur
+d’assez meschās pretextes, & mille autres raisons, qui ne sont que
+trop bonnes, & que trop inutiles, sembloient me promettre vn secours
+assez asseuré, s’il me deuenoit necessaire: n’ayant enfin à combatre
+que contre moy mesme, ie ne pouuois jamais me défier de toutes mes
+foiblesses, ny apprehender tout ce que ie souffre aujourd’huy. Helas!
+que ie suis à plaindre, de ne partager pas mes douleurs auec vous,
+& d’estre toute seule malheureuse: cette pensée me tuë, & je meurs
+de frayeur, que vous n’ayez iamais esté extrémement sensible à tous
+nos plaisirs: Oüy, ie connois presentement la mauuaise foy de tous
+vos mouuemens: vous m’auez trahie toutes les fois, que vous m’auez
+dit, que vous estiez rauy d’estre seul auec moy; ie ne dois qu’a mes
+importunitez vos empressemens, & vos transports; vous auiez fait de
+sens froid vn dessein de m’enflamer, vous n’auez regardé ma Passion
+que comme vne victoire, & vostre cœur n’en a jamais esté profondement
+touché, n’estes vous pas bien malheureux, & n’auez vous pas bien peu
+de delicatesse, de n’auoir sçeu profiter qu’en cette maniere de mes
+emportemens? Et comment est-il possible qu’auec tant d’amour ie n’aye
+pû vous rendre tout a fait heureux? ie regrette pour l’amour de vous
+seulement les plaisirs infinis, que vous auez perdus: faut-il que vous
+n’ayez pas voulu en ioüir? Ah! si vous les cōnoissiez, vous trouueriez
+sans doute qu’ils sont plus sensibles, que celuy de m’auoir abusée, &
+vous auriez esprouué, qu’on est beaucoup plus heureux, & qu’on sent
+quelque chose de bien plus touchant, quand on ayme violamment, que
+lors’qu’on est aymé. Ie ne sçay, ny ce que ie suis, ny ce que ie fais,
+ny ce que ie desire: ie suis deschirée par mille mouuemens contraires:
+Peut-on s’imaginer vn estat si deplorable? Ie vous ayme éperduëment,
+& ie vous mesnage assez pour n’oser, peut-estre, souhaiter que vous
+soyez agité des mesmes transports: ie me tuërois, ou ie mourrois de
+douleur sans me tuër, si j’estois asseurée que vous n’auez jamais
+aucun repos, que vostre vie n’est que trouble, & qu’agitation, que vous
+pleurez sans cesse, & que tout vous est odieux; je ne puis suffire à
+mes maux, comment pourrois-je supporter la douleur, que me donneroient
+les vostres, qui me seroient mille fois plus sensibles? Cependant ie
+ne puis aussi me resoudre à desirer que vous ne pensiez point à moy;
+& à vous parler sincerement, ie suis ialouse auec fureur de tout ce
+qui vous donne de la joye, & qui touche vostre cœur, & vostre goust
+en France. Ie ne sçay pourquoy ie vous écris, ie voy bien que vous
+aurez seulement pitié de moy, & ie ne veux point de vostre pitié; j’ay
+bien du depit cōtre moy-mesme, quand ie sais reflexion sur tout ce
+que ie vous ay sacrifié: j’ay perdu ma reputation, je me suis exposée
+a la fureur de mes parens, à la severité des loix de ce Païs contre
+les Religieuses, & à vostre ingratitude, qui me paroist le plus grand
+de tous les malheurs: cependant je sens bien que mes remors ne sont
+pas veritables, que ie voudrois du meilleur de mon cœur, auoir couru
+pour l’amour de vous de plus grans dangers, & que i’ay vn plaisir
+funeste d’auoir hazardé ma vie & mō honneur, tout ce que i’ay de plus
+precieux, ne devoit-il pas estre en vostre disposition? Et ne dois-je
+pas estre bien aise de l’auoir employé, comme i’ay fait: il me semble
+mesme que ie ne suis gueres contente ny de mes douleurs, ny de l’excez
+de mon amour, quoi que ie ne puisse, helas! me flater assez pour étre
+contente de vous; je vis, infidelle que ie suis, & ie fais autant de
+choses pour conserver ma vie, que pour la perdre, Ah! j’en meurs de
+honte: mon desespoir n’est donc que dans mes Lettres? Si je vous aimois
+autant que ie vous l’ay dit mille fois, ne serois-je pas morte, il y
+a long-temps? Ie vous ay trompé, c’est à vous à vous plaindre de moy:
+Helas! pourquoy ne vous en plaignez vous pas? Ie vous ay veu partir, ie
+ne puis esperer de vous voir iamais de retour, & ie respire cependant:
+ie vous ay trahy, ie vous en demande pardon: mais ne me l’accordez
+pas? Traittez moy seueremēt? Ne trouuez point que mes sentimens soient
+assez violens? Soyez plus difficile à contēter? Mandez moy que vo’
+voulez que ie meure d’amour pour vous? Et ie vous conjure de me donner
+ce secours, afin que ie surmonte la foiblesse de mon sexe, & que ie
+finisse toutes mes irresolutions par vn veritable desespoir; vne fin
+tragique vo’ obligeroit sans doute à penser souuent à moy, ma memoire
+vous seroit chere, & vous seriez, peut-estre, sensiblement touché d’vne
+mort extraordinaire, ne vaut-elle pas mieux que l’estat, où vous m’auez
+reduite? Adieu, ie voudrois bien ne vous auoir iamais veu. Ah! ie sens
+viuement la fausseté de ce sentiment, & ie connois dans le moment que
+ie vous écris, que i’aime bien mieux estre malheureuse en vo’ aimant,
+que de ne vous auoir iamais veu; je consens donc sans murmure à ma
+mauuaise destinée, puisque vous n’auez pas voulu la rendre meilleure.
+Adieu, promettez, moy de me regretter tendrement, si ie meurs de
+douleur, & qu’au moins la violence de ma Passion vous donne du dégoust
+& de l’éloignement pour toutes choses; cette consolation me suffira, &
+s’il faut que ie vous abandonne pour toûjours, ie voudrois bien ne vous
+laisser pas à vne autre. Ne seriez vous pas bien cruel de vous seruir
+de mon desespoir, pour vous rendre plus aimable, & pour faire voir, que
+vous auez donné la plus grande Passion du monde? Adieu encore vne fois,
+ie vous écris des lettres trop longues, je n’ay pas assez d’égard pour
+vous, ie vous en demande pardon, & j’ose esperer que vous aurez quelque
+indulgence pour vne pauure insensée, qui ne l’estoit pas, comme vous
+sçauez, auant qu’elle vous aimât. Adieu, il me semble que ie vous parle
+trop souuent de l’estat insuportable où ie suis: cependant ie vous
+remercie dans le fonds de mon cœur du desespoir, que vous me causez, &
+ie deteste la tranquillité, où j’ay vescu, auant que je vous connusse.
+Adieu, ma Passion augmente à chaque moment. Ah! que j’ay de choses à
+vous dire.
+
+
+
+
+QVATRIESME LETTRE
+
+
+Vostre Lieutenant vient de me dire, qu’vne tempeste vous a obligé de
+relascher au Royaume d’Algarve: je crains que vous n’ayez beaucoup
+souffert sur la mer, & cette apprehension m’a tellement occupée; que
+je n’ay plus pensé à tous mes maux, estes vous bien persuadé que
+vostre Lieutenant prenne plus de part que moy à tout ce qui vous
+arriue? Pourquoy en est-il mieux informé, & enfin pourquoi ne m’auez
+vous point écrit? Ie suis bien malheureuse, si vous n’en aués trouué
+aucune occasion depuis vostre depart, & ie la suis bien dauantage,
+si vous en aués trouué sans m’écrire; vostre injustice & vostre
+ingratitude sont extrémes: mais ie serois au desespoir, si elles vous
+attiroient quelque malheur, & j’aime beaucoup mieux qu’elles demeurent
+sans punition, que si j’en estois vangeé: je resiste à toutes les
+apparences, qui me deuroient persuader, que vous ne m’aimés gueres,
+& ie sens bien plus de disposition à m’abandonner aueuglement à ma
+Passion, qu’aux raisons, que vo’ me donnez de me plaindre de vostre
+peu de soin: que vous m’auriés épargné d’inquietudes, si vostre
+procedé eust esté aussi languissant les premiers jours, que je vous
+vis, qu’il m’a parû depuis quelque temps! mais qui n’auroit esté
+abuseé, comme moy, par tant d’empressement, & à qui n’eussent-ils
+paru sinceres? Qu’on a de peine à se resoudre à soupçonner longtemps
+la bonne foy de ceux qu’on aime! ie voy bien que la moindre excuse
+vous suffit, & sans que vous preniez le soin de m’en faire, l’amour
+que i’ay pour vous, vous sert si fidelemēt, que ie ne puis consentir
+à vo’ trouuer coupable, que pour joüir du sensible plaisir de vous
+justifier moy-même. Vous m’auez consommée par vos assiduitez, vous
+m’auez enflamée par vos transports, vo’ m’auez charmée par vos
+complaisances, vous m’auez asseurée par vos sermens, mon inclinatiō
+violente m’a seduite, & les suites de ces commencemēs si agreables,
+& si heureux ne sont que des larmes, que des soûpirs, & qu’vne mort
+funeste, sans que ie puisse y porter aucun remede. Il est vray que
+i’ay eu des plaisirs bien surprenans en vous aimant: mais ils me
+coustent d’estranges douleurs, & tous les mouuemēs, que vous me causez,
+sont extrémes. Si i’auois resisté auec opiniâtreté à vostre amour,
+si je vous auois donné quelque sujet de chagrin, & de jalousie pour
+vous enflamer dauantage, si vous auiez remarqué quelque mesnagement
+artificieux dans ma conduite, si i’auois enfin voulu opposer ma raison
+à l’inclination naturelle que j’ay pour vous, dont vo’ me fistes
+bien-tost apperceuoir (quoy que mes efforts eussent esté sans doute
+inutiles) vous pourriez me punir seuerement, & vous seruir de vostre
+pouuoir: mais vous me parustes aimable, auant que vous m’eussiez dit,
+que vous m’aimiez, vous me témoignastes vne grande Passion, j’en fûs
+rauie, & ie m’abandonnay à vous aimer éperduëment, vous n’estiés point
+aueuglé, comme moy, pour-quoy aués vo’ donc souffert que ie deuinsse
+en l’estat où ie me trouue? qu’est-ce que vous vouliez faire de tous
+mes emportemens, qui ne pouuoient vous estre que tres-importuns? Vous
+sçauiez bien que vous ne seriez pas toûjours en Portugal, & pourquoy
+m’y aués vous voulu choisir pour me rendre si malheureuse, vous
+eussiés trouué sans doute en ce Païs quelque femme qui eust esté plus
+belle, auec laquelle vous eussiés eu autant de plaisir, puisque vous
+n’en cherchiés que de grossiers, qui vo’ eut fidelement aimé aussi
+long-temps qu’elle vous eut veu, que le temps eust pû consoler de
+vostre absence, & que vous auriés pû quitter sans perfidie, & sans
+cruauté: ce procedé est biē plus d’vn Tyran, attaché à persecuter, que
+d’vn Amant, qui ne doit penser qu’à plaire; Helas! Pourquoy exercés
+vous tant de rigueur sur vn cœur, qui est à vous? Ie voy bien que
+vous estes aussi facile à vous laisser persuader contre moy, que ie
+l’ay esté à me laisser persuader en vostre faueur; j’aurois resisté,
+sans auoir besoin de tout mon amour, & sans m’apperceuoir que j’eusse
+rien fait d’extraordinaire, à de plus grandes raisons, que ne peuuēt
+estre celles, qui vo’ ont obligé à me quitter: elles m’eussent parû
+bien foibles, & il n’y en a point, qui eussent jamais pû m’arracher
+d’aupres de vous: mais vous aués voulu profiter des pretextes, que vous
+aués trouués de retourner en Frāce; vn vaisseau partoit, que ne le
+laissiés vous partir? vostre famille vous auoit escrit, ne sçaués vous
+pas toutes les persecutions, que j’ay souffertes de la mienne? Vostre
+hōneur vous engageoit à m’abandonner, ay-je pris quelque soin du mien?
+Vous estiés obligé d’aller seruir vostre Roy, si tout ce qu’on dit de
+luy, est vray, il n’a aucun besoin de vostre secours, & il vous auroit
+excusé; j’eusse esté trop heureuse, si nous auions passé nostre vie
+ensemble: mais puisqu’il falloit qu’vne absence cruelle nous separât,
+il me semble que je dois estre bien aise de n’auoir pas esté infidele,
+& ie ne voudrois pas pour toutes les choses du mōde, auoir commis vne
+action si noire: Quoy! vous auez connu le fonds de mon cœur, & de ma
+tendresse, & vous auez pû vous resoudre à me laisser pour iamais, & à
+m’exposer aux frayeurs, que ie dois auoir, que vous ne vous souuenez
+plus de moy, que pour me sacrifier à vne nouuelle Passion? Ie voy bien
+que ie vous aime, comme vne folle: cependant ie ne me plains point
+de toute la violence des mouuemens de mō cœur, ie m’accoustume à ses
+persecutions, & ie ne pourrois viure sans vn plaisir, que ie descouure,
+& dont ie joüis en vous aimāt au milieu de mille douleurs: mais ie
+suis sans cesse persecutée auec un extréme desagréemēt par la haine, &
+par le dégoustt que j’ay pour toutes choses; ma famille, mes amis & ce
+Conuent me sont insuportables; tout ce que ie suis obligeé de voir, et
+tout ce qu’il faut que ie fasse de toute necessité, m’est odieux: je
+suis si jalouse de ma Passion, qu’il me semble que toutes mes actions,
+& que tous mes deuoirs vous regardent: Oüy, ie fais quelque scrupule,
+si ie n’employe tous les momens de ma vie pour vous; que ferois-je,
+helas! sans tant de haine, & sans tant d’amour, qui remplissent mon
+cœur? Pourrois-je surviure à ce qui m’occupe incessamment, pour mener
+vne vie tranquille & languissante? Ce vuide & cette insensibilité ne
+peuuent me conuenir. Tout le monde s’est apperceu du changement entier
+de mon humeur, de mes manieres, & de ma persōne, ma Mere m’en a parlé
+auec aigreur, & ensuite auec quelque bonté, ie ne sçay ce que ie luy
+ay répondu, il me semble que ie luy ay tout auoüé. Les Religieuses
+les plus seueres ont pitié de l’estat où je suis, il leur donne mesme
+quelque consideration, & quelque menagemēt pour moy; tout le monde est
+touché de mon amour. & vo’ demeurez dans vne profonde indiference, sans
+m’escrire, que des lettres froides; pleines de redites; la moitié du
+papier n’est pas remply, & il paroist grossierement que vous mourez
+d’enuie de les auoir acheuées. Dona Brites me persecuta ces jours
+passez pour me faire sortir de ma chambre, & croyant me diuertir,
+elle me mena promener sur le Balcon, d’où l’on voit Mertola, je la
+suiuis, & je fûs aussi-tost frapée d’vn souuenir cruel, qui me fit
+pleurer tout le reste du jour: elle me ramena, & ie me jettay sur mon
+lict, où ie fis mille réflexions sur le peu d’apparence, que ie voy
+de guerir jamais: ce qu’on fait pour me soulager, aigrit ma douleur,
+& ie trouue dans les remedes mesmes des raisons particulieres de
+m’afliger: je vous ay veu souuent passer en ce lieu auec vn air, qui
+me charmoit, & j’estois sur ce Balcon le jour fatal, que ie cōmençay
+à sentir les premiers effets de ma Passion malheureuse: il me sembla
+que vous vouliez me plaire, quoy que vous ne me connussiez pas: je me
+persuaday que vous m’auiez remarquée entre toutes celles, qui estoient
+auec moy, ie m’imaginay que lors que vous vous arrestiez, vous estiez
+bien aise, que ie vous visse mieux, & i’admirasse vostre adresse, &
+vostre bonne grace, lors que vous poussiez vôtre cheual, i’estois
+surprise de quelque frayeur, lors que vous le faisiez passer dans vn
+endroit difficile: enfin je m’interessois secrettement à toutes vos
+actions, je sentois bien que vous ne m’estiez point indifferent, & ie
+prenois pour moy tout ce que vous faisiez: vous ne connoissez que trop
+les suites de ces commencemens, & quoy que ie n’aye rien à mesnager, ie
+ne dois pas vous les escrire, de crainte de vous rendre plus coupable,
+s’il est possible que vous ne l’estes, & d’auoir à me reprocher tant
+d’efforts inutiles pour vous obliger à m’estre fidele, vous ne le serez
+point: Puis-je esperer de mes lettres & de mes reproches ce que mon
+amour & mon abandonnement n’ont pû sur vostre ingratitude? Ie fuis
+trop asseurée de mon malheur, vostre procedé injuste ne me laisse pas
+la moindre raison d’en douter, & ie dois tout apprehender, puisque
+vous m’auez abandonée. N’aurez vous de charmes que pour moy, & ne
+paroistrez vous pas agreable à d’autres yeux? Ie croy que ie ne seray
+pas fâchée que les sentimens des autres iustifient les miens en quelque
+façon, & ie voudrois que toutes les femmes de France vous trouuassent
+aimable, qu’aucune ne vous aimât, & qu’aucune ne vous plût: ce projet
+est ridicule, & impossible: neantmoins j’ay assez éprouué que vous
+n’estes gueres capable d’vn grand entestement, & que vous pourrez bien
+m’oublier sans aucun secours, & sans y estre contraint par vne nouuelle
+Passion: peut-estre, voudrois-je que vous eussiez quelque pretexte
+raisonnable? Il est vray, que ie serois plus malheureuse, mais vous
+ne seriez pas si coupable: je voy bien que vovs demeurerez en Frāce
+sans de grands plaisirs, auec vne entiere liberté; la fatigue d’vn
+long voyage, quelque petite bien-seance, & la crainte de ne répondre
+pas à mes transports, vous retiennent: Ah! ne m’apprehendez point? Ie
+me contenteray de vous voir de temps en temps, & de sçauoir seulement
+que no’ sommes en mesme lieu: mais ie me flatte, peut-estre, & vous
+serez plus touché de la rigueur & de la seuerité d’vne autre, que vous
+ne l’auez esté de mes faueurs; est-il possible que vous serez enflammé
+par de mauuais traittemens? Mais auant que de vous engager dans vne
+grande Passion, pensez bien à l’excez de mes douleurs, à l’incertitude
+de mes projets, à la diuersité de mes mouuemens, à l’extrauagance de
+mes Lettres, à mes confiances, à mes desespoirs, à mes souhaits, à ma
+jalousie? Ah! vous allez vous rendre malheureux; je vous conjure de
+profiter de l’estat où ie suis, & qu’au moins ce que ie souffre pour
+vous, ne vous soit pas inutile? Vous me fites, il y a cinq ou six mois
+vne fascheuse confidēce, & vo’ m’auoüâtes de trop bonne foy, que vous
+auiez aimé vne Dame en vostre Païs: si elle vous empesche de reuenir,
+mādez-le moy sans ménagement? afin que ie ne languisse plus? quelque
+reste d’esperance me soustiēt encore, & ie seray bien aise (si elle
+ne doit auoir aucune suite) de la perdre tout à fait, & de me perdre
+moy-mesme; enuoyez moy son portrait auec quelqu’vne de ses Lettres? Et
+escriuez moy tout ce qu’elle vous dit? I’y trouuerois, peut-estre, des
+raisons de me consoler, ou de m’affliger dauantage, ie ne puis demeurer
+plus long-temps dās l’estat où ie suis, & il n’y a point de chāgement,
+qui ne me soit fauorable: Ie voudrois aussi auoir le portrait de vostre
+frere & de vostre Belle-sœur: tout ce qui vous est quelque chose, m’est
+fort cher, & ie suis entierement deuoüée à ce qui vous touche: je ne me
+suis laissé aucune disposition de moy-mesme; Il y a des momens, où il
+me semble que j’aurois affez de soûmission pour seruir celle, que vous
+aimez; vos mauuais traittemēs, & vos mépris m’ont tellement abatuë, que
+ie n’ose quelque fois penser seulement, qu’il me semble que ie pourrois
+estre jalouse sans vous déplaire, & que ie croy auoir le plus grand
+tort du monde de vous faire des reproches: je suis souuent conuaincuë,
+que ie ne dois point vous faire voir auec fureur, comme ie fais, des
+sentimens, que vo’ desauoüez. Il y a long-temps qu’vn Officier attend
+vostre Lettre, i’auois resolu de l’escrire d’vne maniere à vo’ la
+faire receuoir sans dégoust: mais elle est trop extrauagante, il faut
+la finir: Helas! il n’est pas en mon pouuoir de m’y resoudre, il me
+semble que je vous parle, quand ie vous escris, & que vous m’estes vn
+peu plus present; La premiere ne sera pas si longue, ny si importune,
+vous pourrez l’ouurir & la lire sur l’asseurance, que ie vous donne,
+il est vray que ie ne dois point vous parler d’vne passion, qui vous
+déplaist, & ie ne vous en parleray plus. Il y aura vn an dans peu
+de jours que ie m’abandonnay toute à vous sans ménagement: vostre
+Passion me paroissoit fort ardente, & fort sincere, & ie n’eusse jamais
+pensé que mes faueurs vo’ eussent assez rebuté, pour vous obliger à
+faire cinq cens lieuës, & à vous exposer à des naufrages, pour vo’ en
+éloigner; personne ne m’estoit redeuable d’vn pareil traittement:
+vous pouuez vous souuenir de ma pudeur, de ma confusion & de mon
+desordre, mais vous ne vous souuenez pas de ce qui vous engageroit à
+m’aimer malgré vous. L’Officier, qui doit vous porter cette Lettre, me
+mande pour la quatrième fois, qu’il veut partir, qu’il est pressant,
+il abandonne sans doute quelque malheureuse en ce Païs. Adieu, j’ay
+plus de peine à finir ma Lettre, que vo’ n’en auez eu à me quitter,
+peut-estre, pour toûjours. Adieu, ie n’ose vous donner mille noms de
+tendresse, ny m’abandonner sans cōtrainte à tous mes mouuemens: ie vo’
+aime mille fois plus que ma vie, & mille fois plus que ie ne pense; que
+vous m’estes cher! & que vous m’estes cruel! vous ne m’escriuez point,
+ie n’ay pû m’empescher de vo’ dire encore cela; je vay recommencer, &
+l’Officier partira; qu’importe, qu’il parte, j’écris plus pour moy, que
+pour vous, ie ne cherche qu’à me soulager, aussi bien la longueur de ma
+lettre vous fera peur, vous ne la lirez point qu’est-ce que j’ay fait
+pour estre si malheureuse? Et pourquoy auez vous empoisonné ma vie? Que
+ne suis-je née en vn autre Païs. Adieu, pardonnez moy? Ie n’ose plus
+vous prier de m’aimer; voyez où mon destin m’a reduite? Adieu.
+
+
+
+
+CINQVIESME LETTRE
+
+
+Je vous écris pour la derniere fois, & j’espere vous faire connoître
+par la differance des termes, & de la maniere de cette Lettre, que vous
+m’auez enfin persuadée que vous ne m’aymiez plus, & qu’ainsi je ne dois
+plus vous aymer: Ie vous r’enuoyeray donc par la premiere voye tout ce
+qui me reste encore de vous: Ne craignez pas que je vous écriue; je
+ne mettray pas mesme vostre nom audessus du pacquet; j’ay chargé de
+tout ce détail Dona Brites, que j’auois accoustumée à des confidences
+bien éloignées de celle-cy; ses soins me seront moins suspects que les
+miens, elle prendra toutes les precautions necessaires, afin de pouuoir
+m’asseurer que vous auez receu le portrait & les bracelets que vous
+m’auez donnés: Ie veux cependant que vous sçachiez que je me sens,
+depuis quelques jours, en estat de brûler, & de déchirer ces gages de
+vostre Amour, qui m’estoient si chers, mais ie vous ay fait voir tant
+de foiblesse, que vous n’auriés jamais crû que j’eusse peu deuenir
+capable d’vne telle extremité, je veux donc joüir de toute la peine que
+j’ay euë à m’en separer, & vous dormer au moins quelque dépit: Ie vous
+aduoüe à ma honte & à la vostre, que ie me suis trouuée plus attachée
+que ie ne veux vous le dire, à ces bagatelles, & que i’ay senty que
+j’auois vn nouueau besoin de toutes mes reflexions, pour me défaire
+de chacune en particulier, lors mesme que ie me flattois de n’estre
+plus attachée à vous: Mais on vient about de tout ce qu’on veut, auec
+tant de raisons: Ie les ay mises entre les mains de Dona Brites; que
+cette resolution ma cousté de larmes! Apres mille mouuements & milles
+incertitudes que vous ne connoissez pas, & dont ie ne vous rendray pas
+compte assurement. Ie l’ay coniurée de ne m’en parler iamais, de ne
+me les rēdre iamais, quand mesme ie les demanderois pour les reuoir
+encore vne fois, & de vous les renuoyer, enfin, sans m’en aduertir.
+
+Ie n’ay bien connû l’excés de mon Amour que depuis que i’ay voulu
+faire to’ mes efforts pour m’en guerir, & ie crains que ie n’eusse
+osé l’entreprendre, si i’eusse pû préuoir tant de difficultées & tant
+de violences. Ie suis persuadée que j’eusse senti des mouuemens moins
+desagreables en vo’ aymant tout ingrat qve vous estes, qu’en vous
+quittant pour tousiours. I’ay éprouué que vous m’estiez moins cher que
+ma passion, & j’ay eu d’estranges peines à la combattre, apres que vos
+procedés iniurieux m’ont rendu vostre personne odieuse.
+
+L’orgueil ordinaire de mon sexe ne m’a point aydé à prendre des
+resolutions contre vous; Helas! j’ay souffert vos mepris, j’eusse
+supporté vôtre haisne & toute la jalousie que m’eust dōné l’attachement
+que vous eussiez peu auoir pour vn autre, j’aurois eu, au moins quelque
+passion à combattre, mais vostre indifference m’est insupportable; vos
+impertinantes protestations d’amitié, & les ciuilités ridicules de
+vostre derniere lettre, m’ōt fait voir que vous auiez receu toutes
+celles que je vous ay écrites, qu’elles n’ont causé dans vostre cœur
+aucun mouuement, & que cependant vous les auez luës: Ingrat, je suis
+encore assez folle pour estre au desespoir de ne pouuoir me flatter
+qu’elles ne soient pas venuës jusques à vous, & qu’on ne vous les
+aye pas renduës; Ie deteste vostre bonne foy, vous auois-je prié de
+me māder sinceremēt la verité, que ne me laissiez vous ma passion;
+vous n’auiez qu’à ne me point écrire; ie ne cherchois pas à estre
+éclaircie; ne suis-je pas bien malheureuse de n’auoir pû vous obliger à
+prēdre quelque soin de me tromper? & de n’estre plus en estat de vous
+excuser. Sçachez que je m’aperçois que vous estes indigne de tous mes
+sentimens, & que je connois toutes vous méchantes qualitez: Cependāt
+(si tout ce que j’ay fait pour vous peut meriter que vous ayez quelque
+petits égards pour les graces que ie vous demande) je vous coniure de
+ne m’écrire plus, & de m’ayder à vous oublier entierement, si vous
+me témoigniez foiblement, mesme, que vous auez eu quelque peine en
+lisāt cette lettre, je vo’ croirois peut-estre; & peut-estre aussi
+vostre adueu & vôtre consentement me donneroient du dépit & de la
+colere, & tout cela pourroit m’enflamer: Ne vous meslez donc point
+de ma conduite, vous renuerseriez, sans doute, tous mes proiets,
+de quelque maniere que vous voulussiez y entrer; je ne veux point
+sçauoir le succés de cette lettre; ne troublés pas l’estat que ie
+me prepare, il me semble que vous pouuez estre content des maux que
+vous me causés (quelque dessein que vous eussiez fait de me rendre
+mal’heureuse): Ne m’ostez point de mon incertitude; i’espere que j’en
+feray, auec le temps, quelque chose de tranquille: Ie vous promets de
+ne vous point hayr, ie me défie trop des sentimens violents, pour oser
+l’entreprendre. Ie suis persuadeé que ie trouuerois peut-estre, en
+ce pays vn Amant plus fidele & mieux fait; mais helas! qui pourra me
+donner de l’amour? la passion d’vn autre m’occupera-t’elle? La mienne a
+t’elle pû quelque chose sur vous? N’éprouue-je pas qu’vn cœur attendry
+n’oublie jamais ce qui l’a fait apperceuoir des trāsports qu’il ne
+connoissoit pas, & dont il estoit capable; que tous ses mouuemens sont
+attachés à l’Idole qu’il s’est faite; que ses premieres idées & que
+ses premieres blessures ne peuuent estre ny gueries ny effacées; que
+toutes les passions qui s’offrent à son secours & qui font des efforts
+pour le remplir & pour le contenter, luy promettent vainement vne
+sensibilité qu’il ne retrouue plus, que tous les plaisirs qu’il cherche
+sans aucune enuie de les rencontrer, ne seruent qu’à luy faire bien
+connoître que rien ne luy est si cher, que le souuenir de ses douleurs.
+Pourquoy m’auez vo’ fait connoître l’imperfectiō & le desagréement d’vn
+attachement qui ne doit pas durer eternellement, & les mal-heurs qui
+suiuent vn amour violent, lors qu’il n’est pas reciproque, & pourquoy
+vne inclinatiō aueugle & vne cruelle destineé s’attachent-elles,
+d’ordinaire, à nous déterminer pour ceux qui seroient sensibles pour
+quelque autre.
+
+Quand mesme je pourrois esperer quelque amusemēt dans vn nouuel
+engagement, & que je trouuerois quelqu’vn de bonne foy, j’ay tant de
+pitié de moy-mesme, que je ferois beaucoup de scrupule de mettre le
+dernier homme du monde en l’estat où vous m’auez reduite, & quoy que
+je ne sois pas obligée à vous ménager; je ne pourrois me resoudre
+à exercer sur vous, vne vengeance si cruelle, quand mesme elle
+dependeroit de moy, par vn changement que je ne preuois pas.
+
+Ie cherche dans ce moment à vous excuser, & je cōprend bien qu’vne
+Religieuse n’est guere aymable d’ordinaire: Cependant il semble que si
+on estoit capable de raisons, dans les choix qu’on fait, on deueroit
+plustost s’attacher à elles qu’aux autres femmes, rien ne les empesche
+de penser incessāment à leur passion, elles ne sont point détourneés
+par mille choses qui dissipent & qui occupent dans le monde, il me
+semble qu’il n’est pas fort agreable de voir celles qu’on ayme,
+tousiours distraites par mille bagatelles, & il faut auoir bien peu
+de delicatesse, pour souffrir (sans en estre au desespoir) qu’elles
+ne parlent que d’assembleés, d’aiustements, & de promenades; on est
+sans cesse exposé à de nouuelles jalousies; elles sont obligeés à des
+égards, à des complaisances, à des conuersations: qui peut s’asseurer
+qu’elles n’ont aucun plaisir dans toutes ces occasions, & qu’elles
+souffrent tousiours leurs marys auec vn extrême dégoust, & sans aucun
+consentement; Ah! qu’elles doiuent se défier d’vn Amant qui ne leur
+fait pas rendre vn compte bien exact là dessus, qui croit aisément &
+sans inquietude ce qu’elles luy disent, & qui les voit auec beaucoup
+de confiance & de tranquilité suietes à tous ces deuoirs: Mais je
+ne pretens pas vous prouuer par de bonnes raisons, que vous deuiez
+m’aymer; ce sont de tres-méchans moyens, & j’en ay employé de beaucoup
+meilleurs qui ne m’ont pas reüssi; je connois trop bien mon destin
+pour tâcher à le surmonter; je seray mal-heureuse toute ma vie; ne
+l’éstois-je pas en vous voyāt tous les iours, je mourois de frayeur
+que vous ne me fussiez pas fidel, je voulois vous voir à tous moments,
+& cela n’estoit pas possible, j’estois troubleé par le peril que vous
+couriez en entrant dans ce Conuent; ie ne viuois pas lors que vous
+estiez à l’armée, i’estois au desespoir de n’estre pas plus belle &
+plus digne de vous, ie murmurois contre la mediocrité de ma condition,
+ie croyois souuēt que l’attachement que vous paroissiez auoir pour
+moy, vous pourroit faire quelque tort, il me sembloit que je ne vous
+aymois pas assez, j’apprehendois pour vous la colere de mes parents, &
+j’estois enfin dans vn estat aussi pitoyable qu’est celuy où je suis
+presentement; si vous m’eussiez donné quelques témoignages de vostre
+passion depuis que vo’ n’estes plus en Portugal; j’aurois fait tous mes
+efforts pour en sortir, je me fusse déguisée pour vo’ aller trouuer;
+helas! qu’est-ce que je fusse deuenuë, si vous ne vous fussiez plus
+souciée de moy, apres que j’eusse esté en France; quel desordre? quel
+égarement? quel cōble de honte pour ma famille, qui m’est fort chere
+depuis que je ne vous ayme plus. Vous voyez bien que je cōnnois de sens
+froid qu’il estoit possible que je fusse encore plus à plaindre que ie
+ne suis; & ie vous parle, au moins, raisonnablement vne fois en ma vie;
+que ma moderatiō vous plaira, & que vous serez content de moy; je ne
+veux point le sçauoir, je vous ay desia prié de ne m’écrire plus, & je
+vous en coniure encore.
+
+N’auez vous jamais fait quelque reflexion sur la maniere dont vous
+m’auez traitée, ne pensez vous iamais que vous m’auez plus d’obligation
+qu’à personne du monde; je vous ay aymé comme vne incensée; que de
+mépris j’ay eu pour toutes choses! vostre procedé n’est point d’vn
+honneste homme, il faut que vous ayez eu pour moy de l’auersion
+naturelle, puis que vous ne m’auez pas aymée éperduëment; je me suis
+laissée enchanter par des qualitez tres-mediocres, qu’auez vous fait
+qui deust me plaire? quel sacrifice m’auez vous fait? n’auez vous pas
+cherché mille autres plaisirs? auez vous renoncé au jeu, & à la chasse?
+n’estes vous pas parti le premier pour aller à l’Armée? n’en estes-vous
+pas reuenu apres tous les autres, vous vous y estes exposé folement,
+quoy que je vous eusse prié de vous ménager pour l’amour de moy, vous
+n’auez point cherché les moyens de vous establir en Portugal? où vous
+estiez estimé; vne lettre de vostre frere vous en a fait partir, sans
+hesiter vn moment, & n’ay-je pas sçeu que durant le voyage vous auez
+esté de la plus belle humeur du monde. Il faut aduoüer que ie suis
+obligée à vous haïr mortellement; ah! ie me suis attirée tous mes
+mal-heurs: je vous ay d’abord accoustumé à vne grande passion, auec
+trop de bonne foy, & il faut de l’artifice pour se faire aymer, il
+faut chercher auec quelque adresse les moyens d’enflâmer, & l’amour
+tout seul ne donne point de l’amour, vous vouliez que ie vous aymasse,
+& comme vous auiez formé ce dessein, il n’y a rien que vous n’eussiez
+fait pour y paruenir, vous vous fussiez mesme resolu à m’aymer, s’il
+eut esté necessaire; mais vous auez connu que vous pouuiez reussir
+dans vostre entreprise sans passion, & que vous n’en auiez aucun
+besoin, quelle perfidie? croyés vous auoir pû impunement me tromper,
+si quelque hazard vous r’amenoit en ce pays, ie vous declare que ie
+vous liureray à la vengeance de mes parents. I’ay vécu long-temps
+dans vn abandonnement & dans vne idolatrie qui me donne de l’horreur,
+& mon remords me persecute auec vne rigueur insupportable, ie sens
+viuement la honte des crimes que vo’ m’auez fait commettre, & ie n’ay
+plus, helas! la passion qui m’empeschoit d’en connoistre l’énormité;
+quand est-ce que mon cœur ne sera plus dechiré? quand est-ce que ie
+seray deliurée de cét embarras, cruel! cependant je croy que ie ne
+vous souhaitte point de mal, & que je me resouderois à consentir que
+vous fussiez heureux; mais cōmēt pourrés vous l’estre si vous aués le
+cœur biē fait; je veux vous écrire vne autre Lettre, pour vous faire
+voir que ie seray peut-estre plus tranquille dans quelque tēps; que
+j’auray de plaisir de pouuoir vous reprocher vos procedés iniustes
+aprés que ie n’en seray plus si viuement touchée, & lors que ie vous
+seray connoistre que ie vous méprise, que ie parle auec beaucoup
+d’indifference de vostre trahison; que j’ay oublié tous mes plaisirs,
+& toutes mes douleurs, & que ie ne me souuiens de vous que lors que
+ie veux m’en souuenir. Ie demeure d’accord que vous auez de grands
+aduantages sur moy, & que vous m’auez donné vne passion qui ma fait
+perdre la raison, mais vous deuez en tirer peu de vanité; j’estois
+jeune, j’estois credule, on m’auoit enfermée dans ce convēt depuis mon
+enfance, ie n’auois veu que des gens desagreables, je n’auois jamais
+entendu les loüanges que vous me donniez incessamment, il me sembloit
+que je vous deuois les charmes, & la beauté que vo’ me trouuiez, &
+dont vous me faisiez apperceuoir, j’entendois dire du bien de vous,
+tout le monde me parloit en vostre faueur, vous faisiez tout ce qu’il
+falloit pour me donner de l’amour; mais ie suis, enfin, reuenuë de cét
+enchantement, vous m’auez dōné de grands secours, & j’aduoüe que j’en
+auois vn extrême besoin: En vous renuoyant vos lettres, je garderay
+soigneusement les deux dernieres que vous m’auez écrites, & ie les
+reliray encore plus souuent que ie n’ay leu les premieres, afin de ne
+retomber plus dans mes foiblesses, Ah! quelles me coûtēt cher, & que
+i’aurois esté heureuse, si vous eussiez voulu souffrir que ie vous
+eusse toûjours aimé. Ie connois bien que ie suis encore vn peu trop
+occupée de mes reproches & de vostre infidelité; mais souuenez-vous
+que ie me suis promise vn estat plus paisible, & que j’y paruiendray,
+ou que ie prēdray contre moy quelque resolution extrême, que vous
+apprendrez sans beaucoup de déplaisir; mais ie ne veux plus rien de
+vous, ie suis vne folle de redire les mesmes choses si souuent, il faut
+vous quitter & ne penser plus à vous, ie croy mesme que je ne vous
+écriray plus, suis-je obligée de vous rendre vn compte exact de to’ mes
+diuers mouuements.
+
+
+FIN.
+
+
+
+
+_EXTRAIT DV_
+
+_Priuilege du Roy_
+
+
+Par Grace & Priuilege du Roy, donné à Paris le 28. jour d’Octobre
+1668. Signé par le Roy en son Conseïl, MARGERET. Il est permis à
+CLAVDE BARBIN, Marchand Libraire, de faire imprimer vn Liure intitulé,
+_Lettres Portugaises_, pendant le temps & espace de _cinq années_; Et
+deffenses sont faites à tous autres de l’Imprimer, sur peine de quinze
+cent liures d’amande, de tous dépens, dommages & interests, comme il
+est plus amplement porté par lesdites Lettres de Priuilege.
+
+_Acheué d’imprimer pour la premiere fois le 4. Ianuier, 1669._
+
+ Les Exemplaires ont esté fournis.
+
+_Registré sur le Liure de la Communauté de Marchands Libraires &
+Imprimeurs de cette Ville, suiuant & conformement à Arrest de la Cour
+de Parlement du 8. Avril, 1653, aux charges & conditions portées par le
+present Priuilege. Fait à Paris le 17 Nouembre 1668._
+
+  SOVBRON, Syndic.
+
+
+
+
+BIBLIOGRAPHY
+
+
+The following forms the English Bibliography of the Letters:--
+
+ ‘Five | love-letters | from a | Nun | to a | Cavalier | .’ Done out
+ of French into English. (By) Ro L’Estrange. London 1678. pp. 111-117,
+ 12mo.
+
+Here is the Preface:--
+
+ To the Reader. | You are to take this Translation very kind- | ly, for
+ the Authour | of it has ventur’d his | Reputation to oblige | you:
+ Ventur’d it | (I say) even in the very Attempt of Co | pying so Nice
+ an | Original. It is, in French, one of the | most Artificial Pieces
+ | perhaps of the Kind, | that is anywhere Ex- | tant: Beside the Pe-
+ | culiar Graces, and | Felicities of that Lan-| guage; in the matter
+ | of an Amour, which | cannot be adopted | into any other | Tongue
+ without Ex- | tream Force, and Affectation. There was | (it seems)
+ an Intrigue | of Love carry’d on | betwixt a French offi- | cer, and
+ a Nun in | Portugal. The Cava- | lier forsakes his Mis- | tress, and
+ Returns | for France. The La- | dy expostulates the | Business in five
+ Let- | ters of complaint, | which she sends af- | ter him; and those |
+ five Letters are here | at your Service. You | will find in them the
+ | Lively Image of an | Extravagant, and an | Unfortunate Passion; |
+ and that a woman may | be Flesh and Bloud, in a | Cloyster, as well as
+ in a | Palace.
+
+ ‘Five love-letters from a Nun to a Cavalier,’ etc., etc., 1693. 16mo.
+ (2nd edition.)
+
+ ‘Five love-letters from a Nun to a Cavalier,’ etc. etc., 1701. 16mo.
+ (3rd edition.)
+
+ * ‘New Miscellaneous | Poems | with five | Love-Letters | from | a Nun
+ to a Cavalier |. Done into Verse |.’ The Second Edition. London 1713.
+ With frontispiece. 16mo. The Letters occupy pp. 3-43; the date of the
+ 1st edition is unknown.
+
+ ‘Letters | from a | Portuguese Nun | to | an Officer | in the | French
+ Army.’ | Translated by | W. R. Bowles, Esqre. London, 1808. 12mo.,
+ with frontispiece. pp. xvi-125. This includes the so-called Second
+ Part of the Letters.
+
+ ‘Letters from a Portuguese Nun,’ etc., etc., 1817. (2nd edition.)
+
+ ‘Letters from a Portuguese Nun,’ etc., etc., 1828. (3rd edition.)
+
+ ‘The Love Letters of a | Portuguese Nun | being the letters written by
+ Marianna | Alcaforado to Noël Bouton de Cha-milly, Count of St. Leger
+ (later | Marquis of Chamilly), in | the year 1668.’ | Translated by |
+ R. H. | New York 1890. 12mo. 148 p.
+
+ ‘Five love-letters written by a Cavalier (the Chevalier Del) in answer
+ to the five love-letters written to him by a Nun.’ London 1694. 12mo.
+
+       *       *       *       *       *
+
+ * ‘Seven | Portuguese Letters; | being a | second part | to the | Five
+ Love-Letters | from a | Nun | to a | Cavalier | .’ London 1681. pp.
+ iii-78. 8vo.
+
+ * ‘Seven | Love-Letters | from a | Nun | to a | Cavalier,’ | etc.,
+ etc., 1693. Small 4to. (2nd edition.)
+
+ N.B.--The translations marked with an asterisk are not mentioned by
+ Senhor Cordeiro in his Bibliography.
+
+
+
+
+APPENDIX
+
+
+During the passage of the present work through the press, Mr. York
+Powell was fortunate enough to acquire by purchase in Oxford a book
+not mentioned in any bibliographical dictionary, nor possessed by any
+of the chief English libraries, containing a translation into verse
+of the five Letters of the Portuguese Nun. On account of the rarity
+of the book, of which this is probably a unique copy, as well as of
+the curious rendering of the famous Letters, it seemed advisable to
+transcribe here all that concerned the love-lorn Marianna, which has
+therefore been done. It should perhaps be mentioned that every inquiry
+as to the author of this translation and the date of its first edition
+has proved fruitless.
+
+The following is a description of the book in question--
+
+
+
+
+  New Miscellaneous
+  POEMS
+  With Five
+  _Love-Letters_
+  FROM
+  A Nun to a Cavalier.
+
+  Done into Verse.
+
+_Nil dulcius est istoc amare aut amari, præter hoc ipsum amare & amari._
+
+The Second Edition.
+
+_London_, Printed for W. MEARS, at the _Lamb_ without _Temple-bar_.
+1713.
+
+One vol. in 16mo.
+
+First comes the Preface, then a Table of Contents, and the title-page
+to the Letters, which runs,
+
+Five | Love-Letters | From a | Nun | to | A Cavalier | Done into Verse
+| London | Printed in the Year 1713. |
+
+The Letters take up pp. 3-43, after which is another title-page to the
+Miscellaneous Poems, then the Poems themselves follow, occupying pp.
+47-129.
+
+The frontispiece to the volume shows the Nun seated at a table in
+the act of writing; upon the table is a lighted candle, rosary and
+ink-pot, while the portrait of her lover hangs over some book-shelves.
+The engraving is unsigned, and seems to be different from any of those
+hitherto recorded.
+
+
+
+
+LOVE-LETTERS
+
+FROM
+
+A NUN TO A CAVALIER
+
+
+
+
+LETTER I
+
+
+    Oh! the unhappy Joys which Love contains,
+    How short the Pleasures, and how long the Pains!
+    Curs’d be the treach’rous Hopes that drew me on,
+    And made me fondly to my Ruin run.
+    What I the Blessing of my Life design’d
+    Is now become the Torment of my Mind:
+    A Torment! which is equally as great
+    As is his Absence that doth it create.
+    Heav’ns! must this Absence then for ever last,
+    This Absence! which does all my comfort blast?
+    Must I no more enjoy the pleasing Light
+    That charm’d my Heart with Rapture and Delight?
+    Must I no more those lovely Eyes behold
+    Which have so oft their Master’s Passion told?
+    Nor was I wanting in the same intent;                     }
+    A thousand times my Eyes in Flashes sent                  }
+    The Dictates of my Heart, and shew’d you what they meant. }
+    But now they must be other ways employ’d:
+    When I reflect on what I have enjoy’d
+    Tears of their own accord in Streams will flow,
+    To think I ’m scorned, and left by faithless you.
+
+    And yet my Passion does so far exceed                     }
+    A vulgar Flame, that I with Pleasure bleed,               }
+    And doat upon the Torments which from you proceed.        }
+    From the first moment I beheld your Face,
+    To you I dedicated all my Days:
+    Your Eyes at first an easie Conquest gain’d,
+    Which since they have but too too well maintain’d.
+    Your Name each Hour I constantly repeat;
+    But what’s (alas!) the Comfort which I meet?
+    Nought but my wretched Fate’s too true Advice,
+    Which whispers to me in such Words as these:
+    Ah! Mariane, why do’st hope in vain
+    To see thy lovely Fugitive again?
+    The dear, false, cruel Man ’s for ever gone,
+    And thou, unhappy thou! art left alone:
+    Gone is the Tyrant, slighting all thy Charms,
+    And longs to languish in another’s Arms.
+    In vain you weep, in vain you sigh and mourn,
+    For he will never, never more return.
+    To fly from thee, he left his Downy Ease,
+    And scorn’d the Dangers of the raging Seas.
+    In France, dissolv’d in Pleasures, now he lies,
+    And for new Beauties every moment dies;
+    The Joys which once he with such Ardour sought }
+    Are now (alas!) all vanish’d and forgot;       }
+    Nor art Thou ever present in his Thought.----  }
+
+    But hold! my Passion hurries me too far,
+    And makes me think you falser than you are.
+    You’ve, sure, more Honour than to use me so
+    For what I have endur’d and done for you,
+    Forget me! ’tis impossible you shou’d;
+    Nay, I believe you cannot if you wou’d.
+    My Case is bad enough without that Curse,
+    I need not find fresh Plagues to make it worse.
+    And when I think with how much care you strove
+    To let me see at first, your dawning Love;
+    When I reflect upon the Bliss it brought,
+    The Pleasure is too great to be forgot;
+    And I shou’d think I were ungrateful grown,
+    Should I not love you, tho’ by you undone.----
+
+    Yet oh! the Mem’ry of my former Joys,
+    So hard’s my Fate, my present Ease destroys.
+    ’Tis strange that what gave such delight before,
+    Shou’d serve to make me now lament the more.----
+
+    A Thousand Passions, not to be exprest,
+    Your Letter rais’d in my distracted Breast;
+    My vanquish’d Senses from their Office fled,    }
+    A long time stupid on the ground I laid,        }
+    And since I’ve often wish’d I had been dead.    }
+    But I unhappily reviv’d again
+    To suffer greater Torment, greater Pain;
+    A Thousand Evils I each Day endure,
+    Which nothing but the Sight of you can cure;
+    Yet I submit, without repining too,
+    Because the ills I bear proceed from you.----
+
+    And ’tis because you know the Pow’r you have,
+    You use me thus, and make me such a Slave.
+    Oh! give me leave to speak----
+    Is this the Recompense you think is due,
+    To those that sacrifice their Lives for you?
+    Yet use me as you will, to my last Breath,
+    Tho’ loath’d by you, I’ll keep my plighted Faith.----
+
+    And did you understand what Pleasure lies
+    In being constant, you wou’d Change despise.
+    You’ll never meet with one will prove so kind,
+    Tho’ in another you more Beauty find.
+    Yet I can tell the time, tho’ now ’tis gone,
+    (Poor as it is) when mine has pleas’d alone.----
+
+    You need not bid me keep you in my Mind,
+    I’m too much of myself to that inclin’d.
+    I can’t forget you, nor those Hopes you give
+    Of your return, in Portugal to live.
+    Cou’d I from this unhappy Cloister break,
+    You thro’ the Perils of the World I’d seek.
+    I’d follow where you went, without Regret,
+    And constantly upon your Fortune wait,
+    Think not I keep these Hopes to ease my Grief,
+    Or bring to my despairing Soul Relief;
+    No, I’m too well acquainted with my Fate,
+    And know I’m born to be unfortunate.----
+
+    Yet while I write, some glimmering Hopes appear   }
+    That yield a respite to my wild Despair,          }
+    And some small Ease afford amidst my Care.        }
+    Tell me, what made you press my Ruin so?
+    Why with your Craft a harmless Maid undo?
+    Why strove t’ ensnare my too-unguarded Heart,
+    When you were sure ere long you shou’d depart?
+    What Injury had I e’er done to you,
+    To make you with such Wiles, my Innocence pursue?
+
+    But pardon me, (thou Charmer of my Soul!)
+    For I will charge you with no crime at all.
+    Let me hear oft from you, where-e’er you are,
+    For I methinks shou’d in your Fortune share,
+    But above all, I beg you, by the Love
+    Which once you swore shou’d ever constant prove;
+    By all those Vows, which you so often made
+    When on my panting Bosom you have laid,
+    Let me no longer this sad Absence mourn,
+    But bless me, bless me with your kind Return.
+    Adieu--and yet so tender am I grown,
+    I know not how to end these Lines so soon;
+    Oh I that I could but in their Room convey
+    Myself, thou lovely faithless Man, to Thee!
+    Fool that I am, I quite distracted grow,          }
+    And talk of things impossible to do;              }
+    Adieu,--for I can say no more--Adieu.--           }
+    Love me for ever, and I’ll bear my Fate,
+    (Hard as it is) without the least Regret.
+
+
+
+
+LETTER II
+
+From a Nun to a Cavalier
+
+
+    Alas! it is impossible to tell
+    Th’ afflicting Pains that injur’d Lovers feel.
+    And if my Flame, by what I write, you rate,
+    Then have I made my self unfortunate.
+    Blest should I be, cou’d your own Breast define
+    The raging Passion that I feel in mine;
+    But I must ne’er enjoy that happy Fate:         }
+    And if I ’m always doom’d to bear your Hate,    }
+    ’Tis base to use me at this barb’rous rate.     }
+    Oh! it distracts my Soul when I reflect
+    Upon my slighted Charms, and your Neglect:
+    And ’twill t’ your Honour as destructive be,
+    As ’tis conducive to my Misery.----
+
+    It now is come to pass what then I fear’d,
+    When you to leave me in such haste prepar’d.
+    Fool as I was, to think your Flame was true,
+    True as th’ Excessive Love I bear to you!
+    T’ encrease my Torments all your Acts incline;
+    To make me wretched is your whole Design.
+
+    Nor wou’d your Passion any Ease allow,
+    If only grounded on my Love for you:
+    But I’m so far ev’n from that poor Pretence,
+    Six Months are past since you departed hence;
+    Six tedious Melancholy Months are gone,
+    And I’ve not been so much as thought upon:
+    Blind with the fondness of my own Desire,
+    Else might have found my Joys wou’d soon expire.
+    How cou’d I think that you’d contented be
+    To leave your Friends and Native Place for me?
+    Alas! Remembrance of my former Joys
+    Adds to the Number of my Miseries.
+    Will all my flatt’ring Hopes then prove in vain?
+    Must I ne’er Live to see you here again?
+    Why may not I once more behold your Charms,
+    Once more enfold you in my longing Arms?
+    Why may not I, as heretofore, receive
+    Those sweet transporting Joys which none but you can give?----
+
+    I find the Flame that set my Soul on Fire
+    In you was nothing but a loose Desire.
+    I should have reason’d ere it was too late,
+    And so prevented my approaching Fate:
+    My busie Thoughts were all on you bestow’d,
+    I for my own repose not one allow’d:
+    So pleas’d was I, whilst in your Lovely Arms,
+    I thought myself secure from future Harms:
+    But yet you may remember, oft I’ve said,
+    You’d be the Ruin of a harmless Maid;
+    But those were Notions that abortive dy’d,
+    And I upon your flatt’ring Oaths rely’d.
+
+    Cou’d I cease loving you, I shou’d have Ease,
+    But that ’s a Cure far worse than the Disease;
+    And ’tis (alas) impossible, I find,
+    To raze your Image from my tortur’d Mind;
+    And it ’s a thing which I did ne’er design,
+    For your Condition is far worse than mine;
+    You ’d better share what my poor soul endures,
+    Than th’ empty Joys you find in new Amours.
+    So far am I from envying your Fate,
+    I rather pity your unhappy State.
+    I all your false dissembling Arts defie:
+    I know I ’m rooted in your Memory,
+    And am perhaps the happiest of the Two,
+    In that I now am more employ’d than you.
+    They’ve made me Keeper of the Convent Door,
+    Which is a Place I ne’er supply’d before;
+    It is an Office I ne’er thought t’ have had;
+    All who discourse me think that I am mad.
+    Our Convent too must be as mad as I,
+    Or they might have perceiv’d my Incapacity.
+
+    Oh! how I wish to be as blest as they
+    Who, as your Servants, your Commands obey.
+    I shou’d be Proud, like one of them, to wait
+    On you, tho’ ’twere ev’n in the meanest State.
+    My Love for you I don’t at all repent;
+    That you ’ve seduced me, I am well content.
+    Your Rig’rous Absence, tho’ ’twill fatal prove,
+    Yet lessens not the Vigour of my Love.
+    My Passion I to all the World proclaim,
+    And make no Secret of my raging Flame.
+    Some Things I ’ve done irregular, ’tis true,
+    And glory’d in them, ’cause they were for you;
+    My Fame, my Honour, and Religion, are
+    All made subservient to the Love I bear.
+
+    Whilst I am writing, I have no intent
+    That you shou’d Answer what I now have sent:
+    Force not your self, I ’ll not receive a Word
+    You send, that comes not of its own accord.
+    If not by writing you do Ease receive,
+    So ’t too to me shall Satisfaction give,
+    To Pardon all your Faults I ’m much inclin’d,
+    And shall be pleas’d to prove you ’re not unkind.
+
+    I’m told that France has made a Peace; if so      }
+    A Visit here then sure you might bestow,          }
+    And take me with you wheresoe’er you go,          }
+    That must alone at your disposal be,
+    I fear (alas) it is too good for me.
+    Since you first left this sad forsaken Place,
+    I ’ve not enjoy’d a Moment’s Health or Ease:
+    The Accent of your Name my Cares abate,
+    Which I a thousand times a Day repeat.
+    Within our Convent some there are who know        }
+    From whence the Source of all my Sorrows flow,    }
+    Who strive to Ease me and Discourse of you.       }
+
+    I ’m constant to my Chamber, which is dear
+    To me, because you ’ve been so often there:
+    Your Picture as unvaluable I prize,
+    And have it always fixt before my Eyes:
+    The Counterfeit does Satisfaction give;
+    But when I think that I must never live
+    To see the Bright, the Fair Original,
+    Great are the Horrors, great the Pains I feel,
+
+    Oh! how I ’m wrack’d and torn with endless Pain
+    To think I ne’er must see you here again!
+    But why shou’d it be possible to be
+    That I your lovely Form no more must see?
+    For ever! are you then for ever gone?
+    For ever must I make my fruitless Moan?
+    No, Mariane, thou wilt soon have Peace;
+    Kind Death approaches, he will give thee Ease.
+    Ah me! how fast my fainting Spirits fail!--
+    Farewel, Oh, pity me!--Thou lovely Man,
+    Farewel.----
+
+
+
+
+LETTER III
+
+From a Nun to a Cavalier
+
+
+    What will become of miserable me?
+    What will th’ Event of my Misfortunes be,
+    How can I hold, now all my hopes retire?
+    On them I liv’d, and must with them expire.
+    Where are the cordial Lines to heal my Pain,
+    T’ assure me I shall see you here again?
+    Where are the Letters that should bring Relief,
+    Compose my Soul, and mitigate my Grief?
+
+    Fool’d with vain Projects, I of late design’d
+    To strive to calm and heal my tortur’d Mind:
+    The slender Hopes I have of seeing you,
+    Joyn’d with the Coldness of your last Adieu;
+    Th’ Improbability of your Return,
+    The many tedious restless Nights I ’ve born,
+    Your frivolous Excuses to be gone,
+    Encourag’d my Design and urg’d me on;
+    Nor did I doubt Success till, ah! too soon,
+    I found I still must love, still doat and be undone.
+
+    Wretch that I am! compel’d alone to bear
+    The heavy Burthen, which you ought to share.
+    You ’re the Offender, and I undergo
+    The Punishment, which ought to fall on you.
+    ’Tis plain, I never yet enjoy’d your Love,
+    Since all my Torments can’t your Pity move,
+    Feign’d were the Transports, false the Vows you made,
+    And only us’d that I might be betray’d.
+    Your whole Design was to ensnare my Heart
+    Then cruelly to act a Tyrant’s Part.
+
+    T’ abuse a Love like mine, is highly base,
+    And cannot but redound to your Disgrace.
+    Who would have thought, when of my love possest,
+    ’Twas not enough to make you ever blest?
+    And ’tis for your own sake I ’m troubled most,
+    When I but think upon the Joys you ’ve lost:
+    Nay, did you judge aright,----
+    The difference soon by you perceiv’d would be,
+    Betwixt abusing and obliging me;
+    Betwixt the Pleasures, which you might have prov’d,
+    Of loving much, and being much belov’d.
+
+    Such is the Force of my excessive woe,
+    I ’m quite insensible of what I do;
+    Ten Thousand different Thoughts distract my Mind,
+    My rigid Fate can’t be by words defin’d;
+    To Death I love, yet cannot wish that you
+    Should share the Miseries I undergo.
+    To loath, t’ have all things odious in your sight,
+    Receive no Ease by Day, no Rest by Night:
+    Your Soul o’erloaded with continual Cares,
+    Your Eyes still flowing with a flood of Tears;
+    Did you but suffer this my grief for you,
+    ’Twou’d quickly finish what my own can’t do.
+
+    Why do I write? Shou’d I your Pity move,
+    What good wou’d Pity do without your Love?
+    I scorn it; and my self with equal Scorn
+    I loath, when I reflect on what I ’ve born:
+    My Friends I ’ve lost, and Reputation too,
+    Have ran the hazard of our Laws for you:
+    But what ’s much worse, now I all this have done,
+    False as you are, ev’n you ’re ingrateful grown.
+
+    Yet, oh! I cannot, cannot yet repent,
+    But rather am with all my Ills content:
+    I cannot grieve at what I’ve done for you,
+    But more for your dear sake wou’d undergo;
+    To you wou’d sacrifice my Life and Fame;
+    They ’re yours, which you (and only you) can claim.
+
+    In short, I ’m vex’d with every thing I do;
+    Nor can I think I ’m kindly us’d by you.
+    False as I am, why don’t I die with Shame,
+    And so convince you of my raging Flame?
+    If I had lov’d so well as oft I ’ve said,
+    Your Cruelty ere this had struck me dead.
+    No, all this while, ’tis you ’ve deluded been,
+    And have the greatest Reason to complain.
+    How could I see you go, and yet survive,             }
+      out of Hopes of your Return and Live?              }
+    I ’ve wrong’d you; but I hope you will forgive.      }
+
+    Yet grant it not, treat me severely still,
+    Tell me, that I ’ve abus’d, and us’d you ill.
+    Be harder still to please, encrease my Care.
+    And end my Sufferings with a sure Despair.
+    A Fate that ’s Tragical would doubtless be
+    The Way t’ endear me to your Memory.
+    Perhaps too you ’d be touch’d with such a Death,
+    When you reflect how I ’ve resign’d my Breath.
+    To me I ’m sure, ’twou’d welcome be indeed,
+    And far to be preferr’d before the Life I lead.----
+
+    Farewel, I wish your Eyes I ’d never seen,
+    But ah! my Heart, now contradicts my Pen.
+    I find I ’d rather live involv’d in Harms
+    Than once to wish I ne’er had known your Charms.
+    And since you think not fit to mend my State,
+    I ’ll cheerfully (tho’ hard) embrace my Fate.
+    Adieu,--but Promise me when I am dead,
+    Some pitying Tears you ’ll o’er my Ashes shed.
+    At least, let my too-sad Example prove
+    The means to hinder any other Love.
+    ’Twill yield some Ease, since I must lose your Charms,
+    That you ’ll not revel in another’s Arms.
+    Neither can you be so inhumane sure
+    To make my Fate assist a new Amour.
+    I fear my Lines are troublesome to you;
+    But you ’ll forgive my foolery--adieu,
+    Ah me! methinks too often I repeat
+    The Story of my too unhappy Fate;
+    Yet let me pay the Thanks to you I owe
+    For all the Miseries I undergo.
+    I hate the State in which I liv’d before
+    The more my Cares encrease, I ’m pleas’d the more;
+    My Flame does greater every moment grow--
+    And I have still--Ten Thousand Thousand
+    Things to say to you.----
+
+
+
+
+LETTER IV
+
+From a Nun to a Cavalier
+
+
+    Ye Gods! the Torments that from Love arise
+    When the dear Object’s absent from our Eyes!
+    I ’m told you ’ve been by raging Tempests toss’d,
+    And forc’d to seek some Hospitable Coast,
+    The Sea, that is the faithless Lover’s Foe,
+    I doubt will hardly e’er agree with you.
+    And oh! my Fears for th’ Dangers you may meet,
+    Make me my own Tormenting Pains forget.
+
+    But is your Friend then more concern’d to know
+    Than I, the Perils that you undergo?
+    If not, how comes it that you cou’d afford
+    To write to him, whilst I have not a Word?----
+
+    Why do I talk? what cou’d I else expect?
+    But base Ingratitude, and cold Neglect?
+    From one who slighting all which once he swore
+    Now seeks new Beauties on a Foreign Shore.----
+    Yet Heav’n avert its Wrath, nor may’st thou be
+    E’er punished for thy Treachery to me,
+    For faithless as you are, I ’m still inclin’d
+    Not to revenge, but rather to be kind.----
+
+    Tis plain, I ’m now the least of all your Care,
+    Else you ’d have some regard to My Despair.
+    But I, tho’ wrack’d and torn with endless Pain,
+    To one relentless as the grave complain.
+    Yet I, fond I! regardless of my Fame,
+    Still Cherish, and Indulge this fatal Flame;
+    In vain my Reason offers to perswade,          }
+    I scorn its Counsel, and contemn its Aid,      }
+    And find a Pleasure in my being mad.           }
+    Had you but with this Coldness been possest,
+    When first you rais’d those Tumults in my Breast:
+    How many plagues had it from me detain’d!
+    How calm! how easie had I now remain’d!
+
+    But where’s the Woman wou’d not have believ’d
+    Your Arts, and not have been (like me) deceiv’d?
+    Who cou’d your num’rous Oaths and Vows mistrust?
+    Who cou’d have thought that you shou’d prove unjust?
+    The frequent Protestations that you made
+    Wou’d have a Heart more firm than mine betray’d.
+    ’Tis hard to think the Man whom once we love,
+    Shou’d false, shou’d cruel, and ingrateful prove.
+    Nay, I ’m so easie, I ’ve already made                   }
+    Excuses for you, and wou’d fain perswade                 }
+    My too too cred’lous Heart, that I am not betray’d.      }
+    It was your Converse that at first refin’d
+    My Ignorance, and till then, unpolish’d Mind.
+
+    ’Twas from your Passion that I caught this Flame
+    That is destructive to my Ease and Fame.
+    In vain ’gainst you I strove my Heart to arm,
+    For you in ev’ry Action had a Charm.
+    Your pleasing Humour, and the Oaths you swore,
+    Made me believe you ever wou’d adore.
+    But now (alas!) those grateful Thoughts are fled,
+    And all my Hopes are with my Pleasures dead:
+    I sigh and weep, a thousand Plagues possess
+    My Soul, and give me not a moment’s Ease.
+    Great were my past Delights, I must confess,                  }
+    Excessive were the Joys, and vast the Bliss,                  }
+    But then, oh, cruel Fate! my Miseries were not less.----      }
+    Had I with Artifice e’er drawn you on,
+    And what I most desir’d have seem’d to shun;
+    Had I the cunning Arts of Women us’d,
+    And with feign’d Scorn your gen’rous Love abus’d;
+    Had I my growing Flame with Care supprest
+    When first I felt it rising in my Breast;
+    Nay, when I found I lov’d, had I conceal’d
+    My Passion, nor to you my Soul reveal’d,
+    That for your Hate had been some small Pretence,
+    Which you might now have urg’d in your defence;
+    But----
+    So far was I from using such Deceit,
+    My Heart was never conscious of a Cheat:
+    And I no sooner of your Passion knew,
+    But frankly I return’d the like to you.----
+
+    Yet you, tho’ I was fondly blind, cou’d see,
+    Not ign’rant what the Consequence wou’d be.
+    Why with such Wiles then did you draw me on,
+    To leave me wretched, hopeless, and undone?
+    You knew you shou’d not long continue here,
+    And so did make me love but to despair.
+    Why was I singl’d out alone to be
+    Th’ unhappy Object of your Cruelty?----
+    Sure in this Country you might those have met
+    Who were for your cross Purposes more fit;
+    Such, who by frequent Use had got the Pow’r
+    To give their Hearts but for the present Hour;
+    Who of your Falshood never wou’d complain,
+    Nor give themselves for you a moment’s Pain.
+    Is ’t like a Lover then to use me so,
+    Me, who ’d give up all I have for you?
+    Is it not rather like a Tyrant done,
+    To ruine and destroy what is your own?
+
+    Had you but lov’d so truly as you said,
+    You never from me in such haste had fled.
+    But you! how easie did you go away!
+    Nay, e’en seem’d pleas’d you cou’d no longer stay
+    The few Excuses that you made to go,
+    How slight they were! but any thing wou’d do,
+    To fly from one already nauseous grown,
+    That lov’d you but too well, and trusted you too soon.----
+
+    ‘My Friends (you cry) and Honour call me hence,
+    ‘And I must now be gone, to serve my Prince,’
+    Why was not that nice Honour thought on then,
+    When you deluded me to give up mine?
+    This was all Fiction, which you did devise
+    To seem less guilty, and to blind my Eyes.
+    But, ah! should I have too much Bliss enjoy’d,
+    Might I with you have liv’d, with you have dy’d.----
+    My only Comfort is, I ’ve been to you,
+    Spite of this Absence, constant, just, and true;
+    And can you then, who all my Thoughts controul,
+    And know the earnest Secrets of my Soul,
+    Can you be so regardless of my Pray’r,
+    T’ abandon me for ever to Despair?
+    You see I ’m mad, but yet I ’ll not complain,      }
+    For I ’m so us’d to suffer your Disdain,           }
+    That now I find a Pleasure in my Pain.----         }
+
+    But what ’s my greatest Curse, those things no more
+    Can please me now, which I have lik’d before.
+    My Friends, Relations, and my Convent too,      }
+    Are odious all, and all detested grow,          }
+    Nay, ev’ry thing that not relates to you.       }
+    The flitting Hours of each succeeding Day,
+    If not on you bestow’d, I think they ’re thrown away.----
+
+    So great ’s my Love, and with such pow’r does rule,
+    It takes up the whole Business of my Soul.
+    Why then t’ expel this Passion shou’d I strive?       }
+    For ’tis impossible I shou’d survive                  }
+    This restless state, and with Indiff’rence live.      }
+
+    So much I now am chang’d from what I was,
+    That all observe and wonder what ’s the Cause:
+    My Mother chides, and urges me to tell
+    What ’tis creates my Grief, and what I ail,
+    I hardly know what Answers I have made,
+    But I believe that I have all betray’d.
+    The most severe and hardest Hearts relent,
+    And are with Pity touch’d at my Complaint.
+    To cruel Thee alone I sigh in vain,
+    For all the World beside compassionates my Pain.
+
+    ’Tis seldom that you write, and when you do,
+    Your Lukewarmness each Line does plainly shew.
+    ’Tis all but Repetition and Constraint,
+    Dull is each Word, and each Expression faint.----
+
+    My kind Companion took me t’ other day
+    To the Balcon’ that looks tow’rds Mertola;
+    The Sight so struck my Heart that, while I stood,
+    Strait from my Eyes a briny Deluge flow’d.
+    I then return’d, and strove to ease my Care,
+    For all my Thoughts brought nothing but Despair.
+    What others do to help me in my Grief,
+    Adds only to my Pains, and brings me no Relief.----
+
+    From that Balcon’ I often took delight
+    To see you pass, and languish’d for the Sight.
+    ’Twas there that fatal Day I chanc’d to be
+    When first my Heart resign’d its Liberty:
+    ’Twas there I drew the Poison from your Eyes,
+    ’Twas there this raging Passion had its rise.
+    Methought on me alone you seem’d to gaze,
+    And careless look’d on every other Face;
+    And when you stopt, I fondly thought to me
+    ’Twas meant that I your lovely Shape might see.
+
+    I call to mind what Trembling seiz’d my Breast,
+    Caus’d by a Leap given by your prancing Beast.
+    I near concern’d in all your Actions was,
+    Flatter’d my self I was of some the cause.
+    What follow’d, to relate I ’ll now forbear,
+    Lest you appear more cruel than you are;
+    And ’twill perhaps your Vanity encrease
+    To find my Labours have no more Success.
+    Fool as I am! to think to move you more
+    By Threats than all my Love cou’d do before!
+    Too well (alas!) I know my Fate to come,
+    And you ’re too too unjust to make me doubt my Doom.
+
+    Since I am not allow’d your Love to share,
+    All ills in Nature I have cause to fear.
+    I shou’d be pleas’d did all our Sex admire
+    Your Charms, if you did not return the Fire;
+    But there ’s no fear, I by Experience know
+    None ever long will be ador’d by you.
+    You ’ll easily enough forget my Charms
+    Without the taking others to your Arms.
+    By Heav’ns, I love, I doat to that degree,
+    That since I find you ’re ever lost to me,
+    I wish you ’ad some Excuse to hide your Crime,
+    That to the World you might less guilty seem.
+    ’Tis true, ’twould make my Case but so much worse,
+    But then ’twould advantageous be to yours.----
+
+    While you are free, in France, perhaps the fear
+    Of not returning Love for Love may keep you there.
+    But mind not that, if you I sometimes see,      }
+    I shall contented with my Fortune be,           }
+    To know one country holds my Love and me.       }
+
+    Why with vain Hopes do I my Reason blind?
+    To one less doting you may prove more kind.
+    Pride in another may a Conquest gain
+    Greater than mine, with all the endless Pain
+    Of constant Love, which I ’ve endur’d for you:
+    But, oh! from me take Warning what you do;
+    Retract your Heart ere yet (it) is too late,
+    And think upon my too too wretched Fate,
+    Reflect upon my endless Miseries,
+    Despairs, Distractions, and my Jealousies;
+    Think on the Trust that I ’ve repos’d in you,
+    Th’ Extravagance which all my Letters shew.
+
+    I well remember you in Earnest said,
+    For one in France you once a Passion had.
+    If she ’s the Reason why you don’t return,
+    Be free, and let me thus no longer mourn;
+    For if my Hopes and Wishes are but vain,
+    Tell me the Truth----
+    And end at once my wretched Life and Pain.----
+    To me her Picture and her Letters send,
+    They ’ll make me worse, or else my Fate amend;
+    Such is the State of miserable me,
+    That any change would advantageous be
+    Your Brother’s and your Sister’s send me too,
+    All will be dear to me that ’s so to you.----
+    Methinks I cou’d submit to wait upon
+    The happy Woman that your Heart has won,
+    So humble am I made by all your Scorn,
+    And the ill Usage that from you I ’ve born;
+    Scarce dare I say, I may myself allow
+    To Jealous be, without displeasing you,
+    Fain wou’d I think that I mistaken am,
+    And fain perswaded be, that you are not to blame.
+
+    The Person that ’s to bear these Lines to you,
+    Wants to be gone, and does impatient grow.
+    I thought in this not to have giv’n Offence,
+    But yet I ’m fall’n into Extravagance.
+    And now methinks ’tis time that I had done,
+    But I ’ve no Pow’r to end these Lines so soon,
+    Nor force the pleasing Vision from my Sight;
+    My lovely Charmer’s present while I write.
+    Twelve solitary Months are almost past              }
+    Since in your trembling Arms you held me last,      }
+    And fondly, to my Ruin, me embrac’d.                }
+    Fierce, and true as mine, I thought your Flame,
+    And, oh! believ’d ’twould always be the same.
+    Ne’er cou’d I think, that when you had enjoy’d
+    My Favours, with them you ’d so soon be cloy’d:
+    Or that the Dangers of the Sea you ’d run,            }
+    Scorn Rocks and Pirates too, that you might shun      }
+    A Maid that lov’d like me, and is by you undone.      }
+    Reflect, thou faithless Man! and call to mind      }
+    What I ’ve endur’d for you, yet not repin’d,       }
+    And tell me, can this Treatment then be kind?      }
+
+    The Officer now presses me to ’ve done
+    My Letter, or (he says) he must be gone;
+    He ’s as impatient, as if he, like you,
+    Were running from another Mistress too,
+    Farewel--from me you parted with more ease
+    (Perhaps for ever too) than I can do with these.
+
+    My Mind a thousand pleasing Notions frames,
+    And I cou’d call you many tender Names;
+    More dear than is my Life to me, are you;
+    And dearer far than I imagine too;
+    Sure never any yet so cruel prov’d,
+    To be so barb’rous when so well belov’d.
+
+    ’Tis hard to end,--See I begin anew,
+    And th’ Officer won’t stay; oh! let him go:
+    I write to entertain my self, not you;
+    And ’tis so long, you ’ll never read it thro’,
+    Gods! how have I deserv’d such Plagues as these?
+    And why was you pick’d out to spoil my Peace?
+    Oh! why was I not born where I might pass
+    In Innocence and Happiness my Days?
+    ’Tis too too much to bear, no Tongue can tell
+    What I endure--Farewel--false Man!--Farewel,
+    See! see! how miserable I ’m made by you,
+    When I dare not so much as ask your Love--adieu.
+
+
+
+
+LETTER V
+
+From a Nun to a Cavalier
+
+
+    I hope, by th’ different Ayre of this, you ’ll find
+    That as I ’ve chang’d my Stile, I ’ve chang’d my Mind.
+    The Substance of these Lines will let you know
+    That you ’re to take them for my last Adieu:
+    For since your Love is past redemption gone,
+    I ’ve no Pretence to justifie my own.
+    All that I have of yours shall be convey’d
+    To you, without so much as mention made
+    Of your loath’d Name; the Pacquet shall not bear
+    Those Letters which I now detest to hear.
+
+    In Donna Brites I can well confide,
+    And whom, you know, I ’ve other ways imploy’d;
+    Your Picture she ’ll (and all that ’s yours) remove,
+    Those once-endearing Pledges of your Love:
+    A thousand Times I ’ve had a strong Desire
+    To tear and throw them in the flaming Fire;
+    But I ’m a Fool too easie in my Pain,
+    And such a generous Rage can’t entertain.
+
+    Wou’d but the Story of my Cares create
+    The like to you, methinks ’twou’d mine abate.
+    Your Trifles, I must own, went near my Heart,
+    With them I found it difficult to part.
+    To what was yours I bore such mortal Love,
+    Tho’ you yourself did quite indiff’rent prove,
+    They ’ve cost me many a Sigh, and many a Tear,
+    And more Distraction than you e’er shall hear.
+    My Friend, I say, now keeps them in her Pow’r,
+    And I am never to behold ’em more;
+    She them will secretly to you convey,
+    Without my Knowledge hasten them away:
+    Tho’ for a sight I on my Knees shou’d lie,
+    The more I pray, she must the more deny.
+
+    Ne’er had I known the Fury of my Flame
+    Had I not try’d my Passion to reclaim;
+    Nay, to attempt a Cure I ’d ne’er begun,
+    Cou’d I ’ve foreseen the Hazards I must run:
+    For sure I am, I cou’d with greater Ease
+    Support your Scorn, as rig’rous as it is,
+    Rather than to retain the dreadful Thought,
+    That Absence must for ever be my Lot.
+
+    I shou’d be happy if I cou’d be Proud,
+    And with the Nature of our Sex endow’d:
+    Cou’d I despise you, and your Actions scorn,
+    And be reveng’d for all the Ills I ’ve born.
+
+    Fool as I am, to let my hopes rely
+    On one who strives t’ encrease my Misery!
+    You talk of Truth and Sincerity;
+    They both are what you never shew’d to me.
+    To tell you what I ’ve born ’tis now too late,
+    (For th’ most obliged, and yet the most ingrate)
+    Let it suffice I all your Falsehood know;
+    And all I ask for what I ’ve done for you,
+    Is, Write no more, but some Invention find
+    To tear your Image from my Tortur’d Mind.
+
+    I too must now forbear to write to you,             }
+    Lest a Relapse shou’d by that means ensue;          }
+    And the Event of this I ’ve no Desire to know.      }
+    Methinks you shou’d enough contented be
+    With th’ Ills you have already brought on me:
+    Sure now you need no more molest my Ease,
+    Or shake the Structure of my future Peace.
+    Do you but leave me in Uncertainty,
+    I hope in time I shall at quiet be:
+    ’Tis not impossible but I may find
+    A Love as true as you have been unkind.
+    But what will Love that any Man shall shew
+    Afford to me, without I love him too?
+    Why shou’d his Am’rous Passion more incline
+    To move my Heart, than yours was mov’d by mine?
+    And I perceive by what I now endure,
+    That the first Wounds of Love admits no Cure;
+    All sorts of Remedies then prove in vain,
+    W’ are ne’er recover’d to our selves again;
+    So fixt, and so immutable is Fate,
+    We ’re doomed to Love, though w’ are repaid with Hate.
+
+    I ’m sure I cou’d not so hard-hearted be,
+    To treat another as you ’ve treated me:
+    Provided you was to another chang’d,
+    Of you I cou’d not that way take revenge.
+    I ’d fain perswade my self a Nun shou’d ne’er
+    Confine the Passions of a Cavalier;
+    But if a man wou’d by his Reason move,
+    A Mistress in a Convent is most fit for Love;
+    Those in the World do all their Thoughts employ
+    On Balls, on Visits, and their Finery,
+    Encrease their Husbands’ Jealousies and Cares,
+    Whilst those who favour us have no such Fears.
+    Alas! we ’ve nothing here to change Desire,
+    But by Reflection daily fan the Fire.
+
+    I wou’d not have you think that I maintain
+    These Arguments, in hopes I may regain
+    Your Love; too well I know my Destiny;
+    I always was, and still must wretched be.
+    When you was here I did no Rest enjoy:          }
+    Present, for fear of infidelity;                }
+    When distant, Absence did my ease destroy.      }
+    I always trembled while you was with me,
+    Lest you shou’d be found, and come to Injury:
+    While in the Field, both Lives in Danger were;
+    Fear of my parents did encrease my Care.
+    So that ’tis plain, ev’n at the best, my Mind
+    Was as disturb’d as I at present find:
+    Since you left me, had you but once seem’d kind,
+    I shou’d have follow’d, and not been confin’d.
+    Alas! what wou’d have then become of me,
+    T’ have brought a Scandal on my Family;
+    T’ have lost my Parents and my Honour too,
+    And, after all, to be despis’d by you?
+    What Thoughts soever you of me retain,
+    I reconjure you ne’er to write again:
+    Methinks you shou’d sometimes reflect upon
+    The base ungen’rous Injuries you ’ve done.
+
+    No woman sure did e’er so easy prove;
+    What did you ever do to gain my Love?
+    You was the first that to the Army went;
+    To stay the longest there, the best content.
+    Did you more careful of your Person grow,
+    Altho’ upon my knees I begg’d you wou’d do so?
+    Did you e’er strive to fix in Portugal,
+    A Place where you was well belov’d of all?
+    Your Brother’s Letter hurry’d you away,
+    On the receipt of it you ’d not a moment stay;
+    And I ’m inform’d you ne’er was pleased more
+    Than when on board a making from our Shore.
+    You can’t deny but you deserve my Hate,
+    And I may thank my self for all my Fate;
+    I was too free, and gave my Heart too soon,
+    And brought upon my self the Ills I ’ve undergone.
+    Alas! from Love alone Love ne’er will rise,
+    It must be rais’d by Skill and Artifice.
+    Your first Design was to ensnare my Love,
+    And nothing wou’d have spar’d that might successful prove:
+    Nay, I believe, if it had needful been,
+    Rather than failed, you wou’d have lov’d again;
+    But you found easier ways to work upon,
+    And thought it best to let the Love alone.----
+
+    Perfidious Man! which way can you atone
+    For th’ base and treach’rous Affronts you ’ve done?
+    The blinding Passion now is vanquished quite,
+    That kept the foulness of them from my sight:
+    Must my tormented Soul never have Ease?
+    When shall I be, thou cruel Man, at Peace?
+
+    Within a while you yet perhaps may hear,
+    Or have a Letter, from your injur’d Fair,
+    To let you know that she is at repose,
+    Freed of the Torments that from you arose.
+    Oh! what a Pleasure it will be to me,
+    Without concern t’ accuse you of your Treachery!
+    When I ’ve forgot the wracking Pains I ’ve born,
+    And able am to talk of you with Scorn!
+
+    You ’ve had the better, it is plainly prov’d,
+    Because I you have out of Reason lov’d;
+    But by the Conquest you small Honour won,
+    For I was young, and easily undone.
+    I, whilst a Child, was cloister’d, knew no hurt,
+    Discours’d with none but of the vulgar Sort,
+    And what belonged to Flatt’ry never knew,
+    Till I unhappily was taught by you:
+    You ’d a good Character of every one,
+    Which you made use of to entice me on.
+
+    My Indignation, and your Falsehood too,
+    Makes me at present much disorder’d grow;
+    But, I assure you, I will shortly find
+    Some Means or other for to ease my Mind.
+    Perhaps may take a way to quit my Care
+    Which, when ’tis acted, you ’ll be pleas’d to hear.
+
+    Fool as I am, to say thus o’er and o’er
+    The same that I ’ve so often said before!
+    Of you a Thought I must not entertain,
+    And fancy too I ne’er shall write again?
+    For what occasion ’s there that I to you
+    Shou’d be accountable for all I do?
+
+
+THE END OF THE NUN’S LETTERS.
+
+
+
+
+[Illustration]
+
+  Edinburgh: T. and A. CONSTABLE
+  Printers to Her Majesty
+
+
+
+
+FOOTNOTES
+
+
+[1] An American translation was published in 1890. _Vide_ Bibliography.
+
+[2] Cordeiro, _op. cit._, p. 131, 1st ed.
+
+[3] Cf. Cordeiro, _op. cit._, pp. 147-8 and 300, 1st ed.
+
+[4] This was partly owing to the ideas of the time, and partly for
+reasons already mentioned, and also because her father wished to build
+up an estate, to be entailed on heirs-male.
+
+[5] Letter v.
+
+[6] Asse, _op. cit._, Preface, p. vi. For an account of the somewhat
+relaxed character of convent discipline at the time _vide_ Cordeiro,
+pp. 156-164, 1st ed.
+
+[7] ‘Muita era a liberdade das grades naquelle miseravel tempo.’
+
+[8] Cordeiro, _op. cit._, pp. 326-7, 1st ed.
+
+[9] Cordeiro, _op. cit._, pp. 139-40, 1st. ed.
+
+[10] Cordeiro, _op. cit._, p. 182, 1st ed.
+
+[11] For a good comparison of the Letters of Marianna and Heloïse see
+an article entitled ‘La Eloísa Portuguesa’ in the June number of the
+review _España Moderna_, 1889, written by Emilio Pardo Bazán.
+
+[12] Cordeiro, _op. cit._, p. 299, 1st ed.
+
+[13] This syntactical extension of the sex to the patronymic was
+general in the seventeenth century. _Vide_ Cordeiro, _op. cit._, p. 91,
+1st ed.
+
+[14] This should be 83. Cf. the extract from the Baptismal Register in
+Cordeiro, p. 285, 1st ed.
+
+[15] This document was found and transcribed by Cordeiro on pp. 328-9
+of his oft-referred-to work, 1st ed.
+
+[16] _Op. cit._, Preface, p. xi.
+
+[17] _Memoires_, vol. iii. pp. 372-3; Paris, 1873.
+
+[18] Observation of Senhor Cordeiro, _op. cit._, p. 6, 1st ed.
+
+[19] Observation of M. Asse.
+
+[20] Asse, _op. cit._, Preface, pp. xiii, xiv.
+
+[21] Letter to Mme. de Grignan in vol. ii., page 284, of the edition of
+_Paris_ 1862.
+
+[22] Asse, _op. cit._, Preface, p. xv.
+
+[23] Director for a time of the _Gazette de France_, and a friend of
+Mme. de Sévigné and Racine. Boileau described him as
+
+    ‘Esprit né pour la cour et maitre en l’art de plaire
+    Guilleragues qui sais et parler et se taire.’
+
+[24] Quoted by Cordeiro, _op. cit._, p. 21, 1st ed.
+
+[25] One of those ecstasies so common in conventual annals is here
+meant.
+
+[26] No. 4 in all editions and translations except that of Cordeiro.
+
+[27] A province in the extreme south of Portugal.
+
+[28] The Mother Superior of the convent.
+
+[29] Gates in the city of Beja: so called because they are on the
+side which looks toward Mertola, 54 kilometres distant. Both Beja and
+Mertola are in the province of the Alemtejo.
+
+[30] Hérard Bouton and Catherine Lecomte de Nonant.
+
+[31] Both Cordeiro and the French texts read ‘first,’ which does not
+make sense.
+
+[32] No. 2 in all editions and translations except that of Cordeiro.
+
+[33] Two of Chamilly’s servants.
+
+[34] The treaty of Aix-la-Chapelle, which was signed May 2nd, 1668,
+ratified this peace and put an end to the war called ‘of Devolution.’
+
+[35] D. Brites de Noronha was a professed nun and a companion of
+Marianna in the convent of the Conception at Beja.
+
+[36] Marianna refers to her condition as a Franciscan nun in a small
+provincial town, not to the rank of her family, which was as good as
+that of her lover.
+
+[37] Marianna was about twenty-six years of age when she first met
+Chamilly. She had naturally made her profession at sixteen and had been
+confided to the care of the convent at twelve, or even much earlier,
+like her sister.
+
+
+
+
+Transcriber's Note
+
+
+Duplicate headings have been removed.
+
+The following errata were printed before the preface and have been
+incorporated into the text:
+
+  Page 33, line 12, _read_ Guilleragues _for_ Guilleraque.
+    „  37,   „   1 (heading), _read_ Meu _for_ Men.
+    „  47,   „  16, _read_ appearances _for_ proofs.
+    „  49,   „   6, _read_ this beginning _for_ this, beginning.
+    „  54,   „  20, _omit_ ought to.
+    „  57,   „  18, _read_ paused _for_ passed.
+    „  62,   „   8, _insert_ one _after_ some.
+    „  63,   „   9, _read_ at times I do not dare to think I could be
+        jealous and yet not displease you.
+    „  69,   „  20, _read_ your departure based on such cruel pretexts.
+    „  70,   „   6, _read_ I could never have been on my guard against
+        all my weaknesses.
+    „  71,   „  16, _read_ Can it be that you did not care to enjoy
+        them?
+    „  74,   „  11, _read_ Methinks, even, I am not at all content.
+    „  77,   „   3, _read_ Would it not be very cruel indeed of you
+        to make.
+    „  82,   „   3, _read_ What! is all my desire then to be in vain?
+    „  93,   „  12, _read_ the attachment you might have had
+        for another woman could have caused me.
+    „  96,   „  19, _read_ never forgets what first awakened it
+        to feelings.
+    „ 100,   „   4, _read_ who does not make them render an exact.
+    „ 102,   „   5, _read_ what confusion, what a false step,
+        what depths.
+
+
+In addition, the following apparent errors have been corrected:
+
+p. 119 "qu’ il" changed to "qu’il"
+
+p. 120 "autresois" changed to "autrefois"
+
+p. 122 "quen" changed to "qu’en"
+
+p. 122 "venez," changed to "venez"
+
+p. 124 "qu’ à" changed to "qu’à"
+
+p. 128 "France," changed to "France"
+
+p. 130 "tout a" changed to "tout à"
+
+p. 153 "soussert" changed to "souffert"
+
+p. 153 "euffiez" changed to "eussiez"
+
+P. 154 "quelles" changed to "qu’elles"
+
+p. 155 "mal’heureuse" changed to "mal’heureuse)"
+
+p. 158 "Ah" changed to "Ah!"
+
+p. 161 "persidie" changed to "perfidie"
+
+P. 165 "anneés" changed to "années"
+
+p. 201 "ar" changed to "are"
+
+p. 205 "I’ m" changed to "I ’m"
+
+
+
+
+
+End of the Project Gutenberg EBook of The Letters of a Portuguese Nun, by 
+Marianna Alcoforado
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE LETTERS OF A PORTUGUESE NUN ***
+
+***** This file should be named 57403-0.txt or 57403-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/7/4/0/57403/
+
+Produced by Henry Flower and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive/American Libraries.)
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

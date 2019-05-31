@@ -1,0 +1,3548 @@
+﻿Project Gutenberg's The Anatomy of Vegetables Begun, by Nehemiah Grew
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: The Anatomy of Vegetables Begun
+       With a General Account of Vegetation founded thereon
+
+Author: Nehemiah Grew
+
+Release Date: October 19, 2018 [EBook #58138]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE ANATOMY OF VEGETABLES BEGUN ***
+
+
+
+
+Produced by The Online Distributed Proofreading Team at
+http://www.pgdp.net (This file was produced from images
+generously made available by The Internet Archive)
+
+
+
+
+
+
+
+
+
+
+Thursday, _Novemb. 9. 1671_.
+
+_At a Meeting of the Council of the ~R. Society~._
+
+_Ordered_,
+
+That the Discourse presented to the R. Society, Entitul’d, _The Anatomy
+of ~Vegetables~ begun, with a General Accompt of ~Vegetables~ thereon_,
+By _N. Grew_, M.D. be Printed by _Spencer Hickman_, one of the Printers
+of the _R. Society_.
+
+                                                        _Brouncker_ Pres.
+
+
+
+
+                                   THE
+                                 ANATOMY
+                                   OF
+                               VEGETABLES
+                                 Begun.
+
+                                 With a
+                             GENERAL ACCOUNT
+                                   OF
+                              _VEGETATION_
+                            Founded thereon.
+
+                        By _NEHEMIAH GREW_, M. D.
+                   and Fellow of the _Royal Society_.
+
+                                _LONDON_,
+
+                 Printed for _Spencer Hickman_, Printer
+                   to the _R. Society_, at the _Rose_
+                    in S. _Pauls_ Church-Yard, 1672.
+
+
+
+
+                                 TO THE
+                           _Right Honourable_
+                                    &
+                           _Most Illustrious_
+                                   THE
+                           PRESIDENT & FELLOWS
+                                 OF THE
+                            _ROYAL SOCIETY_,
+                             _The Following_
+                                DISCOURSE
+                            _Is most Humbly_
+                                Presented
+                                  _By_
+                               The Authour
+                            _NEHEMIAH GREW_.
+
+
+
+
+[Illustration]
+
+
+
+
+TO THE _Right Reverend_ JOHN _Lord Bishop of CHESTER_.
+
+_MY LORD_,
+
+I hope your pardon, if while you are holding _that Best of Books_ in one
+Hand, I here present some Pages of that of _Nature_ into your other:
+Especially since _your Lordship_ knoweth very well, how excellent a
+_Commentary_ This is on the _Former_; by which, in part God reads the
+World his own Definition, and their Duty to him.
+
+But if this Address, _my Lord_, may be thought congruous, ’tis yet more
+just; and that I should let _your Lordship_, and others know, how much,
+and how deservedly I resent your extraordinary Favours: Particularly
+that you were pleased so far to animate my Endeavours towards the
+publishing the following _Observations_. Many whereof, and most belonging
+to the First Chapter, having now lain dormant near seven years; and yet
+might perhaps have so continued, had not _your Lordships_ Eye at length
+created Light upon them. In doing which, you have given one, amongst
+those many Tokens, of as well your readiness to promote learning and
+knowledge by the hands of others; as your high Abilities to do it by
+your own. Both which are so manifest in _your Lordship_, that like the
+first Principles of _Mathematical Science_, they are not so much to be
+asserted, because known and granted by all.
+
+The Consideration whereof, _my Lord_, may make me not only _just_ in
+owning of your Favours, but also most _Ambitious_ of your _Patronage_:
+which yet to bespeak, I must confess I cannot well. Not that I think what
+is good and valuable, is alwaies its own best Advocate; for I know that
+the Censures of men are humorous and variable, and that one Age must
+have leave to frown on those Books, which another will do nothing less
+than kiss and embrace. But chiefly for this Reason, lest I should so much
+as seem desirous of _your Lordships_ Solliciting my Cause as to all I
+have said: For as it is your Glory, that you like not so to shine, as to
+put out the least Star; so were it to your Dishonour to borrow your Name
+to illustrate the Spots, though of the most conspicuous.
+
+           _Your Lordships_ Most Obliged & Most Humble Servant
+
+                                                         _Nehemiah Grew_.
+
+
+
+
+[Illustration]
+
+
+
+
+THE PREFACE.
+
+
+_Of what antiquity the ~Anatomy~ of ~Animals~ is, and how great have been
+its Improvements of later years, is well known. That of ~Vegetables~
+is a subject which from all Ages to this day hath not only lain by
+uncultivated; but for ought I know, except some Observations of some of
+our own Countrey-men, hath not been so much as thought upon; whether
+for that the World hath been more enamoured with the former, or pity to
+humane frailty hath more obliged to it, or other Reasons, I need not
+enquire._
+
+_But considering that both came at first out of the same Hand, and are
+therefore the Contrivances of the same Wisdom; I thence fully assured my
+self, that it could not be a vain Design, though possibly unsuccessful,
+to seek it in both._
+
+_In the prosecution hereof, how far I have gone, I neither judge my
+self, nor leave it to any one else to do it; because no man knows how
+far we have yet to go, or are capable of going. Nor is there any thing
+which starves and stinteth the growth of knowledge more, than such
+Determinations, whether we speak or conceit them only._
+
+_What we have performed thus far, lieth, for the most part, open to the
+use and improvement of all men. Only in some places, and chiefly in the
+Third Chapter, we have taken in the help of Glasses; wherein, after
+we had finished the whole Composure, some Observations made by that
+Ingenious and Learned Person Mr. ~Hook~, a Worthy Member of the ~Royal
+Society~, my much Honoured Friend, and by him communicated to me, were
+super-added: As likewise some others also ~Microscopical~, of my own,
+which his gave me the occasion of making._
+
+_Those that shall think fit to examine, as well as to peruse these
+Observations, we advertise them, ~First~, That they begin, and so proceed
+till they end again, with the Seed: For they will hardly be able to avoid
+Errour and Misapprehension, if either partial or preposterous in their
+Enquiries. ~Next~, That they confine not their Enquiries to one time of
+the Year; but to make them in several Seasons, wherein the Parts of a
+~Vegetable~ may be seen in their several Estates. ~And then~, That they
+neglect not the comparative ~Anatomy~; for as some things are better seen
+in one estate, so in one ~Vegetable~, than another._
+
+_What, upon Observation already made, we have erected, as they are not
+Sticks and Straws; so neither do we assure all to be of the best Oak. How
+Dogmatical soever my Assertions may seem to be, yet do I not affect the
+unreasonable Tyranny of obtruding upon the Faith of any. He that speaketh
+Reason, may be rather satisfied, in being understood, than believed._
+
+
+
+
+THE CONTENTS
+
+
+CHAP. 1.
+
+_Of the Seed as Vegetating._
+
+The Method propounded. 1, 2. The _Garden-Bean_ dissected. 2. The two
+_Coats_ thereof. 2, 3. The _Foramen_ in the outer _Coat_, 3, 4. What
+generally observable of the Covers of the _Seed_, 4. The main Body of the
+_Seed_, 5, 6. The _Radicle_ distinguish’d. 6. The _Plume_ distinguish’d.
+8. Described. 9. The _Cuticle_ described. 10, 11. The _Parenchyma_. 11,
+12. The _Inner Body_, how observed. 14, 16. Describ’d. 15, 16, 17, 18.
+
+The _Coats_ how in common subservient to the _Vegetation_ of the _Seed_.
+20, 21. The _Foramen_, of what use herein. 22. The use of the _Inner
+Coat_, and of the _Cuticle_. 22. Of the _Parenchyma_. 23. Of the Seminal
+Root. 23, 24. How the _Radicle_ first becomes a _Root_. 24, 26. How after
+the _Root_ the _Plume_ vegetates. 26. How the _Lobes_. 27. That they do,
+demonstrated. 29, 32. How the _Lobes_ thus turn into _Dissimilar Leaves_.
+32. What hence resolvable. 32, 33. The use of the _Dissimilar Leaves_.
+
+
+CHAP. 2.
+
+_Of the Root._
+
+The _Skin_ hereof, its Original. 37. The _Cortical Body_, its Original.
+37. Description. 37, 38. _Pores._ 38. _Proportions._ 39. The _Lignous
+Body_, its Original. 39. Described by its _Pores_, 40. Its Proportions.
+42. The _Insertment_, its original. 42. Description. 43. Pores. 43.
+Number and size. 44. A fuller description hereof, with that of the
+Osculations of the _lignous Body_. 44, 45. The _Pith_, its original
+sometimes from the _Seed_. 46. Sometimes from the _Cortical Body_. 47,
+49. Its _Pores_. 49. _Proportions_. 49, 50. _Fibres_ of the _lignous
+Body_ therein. 50. The _Pith_ of those _Fibres_. 51.
+
+How the _Root_ grows, and the use of the _Skin_, _Cortical_ and _lignous
+Body_ thereto. 51, 54. How it groweth in length. 55. By what means it
+descends. 56, 57. How it grows in breadth. 58. And the _Pith_ how thus
+framed. 59. The use of the _Pith_. 60, 61. Of the _Insertment_. 61, 62.
+The joint service of all the Parts. 63, 65.
+
+
+CHAP. 3.
+
+_Of the Trunk._
+
+The _Skin_, its original. 67. The original of the _Cortical Body_. 67. Of
+the _lignous_. 68. Of the _Insertment_ and _Pith_. 68. The Latitudinal
+Shooting of the _lignous Body_, wherein observable. 69. The _Pores_ of
+the _lignous Body_, where and how most remarkable. 70. The _Pith_ of the
+same _Pores_. 70. A lesser sort of _Pores_. 71. A third sort only visible
+through a _Microscope_. Observed in Wood or Char-coal. 71. Observed in
+the Fibres of the Trunks of Plants. 72. 73. The _Insertions_ where
+more visible. 73, 74. The smaller Insertions, only visible through a
+_Microscope_. 74, 75. The _Pores_ of the Insertions. 76. Of the _Pith_.
+77, 79.
+
+How the _Trunk_ ascends. 80. 81. The disposition of its Parts consequent
+to that Ascent. 81, 82. Consequent to the different Nature of the _Sap_.
+83, 84. The effects of the said Differences. 84, 89. Which way, and how
+the _Sap_ ascends. 89-98.
+
+
+The Appendix.
+
+_Of Trunk-Roots and Claspers._
+
+_Trunk-Roots_ of two kinds. 99. _Claspers_ of one kind. 100. The use of
+both. 100, 103.
+
+
+CHAP. 4.
+
+_Of the Germen, Branch, and Leaf._
+
+The Parts of the _Germen_ and _Branch_ the same with those of the
+_Trunk_. 104, 105. The manner of their growth. 105, 107. How nourished.
+107. And the use of Knots. 108. How secur’d. 109. The Parts of a Leaf.
+110. The Positions the _Fibres_ of the Stalks of Leaves. 110, 111. The
+visible cause of the different shape of Leaves. 112. And of their being
+flat. 113. The Foulds of Leaves, their kinds and Use. 114-118. The
+Protections of Leaves. 119, 120. The use of the Leaf. 120, 123.
+
+
+_The Appendix._
+
+_Of Thorns, Hairs and Globulets._
+
+_Thorns_ of two kinds. 124, 125. _Hairs_ of divers. 126. Their use. 127.
+_Globulets_ of two kinds. 128.
+
+
+CHAP. 5.
+
+_Of the Flower._
+
+Its Impalement of divers kinds. 129, 130. Their use. 130, 132. The
+_Foliation_, its nature. 132. Foulds. 133, 134. Protections. 135. Downs.
+135. Globulets. 136. Its Use. 137, 139. The _Attire_ of two kinds. The
+Description of the first. 140, 142. Of the other. 143, 145. Their use.
+145-148.
+
+
+CHAP. 6.
+
+_Of the Fruit._
+
+The Number, Description, and Original of the Parts of an _Apple_.
+149-152. Of a _Pear_. 153, 155. Of a _Plum_. 155-159. Of a _Nut_. 159,
+161. Of a _Berry_. 161, 162. The use of the _Fruit_. 163-167.
+
+
+CHAP. 7.
+
+_Of the Seed in its state of Generation._
+
+The _Case_, its Figures. 168. The outer Coat, its Figures. 170. Various
+Surface. 170, 171. And Mucilages. 171, 172. The nature of the outer Coat.
+172. Its Original. 173, 174. The Original of the inner. 174. Its Nature.
+175, 176. The _Secondine_. 177, 178. The _Colliquamentum_ herein. 178.
+The _Navel Fibres_. 179, 180.
+
+In the Generation of the _Seed_, the _Sap_ first prepared in the
+_Seed-Branch_. 181. Next in the inner Coat. 182. With the help of the
+outer. 182. The use of the _Secondine_. 183, 184. Of the Ramulets of the
+_Seed-Branch_. ib. Of their _Inosculation_. ib. How the _Colliquamentum_
+becometh a _Parenchyma_. 185, 186.
+
+
+
+
+_Cl. Glissonius_ in Prolegomenis præfixis Libro de _Hepatis Anatomia_, c.
+1.
+
+
+Plantæ quoque in hunc censum (_sc. Anatomicum_) veniunt. Varia enim
+partium textura, & differentiis constant: & proculdubio ex accurata
+earundem diffectione, utiles valde Observationes nobis exurgerent;
+præstaretq; in illis (inferioris licet ordinis) rebus examinandis operam
+impendere, quam in transcribendis (ut sæpe fit) aliorum laboribus,
+inutiliter ætatem transigere. Quippe, hoc pacto, ignavarum apum more,
+aliena duntaxat alvearia expilamus, nihilq; bono publico adjicimus.
+
+
+
+
+_To be added and corrected._
+
+
+Pag. 8. _l._ 15. after _must_, _adde_ upon the Sprouting of the _Bean_.
+_p. 12. l. 23._ after _dense_, _adde_ and thence their different
+Tinctures. _p. 18. l. 13._ after _that_, _adde_ when. _p. 20. l. 8._ for
+_the_, _read_ an. _p. 56, l. 8._ _r._ once. _p. 90. l. 11._ _dele_ as.
+_p. 91. l. 12._ _r._ older. _p. 120. l. 11._ after _all_, _r._ is. _p.
+134. l. 11._ _r._ _Convolvulus_. _p. 143. l. 10._ _r._ ever. _p. 145. l.
+14._ for _not_, _r._ or. _p. 159. l. 8._ for _by_, _r._ to. _p. 160. l.
+18._ dele _not_. _p. 185. l. 14._ after _therewith_, _r._ the. _dele_ the
+former _the_.
+
+_In some Copies._
+
+P. 168. _l. 4._ _r._ _ultimate end_, and _p. 170. l. 22._ _r._ _Favous_.
+
+_The Reader is desired to excuse the misplacing of the Figures by the
+Graver, in the Authors absence._
+
+
+Transcriber’s Note
+
+The above additions and corrections have been made, and in addition the
+following changes were made to correct suspected printing errors:
+
+Contents, “Coliquamentum” changed to “Colliquamentum” (The
+_Colliquamentum_ herein.)
+
+Contents, “subsetvient” changed to “subservient” (how in common
+subservient)
+
+Page 13, “anothet” changed to “another” (there being another Body)
+
+Page 28, “ruus” changed to “runs” (which runs into the _Plume_)
+
+Page 93, “and and” changed to “and” (the _Lignous Body_, and from the
+production)
+
+Page 99, “Rooots” changed to “Roots” (Of Trunk-Roots and Claspers.)
+
+Page 121, “Leavs” changed to “Leaves” (the Leaves above-named)
+
+Page 126, “althoegh” changed to “although” (although they are various)
+
+Page 126, “to to” changed to “to” (in some resemblance to a _Stags-Horn_)
+
+Page 171, “transpareut” changed to “transparent” (on the other,
+transparent;)
+
+Fig. 16, “The The” changed to “The” (The _Cortical Body_, or _Barque_.)
+
+Punctuation and word spacing were amended without note; spelling remains
+as printed.
+
+
+
+
+THE ANATOMY OF VEGETABLES
+
+Begun.
+
+With a General Account of _Vegetation_ founded thereon.
+
+
+
+
+CHAP. I.
+
+_Of the Seed as Vegetating._
+
+
+Being to speak of Vegetables; and, as far as Inspection and consequent
+Reason may conduct, to enquire into the visible Constitutions and Uses of
+their several Parts; I chuse that Method which may with best advantage
+suit to what we have to say hereon: And that is the Method of Nature her
+self, in her continued Series of Vegetations, proceeding from the Seed
+sown, to the formation of the Root, Trunk, Branch, Leaf, Flower, Fruit,
+and last of all, of the Seed also to be sown again; all which we shall in
+the same order particularly speak of.
+
+The Essential Constitutions of the said Parts are in all Vegetables the
+same: But for Observation, some are more convenient; in which I shall
+chiefly instance. And first of all, for the Seed we chuse the great
+Garden-Bean.
+
+If we take a Bean then and dissect it, we shall find it cloathed with
+a double Vest or Coat: These Coats, while the Bean is yet green, are
+separable, and easily distinguished. When ’tis dry, they cleave so
+closely together, that the Eye, not before instructed, will judge them
+but one; the inner Coat likewise (which is of the most rare contexture)
+so far shrinking up, as to seem only the roughness of the outer, somewhat
+resembling Wafers under _Maquaroons_.
+
+At the thicker end of the Bean, in the outer Coat, a very small _Foramen_
+presents it self: In dissection ’tis found to terminate against the point
+of that part which I call the _Radicle_, whereof I shall presently speak.
+It is of that capacity as to admit a small Virginal Wyer, and is most
+conspicuous in a green Bean.
+
+This _Foramen_ may be observed not only in the great Garden-Bean, but
+likewise in the other kinds; in the French-Bean very plainly; in Pease,
+Lupines, Vetches, Lentiles, and other Pulse ’tis also found; and in many
+Seeds not reckoned of this kindred, as in that of _Fœnugreek_, _Medica
+Tornata_, _Goats-Rue_, and others: In many of which, ’tis so very small,
+as scarcely, without the help of Glasses to be discovered; and in some,
+not without cutting off part of the Seed besides, which otherwise would
+intercept the sight hereof; it being in these and such like Seeds, from
+the place of the breaking off of the Peduncle perfectly distinct.
+
+We may then observe, that all Seeds which have thick or hard Coats,
+have the same likewise perforated, in this, or some other manner. And
+accordingly, although the Coats of such Seeds as are lodg’d in Shells or
+Stones, being thin, are not visibly perforated; yet the Stones and Shells
+themselves always are; as _Chap. 7._ shall be seen how. To which Chapter,
+what is farther observable, either as to the nature, or number of the
+covers of the Seed, I also refer.
+
+The Coats of the Bean being stripp’d off the proper Seed shews it self.
+The parts whereof it is constituted, are three; _sc._ the main Body, and
+two other appendant to it, which we may call the three Organical parts of
+the Bean.
+
+The main Body is not one entire piece, but alwaies divided lengthwise
+into two halves or Lobes, which are both joyn’d together at the Basis
+of the Bean. These Lobes in dry Beans, are but difficultly separated or
+observ’d; but in young ones, especially boil’d, they easily slip asunder.
+See _Fig. 1_.
+
+Some very few Seeds are divided, not into two Lobes, but more; as that of
+_Cresses_; and some not at all divided, but entire; as _Corn_: Excepting
+which few, all other Seeds, even the smallest are divided, like as the
+Bean, into just two Lobes: whereof though in most Seeds we cannot by
+dissection be inform’d; yet otherwise we easily may as shall be seen.
+
+At the Basis of the Bean, the two other Organical parts stand appendent;
+by mediation whereof the two Lobes meet and join together. The greater
+of these two parts stands without the two Lobes, and upon divesting the
+Bean of its Coats, is immediately visible. ’Tis of a whiter colour, and
+more glossie than the main Body, especially when the Bean is young. In
+the Bean, and many other Seeds, tis situated somewhat above the thicker
+end, as you hold the Bean in its most proper posture for growth. In
+Oak-Kernels, which we call Acorns, Apple-Kernels, Almonds, and many other
+Seeds, it stands prominent just from the end; the Basis and the end
+being in these the same, but in the Bean divers. See _Fig. 1_.
+
+This part is not only in the Bean, and the Seeds above mentioned; but in
+all others: being that which upon the Vegetation of the Seed, becomes
+the Root of the Plant; which therefore I call the _Radicle_: by which, I
+mean the Materials, abating the Formality, of a Root, ’Tis not easie to
+be observed, saving in some few Seeds, amongst which, that of the Bean is
+the most fair and ample of all I have seen; but that of some other Seeds,
+is, in proportion, greater; as of _Fœnugreek_, which is almost as big as
+one of its Lobes.
+
+The lesser of the two laid Appendents lies occult between the two Lobes
+of the Bean, by separation whereof only it is to be seen. ’Tis enclos’d
+in two small Cavities form’d in the Lobes for its reception. Its colour
+comes near that of the _Radicle_; and is founded upon the Basis thereof
+having a quite contrary production, _sc._ towards the cone of the Bean;
+and being that very part, which, in process, becomes the Body or Trunk of
+the Vegetable. See _Fig. 1_.
+
+For the sake of this Part principally it is, that the Bean is divided
+into Lobes; _sc._ that it may be warmly and safely lodged up between
+them; and so secur’d from the Injuries so tender a Part would sustain
+from the Mould, whereto, had the Main Body been entire, it must upon the
+Sprouting of the _Bean_ have lain contiguous.
+
+This Part is not, like the _Radicle_, an entire Body, but divided at its
+loose end into divers pieces, all very close set together, as Feathers
+in a Bunch; for which reason it may be called the _Plume_. They are so
+close, that only two or three of the outmost are at first seen: but upon
+a nice and curious separation of these, the more interiour still may be
+discovered. Now as the _Plume_ is that Part which becomes the Trunk of
+the Plant, so these pieces are so many true, and already formed, though
+not displayed, Leaves, intended for the said Trunk, and foulded up in the
+same plicature, wherein, upon the sprouting of the Bean, they afterwards
+appear. In a French Bean the two outmost are very fair and elegant. In
+the great Garden-Bean, two extraordinary small Plumes, often, if not
+always, stand one on either side the great one now describ’d: From which,
+in that they differ in nothing save in their size, I therefore only here
+just take notice of them. And these three Parts, _sc._ the _Main Body_,
+the _Radicle_, and the _Plume_, are concurrent to the making up of every
+Seed; and no more than these.
+
+Having thus taken a view of the Organical Parts of the Bean, let
+us next examine the Similary, _sc._ those whereof the Organical are
+compos’d: a distinct observation of which, for a clear understanding of
+the Vegetation of the Seed, and of the whole Plant arising thence, is
+requisite: To obtain which, we must proceed in our Anatomy.
+
+Dissecting a Bean then, the first Part occurring is its Cuticle. The
+Eye and first Thoughts suggest it to be only a more dense and glossy
+Superficies; but better enquiry discovers it a real Cuticle. ’Tis so
+exquisitely thin, and for the most part so firmly continuous with the
+Body of the Bean, that it cannot, except in some small Rag, be distinctly
+seen; which, by carrying your Knife superficially into the Bean, and then
+very gently bearing upward what you have cut, will separate and shew it
+self transparent. This Cuticle is not only spread upon the Convex of the
+Lobes, but also on their Flats, where they are contiguous, extending it
+self likewise upon both the _Radicle_ and _Plume_, and so over the whole
+Bean.
+
+This Part, though it be so far common with the Coats of the Bean, as to
+be like those, an Integument; yet are we in a quite different Notion to
+conceive of it: For whereas the Coats upon setting the Bean, do only
+administer the Sap, and, as being superseded from their Office, then die;
+as shall be seen: this, on the contrary, with the Organical Parts of the
+Bean, is nourished, augmented, and by a real Vegetation co-extended.
+
+Next to the Cuticle, we come to the _Parenchyma_ it self; the Part
+throughout which the _inner Body_, whereof we shall speak anon, is
+disseminated; for which reason I call it the _Parenchyma_. The Surface
+hereof is somewhat dense, but inwardly ’tis more porous, and of a laxer
+Contexture. If you view it in a Microscope, it hath some similitude to
+the Pith, while sappy, in the Roots and Trunks of Plants; and that for
+good reason, as in _Ch. 2._ shall be seen. This is best seen in green
+Beans. See _Fig. 2_.
+
+This Part would seem by its colour to be peculiar to the Lobes of
+the Bean; but as is the Cuticle, so is this also, common both to the
+_Radicle_ and _Plume_; that is, the _Parenchyma_ of the Bean, as to
+its essential substance, is the same in all three. The reason why the
+colour of the _Plume_, and especially of the _Radicle_, which is white,
+is so different from that of the Lobes, may chiefly depend upon their
+being more compact and dense, and thence their different Tinctures. And
+therefore the Lobes themselves, which are green while the Bean is young;
+yet being old and dry, become whitish too. And in many other Seeds, as
+Acorns, Almonds, the Kernels of Apples, Plums, Nuts, _&c._ the Lobes,
+even fresh and young, are pure white as the Radicle it self.
+
+But although the _Parenchyma_ be common, as is said, to all the Organical
+Parts; yet in very differing proportions. In the _Plume_, where it is
+proportionably least, it maketh about three Fifths of the whole _Plume_;
+in the _Radicle_, it maketh about five Seavenths of the whole _Radicle_;
+and in each Lobe, is so far over-proportionate, as to make at least nine
+Tenths of the whole Lobe.
+
+By what hath been said, that the _Parenchyma_ is not the only
+constituting Part, besides the Cuticle, is imply’d: there being another
+Body, of an essentially different substance, embosom’d herein: which may
+be found, not only in the _Radicle_ and _Plume_, but also in the Lobes
+themselves, and so in the whole Bean. See _Fig. 2_.
+
+This inner Body appears most plain and conspicuous in cutting the
+_Radicle_ athwart, and so proceeding by degrees towards the _Plume_,
+through both which it runneth in a large and straight Trunk. In the
+Lobes, being it is there in so very small proportion, ’tis difficultly
+seen, especially towards their Verges: yet if with a sharp Knife you
+smoothly cut the Lobes of the Bean athwart, divers small Specks, of a
+different colour from that of the _Parenchyma_, standing therein all
+along in a Line, may be observ’d; which Specks are the Terminations of
+the Branches of this inner Body. See _Fig. 3_.
+
+For this inner Body, as it is existent in every Organical part of the
+Bean, so is it, with respect to each part, most regularly distributed.
+In a good part of the _Radicle_ ’tis one entire Trunk; towards the
+Basis thereof, ’tis divided into three main Branches; the middlemost
+runneth directly into the Plume; the other two on either side it, after
+a little space, pass into the Lobes; where the said Branches dividing
+themselves into other smaller; and those into more, and smaller again,
+are terminated towards the Verges of each Lobe; in which manner the said
+inner Body being distributed, it becomes in each Lobe, a true and perfect
+Root. See _Fig. 2_.
+
+This Seminal Root, as now we’ll call it, being so tender, cannot be
+perfectly excarnated, as may the Vessels in the Parts of an Animal, by
+the most accurate Hand; yet by dissection begun and continu’d, as is
+above-declared, its whole frame and distribution may be easily observ’d.
+Again, if you take the Lobe of a Bean, and lengthwise pare off its
+_Parenchyma_ by degrees, and in very thin Shives, many Branches of the
+Seminal Root, (which by the other way of Dissection were only noted by so
+many Specks) both as they are fewer about the Basis of the Bean, and more
+numerous towards its Verges, in some good distinction and entireness will
+appear. For this you must have new Beans.
+
+As the inner Body is branched out in the Lobes, so is it in the _Plume_:
+For if you cut the _Plume_ athwart, and from the Basis proceed along
+the Body thereof, you’l find therein, first, one large Trunk or Branch,
+and after four or five very small Specks round about it, which are the
+terminations of so many lesser Branches therewith distributed to the
+several parts of the _Plume_. See _Fig. 4_. The distribution of the
+inner Body, as it is continuous throughout all the Organical Parts of the
+Bean, is represented by _Fig. 2_.
+
+This _Inner Body_ is, by dissection, best observable in the Bean and
+great Lupine. In other larger Pulse it shows likewise some obscure Marks
+of it-self: But in no other Seeds, which I have observed, though of the
+greatest size, as of _Apples_, _Plums_, _Nuts_, &c. is there any clear
+appearance hereof, upon dissection, saving in the _Radicle_ and _Plume_;
+the reason of which is partly from its quantity, being in most Seeds so
+extraordinary little; partly from its Colour, which in most Seeds, is the
+same with that of the _Parenchyma_ it self, and so not distinguishable
+from it.
+
+Yet in a _Gourd-Seed_, the whole _Seminal Root_, not only its _Main
+Branches_, but also the Sub-divisions and Inosculations of the lesser
+ones, are without any dissection, upon the separation of the Lobes,
+on their contiguous Flats immediatly apparent. See _Fig. 5_. And as to
+the existence of this Seminal Root, what Dissection cannot attain,
+ocular inspection in hundreds of other Seeds, even the smallest, will
+demonstrate; as in this _Chapter_ shall be seen how.
+
+In the mean time, let us only take notice, that when we say every Plant
+hath its Root, we reckon short, for every Plant hath really two, though
+not contemporary, yet successive Roots, its Original or _Seminal-Root_
+within its Seed, and its _Plant-Root_, which the _Radicle_ becometh in
+its growth: the _Parenchyma_ of the Seed being in some resemblance, that
+to the _Seminal Root_ at first, which the Mould is to the _Plant-Root_
+afterwards; and the _Seminal Root_ being that to the _Plant-Root_, which
+the _Plant-Root_ is to the _Trunk_. For our better understanding whereof,
+having taken a view of the several Parts of a Bean, as far as Dissection
+conducts; we will next briefly enquire into the use of the said Parts,
+and in what manner they are the Fountain of Vegetation, and concurrent to
+the being of the future Plant.
+
+The general Cause of the growth of a _Bean_ or other Seed, is
+_Fermentation_; that is, the _Bean_ lying in the Mould, and a moderate
+access of some moisture, partly dissimilar, and partly congenerous,
+being made, a gentle _Fermentation_ thence ariseth; by which the _Bean_
+swelling, and the _Sap_ still encreasing, and the _Bean_ continuing still
+to swell, the work thus proceeds: as is the usual way of explicating. But
+that there is simply a _Fermentation_, and so a sufficient supply of
+_Sap_, is not enough; but that this _Fermentation_ and the _Sap_ wherein
+’tis made, should be under a various Government by divers Parts thereto
+subservient, is also requisite; and as the various preparation of the
+_Aliment_ in an _Animal_, equally necessary, the particular process of
+the Work according whereto, we find none undertaking to declare.
+
+Let us look upon a _Bean_ then, as a piece of Work so fram’d and set
+together, as to declare a Design for the production of a Plant, which,
+upon its lying in some convenient Soyl, is thus effected. First of all,
+the _Bean_ being enfoulded round in its Coats, the _Sap_ wherewith it is
+fed, must of necessity pass through these: By which means, it is not only
+in a proportionate quantity, and by due degrees; but also in a purer
+body; and possibly not without some Vegetable Tincture, transmitted to
+the _Bean_. Whereas, were the _Bean_ naked, the _Sap_ must needs be, as
+over-copious, so but crude and immature, as not being filtred through so
+fine a Cotton as the Coats be. And as they have the use of a _Filtre_
+to the transient _Sap_, so of a Vessel to that which is still deposited
+within them; being alike accommodated to the securer _Fermentation_
+hereof, as Bottles or Barrels are to Beer, or any other _Fermentative
+Liquor_.
+
+And as the _Fermentation_ is promoted by some Aperture in the Vessel; so
+have we the _Foramen_ in the upper Coat also contrived, that if there
+should be need of some more aiery Particles to excite the _Fermentation_,
+through this they may obtain their Entry: Or, on the contrary, should
+there be any such Particles or Steams as might damp the genuine
+proceeding thereof, through this again they may have easy issue: being
+that, as a common Pasport here to the _Sap_, which what we call the
+Bung-hole of the Barrel, is to the new-tunn’d Liquor. That this _Foramen_
+is truly permeable even in old setting _Beans_, appears upon their being
+soak’d for some time in Water: For then taking them out, and crushing
+them a little, many small bubbles will alternately arise and break upon
+it.
+
+The _Sap_ being passed through the Coats, it next enters the Body of the
+_Bean_; yet not indiscriminately neither; but, being filtred through the
+_Outer Coat_, and fermented both in the Body and Concave of the _Inner_,
+is by mediation of the _Cuticle_, again more finely filtr’d, and so
+entereth the _Parenchyma_ it self under a fourth Government.
+
+Through which Part the _Sap_ passing towards the _Seminal Root_, as
+through that which is of a more spacious content; besides the benefit it
+hath of a farther percolation, it will also find room enough for a more
+free and active fermenting and maturation herein. And being moreover,
+part of the true Body of the _Bean_, and so with its proper Seminalities
+or Tinctures copiously repleat; the _Sap_ will not only find room, but
+also matter enough, by whose Energy its _Fermentation_ will still be more
+advanced.
+
+And the _Sap_ being duly prepared here, it next passeth into all the
+Branches of the _Seminal Root_, and so under a fifth Government. Wherein
+how delicate ’tis now become, we may conceive by the proportion betwixt
+the _Parenchyma_ and this _Seminal Root_; so much only of the best
+digested _Sap_ being discharged from the whole Stock in that, as this
+will receive. And this, moreover, as the _Parenchyma_, with its proper
+Seminalities being endowed; the _Sap_, for the supply of the _Radicle_,
+and of the young Root from thence, is duly prepared therein, and with its
+highest Tincture and Impregnation at last enriched.
+
+The _Sap_ being thus prepared in the Lobes of the _Bean_, ’tis thence
+discharg’d; and either into the _Plume_ or the _Radicle_, must forthwith
+issue. And since the _Plume_ is a dependent on the _Radicle_; the _Sap_
+therefore ought first to be dispenced to this; which accordingly is ever
+found to shoot forth before the _Plume_, and that sometimes an inch or
+two in length. Now because the primitive course of the _Sap_ into the
+_Radicle_, is thus requisite, therefore by the frame of the Parts of
+the _Bean_ is it made necessary too. For we may observe that the two
+main Branches of the _Seminal Root_ in which the several _Ramifications_
+in either Lobe are all united, commit not themselves into the _Seminal
+Trunk_ of the _Plume_, nor yet so as to stand at right Angles with them,
+and with equal respect towards them both; but being producted through
+part of the _Parenchyma_ of the _Radicle_, are at last united therein to
+the main Trunk, and make acute Angles therewith; as may be seen by _Fig.
+2_. Now the _Sap_ being brought as far as the _Seminal Root_ in either
+Lobe, and according to the conduct thereof continuing still to move,
+it must needs immediately issue into the same part whereinto the main
+Branches themselves do, that is, into the _Radicle_. By which _Sap_,
+thus bringing the several Tinctures of the parts aforesaid with it, being
+now fed; it is no longer a meer _Radicle_, but is made also _Seminal_,
+and so becomes a perfect Root.
+
+The _Radicle_ being thus impregnate and shot into a root, ’tis now time
+for the _Plume_ to rouze out of its Cloysters, and germinate too: In
+order whereto, ’tis now fed from the Root with laudable and sufficient
+Aliment. For as the Supplies and motion of the _Sap_ were first made
+from the Lobes towards the Root, so the Root being well shot into the
+Moulds, and now receiving a new and more copious _Sap_ from these; the
+motion hereof must needs be stronger, and by degrees revert the primitive
+_Sap_, and so move in a contrary course, _sc._ from the Root towards the
+_Plume_; and, by the continuation of the _Seminal trunk_, is directly
+conducted thereinto; by which, being fed, it gradually enlarges and
+displayes it self.
+
+The course of the _Sap_ thus turned, it issues, I say, in a direct Line
+from the _Root_ into the _Plume_, but collaterally into the Lobes also;
+_sc._ by those two aforesaid Branches which are obliquely transmitted
+from the _Radicle_ into either Lobe. By which Branches the said _Sap_
+being disbursed back into all the _Seminal Root_, and from thence
+likewise into the _Parenchyma_ of the Lobes; they are both thus fed, and
+for some time augmenting themselves, really grow; as in _Lupines_ is
+evident.
+
+Yet is not this common to all Seeds; some rot under-ground, as _Corn_;
+being of a laxer and less Oleous substance, differing herein from most
+other Seeds; and being not divided into Lobes, but one entire thick
+Body. And some, although they continue firm, yet rise not as the great
+_Garden-Bean_; in which therefore it is observable, that the two Main
+Branches of the Lobes in comparison with that which runs into the
+_Plume_, are but mean; and so insufficient to the feeding and vegetation
+of the Lobes; the _Plume_, on the contrary, growing so lusty, as to mount
+up without them.
+
+Excepting a few of these two kinds, all other Seeds whatsoever, (which I
+have observed) besides that they continue firm, upon the Vegetation of
+the _Plume_, mount also upwards, and advance above the Mould together
+with it; as all Seeds which spring up with dissimilar Leaves, the two
+(for the most part two) dissimilar Leaves, being the very Lobes of the
+Seed divided, expanded, and thus advanced.
+
+The Impediments of our apprehension hereof are the Colour, Size and
+Shape of the dissimilar Leaves. Notwithstanding, that they are nothing
+else but the main body of the Seed, how I came first to phansie, and
+afterwards to know it, was thus: First, I observed in general that the
+dissimilar Leaves were never jagg’d, but even edg’d: And seeing the even
+verges of the Lobes of the Seed hereto respondent, I was apt to think,
+that those which were so like, might prove the same. Next descending
+to particular Seeds, I observed first of the _Lupine_; that as to its
+Colour, upon its advance above the Mould, it ever changed into a perfect
+Green. And why might not the same by parity of Reason be inferr’d of
+other Seeds? That, as to its size, it grew but little bigger than when
+first set. Whence, as I discern’d (the Augmentation being but little)
+we here had only the two Lobes: So, (as some augmentation there was) I
+inferr’d the like might be, and that, in farther degrees, in other Seeds.
+
+Next, of the _Cucumber_-seed. That, as to its Colour, often appearing
+above ground in its Primitive white, from white it turns to yellow,
+and from yellow to green, the proper colour of a Leaf: That, as to its
+size, though at its first arise, the Lobes were little bigger than upon
+setting; yet afterwards as they chang’d their Colour, so their Dimensions
+also, growing to a three-four-five-fold amplitude above their primitive
+size: But whereas the Lobes of the Seed are in proportion, narrow, short
+and thick, how then come the dissimilar Leaves to be so exceeding broad,
+or long and thin? The Question answers it self: For the dissimilar
+Leaves, for very reason are so thin, because so very broad or long; as
+we see many things, how much they are extended in length or breadth, so
+much they lose in depth, or grow more thin; which is that which here
+befalls the now effoliated Lobes. For being once disimprisoned from their
+Coats, and the course of the Sap into them now more and more encreased,
+they must needs very considerably amplifie themselves; and from the
+manner wherein the _Seminal Root_ is branched in them, that amplification
+cannot be in thickness, but in length or breadth: In both which, in some
+dissimilar Leaves ’tis very remarkable; especially in length, as in those
+of _Lettice_, _Thorn-Apple_, and others; whose Seeds, although very
+small, yet the Lobes of those Seeds growing up into Dissimilar Leaves,
+are extended an Inch, and sometimes more, in length; though he that
+shall attempt to get a clear sight of the Lobes of _Thorn-Apple_, and
+some others, by Dissection, will find it no easy Task; yet is that which
+may be obtained. From all which, and the observation of other Seeds, I
+at last found, that the dissimilar Leaves of a young Plant, are nothing
+else but the Lobes or _main Body_ of its Seed: So that as the Lobes did
+at first feed and impregnate the _Radicle_ into a _perfect Root_; so the
+_Root_ being perfected, doth again feed, and by degrees amplifie each
+Lobe into a perfect Leaf.
+
+The Original of the dissimilar Leaves thus known, we understand, why some
+Plants have none; because the Seed either riseth not, as _Garden-Beans_,
+_Corn_, &c. Or upon rising, the Lobes are little alter’d, as _Lupines_,
+_Pease_, &c. Why, though the proper Leaves are often indented round; the
+dissimilar, like the Lobes, are even-edg’d. Why, though the proper Leaves
+are often hairy, yet these are ever smooth. Why some have more dissimilar
+Leaves than two, as _Cresses_, which have six, as the Ingenious Mr.
+_Sharrock_ also observes; the reason whereof is, because the _Main
+Body_ is not divided into two, but six, distinct Lobes, as I have often
+counted. Why _Radishes_ seem at first to have four, which yet after
+appear plainly two; because the Lobes of the Seed have both a little
+Indenture, and are both plaited, one over the other. To which we might
+add,
+
+The use of the dissimilar Leaves is, first, for the protection of the
+_Plume_; which being but young, and so but soft and tender, is provided
+with these, as a double Guard, one on either side of it. For this
+reason it is, that the _Plume_ in Corn is trussed up within a membranous
+Sheath; and that of a _Bean_, cooped up betwixt a pair of _Surfoyls_; but
+where the Lobes rise, there the _Plume_ hath neither of them, being both
+needless.
+
+Again, that since the _Plume_, being yet tender, may be injured not
+only by the Air, but also for want of Sap, the supplies from the Root
+being yet but slow and sparing; that the said _Plume_ therefore, by the
+dissimilar Leaves, may have the advantage likewise of some refreshment
+from Dew or Rain. For these having their Basis a little beneath that of
+the _Plume_, and expanding themselves on all sides of it, they often
+stand after Rain, like a Vessel of Water, continually soaking and
+supplying it, lest its new access into the Ayr, should shrivel it.
+
+Moreover, that since the dissimilar Leaves by their Basis intercept the
+_Root_ and _Plume_, the greater and grosser part of the Sap may be by
+the way deposited into those; and so the purest proceed into the yet but
+young and delicate _Plume_, as its fittest Aliment.
+
+Lastly, we have here a demonstration of the being of the _Seminal Root_;
+which since through the colour or smallness of the Seed, it could not by
+dissection be observ’d, except in some few; Nature hath here provided us
+a way of viewing it in the now effoliated Lobes, not of one or two Seeds,
+but of hundreds; the _Seminal Root_ visibly branching it self towards the
+Cone and Verges of the said Lobes, or now dissimilar Leaves.
+
+
+
+
+CHAP. II.
+
+_Of the Root._
+
+
+Having examin’d and pursu’d the Degrees of _Vegetation_ in the _Seed_,
+we find its two Lobes have here their utmost period; and, that having
+conveyed their Seminalities into the _Radicle_ and into the _Plume_;
+these therefore as the Root and Trunk of the Plant still survive; Of
+these in their order we next proceed to speak; and first, of the _Root_:
+whereof, as well as of the _Seed_, we must by Dissection inform our
+selves.
+
+In Dissection of a _Root_ then, we shall find it with the _Radicle_, as
+the Parts of an old man with those of a _Fœtus_, substantially one. The
+first Part occurring is its skin, the Original whereof is from the Seed:
+For that extream thin Cuticle which is spred over the Lobes of the Seed,
+and from thence over the _Radicle_, upon the shooting of the _Radicle_
+into a Root, is co-extended, and becomes its Skin.
+
+The next Part is the _Cortical Body_; the Original whereof likewise is
+from the Seed; or the _Parenchyma_, which is there common both to the
+Lobes and _Radicle_, being by Vegetation augmented and prolonged into the
+_Root_, is here the _Cortical Body_, or that which is sometimes called
+the _Barque_.
+
+The Contexture of this _Cortical Body_ may be well illustrated by
+that of a _Sponge_, being a Body Porous, Dilative, and Pliable. Its
+Pores, as they are innumerable, so extream small. These Pores are not
+only susceptive of so much Moisture as to fill, but also to enlarge
+themselves, and so to dilate the _Cortical Body_ wherein they are; which
+by the shriv’ling in thereof, by being expos’d to the Air, is also seen.
+In which dilatation many of its Parts becoming more lax and distant, and
+none of them suffering a solution of their continuity; ’tis a Body also
+sufficiently pliable; or, a most exquisitely fine-wrought Sponge.
+
+The Extention of these Pores is much alike both by their length and
+breadth of the Root; which from the shrinking up of the _Cortical Body_,
+in a piece of a cut Root, by the same dimensions, is argu’d.
+
+The proportions of this _Cortical Body_ are various: If thin, ’tis
+called a _Barque_; & thought to serve to no other end, than what is
+usually ascrib’d to it as a _Barque_; which is a narrow conceit: If a
+Bulky Body in comparison with that within it, as in the young Roots of
+_Cychory_, _Asparagus_, &c. ’tis here, because the fairest, therefore
+taken for the prime Part; which, though, as to Medicinal use, it is;
+yet, as to the private use of the Plant, not so. The Colour hereof,
+though it be originally white, yet in the continued growth of the Root,
+divers Tinctures, as yellow in _Dock_, red in _Bistort_, are thereinto
+introduced.
+
+Next within this Part stands the _Lignous Body_; the Original whereof,
+as of the two former, is from the Seed; or, the _Seminal Roots_ of both
+the Lobes, being united in the _Radicle_, and with its _Parenchyma_
+co-extended, is here in the Root the _Lignous Body_.
+
+The Contexture hereof is, in many of its parts, much more close than that
+of the _Cortical_; and their Pores very different: For whereas those of
+the _Cortical_ are infinitely numerous, these of the _Lignous_ are in
+comparison, nothing so. But these, although fewer, yet are they many of
+them more open, fair, and visible: as in a very thin Slice cut athwart
+the young Root of a Tree, and held up against the Light, is apparent: Yet
+not in all equally, in _Coran_-Tree, in _Goosberry_-Tree, _&c._ less; in
+_Oak_, _Plums_, and especially _Damascens_, more; in _Elder_, _Vines_,
+&c. more conspicuous. And as they are different in number and size,
+so also (whereon the numerousness of the Pores of the _Cortical Body_
+principally depends) in their shape. For whereas those of the _Cortical
+Body_ are extended much alike both by the length and breadth of the
+_Root_; these of the _Lignous_ are only by the length; which, especially
+in _Vines_ and some other _Roots_, is evident. Of these Pores, ’tis also
+observable, that although in all places of the _Root_ they are visible,
+yet most fair and open about the _Fibrous Extremities_ of some _Roots_
+(and in many _Roots_ higher) where there is no Pith. These Pores, as they
+shew in young _Roots_ of Trees, see in _Fig. 6_, & _7_.
+
+This _Lignous Body_ lieth with all its Parts, so far as they are visible,
+in a Circle or Ring; yet are there divers extream small Fibres thence
+shooting, usually mixed with the _Cortical Body_; and by the somewhat
+different colour of the said _Cortical Body_ where they stand, may be
+noted these Fibres; the _Cortical Body_ and _Skin_ all together, properly
+make the _Barque_.
+
+The proportion betwixt this _Lignous Body_ and the _Cortical_, is
+various, as was said; yet in this, constant, _sc._ that in the fibrous,
+and smaller Parts of the _Root_, the _Lignous Body_ is not only in
+compass, but in quantity the less; running like a slender Wyer or Nerve
+through the other surrounding it. They stand both together pyramidally,
+which is most common to _Infant-Roots_, but also to many other.
+
+The next Part observable in the _Root_, is the _Insertment_. The
+existence hereof, so far as we can yet observe, is sometimes in
+the _Radicle_ of the Seed it self; I cannot say alwayes. As to its
+substantial nature, we are more certain; that it is the same with that
+of the _Parenchyma_ of the _Radicle_; being alwayes at least augmented,
+and so, in part, originated from the _Cortical Body_, and so, at second
+hand, from the said _Parenchyma_: For in dissecting a _Root_, we find,
+that the _Cortical Body_ doth not only environ the _Lignous_, but is also
+wedg’d, and in many pieces inserted into it; and that the said inserted
+pieces, make not a meer Indenture, but transmit and shoot themselves
+quite through as far as the Pith; which in a thin Slice cut athwart the
+_Root_ as so many lines drawn from the Circumference towards the Center,
+shew themselves. See _Fig. 6_, & _7_.
+
+The Pores of the _Insertment_ are sometimes, at least, extended somewhat
+more by the breadth of the _Root_, as about the top of the _Root_ of
+_Borage_ may be seen; and are thus different from those of the _Cortical
+Body_, which are extended by the length and breadth much alike; and from
+those of the _Lignous_, being only by its length.
+
+The number and size of these Insertions are various. In _Hawthorn_, and
+some others, and especially _Willows_, they are most extream small; in
+_Cherries_ and _Plums_ they are large; and in _Damascens_ especially,
+very fairly apparent. In the _Roots_ of small _Plants_ they are generally
+more easily discoverable; which may lead to the observation of them in
+all.
+
+These Insertions, although they are continuous through both the length
+and breadth of the _Root_; yet not so in all Parts, but by the several
+shootings of the _Lignous Body_ are frequently intercepted. For of the
+_Lignous Body_ it is (here best) observable, That its several shootings,
+betwixt which the _Cortical_ is inserted, are not throughout the _Root_
+wholly distinct; but that all along being enarch’d, the _Lignous Body_,
+both in length and breadth, is thus disposed into Braces or Osculations.
+Betwixt these several shootings of the _Lignous Body_ thus osculated,
+the _Cortical_ shooting, and being also osculated answerably Brace for
+Brace, that which I call the _Insertment_ is fram’d thereof.
+
+These Osculations are so made, that the Pores of the _Lignous Body_, I
+think, notwithstanding, seldom run one into another; but, for the most
+part, still keep distinct; in the same manner as some of the Nerves,
+though they meet, and for some space are associated together, yet ’tis
+most probable that none of their Fibres are truly inosculated here, but
+only in the Plexures.
+
+These Osculations of the _Lignous Body_, and so the interception of the
+Insertions of the _Cortical_, are not to be observ’d by the traverse
+cut of the _Root_, but by taking off the _Barque_, or the _Cortical
+Body_. In the Roots of Trees, they are generally obscure; but in Plants,
+often more distinctly apparent; and especially in a _Turnep_: the
+appearance whereof, the _Cortical Body_ being stripp’d off, is as a piece
+of close-wrought Network, fill’d up with the Insertions of the said
+_Cortical Body_. See _Fig. 8_.
+
+The next and last distinct Part of the _Root_ is the _Pith_. The
+substantial nature thereof, is, as was said of the _Insertment_, the
+same likewise with that of the _Parenchyma_ of the Seed. And according
+to the best observation we have yet made, ’tis sometimes existent in its
+_Radicle_; in which, the two main Branches of the Lobes both meeting, and
+being osculated together, are thus dispos’d into one round Trunk, and so
+environing part of the _Parenchyma_, make thereof a _Pith_; as in either
+the _Radicle_, or the young _Root_ of the great _Bean_ or _Lupine_, may,
+I think, be well seen.
+
+But many times the Original hereof is immediately from the _Cortical
+Body_. For in dissection of divers _Roots_ both of Trees and Plants, as
+of _Barberry_ or _Mallows_, it is observable, that the _Cortical Body_
+and _Pith_ are both of them participant of the same Colour; in the
+_Barberry_ both of them tinged yellow, and in _Mallows_ green. In cutting
+the smaller Parts of the Roots of many Plants, as of _Borage_, _Mallows_,
+_Parsley_, _Columbine_, &c. ’tis also evident, that the _Lignous Body_ is
+not there in the least Concave, but standeth perfectly in the Center; and
+that the Insertions being gradually multiplied afterwards, the _Pith_ at
+length, towards the thicker parts of the _Root_, shews and enlarges it
+self. Whence it appears, that in all such _Roots_, the _Pith_ is not only
+of the same substantial nature, and by the Insertions doth communicate
+with the _Cortical Body_; and that it is also more or less augmented
+by it; which is true of the _Pith_ of all _Roots_; but is moreover, by
+mediation of the said Insertions, wholly originated from it. The various
+appearances of the _Insertions_ and _Pith_ from the Fibrous Parts to the
+top of the _Root_, see in _Fig. 9_, _10_, _11_, _12_, _13_, _14_. The
+Pores of the _Lignous Body_, entire in the said Fibrous Parts, are best
+seen when they have lain by a night dry, after cutting.
+
+A farther evidence hereof are the Proportions betwixt the _Cortical
+Body_ and _Pith_. For as about the inferiour Parts of the _Root_, where
+the _Pith_ is small, the _Cortical Body_ is proportionably great; so
+about the top, where the _Pith_ is enlarged, the _Cortical Body_ groweth
+proportionably less, _sc._ because by its Insertions, ’tis gradually
+bestowed into the _Pith_. Likewise the peculiar frame of some _Roots_,
+wherein besides the _Pith_, the _Lignous Body_ being divided into a
+double Ring, there is also a thick Ring, of a white and soft substance,
+stands betwixt them; and is nothing else but the Insertions of the
+_Cortical Body_ collected into the said Ring; but, towards the top of the
+Root, being inserted again, thus maketh a large and ample _Pith_; as in
+_Fennel_-Roots is seen.
+
+The Pores of the _Pith_, as those of the _Cortical Body_, are extended
+both by the breadth and length of the _Root_, much alike; yet are they
+more or less of a greater size than those of the _Cortical Body_.
+
+The Proportions of the _Pith_, are various; in Trees, but small; in
+Plants generally, very fair; in some making by far the greatest part
+of the _Root_; as in a _Turnep_: By reason of the wide circumference
+whereof, and so the finer Concoction and Assimilation of its Sap; that
+part which in most old Trunks is a dry and harsh _Pith_, here proves a
+tender pleasant meat. The parts of a _Turnep_ in the travers cut see in
+_Fig. 8_.
+
+In the Roots of very many Plants, as _Turneps_, _Carrots_, &c. the
+_Lignous Body_, besides its main utmost Ring, hath divers of its
+osculated Fibres dispersed throughout the Body of the _Pith_; sometimes
+all alike, and sometimes more especially in, or near, its Center; which
+Fibres, as they run towards the top of the _Root_, still declining the
+Center, at last collaterally strike into its Circumference; either all
+of them, or some few, keeping the Center still; of these principally the
+_Lignous Body_ of the Trunk is often originated.
+
+These Fibres, although they are so exceeding slender, yet in some
+_Roots_, as in that of _Flower-de-liz_, they are visibly concave, each
+of them, in their several Cavities also embosoming a very small _Pith_;
+the sight whereof, the Root being cut traverse, and laid in a Window
+for a day or two to dry, may without Glasses be obtained. And this is
+the general account of the _Root_; the declaration of the manner of its
+growth, with the use and service of its several parts, we shall next
+endeavour.
+
+We say then, that the _Radicle_ being impregnate, and shot into the
+Moulds, the contiguous moisture, by the _Cortical Body_, being a Body
+laxe and Spongy, is easily admitted: Yet not all indiscriminately, but
+that which is more adapt to pass through the surrounding Cuticle. Which
+transient Sap, though it thus becomes fine, yet is not simple; but a
+mixture of Particles, both in respect of those originally in the Root,
+and amongst themselves, somewhat heterogeneous. And being lodg’d in the
+_Cortical Body_ moderately laxe, and of a Circular form; the effect will
+be an easie Fermentation. The _Sap_ fermenting, a separation of Parts
+will follow; some whereof will be impacted to the Circumference of the
+_Cortical Body_, whence the Cuticle becomes a Skin; as we see in the
+growing of the Coats of Cheeses, of the Skin over divers Liquors, and
+the like. Whereupon the _Sap_ passing into the _Cortical Body_, through
+this, as through a _Manica Hippocratis_, is still more finely filtred.
+With which _Sap_, the _Cortical Body_ being dilated as far as its _Tone_,
+without a solution of Continuity will bear; and the supply of the _Sap_
+still renew’d; and the purest part, as most apt and ready, recedes, with
+its due Tinctures, from the said _Cortical Body_, to the _Lignous_.
+Which _Lignous Body_ likewise super-inducing its own proper Tinctures
+into the said _Sap_; ’tis now to its highest preparation wrought up,
+and becomes (as they speak of that of an Animal) the Vegetative _Ros_
+or _Cambium_: the noblest part whereof is at last coagulated in, and
+assimilated to the like substance with the said _Lignous Body_. The
+remainder, though not united to it, yet tinctur’d therein, thus retreats,
+that is, by the continual appulse of the _Sap_, is in part carried off
+into the _Cortical Body_ back again, the _Sap_ whereof it now tinctures
+into good Aliment: So that whereas before the _Cortical Body_ was only
+relaxed in its Parts, and so dilated; ’tis now increas’d in real quantity
+or number of parts, and so is truly nourish’d. And the _Cortical Body_
+being saturate with so much of this Vital _Sap_ as serves it self;
+and the second Remainders discharged thence to the Skin; this also is
+nourish’d and augmented therewith. So that as in an _Animal Body_ there
+is no instauration or growth of Parts made by the Bloud only, but the
+_Nervous Liquor_ is also thereunto assistant; so is it here: the _Sap_
+prepared in the _Cortical Body_, is as the Arterious; and that part
+thereof prepared by the _Lignous_, is as the _Nervous Liquor_; which
+partly becoming Nutriment to it self, and partly being discharged back
+into the _Cortical Body_, and diffusing its Tincture through the _Sap_
+there, that to the said _Cortical Body_ and _Skin_, becomes also true
+Nutriment, and so they all now grow.
+
+In which growth, a proportion in length and breadth is requisite: which
+being rated by the benefit of the Plant, both for firm standing and
+sufficient Sap, must therefore principally be in length. And because it
+is thus requisite, therefore by the constitution of one of its Parts,
+_sc._ the _Lignous Body_, it is also made necessary. For the Pores
+hereof, in that they are all extended by its length, the _Sap_ also
+according to the frame and site of the said Pores will principally move;
+and that way as its _Sap_ moves, the same way will the generation of its
+Parts also proceed; _sc._ by its length. And the _Lignous Body_ first
+(that is, by a priority causal) moving in length it self; the _Cortical_
+also moves therewith. For that which is nourish’d, is extended; but
+whatever is extended, is mov’d; that therefore which is nourish’d, is
+mov’d: The _Lignous Body_ then being first nourish’d, ’tis likewise first
+mov’d, and so becomes and carries in it the Principle of all Vegetative
+motion in the _Cortical_; and so they both move in length.
+
+Yet as the _Lignous Body_ is the Principle of Motion in the _Cortical_;
+so the _Cortical_ is the Moderator of that in the _Lignous_: As in Animal
+Motions, the Principle is from the Nerves; yet being once given to the
+Muscle or Limb, and that moving proportionably to its structure, the
+Nerves also are carried in the same motion with it. We suppose therefore,
+that as the principal motion of the _Lignous Body_ is in length, so is
+its proper tendency also to ascend: But being much exceeded both in
+Compass and Quantity by the _Cortical_ as in the smaller parts of the
+_Root_ it is; it must needs therefore be over-born and governed by it;
+and so, though not lose its motion, yet make it that way wherein the
+_Cortical Body_ may be more obedient to it; which will be by descent:
+Yet both of them being sufficiently pliable, they are thus capable, where
+the Soyl I may oppose a direct descent, there to divert any way where it
+is more penetrable, and so to descend obliquely. For the same reason it
+may also be, that though you set a _Bean_ with the _Radicle_ upward; yet
+the _Radicle_, as it shoots, declining also gradually, is thus arch’d in
+form of an Hook, and so at last descends. For every declination from a
+perpendicular Line, is a mixed motion betwixt Ascent and Descent; as that
+of the _Radicle_ also is, and so seeming to be dependent upon the two
+contrary Tendencies of the _Lignous_ and _Cortical Bodies_. What may be
+the cause of those Tendencies (being most probably external, and perhaps
+something of a _Magnetisme_) is besides my Task here to enquire.
+
+Now although the _Lignous Body_, by the position and shape of its Pores,
+principally groweth in length; yet will it in some degree likewise in
+breadth: For it cannot be supposed that the purest _Sap_ is all received
+into the said Pores; but that part thereof likewise, staying about its
+_Superficial parts_, is there tinctur’d and agglutinated to them. And
+because these Pores are prolonged by its length; therefore is it much
+more laxe and easily divisible that way; as in slitting a Stick, or
+cleaving of Timber, and in cutting and hewing them athwart is also seen.
+Whence it comes to pass, that in shooting from the Center towards the
+Circumference, and there finding more room, its said original Laxity
+doth easily in divers places now become greater, and at length in open
+Partments plainly visible. Betwixt which Partments, the _cortical Body_,
+being bound in on the one hand, by the surrounding Skin and Moulds, and
+pressed upon by the _Lignous_ on the other, must needs insert it self,
+and so move contrary to it, from the Circumference towards the Center:
+where the said contrary motions continued as begun, they at last meet,
+unite, and either make or augment the _Pith_. And thus the _Root_ is
+fram’d, and the Skin, the _cortical_ and _Lignous Bodies_, so as is said,
+hereunto concurrent. We shall next shew the use of the two other Parts,
+_sc_. the _Insertment_ and _Pith_; and first of the _Pith_.
+
+One true use of the _Pith_ is for the better Advancement of the _Sap_,
+whereof we shall speak in the next Chapter. The use we here observe is
+for the quicker and higher Fermentation of the _Sap_: For although the
+Fermentation made in the _Cortical Body_ was well subservient to the
+first Vegetations, yet those more perfect ones in the _Trunk_ which after
+follow, require a Body more adapted to it, and that is the _Pith_; which
+is so necessary, as not to be only common to, but considerably large
+in the _Roots_ of most Plants; if not in their inferiour parts, yet at
+their tops. Where though either deriv’d or amplify’d from the _Cortical
+Body_, yet being by its Insertions only, we may therefore suppose, as
+those, so this, to be more finely constituted. And being also from its
+co-arctation, while inserted, now free; all its Pores, upon the supply
+of the _Sap_, will more or less be amplified: Upon which accounts, the
+_Sap_ thereinto received, will be more pure, and its fermentation therein
+more active. And as the _Pith_ is superiour to the _Cortical Body_ by its
+Constitution, so by its Place. For as it thus stands central, it hath
+the _Lignous Body_ surrounding it. Now as the Skin is the Fence of the
+_Cortical Body_, and that of the _Lignous_; so is the _Lignous_ again a
+far more preheminent one unto the _Pith_; the _Sap_ being here a brisk
+Liquor, tunn’d up as in a wooden Cask.
+
+And as the _Pith_ subserves the higher Fermentation of the _Sap_; so do
+the Insertions its purer Distribution; that separation which the parts
+of the _Sap_, by being fermented in the _Pith_, were dispos’d for;
+being, upon its entrance into the Insertions, now made: So that as the
+Skin is a Filtre to the _Cortical Body_, so are the Insertions a more
+preheminent one to the _Lignous_; and as they subserve the purer, so the
+freer and sufficient distribution of the _Sap_: For the _Root_ enlarging,
+and so the _Lignous Body_ growing thicker, although the _Cortical_ and
+the _Pith_ might supply _Sap_ sufficient to the nutrition of its Parts
+next adjacent to them; yet those more inward, must needs be scanted
+of their _Aliment_; and so, if not quite starv’d, yet be uncapable of
+equal growth: Whereas the _Lignous Body_ being through its whole breadth
+frequently disparted, and the _Cortical Body_ inserted through it; the
+_Sap_ by those Insertions, as the Blood by the disseminations of the
+_Arteries_, is freely and sufficiently convey’d to its intimate Parts,
+even those which from either the _cortical Body_ or the _Pith_ are most
+remote. Lastly, as the consequent hereof, they are thus assistant to the
+Latitudinal growth of the _Root_; as the _Lignous Body_ to its growth in
+length; so these Insertions of the _Cortical_, to its better growth in
+breadth.
+
+Having thus seen the solitary uses of the Several Parts of the _Root_,
+we shall lastly propound our Conjectures of that Design whereto they
+are all together concurrent, and that is the Circulation of the _Sap_:
+For the _Sap_ moving through the _cortical Body_, towards the _Pith_,
+through the Insertions thereinto, obtains a pass: Which passage, the
+superiour Insertions will not favour; because the _Pith_ standing in the
+same height with them, is there large, the fermenting and course of the
+_Sap_ quick, and so its opposition strong. But through the inferiour
+it will much more easily enter; because there, through the smalness of
+the _Pith_, the opposition is little, and through the shortness of the
+Insertions, the way more open. So that though the _Sap_ may meet with
+some opposition even here, yet here meeting with the least, here it will
+bestow it self (feeding the _Lignous Body_ in its passage) into the
+_Pith_. Into which fresh _Sap_ still entring, this, yet but crude, will
+subside: that first received and so become a Liquor higher wrought, will
+more easily mount upwards; and moving in the _Pith_, as in the _Arteria
+magna_, in equal altitude with the more superiour Insertions; the most
+volatile parts of all will still continue their direct ascent towards
+the _Trunk_. But those of a middle nature, and, as not apt to ascend,
+so being lighter than those beneath them, not to descend neither; they
+will tend from the _Pith_ towards the Insertions in a motion betwixt
+both; through which Insertions (feeding the _Lignous Body_ in its
+passage) it is, by the next subsequent _Sap_, discharged off into the
+_cortical Body_, as into the _Vena cava_, back again. Wherein, being
+still pursu’d by fresh _Sap_ from the Center, and more occurring from
+the Circumference, towards the inferiour Insertions it thus descends;
+through which, together with part of the _Sap_ afresh imbib’d from the
+Mould, it re-enters the _Pith_. From whence, into the _Cortical Body_,
+and from thence into the _Pith_, the cruder part thereof reciprocally
+is disburs’d; while the most Volatile, not needing the help of a
+Circulation, more directly ascendeth towards the _Trunk_.
+
+
+
+
+CHAP. III.
+
+_Of the Trunk._
+
+
+Having thus declar’d the degrees of _Vegetation_ in the _Root_; the
+continuance hereof in the _Trunk_ shall next be shew’d: in order to
+which, the Parts whereof this likewise is compounded, we shall first
+observe.
+
+That which without dissection shews it self, is the _Coarcture_: I cannot
+say of the _Root_, nor of the _Trunk_; but what I chuse here to mention,
+as standing betwixt them, and so being common to them both; all their
+Parts being here bound in closer together, as in the tops of the grown
+Roots of very many Plants, is apparent.
+
+Of the Parts of the _Trunk_, the first occurring is its _Skin_: The
+Formation whereof, is not from the Air, but in the _Seed_, from whence it
+is originated; being the production of the Cuticle, there investing the
+two _Lobes_ and _Plume_.
+
+The next Part is the _Cortical Body_; which here in the _Trunk_ is no new
+substantial formation; but, as is that of the _Root_, originated from the
+_Parenchyma_ of the _Seed_; and is only the increase and augmentation
+thereof. The _Skin_, this _Cortical Body_ properly so call’d, and (for
+the most part) some Fibers of the _Lignous_ mixed herewith, all together
+make the _Barque_.
+
+Next, the _Lignous_ Body, which, whether it be visibly divided into
+many softer Fibres, as in _Fennel_, and most Plants; or that its parts
+stand more compact and close, shewing one hard, firm and solid piece,
+as in Trees; it is in all one and the same Body; and that not formed
+originally in the _Trunk_, but in the _Seed_; being nothing else but the
+prolongation of the _Inner Body_ distributed in the _Lobes_ and _Plume_
+thereof.
+
+Lastly, The _Insertions_ and _Pith_ are here originated likewise from
+the _Plume_, as the same in the _Root_ from the _Radicle_: So that as
+to their substantial Parts, the _Lobes_ of the Seed, the _Radicle_ and
+_Plume_, the _Root_ and _Trunk_ are all one.
+
+Yet some things are more fairly observable in the _Trunk_. First, the
+_Latitudinal_ shootings of the _Lignous Body_, which in _Trunks_ of
+several years growth, are visible in so many Rings, as is commonly known:
+For several young Fibres of the _Lignous Body_, as in the _Root_, so
+here, shooting into the _Cortical_ one year, and the spaces betwixt them
+being after fill’d up with more (I think not till) the next, at length
+they become altogether a firm compact Ring; the perfection of one Ring,
+and the ground-work of another being thus made concomitantly.
+
+From these Annual younger Fibres it is, that although the _Cortical Body_
+and _Pith_ are both of the same substantial nature, and their Pores
+little different; yet whereas the _Pith_, which the first year is green,
+and of all the Parts the fullest of _Sap_, becomes afterwards white and
+dry; the _Cortical Body_, on the contrary, so long as the Tree grows,
+ever keepeth green and moist, _sc._ because the said Fibers annually
+shoot into, and so communicate with it.
+
+The Pores likewise of the _Lignous Body_, many of them in well-grown
+Timber, as in Oaken boards, are very conspicuous, in cutting both
+lengthwise and traverse; they very seldom run one into another, but keep,
+like so many several Vessels, all along distinct; as by cutting, and so
+following any one of them as far as you please, for a Foot or half a
+Yard, or more together, may be observ’d.
+
+These greater Pores, though in Wainscot, Tables, and the like, where they
+have lain long open, they are but meer Vacuities, and so would be thought
+to contain only _Sap_ in the Tree, and afterwards only Air; yet upon a
+fresh cut, each of them may be seen fill’d up with a light and spongie
+Body, which by Glasses, and even by the bare eye, appears to be a perfect
+_Pith_; sometimes entire, and sometimes more or less broken.
+
+Besides these, there are a lesser sort; which, by the help of a
+_Microscope_, also appear, if not to be fill’d up with a _Pith_, yet to
+contain certain light and filmy parts, more or fewer, of a _Pithy_ nature
+within them.
+
+And these are all the Pores the best Glasses, which, (when upon these
+Enquiries) we had at hand, would shew us. But the Learned and most
+Ingenious Naturalist Mr. _Hook_ sheweth us moreover, besides these, a
+third, and yet smaller sort; the description whereof I find he hath
+given us amongst his _Microscopical Observations_. Of these Pores (as a
+confirmation of what, in the Second Chapter, I have said of the Pores
+of the _Lignous Body_ in general) he also demonstrates; that they are
+all continuous and prolonged by the length of the _Trunk_; as are the
+greater ones; the Experiment whereof he imparteth to be, by filling up,
+suppose in a piece of _Char-coal_, all the said Pores with _Mercury_;
+which appears to pass quite through them, in that by a very good Glass it
+is visible in their Orifices at both ends; and without a Glass, by the
+weight of the Coal alone, is also manifest.
+
+Upon farther Enquiry, I likewise find, that the Pores of the _Lignous
+Body_ in the _Trunk_ of Plants, which at first only supposed, by the help
+of good Glasses are very fairly visible; each Fibre being perforated by
+30, 50, 100, or hundreds of Pores. Or what I think is the truest notion
+of them, that each Fibre, though it seem to the bare eye to be but one,
+yet is indeed a great number of Fibres together; every Pore being not
+meerly a space betwixt the several pores of the Wood, but the Concave
+of a Fiber: So that if it be asked, what all that part of a Vegetable,
+either Plant or Tree, which is properly call’d the woody part; what all
+that is, I suppose, that is nothing else but a Cluster of innumerable and
+most extraordinary small Vessels or concave Fibres. See _Fig. 15_.
+
+Next the Insertions of the _Cortical Body_, which in the _Trunk_ of
+a Tree saw’d athwart, are plainly discerned as they run from the
+Circumference toward the Center; the whole Body of the Tree being visibly
+compounded of two distinct Substances, that of the several Rings, and
+that of the Insertions, running cross; shewing that in some resemblance
+in a Plain, which the Lines of Latitude and of the Meridian do in a
+Globe. See _Fig. 16_.
+
+These Insertions are likewise very conspicuous in Sawing of Trees
+length-wayes into Boards, and those plain’d, and wrought into Leaves for
+Tables, Wainscot, Trenchers, and the like. In all which, as in course
+Trenchers made of _Beech_, and Tables of Oak, there are many parts which
+have a greater smoothness than the rest; and are so many inserted pieces
+of the _Cortical Body_; which by reason of those of the _Lignous_, seem
+to be discontinuous; although in the _Trunk_ they are extended throughout
+its Breadth.
+
+These Insertions, although as is said, of a quite distinct substance
+from the _Lignous Body_, and so no where truly incorporated with it, yet
+being they are in all parts, the one as the Warp, the other as the Woof,
+mutually braced and inter-woven together, they thus constitute one strong
+and firmly coherent Body.
+
+As the Pores are greater or less, so are the Insertions also: To the bare
+eye usually the greater only are discernable: But through an indifferent
+_Microscope_ there are others also, much more both numerous and small,
+distinctly apparent. So that, I think, we may observe, that as the grand
+_Pith_ of the _Trunk_ communicates with, and is augmented by the greater
+Insertions; so is the _Pith_ of each greater Pore originated from the
+less; and those (at least) pithy parts in the Midling Pores, from others
+still less; and suppose, that the least of all are so far intruded into
+the smallest Pores, as only just to cause a kind of roughness on their
+concave sides, and no more; to what end shall be said. See _Fig. 17_.
+
+In none of all these Pores can we observe any thing which may have the
+true nature and use of Valves, which is easily to admit that, to which
+they will by no means allow a regress. And their non-existence is enough
+evident, from what in the first Chapter we have said of the _Lobes_ of
+the _Seed_: in whose _Seminal Root_, were there any _Valves_, it could
+not be, that by a contrary course of the _Sap_, they should ever grow;
+which yet, where-ever they turn into Dissimilar Leaves, they do. Or if
+we consider the growth of the _Root_, which oftentimes is upward and
+downward both at once.
+
+The Insertions here in the _Trunk_ give us likewise a sight of the
+position of their Pores. For in a plained piece of Oak, as in Wainscot,
+Tables, _&c._ besides the larger Pores of the _Lignous Body_, which
+run by the length of the _Trunk_; the Tract likewise of those of the
+Insertions may be observed to be made by the breadth, and so directly
+cross. Nor are they continuous as those of the _Lignous Body_, but very
+short, as those both of the _Cortical Body_ and _Pith_, with which the
+Insertions, as to their substance are congenerous. Yet they all stand so
+together, as to be plainly ranked in even Lines or Rows throughout the
+breadth of the _Trunk_: As the Tract of these Pores appear to the naked
+Eye, see in _Fig. 18_. By the best Microscope I have at hand, I can only
+observe the Ranks of the Pores; not the Pores themselves, saving here and
+there one; wherefore I have not describ’d them.
+
+The Pores of the _Pith_ likewise being larger here in the _Trunk_, are
+better observable than in the _Root_: the width whereof, in comparison
+with their sides so exquisitely thin, may by an Honey-Comb be grosly
+exemplified; and is that also which the vast disproportion betwixt the
+Bulk and weight of a dry _Pith_ doth enough declare. In the _Trunks_ of
+some Plants, they are so ample and transparent, that in cutting both by
+the length and breadth of the _Pith_, some of them, even to the bare eye
+would seem to be considerably extended by the length of the said _Pith_;
+which once I also thought they were, and that only the rest of them were
+but short and discontinuous, and as ’tis said, somewhat answerable to
+the Cells of an Honey-Comb. This was the nearest we could come to them,
+by conjecture, and the assistance of the best Glasses we then had by us,
+when upon enquiry into the nature of the _Pith:_ But that Worthy Person
+newly mentioned Mr. _Hooke_ sheweth us, that the Pores of the _Pith_,
+particularly of _Elder-Pith_, so far as they are visible, are all alike
+discontinuous; and that the _Pith_ is nothing else (to use his own words)
+but an heap of Bubbles.
+
+Besides what this Observation informs us of here, it farther confirms
+what in the second Chapter we have said of the Original of the _Pith_
+and _Cortical Body_, and of the sameness of both their natures with the
+_Parenchyma_ of the Seed. For, upon farther enquiry with better Glasses,
+I find, that the _Parenchyma_ of the _Plume_ and _Radicle_, and even of
+the _Lobes_ themselves, though not so apparently, is nothing else but a
+Mass of Bubbles.
+
+In the _Piths_ of many Plants, the greater Pores have some of them lesser
+ones within them, and some of them are divided with cross Membranes: And
+betwixt their several sides, have, I think, other smaller Pores visibly
+interjected. However, that they are all permeable, is most certain. They
+stand together not indeterminately, but in even Ranks or Trains; as those
+of the Insertions by the breadth, so these by the length of the _Trunk_.
+And thus far there is a general corresponding betwixt the part of the
+_Root_ and _Trunk_: Yet are there some considerable Disparities betwixt
+them; wherein, and how they come to pass, and to what especial use and
+end, shall next be said.
+
+We say then, that the _Sap_ being in the _Root_ by Filtrations,
+Fermentations (and in what _Roots_ needful, perhaps by Circulation also)
+duly prepar’d; the prime part thereof passing through the intermediate
+Coarcture, in due moderation and purity is entertain’d at last into the
+_Trunk_. And the _Sap_ of the _Trunk_ being purer and more volatile, and
+so it self apt to ascend; the motion of the _Trunk_ likewise will be
+more noble, receiving a disposition and tendency to ascend therewith.
+And what by the _Sap_ the _Trunk_ is in part dispos’d to, by the
+respective position and quantity of its Parts it is effectually enabled.
+For whereas in the _Root_ the _Lignous Body_ being in proportion with
+the _Cortical_, but little, and all lying close within its Center; it
+must therefore needs be under its controul: on the contrary, being here
+comparatively of greater quantity, and also more dilated, and having
+divers of its Branches standing more abroad towards the Circumference, as
+both in the Leaves and Body of the young _Trunk_ and _Plume_, is seen;
+it will in its own tendency to ascend, reduce the _Cortical Body_ to a
+compliance with it.
+
+And the _Trunk_ thus standing from under the restraint of the Mould in
+the open Air, the disposition of its Parts originally different from
+that of the Parts in the Root will not only be continued, but improved:
+For by the force and pressure of the _Sap_ in its collateral Motion,
+the _Lignous Body_ will now more freely and farther be dilated. And
+this being dilated, the _Cortical Body_ also, must needs be inserted;
+and is therefore in proportion alwayes more or less smaller here in the
+_Trunk_, than in the _Root_. And as the _Cortical Body_ lessens, so the
+_Pith_ will be enlarged, and by the same proportion is here greater. And
+the _Pith_ being enlarged it self, its Pores (the _Lignous Body_, upon
+its dilatation, as it were tentering and stretching out all their sides)
+must needs likewise be enlarged with it, and accordingly are ever greater
+in the _Pith_ of the _Trunk_, than of the _Root_. And the dilatation of
+the _Lignous Body_ still continued, it follows, that whereas the _Pith_
+descendent in the _Root_, is not only in proportion less and less, but
+also in the smaller extremities thereof, and sometimes higher altogether
+absent: Contrariwise, in the _Trunk_ it is not only continued to its
+top, but also there in proportion equally ample with what it is in any
+other inferiour part.
+
+But although the openness of the Ayr permitting be alwayes alike; yet the
+Energy of the _Sap_ effecting; being different; as therefore that doth,
+the dilatation of the _Trunk_ will also vary. If that be less, so is
+this; as in the _Trunks_ of most Trees: If that be greater, so is this;
+as in Plants is common; the _Lignous Body_ being usually so far dilated,
+that the _utmost shootings_ thereof may easily be seen to jut out, and
+adjoyn to the Skin. And if the _Sap_ be still of greater energy, it so
+far dilates the _Lignous Body_, as not only to amplifie the _Pith_ and
+all its Pores; but also so far to stretch them out, as to make them tear.
+Whereupon either running again into the _Cortical Body_, or shrinking up
+towards it, the _Trunk_ thus sometimes becomes an _hollow Stalk_, the
+_Pith_ being wholly, or in part voyded. But generally it keeps entire;
+and where it doth, the same proportion and respect to the _Lignous_ and
+_Cortical Bodies_, as is said. The Consequences of all which will be,
+the strength of the _Trunk_, the security and plenty of the _Sap_, its
+Fermentation will be quicker, its Distribution more effectual, and its
+Advancement more sufficient.
+
+First, the erect growth and strength of the _Trunk_; this being by the
+position of its several parts effected: For besides the slendering of
+the _Trunk_ still towards the top, the Circumferential position of the
+_Lignous Body_ likewise is, and that eminently hereunto subservient: So
+that as the _Lignous Body_ in the smaller part of the _Root_ standing
+Central, we may thence conceive and see their pliableness to any
+oblique motion; so here, on the contrary, the _Lignous Body_ standing
+wide, it thus becomes the strength of the _Trunk_, and most advantageous
+to its perpendicular growth. We see the same Design in _Bones_ and
+_Feathers_: The strongest _Bones_, as those in the Legs, are hollow.
+Now should we suppose the same _Bone_ to be contracted into a Solid
+Body, although now it would be no heavier, and in that respect, as apt
+for motion; yet would it have far less strength, than as it is dilated
+to a Circumferential posture. And so for _Quills_, which, for the same
+Reasons, in subserviency to flight, we see how exceeding light they are,
+and yet, in comparison with the thinness of their Body, how very strong:
+We see it not only in Nature, but Art. For hence it is that _Joyners_
+and _Carpenters_ unite and set together their Timber-pieces and several
+Works oftentimes with double Joynts; which, although they are no thicker
+than a single one might be made, yet standing at a distance, have a
+greater strength than that could have. And the same Architecture will
+have the same use in the _Trunks_ of Plants, in most whereof ’tis very
+apparent; as for instance, in Corn: For Nature designing its _Sap_ a
+great Ascent for its higher maturity, hath given it a tall _Trunk_; but
+to prevent its ravenous despoiling either of the Ear or Soyl; although it
+be tall, yet are its sides but thin: and because again, it should grow
+not only tall and thriftily, but for avoiding propping up, strongly too;
+therefore, as its height is over-proportioned to the thinness of its
+sides, so is its Circumference also; being so far dilated as to parallel
+a _Quill_ it self. Besides the position of the _Lignous Body_ within the
+compass of a Ring, we see some shootings thereof often standing beyond
+the Circumference of the said Ring, making sometimes a triangular, oftner
+a quadrangular Body of the _Trunk_; to the end, that the Ring being but
+thin, and not self-sufficient, these, like Splinters to _Bones_, might
+add strength and stability to it.
+
+Next, the security and plenty of the _Sap_. For should the _Lignous
+Body_, as it doth in the _Root_, its smaller parts, stand Central here
+also, and so the _Cortical_ wholly surround it: the greater part of the
+_Sap_ would thus be more immediately expos’d to the Sun and ayr; and
+being lodg’d in a laxe Body, by them continually be prey’d upon, and
+as fast as supplied to the _Trunk_, be exhausted. Whereas the _Pith_
+standing in the Center, the _Sap_ therein being not only most remote
+from the Ayr and Sun, but by the _Barque_, and especially the _Wood_,
+being also surrounded and doubly immur’d, will very securely and
+copiously be conveyed to all the Collateral parts, and (as shall be said
+how) the top of the _Trunk_.
+
+And the _Sap_ by the amplitude, and great porosity of the _Pith_ being
+herein more copious, its Fermentation also will be quicker; which we see
+in all Liquors by standing in a greater quantity together, proceeds more
+kindly: And being tunn’d up within the _Wood_, is at the same time not
+only secur’d from loss, but all extream mutations, the Day being thus not
+too hot, nor the Night too cold for it.
+
+And the Fermentation hereof being quicker, its motion also will be
+stronger, and its distribution more effectual, not only to the
+dilatation of the _Trunk_, but likewise the shooting out of the Branches.
+Whence it is, that in the Bodies of Trees, the _Barque_ of it self,
+though it be sappy, and many Fibres of the _Lignous Body_ mixed with it,
+yet seldom sendeth forth any; and that in Plants, those with the least
+_Pith_ (other advantages not supplying this defect) have the fewest or
+smallest Branches, or other collateral Growths: and that _Corn_, which
+hath no _Pith_, hath neither any Branches.
+
+Lastly, the Advancement of the _Sap_ will hence also be more ready and
+sufficient. For the understanding where, and how, we suppose that in all
+_Trunks_ whatsoever there are two parts joyntly hereunto subservient.
+In some the _Lignous Body_ and the _Cortical_, as in older _Trunks_,
+the _Pith_ being either excluded or dried: But in most, principally
+the _Lignous Body_ and _Pith_; as in most Annual Growths of Trees; but
+especially Plants, where the _Cortical Body_ is usually much and often
+wholly inserted.
+
+Of the _Lignous_ body it is so apparent by its Pores, or rather by its
+Vessels, that we need no farther evidence. For to what end are Vessels
+but for the conveyance of Liquor? And is that also, which upon cutting
+the young Branch of a Sappy Tree or Plant, by an accurate and steady view
+may be observed. But when I say the Pores of the _Lignous Body_, I mean
+principally them of the younger shootings, both those which make the new
+Ring, and those which are mixed with the _Cortical Body_ in the _Barque_:
+that which ascendeth by the Pores of the older Wood, being probably,
+because in less quantity, more in form of a Vapour, than a Liquor. Yet
+that which drenching into the sides of its Pores, is with all thereunto
+sufficient Aliment; as we see _Orpine_, _Onions_, &c. only standing in
+a moyster Ayr will often grow; And being likewise in part supplied by
+the Insertions from the younger Shoots: But especially, because as it
+is but little, so it serveth only for the growth of the said _Older
+Wood_, and no more; whereas the more copious Aliment ascendent by the
+younger Shoots, subserves not only their own growth, but the generation
+of others; and is besides with that in the _Cortical Body_ the Fountain
+of _Perspirations_, which we know even in Animals are much more abundant
+than the _Nutritive parts_; and doubtless in a _Vegetable_ are still much
+more.
+
+But these Pores, although they are a free and open way to the ascending
+_Sap_; yet that meer Pores or Vessels should be able of themselves
+to advance the _Sap_ with that speed, strength & plenty, and to that
+height, as is necessary, cannot probably be supposed. It follows then,
+that herein we must grant the _Pith_ a joynt service. And why else in
+the smaller parts of the _Root_, where the _Pith_ is often wanting, are
+the Pores there greater? Why is the _Pith_ in all primitive growths the
+most _Sappy_ part, why hath it so great a stock of _Sap_, if not after
+due maturation within it self still to be disbursed into the Fibres of
+the _Lignous Body_? Why are the annual growths of all both Plants and
+Trees with great Piths, the quickest and the longest? But how are the
+Pores of the _Pith_ permeable? That they are so, both from their being
+capable of a repletion with _Sap_, and of being again wholly emptied of
+it, and again, instead thereof fill’d with Ayr, is as certain as that
+they are Pores. That they are permeable, by the breadth, appears from the
+dilatation of the _Lignous Body_, and from the production of Branches,
+as hath been, and shall hereafter be said. And how else is there a
+Communion betwixt this and the _Cortical Body_? That they are so also,
+by the length, is probable, because by the best _Microscope_ we cannot
+yet observ, that they are visibly more open by the breadth, than by the
+length. And withal are ranked by the length, as those of the Insertions
+by the breadth of the _Trunk_. But if you set a piece of dry _Elder-Pith_
+in some tinged Liquor, why then doth it not penetrate the Pores, so as
+to ascend through the Body of the _Pith_? The plain reason is, because
+they are all fill’d with Ayr. Whereas the _Pith_ in a Vegetating Plant,
+as its Parts or Pores are still generated, they are at the same time
+also fill’d with _Sap_; which, as ’tis gradually spent, is still repair’d
+by more succeeding, and so the Ayr still kept out; as in all primitive
+growths, and the _Pith_ of _Elder_ it self: Yet the same _Pith_, by
+reason of the following Winter, wanting a more copious and quick supply
+of _Sap_, thus once become, ever after keeps dry. And since in the
+aforesaid Trial the Liquor only ascends by the sides of the _Pith_, that
+is of its broken Pores, we should thence by the same reason conclude that
+they are not penetrable by the breadth neither, and so no way; and then
+it need not be ask’d what would follow. But certainly the _Sap_ in the
+Pores of the _Pith_ is discharged and repaired every moment, as by its
+shriv’ling up; upon cutting the Plant is evident.
+
+We suppose then, that as the _Sap_ ascendeth into the _Trunk_ by the
+_Lignous Body_, so partly also by the _Pith_. For a piece of _Cotton_
+with one end immers’d in some tinged Liquor, and with the other erect
+above, though it will not imbibe the Liquor so far as to over-run at
+the top, yet so as to advance towards it, it will; so here, the _Pith_
+being a porous and spongy Body, and in its Vegetating state its Pores
+also permeable, as a curious Filtre of Natures own contrivance, it thus
+advanceth, or as people use to say, sucks up the _Sap_. Yet as it is seen
+of the Liquor in the Cotton; so likewise are we to suppose it of the
+_Sap_ in the _Pith_; that though it riseth up for some way, yet is their
+some term, beyond which it riseth not, and towards which the motion of
+the ascending _Sap_ is more and more broken, weak and slow, and so the
+quantity thereof less and less. But because the _Sap_ moveth not only
+by the length, but breadth of the _Pith_; at the same time therefore
+as it partly ascendeth by the _Pith_, it is likewise in part pressed
+into the _Lignous Body_ or into its Pores. And since the motion of the
+_Sap_ by the breadth of the _Pith_ not being far continued, and but
+collateral, is more prone and easie than the perpendicular, or by its
+length; it therefore follows, that the collateral motion of the _Sap_,
+at such a height or part of the _Pith_, will be equally strong with the
+perpendicular at another part, though somewhat beneath it; and that
+where the perpendicular is more broken and weak, the collateral will be
+less; and consequently where the perpendicular tendency of the _Sap_
+hath its term, the collateral tendency thereof, and so its pressure into
+the Pores of the _Lignous Body_ will still continue. Through which, in
+that they are small, and so their sides almost contiguous, the _Sap_
+as fast as pressed into them will easily run up; as betwixt the two
+halves of a Stick first slit, and then tied somewhat loosely together,
+may also any Liquor be observed to do. And the sides of the said Pores
+being not smooth, but by the intrusion of the smallest insertions made
+somewhat rough; by that means the higher and more facile ascent of the
+_Sap_ therein will farther be promoted. By all which Advantages the
+facility and strength of that ascent will be continued higher in the said
+Pores than in the _Pith_. Yet since this also, as well as that in the
+_Pith_ will have its term; the _Sap_, although got thus far, would yet
+at last be stagnant, or at least its ascent be very sparing, slow and
+feeble, if not some way or other re-inforced. Wherefore, as the _Sap_
+moving by the breadth of the _Pith_, presseth thence into the Pores of
+the _Lignous Body_; so having well fill’d these, is in part by the same
+Collateral motion disbursed back into a yet higher Region of the _Pith_.
+By which partly, and partly by that portion of the _Sap_, which in its
+perpendicular ascent was before lodged therein; ’tis thus here, as in any
+inferiour place equally repleat. Whereupon the force and vigour of the
+perpendicular motion of the _Sap_ herein will likewise be renew’d; and
+so its Collateral motion also, and so its pressure into the Pores of the
+_Lignous Body_, and consequently its ascent therein; and so by a pressure
+from these into the _Pith_, and from the _Pith_ into these reciprocally
+carried on, a most ready and copious ascent of the _Sap_ will be
+continued from the bottom to the top, though of the highest _Trunk_.
+
+
+
+
+_An Appendix._
+
+_Of Trunk-Roots and Claspers._
+
+
+The distinct Parts whereof these are constituted, are the same with those
+of the _Trunk_, and but the continuation of them.
+
+_Trunk-Roots_ are of two kinds: Of the one, are those that vegetate by a
+direct descent: The place of their Eruption is sometimes all along the
+_Trunk_; as in _Mint_, &c. Sometimes only at its utmost point, as in the
+_Bramble_.
+
+The other sort are such as neither ascend nor descend, but shoot forth
+at right Angles with the _Trunk_; which therefore, though as to their
+Office, they are true _Roots_, yet as to their Nature, they area _Middle
+thing_ betwixt a _Root_ and a _Trunk_.
+
+_Claspers_, though they are but of one kind, yet their nature is double;
+not a mean betwixt that of the _Root_ and that of the _Trunk_, but
+a compound of both; as in their Circumvolutions, wherein they often
+mutually ascend and descend, is seen.
+
+The use of these Parts may be observed as the _Trunk_ mounts, or as it
+trails. In the mounting of the _Trunk_, they are for support and supply:
+For support, we see the _Claspers_ of _Vines_; the Branches whereof being
+very long, fragile and slender, unless by their _Claspers_ they were
+mutually contain’d together, they must needs by their own weight, and
+that of their Fruit, undecently fall, and be also liable to frequent
+breaking. So that the whole care is divided betwixt the Gardener and
+Nature; the Gardener with his Ligaments of Leather secures the main
+Branches; and Nature with these of her own finding, secures the less.
+Their Conveniency to which end, is seen in their Circumvolutions, a
+motion not proper to any other Part: As also in their toughness or
+strength, though much more slender than the Branches whereon they are
+appendent.
+
+For Supply, we see the _Trunk-Roots_ of _Ivy_: For mounting very high,
+and being of a closer Constitution than that of a _Vine_, the _Sap_
+could not be sufficiently supplied to the upper Sprouts, unless these
+to the _Mother-Root_ were joyntly assistant. Yet serve they for support
+likewise; whence they shoot out, not as in _Cresses_, _Brook-lime_, &c.
+reciprocally on each side, but commonly all in one; that so they may be
+fastened at the nearest hand.
+
+In the Trailing of the _Trunk_, they serve for stabiliment, propagation
+and shade. For stabiliment, we see the _Claspers_ of _Cucumbers_: For
+the _Trunk_ and _Branches_ being long and fragile, the Brushes of the
+Winds would injuriously hoise them to and fro, to the dammage both of
+themselves and their tender Fruit, were they not by these Ligaments
+brought to good Association and Settlement.
+
+As for this end, so for Propagation, we see the _Trunk-Roots_ of
+_Camomile_. Whence we have the reason of the common observation, that it
+grows better by being trod upon: the Mould, where too laxe, being thus
+made to lie more conveniently about the said _Trunk-Roots_ newly bedded
+therein; and is that which we see also effected in Rowling of _Corn_.
+
+For both these ends, we see the _Trunk-Roots_ of _Strawberries_; as
+also for shade; for in that we see all _Strawberries_ delight; and by
+the trailing of the Plant is well obtain’d: So that as we are wont to
+tangle the Twigs of Trees together to make an _Arbour Artificial_; the
+same is here done to make a _Natural one_; as likewise by the _Claspers_
+of _Cucumbers_: For the Branches of the one by the Linking of their
+_Claspers_, and of the other by the Tethering of their _Trunk-Roots_,
+being couched together; their tender fruits thus lie under the Umbrage of
+a _Bower_ made of their own Leaves.
+
+
+
+
+CHAP. IV.
+
+_Of the Germen, Branch, and Leaf._
+
+
+The Parts of the _Germen_ and _Branch_, are the same with those of the
+_Trunk_; the same _Skin_, _Cortical_ and _Lignous Bodies_, _Insertment_
+and _Pith_, hereinto propagated, and distinctly observable herein.
+
+For upon Enquiry into the Original of a _Branch_ or _Germen_, it appears,
+That it is not from the _Superficies_ of the _Trunk_, but so deep, as to
+take with the _Cortical_, the _Lignous Body_ into it self; and that not
+only from its Circumference, but (so as to take the _Pith_ in also) from
+its _Inner_ or _Central parts_. Divers whereof may commonly be seen to
+shoot out into the _Pith_; from which _Shoots_ the surrounding and more
+superiour _Germens_ are originated; in like manner as the _Lignous Body_
+of the _Trunk_ is sometimes principally from those Fibrous _Shoots_ which
+run along the _Pith_ in the _Root_.
+
+The manner wherein usually the _Germen_ and _Branch_ are fram’d, is
+briefly thus: The _Sap_ (as is said, _Chap. 3._) mounting in the
+_Trunk_, will not only by its length, but by its breadth also, through
+the _Insertions_ partly move. Yet, its Particles being not all alike
+qualified, in different degrees: Some are more gross and sluggish;
+of which we have the formation of a Circle of Wood only; or of an
+Annual Ring: Others are more brisk; and by these we have the _Germen_
+propagated. For by the vigour of their own motion from the Center, they
+impress an equal tendency on some of the inner parts of the _Lignous
+Body_ next adjacent to the _Pith_, to move with them. And since the
+_Lignous Body_ is not entire, but frequently disparted; through these
+dispartments, the said interiour Parts, upon their Nutrition, actually
+shoot; not only towards the Circumference, so as to make part of a Ring,
+but even beyond it, in order to the production of a _Germen_. And the
+_Lignous Body_ thus moving, and carrying the _Cortical_ along with it;
+they both make a force upon the _Skin_: Yet their motion being most even
+and gradual, that force is such likewise; not to cause the least breach
+of its parts, but gently to carry it on with themselves; and so partly
+by the extension of its already existent parts, as of those of Gold in
+drawing of Guilded Wyer; and partly by the accretion of new ones, as in
+the enlarging of a Bubble above the Surface of the Water, it is extended
+with them to their utmost growth. In which growth, the _Germen_ being
+prolonged, and so displaying its several parts, as when a _Prospective_
+or _Telescope_ is drawn out, thus becomes a _Branch_.
+
+The same way as the propagation of the Parts of a _Germen_ is contriv’d
+is its due nutrition also: For being originated from the inner part of
+the _Lignous Body_, ’tis nourished with the best fermented _Sap_ in
+the _Trunk_, _sc._ that next adjacent to it in the _Pith_. Besides,
+since all its Parts, upon their shooting forth, divaricate from their
+perpendicular, to a cross Line, as these and the other grow and thrive
+together, bind and throng each other into a Knot; through which Knot the
+_Sap_ being strain’d, ’tis thus in due moderation & purity delivered up
+into the Branch.
+
+And for Knots, they are so necessary, as to be seen not only where
+collateral Branches put forth; but in such Plants also as shoot up in
+one single _Trunk_; as in _Corn_; wherein, as they make for the strength
+of the _Trunk_; so by so many percolations as they are Knots, for the
+transmission of the _Sap_ more and more refined towards the Ear. So that
+the two general uses of Knots are for firmer standing, and finer growth.
+
+Lastly, as the due Formation and Nutrition of the _Germen_ are provided
+for, so is its security also; which both in its position upon the
+_Trunk_, and that of its Parts among themselves may be observed. The
+position of its Parts shall be considered in speaking of the Leaf. As to
+its standing in the _trunk_, ’tis alwayes betwixt the _trunk_ or _Elder
+Branch_, and the _Basis_ of the Stalk of the _Leaf_; whereby it is not
+only guarded from the Injuries of any contingent Violence, but also from
+the more piercing assaults of the Cold, so long till in time ’tis grown,
+as larger, so more hardy. The manner and uses of the position of every
+_Germen_, considered as after it becomes a _Branch_, hath already been by
+the Ingenious Mr. _Sharrock_ very well observed; to whom I refer.
+
+Upon the prolongation of the _Germen_ into a _Branch_, its _Leaves_
+are thus display’d. The Parts whereof are substantially the same with
+those of a _Branch_: For the Skin of the Leaf is only the ampliation of
+that of the _Branch_; being partly by the accretion of new, & partly
+the extention of its already existent parts (dilated as in making of
+_Leaf-Gold_) into its present breadth. The Fibres or Nerves dispersed
+through the Leaf, are only the Ramifications of the _Branch_’s Wood,
+or _Lignous Body_. The _Parenchyma_ of the Leaf which lies betwixt the
+Nerves, and as in Gentlewomens Needle-works, fills all up, is nothing
+else but the continuations of the _Cortical Body_, or inner part of the
+_Barque_ from the _Branch_ into it self, as in most Plants with a fat
+Leaf, may easily be seen.
+
+The Fibres of the _Leaf_ neither shoot out of the _Branch_ nor _Trunk_,
+nor stand in the _Stalk_, in an even Line; but alwayes in either an
+Angular or Circular posture, and usually making either a Triangle, or a
+Semi-Circle, or Cord of a Circle; as in _Cycory_, _Endive_, _Cabbage_,
+&c. may be observed: And if the Leaf have but one main Nerve, that also
+is postur’d in a Circular or Lunar Figure; as in _Mint_ and others. The
+usual number of these Nerves or Fibres is 3, 5, or 7. See the _Figures_
+from 20, to 29.
+
+The reason of the said Positions of the Fibres in the _Stalk_ of the
+_Leaf_, is for its more erect growth, and greater strength; which, were
+the position of the said Fibres in an even Line, and so the Stalk it
+self, as well as the Leaf flat, must needs have been defective; as from
+what we have said of the Circumferential posture of the _Lignous Body_ in
+the _Trunk_, we may better conceive.
+
+As likewise for the security of its _Sap_: For by this means it is, that
+the several Fibres, and especially the main or middle Fibre of the Leaf,
+together with a considerable part of the _Cortical Body_, are so disposed
+of, as to jut out, not from its upper, but its back, or nether plain.
+Whence the whole Leaf, reclining backward, becomes a Canopy to them,
+defending them from those Injuries which from colder Blasts, or an hotter
+Sun, they might otherwise sustain. So that by a mutual benefit, as these
+give suck to all the Leaf, so that again protection to these.
+
+These Fibres are likewise the immediate visible Cause of the shape of the
+Leaf: For if the nethermost Fibre or Fibres in the Stalk be in proportion
+greater, the Leaf is long, as in _Endive_, _Cycory_, and others: If all
+of a more equal size, it spreads rounder, as in _Ivy_, _Doves-foot_,
+_Colts foot_, &c. And although a _Dock-Leaf_ be very long, whose Fibres
+notwithstanding, as they stand higher in the Stalk, are disposed into a
+Circle all of an equal size; yet herein a peculiar fibre, standing in the
+Center betwixt the rest, and running through the length of the Leaf, may
+be observed.
+
+In correspondence also to the size and shape of these Fibres, is the Leaf
+flat: In that either they are very small, or if larger, yet they never
+make an entire Circle or Ring; but either half of one, as in _Borage_, or
+at most three parts of one, as in _Mullen_, may be seen. For if either
+they were so big, as to contain; or so entire, as perfectly to include
+a _Pith_, the Energy of the _Sap_ in that _Pith_, would cause the said
+_Lignous Ring_ to shoot forth on every side, as it doth in the _Root_ or
+_Trunk_: But the said Fibres being not figur’d into an entire Ring, but
+so as to be open; on that hand therefore where open, they cannot shoot
+any thing directly from themselves, because there they have nothing to
+shoot; and the _Sap_ having also a free vent through the said opening,
+against that part therefore which is thereunto opposite, it can have no
+force; and so neither will they shoot forth on that hand; and so will
+they consequently that way only which the force of the _Sap_ directs,
+which is only on the right and left.
+
+The several Fibres in the Stalk, are all inosculated in the Leaf, with
+very many Sub-divisions; according as these Fibres are inosculated
+near, or at, or shoot directly to the edge of the Leaf, is it even or
+scallop’d. Where these Inosculations are not made, there we have no
+_Leaves_, but only a company of _Ramulets_, as in _Fennel_.
+
+The Formations and Fouldings of Leaves have one Date, or are the
+contemporary works of Nature; each Leaf obtaining its distinct shape,
+and proper posture together; both being perfect, not only in the outer,
+but Central and minutest Leaves, which sometimes are five hundred times
+smaller than the outer; both which in the Cautious opening of a _Germen_
+may be seen.
+
+Nor is there greater Art in the Forms, than in the Foulds or Postures
+of _Leaves_; both answerably varying, as this or that way they may be
+most agreeable. Of the _Quincuncial_ posture, so amply instanc’d in by
+the Learned Dr. _Brown_, I shall omit to speak. Others there are, which
+though not all so universal, yet equally necessary where they are; giving
+two general advantages to the Leaves, Elegancy and Security, _sc._ in
+taking up, so far as their Forms will bear, the least room; and in being
+so conveniently couch’d, as to be capable of receiving protection from
+other parts, or of giving it to one another; as for instance,
+
+First, There is the _Plain-Lap_, where the Leaves are all laid
+somewhat convexly one over another, but not plaited; being to the
+lengthy, breadth and number of Leaves most agreeable; as in the Buds
+of _Pear-tree_, _Plum-tree_, &c. But where the Leaves are not thick
+set, as to stand in the _Plain-lap_, there we have the _Plicature_;
+as in _Rose-tree_, _Strawberry_, _Cinquefoyl_, _Burnet_, &c. For the
+Leaves being here plaited, and so lying in half their breadth, and
+divers of them thus also collaterally set together, the thickness of
+them all, and half their breadth, are much alike dimensions; by which
+they stand more secure within themselves, and in better consort with
+other _Germen-Growths_ in the same Truss. If the Leaves be much indented
+or jagg’d, now we have the same Duplicature; where there are divers
+Plaits in the same Leaf, or Labels of a Leaf, but in distinct Sets, a
+lesser under a greater; as in _Tansey_, &c. When the Leaves stand not
+collaterally, but single, and that they are moreover very broad; then
+we have the _Multiplicature_; as in _Gooseberries_, _Mallows_, &c. the
+Plaits being not only divers in the same Leaf, but of the same set
+continuant, and so each Leaf gather’d up in five, seven, or more Foulds,
+in the same manner as our Gentlewomens Fans: Where either the thickness
+of the Leaf will not permit a _flat lap_, or the fewness of their
+number, or the smallness of their Fibres, will allow the _Rowl_, there
+this may be observed; which is sometimes single, as in _Bears-Ears_;
+sometimes double, the two _Rowls_ beginning at each edge of the Leaf,
+and meeting in the middle. Which again, is either the _Fore-Rowl_, or
+the _Back-Rowl_. If the Leaf be design’d to grow long, now we have the
+_Back-Rowl_, as in _Docks_, _Primroses_, &c. For the main Fibres, and
+that with a considerable part of the _Cortical Body_ standing prominent
+from the _Back-plain_ of the Leaf, they thus stand securely couch’d up
+betwixt the two _Rowls_; on whose security the growth of the Leaf in
+length depends. But _Bears-Ears_, _Violets_, &c. upon contrary respects,
+are rowled up inwards. Lastly, there is the _Tre-Rowl_, as in _Fern_;
+the _Labels_ whereof, though all rowled up to the _main Stem_, yet could
+not stand so firm and secure from the Injuries either of the Ground
+or Weather, unless to the _Rowls_ in breadth, that by the length were
+super-induc’d; the _Stalk_ or _main Stem_ giving the same protection
+here, which in other Plants by the Leaves, or some particular _Mantling_,
+is contriv’d.
+
+For according to the Form and Foulding of every Leaf or _Germen_, is its
+protection order’d; about six wayes whereof may be observ’d; _sc._ by
+_Leaves_, _Surfoyles_, _Interfoyles_, _Stalks_, _Hoods_ and _Mantlings_.
+To add to what we have above given, one or two Instances. Every Bud,
+besides its proper Leaves, is covered with divers Leafy _Pannicles_ or
+_Surfoyls_; which, what the Leaves are to one another, are that to them
+all: For not opening except gradually, they admit not the Weather, Wet,
+Sun or Ayr, to approach the Leaves, except by degrees respondent, and as
+they are leisurely inur’d to bear them. Sometimes, besides _Surfoyls_,
+there are also many _Interfoyls_ set betwixt the Leaves, from the
+Circumference to the Center of the _Bud_; as in the _Hasel_: For the
+Fibres of these Leaves standing out so far from a plain surface; they
+would, if not thus shelter’d, lie too much expos’d and naked to the
+Severities of the Weather. Where none of all the Protections above-named,
+are convenient, there the Membranes of the Leaves by continuation in
+their first forming (together with some Fibres of the _Lignous Body_) are
+drawn out into so many _Mantles_ or _Veins_; as in _Docks_, _Snakeweed_,
+&c. For the Leaves here being but few, yet each Leaf and its Stalk being
+both exceeding long, at the bottom whereof the next following Leaf still
+springs up; the form and posture of all is such, as supersedes all the
+other kinds of protection, and so each Leaf apart is provided with a Veil
+to it self.
+
+The Uses of the Leaves, I mean in respect of their service to the Plant
+it self, are these; first, for Protection, which, besides what they give
+to one another, they afford also to the _Flower_ and _Fruit_: To the
+_Flower_ in their Foulds; that being, for the most part, born and usher’d
+into the open Ayr by the _Leaves_. To the _Fruit_, when afterwards they
+are display’d, as in _Strawberries_, _Grapes_, _Rasps_, _Mulberries_,
+&c. On which, and the like, should the Sun-Beams immediately strike,
+especially while they are young, they would quite shrivel them up;
+but being by the Leaves screened off, they impress the circumjacent
+Ayr so far only as gently to warm the said Fruits, and so to promote
+their Fermentation and Growth. And accordingly we see, that the Leaves
+above-named are exceeding large in proportion to the _Fruits_: whereas
+in _Pear-trees_, _Apple-trees_, &c. the _Fruit_ being of a solider
+_Parenchyma_, and so not needing the like protection, are usually equal
+with, and often wider in Diameter than the _Leaves_.
+
+Another use is for Augmentation; or, the capacity for the due spreading
+and ampliation of a Tree or Plant, are its Leaves: For the _Lignous
+Body_ being divided into small Fibres, and these running all along their
+lax and spongie _Parenchyma_; they are thus a Body fit for the imbibition
+of _Sap_ and easie growth. Now the _Sap_ having a free reception into the
+Leaves, it still gives way to the next succeeding in the _Branches_ and
+_Trunk_, and the voyding of the _Sap_ in these, for the mounting of that
+in the _Root_, and ingress of that in the Mould. But were there no Leaves
+to make a free reception of _Sap_, it must needs be stagnant in all the
+parts to the _Root_, and so the _Root_ being clogg’d, its fermenting and
+other Offices will be voyded, and so the due growth of the whole. As in
+the motion of a Watch, although the original term thereof be the Spring,
+yet the capacity for its continuance in a due measure throughout all the
+Wheels, is the free and easie motion of the Ballance.
+
+Lastly, As the Leaves subserve the more copious advancement, so the
+higher purity of the _Sap_: For this being well fermented both in the
+Root, and in its Ascent through the _Trunk_, and so its Parts prepar’d
+to a farther separation; the grosser ones are still deposited into the
+Leaves; the more elaborate and essential only thus supplied to the
+_Flower_, _Fruit_ and _Seed_, as their convenient Aliment. Whence it
+is, that where the _Flowers_ are many and large, into which the more
+odorous Particles are copiously receiv’d, the green Leaves have little
+or no smell; as those of _Rose-tree_, _Carnations_, _French-Marigold_,
+_Wood-bind_, _Tulips_; &c. But on the contrary, where the Flowers are
+none or small, the green Leaves themselves are likewise of a strong
+savour; as those of _Wormwood_, _Tansie_, _Baum_, _Mint_, _Rue_,
+_Geranium Moschatum_, _Angelica_, and others.
+
+
+
+
+_An Appendix._
+
+_Of Thorns, Hairs and Globulets._
+
+
+_Thorns_ are of two kinds, _Lignous_ and _Cortical_. Of the first are
+such as those of the _Hawthorn_, and are constituted of all the same
+substantial Parts whereof the _Germen_ it self, and in a like proportion:
+which also in their Infancy are set with the resemblances of divers
+minute Leaves. In affinity with these are the _Spinets_ or _Thorny
+Prickles_ upon the Verges and Tops of divers Leaves, as of _Barberry_,
+_Holly_, _Thistle_, _Furze_, and others; all which I think are the
+filamentous extremities of the _Lignous Body_ sheathed in the _Skin_.
+
+_Cortical Thorns_ are such as those of the _Rasberry_ Bush, being not,
+unless in a most extraordinary small proportion propagated from the
+_Lignous Body_, but almost wholly from the _Cortical_ and _Skin_, or from
+the _Barque_.
+
+The growth of this _Thorn_ may farther argue what in the Second Chapter
+we supposed; _sc._ That as the proper tendency of the _Lignous Body_, is
+to ascend, so of the _Cortical_ to descend. For as the _Lignous Thorn_,
+like other Parts upon the _Trunk_, in its growth ascends; this being
+almost wholly _Cortical_, pointeth downward. The use of _Thorns_ the very
+Ingenious Mr. _Sharrock_ observed.
+
+Upon the Leaves of divers Plants two Productions shew themselves, _sc._
+_Hairs_ and _Globulets_. Of _Hairs_, only one kind is taken notice of,
+although they are various. Ordinarily they are plain; which when fine and
+thick set, as on most _Hairy Buds_; or fine and long, as on those of the
+_Vine_, we call them _Down_.
+
+But sometimes they are not plain, but branched out, from the bottom
+to the top, reciprocally on every side, in some resemblance to a
+_Stags-Horn_; as in _Mullen_. And sometimes they are _Astral_, as upon
+_Lavender_, and some other Leaves, and especially those of _Wild Olive_;
+wherein every _Hair_ rising in one round entire Basis a little way above
+the Surface of the Leaf, is then disparted. Star-like, into several,
+four, five or six points, all standing at right Angles with the said
+perpendicular Basis.
+
+The Uses of Hairs are for Distinction and Protection. That of Distinction
+is but secondary, the Leaves being grown to a considerable size. That of
+Protection is the prime, for which they were originally form’d together
+with the Leaves themselves, and whose service they enjoy in their
+Infant-estate: For the _Hairs_ being then in form of a _Down_, alwayes
+very thick set, thus give that protection to the Leaves, which their
+exceeding tenderness then requires; so that they seem to be vested with a
+Coat of _Frieze_, or to be kept warm, like young and dainty Chickens, in
+Wooll.
+
+_Globulets_ are seen upon _Orach_, both Garden and wild; and yet more
+plainly on _Mercury_ or _Bonus Henricus_. In these, growing almost upon
+the whole Plant, and being very large, they are by all taken notice of.
+
+But strict Observation discovers, that these _Globulets_ are the
+natural and constant Off-spring of very many other Plants. Both these
+_Globulets_, and likewise the diversity of _Hairs_, I find the Learned
+Mr. _Hook_ hath already observed. They are of two kinds; _Transparent_,
+as upon the Leaves of _Hysop_, _Mint_, _Baume_, and many more: _White_,
+as upon those of _Germander_, _Sage_, and others. All which, though
+the naked Eye will discover, yet by the help of Glasses we may observe
+most distinctly. The use of these we suppose the same with those of the
+_Flower_, whereof we shall speak.
+
+
+
+
+CHAP. V.
+
+_Of the Flower._
+
+
+We next proceed to the _Flower_. The general Parts whereof are most
+commonly three; _sc._ the _Empalement_, the _Foliation_, and the _Attire_.
+
+The _Empalement_, whether of one or more pieces, I call that which is the
+utmost part of the _Flower_, encompassing the other two. ’Tis compounded
+of the three general Parts, the _Skin_, the _Cortical_ and _Lignous
+Bodies_; each _Empaler_ (where there are divers) being as another little
+Leaf; as in those of a _Quince-Flower_, as oft as they happen to be
+overgrown, is well seen. As likewise in the _Primrose_, with the green
+Flower, commonly so call’d, though by a mistake; for that which seems to
+be the _Flower_, is only the more flourishing _Empalement_, the _Flower_
+it self being white; but the continuation of all the three aforesaid
+Parts into each _Empaler_, is discoverable, I think, no where better than
+in an _Artichoke_, which is a true _Flower_, and whose _Empalers_ are of
+that amplitude, as fairly to shew them all: As also, that the Original of
+the _Skin_ of each _Empaler_ is not distinct from that of the rest; but
+to be all one piece, laid in so many Plaits or Duplicatures as there are
+_Empalers_, from the outermost to the inner and most central ones.
+
+The Design of the _Empalement_, is to be security and Bands to the other
+two Parts of the _Flower_: To be their security before its opening, by
+intercepting all extremities of Weather: Afterwards to be their Bands,
+and firmly to contain all their Parts in their due and most decorous
+posture; so that a _Flower_ without its _Empalement_, would hang as
+uncouth and taudry as a _Lady_ without her _Bodies_.
+
+Hence we have the reason why it is various, and sometimes wanting. Some
+_Flowers_ have none, as _Tulips_; for having a fat and firm Leaf, and
+each Leaf likewise standing on a broad and strong Basis, they are thus
+sufficient to themselves. _Carnations_, on the contrary, have not only an
+_Empalement_, but that (for more firmitude) of one piece: For otherwise,
+the foot of each Leaf being very long and slender, most of them would
+be apt to break out of compass; yet is the top of the _Impalement_
+indented also; that the Indentments, by being lapp’d over the Leaves
+before their expansion, may then protect them; and by being spred under
+them afterwards, may better shoulder and prop them up. And if the feet
+of the Leaves be both long and very tender too, here the _Empalement_
+is numerous, though consisting of several pieces; yet those in divers
+Rounds, and all with a counterchangeable respect to each other (which
+also the Learned Dr. _Brown_ observes) as in all _Knapweeds_, and other
+_Flowers_; whereby, how commodious they are for both the aforesaid ends,
+may easily be conceiv’d; and well enough exemplified by the Scales
+of Fishes, whereunto, as to their position, they have not an unapt
+resemblance.
+
+The _Foliation_ also, is of the same substantial nature with the green
+Leaf; the _Membrane_, _Pulp_, and _Fibres_ whereof, being, as there, so
+here, but the continuation of the _Skin_, the _Cortical_ and _Lignous
+Bodies_.
+
+The Foulds of the _Flower_ or _Foliation_ are various, as those of the
+green Leaf; but some of them different. The most general are, First,
+The _Plain Couch_, as in _Roses_, and many other double _Flowers_.
+then the _Concave Couch_ as in _Blattaria flore albo_. Next the
+_Plait_, as in some of the Leaves of _Pease-Blooms_, in the Flowers of
+_Coriander_, &c. which is either single, as in those nam’d; or double,
+as in _Blew-Bottle_, _Jacea_, and more of that rank. Next, the _Couch_
+and _Plait_ together in the same Flower, as in _Marigolds_, _Daisies_,
+and all others of an agreeing form: where the first apparent Fould or
+Composture of the Leaves is in _Couch_; but the Leaves being erect, each
+likewise may be seen to lie in a double _Plait_ within it self. Then the
+_Rowl_, as in the _Flowers_ of _Ladies-Bower_, the broad top of each
+Leaf being by a double _Rowl_ foulded up inwardly. Next, the _Spire_,
+which it the beginning of a _Rowl_; and may be seen in the Flowers of
+_Mallows_, and others. Lastly, the _Plait_ and _Spire_ together, where
+the part analogous to the _Foliation_, is of one piece, the _Plaits_
+being here laid, and so carried on by Spiral Lines to the top of the
+_Flower_, as is in divers, and I think in _Convolvulus Doronici folio_
+more elegantly seen. The reason of all which varieties, a comparative
+consideration of the several parts of the _Flower_ may suggest. Ile only
+mention, that no _Flower_ that I find, hath a _Back-Rowl_, as hath the
+green Leaf, for two Reasons; because its Leaves have not their Fibres
+standing out much on their backside, as the green Leaves have; and
+because of its Attire, which it ever embosomes, and cannot so well do it
+by a _Back-Rowl_.
+
+The usual Protections of _Flowers_ by the Precedents are express’d,
+_sc._ _Green Leaves_ and _Empalements_. Some have another more peculiar,
+that is a _double Vail_; as the _Spring-Crocus_. For having no
+_Empalement_, and starting up early out of the Mould, even before its
+_Green Leaves_, and that upon the first opening of the Spring; lest it
+should thus be quite starved, ’tis born swath’d up in a double Blanket,
+or with a pair of Sheets upon its Back.
+
+The Leaves of divers _Flowers_ at their Basis have an _hairy Tuft_; by
+which _Tufts_ the Concave of the _Empalement_ is fill’d up; that, being
+very choice and tender, they may thus be kept in a gentle and constant
+warmth, as most convenient for them.
+
+The Leaves of the _Flower_, though they are not hairy all over, yet in
+some particular parts they are often set with a fine Downy Velvet; that,
+being by their shape and posture in those parts contiguous to their
+delicate and tender Attire, they may thus give it a more softly and
+warmer touch. Thus in the Flower of _Ladies Bower_, those parts of its
+Leaves which rowl inward, and lie contiguous to the Attire, are Downy;
+whereas the other parts are plain and smooth: So the Flowers of _Pease_,
+_Spanish Broom_, _Toad-Flax_, and many others, where contiguous to their
+Attires, are deck’d with the like _Hairy Velvet_.
+
+As upon the Green Leaves, so upon the Flowers are _Globulets_ sometimes
+seen; as upon the backside of that of _Enula_. On none more plainly
+than that kind of _Blattaria_ with the white Flower; where they are all
+transparent, and growing both on the Stalk and Leaves of the _Flower_,
+each shewing likewise its _Peduncle_ whereon it is erected.
+
+The use of the _Flower_, or the _Foliation_ whereof we now speak, (that
+is, as to its private service) is for the protection of the Attire;
+this, as its under, and the _Empalement_ as its upper Garments; as
+likewise of the _Fruit_: The necessity of which Service, in some Cases,
+by the different situation of the _Flower_ and _Fruit_, with respect to
+each other, is evident; _Apples_, _Pears_, and several other _Fruits_,
+standing behind or under the _Flower_; but _Cherries_, _Apricots_, and
+divers others, within it; for these, being of a very tender and pulpous
+Body, and withal putting forth with the colder part of the Spring, could
+not weather it out against the Variations and Extremities of the Air, (as
+those of a more solid _Parenchyma_ can) except lodged up within their
+_Flowers_.
+
+And as the _Flower_ is serviceable to the safety of the _Fruit_, so
+is it to its growth; _sc._ in its Infancy, or _Embryo_-estate; for
+which purpose, as there is a Flower, so that Flower is greater or less,
+according as the nature of the Fruit to which it belongs, and the plenty
+of the _Sap_ by which the Fruit is fed, doth require. Thus, where the
+young Fruit is of a solider constitution, and the ascent of the _Sap_
+less copious, were there here no _Flower_ to promote the said ascent
+thereof into the Fruit (in the manner as is effected by the Green Leaves)
+it must needs pine and die, or prove less kindly. On the contrary, should
+the Flower be over-large, it would not only promote the ascent of the
+_Sap_ up to the Fruit, but being as yet over-proportionate to it, would
+likewise it self exhaust the same _Sap_, as fast as ascendent; like a
+greedy Nurse, that prepares the Meat for her Child, and then eats it up
+her self. Thus we see _Apples_ and _Pears_ with a _Flower_ of a moderate
+size, like their Body; of a middle Constitution, and their _Sap_ of a
+middle quantity: But _Quinces_, being more solid, besides that they have
+as great a _Flower_, the _Impalers_ of their _Flower_ also thrive so
+far as to become handsom Leaves, continuing also after the _Flower_ is
+fallen, firm and verdent a great while; so long till the _fruit_ be able
+to provide for it self. On the other hand, _Plums_ being more tender
+and Sappy than _Apples_ and _Pears_, besides that their _Empalers_ are
+much alike, their _flower_ is less, and _Gooseberries_ and _Currans_,
+which are still more Pulpy, and the course of the _Sap_ towards them
+more free, have yet a _flower_ far less. And _Grapes_, whose _Sap_ is
+still of quicker Ascent, have scarce any _flower_ at all; only some small
+resemblance thereof, serving just upon the setting of the _fruit_, and no
+longer.
+
+The _Attire_ I find to be of two kinds, _Seminie_ and _Florie_: That
+which I call _Seminie_, is made up of two general parts, _Chives_ and
+_Semets_, one upon each _Chive_. These _Semets_ have the appearance
+(especially in many _flowers_) of so many little _Seeds_; but are quite
+another kind of Body: For upon enquiry we find, that these _Semets_,
+though they seem to be solid, and for some time after their first
+formation, are entire; yet are they really hollow; and their side, or
+sides, which were at first entire, at length crack asunder: And that
+moreover the Concave of each _Semet_ is not a meer vacuity, but fill’d
+up with a number of minute Particles, in form of a Powder; which, though
+common to all _Semets_, yet in some, and particularly those of a _Tulip_,
+being larger, is more distinctly observable.
+
+These _Semets_ are sometimes fastned so, as to stand erect above their
+_Chive_, as those of _Larks-heel_. Sometimes, and I think usually, so
+as to hang a little down, in the manner and figure of a _Kidney_; as in
+_Mallows_. Their Cleft or Crack is sometimes single, but for the most
+part double: At these Clefts it is that they disburse their Powders;
+which as they start out, and stand betwixt the two Lips of each Cleft,
+have some resemblance to the common Sculpture of a _Pomegranate_ with its
+Seeds looking out at the Clefts of its _Rind_: This must be observ’d when
+the Clefts are recently made, which usually is before the expansion of
+the _Flower_.
+
+The Particles of these Powders, though like those of Meal or other
+Dust, they appear not easily to have any regular shape; yet upon strict
+observation, especially with the assistance of an indifferent Glass,
+it doth appear, that they are nothing else but a _Congeries_ of so many
+perfect _Globes_ or _Globulets_: That which obscures them; is their being
+so small. In _Dogs-Mercury_, _Borage_, and very many more Plants, they
+are extreamly so. In _Mallows_, and some others, more fairly visible.
+
+Some of these Powders are yellow, as in _Dogs-Mercury_, _Goats-Rue_,
+&c. and some of other colours: But most of them I think are white; and
+those of yellow _Henbane_ very elegant; the disburs’d Powders whereof, to
+the naked eye, are white as Snow; but each _Globulet_, through a Glass,
+transparent as Crystal; which is not a fallacy from the Glass, but what
+we see in all transparent Bodies whatsoever, lying in a Powder or small
+Particles together.
+
+The _Florid Attire_, is commonly known by the blind and rude Name of
+_Thrums_; as in the Flowers of _Marigold_, _Tansie_, &c. How adequate its
+imposition is, observation will determine: For the several _Thrums_ or
+rather _Suits_, whereof the _Attire_ is made up, however else they may
+differ in various Flowers, in this agree, that they are ever consistent
+of more than one, sometimes of two, and for the most part of three pieces
+(for which I call them _Suits_) and each piece of a different, but
+agreeable and comely form.
+
+The _outer part_ of every _Suit_, is its _Floret_: whose _Body_ or _Tube_
+is divided at the top (like that of the _Cowslip_) into divers distinct
+Leaves; so that a _Floret_ is the Epitome of a _flower_; and is all the
+_flower_ that many Plants, as _Mugwort_, _Tansie_, and others, have. What
+the Learned Dr. _Brown_ observeth of the number Five as to the Leaves of
+the _flower_, is still more universally holding in these of the _Floret_.
+
+Upon the Expansion of the _Floret_, the next part of the _Suit_ is from
+within its _Tube_ brought to sight; which we may (with respect to that
+within it) call the _Sheath_: For this also, like the _Floret_, is a
+concave Body; in its shape very well resembling the Fistulous Pouches of
+_Wake-Robin_, or of _Dragon_.
+
+The _Sheath_, after some time, dividing at the top, from within its
+Concave, the third and innermost part of the _suit_, _sc._ the _Blade_
+advanceth and displayes it self. This part is not hollow, as the other
+two, but solid; yet at its point, not originally, but after some time, is
+evermore divided into two halves.
+
+Upon the division of the said Point, there appears, as upon the opening
+of a _Semet_; a Powder of _Globulets_, which before lay enclosed up
+within its Clefts; and are of the same nature with those of a _Semet_,
+though not so copious: So that all _flowers_ have their _Powders_ or
+_Globulets_. The whole _Attire_ may in _Knapweed_, _Blewbottle_, &c. be
+observed.
+
+The use of the _Attire_, how contemptibly soever we may look upon it,
+is certainly great. And though for our own use we value the Leaves of
+the _Flower_, or the _Foliation_, most; yet of all the three Parts, this
+in some respects is the choycest, as for whose sake and service the
+other two are made. The use hereof, as to Ornament and Distinction, is
+unquestionable, but is not all. As for Distinction, though by the help of
+Glasses we may make it to extend far; yet in a passant view, which is all
+we usually make, we cannot so well. As for Ornament, and particularly
+in reference to the _Semets_, we may ask, If for that meerly these were
+meant, then why should they be so made as to break open, or to contain
+any thing within them? Since their Beauty would be as good as if they
+were not hollow, and is better before they crack and burst open, than
+afterwards.
+
+A farther use hereof therefore we must acknowledge, and may observe; and
+that is for food; for Ornament and Distinction to us, and for Food to
+other Animals. I will not say, but that it may serve even to these for
+Distinction too, that they may be able to know one Plant from another,
+and in their flight or progress settle where they like best; and that
+therefore the varieties of these small parts are many, and well observed
+by them, which we take no notice of: Yet the finding out of Food is but
+in order to enjoy it: Which, that it is provided for a vast number of
+little Animals in the _attires_ of all _Flowers_, observation perswades
+us to believe. For why else are they evermore here found? Go from one
+Flower to another, great and small, you shall meet with none untaken up
+with these Guests. In some, and particularly the _Sun-flower_, where the
+parts of the _Attire_, and the _animals_ for which they provide, are
+larger, the matter is more visible. We must not think, that God Almighty
+hath left any of the whole Family of his Creatures unprovided for; but as
+the Great Master, some where or other carveth out to all; and that for
+a great number of these little Folk, He hath stored up their peculiar
+provisions in the _Attires_ of _Flowers_; each _Flower_ thus becoming
+their Lodging and their Dining-Room, both in one.
+
+Wherein the particular parts of the _Attire_ may be more distinctly
+serviceable, this to one Animal, and that to another, I cannot say: Or to
+the same Animal, as a _Bee_, whether this for the _Honey_, another for
+their _Bread_, a third for the _Wax_: Or whether all only suck from hence
+some _Juice_; or some may not also carry some of the Parts, as of the
+_Globulets_, wholly away: Or lastly, what may be the primary and private
+use of the _attire_ (for even this abovesaid; though great, yet is but
+secondary) I now determine not.
+
+
+
+
+CHAP. VI.
+
+_Of the Fruit._
+
+
+The general composition of all _Fruits_ is one, that is, their
+_Essential_ and truly _Vital Parts_, are in all the same, and but the
+continuation of those which in the other Parts of a _Vegetable_, we
+have already observed: Yet because by the different Constitutions and
+Tinctures of these Parts, divers considerably different Fruits result; I
+shall therefore take a particular view of the more known and principal of
+them, _sc._ _Apples_, _Pears_, _Plums_, _Nuts_ and _Berries_.
+
+An _Apple_, if cut traverse, appears constituted of four distinct Parts,
+the _Pill_, the _Parenchyma_, _Branchery_ and _Coare_. The _Pill_ is
+only the spreading and dilatation of the skin, or utmost part of the
+Barque in the Branch. The _Parenchyma_, when full ripe, is a tender
+delicate Meat: Yet as the _Pill_ is but the continuation of the utmost
+part of the _Barque_; so is this but the continuance and ampliation,
+or (as I may call it) the swelth and superbience of the _Inner part_
+thereof; which upon observation of a young and Infant-_Apple_ especially,
+is evident. Thus we see the _Pith_, which is often tough, in many
+Roots, as _Parsneps_, _Turneps_, &c. is tender and edible. So here,
+the _Parenchyma_, though originally no more than the _Barque_, yet the
+plenty and purity of its _Sap_ being likewise effectual to the fulness
+and fineness of its growth, it thus becomes a soft and tender meat.
+The _Branchery_ is nothing else but the Ramifications of the _Lignous
+Body_ throughout all the parts of the _Parenchyma_; the greater Branches
+being likewise by the _Inosculations_ of the less (as in the Leaf)
+united together. The main Branches are usually fifteen; ten are spred
+and distributed through the _Parenchyma_, all enarching themselves
+towards the _Cork_ or _Stool_ of the _Flower_; the other five running
+from the _Stalk_ in a directer Line, at last meet the former at the said
+_Cork_, and are there osculated with them. These five are originated
+from one; which running along the Center of the _Stalk_, and part of the
+_Parenchyma_ of the _Fruit_, is therein at last divided. To these the
+Coats of the _Kernels_ are fastned; so that whereas these Branches were
+originally all extended even beyond the _Fruit_, and inserted into the
+_Flower_ for the due growth thereof; the _Fruit_ afterwards growing
+to some head, and so intercepting and preying upon the Aliment of the
+_Flower_, starves that, and therefrom supersedes the service of the said
+Branches to it self, ten for its _Parenchyma_, and five for its _Seed_.
+The _Coar_ is originated from the _Pith_; for the _Sap_ finding room
+enough in the _Parenchyma_, through which to dispence it self all abroad,
+quits the _Pith_, which thereby hardens into a _Coar_. Thus we see the
+_Insertions_, although originate from the _Cortical Body_, yet their
+Parts being, by the _Inosculations_ of the _Lignous_, so much compress’d
+and made to co-incide together, they become a Body very compact and
+dense. And in the _Barque_ we see the same effect by _arefaction_ only,
+or a meer _voydance_ of the _Sap_; the _Inner Part_ whereof, though soft
+and sappy, yet its superficial _Rind_ is often so hard and smooth, that
+it may be fairly writ upon.
+
+In a _Pear_ there are five distinct Parts, the _Pill_, the _Parenchyma_,
+_Branchery_, _Calculary_ and _Acetary_. The three former are here and in
+an _Apple_ much alike; saving that here the _Inner_ or _Seed-Branches_
+are ordinarily ten. The _Calculary_ (most observable in rough-tasted,
+or _Choak-Pears_) is a _congeries_ of little stony Knots: They are
+many of them dispersed throughout the whole _Parenchyma_; but lying
+more continuous and compact together towards the Center of the _Pear_,
+surround the _Acetary_ there in a somewhat Globular Form. About the
+_Stalk_ they stand more distant; but towards the _Cork_ or _Stool_ of
+the _Flower_, they still grow closer, and there at last gather (almost)
+into the firmitude of a _Plum-stone_ it self. Within this lies the
+_Acetary_; ’tis of a soure tast, and by the bounding of the _Calculary_
+of a _Globular Figure_. ’Tis a simple Body, having neither any of the
+_Lignous_ branched in it, nor any Knots. It is of the same substantial
+nature with the _Parenchyma_; but whether it be absolutely one with
+it, or be derived immediately from the _Pith_, my Enquiries yet made,
+determine not.
+
+The Original of the _Calculary_ I seem to have neglected: But hereof we
+may here best say, that whereas all the other Parts are Essential and
+truly _Vital_, the _Calculary_ is not; but that the several Knots whereof
+it consists, are only so many meer Concretions or Precipitations out of
+the _Sap_; as in _Urines_, _Wines_, and other _Liquors_, we often see.
+And that this _Precipitation_ is made by the mixture and re-action of
+the Tinctures of the _Lignous_ and _Cortical Bodies_ upon each other:
+Even as all _Vegetable Nutrition_ or _Fixation_ of Parts is also made
+by the joynt efficiency of the two same Tinctures, as hath been said.
+Hence we find, that as the _Acetary_ hath no Branches of the _Lignous
+Body_, so neither hath it any Knots. Hence likewise it is, that we
+have so different and contrary a taste in the _Parenchyma_ beyond the
+_Calculary_, from that in the _Acetary_; for whereas this is soure, that,
+wherein the said _Precipitations_ are made, is sweet; being much alike
+effect, to what we find in mixing; of _Corals_, &c. with _Vinegar_ or
+other _acid Liquor_.
+
+In a _Plum_ (to which the _Cherry_, _Apricot_, _Peach_, _Walnut_, &c.
+ought to be referr’d) there are four distinct Parts, the _Pill_, the
+_Parenchyma_, _Branchery_ and _Stone_. The _Pill_ and _Parenchyma_ are,
+as to their Original, with those of an _Apple_ or _Pear_ both alike:
+As likewise the _Branchery_, but differently ramified. In _Plums_ (I
+suppose all) there are five main _Out-Branches_, which run along the
+Surface of the _Stone_ from the _Basis_ to the point thereof, four
+of them by the one Ridge, and one by the other opposite to it. In an
+_Apricot_ there is the same number, but the single Branch runs not upon
+the Surface, but through the Body of the _Stone_. There are likewise
+two or three smaller Branches, which run in like manner under the
+other Ridge for some space, and then advancing into the _Parenchyma_,
+therein disperse themselves: These latter sort in _Peaches_ are numerous
+throughout: But notwithstanding the different disposition of the Branches
+of the _Fruits_ aforesaid; yet is there one Branch dispos’d in one and
+the same manner in them all: The entrance hereof into the _Stone_ is at
+its _Basis_; from whence running through its Body, and still inclining
+or arching it self towards its Concave, is at last about its Cone
+thereinto emergent, where the Coats of the _Seed_ are appendent to it.
+Of the _Seed-Branch_ ’tis therefore observable that after its entrance
+into the _Fruit_, ’tis alwaies prolonged therein to a considerable
+length; as is seen not only in _Apples_, &c. where the _Seed_ stands a
+good distance from the _Stalk_; but in _Plums_ likewise, where it stands
+very near it; in that here the _Seed-Branch_, as is said, never strikes
+through the _Stone_ into the Coats of the _Seed_ directly, but about
+its Cone or remoter end. The _Stone_, though it seem a simple Body, yet
+it is compounded of different ones: The Inner Part thereof, as it is by
+far the thinnest, so is it the most dense, white, smooth and simple.
+The Original is from the _Pith_; difficult, but curious to observe: For
+the _Seed-Branch_, not striking directly and immediately quite through
+the _Basis_ of the _Stone_, but in the manner as is above described,
+carries a considerable part of the _Pith_, now gathered round about it,
+as its _Parenchyma_, along with it self, which, upon its entrance into
+the concave of the _Stone_ about its farther end, is there in part spred
+all over it, as the Lining thereof. The outer and very much thicker Part
+consisteth partly of the like _Precipitations_ or concrete Particles,
+as in a _Pear_, being gathered here much more closely, not only to a
+Contiguity, but a coalition into one entire Stone; as we see in _Pears_
+themselves, especially towards the _Cork_, they gather into the like
+Stoniness; or as we see a _Stone_, _Mineral_ or _Animal_, oftentimes the
+product of accumulated _Gravel_: But as the _Parenchyma_ is mixed with
+the Concretion in the _Calculary_, so is it also, though not visibly,
+with these in the _Stone_, the ground of the _Stone_ being indeed a
+perfect _Parenchyma_; but by the said Concretions so far alter’d, as to
+become dry, hard and undistinguishable from them.
+
+In a _Nut_ (to which an _Achorn_ is analogous) there are three general
+Parts, the _Cap_, _Shell_ and _Pith_. The _Cap_ is constituted of a
+_Pill_ and _Parenchyma_ derived from the _Barque_, and _Ramulets_ from
+the _Lignous Body_ of the _Branch_. The _Shell_ likewise is not one
+simple Body, but compounded. The Superficial Part thereof is originated
+from the _Pill_ or _Skin_ of the _Cap_, from the inside whereof it is
+in a Duplicature produc’d and spred over the _shell_: which, if you
+look at the _Basis_ of the _shell_, is farther evident; for that being
+continuous with the _Parenchyma_ of the _Cap_, without the interposure
+of the _Skin_, the said superficial Part is there wanting. The thicker
+and inner part of the _shell_ consisteth of the same _Parenchyma_ as
+that of the _Cap_, with a _congeries_ of _Precipitations_ filled up, as
+in a Stone. And as the _Lignous Body_ is branched in a Stone, so, with
+some difference, in a Shell. The _Outer Branches_ or _Ramulets_ are
+numerous, each issuing out of the _Parenchyma_ of the _cap_, and entring
+the _Shell_ at the Circumference of its _Basis_ and so running betwixt
+its superficial and inner parts towards its _cone_, in a Round. The
+_Inner_ or _Seed-Branch_ is single, entering in, as do the other, at the
+_Basis_ of the _shell_, but at the _center_ thereof; from whence it runs,
+not through the _Shell_, as in _Plums_ through the _Stone_; but through
+the _Pith_, as far as the _cone_, where the Coats of the _Seed_ hang
+appendent to it. The _Pith_, whether derived from the same part both in
+name and nature in the _Branch_ and _Stalk_, or from the _Cortical Body_,
+I yet determine not.
+
+A _Berry_, as a _Gooseberry_ (to which _Currans_, _Grapes_, _Hipps_, &c.
+are to be referr’d) consisteth, besides the _Seed_, of the three general
+Parts, _Pill_, _Parenchyma_ and _Branchery_: The _Pill_ is originated
+as in the foregoing Fruits. The _Parenchyma_ is double, as likewise
+in some other _Berries_: The _outer_ is commonly, together with the
+_Pill_, call’d the _Skin_, and is that part we spit out, being of a soure
+taste. As the _Pill_ is originated from the _outer_, so this from the
+_inner part_ of the _Barque_; and accordingly the Pores thereof may be
+observed plainly of a like shape with those both of the _Cortical Body_
+and _Pith_. The _inner_ is of a sweet taste, and is the part we eat: It
+is of a constitution so laxe and tender, as it would seem to be only a
+thicker or jellied Juice; although this likewise be a true _Parenchyma_,
+something like that of an _Orange_ or _Limon_, with its Pores all fill’d
+up with Liquor. The _Branchery_ is likewise double: The _Exterior_ runs
+betwixt the _Pill_ and outer _Parenchyma_ in arched Lines, from the
+_Stalk_ to the _Stool_ of the _Flower_. These outer Branches, though
+of various number at the _Stalk_, yet at the _Cork_ are usually ten
+principal ones; five for the five Leaves of the _Flower_, and five for
+the _Chives_. The inner main Branches are two, diametrically opposite
+to each other, and at the _Cork_ with the other inosculated. From these
+two are branched other smaller, every one having a _Seed_ appendent to
+it, whose Coats it entreth by a double Filament, one at the _Basis_,
+the other at the _Cone_. They are all very white and turgent; and by
+a slaunt cut, may be observ’d concave; thus representing themselves
+analogous to so many true _spermatick Vessels_.
+
+The Uses of _Fruits_ are for _Man_, (sometimes also other _Animals_,
+as are _Akerns_ and _Haws_) and for the _Seed_. For Man, they are
+so variously desirable, that till our Orchards and Store-Chambers,
+_Confectioners_ Stores and _Apothecaries_ Shops, our Ladies Closets,
+their Tables or Hands are empty of them, I shall not need to enquire
+for what. If it be asked, how the Fruit becomes, generally above all
+the other Parts, so pleasant a Meat? It is partly from the _Sap_, the
+grosser portion thereof being deposited in the Leaves, and so the purer
+hereunto reserved; partly from the Globular Figure of the Fruit; for the
+_Sap_ being thus in a greater quantity herein, and in all parts equally
+diffus’d, the Concoction hereof is with greatest advantage favoured and
+promoted. Wherefore all Fruits which we eat raw, how small soever, are of
+a Globular form, or thereunto approaching; and the nearer, the delicater;
+amongst _apples_, the _Peppin_; amongst _Pears_, the _Burgundian_; and
+amongst all Fruits, the _Grape_; and amongst _Grapes_, the roundest, are
+of all the most dainty.
+
+The visible cause of this Globular Figure, is the _Flower_; or the
+Inosculation of all the main Branches at the _Stool_ of the _Flower_; and
+upon the fall of the _Flower_, the obtuseness, and with Wind and Sun, as
+it were the searing of their several ends: For thus the _Sap_ entring
+the _Fruit_, being not able to effect, either a Disunion, or a shooting
+forth of the said Branches, and so to carry on their growth in length;
+they must thus of necessity be enarch’d, and with the _Parenchyma_ more
+and more expand themselves. Whereas were they dispos’d and qualified
+otherwise, than as is said, instead of forming a Fruit within bounds,
+they would run out into all extravagance, and even into another little
+Tree or Leafy growth.
+
+To the _Seed_, the _Fruit_ is serviceable; First, in order to its
+being supply’d with a due and most convenient _Sap_, the greater and
+less elaborated part thereof being, in its passage towards the _Seed_,
+thereinto received; the _Fruit_ doing the same office to the _Seed_,
+which the _Leaves_ do to the _Fruit_; the _Sap_ in the _Fruit_ being in a
+laxe comparison, as the _Wine_; and that for the _Seed_, a small part of
+the highest Spirit rectified from it.
+
+So likewise for its Protection, in order to the prosperous carrying on
+and perfecting of its generation, and security being perfected. Which
+protection it gives not only to the Seminal _Sap_ and _Seed_ it self;
+but alwaies also to its _Seed-Branch_. Thus we see an _Apple_, besides
+that it is it self of ample compass, for the sake of its _Seed_, hath
+likewise its _coar_; as if it were not sufficient, that the Walls of
+their Room are so very thick, unless also wainscotted. In a _Pear_ again,
+where the _Parenchyma_ is of less compass than that of an _Apple_, to
+what protection this affords, that of the _Calculary_ is super-added.
+But in a _Plum_, where the _Parenchyma_ is exceeding tender, and in a
+_Peach_, which hangs late, and till Autumn Frosts approach, we have not
+only the Rubbish of a _Calculary_ but stout Stone-Walls. Within which
+also, not only the _Seed_ it self; but the _Seed-Branch_ is evermore
+immur’d. Lastly, in a _Nut_, where the _shell_ being not surrounded with
+a _Parenchyma_, that protection is wanting without, ’tis answer’d by an
+ample _Pith_ within it; and the _seed-Branch_ likewise included, not
+meerly in the Body of the Shell, as in a _Plum_, but within the _pith_
+it self. So necessary is this design that what the Hen by Incubation
+or Hovering, is to the Egg or Chick; that the whole _Fruit_, by
+comprehension, is to the _Seed_.
+
+
+
+
+CHAP. VII.
+
+_Of the Seed._
+
+
+As the Original, so the ultimate end & Perfection of _Vegetation_ is the
+_Seed_. How it is the former, and in its state apt for _Vegetation_,
+hath already been seen. How the latter, and in its state of Generation,
+we shall now lastly enquire. In doing which, what in the other state
+was either not distinctly existent, or not so apparent, or not so
+intelligible, will occur.
+
+The two general Parts of the _Seed_ are its _Covers_ and _Body_. The
+_Covers_ in this estate are usually four; the outmost we may call
+the _Case_: ’Tis of a very various form; sometimes a _Pouch_, as in
+_Nasturtium_, _Cochlearia_; a _Cod_, as in all _Pulse_, _Galega_;
+sometimes not entire, but parted, or otherwise open, as in _Sorrel_,
+_Knotgrass_, with many other forms; I think alwaies more heterogeneous to
+that of the _Seed_, by which it differs from the proper Coats. To this
+the Caps of _Nuts_, and the _Parenchyma’s_ of Fruits are analogous.
+
+The two next are properly the Coats: In a _Bean_ especially, and the
+like; from whence to avoyd Confusion, the denomination may run common
+to the responding Covers of other _Seeds_. The Colour of the outer
+is of all degrees, from White to the Blackness of _Jett_: Its Figure
+sometimes Kidney’d, as in _Alcea_, _Behen_, _Poppy_; triangular, as in
+_Polygonatum_, _Sorrel_; triangular spherical, in _Mentha_, _Melissa_;
+circular, in _Leucoium_, _Amaranthus_; globular, in _Napus_, _Asperula_;
+oval, in _Speculum Veneris_, _Tithymalus_; half Globe, in _Coriander_;
+that which we take for one single round _Seed_, being a Conjugation of
+two; half Oval, in _Anise_, _Fennel_; Hastal, in _Lactuca_; Cylindrical,
+as, if I mistake not, in _Jacobæa_, Pyramidal, in _Geranium_, _Althææ
+Fol._ with many other differences: But the Perfection of one or two
+of the said Figures lieth in the _Case_: So that as all Lines and
+Proportions are in the _Flower_, so all Regular Figures in the _Seed_, or
+rather in its _Covers_.
+
+’Tis sometimes glistering, as in _Speculum Veneris_; Rough-cast, in
+_Catanance_; Studded, in _Behen_, _Blattaria_; Favous, in _Papaver_,
+_Antirrhinum_, _Lepidium annuum_, _Alcea Vesicaria_, _Hyosciamus_, and
+many more, before the _Seeds_ have lain long by; Pounced, in _Phalangium
+Cretæ_, _Lithospermum_; Ramified, in _Pentaphyllum fragiferum_, _Erectum
+majus_, resembling the Fibres of the Ears of the Heart; some just
+_Quinquenerval_, as in _Anisum_, and many more, the _Lignous Body_ being
+in five main Fibres branched therein.
+
+The Covers of not only _Quince_-Seeds, and those of _Psyllium_ (more
+usually taken notice of) but those also of _Horminum_, _Nasturtium_,
+_Eruca_, _Camelina_, _Ocymum_, and divers others, have a _Mucilage_;
+which, though it be not visible when the Seeds are throughly dry; yet
+lying a while in some warm Liquor, or only on the Tongue, it swells more
+or less, and upon them all fairly shews it self. On that of _Ocymum_ it
+appears grayish; on the other, transparent; and on that of _Nasturtium
+Hortense_ very large; even emulous of the inner Pulp surrounding a
+_Gooseberry-seed_. The putting of _Clary-seed_ into the Eye, may have
+been brought into use from this _Mucilage_, by which alone it may become
+Medicinal. And thus far of the _Superficies_.
+
+The nature of the outer Coat is various, _Membranous_, _Cartilaginous_
+and _Stony_; the like _Precipitations_ being sometimes made herein, as in
+a Stone or Shell; as in that of the Seeds of _Carthamum_, _Lithospermum_,
+and others. The Designment hereof, being either with respect to the
+_Seed_ in its state of Generation; as where the Case is either wanting,
+or at least insufficient of it self, there for its due protection and
+warmth; or, in its state of _Vegetation_, for the better Fermenting of
+its Tinctures and _Sap_; the Fermentations of some _Seeds_ not well
+proceeding, unless they lie in their Stony Casks in the Mould, like
+Bottled Liquors in Sand.
+
+All _Seeds_ have their outer Covers open; either by a particular
+_Foramen_, as in _Beans_, and other _Pulse_, as is said; or by the
+breaking off of the _Seed_ from its _Peduncle_ or _Stool_, as in those
+in _Cucumber_, _Cycory_; or by the entering and passage of a _Branch_ or
+_Branches_, not only into the Concave thereof near the Cone, but also
+through the Cone it self; as in _Shells_ and _Stones_.
+
+For the sake of this _aperture_ it is, that _Akerns_, _Nuts_, _Beans_,
+_Cucumbers_, and most other _Seeds_, are in their formation so placed,
+that the _Radicle_ still standeth next to it; that, upon _Vegetation_, it
+may have a free and ready passage into the Mould.
+
+The Original of the outer Coat, though from Parts of the same substantial
+nature, yet is differently made. In a _Plum_, the _Seed-Branch_ which
+runs, as is described, through the Stone, is not naked, but, as is said,
+invested with a thin _Parenchyma_, which it carries from the Stalk along
+with it; and which, by the _Ramification_ of the said _Branch_ within
+the Stone, is in part dilated into a Coat. That of a _Bean_ is from the
+_Parenchyma_ of the Cod; the superficial part of which _Parenchyma_, upon
+the large _peduncle_ of the _Bean_ becoming a thin Cuticle, and upon the
+_Bean_ it self a _cartilaginous_ Coat.
+
+The Original of the inner Coat of the _Bean_ is likewise from the inner
+part of the said _parenchyma_; which first is spred into a long Cake, or
+that which with the _seed-Branch_ maketh the _peduncle_ of the _Bean_;
+under which Cake, there is usually a black part or spot; by the length of
+which, the inner part of the Cake is next inserted into the outer Coat,
+and spred all over the Concave thereof.
+
+This inner Coat, though when the _Seed_ is grown old and dry, ’tis shrunk
+up, and in most Seeds so far as scarcely to be discern’d; yet in its
+first and juvenile Constitution, is a very Spongy and Sappy Body; and is
+then likewise (as the _Womb_ in a pregnant Animal) in proportion very
+thick and bulky; in a _Bean_, even as one of the _Lobes_ it self: And in
+a _Plum_ or _apricot_, I think I may safely say, half an hundred times
+thicker than afterwards, when it is dried and shrunk up; and can scarcely
+be distinguished from the upper Coat. Upon which Accounts it is, in this
+estate, a true and fair _Parenchyma_.
+
+In this Inner Coat in a _Bean_, the _Lignous Body_ or _Seed-Branch_ is
+distributed: Sometimes, as in _French-Beans_, throughout the whole Coat;
+as it is in a Leaf: In the Great _Garden-Bean_, upon its first entrance,
+it is bipartite, and so in small Branches runs along the Circumference of
+the Coat, all meeting and making a kind of Reticulation against the Belly
+of the _Bean_. In the same manner the main Branches in the outer Coat of
+a _Kernel_, circling themselves on both hands from the place of their
+first entrance, at last meet, and mutually inosculate.
+
+So that all the Parts of a _Vegetable_, the _Root_, _Trunk_, _Branch_,
+_Leaf_, _Flower_, _Fruit_ and _Seed_, are still made up of two
+substantially different Bodies.
+
+And as every Part hath two, so the whole _Vegetable_ taken together, is a
+composition of two only, and no more: All properly Woody Parts, Strings
+and Fibres, are one Body: All simple _Barques_, _Piths_, _Parenchyma’s_
+and _Pulps_, and as to their substantial Nature, _Pills_ and _Skins_
+likewise, all but one Body: the several Parts of a _Vegetable_ all
+differing from each other, only by the various Proportions and Mixtures,
+and variously sized Pores of these two Bodies. What from these two
+general Observations might reasonably be inferr’d, I shall not now
+mention.
+
+The fourth and innermost Cover we may call the _Secondine_; the sight
+whereof, by cutting off the Coats of an _Infant-Bean_, at the Cone
+thereof in very thin Slices, and with great Caution, may be obtain’d.
+While unbroken, ’tis transparent; being torn and taken off, it gathers
+up into the likeness of a Jelly, or that we call the _Tredle_ of an Egg,
+when over-boyl’d. This _Membrane_ in larger or elder _Beans_, is not
+to be found distinct; but becomes as it were the Lining of the inner
+Coat: But (as far as our Enquiries yet discover) it may in most other
+_Seeds_, even full grown, be distinctly seen; as in those of _Cucumber_,
+_Colocynthis_, _Burdock_, _Carthamum_, _Gromwel_, _Endive_, _Mallows_,
+&c. ’Tis usually so very thin, as in the above-nam’d, as very difficultly
+to be discover’d. In some _Kernels_, as of _Apricots_, ’tis very thick;
+and in some other Seeds. That all these have the Analogy of one and the
+same Cover, which I call the _Secondine_, is most probably argu’d from
+their alike Natures; being all of them plain simple _Membranes_, with
+not the least Fibre of the _Lignous Body_ or _Seed Branch_, visibly
+distributed in them; as also from their Contexture, which is in all of
+them more close.
+
+The Concave of this _Membrane_ is filled with a most transparent
+Liquor, out of which the Seed is formed; as in cutting a _petite_ and
+_Infant-Bean_, may be seen; and yet better in a young _Walnut_. In
+_Beans_ I have observed it to turn, upon boyling, into a tender white
+_coagulum_.
+
+Through this _Membrane_, the _Lignous Body_ or _Seed-Branches_
+distributed in the inner Coat, at last shoot downright two slender
+Fibres, like two Navles, one into each _Lobe_ of the _Bean_. The places
+where the said Fibres shoot into the _Lobes_, are near the _Basis_ of
+the _Radicle_; and by their Blackishness well enough remark’d: but the
+Fibres themselves are so very small, as scarcely to be discern’d: Yet in
+a _Lupine_, of the larger kind, both the places where the Navel-Fibres
+shoot into the _Lobes_ (which here from the _Basis_ of the _Radicle_
+is more remote) and the Fibres themselves, are fairly visible. For the
+_Seed-Branch_, upon its entrance into the Coat of the _Lupine_, is
+presently divided into two _main Branches_, and those two into other
+less; whereof some underly, others aloft, run along the Coat, and
+towards its other end meet and are inosculated; where about two opposite,
+shallow, round, and most minute Cavities, answerable to two Specks of
+a _cartilaginous_ gloss, one in either _Lobe_, may be observed, which
+Specks are the ends of the said _Navel-Fibres_, upon the ripening of
+the _Seed_ there broken off. These Fibres, from the Superficies of each
+_Lobe_, descend a little way directly down; presently, each is divided
+into two Branches, one distributed into the _Lobes_, the other into the
+_Radicle_ & _Plume_, in the manner as in the first Chapter is describ’d.
+And thus far the History. I shall now only with a brief account of
+the _Generation_ of the _Seed_, as hereupon dependent, conclude this
+Discourse.
+
+Let us say then, that the _Sap_ having in the _Root_, _Trunk_, and
+_Leaves_, passed divers Concoctions and Separations, in the manner as
+they are said to be perform’d therein; ’tis now at last, in some good
+maturity, advanced towards the _Seed_.
+
+The more copious and cruder part hereof is again seperated by a free
+reception into the _Fruit_, or other Part analogous to it: being either
+sufficiently ample to contain it, or at least laxe enough for its
+transpiration, and so its due discharge. The more Essential part is
+into the _Seed-Branch_ or Branches entertain’d; which, because they are
+evermore of a very considerable length, and of a Constitution very fine,
+the said _Sap_ thus becomes in its Current therein, as in the _Spermatick
+Vessels_, still more mature.
+
+In this mature estate, from the _seed-Branch_ into the Coats of the
+_seed_, as into the Womb, ’tis next delivered up. The meaner Part
+hereof again, to the outer, as _aliment_ good enough, is supplied.
+The finer part is transmitted to the Inner; which, being, as is said,
+a _Parenchymous_ and more spatious Body, the _Sap_ therefore is not
+herein, as in the outer, a meer _aliment_; but in order to its being, by
+Fermentation, farther prepared.
+
+Yet the outer Coat, being on the contrary hard and dense; for that
+reason, as it admitteth not the Fermentation of the _Sap_ so well within
+it self; so doth it the more promote and favour it in the Inner, being
+Bounds both to it and its _Sap_; and also quickneth the process of the
+whole Work in the formation of the _Seed_.
+
+Nor doth the outer Coat, for the same reason, more promote than declare
+the purity of the _Sap_ now contained in the Inner: For being more hard
+and dense, and so not perspirable, must needs suppose the Parts of the
+_Sap_ encompassed by it, since thus uncapable of any evacuation, to be
+therefore all, so choice, as not to need it.
+
+The _Sap_ being thus prepared in the inner Coat, as a Liquor now apt to
+be the _Substratum_ of the future _Seed-Embrio_, by fresh supplies, is
+thence discharged; yet that it may not be over-copious; which, because of
+the laxity of the Inner Coat from whence it issues, it might easily be;
+therefore as the said inner Coat is bounded without by the upper Coat,
+so by the _Secondine_ or _Membrane_ is it bounded within; through which
+_Membrane_ the _Sap_ being filtr’d, or, as it were, transpiring, the
+depositure hereof, answerable to the _Colliquamentum_ in an Egg, or to
+the _semen Mulibre_, into its Concave at last is made.
+
+The other Part of the purest _sap_ embosom’d in the Ramulets of the
+_seed-Branch_, runs a Circle, or some progress therein; and so becomes,
+as the _Semen Masculinum_, yet more elaborate.
+
+Wherein also, lest its Current should be too copious or precipitate,
+by their co-arcture and divarication where they are inosculated, it is
+retarded; the noblest portion only obtaining a pass.
+
+With this purest _sap_, the said _Ramulets_ being supplied, from thence
+at last, the _Navel-Fibres_ shoot (as the privitive _Artery_ into the
+_Colliquamentum_) through the _Secondine_ into the aforesaid Liquor
+deposited therein.
+
+Into which Liquor, being now shot, and its own proper Sap or Tinctures
+mixed therewith, it strikes it thus into a _Coagulum_; or, of a Liquor,
+it becomes a Body consistent and truly _Parenchymous_; and the supply of
+the said Liquor still continu’d, and the shooting of the Navel-Fibres,
+as is above described, still carried on, and therewith the said
+_Coagulation_ or _Fixation_ likewise.
+
+And in the Interim of the _Coagulation_, a gentle _Fermentation_ being
+also made, the said _Parenchyma_ or _Coagulum_ becometh such, not of
+any Constitution indifferently, but is thus raised (as we see Bread
+in Baking) into a _Congeries_ of _Fixed Bubbles_: For such is the
+_Parenchyma_ of the whole Seed.
+
+
+FINIS.
+
+
+
+
+THE EXPLICATION OF THE FIGURES.
+
+
+_Fig. 1._
+
+_Sheweth a ~Bean~ with the two ~Lobes~ laid open somewhat wider than the
+Parts, without a Rupture, will well bear, for the better sight of that
+Part which lieth between them._
+
+    _aaaa_ The two Lobes.
+
+    _AA_ Their contiguous Flats.
+
+    _b_ The Radicle.
+
+    _c_ The Plume.
+
+    _dd_ One of the Cavities wherein the Plume lieth.
+
+
+_Fig. 2._
+
+    _aaaa_ The _Parenchyma_.
+
+    _eeee_ The _seminal Root_ distributed throughout the
+    _Parenchyma_ of either _Lobe_.
+
+    _b_ The _Radicle_, with the _seminal Root_ running through it
+    in one Trunk to the Point thereof.
+
+    _c_ The _Plume_, with the Distributions of its _Inner Body_
+    continued from the _seminal Root_ of either _Lobe_.
+
+    _xx_ The oblique _Insertion_ of the two grand Branches of the
+    _Lobes_ into the Trunk of the _Radicle_.
+
+
+_Fig. 3._
+
+_The ~Lobe~ of a ~Bean~ cut athwart._
+
+    _aaa_ The convex or external part thereof.
+
+    _bbb_ The concave side out of sight.
+
+    _cccc_ The Extremities of the Branches of the _seminal Root_,
+    as they appear like so many small Specks in the traverse Cut.
+
+
+_Fig. 4._
+
+_The Plume cut athwart._
+
+    The black Specks represent the Branches of the _seminal Body_
+    thereinto inserted, or therein distributed.
+
+
+_Fig. 5._
+
+    _aaaa_ A _Lobe_ of a _Gourd-seed_.
+
+    _cccc_ The greater Branches.
+
+    _ee_ The Sub-divisions and Inosculations of the lesser.
+
+
+_Fig. 5. 00._
+
+    _AA_ A great white _Lupine_.
+
+    _aa_ The _Navel-Fibres_ which strike from the Ramulets of the
+    _Seed-Branch_, into the _Lobes_.
+
+    _ab_ The production of the _Navel-Fibre_ into the _Radicle_
+    (_b._)
+
+    _c_ The _Plume_.
+
+    _bc_ The _Pith_.
+
+    _aeeee_ The distribution of the _Navel-Fibre_ in the _Lobes_;
+    all becoming the _seminal Root_, describ’d in the first Chapter.
+
+
+_Fig. 6._
+
+    _aaaa_ A Slice of the Root of a Tree.
+
+    _cccc_ The _Cortical Body_ or _Barque_.
+
+    _e_ The _Pith_.
+
+    The black Pieces are the Shootings of the _Lignous Body_.
+
+    The Specks therein are its _Pores_.
+
+    The White Pieces are the _Insertions_ of the _Cortical Body_.
+
+
+_Fig. 7._
+
+_Sheweth the Root of ~Berbery~ in the Traverse Cut._
+
+    _aaa_ The _Cortical Body_ or _Barque_.
+
+    The white Lines are the _Insertions_.
+
+    The Black Specks are the Pores of the _Lignous Body_.
+
+
+_Fig. 8._
+
+    _aaaa_ The _Cortical Body_ as appearing in a _Turnep_ cut
+    athwart.
+
+    _acdacd_ The _Lignous Body_, or the several Shoots thereof
+    represented in their Ranks, by the black Lines; the Pricks
+    made along the Lines being the Terminations of the said Shoots
+    or Fibres; not visible except in a thin slice, or after the
+    Surface of the _Turnep_, being cut, is well dried.
+
+    _cccc_ The _Cortical Body_ inserted betwixt the Shootings of
+    the _Lignous_: or the _Pith_.
+
+    _ab ab_ A piece of the _Cortical Body_ taken off, that its own
+    Insertions (_eeee_) and the Osculations of the _Lignous_ may
+    be seen; which is best done after the Insertions are a little
+    dried and shrunk.
+
+
+_The Appearance of divers Roots, in their Elder estate, as ~ex. gr.~ of a
+~Columbine~._
+
+    _Fig. 9._ The Fibrous parts of the _Root_, where the _Lignous
+    Body_ stands Central; the Pores whereof are represented by the
+    black Specks.
+
+    10. The _Root_ cut a little higher, where the _Cortical Body_
+    sometimes appears only once inserted.
+
+    11. The _Root_ cut higher with the Insertions in some number.
+
+    12. The Insertions still more numerous.
+
+    13. The _Pith_ (_a_) now begun, the said Insertions being
+    collected in the Center.
+
+    14. The _Pith_ (_a_) more amplified.
+
+
+_Fig. 15._
+
+_Sheweth a small piece of the Trunk of ~Burdock~._
+
+    _a_ The just size thereof to the naked Eye.
+
+    _aaaa_ The appearance of it through a _Microscope_.
+
+    _lll_ The Inserted _Cortical Body_.
+
+    _ccc_ The outmost shooting of the _Lignous Body_ distributed
+    into the Leaves.
+
+    _ee_ _bb_ _tt_ The inner Shootings or Fibres distributed to the
+    Branches.
+
+    The Black Specks are their Pores, which, through a _Microscope_
+    are fairly visible in them all.
+
+
+_Fig. 16._
+
+    _aaaa_ The Slice of a Trunk of divers years growth.
+
+    _cccc_ The _Cortical Body_, or _Barque_.
+
+    _e_ The _Pith_.
+
+    The white Lines are the Insertions of the _Cortical Body_ or
+    _Barque_.
+
+    The Black Lines are the _lignous Body_.
+
+    The several Shootings thereof betwixt the black Circles shew
+    the Annuall Rings.
+
+
+_Fig. 17._
+
+_Sheweth a small piece of Oak cut athwart._
+
+    _b_ The just bigness of it, as it appeareth to the naked eye.
+
+    _bbbb_ The appearance thereof through a _Microscope_.
+
+    _aaaa_ The greater Insertions visible to the bare eye.
+
+    The white Lines are the smaller Insertions only visible by the
+    _Microscope_.
+
+    _cccccc_ The greater Pores visible to the bare eye.
+
+    _eeeeee_ The middle sized.
+
+    The black Spots are the smallest of all, and both these latter
+    visible only through the _Microscope_.
+
+    _c_ The _Pith_ of every great Pore.
+
+
+_Fig. 18._
+
+    _aaaa_ A piece of the Leaf of a Table.
+
+    _bbbb_ The _lignous Body_ with its Pores running by the length
+    of the Trunk.
+
+    _cccc_ The Insertions of the _Cortical Body_, with the Tract of
+    their Pores running directly cross to those of the _lignous_,
+    _viz._ by the Diameter or breadth of the Trunk.
+
+
+_Fig. 19._
+
+_A Slice of a younger Trunk of a ~Burdock~._
+
+    _cccc_ The utmost Shootings of the _lignous Body_ contiguous to
+    the Skin; wholly distributed into the outer Leaves.
+
+    _eeee_ The middle Shootings running chiefly into the lower
+    _Germens_.
+
+    _et_ _et_ &c. The inner Shootings belonging to the higher
+    _Germens_.
+
+    _a_ The _Pith_.
+
+
+_The various Disposure, Size and Figure of the ~Fibres~ in the Stalk of a
+Leaf._
+
+    _Fig._
+
+    20 In _Endive_ thus.
+    21    _Coltsfoot_.
+    22    _Cycory_.
+    23    _Ivy_.
+    24    _Asarabacca_.
+    25    _Mint_.
+    26    _Dock_.
+    27    _Borage_.
+    28    _Mullen_.
+    29    _Cabbage_.
+
+
+_FINIS._
+
+
+[Illustration: _Fig: 19_ _Fig: 1_
+
+_Fig: 16_ _Fig: 2_
+
+_Fig: 3_ _Fig: 15_
+
+_Fig: 5_
+
+_Fig: 4_]
+
+
+[Illustration: _Fig: 8_ _Fig: 6_ _Fig: 7_
+
+_20_ _21_ _22_ _23_ _24_ _25_ _26_ _27_ _28_ _29_]
+
+
+[Illustration: _Fig: 9_ _10_ _11_ _12_ _13_ _14_
+
+_Fig: 17_
+
+_Fig: 18_]
+
+
+
+
+
+End of Project Gutenberg's The Anatomy of Vegetables Begun, by Nehemiah Grew
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE ANATOMY OF VEGETABLES BEGUN ***
+
+***** This file should be named 58138-0.txt or 58138-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/8/1/3/58138/
+
+Produced by The Online Distributed Proofreading Team at
+http://www.pgdp.net (This file was produced from images
+generously made available by The Internet Archive)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

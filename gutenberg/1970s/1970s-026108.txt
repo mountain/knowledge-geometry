@@ -1,0 +1,1683 @@
+﻿The Project Gutenberg EBook of North American Yellow Bats, 'Dasypterus,'
+And a List of the Named Kinds Of the Genus Lasiurus Gray, by E. Raymond Hall and J. Knox Jones
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: North American Yellow Bats, 'Dasypterus,' And a List of the Named Kinds Of the Genus Lasiurus Gray
+
+Author: E. Raymond Hall
+        J. Knox Jones
+
+Release Date: March 17, 2010 [EBook #31679]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK NORTH AMERICAN YELLOW BATS ***
+
+
+
+
+Produced by Chris Curnow, Joseph Cooper and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+UNIVERSITY OF KANSAS PUBLICATIONS
+MUSEUM OF NATURAL HISTORY
+
+Volume 14, No. 5, pp. 73-98, 4 figs.
+December 29, 1961
+
+
+
+
+North American Yellow Bats, "Dasypterus,"
+And a List of the Named Kinds
+Of the Genus Lasiurus Gray
+
+By
+
+E. RAYMOND HALL AND J. KNOX JONES, JR.
+
+
+UNIVERSITY OF KANSAS
+LAWRENCE
+1961
+
+
+
+UNIVERSITY OF KANSAS PUBLICATIONS, MUSEUM OF NATURAL HISTORY
+
+Editors: E. Raymond Hall, Chairman, Henry S. Fitch, Theodore H. Eaton,
+Jr.
+
+Volume 14, No. 5, pp. 73-98, 4 figs.
+Published December 29, 1961
+
+UNIVERSITY OF KANSAS
+Lawrence, Kansas
+
+PRINTED BY
+JEAN M. NEIBARGER, STATE PRINTER
+TOPEKA, KANSAS
+1961
+
+
+
+
+North American Yellow Bats, "Dasypterus,"
+And a List of the Named Kinds
+Of the Genus Lasiurus Gray
+
+BY
+
+E. RAYMOND HALL AND J. KNOX JONES, JR.
+
+
+
+
+INTRODUCTION
+
+
+Yellow bats occur only in the New World and by most recent authors have
+been referred to the genus _Dasypterus_ Peters. The red bats and the
+hoary bat, all belonging to the genus _Lasiurus_ Gray, also occur only
+in the New World except that the hoary bat has an endemic subspecies in
+the Hawaiian Islands.
+
+The kind of yellow bat first to be given a distinctive name was the
+smaller of the two species that occur in North America. It was named
+_Nycticejus ega_ in 1856 (p. 73) by Gervais on the basis of material
+from the state of Amazonas, Brazil, South America, but was early
+recognized as occurring also in North America (in the sense that México
+and Central America, including Panamá, are parts of North America).
+More than 40 years elapsed before subspecific names were proposed for
+the North American populations; Thomas named _Dasypterus ega xanthinus_
+in 1897 (p. 544) from Baja California, and _Dasypterus ega panamensis_
+in 1901 (p. 246) from Panamá.
+
+The larger of the two North American species was named _Lasiurus
+intermedius_ in 1862 (p. 246) by H. Allen on the basis of material from
+extreme northeastern México. Another alleged species, _Dasypterus
+floridanus_, was named in 1902 (p. 392) by Miller from Florida, but as
+set forth below it is only a subspecies of _L. intermedius_, a species
+that is seemingly limited to parts of the North American mainland and
+Cuba.
+
+A third species, _Atalapha egregia_, allegedly allied to the small
+yellow bat, _L. ega_, was named in 1871 (p. 912) by Peters from Santa
+Catarina, Brazil, but Handley (1960:473) thinks that _L. egregius_ is
+allied instead to the red bats. The species _L. egregius_ has not been
+studied in connection with the observations reported below.
+
+Bats of the genus concerned were given the generic name _Nycteris_ by
+Borkhausen in 1797 (p. 66), and the name _Lasiurus_ by Gray in 1831 (p.
+38). For much of the latter part of the 19th century the generic name
+_Atalapha_ proposed by Rafinesque in 1814 (p. 12) was used because it
+antedated the name _Lasiurus_. In this period Harrison Allen (1894:137)
+raised to generic rank the name _Dasypterus_ that had been proposed by
+Peters in 1871 (p. 912) only as a subgenus for the yellow bats. Since
+1894 the yellow bats ordinarily have borne the generic name
+_Dasypterus_. The red bats and the hoary bat continued to be referred
+to as of the genus _Atalapha_ until early in the 20th century when it
+was decided that a European bat of another genus was technically the
+basis for the name _Atalapha_. Thereupon _Lasiurus_ was again used in
+the belief that it was the earliest available name for the bats
+concerned. But in 1909 (p. 90) Miller showed that the name _Lasiurus_
+was preoccupied by _Nycteris_ Borkhausen, 1797 (p. 66). From 1909 until
+1914 in conformance with the Law of Priority _Nycteris_ was used for
+the red bat and the hoary bat.
+
+At this point it is desirable to digress and indicate why and how the
+Law of Priority came into being. In the 19th century different
+technical names were used for the same kind of animal depending on the
+opinions of individual authors. For example, one author used name A
+because it was most descriptive of the morphology of the animal,
+another author used name B because it had been used more often than any
+other, another author used name C because it was more euphonious, etc.
+In order to achieve uniformity and stability a set of rules was drawn
+up in 1901 at the International Zoological Congress in Berlin. Those
+rules were based principally on the rule, or law, of priority. In
+effect, the law stated that the technical name first given to a kind of
+animal (with starting date as of January 1, 1758, _Systema Naturae_ of
+Linnaeus) would be the correct and official name. After the mentioned
+rules were adopted, some zoologists, mostly non-taxonomists, objected
+to the rules and in response to these objections a compromise was
+adopted in 1913 at the International Zoological Congress in Monaco and
+the International Committee on Zoological Nomenclature was authorized
+to set aside, at its discretion, the Law of Priority. In 1913 it was
+thought by everyone that the names conserved (_nomina conservanda_) by
+setting aside the rules would be few.
+
+Returning now to the generic names applied to the bats concerned, it is
+to be noted that from 1803 until 1909 _Nycteris_ had been used as the
+generic name of an African bat on the erroneous assumption that the
+name was first applied in a valid fashion to the African bat. With the
+aim of conserving the name _Nycteris_ for the African bat, some
+zoologists petitioned the International Committee on Zoological
+Nomenclature to set aside the Law of Priority and petitioned also that
+the name _Lasiurus_ be validated for use again as the generic name for
+New World bats. This petition was granted in 1914 in the first lot of
+names for which exception to the rules was made. As a result, since
+1914 _Lasiurus_ has been used with increasing frequency, and _Nycteris_
+with decreasing frequency, for New World bats.
+
+The above explanation of the application of the generic names
+_Nycteris_, _Atalapha_, and _Lasiurus_ is given for two reasons: First,
+study of more abundant material than was available to Harrison Allen in
+1894 when he raised _Dasypterus_ to generic rank reveals, as set forth
+beyond, that the yellow bats are not generically different from the red
+bats and hoary bat and so will bear the same generic name that is
+applied to the red bat and hoary bat; second, a choice of generic names
+has to be made. Actually, the International Commission on Zoological
+Nomenclature since 1913 has voted to make many, instead of only a few,
+exceptions to the rules. The number of names resulting from these
+exceptions is becoming so large that some zoologists fear that the
+chaotic condition of nomenclature in the previous century will return.
+Those who hold such fears maintain that adherence to the rules of 1901,
+or to the Law of Priority, or at least to some rules, clearly is
+desirable. Certainly there is much logic in that view. According to the
+rules, _Nycteris_ is the correct name of the bats concerned. According
+to the Commission, it is well to use instead the name _Lasiurus_.
+Perhaps the time has come to follow the rules and use _Nycteris_. But,
+because of the possibility that the Commission will return to its
+policy of 1913 and recommend only a few instead of many exceptions to
+the rules, the generic name _Lasiurus_ is tentatively used in the
+following accounts.
+
+
+Genus Lasiurus Gray
+
+Hairy-tailed Bats
+
+    1797. _Nycteris_ B[orkhause]n, Der Zoologe (Compendiose Bibliothek
+    gemeinnützigsten Kenntnisse für alle Stände, pt. 21), Heft 4-7, p.
+    66. Type, _Vespertilio borealis_ Müller [= _Lasiurus borealis_].
+    _Nycteris_ Borkhausen is a homonym of _Nycteris_ G. Cuvier and É.
+    Geoffroy St.-Hilaire, 1795, type _Vespertilio hispidus_ Schreber,
+    1774 [= _Nycteris hispida_], from Senegal. Although _Nycteris_
+    Cuvier and Geoffroy St.-Hilaire is a _nomen nudum_, Opinion 111 of
+    the International Commission of Zoological Nomenclature establishes
+    the name as available for a genus of Old World bats. On this basis,
+    _Nycteris_ Borkhausen is not available for the New World genus.
+    _Nycteris_ É. Geoffroy St.-Hilaire, 1803, is a synonym of
+    _Nycteris_ Cuvier and Geoffroy St.-Hilaire, 1795, as given status
+    by the Commission.
+
+    1831. _Lasiurus_ Gray, Zool. Misc., No. 1, p. 38. Type,
+    _Vespertilio borealis_ Müller.
+
+    1871. _Atalapha_ Peters, Monatsber. K. Preuss. Akad. Wiss., Berlin,
+    p. 907, and other authors [_nec Atalapha_ Rafinesque, 1814].
+
+    _Type species._--_Vespertilio borealis_ Müller.
+
+    _Diagnosis._--Interfemoral membrane large and most of its upper
+    surface furred; mammae 4; third, fourth and fifth fingers
+    progressively shortened; ear short and rounded; skull short and
+    broad; nares and palatal emargination wide and shallow (width
+    transversely exceeding length anteroposteriorly); sternum
+    prominently keeled; i. 1/3, c. 1/1, p. 1/2 or 2/2, m. 3/3; when
+    two upper premolars present, anterior one minute, peglike, and
+    displaced lingually; M3 much reduced, area of its crown less than
+    a third that of M1.
+
+    Members of this genus are notable for having three and even four
+    young (more than other bats). In North America at least _L.
+    borealis_ and _L. cinereus_, are migratory.
+
+
+Provisional Key to the Recent Species of _Lasiurus_
+
+1.  Color reddish or grayish (not yellowish); normally two premolars on
+each side of upper jaw.
+
+    2.  Occurring on Antillean islands (color reddish).
+
+        3.  Length of upper tooth-row less than 4.5 mm. (occurring on
+        Hispaniola and Bahamas) _L. minor_.
+
+        3'. Length of upper tooth-row more than 4.5 mm. (not occurring
+        on Hispaniola and Bahamas).
+
+            4.  Greatest length of skull less than 13.9 mm. (occurring
+            on Cuba) _L. pfeifferi._
+
+            4'. Greatest length of skull more than 13.9 mm. (occurring
+            on Jamaica) _L. degelidus._
+
+    2'. Occurring on mainland and coastal islands of North and South
+    America; also on Galapagos and Hawaiian islands (color reddish or
+    grayish).
+
+        5.  Total length more than 120 mm.; color grayish _L.
+        cinereus._
+
+        5'. Total length less than 120 mm.; color reddish.
+
+        6.  Upper parts brick red to rusty red, frequently washed with
+        white; lacrimal ridge present.
+
+            7.  Not occurring on Galapagos Islands _L. borealis._
+
+            7'. Known only from Galapagos Islands (both ear of 7.6 mm.
+            and thumb of 6.4 mm. allegedly shorter than in _L. borealis_
+            of adjacent mainland; presence of lacrimal ridge not verified)
+            _L. brachyotis._
+
+        6'. Upper parts not brick red to rusty red; lacrimal ridge not
+        developed.
+
+            8.  Forearm more than 46.5 mm. (48 in only known specimen,
+            a male); dorsum bright rufous (absence of lacrimal ridge
+            not verified) _L. egregius._
+
+            8'. Forearm less than 46.5 mm.; dorsum not bright rufous.
+
+                9.  Upper parts mahogany brown washed with white;
+                forearm less than 43 mm _L. seminolus._
+
+                9'. Upper parts deep chestnut; forearm more than 43 mm.
+                (44.8 in only known specimen, a female) _L. castaneus._
+
+1'. Color yellowish; only one premolar on each side of upper jaw.
+
+    10.  Total length more than 119 mm.; length of upper tooth-row 6.0
+    mm. or more _L. intermedius._
+
+    10'. Total length less than 119 mm.; length of upper tooth-row less
+    than 6.0 mm _L. ega._
+
+
+Lasiurus intermedius
+
+Northern Yellow Bat
+
+    _Diagnosis._--Upper parts yellowish-orange, or yellowish brown, or
+    brownish-gray faintly washed with black to pale yellowish gray;
+    size large (forearm, 45.2-62.8; condylocanine length, 16.9-21.5).
+
+_Distribution and Geographic Variation_
+
+_Lasiurus intermedius_ H. Allen, type from Matamoros, Tamaulipas, has
+been reported from the Rio Grande Valley of Texas southward to Honduras
+and in Cuba. _Lasiurus floridanus_ (Miller), type from Lake Kissimmee,
+Florida, has been recorded from southeastern Texas, eastward along the
+Gulf of Mexico to Florida, and thence northward along the Atlantic
+Coast to extreme southeastern Virginia (see records of occurrence
+beyond and Fig. 2). Specimens of _intermedius_ from the vicinity of the
+type locality and from other localities in México differ from specimens
+of _floridanus_ (from Florida and southern Georgia) as follows: Larger,
+both externally (especially forearm) and cranially (see measurements);
+teeth larger and heavier; skull heavier and having more prominent
+sagittal and lambdoidal crests; braincase less rounded, more elongate;
+auditory bullae relatively smaller; upper parts averaging brighter
+(yellowish to yellowish-orange in general aspect, rather than
+yellowish-brown to brownish-gray).
+
+The differences mentioned above are of the magnitude of those that
+ordinarily separate subspecies of a single species rather than two
+species. Miller (1902:392-393), in the original description of
+_floridanus_, noted that the differences between it and _intermedius_
+were slight and remarked (p. 393): "Indeed, it is probable that it
+intergrades with the Texas animal." Lowery (1936:17) also has suggested
+that intergradation might occur between _intermedius_ and _floridanus_
+"in southwestern Louisiana or eastern Texas"; later (1943:223-224) he
+pointed out that specimens from Baton Rouge, Louisiana, averaged larger
+in cranial dimensions than typical _floridanus_ and again mentioned
+the possibility of intergradation between the two kinds. Sanborn
+(1954:25-26) touched obliquely on the problem when he wrote: "In
+Florida, _Dasypterus intermedius_ is referred to as a Florida yellow
+bat (_Dasypterus floridanus_)." Handley (1960:478) wrote that certain
+morphological similarities suggested "gene flow" between the two kinds.
+
+Specimens examined from Louisiana resemble _floridanus_ from Georgia
+and Florida to the eastward in external dimensions. Some of those
+specimens resemble _floridanus_ in size of skull, but two skulls from
+Louisiana are inseparable from those of topotypes of _intermedius_. The
+upper parts of specimens from Louisiana are generally like those of
+animals to the east but average somewhat paler (less brownish). The
+specimens seen from Louisiana seem to be intergrades between
+_intermedius_ and _floridanus_ but clearly are assignable to the
+latter.
+
+[Illustration: FIG. 1. Condylocanine length plotted against length of
+forearm for specimens of the species _Lasiurus intermedius_.]
+
+The picture is less clear as regards bats from southeastern Texas (one
+specimen each from Colorado and Travis counties, and four specimens
+from Harris County). Five of the specimens have skulls (the Travis
+County specimen is a skin only) and of these, four are clearly
+assignable, on the basis of size and shape of the skull, to
+_intermedius_. The fifth skull (specimen from Colorado County) is
+intermediate in size between _floridanus_ and _intermedius_ and on
+that basis alone could be assigned with equal propriety to either. All
+these specimens from Texas more closely resemble _floridanus_ than
+_intermedius_ in external size (forearms: 49.2, 49.6, 50.7, 49.9
+(approximate), 49.6, 49.1). The pale yellowish-gray upper parts of the
+four adults, seemingly resulting from a dilution of the brownish color
+found in _floridanus_, differ from the color of typical specimens of
+both _intermedius_ and _floridanus_, but the average is nearer that of
+_floridanus_ than that of _intermedius_. Color of pre-adult pelage in
+the one July-taken young of the year resembles the color of adults. An
+August-taken young of the year is in process of acquiring the adult
+pelage but the hairs have not reached their full growth; it is pale
+yellowish but not so grayish as the other specimens. All characters
+considered, the specimens from eastern Texas resemble _floridanus_
+more than they do _intermedius_, and so are provisionally assigned to
+_floridanus_ (as was done by Taylor and Davis, 1947:19; Eads, _et
+al._, 1956:440; and, Davis, 1960:59). Additional material from
+southeastern Texas is needed. It will be remembered that the type
+locality of _intermedius_ is in the Rio Grande Valley; all specimens
+seen, in the study here reported on, from the Texas side of the valley
+are unquestionably referable to that subspecies.
+
+Intergradation, then, occurs between _L. intermedius_ and _L.
+floridanus_ in some degree in southern Louisiana and in more marked
+degree in southeastern Texas. Specimens from the area of intergradation
+vary more individually in many features than do specimens from other
+areas. In general the intergrades tend to resemble _floridanus_ in
+small size externally and _intermedius_ in large size of skull. The
+specimens from southeastern Texas differ from typical specimens of both
+subspecies in color, being pale yellowish-gray (instead of yellowish to
+yellowish-orange as in _intermedius_ or yellowish brown to
+brownish-gray as in _floridanus_), and this difference is shared to
+some extent with animals from Louisiana, the latter being somewhat
+intermediate between bats from Texas and those from Florida and
+Georgia, although nearer those from Florida and Georgia.
+
+An hypothesis to account for the variation noted is that in Wisconsin
+Time, and perhaps in earlier Pleistocene times, this yellow bat was (as
+it is now) a warmth-adapted animal as Blair (1959:461) would term it.
+Some cool period forced the mainland populations of the two species
+into two refugia--peninsular Florida and eastern México--and the
+present area of intergradation is, therefore, of a secondary rather
+than a primary type. Possibly also the relatively treeless area of part
+of southern Texas has made for a sparse population there of _Lasiurus
+intermedius_ and gene flow now may be, and long may have been, slight
+between the eastern and southern segments of the species.
+
+It could be contended that the peculiar coloration of specimens from
+southeastern Texas, coupled with the tendency to have a large skull (as
+has _intermedius_) and small external dimensions (as has _floridanus_),
+justifies subspecific recognition for the animals that here are termed
+intergrades. But, judging by the specimens now available, such
+subspecific recognition would tend to obscure rather than clarify the
+geographic variation noted.
+
+
+_Life History_
+
+Probably bats of the species _Lasiurus intermedius_ seek retreats
+primarily in trees (see Moore, 1949_a_:59-60) but Baker and Dickerman
+(1956:443) reported "approximately 45 yellow bats" concealed on July
+22, 1955, "among dried corn stalks hanging from the sides of a large
+open tobacco shed" in the state of Veracruz. Young are born in late
+spring, three being the only number known except that Davis (1960:59)
+was told that in the vicinity of Mission, Texas, two was the usual
+number "born in May and June." Sherman (1945:194) reported a female
+with young (number not given) taken on June 7, 1918, at Seven Oaks,
+Florida, and another with three young taken on June 20, 1941, at Ocala,
+Florida. Lowery (1936:17) recorded a female, having three young,
+obtained on June 17, 1932, at Baton Rouge, Louisiana. A specimen taken
+on May 19, 1940, at Baton Rouge contained three embryos. Baker and
+Dickerman (_loc. cit._) reported four adult females from Veracruz as
+lactating on July 22, 1955, but they were accompanied by flying young
+of the year and probably were near the end of the lactation period.
+Among specimens examined, juveniles are available by date as follows: 5
+mi. N Baton Rouge, Louisiana (June 26, 1953); Palm Beach, Florida (July
+6, 1950); and Izamal, Yucatán ("taken with mother" on July 28, 1910).
+Breeding probably takes place in autumn and winter; Sherman (_op.
+cit._:196) reported males from Florida as sexually "mature" from the
+beginning of September to mid-February. Late winter segregation of
+sexes has been reported.
+
+
+_Subspecies_
+
+In the following accounts, localities of occurrence in each state are
+listed from north to south; if two lie in the same latitude, the
+westernmost is listed first. Localities that are italicized are not
+shown on the distribution map (Fig. 2), either because undue crowding
+of symbols would result or, in several cases, because we could not
+precisely place the localities. Length of forearm is the average of
+both forearms in individuals in which both forearms could be measured.
+
+
+Lasiurus intermedius intermedius (H. Allen)
+
+    1862. _Lasiurus intermedius_ H. Allen, Proc. Acad. Nat. Sci.
+    Philadelphia, 14:246, "April" (between May 27 and August 1), type
+    from Matamoros, Tamaulipas.
+
+    _Geographic distribution._--Southern México (Yucatán, Chiapas and
+    Oaxaca), northward along Gulf Coast to Rio Grande Valley of
+    southern Texas (see Fig. 2).
+
+    _Diagnosis._--Size medium (see measurements); sagittal crest
+    present (height above braincase averaging 0.4 mm. in 12 from
+    Brownsville, Texas); interorbital region relatively broad; M3
+    relatively broad (see comparisons in account of the Cuban
+    subspecies beyond); mesostyle of M1 and M2 and 2nd commissure and
+    cingulum of M3 large; pelage yellowish to yellowish-orange.
+
+    _Comparisons._--See p. 79 and under accounts of _Lasiurus
+    intermedius floridanus_ and the Cuban subspecies.
+
+    _External measurements._--Three adult males from the Sierra de
+    Tamaulipas in Tamaulipas: Total length, 146, 136, 142; length of
+    tail-vertebrae, 69, 67, 70; length of hind foot, 11, 11, 11; length
+    of ear from notch, 17, 16, 17; length of forearm (dry), 53.2, 51.8,
+    51.9. Corresponding measurements for two adult females from 1 mi.
+    SW Catemaco, Veracruz: 149, 155; 64, 69; 11, 12; 17, 17; 51.8,
+    55.2. Weight in grams of the Tamaulipan specimens, respectively:
+    24, 21, 24. For cranial measurements see Table 1.
+
+    _Records of occurrence._--Specimens examined, 45, as follows:
+    TEXAS: 5-5/8 mi. N Mission, 2 (Texas A & M); _Santa Ana National
+    Wildlife Refuge_, 1 (USNM); Brownsville, 13 (4 AMNH; 1 Texas A & M;
+    8 USNM). TAMAULIPAS: _Matamoros_, 2 (USNM); Sierra de Tamaulipas,
+    1200 ft., 10 mi. W, 2 mi. S Piedra, 1 (KU); _Sierra de Tamaulipas,
+    1400 ft, 16 mi. W, 3 mi. S Piedra_, 2 (KU). VERACRUZ: 16 mi. SW
+    Catemaco, 15 (KU). OAXACA: Oaxaca, 1 (British Mus.). CHIAPAS: San
+    Bartolomé, 1 (USNM). YUCATAN: Tekom, 1 (Chicago Mus.); Izamal, 5
+    (USNM). HONDURAS: Río Yeguare, between Tegucigalpa and Danli, 1
+    (MCZ).
+
+    Additional records: TEXAS: _Padre Island_ (Miller, 1897:118);
+    _Cameron County_ (_ibid._). OAXACA: Tehuantepec (Handley,
+    1960:478). YUCATAN: _Yaxcach_ (not found, Gaumer, 1917:274).
+
+
+Lasiurus intermedius floridanus (Miller)
+
+    1902. _Dasypterus floridanus_ Miller, Proc. Acad. Nat. Sci.
+    Philadelphia, 54:392, September 12, type from Lake Kissimmee,
+    Oceola Co., Florida.
+
+    _Geographic distribution._--Extreme southeastern Virginia, south
+    along Atlantic Coast to and including peninsular Florida (except
+    possibly extreme southern tip), thence westward to southern
+    Louisiana and the southern part of eastern Texas (see Fig. 2).
+
+    _Diagnosis._--Size small (see measurements); sagittal crest present
+    but low; interorbital region relatively broad; teeth essentially as
+    in _L. i. intermedius_ except averaging smaller; pelage
+    yellowish-brown to grayish-brown. For comparison with the Cuban
+    subspecies, see account of that subspecies.
+
+    _Comparisons._--From _Lasiurus intermedius intermedius_, _L. i.
+    floridanus_ differs as follows: averaging smaller (see
+    measurements), especially in forearm and skull; teeth smaller;
+    skull having less prominent sagittal and lambdoidal crests;
+    braincase more nearly round; tympanic shields over petrosals
+    approximately same size and therefore relatively larger; pelage of
+    upper parts duller, yellowish-brown to brownish-gray instead of
+    yellowish to yellowish-orange.
+
+    _External measurements._--Average (and extremes) of 14
+    February-taken males from along the Aucilla River, Jefferson Co.,
+    Florida: Total length, 126.8 (121-131.5); length of tail-vertebrae,
+    54.2 (51-60); length of hind foot, 9.8 (8-11); length of ear from
+    notch (13 specimens), 16.3 (15-17); forearm (dry, 13 specimens),
+    48.1 (46.7-50.0). Corresponding measurements of the holotype, an
+    adult female (after Miller, 1902:392): 129, 52, 9, 17, 49. Average
+    (and extremes) weight in grams of the series of males: 17.7
+    (15.5-19.5). For cranial measurements see Table 1.
+
+    _Records of occurrence._--Specimens examined, 65, as follows:
+    TEXAS: Austin, 1 (Texas U.); _4 mi. N Huffman_, 1 (Texas A & M);
+    Houston, 3 (1 KU; 2 MVZ); Eagle Lake, 1 (Texas A & M). LOUISIANA: 5
+    mi. N Baton Rouge, 1 (LSU); _1 mi. W LSU Campus, Baton Rouge_, 1
+    (LSU); _Baton Rouge_, 7 (1 AMNH; 5 LSU; 1 USNM); _1/2 mi. E Baton
+    Rouge_, 1 (LSU); North Island, Grand Lake, 1 (LSU); Lafayette, 2
+    (USNM); Houma, 2 (USNM). GEORGIA: Beachton, 11 (6 Chicago Mus.; 5
+    USNM). FLORIDA: _2 mi. S Tallahassee_, 1 (AMNH); 5 mi. W
+    Jacksonville, 1 (AMNH); Aucilla River, 15 mi. S Waukenna, 7 (Univ.
+    Fla.); _Aucilla River, at U.S. Hgy. 98_, 8 (Univ. Fla.); _W of
+    Gainesville_, 1 (Univ. Fla.); Gainesville, 3 (2 Univ. Fla.; 1 Univ.
+    Mich.); _near Gainesville_, 1 (Univ. Fla.); _Alachua County_, 1
+    (Univ. Mich.); 2 mi. SW Deland, 2 (Univ. Fla.); head of
+    Chassahowitzka River, 1 (USNM); Lakeland, 2 (Univ. Fla.); Seven
+    Oaks [near present town of Safety Harbor], 2 (1 AMNH; 1 USNM); Lake
+    Kissimmee, 1 (USNM); Palm Beach, 1 (Univ. Fla.); _Mullet Lake_ (not
+    found), 1 (USNM).
+
+    Additional records: VIRGINIA: Willoughby Beach (Rageot, 1955:456).
+    SOUTH CAROLINA: 5 mi. NW Charleston (Coleman, 1940:90). LOUISIANA:
+    New Orleans (Lowery, 1943:223). MISSISSIPPI: Hancock County
+    (Hamilton, 1943:107). Georgia: W edge Camilla (Constantine,
+    1958:65). FLORIDA (Sherman, 1945:195, unless otherwise noted): _St.
+    Marys River_ [near Boulogue]; _vicinity Palm Valley_ (Ivey,
+    1959:506); _6 mi. N Lake Geneva_ (Sherman, 1937:108); Old Town;
+    Welaka (Moore, 1949a:59); Bunnell; Ocala; _Davenport_;
+    _Hillsborough River State Park_; 1 mi. NE Punta Gorda (Frye,
+    1948:182); Miami (Moore, 1949_b_:50).
+
+
+Lasiurus intermedius insularis, new subspecies
+
+    _Holotype._--Adult female, preserved in alcohol but having skull
+    removed, formerly in the Poey Museum, University of Havana, now No.
+    81666, Museum of Natural History, University of Kansas, from
+    Cienfuegos, Las Villas Province, Cuba; obtained on January 23,
+    1948, by D. Gonzáles Muñoz.
+
+    _Geographic distribution._--Known only from the island of Cuba (see
+    Fig. 2).
+
+    _Diagnosis._--Large throughout (see measurements); sagittal crest
+    enormously developed, especially posteriorly (height above
+    braincase averaging 1.7 mm. in 4 specimens); interorbital region
+    narrow; M3 narrow; mesostyle of M1 and M2 and 2nd commissure and
+    cingulum of M3 small; pelage yellowish to reddish-brown.
+
+    _Comparisons._--From _Lasiurus intermedius intermedius_ of the
+    adjacent mainland of México, _L. i. insularis_ differs as follows:
+    Larger, both externally and cranially; sagittal crest relatively
+    higher, especially posteriorly; interorbital region relatively
+    narrower; palate longer posterior to tooth-rows; teeth distinctly
+    larger throughout except M3, which is relatively (frequently
+    actually) narrower, averaging 66.1 (62.5-71.0) per cent width of M2
+    in _insularis_ rather than 74.1 (66.6-79.3) per cent in 10
+    _intermedius_ from Brownsville, Texas; mesostyle of M1 and M2
+    relatively smaller as are second commissure and cingulum of M3;
+    coloration of No. 254714 USNM resembling that of _L. i.
+    intermedius_, but coloration of three specimens, preserved in
+    alcohol, averaging somewhat darker (more reddish-brown) than in
+    _intermedius_.
+
+[Illustration: FIG. 2. Geographic distribution of the three
+subspecies of _Lasiurus intermedius_.
+
+    1. _L. i. floridanus_
+    2. _L. i. intermedius_
+    3. _L. i. insularis_
+
+Black dots represent localities of capture of specimens examined.
+Hollow circles represent localities of capture of other specimens
+recorded in the literature but not examined by us (Hall and Jones).]
+
+    From _Lasiurus intermedius floridanus_ of the adjacent Floridan
+    mainland, _L. i. insularis_ differs in many of the same ways that
+    it differs from _L. i. intermedius_, except that the differences
+    are even more trenchant because _floridanus_ is smaller than
+    _intermedius_. Indeed, the difference in size between _floridanus_
+    and _insularis_ is approximately the same as between _Lasiurus
+    borealis_ and _Lasiurus cinereus_.
+
+    _Measurements._--External measurements (all taken from specimens
+    preserved in alcohol) of the holotype, followed by those of two
+    other females, one from Laguna La Deseada, San Cristóbal, Pinar del
+    Río Province, and the other from Bayate, Guantánamo, Oriente
+    Province, are, respectively: Total length, 164, 161, 150; length of
+    tail-vertebrae, 68, 76, 77; length of hind foot, 12, 12, 13; length
+    of ear from notch, 20, 17, 19; length of forearm, 61.2, 62.6, 61.8.
+    The length of forearm of a study skin from San Germán (that
+    otherwise lacks external measurements) having wings spread is
+    approximately 55.4. For cranial measurements see Table 1.
+
+_Remarks._--Four of the five specimens on which the name _L. i.
+insularis_ is based differ to such a degree from mainland populations
+of the species _L. intermedius_ that specific rather than subspecific
+recognition for the Cuban bat might seem warranted. It is because of
+the fifth specimen (USNM 254714) that we accord subspecific rank to
+_insularis_. It is smaller than the other Cuban specimens and except
+for longer condylocanine length, longer mandibular tooth-rows, narrower
+interorbital region, and heavier dentition is indistinguishable in
+measurements from the largest specimens of _L. i. intermedius_ from the
+mainland. In addition, it appears not to have the enormously developed
+sagittal crest of the other specimens of _insularis_ although
+posteriorly the dorsal part of the skull (where the crest is most
+prominent) is missing. USNM 254714 agrees with the other Cuban
+specimens in having the mesostyle of M1 and M2 somewhat reduced and in
+having a small M3 on which the cingulum and second commissure are
+poorly developed, and this specimen is regarded as representative of
+the lower size limits of the Cuban population.
+
+The skull from San Bias was found in an owl pellet (see de Beaufort,
+1934:316).
+
+    _Records of occurrence._--Specimens examined, 5, all from Cuba, as
+    follows: Pinar del Río Prov.: Laguna La Deseada, San Cristóbal, 1
+    (Poey Museum). Las Villas Prov.: Cienfuegos, 1 (KU, the holotype).
+    Camaguey Prov.: San Bias, 1 (Amsterdam Zoological Museum). Oriente
+    Prov.: San Germán, 1 (USNM); Bayate, Guantánamo, 1 (Ramsdem Museum,
+    Univ. Oriente).
+
+
+TABLE 1.--CRANIAL MEASUREMENTS (IN MILLIMETERS) OF THREE SUBSPECIES
+OF LASIURUS INTERMEDIUS
+
+Table Legend:
+
+Col. A: Catalogue number or number of specimens averaged
+Col. B: Museum
+Col. C: Sex
+Col. D: Locality
+Col. E: Condylocanine length
+Col. F: Zygomatic breadth
+Col. G: Interorbital breadth
+Col. H: Alveolar length C-M3
+Col. I: Breadth of rostrum (between anterior openings of intraorbital canals)
+Col. J: Mastoid breadth
+Col. K: Length of mandibular tooth-row (i-m3)
+
+============================================================================
+   A   |   B   | C |        D            | E  | F  | G  | H  | I  | J  | K  |
+-------+-------+---+---------------------+----+----+----+----+----+----+----+
+                     _Lasiurus intermedius floridanus_
+-------+-------+---+---------------------+----+----+----+----+----+----+----+
+Ave. 10|  UF   |[M]|[1]Aucilla River,    |    |    |    |    |    |    |    |
+       |       |[M]|     Florida         |17.6|12.8| 5.0| 6.2| 7.2|10.0| 8.0|
+               |   |                     |    |    |    |    |    | [2]|    |
+ Min.  |  --   |-- |        --           |17.0|12.6| 4.7| 6.0| 6.9| 9.6| 7.8|
+ Max.  |  --   |-- |        --           |18.2|13.0| 5.3| 6.4| 7.5|10.2| 8.2|
+       |       |   |                     |    |    |    |    |    |    |    |
+  1788 |  LSU  |[F]|Baton Rouge, La.     |18.7| -- | 5.1| 6.7| 7.7| -- | 8.8|
+  1820 |  LSU  |[F]|Baton Rouge, La.     |18.5| -- | -- | 6.7| 7.2|10.1| 8.7|
+  1840 |  LSU  |[M]|Baton Rouge, La.     |18.0|12.7| 5.0| 6.4| 7.1| 9.9| 8.0|
+  6790 |  LSU  |[M]|Baton Rouge, La.     |18.0|12.8| 4.9| 6.5| 7.2| 9.9| 8.2|
+  3681 |  LSU  |[M]|7 mi. SE Baton       |    |    |    |    |    |    |    |
+       |       |   |  Rouge, La.         |17.7|12.6| 5.0| 6.4| 7.0| 9.8| 8.2|
+  6791 |  LSU  |[F]|Grand Lake, La.[3]   |17.9|12.6| 4.9| 6.3| 7.2| 9.9| 8.3|
+       |       |   |                     |    |    |    |    |    |    |    |
+ 84218 |  MVZ  |[F]|Houston, Texas.      |19.1|13.8| 5.1| 6.6| 7.5|10.3| 8.7|
+   769 | TAMC  |[F]|4 mi. N Huffman,     |    |    |    |    |    |    |    |
+       |       |   |  Texas              |18.8|13.4| 5.0| 6.7| 7.7| -- | 8.7|
+  3805 | TAMC  |[M]|Eagle Lake, Texas.   |18.1|12.9| 4.8| 6.6| 7.2| 9.8| 8.5|
+-------+-------+---+---------------------+----+----+----+----+----+----+----+
+
+                    _Lasiurus intermedius intermedius_
+-------+-------+---+---------------------+----+----+----+----+----+----+----+
+  1437 | USNM  | ? |Matamoros, Tamaulipas|18.9|13.6| 5.1| 6.6| 7.5|10.7| 8.9|
+  1439 | USNM  | ? |Matamoros, Tamaulipas|19.0|14.0| 5.3| 6.6| 7.8|10.7| 8.8|
+       |       |   |                     |    |    |    |    |    |    |    |
+Ave. 12|USNM   | ? ||Brownsville, Texas  |18.7|13.8| 5.2| 6.6| 7.7|10.4| 8.7|
+       |   [4] |[5]|                     | [6]| [6]|    |    |    | [6]|    |
+Min.   |  --   | --|         --          |18.1|13.0| 4.9| 6.4| 7.4|10.0| 8.4|
+Max.   |  --   | --|         --          |19.2|14.7| 5.5| 7.0| 8.2|11.1| 9.0|
+       |       |   |                     |    |    |    |    |    |    |    |
+ 55317 |  KU   |[M]|Sierra de Tamaulipas |    |    |    |    |    |    |    |
+       |       |   |                 [7] |18.2|13.2| 5.5| 6.2| 7.6|10.3| 8.0|
+ 55322 |  KU   |[M]|Sierra de Tamaulipas |    |    |    |    |    |    |    |
+       |       |   |                 [8] |18.4|13.7| 5.2| 6.5| 7.4|10.6| 8.4|
+ 55324 |  KU   |[M]|Sierra de Tamaulipas |    |    |    |    |    |    |    |
+       |       |   |                 [8] |18.3|13.2| 5.1| 6.5| 7.6|10.3| 8.1|
+ 67549 |  KU   |[F]|Catemaco, Veracruz   |19.0|13.5| 5.0| 6.5| 7.5|10.2| 8.8|
+ 67550 |  KU   |[F]|Catemaco, Veracruz   |19.0|13.5| 4.7| 6.4| 7.6|10.3| 8.7|
+-------+-------+---+---------------------+----+----+----+----+----+----+----+
+
+                _Lasiurus intermedius insularis_ (all from Cuba)
+-------+-------+---+---------------------+----+----+----+----+----+----+----+
+  2395 | AZM   | ? |Cave near San Bias   |21.4|15.1| 4.8| 7.3| 8.4|11.9|9.5+|
+254714 | USNM  |[M]|San Germán, Oriente  |19.5|14.1| 4.8| 6.9| 7.8|11.0| 9.3|
+ 81666 | KU    |[F]|Cienfuegos,          |    |    |    |    |    |    |    |
+       |       |   |  Las Villas         |20.5|15.2| 4.6| 7.2| 8.2|11.9| 9.6|
+       |       |   |                     |    |    |    |    |    |    |    |
+       |Poey   |   |                     |    |    |    |    |    |    |    |
+       | Mus.  |[F]|San Cristóbal,       |    |    |    |    |    |    |    |
+       |       |   |  Pinar del Río      |21.5|15.6| 4.7| 7.5| 8.9| 1.8| 9.7|
+       |       |   |                     |    |    |    |    |    |    |    |
+       |Ramsdem|   |                     |    |    |    |    |    |    |    |
+       |Oriente|   |Bayate, Guantánamo,  |    |    |    |    |    |    |    |
+       |  Univ.|[F]|  Oriente            |20.9|14.8| 4.6| 7.3| 8.4|11.2| 9.7|
+-------+-------+---+---------------------+----+----+----+----+----+----+----+
+
+      [1] "Rt. 98" and "15 mi. S Waukenna" both in Jefferson Co.
+
+      [2] Only nine specimens.
+
+      [3] "N Island, Grand Lake, Iberville Parish."
+
+      [4] Some in Amer. Mus. Nat. History.
+
+      [5] Females, 8; males, 3; unsexed, 1.
+
+      [6] Only 11 specimens.
+
+      [7] 10 mi. W, 2 mi. S Piedra, Tamaulipas.
+
+      [8] 16 mi. W, 3 mi. S Piedra, Tamaulipas.
+
+
+Lasiurus ega
+
+Southern Yellow Bat
+
+    _Diagnosis._--Upper parts yellowish-brown (much as in _Lasiurus
+    intermedius floridanus_ from Louisiana) having overlay of grayish
+    or blackish anterior to shoulders; hair on basal half of
+    interfemoral membrane more yellowish than elsewhere; size medium
+    (forearm 42.7-52.2; condylocanine length 14.6-16.3).
+
+This species occurs from the southwestern United States (Palm Springs,
+California, and Tucson, Arizona) southward into Uruguay and
+northeastern Argentina. Of the six currently (see Handley, 1960)
+recognized subspecies of _L. ega_, four occur only in South America,
+and two occur only in North America.
+
+Cabrera (1958:115) regarded _Dasypterus ega fuscatus_ Thomas
+(1901:246), based on three specimens from Río Cauquete, Río Cauca,
+Colombia, as a synonym of _Dasypterus ega panamensis_ Thomas (_loc.
+cit._) that was based on a specimen from Bogava, 250 meters elevation,
+Chiriquí, Panamá. The latter name has line priority over _fuscatus_.
+Cabrera (1958:116) remarked that: "Las diferencias que Thomas señaló
+entre el _Dasypterus_ de Panamá y el de Colombia (_fuscatus_) nos
+parecen estar dentro de los límites de la variación individual, siendo
+además muy raro que una especie de quiróptero este representada en
+Colombia y en Panamá por razas diferentes."
+
+On July 16, 1958, at the British Museum of Natural History, one of us
+(Hall) examined the holotypes of _panamensis_ and _fuscatus_, as well
+as other materials used by Thomas, and readily perceived the
+differences that he pointed out. Thomas' description, although terse,
+is accurate. _L. e. fuscatus_ is much more blackish than _panamensis_.
+We are inclined to retain the two names as applicable to two
+subspecies. Whether or not _fuscatus_ is synonymized under
+_panamensis_, the holotype of _panamensis_ is an intergrade between the
+almost black Colombian animal (_fuscatus_) and the paler individuals in
+Central America and territory north thereof. Even so, the holotype of
+_panamensis_ more closely resembles the blackish Colombian population
+than the paler populations to the north and the name _panamensis_,
+therefore, is correctly applicable to the bat from Panamá, but not to
+bats of the species _Lasiurus ega_ from farther north as most authors
+(see, for example, Hall and Kelson, 1959:194, map 143; and Handley,
+1960:474) suggested was the case. For the populations north of Panamá
+the name _Lasiurus ega xanthinus_ (Thomas) (1897:544) needs to be used.
+
+
+Lasiurus ega xanthinus (Thomas)
+
+    1897. _Dasypterus ega xanthinus_ Thomas, Ann. Mag. Nat. Hist.,
+    ser. 6, 20:544, December, type from Sierra Laguna, Baja California.
+
+    1953. _Lasiurus ega xanthinus_, Dalquest, Louisiana State
+    Univ. Studies, Biol. Ser., 1:61, December 28.
+
+    _Geographic distribution._--Southern California, southern
+    Arizona, and northern Coahuila southward through México to southern
+    Costa Rica.
+
+    _Diagnosis._--Yellowish-brown with an overlay of grayish
+    anterior to the shoulders; forearm, 42.7-47.2.
+
+    _Remarks._--Specimens from Baja California and the adjacent
+    western part of the mainland of México average paler than specimens
+    from Veracruz and some places in Central America but the
+    differences are slight.
+
+    _Records of occurrence._--Specimens examined, 21, as follows:
+    BAJA CALIFORNIA.--Comondú, 1 (USNM); Sierra Laguna, 4 (1
+    USNM, 3 British Mus.). COAHUILA.--4 mi. W Hacienda La
+    Mariposa, 2300 ft., 2 (KU). ZACATECAS.--Concepción del
+    Oro, 7680 ft., 4 (KU). TAMAULIPAS.--Sierra de Tamaulipas,
+    1200 ft., 10 mi. W, 2 mi. S Piedra, 5 (KU); 16 mi. W, 3 mi. S
+    Piedra, 1 (KU). SINALOA.--1 mi. S Pericos, 1 (KU).
+    VERACRUZ.--Achotal, 1 (Chicago Mus.).
+    YUCATAN.--Yaxcach, 1 (USNM). COSTA RICA.--Lajas,
+    Villa Quesada, 1 (AMNH); San José, 1 (AMNH).
+
+    _Additional records:_ CALIFORNIA: Palm Springs
+    (Constantine, 1946:107). ARIZONA: Tucson (Cockrum,
+    1961:97). BAJA CALIFORNIA (Handley, 1960:474): Santa Ana;
+    Miraflores. SINALOA: Escuinapa (Handley, 1960:475).
+    DURANGO: Aguajequiroz, 12 mi. SSW Mapimí, 5000 ft. (Greer,
+    1960:511). SAN LUIS POTOSI (Dalquest, 1953:62): 1-1/2 mi.
+    E Río Verde; 19 km. SW Ebano; 4 mi. SSW Ajinche. QUINTANA
+    ROO: 7 mi. N, 37 mi. E Puerto de Morelos (Ingles, 1959:384).
+    HONDURAS: Tegucigalpa (Handley, 1960:474).
+
+
+Lasiurus ega panamensis (Thomas)
+
+    1901. _Dasypterus ega panamensis_ Thomas, Ann. Mag. Nat. Hist.,
+    ser. 7, 8:246, September, type from Bogava [= Bugaba], Chiriquí,
+    250 meters, Panamá.
+
+    1960. _Lasiurus ega panamensis_, Handley, Proc. U.S. Nat. Mus.,
+    112:474, October 6.
+
+    _Geographic distribution._--Panamá; also recorded by Handley
+    (1960:474) from Venezuela.
+
+    _Diagnosis._--"General colour dark brownish clay-color, something
+    between Ridgway's 'raw-umber' and 'clay-color'. Fur black basally,
+    then dull brownish buffy, the extreme tips black. Center of face
+    similar to back, cheeks from eyes to lips contrasting black. Rump
+    and hairy part of interfemoral verging toward brownish fulvous.
+    Under surface similar to upper." (Thomas, 1901:246.) Forearm of
+    holotype, 46.5.
+
+    _Remarks._--Notes taken down by one of us (Hall) on July 16, 1958,
+    at the British Museum, Natural History, contain the following:
+    "Color accurately described by Thomas. The blackish stands out. The
+    difference between the types of _D. e. panamensis_ and _D. e.
+    xanthinus_ is tremendous."
+
+    _Record of occurrence._--Specimen examined, one, the type (British
+    Mus.).
+
+
+
+
+RELATIONS BETWEEN THE SPECIES OF LASIURUS
+
+
+As suggested by Dalquest in 1953 (p. 62) and by Handley in 1959 (p.
+119) and 1960 (p. 473), the yellow bats, _Lasiurus ega_ (Gervais) and
+_Lasiurus intermedius_ H. Allen, so closely resemble the hoary bat,
+_Lasiurus cinereus_ (Palisot de Beauvois), and the red bats, _Lasiurus
+borealis_ (Müller) and the seven related species listed below, that
+all are properly included in a single genus. Many of the common
+characteristics are enumerated above in the diagnosis of the genus
+(see also Handley, 1960:473).
+
+[Illustration: FIG. 3. Diagram of bones of right arm and third finger
+(middle digit) including cartilage on distal end of terminal (3rd)
+phalanx. Percentages are in terms of the over-all length of the arm and
+third finger.]
+
+A listing of the differences between the species is less impressive
+than a listing of the resemblances. The yellow bats differ less from
+the red bats than does the hoary bat, _L. cinereus_, which differs from
+all of the others as follows: talonid on m3 larger; p4 single-rooted
+instead of double-rooted; hypocone on M1 and M2 smaller; coronoid
+process lower; ossified part of tympanic ring, which shields the
+petrosal, larger; humerus relatively shorter; forearm relatively
+longer; first phalanx of middle finger relatively shorter; presternum
+including keel longer than wide instead of _vice versa_. The
+differences in the sternum and proportions of the forelimb reflect the
+more rapid flight of the hoary bat. The yellow bats differ from the red
+bats and hoary bat in long rostrum, pronounced sagittal crest, high
+coronoid process, absence of the first upper premolar, long first
+phalanx of the third digit and short terminal (3rd) phalanx of the same
+digit. Features in which the red bats are extreme in the genus are
+short rostrum, short forearm, and relatively longer second phalanx of
+the third finger. The red bats differ only slightly one from another.
+
+Next to nothing is known of extinct Tertiary ancestors of species of
+the genus _Lasiurus_. Also relatively little is known about _Lasiurus_
+in the Pleistocene. Consequently, evolution of the living species has
+to be inferred almost entirely from what is known about their
+structure, habits, and geographic distribution. Figure 4 presents some
+ideas concerning relationships.
+
+[Illustration: FIG. 4. Postulated relationships of species of the genus
+_Lasiurus_.]
+
+
+
+
+LIST OF NAMED KINDS OF THE GENUS LASIURUS
+
+
+The words "type from" indicate that a specimen or specimens served as
+basis for the name. The words "type locality" signify lack of knowledge
+as to whether a specimen was preserved.
+
+
+Red Bats
+
+_Lasiurus borealis borealis_ (Müller), 1776, type from New York.
+
+    [_Vespertilio_] _noveboracensis_ Erxleben, 1777, based, in part,
+    on "Der Neujorker" of Müller (_ante_).
+
+    _Vespertilio lasiurus_ Schreber, 1781, type locality, North
+    America.
+
+    _Vespertilio rubellus_ Palisot de Beauvois, 1796, type locality
+    unknown.
+
+    _Vespertilio rubra_ Ord, 1815, based on the red bat of Wilson,
+    Amer. Ornith., 6:60.
+
+    _Vespertilio tesselatus_ Rafinesque, 1818, type locality unknown.
+
+    _Vespertilio monachus_ Rafinesque, 1818, type locality unknown.
+
+    _Vespertilio rufus_ Warden, 1820, based on the red bat of Wilson,
+    _ibid._
+
+    _Lasiurus funebris_ Fitzinger, 1870, type locality, Tennessee.
+
+    _Myotis quebecensis_ Yourans, 1930, type from Anse-à-Wolfe,
+    Quebec.
+
+_Lasiurus borealis frantzii_ (Peters), 1871, type from Costa Rica.
+
+_Lasiurus borealis teliotis_ (H. Allen), 1891, type probably from
+California.
+
+    _Lasiurus borealis ornatus_ Hall, 1951, type from Penuela,
+    Veracruz.
+
+_Lasiurus borealis varius_ (Poeppig), 1835, type from Antuco,
+Provincia de Bió-Bió, Chile.
+
+    _Nycticeus poepingii_ Lesson, 1836, type from Chile.
+
+    _Lasiurus borealis salinae_ Thomas, 1902, type from Cruz del Eje,
+    Cordoba, Argentina.
+
+_Lasiurus borealis blossevillii_ Lesson and Garnot, 1826, type from
+Montevideo, Uruguay.
+
+    _Vespertilio bonariensis_ Lesson, 1827, type from Buenos Aires,
+    Argentina.
+
+    _Lasiurus enslenii_ Lima, 1926, type from São Lourenço, Rio Grande
+    do Sul, Brazil.
+
+_Lasiurus pfeifferi_ (Gundlach), 1861, type from Cuba.
+
+_Lasiurus degelidus_ Miller, 1931, type from Sutton's, District of
+Vere, Jamaica.
+
+_Lasiurus minor_ Miller, 1931, type from "Voute l'Eglise," 1350 ft., a
+cave near the Jacmel road a few kilometers N Trouin, Haiti.
+
+_Lasiurus seminolus_ (Rhoads), 1895, type from Tarpon Springs,
+Pinellas Co., Florida.
+
+_Lasiurus castaneus_ Handley, 1960, type from Tacarcuna Village, 3200
+ft., Río Pucro, Darién, Panamá.
+
+_Lasiurus egregius_ (Peters), 1871, type from Santa Catarina, Brazil.
+
+_Lasiurus brachyotis_ (J. A. Allen), 1892, type from San Cristóbal
+Island, Galapagos Islands.
+
+
+Yellow Bats
+
+_Lasiurus golliheri_ (Hibbard and Taylor), Contributions Mus. Paleo.,
+Univ. Michigan, 16:162, fig. 10F, July 1, 1960 [an extinct species],
+type from [a stratum of Late Pleistocene Age] "Below the caliche bed
+in the Kingsdown formation; Cragin Quarry local fauna, locality 1
+(Sangamon age); Big Springs Ranch, SW 1/4 sec. 17, T. 32 S., R. 28 W.
+(Kansas University Locality 6), Meade County, Kansas."
+
+_Lasiurus ega xanthinus_ (Thomas), 1897, type from Sierra Laguna, Baja
+California.
+
+_Lasiurus ega panamensis_ (Thomas), 1901, type from Bugaba, Chiriquí,
+Panamá.
+
+_Lasiurus ega fuscatus_ (Thomas), 1901, type from Río Cauquete,
+Colombia.
+
+_Dasypterus ega punensis_ J. A. Allen, 1914, type from Isla de Puná,
+Ecuador.
+
+_Lasiurus ega ega_ (Gervais), 1856, type from Ega, Estado de Amazonas,
+Brazil.
+
+    _Lasiurus caudatus_ Tomes, 1857, type from Pernambuco, Brazil.
+
+_Lasiurus ega argentinus_ (Thomas), 1901, type from Goya, Province of
+Corrientes, Argentina.
+
+_Lasiurus intermedius intermedius_ H. Allen, 1862, type from
+Matamoros, Tamaulipas, México.
+
+_Lasiurus intermedius floridanus_ (Miller), 1902, type from Lake
+Kissimmee, Osceola Co., Florida.
+
+_Lasiurus intermedius insularis_ Hall and Jones, 1961, type from
+Cienfuegos, Las Villas Province, Cuba.
+
+
+Hoary Bats
+
+_Lasiurus fossilis_ Hibbard, Contributions Mus. Paleo., Univ. Michigan,
+8(No.6): 134, fig. 5, June 20, 1950 [an extinct species], type from [an
+early Pleistocene or a late Pliocene deposit] "Rexroad formation,
+Rexroad fauna. Locality UM-K1-47, Fox Canyon, XI Ranch, Meade County,
+Kansas."
+
+_Lasiurus cinereus cinereus_ (Palisot de Beauvois), 1796, type from
+Philadelphia, Pennsylvania. Known from Late Pleistocene time as well as
+from Recent time (see Hibbard and Taylor, Contributions Mus. Paleo.,
+Univ. Michigan, 16:159, fig. 10A, July 1, 1960, for occurrence in
+Cragin Quarry local fauna, Sangamon Age, Meade County, Kansas).
+
+    _Vespertilio pruinosus_ Say, 1823, type from Engineer Cantonment,
+    Washington Co., Nebraska.
+
+    _A[talapha]. mexicana_ Saussure, 1861, type from an unknown
+    locality, probably from Veracruz, Puebla, or Oaxaca.
+
+_Lasiurus cinereus villosissimus_ É. Geoffroy St.-Hilaire, 1806, type
+locality, Asunción, Paraguay.
+
+    _Lasiurus grayi_ Tomes, 1857, type from Chile.
+
+    _Atalapha pallescens_ Peters, 1871, type from Paramo de la Culata,
+    Andes de Mérida, Venezuela.
+
+    _Atalapha cinerea brasiliensis_ Pira, 1905, type from Ignape, São
+    Paulo, Brazil.
+
+_Lasiurus cinereus semotus_ (H. Allen), 1890, type from Hawaii.
+
+
+
+
+EXPLANATION AND ACKNOWLEDGMENTS
+
+
+Hall and Jones are jointly responsible for the accounts of the two
+species of yellow bats, but Hall alone assumes responsibility for the
+other parts of the paper. Thanks are extended to the National Science
+Foundation for financial support (Grant No. 56 G 103) of the study here
+reported on. We are grateful also to the following persons for the loan
+of specimens in their care: S. B. Benson, Museum of Vertebrate Zoology,
+University of California (MVZ); W. F. Blair, Department of Zoology,
+University of Texas (Univ. Texas); W. B. Davis, Dept. Wildlife
+Management, Agricultural and Mechanical College of Texas (TAMC or Texas
+A & M); D. H. Johnson, C. O. Handley, Jr., and W. H. Setzer, U.S.
+National Museum (USNM); Barbara Lawrence, Museum of Comparative Zoology
+at Harvard College (MCZ); J. N. Layne, Department of Biology,
+University of Florida (UF); G. H. Lowery, Jr., Museum of Natural
+History, Louisiana State University (LSU); P. J. H. van Bree,
+Department of Mammals, Zoölogisch Museum, Amsterdam (AZM); and R. G.
+Van Gelder, American Museum of Natural History (AMNH). Thanks are
+extended also to E. T. Hooper and W. H. Burt, Mus. Zoology, University
+of Michigan (Univ. Mich.), to Philip Hershkovitz, Chicago Natural
+History Museum (Chicago Mus.), and to Peter Crowcroft, British Museum,
+Natural History, for permission to examine specimens there. Mr.
+Gilberto Silva Taboada arranged the loan of specimens from the Poey
+Museum, University of Havana and from the Ramsdem Museum, University of
+Oriente, both in Cuba. Mr. Silva Taboada and Dr. Carlos G. Aguayo of
+the Poey Museum graciously arranged an exchange of specimens whereby
+the holotype of _L. i. insularis_ became the property of the Museum of
+Natural History, University of Kansas. Specimens in the last mentioned
+institution are identified with the symbol KU.
+
+
+
+
+LITERATURE CITED
+
+
+ALLEN, H.
+
+1862. Descriptions of two new species of Vespertilionidae, and some
+remarks on the genus Antrozous. Proc. Acad. Nat. Sci. Philadelphia, pp.
+246-248, "April" but between May 27 and August 1.
+
+1894. A monograph of the bats of North America. Bull. U.S. Nat. Mus.,
+43:i-ix + 1-198, pls. 1-38, March 14.
+
+BAKER, R. H., and DICKERMAN, R. W.
+
+1956. Daytime roost of the yellow bat in Veracruz. Jour. Mamm., 37:443,
+September 11.
+
+BLAIR, W. F.
+
+1959. Distributional patterns of vertebrates in the southern United
+States in relation to past and present environments. Pp. 443-468, _in_
+Hubbs, C. L. (ed.), Zoogeography, Amer. Assoc. Adv. Sci. Publ. 51:x +
+509, January 16.
+
+BORKHAUSEN, M. B.
+
+1797. Der Zoologe (Compendiose Bibliothek gemeinnützigsten Kenntnisse
+für alle Stände, pt. xxi), Heft iv-vii [including page 66; original not
+seen].
+
+CABRERA, A.
+
+1958. Catalogo de los mamíferos de America del Sur. Rev. Mus. Argentino
+Cienc., Nat. Cienc., Zool., 4(1):l-307, March 27.
+
+COCKRUM, E. L.
+
+1960. Southern yellow bat from Arizona. Jour. Mamm., 42:97, February
+20.
+
+COLEMAN, R. H.
+
+1940. Dasypterus floridanus in South Carolina. Jour. Mamm., 21:90,
+February 15.
+
+CONSTANTINE, D. G.
+
+1946. A record of Dasypterus ega xanthinus from Palm Springs,
+California. Bull. Southern California Acad. Sci., Los Angeles, 45:107,
+September 20.
+
+1958. Ecological observations on lasiurine bats in Georgia. Jour.
+Mamm., 39:64-70, 1 fig., February 20.
+
+DALQUEST, W. W.
+
+1953. Mammals of the Mexican state of San Luis Potosí. Louisiana State
+Univ. Studies, Biol. Ser., 1:1-229, 1 fig., December 28.
+
+DAVIS, W. B.
+
+1960. The mammals of Texas. Game and Fish Comm., Bull. 41:1-252, 73
+figs., 64 maps.
+
+DE BEAUFORT, L. F.
+
+1934. Dasypterus intermedius H. Allen in Cuba. Jour. Mamm., 15:316,
+November 15.
+
+EADS, R. B., MENZIES, G. C., and WISEMAN, J. S.
+
+1956. New locality records for Texas bats. Jour. Mamm., 37:440,
+September 11.
+
+FRYE, O. E., JR.
+
+1948. Extension of range of two species of bats in Florida. Jour.
+Mamm., 29:182, May 14.
+
+GAUMER, G. F.
+
+1917. Monografía de los mamíferos de Yucatán. Dept. Talleres Gráficos
+Secretaría Fomento, México, xli + 331 pp., 57 pls., 2 photographs, 1
+map.
+
+GERVAIS, P.
+
+1856. _In_ Castelnau, F. L. de Laporte. Expédition dans les parties
+centrales de l'Amérique du Sud ... pendant ... 1843 a 1847..., vol. for
+1855 [part], pp. 25-88, pls. 7-15.
+
+GRAY, J. E.
+
+1831. Descriptions of some new genera and species of bats. Zoological
+Miscellany, No. 1, pp. 37-38.
+
+GREER, J. K.
+
+1960. Southern yellow bat from Durango, México. Jour. Mamm., 41:511,
+November 11.
+
+HALL, E. R., and KELSON, K. R.
+
+1959. The mammals of North America. The Ronald Press Co., New York,
+1280 pp., 1231 illustrations, March 31.
+
+HAMILTON, W. J., JR.
+
+1943. The mammals of eastern United States. Comstock Publ. Co., Ithaca,
+New York, 432 pp., illustrated.
+
+HANDLEY, C. O., JR.
+
+1959. A revision of American bats of the genera Euderma and Plecotus.
+Proc. U.S. Nat. Mus., 110:95-246, 27 figs., September 3.
+
+1960. Descriptions of new bats from Panama. Proc. U.S. Nat. Mus.,
+112:459-479, October 6.
+
+INGLES, L. G.
+
+1959. Notas acerca de los mamíferos Mexicanos. An. Inst. Biol.,
+29:379-408, March 31.
+
+IVEY, R. D.
+
+1959. The mammals of Palm Valley, Florida. Jour. Mamm., 40:585-591,
+November 20.
+
+LOWERY, G. H., JR.
+
+1936. A preliminary report on the distribution of the mammals of
+Louisiana. Proc. Louisiana Acad. Sci., 3:11-39, 2 text figs., 4 pls.,
+March.
+
+1943. Check-list of the mammals of Louisiana and adjacent waters.
+Occas. Papers Mus. Zool., Louisiana State Univ., 13:213-257, 5 figs.,
+November 22.
+
+MILLER, G. S., JR.
+
+1897. Revision of the North American bats of the family
+Vespertilionidae. N. Amer. Fauna, 13:1-140, 3 pls., 40 figs., October
+16.
+
+1902. Twenty new American bats. Proc. Acad. Nat. Sci. Philadelphia,
+54:389-412, September 12.
+
+1909. The generic name _Nycteris_. Proc. Biol. Soc. Washington, 22:90,
+April 17.
+
+MOORE, J. C.
+
+1949_a_. Putnam County and other Florida mammal notes. Jour. Mamm.,
+30:57-66, February 14.
+
+1949_b_. Range extensions of two bats in Florida. Quart. Jour. Florida
+Acad. Sci., 11:50, March 22.
+
+PETERS, W.
+
+1871. "22 December Gesammtsitzung der Akademie ... eine monographische
+Übersicht der Chiropterengattungen _Nycteris_ und _Atalapha_."
+Monatsberichte d. Konig. Preuss. Akad. d. Wiss. zu Berlin (for 1870),
+pp. 900-914, 1 pl.
+
+RAFINESQUE, C. S.
+
+1814. Précis des decouvertes et travaux somiologiques. Palerme, pp.
+1-55 + 3.
+
+RAGEOT, R. H.
+
+1955. A new northeasternmost record of the yellow bat, _Dasypterus
+floridanus_. Jour. Mamm., 36:456, August 30.
+
+SANBORN, C. C.
+
+1954. Bats of the United States. Public Health Reports, 69(1):17-28,
+illustrated, January.
+
+SHERMAN, H. B.
+
+1937. A list of the Recent land mammals of Florida. Proc. Florida Acad.
+Sci. (for 1936), 1:102-128.
+
+1945. The Florida yellow bat, _Dasypterus floridanus_. Proc. Florida
+Acad. Sci. (for 1944), 7:193-197, January 20.
+
+TAYLOR, W. P., and DAVIS, W. B.
+
+1947. The mammals of Texas. Bull. Texas Game, Fish and Oyster Comm.,
+27:1-79, illustrated, August.
+
+THOMAS, O.
+
+1897. _Descriptions of new bats and rodents from America._ Ann. Mag.
+Nat. Hist., ser. 6, 20:544-553, December.
+
+1901. _New Neotropical mammals, with a note on the species of_
+Reithrodon. Ann. Mag. Nat. Hist., ser. 7, 8:246-254, September.
+
+
+_Transmitted June 30, 1961._
+
+
+
+
+
+
+End of the Project Gutenberg EBook of North American Yellow Bats,
+'Dasypterus,' And a List of the Named Kinds Of the Genus Lasiurus Gray, by E. Raymond Hall and J. Knox Jones
+
+*** END OF THIS PROJECT GUTENBERG EBOOK NORTH AMERICAN YELLOW BATS ***
+
+***** This file should be named 31679-8.txt or 31679-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/1/6/7/31679/
+
+Produced by Chris Curnow, Joseph Cooper and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

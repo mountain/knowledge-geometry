@@ -5,7 +5,7 @@ import sys
 import numpy as np
 
 from random import sample
-from sh import mkdir, wget
+from sh import mkdir, wget, rm
 
 byears = []
 dyears = []
@@ -38,49 +38,71 @@ with codecs.open('works.txt', encoding='utf-8') as f:
             print('')
 
 used = set()
+byears = np.array(byears)
 
-ix_by = np.argsort(np.array(byears))
+ix_by = np.argsort(byears)
 
-for year in range(1600, 2001, 10):
+for year in range(1600, 2001):
     print('')
-    print('%d: ' % year)
+    print('%d: ' % year, end='')
     sys.stdout.flush()
-    counter = 100
-    tries = 0
-    indexes = [ix for ix in ix_by if byears[ix] - 100 < year < byears[ix] - 20]
-    while counter > 0:
-        ixs = sample(indexes, 100)
+    tries = 1
+    counter = 3
+    decade = year // 10 * 10
+    indexes = [ix for ix in ix_by if year - 100 <= byears[ix] <= year - 20]
+    while counter >= 1:
+        ixs = sample(indexes, 3)
+
+        print('-', end='')
         for ix in ixs:
-            byear = byears[ix]
-            dyear = dyears[ix]
-            status = statuses[ix]
-            lang = langs[ix]
-            form = forms[ix]
-            aname = anames[ix]
-            code = codes[ix]
+            if counter >= 1:
+                byear = byears[ix]
+                dyear = dyears[ix]
+                status = statuses[ix]
+                lang = langs[ix]
+                form = forms[ix]
+                aname = anames[ix]
+                code = codes[ix]
 
-            cond = byear + 20 < year < dyear and status == 'ok'
-            cond = cond and lang == 'English' and form == 'as Author'
-            cond = cond and aname not in used
-            tries += 1
-            if cond:
-                if tries % 50 == 0:
-                    print('')
-                    print('%d: ' % year)
-                print('+', end='')
-                sys.stdout.flush()
+                cond = byear + 20 <= year <= dyear + 20
+                cond = cond and lang == 'English'
+                if tries < 1000:
+                    cond = cond and aname not in used
+                tries += 1
+                if cond:
+                    fname = '%04ds/%04ds-%06d.txt' % (decade, decade, int(aname[1:]))
 
-                url = 'https://www.gutenberg.org/ebooks/%s.txt.utf-8' % code
-                fname = '%04ds/%04ds-%s.utf8.txt' % (year, year, aname)
-
-                mkdir('-p', '%04ds' % year)
-                wget('-O', fname, url)
-
-                used.add(anames[ix])
-                counter -= 1
-            else:
-                if tries % 50 == 0:
-                    print('')
-                    print('%d: ' % year)
-                print('.', end='')
-                sys.stdout.flush()
+                    mkdir('-p', '%04ds' % decade)
+                    try:
+                        url = 'https://www.gutenberg.org/ebooks/%s.txt.utf-8' % code
+                        wget('-O', fname, url)
+                        used.add(anames[ix])
+                        counter -= 1
+                        if tries % 100 == 0:
+                            print('')
+                            print('%d: ' % year, end='')
+                        print('+', end='')
+                        sys.stdout.flush()
+                    except Exception as e:
+                        try:
+                            url = 'https://www.gutenberg.org/files/%s/%s-0.txt' % (code, code)
+                            wget('-O', fname, url)
+                            used.add(anames[ix])
+                            counter -= 1
+                            if tries % 100 == 0:
+                                print('')
+                                print('%d: ' % year, end='')
+                            print('+', end='')
+                            sys.stdout.flush()
+                        except Exception as e:
+                            if tries % 100 == 0:
+                                print('')
+                                print('%d: ' % year, end='')
+                            print('?', end='')
+                            rm('-f', fname)
+                else:
+                    if tries % 100 == 0:
+                        print('')
+                        print('%d: ' % year, end='')
+                    print('.', end='')
+                    sys.stdout.flush()

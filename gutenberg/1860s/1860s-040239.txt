@@ -1,0 +1,4104 @@
+﻿The Project Gutenberg EBook of Practical Boat-Sailing, by Douglas Frazar
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: Practical Boat-Sailing
+       A Concise and Simple Treatise
+
+Author: Douglas Frazar
+
+Release Date: May 26, 2012 [EBook #39805]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PRACTICAL BOAT-SAILING ***
+
+
+
+
+Produced by Chris Curnow, Eric Skeet and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+
+
+
+
+
+
+
+Transcribers notes:
+
+Some minor punctuation, spelling and hyphenation mistakes and
+inconsistencies have been corrected.
+
+Italic text is denoted by _underscores_.
+
+
+
+
+[Illustration: Frontispiece - MARINERS COMPASS.]
+
+
+
+
+                           PRACTICAL
+                         BOAT-SAILING:
+
+               A Concise and Simple Treatise
+
+                              ON
+
+         THE MANAGEMENT OF SMALL BOATS AND YACHTS UNDER
+          ALL CONDITIONS, WITH EXPLANATORY CHAPTERS ON
+             ORDINARY SEA-MANOEUVRES, AND THE USE OF
+              SAILS, HELM, AND ANCHOR, AND ADVICE
+                AS TO WHAT IS PROPER TO BE DONE
+                   IN DIFFERENT EMERGENCIES;
+
+                    SUPPLEMENTED BY A SHORT
+
+                _VOCABULARY OF NAUTICAL TERMS._
+
+                             BY
+
+                       DOUGLAS FRAZAR,
+
+       FORMERLY FOURTH OFFICER OF THE STEAMSHIP "ATLANTIC,"
+           MASTER OF THE BARK "MARYLAND," AND COMMANDER
+              OF THE YACHT "FENIMORE COOPER" IN THE
+                 NORTHERN SEAS OF CHINA AND JAPAN.
+
+                          __________
+
+                            BOSTON:
+                  LEE AND SHEPARD, PUBLISHERS.
+                            NEW YORK:
+                     CHARLES T. DILLINGHAM.
+
+
+                        COPYRIGHT, 1879,
+                       By LEE AND SHEPARD.
+
+                     _All rights reserved._
+
+
+
+
+PREFACE.
+
+
+This little work is not written to teach any thing new to those who know
+how to sail boats well and safely, but only for the purpose of enabling
+any person, after a perusal of its pages, to feel confident of handling
+a boat so as to be _perfectly safe_, and to have some knowledge of the
+rules which should govern its movements under all conditions that might
+naturally arise. This sport is far less dangerous than is supposed; and
+it may even be asserted that no kind of amusement is safer during the
+summer months in these latitudes,--many not as safe. Some one has truly
+said "that the boat is always under the perfect control, and subject to
+the will, of its master; whilst in driving, for instance, one is
+dependent for life and limb upon the forbearance, good-temper, and
+training of a brute whose strength is greater than one's own, and whose
+over-vaunted intelligence is often exceeded by his obstinacy."
+
+It is simply wonderful what stress of wind and sea a small boat will
+sustain _with perfect safety_ when properly managed.
+
+It is hoped that the following pages will be sufficient to post all
+tyros in the _technique_ of the science, and enable them to execute all
+the manoeuvres that are needful, and to know the names and uses of all
+the important ropes, sails, &c.; _so that they will not have to ask
+anybody any questions_, and be able to "paddle their own canoe."
+
+If the author has succeeded in making himself understood, so that the
+student will feel competent to take charge of his own boat or yacht with
+confidence, he will be amply repaid.
+
+There is no doubt but what there may be a difference of opinion amongst
+yachtsmen and boatmen as to the best manner of executing many
+sea-evolutions. The author has chosen those which have stood the test of
+time, and are comparatively simple, and easy of execution, fitted for
+small craft, and perfectly safe.
+
+Several useful hints have been gathered by an inspection of Bowditch's
+"Epitome" and Brady's "Kedge-Anchor."
+
+MOTHER GOOSE (_slightly altered_).
+
+  "Three wise men of Gotham
+  Went to sea in a bowl:
+  If their wits had been stronger,
+  My song had been longer."
+
+
+
+
+CONTENTS.
+
+
+  CHAPTER I.
+
+  The Model, Rig, and Names of the Sails and Ropes in
+  Common Use                                                       7
+
+  CHAPTER II.
+
+  Ballast.--Useful Knots.--To anchor in a Gale of Wind.--Getting
+  the Anchor, and Casting.--Anchoring for Fishing.--Grounding
+  and Floating.--Warping by Means of an Anchor.--To make a
+  Running Moor                                                    17
+
+  CHAPTER III.
+
+  The Helm and Rudder.--Sheets.--The Topping-Lift.--Springing
+  a Leak and the Use of the Pump.--Sailing "close-hauled,"
+  "by the wind," or "full and by."--To know when a Yacht is as
+  near the Wind as she will lie.--Running free.--Before the
+  Wind, or Scudding.--To execute a Pilot's Luff                   35
+
+  CHAPTER IV.
+
+  Tacking.--Beating to Windward.--A Long and a Short
+  Leg.--How to put a Yacht about.--How to distinguish
+  the Starboard Tack from the Port Tack.--Jibing, or
+  Wearing.--Dropping the Peak.--To beat to Windward in a
+  Tide-Way.--To take in a Jib, and furl it.--To take in a
+  Mainsail, and furl it.--To reef a Jib, or take off a
+  Bonnet.--To clap one Reef in a Mainsail.--To cast out a Reef    50
+
+  CHAPTER V.
+
+  Signal-Lights.--The United States Regulations for Steering
+  and Sailing, and the Rules of the Road.--Fog-Signals.--Salutes.
+  --Dipping Colors.--Coming alongside.--Quarterdeck
+  Etiquette.--Useful Articles of Cabin Furniture.--Anchor
+  Watch.--Method and System _versus_ Disorder                     64
+
+  CHAPTER VI.
+
+  Cross-Bearings.--Two Examples.--Table of Proportional
+  Distances.--Table for Determining the Distance that an
+  Object at Sea can be seen in Statute Miles.--Determining
+  Distance by the Flash of a Gun.--To find the Difference
+  between the True and Apparent Direction of the Wind.--To
+  find the Distance of an Object on Shore from the
+  Yacht, by two Bearings of the Compass.--Use of the
+  Charts.--Soundings.--Lead-Line.--Eight Bells, and
+  Watch and Watch.--Boxing the Compass.--Velocity of
+  the Wind.--The Log Reel and Half-minute Glass.--Buoys--Man
+  Overboard                                                       76
+
+  CHAPTER VII.
+
+  Practical Hints on Boat-Sailing                                101
+
+  CHAPTER VIII.
+
+  A Short Cruise with a Sloop-Yacht, illustrating the Common
+  Sea-Manoeuvres                                                 108
+
+  CHAPTER IX.
+
+  Vocabulary of Sea-Terms commonly in Use                        124
+
+
+
+
+PRACTICAL BOAT-SAILING.
+
+
+
+
+CHAPTER I.
+
+THE MODEL, RIG, AND NAMES OF THE SAILS AND ROPES IN COMMON USE.
+
+
+It would be beyond the province or scope of this work to enumerate all
+the different models and peculiarities of the numerous crafts and rigs
+that are used to navigate the waters, both in civilized and uncivilized
+countries; and we must content ourselves by taking into consideration a
+few of the most pronounced types that are now in vogue, and explaining
+their principles as briefly as possible.
+
+Local prejudices rule strong in all parts of the world; and the rig,
+size, and model of a boat, are almost always defined by the "custom" of
+the waters in which it is to be sailed: still it is perhaps well to give
+a few general rules for the selection of a boat. For bays, sounds,
+harbors, and inland tidal waters connected with the sea, the boat or
+small yacht should be of a shoal model, and what is termed the
+centre-board principle, and usually the sloop or cat-boat rig.
+
+For ponds, and small lakes of fresh water, the boat should always be of
+good beam, light draught, and small sail, on account of the frequency of
+puffs of winds from unexpected quarters from the neighboring hillsides.
+In fact, if there is any danger in sailing, it is upon these land-locked
+ponds or lakes, where more seamanship is often needed than on the larger
+bays and sounds of the ocean itself.
+
+For outside work, or in places where the tidal currents are strong, or
+the wind may sweep across the water for miles, "kicking up a sea," the
+deep keel model, with schooner or cutter rig, will be the better boat;
+this class being considered superior in working to windward in a heavy
+sea to the shoaler craft. But, even on this question, there are
+disagreements; and you shall hear of those who maintain that the
+shoal-water centre-board craft is the better boat in a heavy sea-way;
+and some lovers of a craft called a "sharpie" tell startling tales of
+its endurance in heavy weather, although it is the shoalest of all shoal
+boats. The advantage of the centre-board boat over the keel boat for
+harbor and sound sailing, or wherever the tide rises and falls to any
+great extent, is obvious. With the latter, one is liable to be brought
+up upon an unknown sand-bank or ledge, and compelled to remain,
+sometimes for hours, till floated off; whilst with the centre-board,
+upon touching any danger or shoal, the board is hauled up, and the boat
+that a moment before drew, perhaps, six feet of water, now draws but one
+foot, allowing one to "go about," or steer to one side, and avoid the
+obstacle, and get home in time for supper. In short, in the opinion of
+the writer, it is only for outside use, and for a larger class of
+vessels than this book will treat of, that the keel boat is needed.
+
+To avoid repetition, and to condense as much as possible, so as to be
+useful to all for practicable purposes, what is termed the
+_sloop-rig_--one quite as frequently used as any other for small
+boats--is presented in the accompanying diagram. This will be described
+as briefly as possible consistent with a thorough explanation of the
+sails, ropes, &c., and their different names and uses; it being, of
+course, understood that the management of a sloop in a seamanlike manner
+carries with it the knowledge of managing a yacht of any rig, the
+principle applying equally to all; and to describe the "staying",
+"wearing", and absolute management of each sail and rope of each
+separate rig, would be unnecessary, and extend this little work to a
+greater length than is desirable. The best that can be done is to take a
+type, and, having made that familiar, the whole science of boat-sailing
+will have been acquired.
+
+The sloop-rig consists of the following-named spars:--
+
+The _mainmast_ (c c), which is usually placed at about two-thirds of the
+boat's length from the stern. This spar serves to sustain the
+_mainsail_(1) by a series of hoops which encircle it.
+
+[Illustration]
+
+The _main topmast_ (d d), which is fitted to the head of the _mainmast_,
+and terminates at its upper end in a small ball, called the _truck_,
+through the sides of which are fitted little _sheaves_ (i.e., wheels),
+by means of which, and the use of a small-sized rope, called
+_signal-halliards_, the flag, or private signal of the boat, is hoisted
+to the _topmast's_ head, and displayed.
+
+This spar also serves to sustain the _gaff-topsail_ (3), which is
+hoisted and lowered along its length by a series of hoops encircling the
+spar. This sail, as a rule, is set and furled from the _top_.
+
+The _bowsprit_ (h), which projects from the bow of the boat, and serves
+to support the _mainmast_ by means of a stay (g g) leading from its
+outer end to the _mainmast_ head, and another stay, called the _bobstay_
+(f), to the prow of the boat. The _jib-stay_ (g g) serves to hoist and
+set the _jib_ (2) upon,--the most important sail, after the mainsail.
+
+The _jib-boom_ (i), which extends out beyond the _bowsprit_, its heel
+being made fast to the latter, and, by means of stays, supports the
+_mainmast_ and _main-topmast_; and upon the inner one of these is
+hoisted and set the outer or _flying jib_ (4), the other (k) supporting
+the _main-topmast_, and called the _main-topmast stay_.
+
+The _main-gaff_ (e e), which sustains and stretches the _head_ of the
+_mainsail_, which is securely lashed to it by means of small seizings,
+or lashings.
+
+The _main-boom_ (b b), which receives and stretches the _foot_ of the
+mainsail, to which it is securely lashed.
+
+The above constitute the main spars and sails of a boat of the sloop
+rig.
+
+To enable one to understand all that follows, it will be necessary to
+acquire a little more information concerning these spars and sails, and
+the names and uses of the principal ropes, sheets, &c.
+
+As the reader faces the cut, and glances at the _mainsail_ (1), he
+should remember that the _head_ of the sail is that part fastened to the
+_gaff_; and the _foot_, that part of the sail fastened to the _boom_.
+The _outer-leach_, or _after-leach_, that part of the sail which extends
+from the end of the _gaff_ to the end of the _boom_ farthest removed
+from the mainmast. The _inner-leach_, or _luff_, is that part of the
+sail which extends from the _gaff_ to the _boom_, and is confined to the
+_mainmast_ by hoops that embrace it, and allow of the sail being hoisted
+and lowered at will.
+
+The _clews_ of a sail are those parts which a "land-lubber" might call
+corners; i.e., the clews of the mainsail are four, and are situated at
+the junction of the _luff_ and _head_ of the sail, the _outer-leach_ and
+head of the sail, the _outer-leach_ and foot of the sail, and the _luff_
+and _foot_ of the sail; the latter being also called the _tack_.
+
+The mainsail, as will be observed, has also a series of regular lines
+crossing its surface. These are called _reef-points_, and consist of
+short, dangling pieces of small rope, sewed into the sail, and hanging
+down on either side, long enough, when the sail is lowered, to be
+fastened around the main-boom, and thus tie down the sail, making it
+smaller for rough weather, which is called "reefing." On the
+_outer-leach_, at the end of these rows of _reef-points_, are placed
+little iron rings, or _cringles_, as they are called, which are used to
+pass a rope through, called a _reef-pennant_, to haul the sail well out
+on to the boom when being reefed. The rope (a a) represents what is
+called the _topping-lift_, and is used to lower or hoist the
+_main-boom_, so as to make the sail set well in certain circumstances;
+or when the _main-boom_ is out over the water on one side of the boat,
+when running before the wind, to "_top it up_" so as to keep it out of
+the water when the boat rolls. It is set up by means of a small pulley,
+the end of the rope coming inboard through a sheave in the boom, or one
+fastened to its side.
+
+The _jib_ has its _luff_, _head_, _foot_, and _after-leach_, the same as
+the _mainsail_, but, of course, has only _three clews_, being a
+triangular sail.
+
+And what is defined about these sails will apply to all fore-and-aft
+sails.
+
+The most important ropes, to which the attention of the reader is
+called, are the following:--
+
+The _main-sheet_ (l) is a long rope fastened to the main-boom, and
+controlling the action of the mainsail. According to the size of the
+boat, this sheet will be single, or rove through a series of blocks, to
+enable the helmsman to handle the sail. Upon the management of this
+sheet depends, in a great measure, the safety of all boat-sailing. Its
+perfect handling and adjustment call for the nicest skill; for its
+slightest movement changes the whole face of the canvas spread in the
+mainsail.
+
+The _jib-sheets_ (m) are fastened to the after_-clew_ of the jib at the
+foot of the sail, and are led aft on both sides of the deck, so as to be
+within reach of the helmsman, or those sitting in the after-part of the
+boat. Like the _main-sheet_, they are used to confine and trim down the
+_jib_, each being used on the side on which it is desired to trim down
+the sail.
+
+The _outer-jib_ is controlled in the same manner, by two sheets, one
+being led aft on either side of the deck.
+
+The _mainsail_ is hoisted by means of two sets of ropes, called _throat_
+and _peak-halliards_ (n).
+
+These are fastened at the foot of the mast to _cleats_ when the sail is
+hoisted; the throat-halliards, usually on the port side of the mast, and
+the peak-halliards, on the starboard side of the mast.
+
+N.B.--The term _starboard_ is applied to any thing appertaining to the
+right-hand side of a boat, with the observer looking towards the bow.
+The term _port_ (formerly, and sometimes now, called _larboard_) is
+applied to any thing appertaining to the left-hand side, and, thus once
+defined, never changes.
+
+Although the observer may go forward and look aft, the starboard side is
+still the starboard side, although now on his left hand. Hence sailors
+talk of the _starboard_ anchor, the _port_ shrouds; "Ease off the _port_
+jib-sheet!" "Let go the _starboard_ flying-jib-sheet!" "Put your helm
+over to _port_!" "Hoist those colors from the _starboard_ side!" "Let
+the boom go over to _port_!" "Get up that anchor which you will find
+below in the forecastle, on the _starboard side_!" "Go about on the
+_port_ tack!" &c.
+
+The _jib_ (2) is hoisted by means of a rope, which is called the
+_jib-halliards_, which is made fast to the upper clew of the sail, and
+led through a block at the _mainmast_ head, and thence to the deck,
+being "belayed" (i.e., made fast) to the mainmast near the deck. This
+sail also has a small but useful rope attached to it, called the
+_down-haul_, which is fastened to the upper clew, and led down to a
+small block at the bowsprit end, and thence in on deck; and serves to
+haul the sail down after the halliards have been cast off. The
+_flying-jib_ (4) is fitted with _halliards_ and _down-haul_ in the same
+manner.
+
+The _gaff-topsail_ (3) is set by hauling out the _after-leach_ and
+_foot_ to the end of the _main-gaff_, which part of the gaff is called
+the _peak_, by means of a rope, which is named the _gaff topsail-sheet_,
+which reefs through a sheave in the _gaff_ end, and hence under the
+_gaff_ to the throat, and thence through a block to the deck. The other
+_clew_, formed by the _luff_ and foot, is stretched by means of a rope
+leading to the deck, called the _tack_; and the sail is hoisted by means
+of _halliards_, that reeve through a block fastened at the _topmast_
+head, and thence leading to the deck.
+
+When the boat is under way, and pressed over by the wind, the terms
+"starboard" and "port" are often exchanged for "leeward" and
+"windward," and, in fact, are the more commonly used in many instances;
+although an old sailor would apply the word "starboard" to certain
+things that he would not apply the word "leeward" or "windward" to: but
+these exceptions it would be hard to point out, and they would be of
+little material use. Let it suffice to say, that as a rule, when a boat
+is at anchor or upright, the terms "starboard" and "port" are used;
+whilst, when under way, the terms "lee" or "leeward," "weather" or
+"windward," are more commonly used; for instance, "Let go the weather
+jib-sheet!" "Haul aft the lee flying jib-sheet!" "Haul that coil of rope
+over to the weather-side (or to windward)!" "Throw that hot water to
+leeward!" "Does she carry a weather-helm?" &c.
+
+
+
+
+CHAPTER II.
+
+Ballast.--Useful Knots.--To anchor in a Gale of Wind.--Getting the
+Anchor, and Casting.--Anchoring for Fishing.--Grounding and
+Floating.--Warping by Means of an Anchor.--To make a Running Moor.
+
+
+Having learned the names of all the important spars, sails, and ropes,
+and their uses, it becomes necessary to study the other appurtenances of
+a boat to acquire a thorough knowledge of boat-sailing; and for that
+purpose we will pass briefly in review the following.
+
+
+BALLAST.
+
+Nearly all yachts are made of such a model as to need some heavy
+material placed within them to enable them to carry sail, and stand up
+against sudden squalls and flaws of wind. This material is called
+_ballast_, and, as a self-evident rule, yachts that are shallow, and of
+great breadth of beam, need less than those of a deep and narrow model.
+
+Many articles may be used for ballast, and a yacht ballasted in many
+different ways; but the following-named are those that are most
+commonly used. Pig-iron, in pieces that can be handled, is a favorite
+kind of ballast: sometimes each piece is painted, so as to preserve it
+from rusting, and discoloring the inside of the boat. Iron in the form
+of fifty-six-pound weights is also used; whilst a cheaper and very
+common ballast is found in the small clean pebbles of the seashore.
+Water contained in movable tanks has been at times, with some, a
+well-praised ballast; and in yachts where it can be used, and that are
+fitted for it, it is of great practical value, as, like no other, it can
+be discharged and renewed by means of a pump, according to the will and
+weather.
+
+The slag from smelted copper and iron is extensively used, as are also
+broken pieces of iron-casting. But perhaps the ballast as commonly in
+use as any other in medium-sized yachts and small boats, or, at least, a
+part of the ballast, consists of common sea-sand enclosed in canvas
+sacks of a not too unwieldy size, that are movable about the bottom of
+the boat by means of canvas handles, and can, in emergency, be dumped
+bodily over into the sea, thus relieving the yacht of so much dead
+weight.
+
+Nearly all yachts that are ballasted, when filled with water, will sink;
+and there have been many ingenious ways devised to prevent this, so
+that, in case a yacht should be swamped, i.e., completely filled with
+water, she would yet float, and make a sort of life-preserver to the
+occupants, and not go to the bottom, and leave them struggling on the
+surface.
+
+A very ingenious and yet cheap way of obtaining this result is to have
+built into the wings of the yacht, under the floorings, and in every
+conceivable place that is out of the way, empty tin or iron six-pound
+powder-canisters, that seal hermetically, sufficient in number to
+overcome, by the air they contain and the natural buoyancy of the wood
+composing the yacht, the weight of the ballast, or the tendency of the
+same to sink the yacht when filled with water. It will not take a great
+number of these canisters in quite a large yacht of medium model; for,
+although the yacht will sink without them, it does not take very much of
+this confined air to turn the scale, and make it float.
+
+Some yachts are ballasted with lead; and this, if it were not for its
+cost, is a prime ballast, taking up less space than any other. And some
+care not for the first cost; for, as is truly said, it is a marketable
+article, which does not vary much in price: and, even if it should cost
+quite a sum to ballast one's yacht with lead, it is so much cash on
+hand, and can always be taken out and sold at a moment's notice. Besides
+the different kinds of ballast that have been enumerated, there is also
+the living ballast, that is to say, human beings, whom one can place in
+different parts of the yacht to trim her in different situations. But
+this kind of ballast is mostly used in racing, and even then is
+sometimes apt to "get out of order", and not "work well"; and the writer
+would advise one to stick to iron, lead, gravel, or sand as superior.
+
+Perhaps for bay and harbor sailing and short cruises from port to port,
+there is nothing better than the canvas bags of sand, which can be
+emptied, if necessary, when one gets aground, or in any other case of
+emergency, and filled again at the very next shore upon which one lands
+in the little tender.
+
+As a rule, sailing-boats and small yachts are "trimmed by the stern;"
+that is, the bow is slightly elevated from the water, the boat being
+pressed, by the position of its ballast, deeper into the water at the
+stern than at the bow. But every yacht is a law to itself; and no rule
+will do for all. The position of the ballast has also much to do with
+the steering qualities, as well as affecting speed: if it be placed too
+far forward, the yacht will "yaw," and at times, before the wind, be
+almost unmanageable. In "going about," also, if the ballast be too far
+forward, the boat will often "miss stays;" that is, fail to perform the
+evolution of getting upon the other tack.
+
+Misplaced ballast will also cause the yacht to carry the helm in a bad
+position, stopping her speed. Bringing a yacht "by the head" with too
+much ballast is a serious, nay, at times, a dangerous fault. Bringing
+her too much by the stern, by means of ballast, is not so grave a
+matter: the yacht may lose in speed, and not be in her best trim; but
+she is not as dangerous or unmanageable. It is always better to have too
+much ballast than too little. It is very easy to ballast a boat with
+sand or pebbles before one starts; but they cannot be obtained after
+having once gotten under way; and from this simple cause have arisen so
+many disasters that need never have occurred! One's natural pride, and
+the desire to sail fast, prevent often the taking on board of the
+necessary amount; and then, when it suddenly comes on to blow, the yacht
+is found to be crank, perhaps dangerously so. How much better would it
+be to have a little too much ballast, which, when homeward bound,--if
+there is need of haste, and the weather be settled,--can be discharged
+over the side, increasing her speed!
+
+It is only by careful study that one can ascertain just the amount of
+ballast that is needed; but, once found, do not change it for light or
+heavy weather, but keep it intact, and you and your boat will soon
+understand each other much better than will be the case if it be
+continually changed. A happy medium is what must be sought for in the
+question of ballast; for, of course, in different weathers different
+amounts would be in order. But be advised, and be on the safe side: have
+plenty of ballast, if the speed is not the very fastest that the boat
+is capable of making.
+
+Professional boatmen, lobstermen, and fishermen are never eternally
+shifting and changing their ballast: having found the "happy medium,"
+they let it alone for the season. It is only the amateur that is
+continually sailing his yacht upon her "beam-ends," or watching with the
+utmost anxiety the fast approaching squall, for which the professional
+cares naught.
+
+
+KNOTS.
+
+We cannot get along on board of a yacht without knowing how to make a
+few useful knots.
+
+The great beauty of a knot, in a sailor's estimation, is not only to
+hold well, but to be easily _untied or cast off_ after having been
+subjected to a great strain. Of all knots the bowline is, perhaps, the
+king, because it can be submitted to a strain that will part the rope,
+before slipping or giving in the least (and this holds true of the
+largest hawser, as well as the smallest line); and, after this strain is
+removed, it can be untied as easily as a knot in one's summer neck-tie.
+It can be very quickly made, and is useful in more situations than any
+other, and can be used to replace many others. It is used to fasten a
+rope in a hurry to the ring of an anchor, or to make fast the painter of
+a tender through a ring-bolt securely for towing, and yet so as to be
+easily cast off; fastening sinkers upon fish-lines, or the end of any
+rope in a position where it will bear strain. Flags may be bent on with
+this knot, although sailors have a signal-halliard knot, as they also
+have a peculiar bent for fastening a hawser to an anchor; but no knot
+can be used in an emergency, in place of all these, like the bowline;
+and, if one can have knowledge of but a few, let the bowline be the
+first acquired. It will be useful also on shore, and throughout one's
+life, making as a matter of past record, to be eternally sunk in
+oblivion, those awful knots that never would come undone again. Next to
+the bowline in importance is, perhaps, the bend called _two
+half-hitches_, or the _clove hitch_, by means of which one can secure
+with the end of a rope almost any thing. This hitch is called two
+half-hitches when it is made upon its own standing part, and a clove
+hitch when made around any other thing, such as a spar; but both are the
+same in principle.
+
+The third knot that must be acquired is what is called the _square
+knot_, or reef knot, and is used in reefing the sails. The reef-points
+being tied in square knots can be easily untied when needed: if
+improperly tied in a _granny knot_, they either jam or fly open in the
+height of the gale,--when one desires them most to hold on.
+
+With these three knots one can get along nicely, and it is advisable to
+obtain a knowledge of how to make them without delay.
+
+
+TO MAKE A BOWLINE KNOT.
+
+Take the end of the rope in your right hand, and the standing part in
+your left; lay the end over the standing part; then with your left hand
+turn the bight of the standing part from you, and over the end part, by
+a peculiar turn of the wrists, which comes only by practice, forming
+what is called a goose-neck on the standing part; then lead the end,
+which is already enclosed in the goose-neck, under and around the
+standing part, and down through the same goose-neck; and haul the parts
+taut.
+
+[Illustration: _Bowline Knot._]
+
+[Illustration: _Two half Hitches._ _Clove Hitch._]
+
+
+TO MAKE TWO HALF-HITCHES.
+
+Pass the end of the rope around the standing part, and up through the
+bight (this is one half-hitch); pass the end again around the standing
+part, and up through its own bight, which makes the second half-hitch,
+and completes the knot. (See diagram.) Then, if this knot is used to
+bend on a hawser to an anchor, it is customary to stop the end of the
+rope down upon the standing part by means of a rope-yarn, so as to
+prevent all chance of its coming apart whilst chafing about at the
+bottom of the sea. _A clove hitch_ is this same knot made around a spar
+or other article, instead of on its own standing part. (See diagram.)
+
+
+TO MAKE A SQUARE OR REEF KNOT.
+
+[Illustration: _Square or Reef Knot._]
+
+First make a common overhand knot around a spar, or any thing that may
+suit; then make exactly the same knot again, taking care to cross the
+ends so that they will each come out on the same side of the bight as
+they did in the first knot. If on either side of what may be called the
+right or left side of the knot, as seen in the cut, the ends do not come
+out in the same relative place as in the first knot, it is called a
+"granny knot," and will not hold. And one who makes a "granny" becomes
+the laughing-stock of all on board, and is at once pronounced a
+"land-lubber," if he cannot make this simple and useful knot correctly.
+So be advised, and learn it at once.
+
+
+THE ANCHOR AND GEAR.
+
+Nothing on board the yacht, after the sails and ropes, should receive
+such attention as the "ground tackle," as it is called. On the anchor
+and its appurtenances rests the safety, often, of all on board; and yet
+there is nothing so often neglected, or left carelessly out of order, or
+the cable in a snarl, as the anchoring gear in a small yacht.
+
+[Illustration]
+
+Every yacht over twenty-five feet in length should be fitted with three
+anchors, or, at the very least, two. If three in number, two of them
+should be nearly of the same size, and one quite small and handy, which
+is called the "kedge-anchor." We will suppose that the yacht is fitted
+with three, and, if so, their uses will be as hereinafter described.
+
+In the olden times hemp cables were wholly used, even for vessels of
+large size and men-of-war; but in these latter days they have been
+replaced by iron cables in large ships, and by manila hawsers in small
+yachts. To be sure there are some advantages in favor of a chain-cable
+for even small yachts; but as a rule the pliable, soft but strong manila
+rope is the favorite. Small iron cables are, for some reason or other,
+distrusted; and they are also heavy to get back again, even if of small
+size, when the yacht is anchored in many fathoms of water. They are
+useful when the yacht is likely to lie at anchor in a sea-way for a long
+time, for then they would not chafe; whilst a manila cable might become
+seriously injured. Some use a few fathoms of iron chain, and then manila
+above that, so as to keep the end near the anchor from fraying on rocky
+bottoms. It is to be remembered, then, in a long piece of chain cable,
+that the _one imperfect link_, or one that is weak in any way,
+_determines the utmost strength of the cable_. In other words, the
+strain necessary to part the weakest link makes the stronger ones
+useless. Perhaps it is the fear of this weakness lurking in some unknown
+link that deters yachtsmen, as a class, from using chain-cables, and
+makes them prefer the clean, handsome manila rope, that they know is
+just as strong at one part as another throughout its entire length.
+
+_Wire cables_ have commenced to be talked of, made in the same shape as
+wire rigging, only more pliable; and these, perhaps, will, in time, come
+into use, as they are of uniform strength, and take up less room than
+the cumbersome manila rope cables.
+
+If the anchors are stowed below deck, always get them up, and bent on
+to their respective cables, long before the time when it becomes
+necessary to use them. One never knows, near a coast-line, when an
+anchor may be needed.
+
+Always have good long cables, and not nasty little pieces of short rope:
+on this depends often the safety of all concerned. Every thing else
+being equal, the length of the cables is what will determine, in a gale
+of wind, whether the yacht goes on shore a wreck, or gallantly and
+safely weathers the storm.
+
+
+TO ANCHOR IN A GALE OF WIND.
+
+If caught in a gale of wind on a lee-shore, and with no chance of
+escape,--the sea being too heavy to "claw off" to windward, and no
+harbor to leeward,--the only safety is to anchor; and always do this
+before it is too late, and before the yacht has been driven too near the
+shore or breakers to lie quietly. Procrastination at such a time is
+often highly dangerous; and a yacht may go ashore because she is
+anchored in a line of heavy breakers, when just outside she would lie
+almost with ease.
+
+It will be found, also, that it _always_ takes longer to get an anchor
+down than was estimated, and whilst it is being done the yacht sets
+heavily in towards the shore with each sea: therefore anchor _early_.
+When every thing is ready, bring the yacht to the wind, and let the
+sails shake in the wind's eye; and, so soon as she gets stem-way, let
+go the best bower anchor, taking care not to snub her too quickly, but
+to let considerable of the cable run out before checking her; then take
+a turn or two around the knight-heads, long before there is any strain,
+and be ready to give her cable gradually as she needs it. One must be
+very careful to get this turn around the knight-heads long before there
+is any strain; for the strength of the yacht drifting before the gale
+will be under-estimated, except by a sailor; and if one has neglected to
+take the necessary turn in time, and a strain once commences upon the
+cable, it will then be too late, and the mortification will be
+experienced of seeing the whole cable go overboard, unless the yacht be
+brought up by its being fastened below; and even then the chances are,
+that it will be snapped asunder by the momentum that the drifting yacht
+has acquired.
+
+Just so soon as the first anchor bites, and the yacht seems to come head
+to wind, and hold, let go the second anchor, and pay out plenty of cable
+on both, keeping the strain as nearly equal on each as possible. In
+grave circumstances like these of anchoring in a gale of wind on a
+lee-shore, it is always well to put down both anchors. Too often one
+anchor is used, because the weather does not look very bad, and, as it
+increases, the cable is paid out upon; and when, at last, it is
+ascertained that the gale has increased, and another anchor is needed,
+it is found, after it is cast, that the cable cannot be paid out upon
+it, because the end of the cable of the first anchor is close at hand,
+and has been nearly all paid out, making the second anchor useless.
+Always let go both anchors, one shortly after the other; and if the
+weather be very bad indeed, then, when about half the cable is paid out
+on the second anchor, lash to the cable the small kedge-anchor, by
+fastening it by small ropes, passed around the shank and through the
+ring, to the cable of the large anchor, and cast it over the bows. This
+is called "backing an anchor" (see diagram below), and strengthens the
+hold of the first anchor in a marked degree, especially if the
+holding-ground be poor. It is supposed, of course, that, as the yacht
+comes head to wind, the jib is hauled down; and now the next thing is to
+down mainsail, and furl every thing snug. If the yacht holds well, keep
+part of the cables still on board, to pay out, if necessary; and, to be
+sure that she is not dragging, cast a hand-lead over the side, and let
+it rest on the bottom. Make it fast, leaving enough slack so that the
+yacht may sheer without moving it. By trying this once in a while, it
+will be instantly seen, from its relative position between the yacht and
+the bottom, whether the vessel has dragged. For instance, if the
+lead-line should be left up and down, and the next time it was tested
+should be found resting on the bottom, toward the bow of the yacht, she
+would have dragged just that distance, and needs more cable at once. It
+is well always to give a good scope in such emergencies, and allow the
+anchors to become embedded at a good angle, and not be played with by
+just holding, and then dragging a little, and then paying out a little:
+that is dangerous sport. After all is furled snug, nothing else can be
+done for safety, except in case of extreme emergency, when, as a last
+recourse, the mainmast may be cut away if the yacht is dragging on
+shore. But with two good anchors down in, say, six fathoms of water, and
+one of those backed, and forty or fifty fathoms of cable out, it will
+take a terrific sea and wind to make a yacht budge an inch.
+
+[Illustration: _An Anchor backed_]
+
+
+GETTING THE ANCHOR, AND CASTING.
+
+[Illustration: _Casting_]
+
+Hoist the mainsail, and take the gaskets off the jib, and see that the
+down-haul is cast off, and is clear for hoisting; then heave away on the
+cable, either by hand, or by windlass, if the yacht be large enough to
+need one, till the anchor is almost broken out of the ground, or what
+sailors call, the cable, "up and down;" then, by means of the rudder, if
+in a tide-way, cast the head of the yacht in the direction you wish to
+proceed upon; trip the anchor; and run up the jib as soon as it will
+draw. If there is no tide-way to act upon the rudder, then, before
+breaking out the anchor, hoist the jib; and, if it is desired to cast
+the boat upon the port tack, trim down the jib-sheet to port, and shove
+the main-boom well out over the starboard quarter, and, when the boat
+has a good sheer, trip the anchor; and, when she has paid off enough,
+let go the port jib-sheet, and trim down on the starboard-sheet, and
+haul aft the main-boom, and proceed on your way.
+
+
+ANCHORING FOR FISHING.
+
+It is often needful to drop an anchor so as just to hold the yacht
+stationary for a short time in some known place, for the purpose of
+fishing; and these places are almost always ledges of rock, which foul
+and entangle the anchor, and it is often difficult to weigh it again. To
+avoid this (if there is not too much wind, and the yacht will lie
+easily), instead of making the cable fast to the ring of the anchor,
+make it fast with a clove hitch around both arms at the crown, and lead
+it along the shank of the anchor to the ring, to which attach it by
+means of a small piece of spun yarn or twine that will hold some strain,
+but which can be broken in case of necessity. Then, when it is desired
+to get under way again, and the anchor is found to be fouled, bring
+enough strain, by means of the windlass or otherwise, upon the cable to
+part the twine at the ring; when the strain will come directly upon the
+crown and flukes, and the anchor will almost always be cleared. If it
+should not be, pay out plenty of cable, and sail around or beyond it,
+and all at once it will be found that it is cleared, and can be weighed.
+In anchoring in this manner, it is not, in light weather, necessary to
+lower the mainsail, but simply to trim down the main-sheet flat, or
+place the boom in a crotch made for that purpose. The jib can be
+lowered; and hoisted again when under way.
+
+
+GROUNDING AND FLOATING.
+
+If the yacht takes the ground on any shoal, and is left by the tide, it
+is always proper to get out an anchor in the direction of the wind,
+before the tide returns; then, when the water begins to make, the yacht
+will not be blown higher and higher upon the shoal as she commences to
+float, but will be held by her anchor, and soon ride head to wind or
+tide.
+
+
+WARPING BY MEANS OF AN ANCHOR.
+
+There are times when it is desirable to get a yacht into a certain
+position, and there is no wind. To do this, run out a light anchor to
+the spot you desire to reach, by means of a small tender; cast it
+overboard; and warp the yacht up to it: repeat this till the desired
+position is reached.
+
+
+A RUNNING MOOR
+
+Is sometimes made by casting an anchor, with plenty of scope of cable,
+whilst a yacht is running free, or before the wind, and bringing her
+with a long sweep, up to and heading the wind, when another anchor is
+let go also, and part of the cable of the first anchor hauled in so that
+she will lie to one anchor on the flood-tide, and the other on the
+ebb-tide.
+
+
+
+
+CHAPTER III.
+
+The Helm and Rudder.--Sheets.--The Topping-Lift.--Springing a Leak and
+the Use of the Pump.--Sailing "close-hauled," "by the wind," or "full
+and by."--To know when a Yacht is as near the Wind as she will
+lie.--Running free.--Before the Wind, or Scudding.--To execute a Pilot's
+Luff.
+
+
+THE HELM AND RUDDER
+
+Control the movement of the yacht through the water, and serve to direct
+her course.
+
+The rudder may be described as pieces of boards or planks, in a line
+with the keel, hung upon pivots at the stern of a vessel, in an upright
+position, and extending from the keel to the rail, and having an
+attachment, called a tiller or wheel, to move it in either direction, to
+the right or left, across the line of the keel of the yacht. (See
+diagram.)
+
+[Illustration: _Rudder & Tiller_]
+
+The tiller, which passes through the rudder-head, is moved to the right
+or left; and this is termed "moving the helm." For instance, "Move the
+helm over to starboard," "Put the helm to starboard," that is to say,
+push the tiller over towards the starboard side of the yacht, which will
+carry the rudder to the port side of the yacht, and, if under way, the
+bow will change direction towards the left. In other words, when a
+vessel is under way, and going ahead by her own momentum, or anchored in
+a tide-way, the following rule always holds good:--
+
+_To starboard the helm carries the head to port._
+
+_To port the helm carries the head to starboard._ See diagrams, Figs. 1
+and 2, page 37.
+
+This is all reversed at a critical point in seamanship, which should be
+carefully remembered; and that is when a yacht has what is called a
+_stern-board_, i.e., has received some force which is making her go
+through the water stern first. This often happens when an attempt has
+been made to tack, and the execution of the manoeuvre has seemed to
+fail: it is then for a moment or two that the yacht will often drift
+astern, keeping in the wind's eye, making it uncertain whether or not
+she will yet "go about." It is at this moment, whilst she is making this
+stern-board, that a knowledge of the helm will yet put her about by
+shifting the helm hard over to the opposite side from where it was when
+the attempt was made to go about. Remember not to move the helm till the
+yacht has commenced making stern-way, then this law applies:--
+
+_To starboard the helm carries the head to starboard._
+
+_To port the helm carries the head to port._
+
+For instance, if it were desired to go about by bringing the helm over
+to the starboard side of the yacht, and the manoeuvre should fail, after
+the yacht has come head to wind, and commenced to get stern-way, it
+might yet be consummated by shifting the helm, or tiller, over to port,
+which would have exactly the same effect as it formerly had when the
+yacht was advancing, and the helm hard a starboard.
+
+[Illustration: Fig. 1.]
+
+[Illustration: Fig. 2.]
+
+A yacht should be perfectly enough balanced with sails and ballast to
+carry a nearly even helm when on the wind: but it is often the case that
+they carry what is called a _lee-helm_; that is to say, when the yacht
+is on a wind, the tiller is continually poked down to leeward, or the
+opposite side of the yacht from the wind, to keep her up to her course,
+from which a tendency to fall off is shown: this is usually caused by
+too much head-sail, and may be remedied by a shorter bowsprit, a smaller
+jib, or another cloth on the after-leach of the mainsail.
+
+To carry a lee-helm is a "beastly thing," as an Englishman would say,
+and something that cannot long be endured by those who truly like
+yachting. If the yacht is free from the odious lee-helm, she may carry
+a _weather-helm_, which is not as bad as a lee-helm, but is troublesome.
+This causes the yacht to have a tendency to "luff up into the wind," and
+causes the tiller to be carried hard over on the weather-side of the
+yacht, and is usually occasioned by too much after-sail, or bad storage
+of ballast. Both these habits of carrying a lee, or weather-helm, are
+detrimental to speed, as in both positions the rudder is often held at
+nearly a right angle to the keel, decreasing the speed materially. A
+yacht that is well balanced in sails and ballast will, on a wind,
+habitually carry the tiller a point or two to windward of the line of
+the keel, and it will need but little movement in any direction to keep
+her on her course. Sometimes, in sudden squalls, a yacht that carries a
+weather-helm will luff up into the wind in spite of the helm, so as not
+to be stopped except by slacking off the main-sheet. The same may occur
+in yawing with a yacht that carries a lee-helm. The helm may be put hard
+down, and sometimes the jib-sheet will have to be eased off, before the
+yacht will come to the wind. A weather-helm is endurable, but a lee-helm
+never,--"_Well, hardly ever._"
+
+
+SHEETS.
+
+Sheets are the ropes that confine the mainsail and jib in place, and are
+most important in their uses. The jib-sheets lead along the deck, aft,
+to the standing-room, in most yachts, and in heavy weather should not
+be belayed so but what they can be cast off in an instant by a sudden
+jerk of the hand. They may be held in place by a sort of hitch, hard to
+describe, where one part jams the other, and keeps it in place. Any
+boatman will explain how it is made. The main-sheet makes fast, usually,
+at or near the helmsman, under whose charge it is; _and in heavy weather
+this should not be made fast at all_, but only one turn taken, and the
+remainder of the strain rest upon the hand. Of course, in yachts over
+thirty to forty feet in length, with crews, every thing can be made
+fast: but we are now writing of smaller craft, and it is repeated, in
+squally and dirty weather _never make fast the main-sheet_; it is the
+key to the whole science of boat-sailing, and should never be out of
+one's hand in time of emergency. It can, after taking one turn, be wound
+around the tiller, and brought to the same hand as the one that is
+moving the helm, and yet be instantly cast off, if necessary.
+
+
+THE TOPPING-LIFT.
+
+This useful rope holds up the main-boom, and its length is regulated by
+a pulley. In scudding before the wind it is very useful; for, by means
+of the pulley, the end of the boom can be "topped up," so as to be kept
+out of the water when the yacht rolls heavily. It is also useful in
+making the mainsail set well; and, after the latter is hoisted, it can
+be made to set flat as a board by slacking the topping-lift so that the
+after-leach of the sail will wholly sustain the outer end of the
+main-boom.
+
+
+SPRINGING A LEAK, AND THE USE OF THE PUMP.
+
+The pump should always be kept in good order, and ready for immediate
+use. In case the yacht springs a leak, the best way to stop it is to
+pass a light sail over the bows, and bring it aft over the leak by means
+of ropes on both sides of the yacht. Leaks are more easily stopped on
+the outside, the pressure of the water forcing the canvas into the
+damaged part; and even light canvas is almost water-proof. Of course,
+after once having thus temporarily stopped a leak, it is scarcely
+necessary to add that one should seek shelter in the nearest port, and
+have the yacht perfectly repaired before proceeding farther; for there
+is nothing more deceptive, or dangerous even, than a small leak, which
+is almost always sure to open, and become a source of great anxiety,
+just so soon as the sea begins to get up and the wind to blow,--at the
+very moment, in other words, when the yacht needs all possible care and
+attention in other directions, to insure her safety. Never neglect a
+small leak, but have it attended to and repaired at once.
+
+Examine the well of the yacht often, and ascertain by personal
+inspection that she is not making water faster than is usual, and
+especially have this attended to during rough weather. If a leak is
+discovered, the yacht should, if possible, be put before the wind till
+it is secured; for she will receive less strain to hull and spars in
+this position than in any other.
+
+
+CLOSE-HAULED.
+
+A yacht is said to be close-hauled, or sailing "_full and by_" when she
+is brought as near to the wind as is possible, so as to advance through
+the water; for it is to be presumed that it is understood, that if the
+main-boom were brought so as to pass directly over the line of the keel
+of the yacht, and the head of the yacht brought as near the wind as
+possible, and the sail to remain full, and not shake, she would not
+advance, but would simply be pushed to leeward by the wind. To insure
+her advancing, the boom must be at some angle from the line of the keel:
+therefore it may be taken as a rule that the main-boom, in sailing, is
+always kept out over the quarter, on one side or the other; and
+close-hauled simply means that it is brought as far inboard, or towards
+the line of the keel, by means of the main-sheet, as experience has
+proved can be done, and have her advance through the water. Some yachts
+haul aft the main-boom closer than others, being enabled to do so on
+account of their build and model; and the closer the boom can be
+brought to the line of the keel, and the yacht still kept advancing, the
+nearer the wind she will be said to sail, and will "hold a good wind,"
+as it is called. And this is, of course, a _desideratum_ in beating to
+windward, or against the wind at an angle to it; for the yacht that
+makes the angle least between itself and the direction of the wind will,
+other things being equal, arrive the quickest at its destination; whilst
+another, that cannot lie so nigh the wind, will have to pass over much
+more water to arrive at the same place. On general principles, all
+fore-and-aft vessels lie equally near the wind, usually within four
+points and a half; but there are craft, that from their model, and equal
+balance of sail, or some other unknown cause, will lie nearer than their
+neighbors, and seem to eat up into the wind.
+
+Just how far to have the main-boom over the side of the yacht, in
+sailing close-hauled, has never been settled; for it resolves itself to
+this. If the boom is hauled further inboard, the yacht sails nearer to
+the wind, but in an increased ratio loses its speed; for, if it should
+be hauled completely in till in a line with the keel, the yacht would
+stop, as has been explained: whilst, the farther out over the side it is
+allowed to go, the faster the yacht sails, but the farther also from the
+wind and the direction that it is desired to proceed in to windward.
+Hence a happy medium must be decided upon; and there is no doubt but
+what the result of most races has depended more upon the use of the main
+sheet, when close-hauled, or beating to windward, than upon any other
+cause. Just how flat to trim the sheets can only be acquired by
+experience; but the following general rules will apply:--
+
+As a general principle, the sheets can be trimmed flatter, or farther
+aft, in light weather and a smooth sea, than in heavy weather and a head
+sea. In fact, it is impossible to sail as near the wind in lumpy water
+as in smooth water. After a yacht has been reefed, also, she will not
+lie as near the wind as before, for the same reasons that compelled the
+reefing.
+
+With old hands, the yacht, when close-hauled, is allowed to, what
+sailors call, "go through the water," rather than to point up almost
+into the wind's eye, and keep bobbing up and down, and advancing very
+little. In most yachts it will be found by experiment that the main-boom
+should be at about the angle shown in the figure in the diagram on p.
+46, marked "close hauled;" but others may be, perhaps, hauled slightly
+more inboard: but, as a general law, a good free sheet is the better,
+especially in a sea-way.
+
+
+TO KNOW WHEN THE YACHT IS AS NEAR THE WIND AS SHE WILL SAIL
+
+Is important, and it can always be known by the following method. Push
+the helm very slowly over to leeward, and, as the yacht commences to
+come towards the wind, keep the eye fastened upon the luff, or inner
+leach, of the mainsail. As soon as the yacht is too near the wind to
+have the sail stand full, a little wave will be seen to agitate the luff
+of the sail, from its head to the foot, usually commencing near the
+head, and just under the gaff, as that part of the sail is at a further
+angle from the wind than the part that is fastened to the main-boom; the
+gaff blowing out much further to leeward, not being confined by a sheet
+as the main-boom is. This wave, or shake, is caused by the wind getting
+on both sides of the sail, and, if persisted in, would bring the yacht
+to a stand-still, with the sail flapping in the wind's eye. But short
+practice will enable one to see almost instantly this commencement of a
+shake, that begins to show itself on the mainsail like a smile breaking
+over the countenance of a pretty woman; and at the first symptom reverse
+the helm, and keep the yacht in that position which is called sailing
+"by the wind," or "full and by;" that is to say, full sails, and by the
+wind. If, after the yacht is in this position, a bearing on shore can be
+taken to steer by, it will be a good thing; but as the wind often
+changes even several points, especially near the coast-line, every few
+moments, this experiment must be repeated; and it is this keeping a
+yacht up to her work, and never letting her fall off, and never shaking
+her, and yet taking advantage of every flaw, that goes to make up the
+accomplished helmsman. There are other signs besides these, which to a
+sailor are very simple, that denote to him when the yacht is off the
+wind; such as the angle at which the wind strikes his face, the
+direction of the wind on the face of the waters, and the line of the
+weather-vane at the main truck, and the smoke from his pipe: these will
+do for him as well as luffing and shaking the mainsail, but the latter
+method is the perfect one; and, if the yacht can be so steered as to
+keep just the suspicion of a little smile rippling its luff below the
+throat of the gaff, it will be the perfection of sailing "close-hauled,"
+or "by the wind."
+
+
+RUNNING FREE.
+
+When the wind is favorable, and the yacht will lay her course without
+having to beat towards her destination at an angle against the head
+wind, as in close-hauled, then the sails are arranged in a different
+manner; and the main-boom is swung out over the side in just such
+proportion as the wind may be free, till completely out, so as to hang
+at right angles with the keel, when the wind is dead aft. (See
+diagrams.)
+
+[Illustration: wind diagrams]
+
+
+BEFORE THE WIND, OR SCUDDING.
+
+This is the most difficult steering of any; and in rough water it is
+very hard to keep the yacht upon her course, for the reason that the
+seas will lift the stern out of the water, thus at once neutralizing the
+use of the rudder for a moment, and causing the yacht to yaw. Besides
+this, the speed changes, this affecting the rudder also. When on top of
+a sea, and all the sails full, the yacht will go fast: when she attempts
+to bury her head, and kick up her heels, and becalms the jib and lower
+part of the mainsail, she will go slower. There is one thing to be
+guarded against in running before the wind, and that is the "jibing" of
+the main-boom; that is to say, the wind getting on the forward part of
+the sail, from any cause,--whether by change of wind, or on account of
+bad steering,--and carrying it violently over to the other side,
+endangering the yacht, and with a liability, in heavy weather, of
+carrying away the mast. This must be guarded against carefully; and if
+the sea is very bad, and the yacht steers very wild, it is better to
+tack down to leeward, as it is termed, that is to say, to haul up the
+yacht a little towards the wind on either tack, so as to bring it over
+the quarter, and then run before it for a distance, and then, by careful
+jibing, bring the wind over the other quarter, and then proceed on.
+
+
+PILOT'S LUFF.
+
+In harbor-sailing, a buoy or point often appears ahead, which, if
+passed, the yacht could be at once kept away free, being now
+close-hauled, thus saving the time and inconvenience of tacking, but, as
+she is going, will be right in the way, unless she is put about. To
+avoid tacking in such a case, where the yacht will _almost_ stand by, a
+manoeuvre is often executed (if the tide is favorable, and the wind
+brisk), to avoid tacking, called a "pilot's luff," and consists of--when
+quite near the object to be passed, and according to its position as
+right ahead or slightly to leeward--bringing the yacht quickly up into
+the wind, so that the sails shake, and by her own momentum shooting her
+dead to windward once or twice her length; and then, before her headway
+is lost, and the rudder, therefore, useless, keeping her off again till
+every thing draws, when the same manoeuvre may be again executed, each
+time gaining a position farther to windward than could have been gained
+in any other way, except by going about on the other tack.
+
+It takes a steady hand at the tiller, and a good calculation of the
+momentum of the yacht, to execute a pilot's luff well: but it is very
+useful often, if well performed, and very disastrous in a race; for
+instance, if the helmsman succeeds in getting the yacht "into irons,"
+and with a stern-board on, as may be the case if he brings her up too
+high, or neglects to move the helm in time to get back upon his course
+before the momentum of the yacht is lost, or lets her go about on the
+other tack. A pilot's luff is a very pretty manoeuvre when well
+executed; and you shall see many an old boatman squeezing his boat by a
+point, instead of taking the trouble of going about, knowing, that, the
+moment he has doubled it, his course will be such that the wind will be
+fair, and he can then ease off his sheets, and go on his way rejoicing.
+
+
+
+
+CHAPTER IV.
+
+Tacking.--Beating to Windward.--A Long and a Short Leg.--How to put a
+Yacht about.--How to distinguish the Starboard Tack from the Port
+Tack.--Jibing, or Wearing.--Dropping the Peak.--To beat to Windward in a
+Tide-Way.--To take in a Jib, and furl it.--To take in a Mainsail, and
+furl it.--To reef a Jib, or take off a Bonnet.--To clap one Reef in a
+Mainsail.--To cast out a Reef.
+
+
+TACKING
+
+[Illustration: tacking]
+
+Is the art of putting a yacht about, so that the wind, which has been
+blowing upon the starboard side, we will say, shall blow upon the port
+side, or on the opposite side of the sails to which it was before the
+manoeuvre was executed, and, when used to force the vessel by a series
+of angles towards the direction from which the wind proceeds, is called
+"beating to windward." Sometimes the wind is not dead ahead, and yet in
+such a direction that the yacht cannot proceed except by tacking once in
+a while. This is termed _making a long and a short leg._ (See diagram.)
+
+We will first explain how a yacht is put about in heavy weather and with
+seamanlike accuracy.
+
+[Illustration: tacking]
+
+In the first place, let us define the starboard tack from the port tack,
+and _vice versa_. It must be remembered that a yacht is on the starboard
+tack when the main-boom is out over the port quarter, and the port
+jib-sheets trimmed down; and on the port tack, when the main-boom is out
+over the starboard quarter; or the starboard jib-sheets trimmed down; or
+a yacht is said to be on the starboard tack when the wind blows so as to
+hit the starboard side of the boat, and _vice versa_. This is very
+useful to remember; for there are several "rights of way" that one has
+when on the starboard tack, which will be treated of hereafter. The
+windward side of the yacht also denotes which tack she is upon, the name
+of the weather-side being the name of the tack. We will suppose that the
+yacht is on the starboard tack, with the main-boom out over the port
+quarter, the port jib-sheets trimmed down, and the yacht close-hauled to
+the wind. Have every thing gotten ready for tacking, by singing out,
+_Ready about!_ when all assistants should take their positions as before
+instructed; then (we will suppose you are steering your own yacht) keep
+off till the yacht is going a good full through the water, and then, by
+means of the tiller gradually pressed hard over to port, bring her into
+the wind's eye, singing out, as the tiller is being moved, "_Hard
+a-lee_;" at which command the assistant at the jib-sheet should cast off
+all but one turn, and, as the boat starts into the wind, should cast
+that off, letting the jib fly loosely at the command, _Let go the
+jib-sheet!_ which follows quickly the announcement of "Hard a-lee."
+Then, unless the yacht gets a stern-board, which has been explained
+elsewhere, she is helped round by pushing the main-boom--which is made
+fast by its sheet, and works itself--out over the starboard quarter.
+When the yacht is just about to pass the direction of the wind, and is
+nearly upon the other tack, give the order to "_trim down on the port
+jib-sheet_,"--the same sheet as has just been cast off; and the outer
+surface of the sail will act as a lever to push the head of the yacht
+off till the wind fills the mainsail, when the order, "_Let draw!_"
+should be given, and the jib-sheet let go on the port side, and trimmed
+down as fast as slacked, by another assistant on the starboard side.
+(See diagrams.)
+
+[Illustration: THE ART OF TACKING]
+
+When the weather is light, the yacht small, or particularly easy in
+coming about, all the above may not need to be executed. Some vessels
+will come about without starting the head-sheets; others always need it;
+some always get stern-way, and need the helm shifted to bring them
+round; whilst the centre-board boats, as a class, fly round without
+touching any thing. But it is well to know how to get a yacht about in a
+heavy sea; and all the principles that will help bring about this result
+have been given above.
+
+
+JIBING, OR WEARING.
+
+There are times when the sea is too high, and the sail so much reduced
+that a yacht will not go about by turning towards the wind, but must be
+gotten on the other tack by wearing, as it is technically called in
+ships, where the yards are square, and jibing, as it is called in crafts
+that carry fore-and-aft sails, i.e., sails that hoist up on a mast, and
+are stretched upon booms, in contradistinction to those that are
+fastened to yards that cross the mast at right angles, as in a ship
+often called by sailors, for this reason, a "square-rigger."
+
+Jibing is at all times a delicate manoeuvre, as many have found out to
+their sorrow if they have ever been careless. It is also a very
+deceptive manoeuvre, to any but sailors. How easy it is for
+land-lubbers, after facing a good square breeze, to think, when the
+yacht is kept away before it, that the wind has gone down! And the
+writer has actually brought his yacht to the wind again, to convince one
+sceptic that it was the position of the yacht _wholly_ that caused all
+the change; which is extremely marked, as all must allow. It is from
+this treacherous smoothness, after so much buffeting about when
+close-hauled, that all the mischief occurs; for the boom often, if
+carelessly allowed to jibe, will fill with wind, and, as it goes over,
+either part the main-sheet, or carry away the mast, or do other damage,
+sometimes of a very serious nature. It is forgotten, also, in this
+manoeuvre, that, when the mainsail comes aft, there is a moment when it
+flutters in the wind's eye; and the yacht, relieved of its immense
+pressure, loses in a great measure her momentum, and then, when the sail
+fills with a rush, sufficient allowance for the loss of speed, and the
+force of the hurrying wind that fills the great mainsail, is not taken
+into account.
+
+This manoeuvre must, however, be executed when the yacht will not go
+about by turning to windward; but it is advised to use this method as
+little as possible, except in light summer airs in inner harbors, when
+it may be executed with impunity and without any danger of mishaps.
+
+[Illustration: dropping the peak]
+
+We will suppose a yacht is running before the wind on the port tack,
+with the main-boom off to its fullest extent; which is a position that
+she will reach in turning to leeward, from any other position, either
+close-hauled or running free, before she can be jibed. It is always
+safer, if the wind is at all strong, "to drop the peak" before
+attempting the evolution. "Dropping the peak" consists of letting go the
+peak-halliards of the mainsail, so that the outer clew and head of the
+sail, that is attached to the gaff, will be lowered down so as to dangle
+alongside of the mainmast, with the gaff pointing to the deck. This
+makes of the mainsail, for the time being, a sort of triangular or
+leg-of-mutton sail, and takes off the leverage of the high part, that
+the wind might fill in jibing, and thus press over the yacht
+dangerously. (See diagram.)
+
+[Illustration: _Jibing._]
+
+After dropping the peak, commence hauling in upon the main-sheet,
+keeping the yacht all the time turned a very little towards the wind on
+the port side, till the main-sheet is hauled chock aft, and the
+main-boom almost amidships; then take a good turn with it, and shift the
+helm gradually, till the wind is on the starboard side slightly, and the
+sail has filled with a slat upon that tack; when the main-sheet may be
+slackened, the peak hoisted, and the yacht kept on her course.
+
+
+BEATING TO WINDWARD IN A TIDE-WAY.
+
+It is very important at times to know how a current sets; for, in
+beating to windward, it makes all the difference in the world often,
+which tack the yacht is upon, and whether she is heading well up to the
+tide, or crossing it at such an angle as to receive its whole force;
+and, being swept to leeward, the direction of the current will decide
+which tack to keep the longer upon, and to make as short as possible the
+tack that brings the keel at right angles to the current. Manage the
+yacht, also, so that, when the current or tide-way is faced in the place
+of its greatest strength, the yacht shall be upon the tack that nearly
+stems it, and that she shall be placed upon the unfavorable tack only
+when she approaches parts of the tide-way where the current may be less
+strong. A knowledge of the direction of a tide-way, and how to take
+advantage of it, has won many a race.
+
+
+TO TAKE IN A JIB, AND FURL IT.
+
+It is best to first bring to by the wind; but the jib can be taken in
+and furled, with the yacht in different positions.
+
+Stand by the jib-halliards, and have the down-haul well manned, also the
+lee jib-sheet; then, at the command, "Down jib!" or, "Let go the
+jib-halliards!" or, "Take in the jib!" the halliards are cast off, the
+lee jib-sheet eased off, and the down-haul bowsed upon, till the head of
+the jib is snug down to the boom, when it should be carefully belayed,
+and the lee-sheet again made fast, leaving a little slack for furling.
+Then lay out upon the bowsprit, on the weather-side, and pick up the
+sail from out to leeward, and furl it to the bowsprit by means of
+gaskets, or stops, or in any way that is arranged for, being careful, if
+the yacht is pitching much, not to be thrown over the bowsprit to
+leeward, if submerged in a sea; for the person is suddenly lifted by a
+sea that may reach only to the middle, and, if care is not taken,
+pitched over the bowsprit and to leeward. Having made every thing fast,
+lay in, and set taut the jib-halliards, and belay them, and bring the
+after-clew of the jib amidships, by setting taut on the starboard and
+port jib-sheets, and belaying them, and coiling down every thing snug.
+
+
+TO TAKE IN A MAINSAIL, AND FURL IT.
+
+Bring the yacht close to the wind, and haul the main-sheet flat aft, and
+belay it carefully; for, if it should get adrift whilst the sail was
+being furled, some one might be knocked overboard. Then stand by the
+throat and peak-halliards, and, at the word "Lower away," ease away
+handsomely on each, taking care not to let the peak drop too fast,
+which, if done, sometimes causes the hoops to jam, and the whole sail to
+stick, till the peak-halliards are hoisted upon again to clear things.
+When the sail is wholly down, make fast the halliards, and get along on
+the weather-side of the main-boom, and pick up the sail by what is
+called "skinning it;" that is to say, not to haul it up bodily upon the
+boom, but by repeatedly taking the canvas, and shaking it towards one,
+it is finally rolled up so as to lay snugly on the boom, to which it
+should be fastened by gaskets. The main-boom should then be lifted into
+a crotch, if one is used, and the throat and peak-halliards hauled taut,
+and the main-sheet again belayed, as it will have to be slacked to get
+the crotch under the boom, and every thing coiled up snug, and belayed.
+
+
+REEFING.
+
+This consists of the art of reducing the sails of a yacht in heavy
+weather, so that she will not be top-heavy, and be able to stand up
+bravely against the coming blast. And here let the writer beg all
+persons who desire to be advised at all, not to delay reefing too long;
+and always put in two reefs rather than one, if the weather looks very
+dirty. Reefing before bad weather reaches one is quite another thing
+than trying to reef down in the middle of a thunder-storm in which one
+has been caught by holding on too long.
+
+
+TO REEF A JIB, OR TAKE OFF THE BONNET.
+
+If fitted with a bonnet, instead of reef-points, bring the yacht to the
+wind, lower away on the jib-halliards, and bowse on the down-haul, and
+lower the jib enough so as to bring the reef-cringle down to the
+bowsprit; then, if a bonnet, unlace and cast off, and, if reef-points,
+tie up the sail with them, and lash the outer clew to the bowsprit, and
+cast off the jib-sheet blocks, and hook the sister-hooks into the
+reef-cringle; hoist up the sail, and trim it.
+
+
+TO PUT ONE REEF IN A MAINSAIL.
+
+Haul down the jib, bring the yacht to the wind, haul the main-boom chock
+aft, and belay the sheet carefully; lower away on the throat and
+peak-halliards till the reef-band is down somewhat lower than the
+main-boom; then, by means of the reef-pennant rove through the
+reef-cringle on the outer-leach of the sail, bowse the foot out on the
+boom, and lash it fast by passing an earing through the cringle, and
+around the boom by several turns, till the clew of the sail is securely
+fastened; then pass an earing from the reef-cringle in the luff of the
+sail around the main-boom in the same manner, and commence fastening the
+reef-points, either around the main-boom, or to an iron jack-stay
+fastened to the boom, or around the foot of the sail, according as the
+yacht may be arranged, remembering to make each knot a square knot, and
+not a "granny."
+
+After the sail is half lowered in this manner, so as to get at the
+reef-band, &c., the yacht is kept head to sea and "hove to," by placing
+the tiller towards the lee-side of the yacht, or what is called "hard
+a-lee," where it is secured till the vessel is reefed, and started again
+on her way. In reefing, always haul out on the reef-pennant first, and
+stretch the foot of the sail, and then lash the luff next, and fasten
+the reef-points last.
+
+When the points are all tied, hoist away on the throat and
+peak-halliards, and set the sail.
+
+
+TO TAKE IN A SECOND REEF.
+
+Proceed in exactly the same manner, except that, in first commencing to
+reef, two reefs can be taken in one by lowering the sail to the second
+reef-band, and proceeding in exactly the same manner as in the first
+reef, except that the two extremities of the sail are lashed at the
+second reef-band cringles; and, in tying the reef-points, no notice is
+taken of the first reef-points, but they are stowed with the rest of the
+sail to the boom, and are not tied. This taking two reefs in one is
+often done when caught suddenly and a great reduction of sail is needed
+at once; and it is as useful and safe as if one reef above the other had
+been properly tied, the only difference being, that if the weather
+should moderate, so that the yacht would need but one reef, instead of
+the two she has in, nothing can be done, till the weather is enough
+settled to carry all sail, towards shaking out the two reefs in one,
+which would, of course, shake out the whole sail: and valuable time may
+be lost for want of more sail, set; but, if it is really needed, the
+two reefs in one can be cast out, and a single reef taken in.
+
+[Illustration: _Reefed Sails_]
+
+
+TO SHAKE OUT A REEF.
+
+Bring the yacht to the wind in the same manner as for reefing, and
+unknot carefully all the reef-points _first_, then cast off the lashing
+at the luff, and, lastly, the earing at the end of the boom.
+
+
+
+
+CHAPTER V.
+
+Signal-Lights.--The United States Regulations for Steering and Sailing,
+and the Rules of the Road.--Fog-Signals.--Salutes.--Dipping
+Colors.--Coming alongside.--Quarterdeck Etiquette.--Useful Articles of
+Cabin Furniture.--Anchor Watch.--Method and System _versus_ Disorder.
+
+
+SIGNAL-LIGHTS.
+
+In all night sailing it is important to know the direction in which any
+passing vessel is proceeding, and also to be able to give notice of the
+direction in which one's own yacht is sailing, or, if she be at anchor,
+to so denote, so as to avoid collisions; and, for this purpose, law and
+custom have made certain fixed rules, the most important of which, and
+those that are necessary for usual contingencies, are here appended.
+
+
+RULES OF THE ROAD; OR, STEERING AND SAILING RULES OF THE UNITED STATES.
+
+ARTICLE 2.--The lights mentioned in the following articles, and no
+others, shall be carried in all weathers between sunset and sunrise.
+
+
+LIGHTS FOR STEAMSHIPS.
+
+ART. 3.--All steam vessels, when under way, shall carry
+
+(_a._) At the foremast head a bright white light, so fixed as to show a
+uniform and unbroken light over an arc of the horizon of twenty points
+of the compass; so fixed as to throw the light ten points on each side
+of the ship, viz., from right ahead to two points abaft the beam on
+either side; and of such a character as to be visible on a dark night,
+with a clear atmosphere, at a distance of at least five miles.
+
+(_b._) On the starboard side a green light, so constructed as to throw a
+uniform and unbroken light over an arc of the horizon of ten points of
+the compass; so fixed as to throw the light from right ahead to two
+points abaft the beam on the starboard side; and of such a character as
+to be visible on a dark night, with a clear atmosphere, at a distance of
+at least two miles.
+
+(_c._) On the port side a red light, so constructed as to show a
+uniform, unbroken light over an arc of the horizon of ten points of the
+compass; so fixed as to throw the light from right ahead to two points
+abaft the beam on the port side; and of such a character as to be
+visible on a dark night, with a clear atmosphere, at a distance of at
+least two miles.
+
+NOTE._To fix firmly in the mind the side of the vessel on which the
+lights belong, the following, although original, is recommended_: PORT
+WINE _is red, and the_ RED LIGHT _is always on the_ PORT SIDE.
+
+(_d._) The said green and red side-lights shall be fitted with inboard
+screens, projecting at least three feet forward from the light, so as to
+prevent these lights from being seen across the bow.
+
+
+LIGHTS FOR STEAM-TUGS.
+
+ART. 4.--Steamships, when towing other ships, shall carry two bright
+white masthead lights vertically, in addition to their side-lights, so
+as to distinguish them from other steamships.
+
+
+LIGHTS FOR SAILING-VESSELS.
+
+ART. 5.--Sailing-vessels under way, or being towed, shall carry the same
+lights as steamships under way, with the exception of the white masthead
+lights, which they shall never carry.
+
+
+EXCEPTIONAL LIGHTS FOR SMALL SAILING-VESSELS.
+
+ART. 6.--Whenever, as in the case of small vessels during bad weather,
+the green and red lights cannot be fixed, these lights shall be kept on
+deck, on their respective sides of the vessel, ready for instant
+exhibition; and shall, on the approach of or to other vessels, be
+exhibited on their respective sides in sufficient time to prevent
+collision, in such manner as to make them most visible, and so that the
+green light shall not be seen on the port side, nor the red light on the
+starboard side. To make the use of these portable lights more certain
+and easy, they shall each be painted outside with the color of the light
+they respectively contain, and shall be provided with suitable screens.
+
+
+LIGHTS FOR SHIPS AT ANCHOR.
+
+ART. 7.--Ships, whether steamships or sailing-ships, when at anchor in
+roadsteads or fairways, shall, between sunset and sunrise, exhibit where
+it can best be seen, but at a height not exceeding twenty feet above the
+hull, a white light in a globular lantern of eight inches in diameter,
+and so constructed as to show a clear, uniform, and unbroken light
+visible all around the horizon, and at a distance of at least one mile.
+
+
+LIGHTS FOR PILOT-VESSELS.
+
+ART. 8.--Sailing pilot-vessels shall not carry the lights required for
+other sailing-vessels, but shall carry a white light at the masthead,
+visible all around the horizon; and shall also exhibit a flare-up light
+every fifteen minutes.
+
+
+LIGHTS FOR FISHING-VESSELS AND BOATS.
+
+ART. 9.--Open fishing-boats and other open boats shall not be required
+to carry side-lights required for other vessels, but shall, if they do
+not carry such lights, carry a lantern having a green slide on the one
+side, and a red slide on the other side; and, on the approach of or to
+other vessels, such lantern shall be exhibited in sufficient time to
+prevent collision; so that the green light shall not be seen on the port
+side, nor the red light on the starboard side. Fishing-vessels and open
+boats when at anchor, or attached to their nets, and stationary, shall
+exhibit a bright white light. Fishing-vessels and open boats shall,
+however, not be prevented from using a flare-up light in addition, if
+considered expedient.
+
+
+RULES GOVERNING FOG-SIGNALS.
+
+FOG-SIGNALS.
+
+ART. 10.--Whenever there is a fog, whether by day or night, the
+fog-signals described below shall be carried and used, and shall be
+sounded at least every five minutes, viz.:--
+
+(_a._) Steamships under way shall use a steam-whistle placed before the
+funnel, and not less than eight feet from the deck.
+
+(_b._) Sailing-vessels under way shall use a fog-horn.
+
+(_c._) Steamships and sailing-ships, when not under way shall use a
+bell.
+
+
+STEERING AND SAILING RULES.
+
+TWO SAILING-SHIPS MEETING.
+
+ART. 11.--If two sailing-ships are meeting end on, or nearly end on, so
+as to involve risk of collision, the helms of both shall be put to port,
+so that each may pass on the port side of the other.
+
+TWO SAILING-SHIPS CROSSING.
+
+ART. 12.--When two sailing-ships are crossing so as to involve risk of
+collision, then, if they have the wind on different sides, the ship with
+the wind on the port side shall keep out of the way of the ship with the
+wind on the starboard side, _except_ in the case in which the ship with
+the wind on the port side is close-hauled, and the other ship free, in
+which case the latter ship shall keep out of the way. But if they have
+the wind on the same side, or if one of them has the wind aft, the ship
+which is to windward shall keep out of the way of the ship which is to
+leeward.
+
+       *       *       *       *       *
+
+SAILING-SHIP AND SHIP UNDER STEAM.
+
+ART. 15.--If two ships, one of which is a sailing-ship and the other a
+steamship, are proceeding in such directions as to involve risk of
+collision, the steamship shall keep out of the way of the sailing-ship.
+
+SHIPS UNDER STEAM TO SLACK SPEED.
+
+ART. 16.--Every steamship, when approaching another ship so as to
+involve risk of collision, shall slacken her speed, or, if necessary,
+stop and reverse; and every steamship shall, when in a fog, go at a
+moderate speed.
+
+VESSELS OVERTAKING OTHER VESSELS.
+
+ART. 17.--Every vessel overtaking any other vessel shall keep out of the
+way of the said last-mentioned vessel.
+
+CONSTRUCTION OF ARTICLES 12, 15, AND 17.
+
+ART. 18.--When, by the above rules, one of two ships is to keep out of
+the way, the other shall keep her course, subject to the qualifications
+contained in the following article:--
+
+PROVISO TO SAVE SPECIAL CASES.
+
+ART. 19.--In obeying and construing these rules, due regard must be had
+to all dangers of navigation, and due regard must also be had to any
+special circumstances which may exist in any particular case, rendering
+a departure from the above rules necessary in order to avoid immediate
+danger.
+
+NO SHIP UNDER ANY CIRCUMSTANCES TO NEGLECT PROPER PRECAUTIONS.
+
+ART. 20.--Nothing in these rules shall exonerate any ship, or the owner
+or master, or crew thereof, from the consequences of any neglect to
+carry lights or signals, or of any neglect to keep a proper lookout, or
+of the neglect of any precaution which may be required by the ordinary
+practice of seamen, or by the special circumstances of the case.
+
+The following diagrams are designed to illustrate the use of the lights
+carried by vessels at sea as prescribed in the Regulations above, and
+the manner in which they indicate to each vessel the position and course
+of the other.
+
+[Illustration: vessels approaching]
+
+FIG. 1 (when the _red_ and _green lights_ are both seen).--A sees a
+_red_ and _green_ light ahead. A knows that a vessel is approaching him
+on a course directly opposite to the one he is steering, as B. If A sees
+a _white masthead light_ above the _red_ and _green lights_, he knows
+that the vessel B is a steamer. A should put his helm to port; and B,
+seeing the same lights on board of A, should by the same rule put his
+helm to port also.
+
+FIG. 2 (when the _red light_ only is seen).--A sees a _red light_ ahead
+or on the port bow. A knows that either, first, a vessel is
+approaching him on his port bow, as B, or, second, a vessel is crossing
+his bows to port in some direction, as D D' D" (Fig. 3). If A sees a
+_white masthead light_ above the _red light_, he knows that the vessel
+is a steamer, and is either approaching in the same direction as B (Fig
+2), or is crossing to port in the same direction as D D' D" (Fig. 3).
+
+In the first position (Fig. 2) A sees B a little on the port bow, B's
+_red light_ exposed, and, by the diagrams, B should see A's _red light_
+as well; in which case both vessels should put their helms to port.
+
+In the second position (Fig. 3) A sees D on his starboard bow, and, from
+the fact that he only sees D's _red light_, he knows that D must be
+steering in some direction, as at D D' D"; at the same time, D D' D"
+will see A's _green light on his port bow_.
+
+In this case, A, having D clearly on his starboard bow, should put his
+helm to starboard to turn from D, and D, having A clearly on his port
+bow, should put his helm to port to turn to starboard from A.
+
+FIG. 4 (when the _green light_ is seen, and the _red light_ is not
+seen).--A sees a _green light_ ahead, or on his bow. A knows that
+either, first, a vessel is approaching him on his starboard bow, as B,
+or, second, that a vessel is crossing his bow in some direction to
+starboard, as D D' D" (Fig. 5).
+
+If A sees a _white masthead light_ above the _green light_, A knows
+that the vessel is a steamer, and is either approaching him in the same
+direction as B, or is crossing to starboard in some direction, as D D'
+D".
+
+In the _first position_ A sees B on his starboard bow, B's _green light_
+exposed, and, by the diagram, B should see A's _green light_ as well; in
+which case both vessels should put their helms to starboard.
+
+In the _second position_ A sees D on his port bow, and, from the fact
+that he only sees D's _green light_, he knows that D must be steering in
+some direction, as D D' D"; at the same time D will see A's _red light_
+on his starboard bow. In this case A, having D clearly on his port bow,
+should put his helm to port to turn from D; and D, having A clearly on
+his starboard bow, should put his helm to starboard to turn to port from
+A.
+
+
+SALUTES.
+
+When lying in harbor in a well-ordered and disciplined yacht,
+considerable ceremony is made in hauling down the colors at sunset,
+and hoisting them at sunrise. It is customary to have this done with
+great exactness, and to the very minute often, at which the sun rises
+or sets, as ascertained by the nautical almanac, at the discharge of
+a swivel or small cannon; when all the colors aloft, including the
+ensign and private signal, should commence to descend towards the
+deck together, and at the same rate of speed. To execute this graceful
+ceremony it becomes necessary to post two hands at each of the
+signal-halliards,--one to haul down the color, the other to check it on
+its descent, so as to have it move with the same speed as the ensign, by
+which all other colors are regulated; then, with two hands to each flag,
+with the signal-halliards cast off, and every thing clear, and ready to
+lower away, another hand is placed at the swivel, and when the
+second-hand of one's watch touches the minute of sunset, the command
+"Fire!" is given, and down drop gracefully and slowly all the colors
+that are aloft. They may be set in the morning in the same way, or may
+be made up in a bundle on deck, and hoisted to their position aloft,
+when at a given signal, or discharge of a cannon, the stop is jerked
+asunder, and they are unfolded to the breeze at the same instant of
+time. This is a more graceful method than hoisting them up from deck,
+which, at the best, causes a jerky movement of the bunting.
+
+In a sloop-yacht the ensign is carried always at the end of the gaff,
+when hoisted; and the burgee, or private signal, at the topmast head.
+
+When passing a vessel at sea that has her colors set, it is always
+courtesy to bend on one's own, and, as the nearest point is reached,
+lower the ensign half way towards the deck, and then hoist it back again
+to its position at the peak. This is called "dipping the colors;" and
+the smaller vessel should always be the one to offer the courtesy
+first.
+
+If a man-of-war is met, care should be taken to be always the first; and
+here it is proper to dip one's ensign three times, as is it also to any
+large and important vessel, such as an European steamer moving along in
+all her majesty: she will not neglect to answer the politeness.
+
+In entering harbor, especially if there are other yachts lying at
+anchor, it has become customary, at the same moment that the anchor is
+dropped, to discharge a gun announcing one's arrival; and, if there are
+other yachts present to whom the yacht is known, she will receive
+probably a salute from each in return.
+
+In coming alongside of a yacht at anchor, all persons who are not guests
+of the captain, or especially invited, or of some rank or consequence,
+should come to the port gangway. The starboard side of a vessel at
+anchor is the captain's side, as is that side of the deck which is the
+windward-side when she is under way. Ladies always come on board on the
+starboard side, if the yacht be large enough to enter into all these
+niceties of quarterdeck etiquette.
+
+Every yacht that is large enough to admit of it should be fitted with a
+ship's clock with watch movement, a swinging-lamp, and an aneroid
+barometer; all of which are of great use,--the clock to give the time
+which courses have been sailed; the lamp, light to the chart upon the
+table; and the barometer, admonition of a change in the weather.
+
+It is of great importance that an "anchor-watch," as it is called,
+should be kept on all yachts, for many reasons. For instance, to see
+that none of the sails get adrift in the night, should it come on to
+blow; and to see that the anchor holds well, or to pay out more cable,
+if necessary; to watch the lantern in the fore-rigging, and take care
+that it does not go out, leaving the yacht at the mercy of the first
+lumber-man that may come pitching into her.
+
+Do not anchor too near the shore, so that good sea-room cannot be
+obtained, should it be desired to get under way, to run out of the
+harbor, or to pay out cable to hold on.
+
+It is very easy to row to the shore in a tender, with the yacht well
+out, but very hard to make an inch sometimes, when it becomes a
+lee-shore.
+
+These may seem trivial matters to be so careful about; but it is looking
+out for all contingencies, and yet being without a particle of fear,
+that makes the true yachtman,--always ready, and every thing always on
+hand. It is for this very reason of being prepared, that fear is driven
+out; whilst, with the careless one, in times of emergency the ropes
+foul, the gaskets are missing, the anchor is not bent on, the lamp wants
+oil, the lead-line can't be found, and the jib-halliards, not being
+properly belayed and coiled down, unreve from the masthead block, and
+every thing is "at sixes and at sevens."
+
+
+
+
+CHAPTER VI.
+
+Cross-Bearings.--Two Examples.--Table of Proportional Distances.--Table
+for Determining the Distance that an Object at Sea can be seen in
+Statute Miles.--Determining Distance by the Flash of a Gun.--To find the
+Difference between the True and Apparent Direction of the Wind.--To find
+the Distance of an Object on Shore from the Yacht, by two Bearings of
+the Compass.--Use of the Charts.--Soundings.--Lead-Line.--Eight Bells
+and Watch and Watch.--Boxing the Compass.--Velocity of the Wind.--The
+Log Reel and Half-minute Glass.--Buoys.
+
+
+CROSS-BEARINGS.
+
+Perhaps there is nothing more useful in simple coast-sailing and
+entering harbors than to know how to find one's exact position upon the
+chart, at a moment's notice, by means of taking what is called
+_cross-bearings_. Nothing is necessary for this purpose, but a pair of
+parallel-rulers, a compass, and a sight of any two well-defined objects
+in view, that may be known upon the chart by their general relative
+positions, such as lighthouses, lightships, buoys, churches, headlands,
+&c.
+
+The _parallel-rulers_ are two rulers attached by means of two brass
+swivels, so that they can be moved over the surface of a chart in any
+parallel direction to that from which they are first started; and are
+used to define direction upon any part of the chart. For instance, being
+placed upon the printed compass upon the chart, say upon the line of
+N.W. and S.E., they can be moved about the chart, carrying this same
+direction N.W. and S.E., to any other part of the chart. The two objects
+decided upon to be taken should be in such a direction as to form
+somewhat nearly a right angle with the yacht to obtain the most perfect
+results. All depends upon the aptitude with which the observer can
+_line_ the object to be observed, i.e., its bearing by compass.
+
+The writer knows of nothing so important and useful as this simple
+method of knowing just where one is at any moment, and thus be enabled
+to know just how to steer to avoid all dangers. These sights, or
+cross-bearings, can be taken every ten minutes with ease in fine
+weather, and the position of the yacht exactly defined.
+
+EXAMPLE I. (see diagram, Fig. 1).--Bring the compass in its box on deck
+(it should be of large size, so as to guide the eye; and small
+pocket-compasses are useless for this purpose), and, standing behind it,
+line with the eye with great care the bearing of the north lighthouse by
+the compass, this we will suppose to be N.W. by N.; mark this upon a
+slip of paper, and then move the person so as to see the south
+lighthouse in the same way across the face of the compass, which is
+always between the observer and the object to be observed; and line the
+bearing of this lighthouse by compass, in the same manner, which we will
+suppose to be S.W. With these two results marked upon paper, refer to
+the chart, and place the parallel-rulers upon the printed compass,
+designed upon the chart, upon the line of N.W. by W. and S.E. by S. (its
+opposite), and move them by means of the pivots till one part of them
+rests upon north lighthouse; then draw a line of indefinite length upon
+the chart. Take up the rulers, and in the same manner place them upon
+the printed compass on the chart, on the line of S.W. and N.E., and
+carry them forward, keeping this angle, till some part rests upon south
+lighthouse; then draw a line which will at some point intersect the
+former line, which, if the bearings have been correctly taken, will be
+the exact position of the yacht at the time of the observation.
+
+[Illustration: Fig. 1.]
+
+[Illustration: Fig. 2.]
+
+It will be shown too, by experiment, that considerable variation of the
+bearings, when the angle is large, may be made, without changing very
+much the position of the yacht, proving how valuable this process is for
+practical use, as a considerable error in the bearings will still enable
+one to know almost exactly the position of the yacht; whilst a good
+observation will give it exact.
+
+EXAMPLE II. (see diagram Fig. 2).--Placing the compass in front of the
+observer, it is found that the lighthouse bears W. by compass, and that
+the lightship bears S. W. by S. With these two bearings we consult the
+chart, and lay off the two lines by means of the parallel-rulers; and,
+if the chart gives the distance in miles of the lightship from the
+lighthouse, then, by means of a common rule of equal parts, we shall be
+able to measure the distance of the yacht from the lighthouse or from
+the lightship. At the foot of most charts, however, will be found a
+scale of miles, and, having once ascertained the exact position of the
+yacht by means of cross-bearings, it will be very easy, with a pair of
+dividers, to find its distance in miles from any desired object within
+view, or designed upon the chart, and, by the use of the
+parallel-rulers, the course, by compass, that should be sailed to reach
+any desired point.
+
+It is often useful to know how many geographical or nautical miles,
+which measure at the equator 6,086.4 feet in length, are contained in a
+degree of longitude at different latitudes; that is to say, a degree of
+longitude east or west of 89° N. latitude is only 1.05 nautical mile in
+length; and yet, in another sense, this 1.05 is 60 miles, or one degree
+in length: hence the following table:--
+
+A TABLE SHOWING, FOR SEVERAL DEGREES OF LATITUDE, HOW MANY MILES DISTANT
+THE TWO MERIDIANS ARE WHOSE DIFFERENCE OF LONGITUDE IS ONE DEGREE.
+
+  +----+------+----+------+----+------+----+------+
+  |LAT.|MILES.|LAT.|MILES.|LAT.|MILES.|LAT.|MILES.|
+  +----+------+----+------+----+------+----+------+
+  | 15 |57.96 | 26 |53.93 | 37 |47.92 | 48 |40.15 |
+  | 16 |57.68 | 27 |53.46 | 38 |47.28 | 49 |39.36 |
+  | 17 |57.38 | 28 |52.98 | 39 |46.63 | 50 |38.57 |
+  | 18 |57.06 | 29 |52.48 | 40 |45.96 | 51 |37.76 |
+  | 19 |56.73 | 30 |51.96 | 41 |45.28 | 52 |36.94 |
+  | 20 |56.38 | 31 |51.43 | 42 |44.59 | 53 |36.11 |
+  | 21 |56.01 | 32 |50.88 | 43 |43.88 | 54 |35.27 |
+  | 22 |55.63 | 33 |50.32 | 44 |43.16 | 55 |34.41 |
+  | 23 |55.23 | 34 |49.74 | 45 |42.43 | 56 |33.55 |
+  | 24 |54.81 | 35 |49.15 | 46 |41.68 | 57 |32.68 |
+  | 25 |54.38 | 36 |48.54 | 47 |40.92 | 58 |31.80 |
+  +----+------+----+------+----+------+----+------+
+
+TABLE FOR DETERMINING THE DISTANCE THAT OBJECTS AT SEA CAN BE SEEN IN
+STATUTE MILES.
+
+NOTE.--Enter the table in the column of height in feet, which represents
+the height of the observer above the sea; and opposite to it, in the
+column of miles, will be the result.
+
+  [A]: HEIGHT IN FEET.
+  [B]: MILES.
+
+  +---+-----+---+-----+---+-----+---+-----+---+-----+---+-----+
+  |[A]| [B] |[A]| [B] |[A]| [B] |[A]| [B] |[A]| [B] |[A]| [B] |
+  +---+-----+---+-----+---+-----+---+-----+---+-----+---+-----+
+  |  1| 1.32| 13| 4.77| 25| 6.61| 37| 8.05| 49| 9.26|105|13.56|
+  |  2| 1.87| 14| 4.95| 26| 6.75| 38| 8.16| 50| 9.35|110|13.88|
+  |  3| 2.29| 15| 5.12| 27| 6.87| 39| 8.26| 55| 9.81|115|14.19|
+  |  4| 2.65| 16| 5.29| 28| 7.00| 40| 8.37| 60|10.25|120|14.49|
+  |  5| 2.96| 17| 5.45| 29| 7.12| 41| 8.47| 65|10.67|125|14.79|
+  |  6| 3.24| 18| 5.61| 30| 7.25| 42| 8.57| 70|11.07|130|15.08|
+  |  7| 3.50| 19| 5.77| 31| 7.37| 43| 8.68| 75|11.46|135|15.37|
+  |  8| 3.74| 20| 5.92| 32| 7.48| 44| 8.78| 80|11.83|140|15.65|
+  |  9| 3.97| 21| 6.06| 33| 7.60| 45| 8.87| 85|12.20|145|15.93|
+  | 10| 4.18| 22| 6.21| 34| 7.71| 46| 8.97| 90|12.55|150|16.20|
+  | 11| 4.39| 23| 6.34| 35| 7.83| 47| 9.07| 95|12.89|160|16.73|
+  | 12| 4.58| 24| 6.48| 36| 7.94| 48| 9.17|100|13.23|170|17.25|
+  +---+-----+---+-----+---+-----+---+-----+---+-----+---+-----+
+
+EXAMPLE I.--Sailing along in the yacht "Firefly," from the top of the
+house on which I was standing, which brought my eyes to about 12 feet
+above the level of the sea, I observed seaward the head of a
+gaff-topsail that evidently belonged to a yacht of about ten tons, and was
+therefore estimated to be about 45 feet from the level of the sea. How
+far were these vessels from each other?
+
+In the table,
+
+  Opposite 12 feet stands      4.58 miles
+  Opposite 45 feet stands      8.87
+                              -----
+      Distance apart          13.45 miles
+
+EXAMPLE II.--Sailing towards the land, I mounted the shrouds of my yacht
+till my eye was about 16 feet above the level of the ocean, where I
+sighted the top of a known lighthouse that I was looking for, which the
+chart informed me was 145 feet above the level of the sea. Required the
+distance of the lighthouse.
+
+In the table,
+
+  Opposite 16 feet stands        5.29 miles
+  Opposite 145 feet stands      15.93
+                                -----
+      Distance                  21.22 miles
+
+_Upon seeing the flash of a gun I counted 30 seconds by a watch before I
+heard the report. How far was the gun from me, supposing that sound
+moves at the rate of 1,142 feet per second?_
+
+The velocity of light is so great, that the seeing of any act done, even
+at the distance of a number of miles, is instantaneous. But by
+observation it is found that sound moves at the rate of 1,142 feet per
+second, or about one statute mile in 4.6 seconds: consequently the
+number of seconds elapsed between seeing the flash and hearing the
+report being divided by 4.6 will give the distance in statute miles. In
+the present example the distance was about 6-1/2 miles, because 30
+divided by 4.6 gives 6-1/2 nearly.
+
+
+_To find the difference between the true and apparent direction of the
+wind._
+
+[Illustration: triangle]
+
+Suppose that a yacht moves in the direction C B from C to B, while the
+wind moves in its true direction from A to B, the effect on the boat
+will be the same as if she be at rest, and the wind blow in the
+direction A C with a velocity represented by A C, the velocity of the
+yacht being represented by B C. In this case, the angle B A C will
+represent the difference between the true and apparent direction of the
+wind, the apparent being more ahead than the true; and, the faster the
+vessel goes, the more ahead the wind will appear to be. We must,
+however, except the case where the wind is directly aft, in which case
+the direction is not altered.
+
+It is owing to the difference between the true and apparent directions
+of the wind that it appears to shift its direction by tacking ship; and
+if the difference of the directions be observed when on different
+boards (the wind on both tacks being supposed to remain constant, and
+the yacht to have the same velocity, and to sail at the same distance
+from the wind), the half-difference will be equal to the angle B A C. By
+knowing this, together with the velocity of the yacht B C, and the angle
+B C A, we may obtain the true velocity of the wind; or by knowing the
+velocity of the wind and of the yacht, and the apparent direction of the
+wind, we may calculate the difference between the true and apparent
+directions of the wind.
+
+Thus, if the velocity of a yacht, represented by B C, be 7 miles per
+hour, that of the wind, represented by A B, 27 miles per hour, and the
+angle with the yacht's course, with the apparent direction of the wind B
+C A, equal to 7-1/2 points, the difference between the true and apparent
+directions of the wind will be obtained by drawing the line B C, equal
+to 7-1/2 points; then with an extent equal to 27 miles, taken from the
+scale, and with one foot in B, describe an arc, to cut the line A C in
+A; join A B; then the angle B A C, being measured, will be the required
+difference between the true and apparent directions of the wind.
+
+_Sailing in my yacht, I saw a lighthouse bearing E. by N., and, after
+sailing 14 miles N. by W., it bore S. E. Required the distance of the
+yacht from the lighthouse at both stations._
+
+SOLUTION.--Describe the compass E. S. W., and let its centre X represent
+the place of the yacht at the first station; draw the N. by W. line, X
+Y, equal to 14 miles, and Y will represent the second station.
+
+[Illustration: distance calculations]
+
+Draw the line E. by N., X Z, of an indefinite length, and the line Y Z
+parallel to the S. E. and N. W. line of the compass: the point of
+intersection Z will represent the place of the lighthouse, and the
+distance Y Z, being measured by the same scale of equal parts with which
+the 14 miles of course is laid off, will be found to be 16-3/4 miles,
+and X Z 9-1/4 miles.
+
+
+USE OF THE CHARTS.
+
+Charts can be purchased, at a very reasonable rate, of all the important
+harbors and the whole coast-line of the United States. They come nicely
+backed with cloth, so as to stand considerable hard sea-usage. They
+should be kept, when not in use, rolled up in a large tin box made for
+the purpose, or a long, narrow wooden trunk, called a chart-box.
+
+In using charts, _great care should be taken to see whether or not the
+courses laid down to be sailed are magnetic ones; that is, with the
+variation of the_ _compass allowed_. Such is usually the case; but
+there are charts made where the variation of the compass must be allowed
+to make the courses true.
+
+Always carefully read all the notes upon the margins of a chart: one
+will often run across an item of the greatest interest or importance.
+Nearly all charts of harbors and the coast-line will be found with two
+scales of miles upon them; one being marked _statute miles_, and the
+other _nautical miles_.
+
+Now, the difference is this, the scale that is marked statute miles
+means a mile of 320 rods of 16-1/2 feet each, or 1,760 yards of 3 feet
+each, or 5,280 feet; whilst a nautical mile means the sixtieth part of a
+degree of the earth's surface measured at the equator, which is about
+6,086.4 feet in length.
+
+
+SOUNDINGS
+
+Are very regular upon the American coast; and if the time of tide be
+known, and the note concerning soundings, on the margin of the chart,
+consulted, one can often, when caught in a fog, tell quite correctly the
+position of the yacht, its general place upon the chart being known.
+
+THE LEAD-LINE.--For the purpose of getting soundings, the lead-line must
+be used, of which there are two kinds,--the _dipsey lead_, i.e., the
+deep-sea lead, and the hand lead. The deep-sea lead consists of a lead
+sinker, usually about twenty-five pounds in weight, the lower part of
+which is hollowed out, and filled with tallow, when it is said to be
+_armed_: this is for the purpose of bringing up a specimen of the bottom
+which it strikes upon in its descent, often thus aiding the navigator in
+determining his position. The line to which this lead is attached is
+coiled up in a half-barrel or tub, and is usually a hundred fathoms in
+length, a fathom being six feet. It is generally as large as one's
+little finger, and is laid up in what sailors call a "left-handed coil,"
+the opposite to most other ropes in common use. It is marked up to
+twenty fathoms in the same manner as the hand lead-line, and then one
+knot for every ten fathoms, and a strip of leather for each five
+fathoms. The manner of casting the deep-sea lead is to bring the yacht
+to the wind, and as nearly stationary as possible, when the lead is
+taken by hand outside of all the rigging, forward on the weather-side,
+the tub remaining aft; the person forward then casts the lead as far as
+possible ahead of the yacht, singing out at the same moment, "Watch! Oh,
+watch!" and the person aft at the tub allows the line to be taken out by
+the lead in its descent as fast as possible; and when it reaches the
+bottom he hauls it carefully up till his hand hits upon the knots, the
+number of which determines the depth; the yacht is then kept on her
+course, and the line hauled in over the stern, and coiled down in the
+tub, as it comes in, for immediate use again. When the lead arrives on
+deck, it is unbent from the lead-line, the arming examined and scraped
+off, ready for a new cast.
+
+HEAVING THE HAND LEAD.--The hand lead is used in a different manner, and
+is the most perfect instrument yet devised to warn the yachtsman or
+sailor of unknown dangers and the rapid shoaling of the water, or
+approach to some unknown or unexpected shoal.
+
+Custom has, from time immemorial, marked the lead-line in a peculiar
+and, the writer does not hesitate to say, ridiculous manner, which can
+be understood by the initiated only. But that it may be done according
+to "Gunter," and in "ship-shape and Bristol fashion," the following
+explanation is given:--
+
+Heaving the lead is done usually by a person who is placed in the
+main-chains for that purpose, on the weather-side, or, in smaller craft,
+on deck, forward, just clear of the shrouds. It is thrown whilst the
+yacht is under way, and being kept on her course, and the results
+announced in a singing voice by the one casting; and, when the water
+becomes too shoal, the yacht is put about, and stands off from the
+danger which she was approaching. The one casting the lead takes hold of
+the line at about a fathom from it, and swings it to and fro till enough
+velocity is gained to swing it over his head; when at the right angle it
+is released, and flies forward in the air, striking the water far in
+advance of the yacht and the bottom, before the yacht reaches the place
+where it struck the water, so that the line may be kept perpendicular
+for a moment from the yacht to the bottom of the sea, and the distance
+measured by means of marks upon the lead-line, which are as follows:--
+
+  At  1 fathom      one knot.
+      2   "         two knots.
+      3   "         three knots.
+      4   "         nothing.
+      5   "         a white rag.
+      6   "         nothing.
+      7   "         a red rag.
+      8   "         nothing.
+      9   "         nothing.
+     10   "         leather with one hole.
+     11   "         one knot.
+     12   "         two knots.
+     13   "         nothing.
+     14   "         nothing.
+     15   "         white rag.
+     16   "         nothing.
+     17   "         red rag.
+     18   "         nothing.
+     19   "         nothing.
+     20   "         leather with two holes.
+
+Those that are marked are called "marks," the others, "deeps;" and a
+lead-line as above consists of eleven "marks" and nine "deeps."
+
+If the mark of three fathoms is near the surface of the water, the
+caster sings out, "By the mark three!" or, if such be the case, "By the
+deep eight!" and, should he consider the depth to be a quarter or half
+more than any particular number, he sings out, "And a quarter six!" or,
+"A half five!" &c. If the depth is estimated to be three-quarters more
+than any particular number, he calls it a quarter less than the next
+higher number; thus, at two fathoms and three-quarters, he sings out, "A
+quarter less three!"
+
+For all practical purposes a lead-line twenty fathoms in length, but
+marked only to ten fathoms, will be the most useful for yachts and small
+sail-boats. This line should be marked as follows:--
+
+  At  1 fathom      one knot.
+      2   "         two knots.
+      3   "         three knots.
+      4   "         four knots.
+      5   "         white rag.
+      6   "         six knots.
+      7   "         red rag.
+      8   "         blue rag.
+      9   "         nothing.
+     10   "         piece of leather.
+
+A small piece of white rag may also be inserted at the half-fathoms
+between two and three.
+
+
+EIGHT BELLS, AND WATCH AND WATCH.
+
+Time at sea is divided differently than on shore; and the day commences
+at twelve o'clock, noon. The reason of this is, that at that time
+usually, at sea, the navigator determines and ascertains the position of
+the ship, hence the true time; and the clock is corrected from the
+difference in longitude from noon of the preceding day.
+
+The time of twelve o'clock is denoted by striking the vessel's bell
+eight times in a peculiar manner, thus: by sets of twos, one, two,
+rapidly following each other, then a pause of three or four seconds, and
+then the next set of twos, thus: one, two--one, two--one, two--one, two;
+whilst seven bells would be struck thus: one, two--one, two--one,
+two--one; and three bells: one, two--one; four bells: one, two--one,
+two.
+
+This system of eight strokes of the bell does for the whole twenty-four
+hours, each stroke denoting one half-hour: hence eight bells cover a
+space of four hours, which is termed a watch, and, if each watch was
+four hours long, of course there would be six such watches in the twenty
+four hours; and the crew, divided as they always are into starboard and
+port watches, would, during the whole voyage, have just the same hours
+on deck. That is to say, the starboard watch would come on deck at
+twelve o'clock noon every day of the voyage, and stay till four P.M.
+
+This would not be fair to the other watch; and to avoid this repetition,
+and to divide the time differently each day, the hours from four to
+eight in the afternoon are divided up into what are called
+_dog-watches_ of two hours each, which breaks up the daily regularity,
+and changes the hours; so that the starboard watch who happen to be on
+deck from twelve to four P.M. one day are the next day below during the
+same hours, and the port watch on deck; and thus the same watches come
+round every forty-eight hours. After the bell is struck at twelve noon
+by order of the navigator or sailing-master, the time will be kept as
+follows:--
+
+  12.00 o'clock, noon            8 bells.
+  12.30    "     P.M.            1 bell.  }
+   1.00    "      "              2 bells. }
+   1.30    "      "              3   "    }
+   2.00    "      "              4   "    }  _Afternoon_
+   2.30    "      "              5   "    }  _Watch._
+   3.00    "      "              6   "    }
+   3.30    "      "              7   "    }
+   4.00    "      "              8   "    }
+   4.30    "      "              1 bell.    }
+   5.00    "      "              2 bells.   }   _First Dog-Watch._
+   5.30    "      "              3   "      }
+   6.00    "      "              4   "      }
+   6.30    "      "              5   "   }
+   7.00    "      "              6   "   }   _Second_
+   7.30    "      "              7   "   }   _Dog-Watch._
+   8.00    "      "              8   "   }
+   8.30    "      "          1 bell.  }
+   9.00    "      "              2 bells. }
+   9.30    "      "              3   "    }
+  10.00    "      "              4   "    } _First_
+  10.30    "      "              5   "    } _Night-Watch._
+  11.00    "      "              6   "    }
+  11.30    "      "              7   "    }
+  12.00    "    midnight         8   "    }
+  12.30    "     A.M.            1 bell.    }
+   1.00    "      "              2 bells.   }
+   1.30    "      "              3   "      } _Second_
+   2.00    "      "              4   "      } _Night-Watch._
+   2.30    "      "              5   "      }
+   3.00    "      "              6   "      }
+   3.30    "      "              7   "      }
+   4.00    "      "              8   "      }
+   4.30    "      "              1 bell.  }
+   5.00    "      "              2 bells. }
+   5.30    "      "              3   "    }
+   6.00    "      "              4   "    } _Morning-Watch._
+   6.30    "      "              5   "    }
+   7.00    "      "              6   "    }
+   7.30    "      "              7   "    }
+   8.00    "      "              8   "    }
+   8.30    "      "              1 bell.    }
+   9.00    "      "              2 bells.   }
+   9.30    "      "              3   "      }
+  10.00    "      "              4   "      } _Forenoon-Watch._
+  10.30    "      "              5   "      }
+  11.00    "      "              6   "      }
+  11.30    "      "              7   "      }
+  12.00    "    noon             8   "      }
+
+In cases of emergency, usually to take in sail, whether by night or day,
+"All hands on deck to take in sail, ahoy!" "Heave up my hearties!" is
+bellowed into the forecastle, and comes to the ears of the unwilling
+sleepers of the watch below.
+
+
+BOXING THE COMPASS
+
+Is the term used for repeating the thirty-two points of the compass-card
+by memory from the right hand to the left, (and then back again,)
+commencing at north, and proceeding to north by east, north, north-east,
+&c. It is necessary that the amateur and young salt should acquire this,
+if he desires to ever be able to make use of the most simple problems in
+boat-sailing, the use of the charts, the finding of the position of the
+yacht by cross-bearings, &c. In fact, it is indispensable; and the task
+should be commenced at once. It should not be gotten by rote, without
+rhyme or reason; but, in repeating the names of the points, _the
+compass-card, or a printed imitation of it, should always be kept before
+the eye_. See frontispiece.
+
+After acquiring the regular thirty-two points, the subdivision of
+quarter and half points are to be gone into. The smallest division used
+in navigation is a quarter of a point; thus your course may be N. by E.
+1/4 E., or N. by E. 1/2 E., or N. by E. 3/4 E.; but no smaller
+subdivision is ever made between two courses than one-quarter of a
+point. This is as near as the yacht can be kept to her course, and is
+as near as the eye can line a course in an observation for
+cross-bearings. If, however, one desires more minuteness, it may be well
+to state that each point of the compass contains 11° 15', or 360° for
+the whole thirty-two points. The names of the points of the compass,
+commencing at north, and going towards east, are as follows. The
+_principal points_, as they are called, which are marked larger than the
+others on the compass-card, are here designated by capitals.
+
+   1. NORTH                     N.
+   2. North by east             N. by E.
+   3. North, north-east         N.N.E.
+   4. North-east by north       N.E. by N.
+   5. NORTH-EAST                N.E.
+   6. North-east by east        N.E. by E.
+   7. East, north-east          E.N.E.
+   8. East by north             E. by N.
+   9. EAST                      E.
+  10. East by south             E. by S.
+  11. East, south-east          E.S.E.
+  12. South-east by east        S.E. by E.
+  13. SOUTH-EAST                S.E.
+  14. South-east by south       S.E. by S.
+  15. South, south-east         S.S.E.
+  16. South by east             S. by E.
+  17. SOUTH                     S.
+  18. South by west             S. by W.
+  19. South, south-west         S.S.W.
+  20. South-west by south       S.W. by S.
+  21. SOUTH-WEST                S.W.
+  22. South-west by west        S.W. by W.
+  23. West, south-west          W.S.W.
+  24. West by south             W. by S.
+  25. WEST                      W.
+  26. West by north             W. by N.
+  27. West, north-west          W.N.W.
+  28. North-west by west        N.W. by W.
+  29. NORTH-WEST                N.W.
+  30. North-west by north       N.W. by N.
+  31. North, north-west         N.N.W.
+  32. North by west             N. by W.
+
+If any one desires to be _very salt_, he will pronounce these points as
+follows:--
+
+  Nor', nor'-west               N.N.W.
+  Noothe by east                N. by E.
+  Sou' by west                  S. by W.
+  Sou', sou'-west               S.S.W.
+
+And, in fact, the above is the way that they are pronounced by all
+sailors.
+
+It should be remembered that the _compass does not move_; that is to
+say, the yacht moves, which seemingly makes the card in the compass-box
+revolve. It is absolutely an optical illusion to "land-lubbers" and
+except by the jar of the yacht, or by pitching about in a heavy sea, the
+compass-card does not revolve, but is stationary, and it is the change
+of the course of the yacht which seems to give it motion.
+
+
+TO PLACE A COMPASS TO STEER BY.
+
+The periphery of the circular casing in which the card revolves should
+be marked plainly with a perpendicular black line; and this black line
+should, by moving the compass-box, be brought to bear in a direct line
+with the keel of the yacht, and the box secured in that position. One
+has then only to move the helm to bring each and every point on the
+compass-card opposite to this black mark on the compass-box, and, having
+once brought the point needed to this position, keep it there by moving
+the helm when necessary; and this act of keeping it there is called
+"keeping the vessel on her course."
+
+For instance: if the wind allows, suppose by the chart it is desired to
+steer N.E., to reach a certain place. Go on deck, and, by moving the
+helm, bring the N.E. point of the compass-card opposite to the black
+perpendicular mark on the compass-casing, and keep on your way, after
+having trimmed your sails so as to hold the wind properly. The yacht
+will not keep on N.E. exactly, but will yaw to and fro, _which will seem
+as if the compass-card was moving_; and this will occur more or less
+according to the roughness of the water. And, if one looks too much to
+the compass, the yacht will be off the course before the compass shows
+it: it is therefore well, if possible, to get some bearing, miles
+ahead, that cuts the weather-shrouds or jib-stay, when the yacht is on
+her course; then, by looking at that, one can easily see when she is off
+her course, casting an eye to the compass once in a while. In the
+night-time very fine steering can be done by picking out a star, and
+steering by it, after getting it to range on some part of the yacht.
+Steering by a compass is a great accomplishment: few amateurs do it
+well. It used to be said at sea, that the best helmsmen _looked at the
+head of the vessel_ oftener than the compass, and were thus enabled to
+check with the helm any disposition of the vessel to leave the true
+course, long before the departure was shown by the compass-card.
+
+
+VELOCITY OF WIND.
+
+Generally speaking, a wind that blows sixteen miles an hour is called a
+fresh breeze. One that blows eighteen miles an hour calls for a single
+reef; and twenty miles, a close reef. Twenty-four miles an hour is a
+gale; whilst thirty miles an hour is a fresh gale.
+
+
+THE LOG, REEL, AND HALF-MINUTE GLASS.
+
+This method of ascertaining how fast the yacht is moving through the
+water, and hence to calculate her position, has been almost done away
+with by the use of what is termed the "patent log," which is now almost
+universally used, and which consists of a small propeller of brass,
+which is towed astern, and records its own revolutions on dials. But, to
+enable one to use the common log-line and glass, the following
+description is written: The half-minute glass is of the same form as an
+hour-glass, and contains such a quantity of sand as will run through its
+neck in twenty-eight seconds of time; or a watch with a second-hand may
+be used, if the glass is not handy. The _log_ is a piece of thin board
+of a quadrantal form, about the size and shape of a quarter-section of
+the bottom of a common water-pail, loaded on the circular side with
+enough lead to make it swim upright in the water. To this is fastened a
+line, about one hundred and fifty fathoms in length, called the
+_log-line_, which is divided into intervals called _knots_, and is wound
+on a reel which turns very easily.
+
+To ascertain the velocity at which the yacht is sailing is called
+_heaving the log_, and is performed as follows: one person holds the
+reel, and another the half-minute glass, whilst a third throws the log
+over the stern on the lee-side; and, when he observes that the stray
+line has run off (which is about ten fathoms), and the first mark (which
+is generally a red rag) has passed the stern, he sings out, _Turn_: the
+glass-holder answers, _Turn_, and, watching the glass, the moment it has
+run out, sings out, _Stop_. The reel being immediately stopped, the last
+mark run off shows the number of knots that the yacht has sailed during
+the last hour, if the wind has been constant.
+
+The log-line is marked as follows: allow ten fathoms for stray line, and
+then insert a red rag, and at every 47.6 feet mark the line as follows:
+at one, one leather; at two, two knots; at three, three knots; and also
+have a small mark at each half-knot, and so on to ten and twelve knots.
+
+The principle of the log-line is, that a knot is the same part of a
+sea-mile that half a minute is of an hour: therefore the length of a
+knot should be one hundred and twentieth the length of a sea-mile, or
+fifty-one feet; but, as it is more convenient to have the knot divided
+into eight parts of six feet each, the proportional reduction is
+necessary in the half-minute glass.
+
+
+BUOYS.
+
+In entering harbors, the _red buoys_ are to be left upon the starboard
+hand, and the _black_ buoys upon the port hand.
+
+
+MAN OVERBOARD.
+
+Throw overboard at once any light object that will float, such as a
+stool, oar, boat-hook, or life-preserver, for him to grasp; then bring
+the yacht at once to the wind and heave her to, and pick up the man with
+the tender, or by going about and standing for him. _Don't look out
+astern for the man where he disappeared_, but out on the beam, which
+will be his position when the yacht is brought to the wind.
+
+
+
+
+CHAPTER VII.
+
+PRACTICAL HINTS ON BOAT-SAILING.
+
+
+Remember, in the first place, that no small boat fit to be called a
+sail-boat can capsize, unless the sail is confined by the sheet being
+made fast.
+
+If the sail is loose, and the boom, or lower leach of the sail, as the
+case may be, can move in a direction parallel to the wind, or in the
+"wind's eye" as sailors would say, the boat cannot be upset by an
+ordinary gust of wind.
+
+In other words, in all fore-and-aft sails, such as are used almost the
+world over for small sail-boats, the sheet, or rope that confines the
+after-part of the sail to the stern-part of the boat, is the key to the
+whole science of boat-sailing.
+
+If one knows how to use the sheet properly, one knows how to sail a boat
+with comparative safety. Of course it is supposed that he should also
+understand flaws of wind and their effects.
+
+It is the flaws of wind caught by the sail--more than it can bear--that
+capsize a boat; and, if the wind that has force enough to do this could
+be "spilled" out of the sail, the boat would be immediately relieved.
+
+Therefore to insure safety, the person steering a boat should never
+belay the sheet, but keep it in hand, so as to be able to slack it off
+gradually, or cast it off entirely at a moment's notice. To do this,
+only one turn should be taken round the cleat; so that the sheet will
+slip under the force of a gust of wind, when the hand retaining it in
+place slackens it in the slightest degree.
+
+If the whole sail points towards the wind's eye, it no longer has any
+effect upon the boat. The sail then shakes in the wind exactly as a flag
+does from the top of a flag-staff, the wind passing by on both sides.
+Should the sheet be hauled aft, the sail would be filled with wind upon
+one side, and, if the wind had strength to overcome the gravity of the
+boat, capsize her.
+
+Or, if the boat is so heavy ballasted that its gravity cannot be readily
+overcome, the mast or sail are liable to be carried away, and danger
+incurred on account of the towing mast and sail. These would most likely
+draw the boat into the trough of the sea, where she would be swamped
+almost instantly.
+
+It does not follow, because the slacking of the sheet is a safe thing to
+do, that it should always be done. With boatmen who are thoroughly
+practised, it seldom is done; for they can obtain the same result with
+the rudder by bringing the boat into the wind until the sail shakes,
+with the sheet still fast. This gives more control of the boat than
+would be the case if the boom were out to leeward, perhaps dragging in
+the water, on account of the pressure of the wind upon the hull and
+mast.
+
+The very best thing to do in a sudden squall is to use a modification of
+both these methods; i.e., slack off the sheet for a foot or two, so that
+the sail, before it can fill with wind, will be at such an angle with
+the hull, that the shock upon the latter cannot be great. This gives one
+more command of the boat, and insures quicker movement of the hull, and
+hence quicker obedience to the helm, should a sudden change occur. This
+slacking of the sheet also prevents the boat from going about on the
+other tack, should she be brought too suddenly to the wind.
+
+With an experienced hand at the helm, unless the squall is very severe,
+there is no need of luffing so as to shake the sail to any great degree.
+The slightest movement of the tiller will keep the sail just quivering
+in the wind, the boat still advancing, so that she will not lose
+steerage-way; thus enabling one to at once luff up nearer to the wind,
+or change the boat's position rapidly, should the wind, which is often
+the case, shift its direction suddenly.
+
+Nothing is of more importance than to keep steerage-way on the boat, as
+it is only in the utmost emergency that the sheet should be slacked
+wholly off, and the headway lost.
+
+If the boat is well under command when the squall is seen advancing,
+then the method of steering into the wind's eye may be safely adopted,
+and is, in fact, the better and more seamanlike method.
+
+In small sail-boats on ponds, or arms of the sea, when a thunder-shower
+is coming up,--which can always be seen in time,--it is, as a rule, much
+the safest plan to take the boat as quickly as possible towards the
+nearest harbor or land, unless rocky, inaccessible, or dangerous; in
+which case, furl all sail and let go an anchor, paying out such a scope
+of cable that the boat will ride easily. Then wait for the coming blast.
+
+However severe it may be, the thunder-gust can then do no harm. With an
+oar you can head the boat towards the coming blast, so that she will
+feel but little of its force, and prevent the dragging of the anchor.
+
+Thunder-showers are particularly dangerous, however, from the fact that
+they almost always make their way directly against the prevailing wind.
+When the two winds meet, and one finds one's self in the vortex between
+them, it is very difficult to command a boat. Each wind, fighting for
+the supremacy, will fill the sails with gusts, for which one does not
+more than have time to prepare before a counter-gust will throw them
+aback, or violently to the opposite side of the boat. Often, in fact,
+the wind, blowing a gale all the time, will in less than five minutes
+have visited every point of the compass. An anchor down and a furled
+sail are the best for all small, open, or half-decked boats or yachts in
+such an emergency.
+
+Boats are often capsized by persons on board suddenly scrambling to the
+windward, or upper side, when a squall buries the lee gunwale in the
+water. Should the boat at this moment be taken aback by a counter squall
+or flaw, she will almost surely capsize, for in one moment the windward
+side becomes the leeward side; and the mass of weight hanging to what
+was, a moment before, the weather-side, will carry the boat over. It is
+too late to try and struggle back again: the bodies are all in the wrong
+position to be able to turn around inboard towards the centre of the
+boat. In their helpless postures they face the waves that are ready to
+devour them.
+
+The safest position in an open boat, when preparing for an approaching
+squall, is, for all except the helmsman, to sit down in the bottom of
+the boat, as near the centre as possible, thus being safe from any blows
+from the boom of the sail, and increasing the steadiness of the boat in
+a marked degree. Here they act as ballast, and do much good in keeping
+the boat upright.
+
+To the above knowledge should be added also the science of reefing the
+sails of a boat quickly and neatly, so that she will stand up under a
+great pressure of wind.
+
+The mistake most frequently made is to neglect to reef till it is too
+late. Landsmen scarcely ever calculate how quickly wind moves, and how
+suddenly a change in the weather takes place. It is easy to reef while
+there is time, but sometimes almost impossible if too long delayed.
+Reefing saves one from much anxiety. The boat that with her whole sail
+would be cranky and dangerous plunges along buoyantly through the summer
+gale when her sails are properly reefed.
+
+With a thorough knowledge of the sheet and rudder, and how to reef a
+sail, there ought to be no accidents, even in very small boats; but the
+trouble is, that too many tyros are allowed to invite unsuspecting
+ladies and young girls into their boats, they not understanding the
+first rudiments of a real nautical knowledge, of how to manage a craft
+in times of danger.
+
+A boat is like a good horse,--it will always do the best it can. It will
+not capsize if it can help it; but, if mismanaged in time of emergency,
+it is a dangerous plaything. Properly handled, it is amazing, almost
+incredible, what can be done with a small open boat, with a common
+lug-sail, and what weather it will live through.
+
+But without knowledge, and knowing just what to do in dangerous times,
+this pleasant summer sail is a treacherous pastime.
+
+
+
+
+CHAPTER VIII.
+
+A SHORT CRUISE WITH A SLOOP-YACHT, ILLUSTRATING THE COMMON
+SEA-MANOEUVRES.
+
+
+"Well, uncle Charley, when are you going to give me a sail in your
+yacht? You know, that, although I have sailed a little, I look forward
+with the greatest impatience to a trip with you; so that I may become
+posted in all respects, and finally turn out a first-class sailor."
+
+"Your ambition is a worthy one, Tom; and I am willing to gratify it. But
+it is yet very early in the season; and I am afraid that we shall
+encounter some dirty weather, should we attempt now to make a trip."
+
+"Well, that is the very thing that I want to encounter," said Tom.
+"Besides, you have quite a large yacht, and every thing in apple-pie
+order; whilst I only have a little bit of an open boat at my home, and
+really know but little of the science of boat-sailing, and nothing of
+the technical language or discipline of a well-appointed vessel."
+
+Thus spoke Tom Coffin, a young man of some seventeen years, who was on a
+visit to his uncle, Capt. Charles Coffin, a middle-aged retired
+sea-captain, who knew a vessel from her stem to her stern, and who
+retained his youthful passion for the water, and enjoyed himself
+thoroughly during the summer months in his beautiful yacht "Nancy Lee."
+
+"By the way, uncle Charley, you have not told me any thing yet about
+your yacht; and you know I have never seen her. How large is she?"
+
+"She is about thirty feet over all," said his uncle.
+
+"How is she rigged? Tell me all about her, uncle, won't you?"
+
+"Well, the 'Nancy Lee' was built two years ago, and is what is called a
+'centre-board sloop;' that is, she is shallow, and broad of beam, and is
+rigged as a sloop. She has a good comfortable cabin, and sound spars,
+and strong and durable canvas, and good ground-tackle, and I think she
+will compare favorably with any of her class. She is not so fast as
+some, being, as I said, of good beam, and her spars and sails are not
+too large for rough weather; but I consider her a first-class boat for
+outside work, safe, strong, and easily managed."
+
+"How many crew do you carry, uncle Charley?"
+
+"Well, as a general rule, I have only Bob Stevens with me, who made, if
+you remember, many voyages to sea with me, and is a true, able seaman
+in every sense of the word. He usually keeps the 'Nancy' in order for
+me, and acts as 'cook and all hands;' although, when I am going on a
+cruise of a week or two, I usually take with me also Widow Tompkins's
+son, who is smart and active, and who, if he will only take a voyage
+round the Horn, will, I prophesy, yet turn out a good sailor. But you
+shall take his place."
+
+"Is the yacht all ready now?"
+
+"Oh, yes!" replied uncle Charley. "She has been at her moorings the last
+two weeks. But I thought I would give you a day or two to get over your
+journey before speaking about a cruise; but I see that young blood will
+not be restrained."
+
+"And have you every thing on board ready for a cruise?" asked Tom.
+
+"Yes, every thing," replied his uncle; "for, being an old sailor, I like
+to have every thing prepared. Now, on board the 'Nancy Lee' you will
+find, I will be bound, every thing that is needful for a craft of her
+size; such as compass, charts, signal-lights, barometer, lead-line, log,
+and all that is needful to handle her in a seamanlike manner in all
+weathers."
+
+"Well, uncle, when will you start? Have you provisions on board?"
+
+"Every thing is on board; and, as you have inoculated me, I suppose we
+might as well get under way to-morrow morning on the young ebb: so take
+yourself up aloft, young man, and 'turn in,' and be prepared to turn out
+at about one bell in the morning watch; and I will go down to the
+landing, and see that Bob has every thing in ship-shape."
+
+       *       *       *       *       *
+
+"Come, rouse out, youngster! it is past one bell," sang out the cheery
+voice of uncle Charley at Tom's door the next morning; and hurrying on
+his clothes, and taking a small valise filled with a change or two fit
+for sea-use, he was soon by his uncle's side.
+
+"Well, it is going to be a lovely morning, if it is only the 10th of
+May," said Capt. Coffin.
+
+"Why, how do you know, uncle Charley? It is as dark as pitch yet."
+
+"Well, my boy, when you are as old as I am, you will know how, by many
+signs, to forecast the weather, even in the night-time. But let us hurry
+along, and get on board, as I want to take advantage of this ebb to get
+outside before the flood makes."
+
+Arriving at the landing, the following conversation took place:--
+
+"'Nancy,' ahoy!"
+
+"Ay, ay, sir!"
+
+"Is that you, Bob?"
+
+"Yes, captain."
+
+"Come ashore in the tender, and set us on board!"
+
+"Ay, ay, sir!"
+
+The small boat soon reached the landing; and our friends were soon
+alongside the "Nancy Lee," and quickly on board.
+
+"Now, Bob," said Capt. Coffin, "have you got hot coffee and biscuit
+ready?"
+
+"Yes, captain, all ready, and humming hot on the stove."
+
+"Well, then, we will go below, Bob, and you can serve it in the cabin;
+for it is well to get something hot down before facing this damp morning
+air."
+
+After each had drunk a good hot mug of strong coffee without milk, and
+eaten a good large sea-biscuit, Capt. Coffin and Tom appeared again on
+deck, and preparations were made to get under way.
+
+"Have you got the stops off of the mainsail, Bob?"
+
+"Yes, captain: they are all off."
+
+"Then go forward, you two," said Capt. Coffin, "and hoist away the
+mainsail. You take the peak-halliards, Tom; and you the throat, Bob.
+That's the way! Up she goes! [Cheerily.] Avast, there, Tom! you are
+hoisting too fast on the peak, and have jammed the hoops round the mast,
+so that Bob can't get an inch on the throat-halliards. Slack away a
+little! Handsomely: there, that will do! Now hoist away. Belay the
+peak-halliards! Now go over and take in the slack, whilst Bob swigs off
+on the throat-halliards: that will do. Belay! Now over to the peak, and
+stand by to peak it up, whilst I let go the main-sheet, and lift up the
+main-boom. So! That will do. Belay! Now coil the halliards down snug,
+and lay aft here, Tom, and tend the jib-sheet.--Are the gaskets off the
+jib, Bob?"
+
+"Ay, ay, sir! All off!"
+
+"Then let go your down-haul, and run her up!
+
+"Now, Tom, I want to cast to starboard; and, as the yacht is now lying
+head to wind, when Bob has the jib up, I want you to trim down flat on
+the port jib-sheet, and hold on till I tell you to let go.--Now, Bob, is
+that jib chock up?"
+
+"Yes, captain."
+
+"All right, then; slip your moorings, and let her slide! Haul aft the
+port jib-sheet, Tom; and lay aft here, Bob, and help shove this boom out
+to starboard, whilst I put the helm to port. There, she pays off all
+right! Down with the centre-board, Bob!--Let go the jib-sheet, and trim
+down to starboard, Tom! That will do. Belay!
+
+"There! Don't she move through the water well? Just a nice
+working-breeze. And see the glimmer of the breaking day over there to
+the eastward! I wonder if we can fetch by Rouse's Point without going
+about. I fear not; but we shall see long before we get there. There is
+plenty of time.
+
+"Now, Tom, do you see that little light on shore, just forward of the
+weather fore-rigging? Come and stand just where I am, and see if you see
+it."
+
+"Yes, uncle, I see it all right."
+
+"Well, take the helm, and keep her just as she goes, with that light
+cutting the weather-rigging, as a course. She steers like a pilot-boat,
+and you will have no trouble.--Bob, keep a good lookout there forward,
+whilst I go below to have a look at the chart."
+
+"Ay, ay, sir!"
+
+"Now, Tom, I have looked carefully at the chart, and I know this harbor
+well; but the wind is so scant, that I am afraid that we shall not be
+able to lie by Rouse's Point without going about; and I had rather do it
+now than when we get farther down, and nearer to the point, for there
+are some bad rocks make off: so I think that we will go about to make
+all sure.
+
+"Ready about!
+
+"Come aft, Bob, and tend the lee jib-sheet!--And you look out for the
+weather one, Tom! All ready! Hard a-lee! Let go the jib-sheet! Avast
+hauling, Tom: you are too quick!--Trim down, Bob!--Now let draw, and
+trim down flat, Tom, and belay! There, she begins to trot again! We
+can't stand very far in this direction; for we are crossing the channel
+at about right angles, and it is not more than a mile and a half wide
+hereabouts; and I don't want to be picked up by any of these flats on an
+ebb tide, and don't mean to; and yet I want to stand over just as far as
+I can, so as to clear Rouse's Point on the next tack. There comes the
+daylight at last! Is it not a beautiful sight, Tom?--Come, Bob, jump
+below, and get up the hand lead, and give us a few casts from the
+weather-rigging.
+
+"Are you all ready?"
+
+"Ay, ay, sir!"
+
+"Then cast."
+
+BOB.--And a quarter less five.
+
+"That is plenty of water; isn't it, Tom? But then you can't be too
+careful, and there is nothing like the lead. We only draw eight feet and
+a half with the centre-board down, and only three and a half with it up:
+so we have little to fear yet. Keep casting, Bob!"
+
+BOB.--By the deep, four!
+
+"There, you see Tom, we have already commenced to shoal our water."
+
+BOB.--And a quarter less three!
+
+"Still shoaling, and pretty fast too."
+
+BOB.--And by the mark, two!
+
+"We are getting well over, Tom; but we will have a cast or two more from
+Bob."
+
+BOB.--And a quarter less two!
+
+BOB.--And a half one!
+
+"Ready about!
+
+"Hard a-lee!
+
+"There, Tom, you did better with your jib-sheet that time, and did not
+try to haul it over too quick, and before Bob had trimmed it down again
+to make her pay off.
+
+"See, Tom, the day is breaking fast, and there is Rouse's Point well on
+our lee. If the wind holds, we shall not have the slightest difficulty
+in passing it on this tack. And now, as we are going to make a long leg,
+we will let Bob go below and get breakfast ready. Do you think you can
+eat any thing, Tom?"
+
+"Yes, uncle, I think I can; but this is just splendid. But tell, me, why
+do you trim down the jib again on the same side, after letting it go?
+Would not the yacht come about without it?"
+
+"Yes, she would," replied Capt. Coffin, "easily; but I wanted you to see
+how a craft should be put about in a seamanlike manner, and how she
+would have to be put about in heavy weather. It is well to know how to
+do a thing well, and what will be necessary in times of emergency."
+
+"Thank you, uncle: I shall remember. Is it not a lovely morning, and how
+nicely we are slipping along! I think I could eat a piece of whale's
+blubber, I am so hungry."
+
+"Are you, Tom? Well, so am I. But here comes Bob up the companion-way,
+to say that breakfast is ready.
+
+"Now, Bob, keep her full and by; and, if she breaks off any, call me at
+once, for we shall have to go about again.
+
+"Let's get below, Tom, and get our breakfast; for I must not be long
+below till we get well outside.
+
+"Is this not a snug little cabin? and haven't I got things handy around
+me? I like to have things where I can put my hand upon them quickly.
+
+"If you have finished, we will go on deck again.
+
+"Well, Bob, has she held her course?"
+
+"I don't believe she has changed it a pint, Capt. Coffin."
+
+"Well, go below and get your breakfast, and clear things up. We will
+look out for her. In an hour or two we shall be out in the sound all
+clear."
+
+"See, uncle, how we have gained upon that fishing-schooner! Are we not
+going to pass too near him? He evidently is beating out as well as we."
+
+"You are right, Tom. If we should keep on, there would be a collision;
+but as we are on the port tack, and the fishing-schooner on the
+starboard tack, and both of us close-hauled, he has the right of way;
+and it is therefore for that reason that I gracefully ease off the
+main-sheet, as you see, and keep her off, so as to pass under his stern,
+whilst he passes saucily on his course and to windward. But it is his
+right, and we must not hesitate. When we are on the starboard-tack, we
+will demand our rights just as strongly."
+
+"I am afraid after all, uncle Charley, that it is going to be rough; is
+it not? The day is not as pleasant as it was an hour ago, and it seems
+kind of overcast and cloudy to windward."
+
+"Yes, Tom: the weather does look a little dirty to windward, but
+nothing to speak of; but, as you started to see some fun, I hope that
+you will see it."
+
+"How far do you call us now from the land?"
+
+"Well, I should say that we were a good ten miles from the southern
+light. I can tell you exactly by cross-bearings, if you really want to
+know very much."
+
+"No, uncle, I do not care enough to give you that trouble; and, besides,
+I only wanted to know about how far off you estimated it. We must be
+going through the water pretty fast, as she is well heeled over."
+
+"Yes, she is jumping along now, and the wind and sea are both getting up
+fast. I think that I shall take in a reef.
+
+"Never be ashamed, Tom, of reefing early: it is a simple matter if
+undertaken in time; but, if neglected too long, is a difficult, and at
+times a dangerous job.
+
+"In the first place, you and Bob get hold of that tender, and draw her
+up on the lee-side, and get her aboard forward, where she belongs, and
+lash her down. Don't get overboard!
+
+"Be careful of the rail, Bob: don't chafe it. Now lash her down snug,
+and, as soon as you are ready, man the jib-halliards and down-haul. All
+ready?"
+
+"Ay, ay, sir!"
+
+"Then let go the jib-halliards. Down with it, Bob!--Lend a hand on the
+down-haul, Tom! There, that will do! Make fast!
+
+"Stand by the throat and peak-halliards! lower away! That will do. Well
+of all. Belay! Come, lay aft here, and bowse out on this reef-pennant!
+That will do! Lay out on the boom, Bob, and pass this earing! All fast?"
+
+"All fast, sir."
+
+"Then come in and get another earing for the luff, Bob, and hurry up!
+
+"That's the talk; make fast! Now tackle the reef-points, and knot as
+fast as you can. Now lay forward, and off with the bonnet, off the jib!
+And sing out when you are ready.
+
+"Now lay aft, and hoist up the mainsail! That will do. Belay! Now up
+with the jib!
+
+"There, off we go upon our course again. Do you see how much better she
+stands up to it, Tom? and how much better weather we are making? I don't
+like the looks of things to windward, however; and I guess that we will
+square away for a harbor that I know on the other side of the sound,
+unless you would like to heave to out here, and ride it out. But we
+should make nothing by that, and we may as well get in smoother water as
+to jump about here; for it is coming on to blow fresh, if I know any
+thing about weather. My barometer is falling too, which is also a
+warning sign.
+
+"Here comes an extra puff, rather more than we can stand even with this
+reef in; but you see, by shaking her up into the wind, I have allowed
+all its force to pass us without damage.
+
+"Well, I think that we have had enough of this: it is cold, and the
+water that we are taking on board will soon chill us more. Here goes for
+squaring away before it!
+
+"Stand by the main-sheet and jib-halliards!
+
+"Ease away on the main-sheet, Tom! handsomely! Keep a good turn! Don't
+let it get away with you. That will do!--Ease off the jib-sheet, Bob!
+Make fast!"
+
+"All fast, sir!"
+
+"Why, uncle Charley, what a change! I should think there was scarcely
+any wind at all."
+
+"Yes, that is a most common impression when a craft is kept off before
+the wind after pounding into it; but you should not be deceived. Now is
+the time that you must pay great attention to the helm; for the waves
+lift the stern so far out of the water, that the rudder acts, as you
+see, in an irregular and unequal manner, causing me to meet her as she
+yaws with a quick movement of the helm. I don't like the looks of the
+weather at all.
+
+"Look out! Hold on, everybody! There, that sea has pooped us, and we are
+all afloat! This will never do.
+
+"Stand by to haul aft the main-sheet! We must shake out this reef, Bob,
+if it is blowing fresh, so as to go faster before the wind, and not get
+pooped again."
+
+[The reef is shaken out, and the yacht again kept away.]
+
+"There, Tom! see how she runs away from those large seas, now! No more
+danger of their coming on board again.
+
+"You see, the tide was against us, and the wind astern; and the 'Nancy'
+moved too slowly forward to escape those big fellows. This is one of the
+times that it is good seamanship to clap on more sail, although the sea
+is getting up. If we should haul on a wind now, we should need two reefs
+in; but, running before it, she is doing very well.
+
+"There is the headland that we shall have to leave on the port side. Do
+you see it, Tom? We shall have to jibe before we can run in, and that is
+a manoeuvre that must be nicely executed in such a sea-way as this. But
+we shall execute it all right, as you shall see.
+
+"Lay aft here, Bob, and stand by the peak-halliards! Let go! That will
+do. Belay! Now clap on this main-sheet, and get it aft, steadily. Round
+it in!
+
+"Keep a good turn at the cleat! Don't let the boom get away with you!
+Now slack the lee jib-sheet off, so that the jib can work itself. Now
+look out for the jerk when the boom goes over, and stand by to slack the
+sheet at once. Handsomely done! Slack away the main-sheet! Belay!
+There, that is a good job! Up with the peak! Belay!
+
+"Go forward, Bob, and stock the second anchor; and bend on the cable,
+and have it all ready for anchoring; for we shall not find very much lee
+in this harbor till the wind shifts. But there is good holding-ground,
+and we shall be all right.
+
+"As soon as we pass that lighthouse, Tom, and get in the bight of the
+bay you see ahead on the starboard side, I shall round her to, and let
+go the anchors. There are two fishermen at anchor there now. Do you see
+them?"
+
+"Yes, uncle, I see them; and they seem to be laboring pretty heavy."
+
+"Yes. That is because they are loaded deep; but we shall ride like a
+bird.
+
+"Haul down the jib, and stow it! Lend Bob a hand, Tom. Now come aft
+here!
+
+"Stand by the anchor, Bob!"
+
+"Ay, ay, sir!"
+
+"Now you see, Tom, how I round her up under the stern of this fisherman,
+and bring her head to wind.
+
+"Let go the anchor!"
+
+"All gone."
+
+"Don't check her too quick, Bob! Pay out! pay out! Now snub her, but not
+too sharp. Does she hold?"
+
+"Yes, sir. She has brought up."
+
+"Then let go the second anchor, and pay out on both. Give your cables
+plenty of scope. That will do. Make every thing fast.
+
+"I can see by the land that she does not drag. But jump below, Bob, and
+hand me up the hand lead, that I may throw it over the side, and see
+that she is holding all right.
+
+"There, Tom! don't she ride easily?
+
+"Now down mainsail, and stow it, before it is slatted to pieces by the
+wind, and lash the helm amidships. We shall ride here like a Mother
+Carey's chicken.
+
+"Now let's sound the pumps, and then we will go below, and take things
+easy till this wind moderates; have a good, nice dinner; and then we
+will proceed upon our cruise. Well, Tom, do you think you have smelt
+salt water, boy?"
+
+"Yes, uncle; but I like it, though, and the way you manage, in spite of
+the elements. We have not started a rope-yarn, and are lying here as
+snug as a bug in a rug."
+
+And thus we will leave them, wishing them good weather, and a pleasant
+ending to their cruise.
+
+
+
+
+CHAPTER IX.
+
+VOCABULARY OF SEA-TERMS COMMONLY IN USE.
+
+
+ABACK.--A sail is said to be taken aback, when its forward surface is
+acted upon by the wind.
+
+ABAFT.--The position, towards the stern, or hinder part of the yacht,
+from any stated point; as, "abaft the forecastle," "abaft the mainmast,"
+"abaft the cabin."
+
+ABEAM.--Any object is said to be abeam that bears at right angles to the
+line of the keel; and an imaginary line drawn at right angles across the
+keel, equidistant from the bow and stern, divides the yacht into two
+parts. Any thing bearing forward of this line is said to be "forward of
+the beam," and any thing bearing behind this line is said to be "abaft
+the beam."
+
+ABOARD.--In the yacht; as, "Get the anchor aboard!" "Come aboard!"
+
+ABOUT.--A yacht is said to "go about" when tacking, the order to prepare
+for which is, "Ready about!"
+
+ABREAST.--Opposite to, as relates to the sides of a yacht; as, abreast
+of a lighthouse, when the side of the yacht is at right angles to it, or
+nearly so.
+
+ADRIFT.--Broken loose from moorings; or any thing rolling about the
+decks loose in a sea-way is said to have broken adrift.
+
+AFLOAT.--Clear of the bottom, sustained by the water.
+
+AFORE.--That part of the yacht nearest to the stem, or head.
+
+AFT.--Behind; as, "Stand further aft," "Haul aft the main sheet!" i.e.
+bring the boom nearer the line of the keel.
+
+AFTER.--Hinder, as after sails, such as the mainsail, in contra
+distinction to forward-sails, such as the jib.
+
+AGROUND.--Not having water enough for the yacht, which rests on the
+ground.
+
+AHEAD.--Before the yacht; any thing in advance of where the yacht is
+being directed.
+
+A-LEE.--The helm is a-lee when the tiller is put to the lee-side; "hard
+a lee," when it is put over as far as it will go.
+
+ALL IN THE WIND.--When the sails receive a portion of the wind on both
+surfaces, and shake or wave like a flag.
+
+ALL HANDS, AHOY.--A summons used to call all the crew on deck in an
+emergency.
+
+ALOFT.--Up above, at the masthead.
+
+ALONGSIDE.--Close to the side of the yacht.
+
+AMIDSHIPS.--Any thing in a line with the keel; viz., "Put the helm
+amidships!"
+
+TO ANCHOR.--To let the anchor fall overboard that it may hold the yacht;
+the order for which is "Let go the anchor!"
+
+ANCHORAGE.--Ground fit to anchor on.
+
+TO WEIGH THE ANCHOR.--To heave it up from the bottom to the bow of the
+yacht.
+
+ASHORE.--On land, aground.
+
+ASTERN.--Behind the yacht.
+
+ATHWART.--Across.
+
+ATHWART-SHIPS.--Any thing lying at right angles to the line of the keel,
+or nearly so.
+
+AVAST.--To cease pulling, to stop.
+
+A-WEATHER.--The helm is said to be a-weather when the tiller is put over
+to the windward side of the yacht; and "hard a-weather," when it is put
+over as far as it will go.
+
+AWNING.--A canvas covering stretched overhead, to give protection from
+the heat of the sun.
+
+BACK-STAYS.--Ropes fixed at the topmasthead, and fastened to the sides
+of the yacht to sustain the topmast.
+
+BALLAST.--A quantity of heavy material placed in the hold of the yacht
+to give her proper stability.
+
+BANDS.--Pieces of canvas sewn across a sail to strengthen it to sustain
+the reef-points, and called reef-bands.
+
+BAR.--A shoal, usually found at the mouths of rivers and harbors that
+are subject to much current.
+
+BARE POLES.--Having no sail up, on account of the severity of the wind:
+hence "scudding under bare poles," that is, running before the wind with
+no sail set.
+
+BEAMS.--Pieces of timber across the yacht under the decks, bound to the
+sides by knees. A yacht is said to be on her "beam-ends" when she is
+hove down by any force, so that the ends of the beams point towards the
+ground.
+
+FORWARD OF THE BEAM.--When the object or wind is at some position
+between abeam and ahead.
+
+BEFORE THE BEAM.--When the wind or object bears on some point forward of
+the beam, but within the right angle formed by the keel and a line
+across the middle of the yacht.
+
+ABAFT THE BEAM.--The opposite to Before the Beam.
+
+BEARINGS.--The direction of any object by observation of the compass;
+also to any object, as the lighthouse bears abaft the beam.
+
+BEATING TO WINDWARD.--Advancing in the direction from which the wind
+proceeds by a series of manoeuvres called "tacking."
+
+BECALMED.--Having no wind to fill the sails. One sail is also said to
+becalm another when the wind is aft.
+
+BELAY.--To make fast a rope around a cleat or pin.
+
+TO BEND.--To fasten; as to bend the sails, bend on the cable to the
+anchor, bend on the colors, &c.
+
+BIGHT.--Any _slack_ part of a rope between the ends.
+
+BILGE.--The flat part of a yacht's bottom, where the water that she
+ships, or which leaks in, remains, and is called "bilge-water."
+
+BINNACLE.--A box, fitted with lights, which contains the
+steering-compass.
+
+BERTH.--An anchorage; a bunk or wooden shelf used for sleeping in.
+
+BITTS.--Large, upright pieces of timber, with a cross-piece, to which
+hawsers or large ropes are belayed; also called "knight-heads."
+
+BLOCKS.--Instruments, with sheaves or pulleys, used to increase the
+power of ropes.
+
+BLOCK AND BLOCK (also called commonly "chock-a-block").--When the two
+blocks of a tackle have been brought as near together as possible.
+
+TO MAKE A BOARD.--To tack.
+
+TO MAKE A STERN-BOARD.--To move through the water stern foremost.
+
+BOB-STAYS.--Ropes from the cut-water, or stem, to the bowsprit end, to
+sustain and strengthen it.
+
+BOLT-ROPES.--Ropes sewn round the edges of the sails, to keep them from
+splitting.
+
+BOOMS.--Round pieces of timber on which the foot of sails are lashed.
+
+BOWS.--The round part of the yacht forward, ending in the cut-water, or
+stem.
+
+TO BOUSE.--To haul upon.
+
+BOWSPRIT.--A spar nearly parallel with the deck, extending out over the
+stem.
+
+TO BRING UP.--To take the bottom suddenly, as brought up by a shoal; to
+come to an anchor.
+
+TO BRING TO.--To make the yacht nearly stationary by stopping her
+headway by means of the sails set in different positions, so as to
+counterpoise each other in connection with the helm.
+
+BUTT END.--The end of a plank in a yacht's side; to start a butt, i.e.,
+to leak.
+
+BY THE BOARD.--A mast is said to go by the board when carried away just
+above the deck.
+
+BY THE HEAD.--When a yacht is deeper in the water forward than aft.
+
+BY THE STERN.--The reverse of "by the head."
+
+BY THE WIND.--When a yacht is as near the wind as she can be sailed
+without the sails shaking; also called "full and by."
+
+CABLE.--The rope by which the yacht is secured to the anchor.
+
+TO PAY OUT THE CABLE.--To allow more of it to pass outboard, so that the
+yacht lies farther from the anchor.
+
+CABOOSE.--Place where the food is cooked; also called the "cook's
+galley."
+
+CALL.--A silver whistle used by the boatswain to have certain orders
+obeyed.
+
+CAPSIZE.--To turn over.
+
+TO CARRY AWAY.--A spar is said to be carried away when it is broken by
+the wind.
+
+TO CAST OFF.--To untie, to allow to go free; viz., "Cast off the
+main-sheet!" "Cast off that boat's painter!"
+
+CASTING.--To pay a yacht off on the desired tack when weighing the
+anchor, by arranging the sails so as to be taken aback.
+
+CAT BOAT-RIG.--A yacht rigged with one mast placed chock forward in the
+eyes, and without stays or bowsprit, and fitted with one fore-and-aft
+sail.
+
+CAT'S-PAW.--A light breeze or puff of air seen upon the water.
+
+TO CALK.--To drive oakum or cotton into the seams to prevent leaking,
+and to "pay" the same with pitch or tar.
+
+CENTRE-BOARD.--A movable keel that can be lowered or hoisted at
+pleasure.
+
+TO CLAW OFF.--To beat to windward from off a lee-shore.
+
+CLEAT.--A piece of wood with two horns, fastened to the side of the
+yacht or to the mast, upon which ropes are made fast.
+
+CLEWS.--The corners of sails.
+
+CLOSE-HAULED.--To sail as near the wind as possible.
+
+COILING.--To gather up a rope into a circular form ready for running out
+again at a moment's notice; such as, "Coil up the peak-halliards, and
+have them ready for running!"
+
+COURSE.--The point of the compass on which the yacht sails.
+
+CROSS-BEARINGS.--The finding of the exact position of the yacht upon the
+chart by taking the bearings by compass of two objects on shore.
+
+CROTCH.--Two crossed pieces of wood in which the main boom is lashed,
+when the yacht is at anchor or the sail furled, to confine it in place.
+
+TO CUN.--To direct the helmsman how to steer.
+
+CUT-WATER.--The timber forming the entrance of the yacht.
+
+BOAT-DAVITS.--Pieces of strong, bent iron standing out over the side to
+hoist boats up to, and secure them.
+
+DOWN-HAUL.--A rope used to pull down the jib, &c.
+
+DRAUGHT.--Depth of water. Thus it is said of a yacht that her draught is
+three feet; i.e., she draws three feet of water.
+
+DRIFT.--To drive to leeward; to lose steerage way for want of wind.
+
+EARINGS.--Small ropes used for lashings.
+
+EASE OFF.--To slacken.
+
+EASE OFF HANDSOMELY.--To slacken very carefully.
+
+END FOR END.--To change a rope that has been worn, and use one part
+where the other was formerly used.
+
+END ON.--To advance bow or stern on, or to have another vessel approach
+in a similar manner.
+
+ENSIGN.--The national flag, carried always at the gaff-end.
+
+FAG-END.--The end of a rope which is frayed.
+
+FALLING OFF.--When a yacht moves from the wind farther than she ought.
+
+FATHOM.--A measurement six feet in length.
+
+FID.--A tapered piece of wood used to splice ropes with, and, when made
+of iron, called a "marline-spike."
+
+TO FILL.--To have the wind strike the inner or after surfaces of the
+sails.
+
+FLAKE.--One circle of a coil of rope.
+
+FLUKES.--The broad spade-like parts of an anchor.
+
+FORE.--That part of the yacht nearest to the head.
+
+FORE AND AFT.--In the direction of the keel; also vessels without square
+yards. Hence a schooner is often called a "fore-and-after;" and a ship,
+a "square-rigger."
+
+FOUL HAWSE.--When the cables are twisted.
+
+TO FOUL.--To entangle a rope; as, "The jib-halliards are foul." To run
+foul of a yacht is to come in collision with another.
+
+TO FOUNDER.--To sink.
+
+FURLING.--Making the sails fast to the booms and spars, and stowing
+them, by means of gaskets.
+
+GAFF.--The spar that supports the head of a fore-and-aft sail.
+
+GANGWAY.--The place where persons come on board.
+
+GASKET.--A piece of rope or narrow canvas used to tie up sails with, or
+lash any thing.
+
+TO GO ABOUT.--To tack.
+
+GORING.--Cutting a sail obliquely.
+
+GRANNY-KNOT.--A foul knot,--one not tied in a proper manner.
+
+GRIPING.--When a yacht carries too great a weather-helm.
+
+HALLIARDS.--Ropes or pulleys to hoist up sails.
+
+HANDS.--The crew; i.e., "Send a hand aft here!" "All hands," all the
+crew. To "hand a sail," to furl it. "Bear a hand," hurry up to help.
+Hand lead, instrument used for sounding.
+
+HANDSOMELY.--Carefully.
+
+HANKS.--Oval rings, fitted to work upon stays, to which the sail is
+lashed to be hoisted or lowered.
+
+HATCHWAY.--A square hole in the deck that communicates with the hold.
+
+TO HAUL.--To pull.
+
+TO HAIL.--To call out to another ship; such as "What ship is that?"
+
+TO HEEL.--To incline to one side; i.e., she heels over too much on
+account of a want of ballast.
+
+HELM.--A tiller or wheel which controls the rudder.
+
+TO HAUL HOME.--To pull the clew of any sail as far as it will go.
+
+TOO HIGH.--The warning given to the helmsman when the yacht is too near
+the wind.
+
+TO HITCH.--To make fast.
+
+THE HOLD.--The space under deck.
+
+HULL.--The body of a yacht.
+
+"IN IRONS."--A yacht is said to be "in irons" when she has lost steerage
+way from any cause, and will not obey the helm.
+
+JACK-STAY.--A small bar of iron, or slat of wood, fastened to a spar,
+and to which the sail is bent.
+
+TO JAM.--A knot is said to be jammed when it cannot be untied.
+
+JUNK.--Old pieces of rope, canvas, &c.
+
+JURY-MASTS.--Temporary masts used when others are carried away.
+
+JIBING.--The act of passing the main-boom from one side of the yacht to
+the other, whilst running before the wind.
+
+KEEL.--That part of the yacht lowest in the water, and upon which all
+her superstructure is erected.
+
+KINK.--A twist or turn in the rope.
+
+TO LABOR.--A yacht is said to labor when she pitches and rolls heavily
+in a sea-way.
+
+LAND-FALL.--Discovering the land.
+
+LARBOARD.--The left side of the yacht, facing forward, now almost
+obsolete, _port_ having almost wholly taken its place; larboard having
+been found in practice to be too near in sound to its opposite
+starboard.
+
+LAY AFT.--The command to come aft. "Lay aloft," to go up the rigging.
+"Lay out," to go out, on the bowsprit, for instance. "Lay in," to come
+in.
+
+LEACH.--The perpendicular border of a fore-and-aft sail.
+
+LEE-LURCH.--When the yacht rolls heavily and suddenly to leeward.
+
+LEE-SHORE.--The coast-line to leeward of the yacht, on which the wind is
+blowing.
+
+LEEWARD.--The direction towards which the wind is blowing.
+
+LONG LEG.--A term used when the wind is not dead ahead, but so as to
+cause the yacht to make a long tack and a short one. Hence, to make "a
+long leg," and a short leg.
+
+LOG.--The record of the yacht's performance each day of twenty-four
+hours, as concerns weather, courses, &c., kept in a log-book. "Heaving
+the log," to ascertain the speed by means of a log-line.
+
+LOOMING.--The appearance of a distant object, such as another vessel, or
+the land, especially in foggy or misty weather, when it is said to loom,
+i.e., look larger, and appear nearer, than it really is.
+
+LUBBER.--A person who is not a sailor,--a greenhorn.
+
+LUFF.--An order to have the helmsman put the helm to leeward; the
+forward part of a fore-and-aft sail attached to the mast by hoops.
+
+LYING TO.--Bringing the yacht to the wind under small sail, and lashing
+the helm a-lee, so that she may lie safely, and ride out the storm.
+
+TO MOOR.--To secure the yacht by more than one anchor.
+
+MOORINGS.--The place where the yacht is generally kept when in harbor,
+and denoted by a buoy, which watches over them.
+
+NEAP-TIDES.--Those tides which occur when the moon is in her quarters;
+spring-tides being much higher, and occurring at the full and change.
+
+TOO NEAR.--A warning to the helmsman that the sails are not quite full,
+and that he is steering a little too near the wind.
+
+MAIN CHAINS.--Place on the yacht's side where the shrouds and backstays
+are fastened.
+
+MISS-STAYS.--The act of failing to "go about" on the other tack.
+
+MODEL.--The shape and form of the hull.
+
+OFF AND ON.--Approaching the land on one tack, and leaving it on the
+other.
+
+OFFING.--Out to sea, clear of all dangers, yet near the land; sea-room.
+
+OVERBOARD.--Out of the yacht; in the water.
+
+OVERHAULING.--To haul a rope through a block; to examine any thing
+thoroughly; to gain upon a vessel or object ahead.
+
+PAINTER.--A short rope in the bows of a boat by which she is secured.
+
+TO PART.--To tear asunder; i.e., the cable has parted; the main-sheet
+has parted.
+
+TO PASS A LASHING.--To wind a rope round a spar or sail.
+
+PAY.--To rub on pitch or tar with a large brush.
+
+TO PAY OFF.--To make a yacht's head recede from the wind by hauling the
+jib to windward, and easing off the main-boom to leeward.
+
+TO PEAK UP.--To elevate the outer or after end of a gaff, so that the
+sail may set better.
+
+PLYING.--Turning to windward.
+
+POOPING.--A yacht is said to be pooped when she is struck by a sea that
+comes on board over the stern or quarter.
+
+PORT.--_See_ larboard.
+
+PREVENTER.--Any thing to secure or take off the strain, as preventer
+jib-sheet.
+
+PENNANT.--A long narrow flag.
+
+QUARTER.--That part of the yacht's side contained between the beam and
+stern.
+
+RAKE.--The sheer of masts from the perpendicular.
+
+RANGE OF CABLE.--A sufficient length overhauled and ready so as to allow
+the anchor to reach the bottom without fouling.
+
+TO REEF.--To reduce a sail by fastening it down to a boom or jack-stay
+by means of reef-points.
+
+TO REEVE.--To pass a rope through a block.
+
+TO RIDE.--To be held at anchor.
+
+TO RIGHT.--A yacht is said to right when she rises to an upright
+position again, after having been thrown on her beam-ends by a sudden
+squall.
+
+TO RIGHT THE HELM.--To put it amidships, so that the rudder will be in a
+line with the keel.
+
+TO RUN DOWN.--When one yacht sinks another by running over her.
+
+SCANT.--The wind is said to be scant when a yacht will barely lay her
+course.
+
+SCOPE.--To pay out more of the cable when at anchor.
+
+TO SCUD.--To run before the wind in a storm.
+
+TO SCUTTLE.--To make holes in a yacht's bottom to sink her.
+
+TO SERVE.--To wind any thing round a rope so as to save it from chafing.
+
+TO SEIZE.--To make fast or bind.
+
+TO SHEER.--To vary to the right and left from a direct course.
+
+TO SHIP.--To place or receive any thing on board; as, to ship a sea, to
+ship a crew.
+
+TO SHIVER.--To make the sails shake in the wind's eye.
+
+SHOAL.--The land beneath the water that approaches near the surface, or
+is left bare at low water.
+
+THE SLACK OF A ROPE.--The part that hangs loose.
+
+TO SLIP A CABLE.--To let it run out overboard, and release the yacht
+from the anchor, being first generally buoyed so as to be recovered.
+
+TO SLUE.--To turn any thing about.
+
+SNUB.--Used in reference to the cables, in checking the yacht, after
+they have been paid out.
+
+TO SOUND.--To ascertain the depth of water by means of a lead-line.
+
+TO TAKE A SPELL.--To relieve any one at any duty; as, to take a spell at
+the wheel.
+
+TO SPILL.--To take the wind out of a sail by easing off the sheets or
+otherwise, so as to remove the pressure of the wind.
+
+TO SPLICE.--To join two ropes together by interweaving the strands.
+
+TO SPRING A MAST.--To crack or split it.
+
+A SPRING.--A rope made fast to the cable, and taken on board aft, in
+order to haul the yacht's side in any direction.
+
+SPRING-TIDES.--The highest tides, which occur at the full and change of
+the moon.
+
+TO STAND ON.--To keep on in one's course.
+
+TO STAND BY.--To be ready.
+
+STARBOARD.--The right side of a yacht, the observer looking from aft
+forward.
+
+TO STEER.--To control the yacht with the rudder and tiller.
+
+STRANDED.--A yacht is said to be stranded when she is so far on shore
+that she cannot be floated.
+
+TO STRIKE.--To beat against the bottom; to hit suddenly any object below
+the surface of the water.
+
+SWIG OFF.--To take a turn with a rope at a cleat, and then pull upon it
+laterally, so as to gather in all the slack.
+
+TO TACK.--To advance by a series of angles toward the direction from
+which the wind proceeds.
+
+TAUT.--Tight.
+
+TAUNT.--Long, lofty.
+
+TENDER.--A small boat or wherry used to pass from the yacht to the
+shore.
+
+TO TOW.--To drag any thing astern behind the yacht; as, to tow the
+tender.
+
+TRUCK.--The small ball at the topmasthead, through which the
+signal-halliards reeve.
+
+TROUGH OF THE SEA.--The level of the water between two waves.
+
+TURNING TO WINDWARD.--Tacking.
+
+UNBEND.--To cast off, to release; as, "Unbend the anchor from the
+cable!" "Unbend the mainsail!"--roll it up and put it below.
+
+TO UNSHIP.--To take any thing from the place where it was fixed; as, to
+"unship the rudder."
+
+WAKE.--The track, or furrow, left by the yacht on the water she has
+passed over.
+
+TO WEAR.--To turn a yacht round _from_ the wind,--the direct opposite of
+tacking.
+
+TO WARP.--To move a yacht by hawsers.
+
+WATCH.--A division of the crew into starboard and larboard watch, who
+take turns in taking care of the yacht.
+
+WATER-LOGGED.--The condition of a yacht when she is so full of water as
+to be almost unmanageable, and nearly submerged.
+
+WAY.--Progress through the water: "she has good way on." To a boat's
+crew, to cease pulling, the command is given, "Way enough."
+
+TO WEATHER A YACHT.--To get to the windward side by faster speed, or
+lying nearer the wind.
+
+WEATHER BEATEN.--Worn by the weather and exposure.
+
+WELL OF ALL.--A command used when the several ropes of a sail have all
+been hauled upon at the same time, and it is perfectly set, and means to
+belay.
+
+TO WEIGH.--To lift an anchor from the bottom.
+
+WIND'S EYE.--The exact direction from which the wind proceeds.
+
+TO WINDWARD.--Towards that point from which the wind blows.
+
+TO WORK TO WINDWARD.--To tack so as to make progress in the direction
+from which the wind blows.
+
+YACHT.--A vessel used for pleasure only, and not for commerce or trade;
+built for speed and comfort.
+
+TO YAW.--To swerve suddenly and violently from the true course, in spite
+of the action of the rudder.
+
+
+
+
+_Franklin Press: Rand, Avery, & Co., Boston._
+
+
+
+
+
+End of Project Gutenberg's Practical Boat-Sailing, by Douglas Frazar
+
+*** END OF THIS PROJECT GUTENBERG EBOOK PRACTICAL BOAT-SAILING ***
+
+***** This file should be named 39805-8.txt or 39805-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/9/8/0/39805/
+
+Produced by Chris Curnow, Eric Skeet and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

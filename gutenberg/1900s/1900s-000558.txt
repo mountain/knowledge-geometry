@@ -1,0 +1,2885 @@
+﻿The Project Gutenberg Etext of North American Species of Cactus
+by John M. Coulter
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+The North American Species of Cactus, Anhalonium, and Lophophora
+
+by John M. Coulter
+
+June, 1998  [Etext #1221]
+
+
+The Project Gutenberg Etext of North American Species of Cactus
+*****This file should be named 1221.txt or 1221.zip******
+
+
+This etext was prepared by Dave Emme:  demme@ix.netcom.com
+
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we do NOT keep these books
+in compliance with any particular paper edition, usually otherwise.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, for time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+fifty hours is one conservative estimate for how long it we take
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-two text
+files per month, or 384 more Etexts in 1998 for a total of 1500+
+If these reach just 10% of the computerized population, then the
+total should reach over 150 billion Etexts given away.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only 10% of the present number of computer users.  2001
+should have at least twice as many computer users as that, so it
+will require us reaching less than 5% of the users in 2001.
+
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+
+We would prefer to send you this information by email
+(Internet, Bitnet, Compuserve, ATTMAIL or MCImail).
+
+******
+If you have an FTP program (or emulator), please
+FTP directly to the Project Gutenberg archives:
+[Mac users, do NOT point and click. . .type]
+
+ftp uiarchive.cso.uiuc.edu
+login:  anonymous
+password:  your@login
+cd etext/etext90 through /etext96
+or cd etext/articles [get suggest gut for more information]
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET INDEX?00.GUT
+for a list of books
+and
+GET NEW GUT for general information
+and
+MGET GUT* for newsletters.
+
+**Information prepared by the Project Gutenberg legal advisor**
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+This etext was prepared by Dave Emme:  demme@ix.netcom.com
+
+
+
+
+
+A Preliminary Revision of the North American Species of Cactus,
+Anhalonium, and Lophophora by John M. Coulter.
+
+
+
+
+U. S. Department of Agriculture
+Division of Botany
+CONTRIBUTIONS FROM THE U. S. NATIONAL HERBARIUM
+Vol. III--No. 2
+Issued June 10, 1894
+Preliminary Revision of the North American Species of Cactus,
+Anhalonium, and Lophophora.
+by
+John M. Coulter.
+Published by Authority of the Secretary of Agriculture
+Washington
+Government Printing Office
+1894
+LETTER OF TRANSMITTAL
+U. S. Department of Agriculture
+Division of Botany
+Washington, D. C., March 21, 1894
+SIR:  I have the honor to transmit herewith, for publication as
+Vol. III, No. 2, of Contributions from the U. S. National
+Herbarium, a Preliminary Revision of the North American species
+of Cactus, Anhalonium, and Lophophora, by President John M.
+Coulter.
+Respectfully,
+Frederick V. Coville,
+Chief of the Division of Botany.
+Hon. J. Sterling Morton,
+Secretary of Agriculture.
+
+
+
+
+PRELIMINARY REVISION OF THE NORTH AMERICAN SPECIES
+OF CACTUS, ANHALONIUM, AND LOPHOPHORA.
+Prefatory Note.
+In the fall of 1890 Dr. George Vasey, then Botanist of the
+Department of Agriculture, arranged with me to prepare a revision
+of North American Cactaceae.  Owing to the peculiar difficulty of
+preserving material the family was poorly represented, even in
+our leading herbaria.  To secure a large amount of additional
+material in the way of specimens and field notes the Department
+authorized me to visit the region of the Mexican boundary during
+the summer of 1891.  Preliminary to this exploration it was
+necessary to examine the Engelmann collection of Cactaceae, in
+the possession of the Missouri Botanical Garden.  This
+collection, supplemented by the continual additions made at the
+garden, is by far the largest collection of skeletons and living
+specimens in this country, and also contains the large majority
+of our types.
+
+In March, 1891, I visited this collection and made such notes as
+seemed necessary for use in the field, and in June, accompanied
+by Mr. W. H. Evans and Mr. G. C. Nealley, I began field work in
+the neighborhood of El Paso, Tex.  After ten days of exploration
+it was necessary for me to leave the field work in charge of Mr.
+Evans, who, with Mr. Nealley, continued work westward, during
+July and a part of August, to southern California, along the
+Southern Pacific Railway.  As a result a large number of complete
+plant bodies was secured, but very few of them were in flower and
+the field notes indicated little besides collection stations.
+During the following fall and winter preliminary determinations
+of this material were made by Mr. Evans.
+In the fall of 1892 critical study of this and other collections
+was begun in connection with my assistants, Dr. Elmon M. Fisher
+and Mr. Edwin B. Uline, who have ever since rendered constant and
+most import assistance in the examination of material and
+bibliography, which alone has made the work possible in the midst
+of other pressing duties.
+
+In the spring of 1893 these two gentlemen spent several weeks at
+the Missouri Botanical Garden in the critical study of its rich
+material, and during the latter part of their stay I assisted in
+the work.  Dr. William Trelease, the director of the garden, had
+hastened the arrangement of the Engelmann material, and had
+mounted in convenient form the large mass of notes left by Dr.
+Engelmann.  These notes contained not only critical remarks upon
+known species, but also the diagnoses of many unpublished species
+which had come into his hands, notably those collected by Mr.
+William Gabb in 1867 in Lower California.  The collections that
+have thus far been studied are:
+
+(1) Those of the Missouri Botanical Garden; and thanks are
+especially due to Dr. Trelease for his generous cooperation in
+the use of this material, without which the work would have been
+impossible.
+
+(2) Those of the Department of Agriculture, including the results
+of several recent explorations, for the use of which I am
+indebted to Mr. Frederick V. Coville.
+
+(3) Those of the Gray Herbarium at Harvard University, which Dr.
+B. L. Robinson kindly placed at my disposal.
+
+(4) Those of the California Academy of Sciences, notably rich in
+forms from Lower California and the adjacent islands, kindly
+loaned by Mr. T. S. Brandegee.
+
+(5) Those of Dr. Louis Eschanzier, of San Luis Potosi, Mexico,
+who send a large series of Mexican forms collected in 1891.
+
+(6) Numerous small sets from different correspondents, who have
+given both time and material in aiding the work.
+
+It is needless to say that Dr. George Engelmann, the great
+pioneer student of this difficult family, has opened the paths in
+which we must follow, and it was exceedingly unfortunate that he
+was not able to complete the final revision that he had in mind.
+
+The difficulties which beset the critical study of this group can
+not be easily exaggerated.  Such scanty material as has been
+collected has been for the most part very incomplete, consisting
+of plant bodies without flower or fruit, flower or fruit without
+plant bodies, and bunches of spines without either.  The species
+are displayed also in the most inaccessible regions, and their
+culmination is found in the still poorly known regions of Mexico.
+
+On account of their singular forms and often brilliant flowers
+they have long been extensively cultivated, especially in Europe.
+These cultivated forms have formed the basis of original
+descriptions in almost all of the European publications, and in
+very rare cases have any types been preserved.  As a result, the
+bibliography of Cactaceae is appalling, and it is questionable
+whether satisfactory conclusions can be reached in the case of
+hundreds of published names.  The earlier descriptions were not
+only meager, but were based upon what are now regarded very
+insufficient characters, and in the absence of types it is not
+only unsafe, but impossible to venture an opinion concerning
+their identity.  In view of these facts, I have thought it
+advisable to present a preliminary revision of the order, which
+shall contain the results of the study of material confessedly
+insufficient.  With such knowledge as we possess brought
+together, it is hoped that the study of this very interesting and
+much neglected group will be stimulated, and that more critical
+exploration of our southwestern territory and adjacent Mexico
+will make a more satisfactory presentation possible.  It would be
+useless to notice the vast number of reputed species that are not
+represented by actual specimens in our possession.
+
+In the proposed preliminary account of the family, of which the
+present paper is the first part, only those genera are considered
+which form a part of the flora of the United States, and those
+species which I have been able to examine and to identify with
+reasonable certainty.  All forms credited to the United States
+have been studied, and the account of these species may be
+considered fairly complete, but the far more numerous Mexican
+species are but scantily represented.  The Mexican boundary is so
+unnatural a dividing line in the distribution of Cactaceae that
+it has been disregarded, and all the species studied have been
+arranged in a lineal series of uniform prominence.  So far as
+known the subject of geographical distribution is considered, but
+it will be seen how meager is our knowledge of this subject.  It
+is to be hoped that this preliminary presentation will provoke
+exploration and study, and that species will not only be
+collected, but all the facts of their distribution noted.  It is
+more than probable that our present notion of species in this
+group must be much modified, and doubtless many forms are at
+present kept specifically distinct which will prove to be but
+different phases of a single species.
+
+In the matter of generic delimitation we are in still greater
+uncertainty, and several generic lines at present recognized must
+be regarded as purely arbitrary, a fact which must become still
+more evident with additional material.  The whole group is to be
+regarded as made up of poorly differentiated forms and only long
+observation under cultivation can determine the possibilities of
+specific variation under the influence of environment, of age, of
+inherent tendencies.  For instance, that these plants change in
+form and in spine characters with increasing age and after they
+have begun to flower can not be doubted, but what described forms
+have thus been separated in descriptions can only be guessed at.
+
+John M. Coulter.
+Lake Forest University,
+Lake Forest, Ill., January, 1891.
+
+
+
+
+CACTUS, ANHALONIUM, AND LOPHOPHORA.
+
+1. CACTUS Linn. Sp. Pl. 466 (1753), restricted.
+
+MAMILLARIA Haw. Synop. 177 (1812), not Stackh. (1809).
+
+Usually globose to oblong plants (simple, branching or
+cespitose), but sometimes slender-cylindrical, covered with
+spine-bearing tubercles: flower-bearing areola axillary (with
+reference to tubercles), entirely separate from the terminal
+spine-bearing areola, although sometimes (Coryphantha) connected
+with it by a woolly groove along the upper face of the tubercle:
+ovary naked: seeds smooth or pitted: embryo usually straight,
+with short cotyledons. Originally defined by Linnaeus in his
+Systema, ed. l (1735).
+
+The Linnaean genus Cactus of 1753 included 22 species and was
+coextensive with the present order.  In 1812 the species were
+separated by Haworth into five genera, the original generic name
+Cactus being discarded.  Among these species C. mamillaris seems
+to have stood as the type, not only of the Linnaean genus Cactus,
+but also of Haworth's Mamillaria, and as such should retain the
+original generic name.  Besides, Mamillaria was used as the
+generic name of an alga in 1809.  Cactus mamillaris L. is the
+West Indian Mamillaria simplex Haw.
+
+From one point of view the two sections of the genus
+(Eumamillaria and Coryphantha) deserve generic separation, for
+the character of grooveless and grooved tubercles seems to hold
+without exception, and the sections are separated with more
+certainty than are certain species of Coryphantha and
+Echinocactus.  If genera are simply groups of convenience the
+separation should be made.
+
+I. EUMAMILLARIA.  Flowers from the axils of the older or
+full-grown tubercles (hence usually appearing lateral), mostly
+small, and generally from whitish to pink or red: tubercles never
+grooved: fruit almost always clavate and scarlet.
+
+A. Tubercles more or less quadrangular.
+
+*  Central spines not hooked.
++  More than one central spine.
+
+
+1. Cactus alternatus, sp. nov.
+
+Subglobose, 10 cm. in diameter, simple: tubercles long (15 to 20
+mm.) and spreading, with woolly axils: radial spines 3, rigid and
+recurved, 5 mm. long; central spines 3, very stout and much
+recurved, 20 to 30 mm. long, alternating with the radials; all
+ashy colored and often twisted: flower and fruit unknown.--Type
+in Herb. Coulter.
+
+The few spines, with the very short radials alternating with the
+very long and stout centrals, furnish a striking character.
+Occasionally one of the centrals is wanting.
+
+2.Cactus acanthophlegmus (Lehm.) Kuntze, Rev. Gen. Pl. 260
+(1891).
+
+  Mamillaria acanthophlegma Lehm. Delect. Sem. Hamb. (1833)
+
+Subglobose with a deeply depressed vertex, or becoming
+cylindrical, 3 to 8.5 cm. in diameter: tubercles sharply
+quadrangular-conical, with densely woolly axils: radial spines 15
+to 30, white, very slender (bristly) and radiant, sometimes
+coarse capillary, 4 to 7 mm. long, interwoven with those of
+neighboring tubercles and so covering the whole plant; central
+spines 2 to 4, robust and straight, erect or divergent, whitish
+or reddish, black-tipped, 5 to 6.5 mm. long: flowers reddish, 1
+to 2 cm. broad: fruit unknown.  Type unknown.
+
+From Coahuila and San Luis Potosi to Oaxaca.  Fl. May.
+
+Specimens examined: Coahuila (Poselger of 1856; Pringle 3116 of
+1890): San Luis Potosi (Eschanzier of 1891).
+
+The central spines are quite variable in number and arrangement.
+In case there are two they are vertically placed and are either
+erect and parallel or widely divergent.  Even three centrals may
+occur in the same vertical plane; but more usually the three or
+four centrals are arranged about a center and are widely
+divergent.  The tubercles are apt to persist and to become naked
+and corky with age.  The axillary wool and the capillary radials
+are also apt to be more or less persistent, thus giving the whole
+plant a woolly appearance.
+
+3.Cactus brandegei, sp. nov.
+
+Cylindrical: tubercles sharply quadrangular-conical, 6 to 8 mm.
+long, with densely woolly axils: radial spines about 10, slender
+and rigid, whitish with dusky tips, spreading but not radiant, 7
+to 10 mm. long; central spines 3 or 4, stouter and slightly
+longer, erect-spreading (sometimes slightly curved),
+reddish-brown below, becoming blackish above: flowers small
+(scarcely longer than the tubercle?): fruit unknown.  Type in
+Herb. Calif. Acad.
+
+San Jorge, Lower California.  Fl. April.
+
+Specimens examined: Lower California (Brandegee of 1889, at San
+Jorge).
+
+The species has somewhat the spine characters of C. palmeri, but
+the sharply quadrangular and longer tubercles with axillary wool
+free from bristles suggest a very different affinity.
+
+4.Cactus densispinus, sp. nov.
+
+Globose, 7.5 cm. in diameter, simple: tubercles short, with
+woolly axils: radial spines about 25, erect-spreading, slender
+but rigid, yellow (brownish to black with age), unequal, 8 to 10
+mm. long; central spines 6, a little longer (10 to 12 mm.) and
+straight, more rigid and darker, black-tipped: seeds obovate,
+reddish-brown, 1 mm. long.  Type in Herb. Coulter.
+
+Very easily distinguished by its dense, erect spines, which so
+completely cover the plant as to give it the appearance of a
+large chestnut bur.  Another much smaller form, which seems to be
+a variety, has stouter and longer ashy-white spines, the centrals
+darker-tipped, and the lower centrals slightly curved.
+
+++ One short central spine (rarely two or none): ovaries
+immersed: seeds small, yellow and rugulose: simple.
+
+5.Cactus heyderi (Muhlenpf.) Kuntze, Rev. Gen. Pl. 260 (1891).
+
+  Mamillaria heyderi  Muhlenpf. Allg. Gart. Zeit. xvi. 20(1848).
+  Mamillaria declivis  Dietr. Allg. Gart. Zeit. xviii. 235
+(1850).
+  Mamillaria applanata  Engelm. Pl. Lindh 198 (1850).
+  Mamillaria texensis  Labouret, Monogr. Cact. 89 (1858).
+
+Depressed, globose, usually with depressed vertex, 8 to 12 cm.
+broad, 2.5 to 5 cm. high: tubercles elongated: radial spines 10
+to 22, whitish, 5 to 12 mm. long, the lower usually the longer,
+stouter, and often darker; central spine 4 to 8 mm. long, light
+yellowish-brown, stout, straight, and porrect: flowers 2 to 2.5
+cm. long, reddish-white: fruit incurved, 1.5 to 3 cm. long. (Ill.
+Cact. Mex. Bound. t. 9. figs. 4-14).  Type unknown.
+
+From the Guadalupe River, Texas, to the mouth of the Rio Grande,
+and westward to Arizona and Sonora.  Fl. April, May.
+
+Specimens examined: Texas (Lindheimer of 1845, 1847, 1853; Wright
+226, also collections of 1849, 1852, 1853, 1855, 1856; Bigelow of
+1853; Trelease of 1892; Nealley of 1892): New Mexico (Wright 311;
+Bigelow of 1853, Evans of 1891): Arizona (Pringle of 1881): also
+growing in Mo. Bot. Gard. 1893; and in the World's Fair
+collection of Mrs. Nickels.
+
+The radial spines are somewhat variable in relative length, often
+becoming almost equal, while sometimes the upper radials are very
+much reduced.  The figure referred to in Cact. Mex. Bound. is not
+satisfactory as to the general habit of the plant, which is
+flat-topped rather than hemispherical.
+
+6.Cactus heyderi hemisphaericus (Engelm.).
+
+  Mamillaria hemisphaerica  Engelm. Pl. Lindh. 198 (1850).
+
+Differs in being hemispherical instead of flat-topped, in its
+fewer (9 to 12) and shorter (4 to 8 mm.) radial spines, and much
+smaller less rough and lighter-colored seeds.  (Ill. Cact. Mex.
+Bound. t. 9. figs. 15-17)  Type, the "Goebel's Garden" plants in
+Herb. Mo. Bot. Gard.
+
+Throughout southern Texas and southern New Mexico, and southward;
+not extending so far north or west as the species, and apparently
+not so abundant within the United States.  Fl. May.
+
+Specimens examined: Texas(Schott 322, 614): New Mexico (Evans of
+1891): also specimens cultivated in the Goebel Garden, St. Louis,
+in 1847, brought from "below Matamoras on the Rio Grande" by the
+St. Louis Volunteers, in 1816.
+
+On account of its convex top the variety becomes somewhat higher
+than the species (5 to 7.5 cm.), and the flowers are sometimes
+slightly longer (2 to 3 cm.).
+
+7.Cactus meiacanthus (Engelm.) Kuntze, Rev. Gen. Pl. 260
+(1891).
+
+  Mamillaria meiacantha  Engelm. Syn. Cact. 263 (1856)
+
+Hemispherical or with depressed vertex, 7.5 to 12.5 cm. in
+diameter, with a broad top-shaped base: tubercles compressed, 14
+to 18 mm. long: radial spines 5 to 9 (usually about 6), stout
+and strongly subulate, 6 to 10 mm. long, straight or somewhat
+curved, whitish or yellowish, the lower mostly a little longer,
+the upper one sometimes wanting; central spine shorter and stout,
+darker, straight, and porrect, turned upwards among the radials,
+or rarely wanting: flowers 2.5 to 3 cm. long, reddish-white:
+fruit incurved, 2 to 3 cm. long.  (Ill. Cact. Mex. Bound. t.
+9, figs.  1-3).  Type specimens are those of the collections of
+1847, 1851, 1852, and 1853, from which the original description
+was drawn and all of which are in Herb. Mo. Bot. Gard.
+
+From the Guadalupe River, Texas, to the "Great Bend" of the Rio
+Grande, westward through western Texas and New Mexico; also
+northern Mexico (Hemsley); Fl.  May, June.
+
+Specimens examined: Texas (Wright of 1851, 1852; Bigelow of
+1853): New Mexico ("Missouri Volunteers" of 1847; unknown
+collector in 1880); also specimens cultivated in St. Louis in
+1853, and others growing in Mo. Bot. Gard. 1893.
+
+Dr. Engelmann regarded this species as possibly only a variety
+of C. heyderi, to which it is certainly very closely allied
+through var. hemisphaerica, but the different tubercles and
+fewer stouter spines serve so well to distinguish it that it
+seems best to retain its specific rank.
+
+In reference to the citation of the original description an
+explanation seems necessary, which will apply to numerous similar
+cases.  The Pacif. R. Rep. iv. 27 (1856), Syn. Cact. 263
+(1858), and Cact. Mex. Bound. 9 (1859), have each been cited
+as the original publication.  The confusion has arisen from the
+fact that in both the publications of 1856 the description in the
+Rep. Mex. Bound. is referred to, and in that report the plant
+is fully described as "sp. nov."  However, the publication of
+the Boundary Report was long delayed on account of the
+preparation of the plates, and in the meantime both the
+publications of 1856 had appeared, in each one of which the
+species is distinctly characterized and reference made to the
+description in the forthcoming Boundary Report. As between the
+two publications of 1856 the Syn. Cact. (Proc. Amer. Acad.
+iii. 259) was evidently distributed first.
+
+8.Cactus gummiferus (Engelm.) Kuntze. Rev. Gen. Pl. 260
+(1891).
+
+  Mamillaria gummifera  Engelm. Wisliz. Rep. 21 (1848).
+
+Hemispherical, 7.5 to 12.5 cm. broad and 6 to 10 cm. high:
+tubercles 12 to 15 mm. long: radial spines 10 to 12, the lower
+stout, with dusky apex, 12 to 15 mm. long, twice or thrice as
+long as the whitish setaceous upper ones; central spine
+(sometimes two) shorter (about 4 mm.), stout, dusky and porrect:
+flowers 3 cm. long, reddish-white, brownish-red outside: fruit
+unknown. (Ill. Cact. Mex. Bound. t. 9. figs. 18-20)  Type
+probably lost, as no specimens could be found in the Engelmann
+Herbarium.
+
+Chihuahua, near Cosihuiriachi.
+
+So far as can be discovered, this species has not been collected
+since the original Wislizenus collection of 1846-47.  The plants
+were cultivated by Dr. Engelmann and made to bloom, showing the
+flowers to be larger and darker colored than in the rest of the
+group, from which the species also differs in its more robust
+habit, its very unequal radial spines, and the occasional
+occurrence of two centrals.
+
+  ** Central spine hooked.
+
+9.Cactus uncinatus (Zucc) Kuntze, Rev. Gen. Pl. 261 (1591).
+
+  Mamillaria uncinata  Zucc. in Pfeiff. Enum. 34 (1837).
+  Mamillaria bihamata  Pfeiff. in Otto and Deitr. Gart. vi. 274 (1840)
+  Mamillaria adunca  Scheidw. (1845-1849?).
+  Mamillaria depressa  Scheidw. (1845-1849?).
+
+Usually globose (occasionally depressed or even subcolumnar), 5
+to 6 cm. in diameter (doubtless becoming larger): tubercles 8
+to 10 mm. long, woolly in the upper axils: radial spines 4 to
+6, rigid, 4 to 6 mm. long, the upper one stouter than the rest
+and sometimes shorter, reddish-brown and horny, straight or
+slightly curved, the remainder straight and white with dusky
+tips; central spine stout and horny, reddish-brown, 7 to 10 mm.
+long: flowers greenish-white or tinged with red: fruit unknown
+Type unknown.
+
+Entirely Mexican, reported from Chihuahua to Saint Luis Potosi.
+
+Specimens examined: San Luis Potosi (Gregg of 1848; Parry 268;
+Eschanzier of 1891): Chihuahua (Wislizenus of 1846-47; also
+Chihuahua specimens cultivated in the Jacoby Garden in 1856 and
+1857).
+
+The variations observed in this species do not seem sufficient
+for the establishment of varieties.  The type form seems to have
+been globose, with 4 radial spines and a stout central one.  The
+depressed forms with 6 radials and a more slender central
+represent var. spinosior Lem. (M. depressa Scheidw.); and the
+subcolumnar forms with 6 radials (the upper one of which is
+somewhat curved) and a stout strongly hooked central represent
+var biuncinata Lem. (M. bihamata Pfeiff.)  Such combinations of
+characters, however, do not hold, as any one of the plant body
+forms may display any one of the spine characters referred to.
+
+B. Tubercles terete.
+
+  * Central spines none: mostly simple globose plants, with very
+    numerous straight whitish setaceous radials.
+
+10. Cactus lasiacanthus (Engelm.) Kuntze, Rev. Gen. Pl. 259
+(1891).
+
+  Mamillaria lasiacantha  Engelm. Syn. Cact. 261 (1856).
+
+Globose or ovate globose, 2 to 2.5 cm. high and 1 to 2 cm. broad:
+tubercles 4 mm. long, about 2 mm. in diameter, with naked axils:
+spines 40 to 60, in many series, very unequal, 2 to 4 mm, long,
+white and pilose, the upper exterior usually longer than the
+rest, the innermost usually much shorter: flowers 12 mm. long,
+whitish or pinkish (petals with red median band): fruit 1 to 2
+cm. long: seeds about 1 mm. long, blackish and conspicuously
+pitted. (Ill. Cact. Mex. Bound. t. 3).  Type, the specimens of
+Wright in Herb. Mo. Bot. Gard.
+
+From western Texas ("west of time Pecos, on low limestone hills,
+among herbage") to Arizona and Chihuahua.  Fl. April, May.
+
+Specimens examined: Texas (Wright 121, also of 1852; Parry of
+1852): Arizona (Miller of 1881): Chihuahua (Pringle 213,
+250,258): also specimens cultivated in St. Louis in 1852 and
+1855.
+
+11. Cactus lasiacanthus denudatus (Engelm.).
+
+  Mamillaria lasiacantha denudata  Engelm. Cact. Mex. Bound. 5
+  (1859).
+
+Larger, 2.5 to 3.5 cm. in diameter, with longer tubercles (5 to 6
+mm.), and more numerous (50 to 80) longer (3 to 5 mum.) spines
+which are naked or nearly so. (Ill. Cact. Mex. Bound. t. 4)
+Type, Wright specimen in Herb. Mo. Bot. Gard.
+
+From western Texas (with the species) to Coahuila.
+
+Specimens examined: Texas (Wright of 1852): Coahuila (Palmer of
+1880).
+
+In the Syn. Cact. Dr. Engelmann merges this variety with the
+species, and has been followed in this by subsequent writers, but
+the characters seem so (distinctive that its varietal rank has
+been restored.
+
+12. Cactus micromeris (Engelm.) Kuntze, Rev. Gen. Pl. 260 (1891).
+
+  Mamillaria micromeris  Engelm. Syn. Cact. 260 (1856).
+
+With depressed top and very rarely branching, 1 to 3.5 cm. in
+diameter: tubercles very small (about 1 mm. long) and wart-like,
+crowded, shedding the spines with age and giving the base of the
+plant a tuberculated appearance: spines from white to ashy-gray,
+1 to 3 mm. long; in young plants and on lower tubercles of adult
+plants about 20, equal and radiant; on flower-bearing tubercles
+30 to 40, stellate-porrect in every direction, the 6 to 8 upper
+ones two to four times longer than the rest (4 to 8 mm.), clavate
+toward the apex and acute (the clavate top at length deciduous),
+intermixed with loose wool of about the same length and forming a
+small tuft on the top of the plant which includes and partly
+hides flowers and fruit: flowers whitish to light pink, almost
+central, very small (6 mm. in diameter), much reduced (3 to 5
+sepals, 5 petals, 10 to 15 stamens, 3 stigmas): fruit 8 to 12 mm.
+long: seeds 1.5 mm. long, black and shining. (Ill. Cact. Mex.
+Bound. t. 1 and 2. figs. 1-4)  Type, the specimens of Wright in
+Herb. Mo. Bot. Gard.
+
+On naked mountain tops and sides, extreme southwestern Texas (Val
+Verde County to El Paso) and southward into Coahuila and
+Chihuahua.
+
+Specimens examined: Texas (Wright 227 of 1849, also of 1852;
+Nealley of 1892): Coahuila (Bigelow of 1853): Chihuahua (Pringle
+212): also growing in Mo. Bot. Gard. 1893.
+
+The plants densely covered above with delicate ashy-gray spines
+and with naked tuberculate base are readily recognized.  It still
+remains an open question whether the flowers are developed from
+the axils of tubercles of the same season or the last ones of the
+preceding season.  Dr. Engelmann inclined to the latter view, as
+all the other characters of the plant associate it with the
+"lateral-flowered" species; and in the absence of definite
+observation we have retained it there.  If the nearly central
+flowers indicate that they are produced from growth of the same
+season the species would seem to be allied to Coryphantha, in
+which group its small flowers and small tubercles would be
+anomalous.
+
+13. Cactus micromeris greggii (Engelm.).
+
+  Mamillaria micromeris greggii  Engelm. Syn. Cact. 261 (1856).
+
+Larger (2.5 to 5 cm. in diameter) and becoming oblong, with
+larger globose-ovate tubercles (2 to 2.5 mm. long), fewer rigid
+spines all radiant (interior 5 to 7 shorter and stouter, 1 to 2
+mm. long; the outer 15 to 18, 3 to 4 mm. long), and fruit 1.5 to
+2 mm. long. (Ill. Cact. Mex. Bound. t. 2. figs. 5-8)  Type, Gregg
+508 in Herb. Mo. Bot. Gard.
+
+Mountain ridges near Saltillo, Coahuila.  Said by Budd to occur
+within the southern borders of Pecos County, Tex.
+
+Specimens examined: Coahuila (Gregg 508; Palmer of 1880).
+
+It is a question whether this variety does not merely represent
+an older and better developed plant than those upon which the
+species is based.  Mr. Harry I. Budd, who has made extensive
+collections of Texan and Mexican Cacti for the market, reports
+that it is impossible to separate sharply the variety from the
+species in the field, and regards the difference merely as one of
+age.  Unfortunately, only living material of the species could be
+examined, but its characters seem well sustained even in the most
+vigorous plants, some of which reach the size of the variety.
+Through this variety the species is brought very near the
+following:
+
+14. Cactus bispinus.
+
+  Mamillaria microthele  Muhlenpf. Allg. Gart. Zeit. p. 11
+(1848),
+  not Lem. (1838).
+
+Differs from the last form (var. greggii) chiefly in its
+cespitose habit, much larger tubercles, and two unusually stout
+and short central spines (fide Engelmann, who examined specimens
+in Coll. Salm-Dyck).
+
+Credited to Mexico in general, but said by Budd to occur within
+the southern border of Pecos County, Tex.
+
+  ** Central spines present and one or more hooked.
+  +  Mostly globose and simple plants (occasionally somewhat
+     cylindrical).
+
+15. Cactus wrightii (Engelm.) Kuntze. Rev. Gen. Pl. 261 (1891).
+
+  Mamillaria wrightii  Engelm. Syn. Cact. 262 (1856).
+
+Globose or depressed globose (top-shaped below), 3 to 7.5 cm. in
+diameter, simple: tubercles 10 to 12 mm. long, with naked axils:
+radial spines 8 to 12, white (the upper dusky-tipped), pubescent,
+8 to 12 mm. long central spines mostly 2 (usually side by side
+and divergent), rarely 1 or 3, scarcely longer, hooked and
+reddish-black: flowers 2.5 cm. long, bright purple: fruit about
+2.5 cm. long, somewhat subglobose, purple: seeds 1.4 mm long,
+black and pitted.  (Ill. Cact. Mex. Bound. t.8. figs. 1-8)  Type,
+Wright of 1851 in Herb. Mo. Bot. Gard.
+
+High plains and rocky places, from the Upper Pecos, east of Santa
+Fe, N. Mex., southward through extreme southwestern Texas
+(between the Pecos and El Paso), and into Chihuahua (near Lake
+Santa Maria).
+
+Specimens examined: New Mexico (Wright of 1851; Rusby of 1880):
+also growing in Mo. Bot. Gard. 1893.
+
+Dr. Engelmann calls attention to the fact that this species is
+closely allied to the Mexican C. zephranthoides (Scheidw.), but
+in the absence of material representing the latter species no
+comparison can be made.  In descriptions of the Mexican species
+the differently colored flowers and the much longer spines
+suggest differences that an examination of fruit and seed
+characters may still further emphasize.
+
+16. Cactus goodrichii (Scheer) Kuntze. Rev. Gen. Pl. 260 (1891).
+
+  Mamillaria goodrichii  Scheer in Salm Cact. Hort. Dyck. 91
+  (1850).
+
+Globose or ovate, 5 to 7.5 cm. high, subsimple: tubercles ovate,
+short (3 to 5 mm.), somewhat corky and persistent, with dense
+wool in the young axils containing 5 to 8 stiff bristles: radial
+spines 11 to 15 (the uppermost one sometimes wanting), white and
+rigid, 5 to 7 mm. long, entangled with adjoining clusters;
+central spines 3 or 4 (often solitary in young plants),
+brownish-black,the upper ones divergent and straight (rarely
+showing a tendency to hook), the lower longer (9 to 10 mm.),
+stouter and hooked (usually upwards): flowers 12 to 18 mm, long,
+the petals yellowish-white with red midribs: fruit clavate and
+scarlet. (Ill. Cact. Mex. Bound. t. 8. figs. 9-14)  Type: Scheer
+says that the plant was brought from the Island of "Corros"
+(Cedros?) by Dr. Goodrich, and "unfortunately perished in the
+gardens," which generally means that there is not a fragment of
+the type in existence.
+
+In dry ravines, from San Diego County, California, southward
+throughout Lower California and the neighboring islands
+(including Guadalupe Island).  "Llavina."
+
+Specimens examined: California (Parry of 1850, 1875; Agassiz of
+1872; Parish 450 of 1882 at Vallecito): Lower California (Gabb 18
+of 1867; Brandegee of 1889 on Magdalena Island, and 240 of 1890
+from San Jose del Cabo): also specimens cultivated in Gard.
+Salm-Dyck.
+
+By a misprint in Cact. Mex. Bound, the specific name appeared as
+"Goodridgii," and this error appears in almost every subsequent
+mention of the species, even in Watson's Bibliographical Index,
+although in Syn. Cact. and other references by Dr. Engelmann the
+correct form appears.
+
+17. Cactus pondii (Greene).
+
+  Mamillaria pondii  Greene, Pittonia, i, 268 (1889).
+
+Oval or cylindrical, from low to 30 cm. high, simple or sparingly
+branched: radial spines 20 to 30, white and slender; centrals 4
+or 5, the longest over 25 mm, long, rigid and strongly hooked,
+dark brown above the middle: flowers nearly 5 cm. long, bright,
+scarlet: fruit unknown.  Type, Pond specimens in Herb. Greene.
+
+Cedros Island, off the west coast of Lower California.  Fl.
+February.
+
+Unfortunately, the type specimen has been mislaid, so that no
+examination of it could be made.  Evidently related to C.
+goodrichii, but differing in its much more robust habit, more
+numerous radials, much longer spines, and larger scarlet flowers.
+
+18. Cactus barbatus (Engelm.) Kuntze, Rev. Gen. Pl. 261 (1891).
+
+  Mamillaria barbata  Engelm. Wisliz. Rep. 22 (1848).
+
+Depressed-globose, about 4 cm. in diameter, simple: tubercles 8
+mm. long, with naked axils: radial spines very numerous (50 to
+60), in two series, 6 to 8 mm. long, the outer (about 40) slender
+but rigid and white, the inner (10 to 15) a little stouter and
+yellow; usually one central spine, stout and erect, hooked
+downwards, brownish: flowers 18 to 20 mm. long, rose-red: fruit
+oblong, 10 to 12 mm. long, green (when mature?): seeds minute,
+dark brown and lightly pitted. (Ill. Cact. Mex. Bound t. 6. figs.
+9-12)  Type, Wislizenus of 1846 in Herb. Mo. Bot. Gard.
+
+Central Chihuahua.  Fl. May, in cultivation.
+
+Specimens examined: Chihuahua (Wislizenus of 1846, 1850): also
+specimens cultivated in Baumann's Garden in 1857, 1858; also
+growing in Mo. Bot. Gard. 1893.
+
+Dr. Engelmann observed a curious intermediate character in the
+origin of the flowers of this species, the first ones of the
+season appearing in the axils of the last tubercles of the
+preceding year, while the later ones develop from the axils of
+the first tubercles of the same season.  The specimen growing in
+Mo. Bot. Gard, in 1893 had 3 central spines, one or two being
+hooked.
+
+19. Cactus grahami (Engelm.) Kuntze, Rev. Gen. Pl. 260 (1891).
+
+  Mamillaria grahami  Engelm. Syn. Cact. 262 (1856).
+
+Globose or at length ovate, 2.5 to 7.5 cm. high, simple or
+branched from the base and even cespitose: tubercles ovate, 6 mm.
+long, dilated at base (corky and persistent when old), with naked
+axils: radial spines 15 to 30 in a single series, white, often
+dusky-tipped, slender but rigid, naked or puberulent, 6 to 12 mm.
+long, the shorter ones uppermost, the longer ones lateral;
+central spines 1 to 3, blackish from a paler base, the lower
+(often the only) one stouter and longer (6 to 18 mm.), hooked
+upward, the one or two upper ones (when present) shorter and
+slenderer, divergent: flowers 2 to 2.5 cm. long, rose-colored:
+fruit 2 to 2.5 cm. long: seeds 0.8 to 1 mm. long, black and
+pitted.  (Ill. Cact. Mex. Bound. t. 6. figs. 1-8)  Type, Wright
+of 1852 and Bigelow of 1852 in Herb. Mo. Bot. Gard.
+
+In rocky places, from the mountains of extreme southwestern Texas
+(west of the Pecos) to southern Utah, southern California (common
+along the Colorado), and Sonora.  Fl. June-August.
+
+Specimens examined: Texas (Wright of 1852; Newberry of 1858; G.
+R. Vasey of 1881; Miller of 1881; Briggs of 1892): New Mexico
+(Evans of 1891): Arizona (Bigelow of 1852; Schott of 1858; Cous
+of 1865; Palmer of 1869, 1870; Engelmann of 1880; Pringle of
+1884): Utah (Parry of 1874): Sonora (Schott of 1853): also
+specimens cultivated in the Mo. Bot. Gard. in 1881.
+
+In all references to the fruit of this species it is described as
+"oval and green," except in Ives Report, where Dr. Engelmann
+describes its real character as the ordinary fruit of
+Eumamillaria.  The immature fruit is "oval and green," but with
+maturity it becomes clavate and scarlet.  The Utah specimens of
+Parry show an exceptional character in their 30 to 33 scabrous
+radial spines, but otherwise they are quite normal.  M.
+microcarpa Engelm., Emory's Rep. 156. f. 3, should be dropped as
+a synonym of this species, at least as to figure and description.
+In all probability C.grahami is one of the forms of the Mexican
+C. schelhasii (Pfeiff.).  Except that in C. grahami the radial
+spines are apt to be more numerous and longer, and the centrals
+much darker; and in C. schelhasii the 3 centrals seem to be
+always present and sometimes all hooked, the descriptions suggest
+no difference.  In the absence of authentic specimens of the
+latter species, however, and with its fruit and seed entirely
+unknown, such a reference of C. grahami must be deferred.
+
+20. Cactus bocasanus (Poselger).
+
+  Mamillaria bocasana  Poselger, Gart. Zeit. 94 (1853).
+
+Depressed-globose, 2 to 3 cm. high: tubercles 8 mm. long, with
+long axillary wool: radial spines 25 to 30, white and capillary,
+10 to 25 mm. long; central spines 2 to 4, slender and naked (or
+slightly puberulent), the most central one hooked (usually
+upwards), 15 to 25 mm. long, the upper 1 to 3 shorter and
+straight, all yellow with red tips, the hooked one often
+brownish-red nearly to the base: flowers unknown: fruit green,
+about 4 mm. long: seeds cinnamon-brown, oblique, broadly obovate,
+with narrowly ovate basal hilum.  Type unknown.
+
+San Luis Potosi, so far as known.  Poselger says, "Texas, auf der
+Seira de Bocas, among rocks," which station we have been unable
+to locate.
+
+Specimens examined: San Luis Potosi (Eschanzier of 1891): also
+specimens cultivated in Hort. Pfersdorff in 1869; in Mo. Bot.
+Gard. in 1891; also growing in Mo. Bot. Gard. 1893.
+
+The capillary radials give the plant a white-woolly appearance.
+The younger spines at the vertex are erect and tufted.  It
+resembles C. grahami, but the tubercles are much more slender and
+not thickened at base, all the spines are more slender, the
+central hooked one is more reddish, and the fruit is much
+shorter.
+
+21. Cactus eschanzieri, sp. nov.
+
+Depressed-globose, 3 cm. in diameter, simple: tubercles broader
+at base, 6 to 8 mm. long, with naked axils: spines all pubescent;
+radials 15 to 20, with dusky tips, the lateral 10 to 12 mm. long,
+the lower weaker, shorter and curved, the upper shorter; solitary
+central spine reddish, slender, somewhat twisted, usually hooked
+upwards, 15 to 25 mm. long: flowers red (?): fruit reddish (?),
+ovate, about 10 mm, long: seeds reddish, oblique-obovate, 1.2 mm.
+long, pitted, with subventral hilum.  Type in Herb. Coulter.
+
+San Luis Potosi.
+
+Specimens examined: San Luis Potosi (Eschanzier of 1891).
+
+Resembles C. grahami, but with fewer and more slender pubescent
+spines, longer and less rigid central, more exserted fruit, and
+much larger reddish and strongly pitted seeds with subventral
+hilum.
+
+22. Cactus tetrancistrus (Engelm.).
+
+  Mamillaria tetrancistra  Engelm. Am. Jour. Sci. II. xiv. 337
+  (1852), in part.
+  Mamillaria phellosperma  Engelm. Syn. Cact. 262 (1856).
+  Cactus pellospermus  Kuntze, Rev. Gen. Pl. 261 (1891).
+
+Ovate or ovate-cylindrical, 5 to 25 cm. high, 3.5 to 7.5 cm. in
+diameter, simple or rarely branching at base: tubercles
+ovate-cylindrical, 8 to 14 mm. long, with axillary
+bristle-bearing wool, at length naked: radial spines 30 to 60, in
+two series, the exterior bristle-like, shorter and white, the
+interior stouter, longer and dusky-tipped or purplish; central
+spines 3 or 4, stouter, longer, brown or blackish from a paler
+base, the upper 2 or 3 (10 to 14 mm. long) straight, or one or
+two or even all hooked, the lower stouter and longer (12 to 18
+mm.), hooked upwards: flowers about 2.5 cm. long: fruit 1 to 2.5
+cm. long: seeds large (1.2 to 1.5 mm. in diameter), globose and
+wrinkled, partly immersed in a brown spongy or corky cup-shaped
+3-lobed appendage. (Ill. Cact. Mex. Bound. t. 7)  Type, Parry of
+1850, but modified by Le Conte 14 and Bigelow of 1854, all in
+Herb. Mo. Bot. Gard.
+
+Gravelly soil and sandy stream-banks, from the eastern slopes of
+the mountains of southern California, throughout western Arizona
+and southern Nevada to southern Utah; referred also to "N. W.
+Mexico" by Hemsley (Biol. Centr.-Amer.).
+
+Specimens examined: California (Parry of 1850; Newberry of 1858;
+Parish of 1882): Arizona (Le Conte 14; Bigelow of 1854; Dr. Loew
+of 1875: also Palmer of 1870, but with no locality.
+
+In the original description this species was confounded with C.
+grahami, with which it grows and which it much resembles; and
+this, together with the fact that 4 central hooked spines are
+seldom found, induced Dr. Engelmann (Syn. Cact. 262) to propose
+the more appropriate but untenable name M. phellosperma.  The
+resemblance to C. grahami is not so close as general appearance
+would indicate, as the more oblong or cylindrical form, longer
+and less crowded tubercles, more numerous spines, often more than
+one hooked central, large seeds, and remarkable seed appendages
+serve well to distinguish it.
+
+++ Plants with fasciculate slender cylindrical stems (30 to 45
+   cm. high, and 2.5 to 6 cm. in diameter): Lower Californian.
+
+23. Cactus roseanus (Brandegee).
+
+  Mamillaria longihamata  Engelm. Mss.
+  Mamillaria roseana  Brandegee, Zoe, ii. 19 (1891).
+
+Fasciculately branched at base, the stems 30 to 45 cm. long
+(sometimes pendent from rocks and as much as 200 cm. long) and
+2.5 to 5 cm. in diameter, the whole plant glaucous: tubercles
+elongated-conical, ascending, 10 to 12 mm. long, with woolly
+axils: radial spines 7 to 10, straight, rigid and sharp, 9 to 15
+mm. long, dark reddish when young, becoming ashy, the upper ones
+the longer; the solitary central much longer (20 to 30 mm.),
+almost black below and with reddish tip, becoming ashy with age,
+usually hooked downwards: flowers numerous, 2.5 to 3.5 cm. long,
+bright scarlet: fruit obovate to globose, scarlet, 6 to 9 mm. in
+diameter, fleshy: seeds black and pitted.  Type in Herb. Calif.
+Acad.
+
+Apparently common at low elevations throughout southern Lower
+California, especially the eastern side.
+
+Specimens examined: Lower California (W. M. Gabb 17 of 1867, near
+Loreto; Brandegee of 1889, at San Gregorio; Palmer 139 of 1890,
+near La Paz; Palmer 880 of 1890, on Carmen Island; Brandegee 241
+of 1890, at Rancho Colorado).
+
+One of the most showy species of Lower California.  The plant has
+the appearance of a Coryphanth, and is remarkable for its tall
+and slender habit, its large central hooks, and its globose
+fruit.  Since 1867 this species has been in Herb. Engelmann,
+fully characterized as above under the very appropriate specific
+name longihamatus.
+
+24. Cactus setispinus, sp. nov.
+
+  Mamillaria Setispina  Engelm. Mss.
+
+Fasciculate and ascending, simple or branched at base, the stems
+about 30 cm. high and 3 to 6 cm. in diameter, densely covered
+with remarkably long stout spines: tubercles short and broadly
+conical, with axillary wool: spines white. with black tips;
+radials 10 to 12, widely spreading, very unequal, 10 to 34 mm.
+long, slender and flexuous; central spines 1 to 4, more rigid and
+much longer (20 to 50 mm.), the upper ones straight, the lowest
+one longest and hooked (usually upwards) and often variously
+curved and twisted: fruit obovate and scarlet 30 mm. long: seeds,
+black and pitted.  Type, Gabb 15 in Herb. Mo. Bot. Gard.
+
+Rocky or gravelly soil, San Julio Canyon. and in the vicinity of
+San Borgia, Lower California.
+
+Specimens examined: Lower California (W. M. Gabb 15 of 1867, at
+San Borgia; Brandegee of 1889, from San Borgia and San Julio
+Canyon).
+
+In his notes Mr. Gabb describes the flower as "large, 3 to 3.5
+inches long, bell-shaped, of a beautiful purplish red color,"
+concerning which Dr. Engelmann remarks "this would indicate a
+Coryphanth, but the tubercles show no trace of a groove, and,
+moreover, a withered remnant of a flower laterally attached (say
+18 to 20 mm. long), so that I have no doubt that Mr. Gabb's
+statement is founded on some error."  It is very probable that
+the flowers are scarlet and larger than Dr. Engelmann suggests.
+The species is closely allied to C. roseanus, but differs in its
+shorter tubercles and much longer spines.  About a dozen stems
+rise in a clump, about a foot high, covering an area of 2 or 3
+feet.  These two species represent a very distinct Lower
+Californian group of cylindrical and hooked Eumamillarias.  Both
+probably have showy scarlet flowers and may attain considerable
+length when growing upon rock ledges so as to become pendent.
+The specimens of C. setispinus from San Julio Canyon are from
+younger parts and show but a single long and hooked central.  The
+San Borgia specimens show mostly 3 or 4 centrals, the lowest one
+hooked and becoming remarkably long and often variously twisted
+and curved.  However, I can discover no difference except such as
+may be due to age.
+
+  ++ Central spines present and not hooked.
+  + Central spines more than one, longer than the radials, which
+    are numerous, white and slender (capillary or bristle-like)
+    (rigid in C. Halei).
+
+25. Cactus halei (Brandegee).
+
+  Mamillaria halei  Brandegee, Proc. Calif. Acad. Sci Scr. 2. ii.
+  161 (1889).
+
+Stems cylindrical, 8 to 10 in a clump, about 30 cm. high and 5 to
+7.5 cm. in diameter: tubercles short, with axillary wool: radial
+spines 10 to 22, rigid and erect-spreading, unequal, 6 to 15 mm.
+long; central spines numerous and erect-spreading, 1 to 3 of them
+very stout and prominent (25 to 35 mm. long); all the spines
+straight, at first reddish-brown, becoming yellowish and ashy,
+more or less dark-tipped: flowers 2.5 cm. long, bright scarlet
+(almost throughout): fruit 12 mm, long, clavate and red: seeds
+black and pitted. (Ill. l. c. t. 6)  Type in Herb. Calif. Acad.
+
+Abundant on Magdalena and Santa Margarita Islands, western coast
+of Lower California.  Fl. January.
+
+Specimens examined: Lower California (Brandegee of 1889, on
+Magdalena Island).
+
+The tubercles are so close together that the plant appears
+thickly covered with the unusually stout and erect-spreading
+straight spines, a few of the centrals being specially prominent.
+The plant is more slender than the ordinary "cylindrical"
+members of the genus, but stouter than the slender hooked forms
+of the preceding section.
+
+26. Cactus rhodanthus (Link & Otto) Kuntze, Rev. Gen. Pl. 261
+    (1891).
+
+  Mamillaria rhodantha  Link & Otto, Icon. t. 26 (1828-31)
+  Mamillaria lanifera  Haw. Phil. Mag. lxiii., 41 (), not
+  Salm-Dyck (1850).
+
+Oblong or subcylindric, 30 cm. or more high, 7.5 to 10 cm. in
+diameter, often forking from the middle: tubercles conical, 12
+mm. long, 8 mm. in diameter, with woolly axils: radial spines 16
+to 20, bristle-like, white, the lower longer (8 to 10 mm.);
+central spines 6 or 7, rigid, whitish with black tip, 12 mm.
+long: flowers rose color, 12 mm. in diameter: fruit 2.5 cm. long,
+cylindrical. (Ill. l. c.)  Type unknown.
+
+Referred to Mexico in general, but reported as yet from San Luis
+Potosi to southern Mexico.  Fl. profusely all summer.
+
+Specimens examined: San Luis Potosi (Bourgeau 47; Pringle 3679;
+Eschanzier of 1891): also growing in Mo. Bot. Gard. 1893.
+
+The specimens of Bourgeau and Pringle have somewhat larger spines
+than the type, as indicated by the description.
+
+27. Cactus rhodanthus sulphureospinus.
+
+  Mamillaria sulphurea  Forst. Handb. Cact. (1846), not Cactus
+    sulphureus Gill, (1830).
+  Mamillaria rhodantha sulphurea  Salm, Hurt. Cact. Dyck. 11
+(1850).
+
+Central spines sulphur-yellow; otherwise like the species.  Type
+unknown.
+
+San Luis Potosi.
+
+Specimens examined: San Luis Potosi (Pfeiffer, with no number or
+date; Eschanzier of 1891).
+
+The varietal distinction maintained seems a small one, but it is
+constant and striking, so far as can be discovered.
+
+28. Cactus capillaris.
+
+  Mamillaria lanifera  Salm, Cact. Hort. Dyck. 98 (1850), not
+Haw.
+  Cactus laniferus  Kuntze, Rev. Gen. Pl. 250 (1891).
+
+Cylindrical and erect: tubercles crowded, conical, glaucous, with
+axillary bristles: radial spines capillary and very numerous,
+white and crisped, entirely covering the plant; central spines 4
+to 6, rigid, straight and spreading, straw-colored, 8 to 12 mm.
+long: flowers equaling the tubercles, the yellow petals striped
+with red: fruit unknown.  Type unknown.
+
+Referred to Mexico in general, but definitely known only from
+Coahuila.
+
+Specimens examined: Coahuila. (Palmer of 1880).
+
+There is a confusion of synonymy between this species and C.
+rhodanthus, both having been named Mamillaria lanifera. The
+earlier M. lanifera of Haworth, however, is clearly M. rhodantha
+of Link & Otto; and although Prince Salm-Dyck revived the name
+for the present species, the law of homonyms will not permit it
+to stand.  The name proposed refers to the abundant display of
+capillary radial spines, which is probably the most notable
+feature.
+
+29. Cactus palmeri, sp. nov.
+
+Cylindrical: tubercles crowded, glaucous, cylindrical (somewhat
+broadest above), about 4 mm. long, with dense axillary wool
+containing bristles: radial spines 25 to 30, very slender and
+white but rigid, about 5 mm. long, spreading or somewhat radiant,
+entangled with those of neighboring tubercles, and so covering
+the whole plant; central spines 3 to 5 (usually 4), more robust,
+erect or slightly divergent, brownish with darker tip, 7 to 8 mm.
+long: flowers small: fruit clavate and scarlet: seeds black and
+strongly pitted, 0.5 to 0.8 mm. in diameter.  Type, Palmer 921 in
+U. S. Nat. Herb.
+
+San Benito Island, off the west coast of lower California.
+
+Specimens examined: Lower California, San Benito Island (Palmer
+921 of 1889, reported as Mamillaria Goodrichii).
+
+Very closely allied to C. capillaris of eastern Mexico.
+
+30. Cactus stellatus  Willd. Enum. Suppl. 30 (1813).
+
+  Cactus pusillus  DC. Cat. Hort. Monsp. 184 (1813), not Haw.
+    (1803).
+  Mamillaria pusilla  DC. Prod. iii. 459 (1828).
+
+A very common West Indian species, apparently differing from the
+variety only in the very much fewer (12 to 20) radial spines,
+although numerous specimens, both dried and living, were examined
+for additional characters.  This difference, however, is so
+constant and striking that, taken together with the wide
+geographical separation, it should stand as varietal.
+
+31. Cactus stellatus texanus (Engelm.).
+
+  Mamillaria pusilla texana  Engelm. Syn. Cact. 216 (1856).
+  Mamillaria texana  Young, Fl. Texas, 279 (1873).
+
+Ovate-globose, 2.5 to 3 cm. in diameter, 2.5 to 6 cm. high,
+proliferous and at length cespitose: tubercles 7 to 9 mm. long,
+the long axillary wool intermixed with several coarse twisted
+bristles: radial spines very numerous, in many series, the outer
+ones (30 to 50) capillary, white, elongated and flexuous or
+crisped (12 to 16 mm, long when straightened), the inner ones (10
+to 12) more rigid, shorter (6 to 8 mm.), puberulent, whitish or
+yellowish, usually dark-tipped; central spines 5 to 8, rigid,
+straight, pubescent, unequal, white below and reddish or dark
+above: flowers 1.5 to 2 cm. long, the yellowish-white petals with
+reddish median band: fruit 1.5 to 2 cm. long: seeds black and
+shining, conspicuously pitted, 1.2 mm. long. (Ill. Cact. Mex.
+Bound. t 5.)  Type, Bigelow specimens in Herb. Mo. Bot. Gard.
+
+From the mouth of the Rio Grande to El Paso, Tex., and southward
+into Coahuila and Chihuahua.  Fl. March-May.
+
+Specimens examined: Texas (Bigelow of 1853; Nealley of 1892):
+Coahuila (Bigelow of 1853): also growing in Mo. Bot. Gard. 1892
+and 1893.
+
+The exterior capillary spines cover the whole plant as with a
+coarse wool.
+
+32. Cactus pringlei, sp. nov.
+
+Globose (?), 5 cm. in diameter: tubercles short-conical, about 6
+mm. long, with very woolly axils: radial spines 18 to 20,
+setaceous-bristly and radiant, 5 to 8 m in. long; central spines
+5 to 7 (usually 6), stout and horny, more or less recurved,
+spreading, 20 to 25 mm. long; all straw-colored, but the centrals
+darker: flowers deep red (darker, even brownish, outside), 8 to
+10 mm. long: fruit unknown.  Type, Pringle of 1891 in Herb. Gray.
+
+San Luis Potosi.
+
+Specimens examined: San Luis Potosi (Pringle of 1891).
+
+Evidently a member of the Chrysacantha group and near C.
+rhodanthus sulphureospinus, but differs in the much shorter
+tubercles, straw-colored spines, shorter radials, much longer
+centrals, and smaller darker flowers.
+
+33. Cactus sphaerotrichus  (Lem.) Kuntze, Rev. Gen. Pl. 261
+    (1891).
+
+  Mamillaria sphaerotricha  Lem. Cact. 33 (1839).
+
+Depressed-globose: tubercles cylindrical, obtuse, with some
+axillary bristles: radial spines very much crowded, exceedingly
+numerous, radiant, very slender and bristle-like, white; central
+spines 6 to 10 and even more, erect and more rigid: flowers pale
+reddish: fruit unknown.  Type unknown.
+
+Referred to Mexico in general, but reported only from San Luis
+Potosi.
+
+Specimens examined: Mexican specimens from Hort. Dyck in 1857;
+from Hort. Pfersdorff in 1869; and growing in Mo. Bot. Gard. 1893
+(from material sent by Pringle from San Luis Potosi).
+
+  ++ The single central spine shorter than the radials (in C.
+     longimamma centrals often more than one and somewhat
+longer).
+
+34. Cactus gabbli, sp. nov.
+
+  Mamillaria gabbii  Engelm Mss.
+
+Globose, 5 to 10 cm. in diameter, simple: tubercles cylindrical,
+slender, 12 to 14 mm. long, with woolly axils: radial spines
+about 13, 5 to 8 mm. long, lower ones longer and stouter,
+especially the lateral ones pectinate; the central shorter,
+straight, and robust: flowers small, yellowish-red: fruit
+unknown.  Type in Herb. Mo. Bot. Gard.
+
+Among rocks, from San Ignacio to Mission San Fernando, Lower
+California, and "perhaps farther north in the interior."
+
+Specimens examined: Lower California (W. M. Gabb 19 of 1867).
+
+35. Cactus sphaericus  (Dietr.) Kuntze, Rev. Gen Pl. 261 (1891).
+
+  Mamillaria sphaerica  Dietr. Allg. Gart. Zeit xxi. 94 (1853).
+
+Obovate or clavate, 5 cm. or more high, proliferous and at length
+densely cespitose: tubercles elongated-ovate, acutish, 12 to 10
+mm. long with axillary wool: radial spines 12 to 14, setaceous, 7
+to 9 mm. long, bulbous at base, straight or curved, white;
+central spine straight, subulate, somewhat shorter, but scarcely
+stouter: flowers yellow, 3.5 to 5 cm. long: fruit unknown.  Type
+unknown.
+
+Sandy ridges in the valley of the Rio Grande (both sides of the
+river), from the mouth to Eagle Pass.  Fl. from March throughout
+the season.
+
+Specimens examined: Texas (Schott of 1852): also specimens
+cultivated in St. Louis in 1845 and 1861.
+
+Dietrich's description was taken from plants collected by
+Poselger at Corpus Christi.  The Schott specimens are from Eagle
+Pass.  Dr. Engelmann calls attention to the fact that this
+species approaches Coryphantha in its exserted ovary and large
+flower, but the flowers are clearly from the growth of the
+preceding season.  The species is said to be too near the Mexican
+C. longimamma of central and southern Mexico, but in the absence
+of type specimens of either the question can not be settled. The
+usual characterization of C. longimamma is as follows, which
+seems to make it distinct enough:
+
+36. Cactus longimamma  (DC.) Kuntze, Rev. Gen. Pl. 260 (1891).
+
+  Mamillaria longimamma  DC. Rev. Cact. 113 (1829).
+
+Ovate or at length cylindrical, simple or cespitose: tubercles
+oblong-ovate, large at base, 4 to 5 cm. long: radial spines 7 or
+8, radiant and equal, 8 to 10 mm. long or more, more or less
+pubescent; central spines 1 to 3, somewhat longer and spreading:
+flower 4 cm. long, becoming 6 cm. broad when fully expanded,
+yellow.  (Ill. DC. Mem. Cact. t. 5.)
+
+II. CORYPHANTHA. Flowers from the base of a groove on young or
+nascent tubercles (hence appearing terminal), mostly large:
+spines never hooked (except in the doubtful C. brunneus).
+
+  * Flowers yellow.
+  + The originally central flowers pushed aside by the continuous
+    development of new tubercles: usually a single prominent
+    central spine.
+
+37. Cactus missouriensis (Sweet) Kuntze, Rev. Gen. Pl. 259
+    (1891).
+
+  Cactus mamillaris  Nutt. Gen. i. 295 (1818), not Linn. (1753).
+  Mamillaria missouriensis  Sweet, Hort. Brit. 171 (1827).
+  Mamillaria simplex  Torr. & Gray, Fl. N. Am. i. 553 (1840).
+  Mamillaria nuttallii  Engelm. Pl. Fendl. 49 (1849).
+  Mamillaria notesteinii  Britton, Bull. Torr. Bot. Club, xviii,
+    367 (1891).
+
+Globose, 3.5 cm. in diameter, simple or nearly so: tubercles
+ovate-cylindrical, 12 to 14 mm. long, slightly grooved: radial
+spines 13 to 17, straight, whitish, setaceous, somewhat unequal,
+8 to 10 mm. long; central spine more robust, straight and
+porrect, puberulent, 10 to 12 mm. long, often wanting: flowers
+about 2.5 cm. long, yellow or reddish: stigmas 2 to 5: fruit
+globose, scarlet, 6 to 8 mm. in diameter: seeds globose, black
+and pitted, 0.8 to 1.1 mm. in diameter. (Ill. Cact. Mex. Bound.
+t. 74., f. 6, seeds.)  Type unknown.
+
+High prairies of the Upper Missouri, from Montana to South Dakota
+and southward through western Nebraska to western Kansas and the
+eastern slopes of the mountains of Colorado.  Fl. May.
+
+Specimens examined: Montana (Notestein of 1893): National Park
+(Tweedy 423): South Dakota, (collector unknown, in 1847, 1848,
+1853): Nebraska (Hayden of 1855).
+
+38. Cactus missouriensis similis (Engelm.).
+
+  Mamillaria similis  Engelm. Pl. Lindh. 246 (1845).
+  Mamillaria nuttallii caespitosa  Engelm. Syn. Cact. 265 (1856).
+
+  Mamillaria missouriensis caespitosa  Watson, Bibl. Index,
+    403 (1878).
+
+Cespitose, with 12 to 15 puberulent radial spines, the central
+very often wanting, larger flowers (2.5 to 5 cm. long), fruit and
+seeds (1.6 to 2.2 mm. in diameter), and 5 stigmas. (Ill. Cact.
+Mex. Bound. t. 74. f 7, seeds)  Type, Lindheimer, of 1845 (?) in
+Herb. Mo. Bot. Gard.
+
+From the Kansas River, Kansas, and eastern Colorado, southward
+through Oklahoma to the San Antonio River, Texas.
+
+Specimens examined: Colorado (Greene of 1870): Kansas (Carleton
+551 of 1891, from Kingman County, distributed as Mamillaria
+dasyacantha): Oklahoma (Carleton 120 of 1891): Texas (Lindheimer
+of 1845, 1850; Wright of 1850; Reverchon 725): also specimens
+cultivated in Goebel's Garden in 1846; and in St. Louis in 1846,
+1847, 1851.
+
+The cespitose masses are often a foot broad.
+
+39. Cactus missouriensis robustior (Engelm.).
+
+  Mamillaria similis robustior Engelm. Pl. Lindh. 200 (1850).
+  Mamillaria nuttallii robustior  Engelm. and Bigel. Pacif. R.
+    Rep. iv. 28 (1856).
+  Mamillaria missouriensis robustior  Watson, Bibl. Index,
+    440 (1878).
+
+Almost simple, with longer aid looser tubercles, 10 to 12 stouter
+radial spines (6 to 16 mm. long), a single stout central, larger
+flowers, and 7 or 8 stigmas.  Type, Lindheimer of 1845 in Herb.
+Mo. Bot. Gard.
+
+From southeastern Colorado and the Canadian River (Oklahoma and
+Indian Territory), to the Colorado River of Texas.
+
+Specimens examined: Texas (Lindheimer of 1845, 1846; Bigelow of
+1853): also specimens cultivated in St. Louis in 1847.
+
+In Bigelow's specimens the central spine is mostly lacking.
+
+40. Cactus scheerii  (Muhlenpf.) Kuntze, Rev. Gen. Pl. 261
+(1891).
+
+  Mamillaria scheerii  Muhlenpf. Allg. Gart. Zeit. xv. 97 (1847).
+  Mamillaria scheerii valida  Engelm. Syn. Cact. 265 (1856).
+
+Ovate-globose, 7.5 to 17.5 cm. high, 7.5 to 12.5 cm. in diameter,
+simple or sparingly proliferous at base: tubercles large (2.5 to
+3.5 cm. long), from a broad base and suddenly contracted and
+almost cylindric (10 to 14 mm. in diameter), deeply grooved (1 to
+5 orbicular glands in the groove), distant, spreading and
+ascending, the lower ones shorter, more conical and somewhat
+imbricated, with broad axils and the younger densely woolly:
+radial spines 6 to 16, straight or slightly curved, stout, rigid,
+bulbous at base, whitish or yellowish (sometimes reddish) with
+dark tip, the 2 to 5 lower and lateral ones stouter and
+compressed (18 to 30 mm. long), the 4 to 11 upper ones weaker and
+terete (10 to 20 mm. long); central spines 1 to 5, stout and
+angled, 20 to 36 mm. long,,mostly yellow (sometimes reddish), a
+single one very stout and porrect: flowers 5 cm. long, yellow
+(sometimes reddish tinged): fruit ovate or subglobose, green:
+seeds large (3 mm. long), flat and obovate, red.  Type unknown;
+that of the old var. valida is the Wright material in Herb. Mo.
+Bot. Gard.
+
+Sandy ridges, southwestern Texas, from Eagle Pass and head of
+the Limpia to El Paso, and southward into Chihuahua, Coahuila,
+and San Luis Potosi; also southern Mexico (fide Hemsley).  Fl.
+July.
+
+Specimens examined: Texas (Wright 416, 478, of 1851, 1852; Evans
+of 1891): San Luis Potosi (Eschanzier of 1891).
+
+The var. valida was described by Dr. Engelmann without having
+seen C. scheerii, the only knowledge of that species being
+obtained from the description of Prince Salm-Dyck in Cact. Hort.
+Dyck., which seemed to indicate a smaller form, with fewer spines
+than the Texan form.  However, when visiting the collections of
+Prince Salm-Dyck, Dr. Engelmann found original specimens of C.
+scheerii which were exactly his var. valida.  So far as
+collections show the Texan form seems to be more robust than the
+Mexican, but the material is too scanty to justify such a
+generalization.  Dr. Engelmann speaks of this species as "a
+stately plant, by far the largest, of the northern Mamillariae"
+Its tubercles are bright green and in beautiful contrast with the
+showy yellow spines.
+
+41. Cactus robustispinus (Schott) Kuntze, Rev. Gen. Pl. 261
+    (1891).
+
+  Mamillaria robustispina  Schott in Engelm. Syn. Cact. 265
+(1856).
+
+A large stout plant, simple or cespitose: tubercles large,
+subterete, nearly 2.5 cm. long (and about the same distance from
+each other): radial spines 12 to 15, stout and rigid, 18 to 30
+mm. long, the lower ones the stouter, more dusky, straight or
+often curved downwards, the upper straight and fascicled; the
+solitary central spine stout, compressed, curved downwards
+(occasionally an additional straighter upper one), not much
+longer than the radials, the base nearly 2 mm. wide; all the
+spines horny and black-tipped; flowers 3.5 to 5 cm. long with
+very slender and constricted tube, saffron-yellow: fruit green
+seeds large (3 to 3.2 mm, long and 2 mm. in diameter), obliquely
+obovate and curved, smooth and brownish. (Ill. Cact. Mex. Bound.
+t. 74. fig. 8, seeds)  Type, Schott specimens in Herb. Mo. Bot.
+Gard.
+
+"On grassy prairies on the south side of the Babuquibari
+Mountains," Sonora.  Fl. July.
+
+Specimens examined: Sonora (Schott of 1853-4).
+
+Dr. Engelmann remarks that the seeds of this species are larger
+than those of any other Mamillaria known to him.
+
+42. Cactus recurvatus (Engelm.) Kuntze Rev. Gen. Pl. 259 (1891).
+
+  Mamillaria recurvispina  Engelm. Syn. Cact. 265 (1856), not
+    Vries.
+  Mamillaria recurvata  Engelm. Trans. St. Louis Acad. ii.
+    202 (1863).
+
+Globose or depressed-globose, 7.5 to 20 cm. in diameter, simple:
+tubercles ovate, deeply grooved, crowded, somewhat imbricate, 10
+to 12 mm. long: radial spines 12 to 20, bulbous at base,
+compressed, rigid, recurved or flexuous, 8 to 18 mm. long,
+whitish or horny, interwoven with adjacent clusters; central
+spine solitary (sometimes an additional upper one), stouter and
+longer (12 to 20 mm.), dark, mostly strongly recurved and
+appressed (rarely straightish): flowers about 3.5 cm. long,
+yellow (brownish-tinged outside): fruit unknown.  Type, Schott
+specimens in Herb. Mo. Bot. Gard.
+
+From Sonora to southern Mexico.  Fl. June-August.
+
+Specimens examined: Sonora (Schott of 1855).
+
+43. Cactus salm-dyckianus  (Scheer) Kuntze. Rev. Gen. Pl. 261
+    (1891).
+
+  Mamillaria salm-dyckiana  Scheer in Salm, Cact. Hort. Dyck. 134
+    (1850).
+
+Subglobose: tubercles very broad and retuse, almost 2-parted by
+the tomentose groove, with axillary floccose wool: radial spines
+7 or 8, very rigid, widely radiant, somewhat curved, 3 to 3.5 cm.
+long, in older tubercles 3 to 6 additional slender and straight
+or twisted spines; the solitary central spine very stout, erect,
+almost 5 cm. long: flowers and fruit unknown.  Type: Scheer says
+that this plant, brought from Chihuahua by Potts, "unfortunately
+perished," and the description was drawn from fragments, which in
+those days were not apt to be preserved.
+
+Chihuahua.
+
+Specimens examined: Chihuahua ("Salm of 1857 ").
+
+The specimen referred to is in Herb. Mo. Bot. Gard., and reveals
+no additional characters; nor can the label be interpreted,
+except that it indicates that the specimen is from plants
+cultivated successfully in the gardens of Prince Salm-Dyck.
+
+  ++ Flower and fruit remaining central in the very woolly vertex
+     of the plant.
+  ++ Central spine solitary or wanting.
+
+44. Cactus compactus (Engelm.) Kuntze Rev. Gen. Pl. 260 (1891).
+
+  Mamillaria compacta  Engelm. Wisliz. Rep. 21 (1848).
+
+Depressed-globose, 5 to 10 cm. in diameter, simple: tubercles
+short-conical, crowded, 8 mm. long: radial spines 13 to 16,
+rigid, recurved and appressed, interwoven with adjacent clusters,
+whitish or horny, 10 to 20 mm. long; the erect central spine
+often wanting: flowers 3 to 3.5 cm. long and broad, yellow
+(brownish without): fruit oval, green: seeds 1.4 mm. long, smooth
+and yellow. (Ill. Cact. Mex. Bound. t. 74. fig. 2, seeds)  Type,
+Wislizenus of 1846 in Herb. Mo. Bot. Gard.
+
+Mountains of Chihuahua.  Fl. June-July.
+
+Specimens examined: Chihuahua (Wislizenus of 1846): also
+specimens cultivated in St. Louis in 1848, 1850, 1854.
+
+45. Cactus radians. (DC.) Kuntze, Rev. Gen. Pl. 261 (1891).
+
+  Mamillaria radians  DC. Rev. Cact. 111 (1829).
+  Mamillaria pectinata  Engelm Syn. Cact. 266 (1856).
+
+Globose, 3.5 to 7.5 cm. in diameter, simple: tubercles conical,
+from a 4-angled base, lower ones short (4 to 6 mm.), upper
+flower-bearing ones longer (10 to 12 mm.), terete and grooved:
+radial spines 16 to 24, somewhat recurved from a bulbous
+compressed base, stiff and pectinate, horny or whitish (at length
+ashy), interwoven with adjacent clusters, those on lower
+tubercles about equal (6 to 10 mm.), on flower-bearing tubercles
+elongated, mixed with a few stouter ones and fasciculated (lower
+ones 10 to 12 mm. long, upper ones 12 to 18 mm. long and forming
+an apical tuft); centrals none: flowers over 5 cm. long and about
+6 to 7.5 cm. in diameter when expanded, bright sulphur-yellow:
+fruit ovate and green, about 12 mm. long: seeds compressed,
+brownish smooth and shining, 1.8 mm. long. (Ill. Cact. Mex.
+Bound. t. 11)  Type unknown; that of M. pectinata Engelm. is the
+Wright material in Herb. Mo. Bot. Gard.
+
+Extending from the hills along the Lower Pecos to El Paso,
+southwestern Texas, southward through Coahuila and San Luis
+Potosi to southern Mexico.
+
+Specimens examined: Texas (Wright 226 of 1849, also of 1852;
+Evans of 1891): Coahuila (Palmer of 1880; Mrs. Nickels): San Luis
+Potosi (Parry & Palmer 265; Eschanzier of 1891): also specimens
+cultivated in St. Louis in 1853; in Mo. Bot. Gard. in 1892; and
+in Harv. Bot Gard.
+
+Even in the absence of the type I have ventured to refer
+Mamillaria pectinata Engelm. to this species.  Dr. Engelmann had
+concluded that the two were "not sufficiently distinct," and the
+examination of Mexican forms which pass as C. radians abundantly
+confirms this conclusion.  Besides, every character in the
+original description of C. radians applies exactly to these
+Mexican plants and to our Texan specimens as well.  Aside from
+the fact that the Mexican specimens are apt to be more robust, I
+can discover no difference whatever. For discussion of
+relationships see under C. scolymoides.
+
+46. Cactus radians pectenoides, var. nov.
+
+Differs in its cespitose habit, fewer (16 or 17) and stouter
+spines (8 to 9 mm. long), and its larger and longer (10 mm.) less
+deeply grooved tubercles.  Type in Herb. Coulter.
+
+San Luis Potosi.
+
+Specimens examined: San Luis Potosi (Eschanzier of 1891).
+
+47. Cactus corniferus  (DC.) Kuntze, Rev. Gen Pl. 260 (1891).
+
+  Mamillaria cornifera  DC. Rev. Cact. 111 (1829).
+  Mamillaria impexicoma  Lem. Hort. Monov. Cult. 5 (1839).
+  Mamillaria cornifera impexicoma  Salm. Cact. Hort. Dyck.
+    20 (1850).
+
+Globose, 7.5 cm. in diameter, simple: tubercles oblong-ovate, 2
+cm long, crowded, the younger axils woolly: radial spines 15 to
+26, rigid and horny, curved or sometimes straight, reflexed,
+bulbous at base, yellowish (whiter with age) and with dark tips,
+very sharp, 10 to 12 mm, long; the central one much stouter,
+darker, slightly deflexed, 12 to 16 mm long, sometimes wanting:
+flower unknown: fruit obovate, red, 2 cm long: seeds reddish,
+angular, smooth, 2 mm. long.  Type unknown.
+
+From San Luis Potosi to southern Mexico.
+
+Specimens examined: San Luis Potosi (Parry of 1879; Eschanzier of
+1891): also specimens cultivated in Mo. Bot. Gard. in 1892;
+growing in same garden in 1893.  Mamillaria impexicoma Lem.,
+afterwards reduced to a variety, was based upon fewer radial
+spines and no central.  As the central is occasionally wanting in
+connection with the most numerous radials, and present with the
+fewest, such a form would have to be separated solely on the
+absence of the central spine, and even in the original
+description of impexicoma the central spine is only said to be
+"sometimes wanting."  It has been impossible for me to separate
+the forms. It should be said that the fruit and seed characters
+given above were taken front a specimen whose few radials and no
+centrals would undoubtedly refer it to impexicoma.  As yet we are
+ignorant of the flower of C. corniferus. For discussion of
+relationships see under C. scolymoides.
+
+  ++ Central spines 1 to 4.
+
+48. Cactus scolymoides (Scheidw.) Kuntze. Rev. Gen. Pl. 261
+(1891).
+
+  Mamillaria scolymoides  Scheidw Allg. Gart. Zeit. ix. 44
+(1841).
+
+Globose or ovate, 5 to 7.5 cm. high. subsimple: tubercles
+conical, 10 to 16 mm. long, the upper elongated, incurved and
+imbricate: radial spines 14 to 20, straight or often recurved,
+white or horny, 10 to 20 mm. long (the upper the longer); central
+spines 1 to 4, longer (18 to 32 mm.), more dusky, curved, the
+upper ones turned upwards and intermixed with the radials, the
+lower one stouter, longer, and curved downwards: flowers 5 cm.
+long: fruit unknown.  Type unknown.
+
+From the Pecos River, western Texas, westward into southern New
+Mexico, and southward into Chihuahua and San Luis Potosi.
+
+Specimens examined: Texas (Hays of 1858): New Mexico (Bigelow of
+1853): Chihuahua (Wislizenus of 1846): also specimens cultivated
+in St. Louis in 1858.
+
+Specimens collected by Mrs. Anna B Nickels across the Rio Grande
+from Laredo, Texas, and showing neither flower nor fruit, seem to
+intergrade between C. scolymoides and C. scolymoides sulcatus.
+The habit is that of the former, the tubercles are those of the
+latter, while the spines are somewhat different from either.  The
+number of central spines in these specimens is very hard to
+determine, as on the adult tubercle they all assume a radial
+position.  The usual adult arrangement is an apparent absence of
+central spines; 10 to 12 rigid, spreading and more or less
+recurved radials (increasing in length from the lowest), which
+are mostly white or the upper more or less dusky; and above, just
+behind the radial row, 2 or 3 stout recurved-ascending spines,
+which are white with tips more or less reddish-black, one of the
+spines usually much stouter and longer than the others.  This
+form may represent a distinct species, but it seems very unsafe
+to add species to the C. scolymoides group without the fullest
+information.
+
+Prince Salm-Dyck refers C. scolymoides to "M. daimonoceras Lem.
+Cact. gen. nov., p. 5," but no mention of such a name can be
+found in the work referred to.  Labouret refers C. corniferus to
+the same name and reference.  If "M. daimonoceras" was anything
+more than a garden or herbarium name used by Lemaire I have been
+unable to find it, and Dr. Engelmann's notes indicate that his
+search met with the same result.  It is possible that the name
+was applied loosely to this assemblage of closely related forms
+that seem to cluster about C. corniferus.
+
+A most perplexing question of relationship is presented by the
+forms that have been called pectinatus, scolymoides, sulcatus
+(calcaratus), Echinus, and the Mexican forms radians,
+impexicomus, corniferus.  It may be that they are all merely
+varieties of one strong polymorphic type, but our knowledge of
+corniferus is so incomplete, and material of other forms is so
+scanty, that I can not venture to make such an assertion.
+However, it seems probable that radians, pectinatus, scolymoides,
+sulcatus and Echinus all have green fruit, while in impexicomus
+and corniferus it is red.  It has also seemed proper to merge
+radians and pectinatus, also impexicomus and corniferus, and to
+refer sulcatus to scolymoides as a variety.  These seven forms
+are thus reduced at least to four species.
+
+49. Cactus scolymoides sulcatus (Engelm.).
+
+  Mamillaria sulcata  Engelm. Pl. Lindh. 246 (1845), not Pfeiff.
+    (1848).
+  Mamillaria strobiliformis  Muhlenpf. Allg. Gart. Zeit. xvi. 19
+    (1848), not Scheer (1850).
+  Mamillaria calcarata  Engelm. Pl. Lindh. 195 (1850).
+  Cactus calcaratus  Kuntze, Rev. Gen. Pl. 259 (1891).
+
+Differs in its smaller size; proliferous and much more cespitose
+habit, the dilated base of the more spreading tubercles, fewer (8
+to 12) radial spines, usually a single central spine (wanting in
+young plants) and somewhat larger flowers.  (Ill. Cact. Mex.
+Bound. t. 74. fig. 1, seeds)  Type, Lindheimer of 1844 in Herb.
+Mo. Bot. Gard.
+
+Texas, from the Brazos to the Nueces.
+
+Specimens examined: Texas (Lindheimer of 1844; Fendler 34; Wright
+of 1850, 1854, 1857): also specimens cultivated in St. Louis in
+1845, 1848, 1853, 1859.
+
+This seems to represent the northeastern extension of the
+species, and doubtless it will be found merging into it south and
+west of the Nueces.  Curiously enough one of the prominent
+distinctions originally given was the single central spine, while
+in the type specimen there occur tubercles with more than one
+central.
+
+50. Cactus echinus (Engelm.) Kuntze, Rev. Gen. Pl. 260 (1891).
+
+  Mamillaria echinus  Engelm. Syn. Cact. 267 (1856).
+
+Globose or subconical, 3.5 to 6.5 cm. in diameter, simple:
+tubercles terete, conical, grooved above, 10 to 12 mm. long:
+radial spines 16 to 30, pectinate, straight or little curved,
+rigid and appressed (interwoven with neighboring clusters),
+ashy-white (often dusky at apex), 8 to 12 mm. long, the uppermost
+longer (12 to 20 mm.); central spines 3 or 4, the upper ones
+turned upward and intermixed with the radials, the lower one very
+stout, 15 mm. long, subulate from a very thick bulbous base,
+straight (rarely slightly curved) and porrect (deciduous in old
+specimens): flowers 3 to 5 cm. long: fruit oval, elongated, about
+2 cm. long, green: seeds elongated-obovate. brown and smooth,
+about 1.8 mm. long. (Ill. Cact. Mex. Bound. t. 10)  Type, the
+Wright and Bigelow specimens in Herb. Mo. Bot. Gard.
+
+On limestone hills, from the Pecos River, southwestern Texas, and
+southern New Mexico, westward to the Rio Grande (from Presidio
+del Norte northward).  Fl. June.
+
+Specimens examined: Texas (Wright of 1849, 1851, 1852; Bigelow of
+1852; Engelmann, with no number or date; Evans of 1891).
+
+The characteristic appearance of the plant is given by the very
+stout and straight central spine standing in each cluster
+perpendicular to the plant body.  The range of this species,
+between the Pecos and the upper Rio Grande, suggests another
+separated group, such as is presented by C. scolymoides sulcatus
+to the east, between the Brazos and Nueces.  Very frequently
+specimens of C. echinus occur in which some of the tubercles do
+not develop central spines, and then the spine characters
+resemble those of C. radians.  In C. radians, also, an occasional
+porrect central spine is found.  These intergrading forms I have
+only seen in Mexican material.  For discussion of relationships
+see under C. scolymoides.
+
+  ** Flowers red.
+   + Central spine solitary or sometimes wanting.
+
+51. Cactus dasyacanthus  (Engelm.) Kuntze, Rev. Gen. Pl. 259
+    (1891).
+
+  Mamillaria dasyacantha  Engelm. Syn. Cact. 268 (1856).
+
+Subglobose, 3.5 to 6.5 cm. high, simple: tubercles slender and
+terete, spreading, lightly grooved even to the base, 8 to 10 mm,
+long: radial spines 30 to 50, mostly in two series, straight and
+loosely spreading, the exterior ones (25 to 35) capillary and
+white, 6 to 18 mm. long, the interior ones (7 to 13) stiffer
+(setaceous), longer and darker and black-tipped; the central
+spine straight and porrect, 12 to 20 mm. long, often wanting:
+flowers small, red: fruit ovate, small (8 to 10 mm. long?): seeds
+globose-angled, almost black, pitted, 0.8 to 1.2 mm. long  (Ill.
+Cact. Mex. Bound. t. 12. figs. 17-22)  Type, Wright 110 in Herb.
+Mo. Bot Gard.
+
+From Eagle Pass, Texas, westward to El Paso and southern New
+Mexico, and southward into Chihuahua.
+
+Specimens examined: Texas (Wright 110 of 1852): New Mexico (Vasey
+of 1881; Mearns of 1892, in Big Hatchet Mountains) Chihuahua
+(Pringle 251 of 1885, in part).
+
+Pringle 251 as distributed to Nat. Herb. is C. tuberculosus.
+
+52. Cactus maculatus, sp. nov.
+
+Obovate-cylindrical, 6 by 8 cm., somewhat cespitose: tubercles
+ovate, terete, 10 mm. long, grooved to the base, with naked
+axils: radial spines 10 or 11, straight and spreading, rigid,
+blackish (becoming ashy with age), black-tipped, 12 mm. long;
+central spine large, more or less spotted, erect, 25 to 35 mm.
+long: flower 13 mm. long, pinkish: fruit unknown.  Type in Herb.
+Coulter.
+
+San Luis Potosi.
+
+Specimens examined: San Luis Potosi (Eschanzier of 1891).
+
+Somewhat resembles C. tuberculosus in general appearance, but
+very different in spine characters.
+
+53. Cactus brunneus, sp. nov.
+
+Obovate-cylindrical, 3 by 6 cm., simple: tubercles ovate, grooved
+to the base, 5 to 6 mm. long, with woolly axils: radial spines 11
+to 15, spreading, rather rigid and brownish (lighter with age), 8
+to 10 mm. long; central spine much larger, 20 mm, long, hooked:
+flower and fruit unknown.  Type in Herb. Coulter.
+
+San Luis Potosi.
+
+Specimens examined: San Luis Potosi (Eschanzier of 1891).
+
+  ++ Central spines 3 to 12.
+
+54. Cactus conoideus  (DC.) Kuntze, Rev. Gen. Pl. 260 (1891).
+
+  Mamillaria conoidea  DC. Rev. Cact. 112 (1829).
+  Mamillaria strobiliformis  Engelm. Wisliz. Rep. 113 (1848), not
+    Scheer (1850).
+
+Ovate-conical, 3.5 to 10 cm. high, 4 to 7 cm. in diameter below,
+with densely woolly vertex, simple: tubercles conical, about 12
+mm, long, closely appressed-imbricate ("giving the plant the
+appearance of a pineapple or cone"): radial spines 10 to 16, ashy
+to white, straight and stout, 6 to 10 mm. long, the upper longer
+(10 to 15 mm.); central spines 3 to 5, stouter, brownish-black,
+10 to 16 mm. long, the two or three smaller ones erect-spreading,
+the single lower one more rigid, porrect or deflexed, 15 to 20
+mm. long: flowers 2 to 3 cm long and wide, deep purple: fruit
+unknown.  (Ill. DC. Mem. Cact. t. 2)  Type unknown.
+
+On rocks, Coahuila and Nuevo Leon to San Luis Potosi and southern
+Mexico.
+
+Specimens examined: Coahuila (Palmer 378 of 1882; Pringle 3117 of
+1890): Nuevo Leon (Wislizenus of 1847): San Luis Potosi (Poselger
+of 1851; Eschanzier of 1891).
+
+55. Cactus potsii  (Scheer) Kuntze, Rev. Gen. Pl. 261 (1891).
+
+  Mamillaria potsii  Scheer in Salm Cact. Hort. Dyck. 104 (1850).
+
+Cylindrical, 30 to 35 cm. high, 2.5 to 3 cm. in diameter,
+somewhat branching: tubercles ovate, obtuse, very lightly
+sulcate, with somewhat woolly axils: radial spines very numerous
+(entirely covering the whole plant), slender and white; central
+spines 6 to 12, stouter from a broad base: flowers large, green,
+or reddish: fruit red.  Type unknown.
+
+From the Rio Grande region, near Laredo, Texas, to Chihuahua.
+
+Specimens examined: Texas (Poselger of 1851): Chihuahua
+(specimens from Coll. Salm-Dyck.).
+
+56. Cactus tuberculosus  (Engelm.) Kuntze, Rev. Gen. Pl. 261
+(1891).
+
+  Mamillaria strobiliformis  Scheer in Salm Cact. Hort. Dyck. 104
+    (1850), not Muhlenpf. (1848), nor Engelm. (1848).
+  Mamillaria tuberculosa  Engelm. Syn. Cact. 268 (1856).
+
+Ovate to cylindrical, 5 to 15 cm. high, 2.5 to 5 cm. in diameter,
+simple or branching at base: tubercles short-ovate from a broad
+base, 5 to 6 mm. long, deeply grooved, crowded and imbricate, at
+length covering the older parts as naked and gray corky
+protuberances: radial spines 20 to 30, slender but stiff, white,
+radiant and interwoven with adjacent clusters, 4 to 8 mm. long
+(uppermost rarely 10 to 12 mm.); central spines 5 to 9, stouter,
+purplish above, the upper ones longer, erect, 10 to 14 mm. long
+(sometimes even 16 to 18 mm.), the lower one shorter (6 to 8
+mm.), stout, porrect or deflexed: flowers about 2.5 cm. in
+diameter, pale purple: fruit oval, elongated (sometimes almost
+cylindric), red, about 18 mm. long: seeds subglobose, brown and
+pitted, very small (0.8 to 1.2 mm. long).  (Ill. Cact. Mex.
+Bound. t. 12. figs. 1-16)  Type of Scheer's strobiliformis is
+unknown; but the specimens of Prince Salm-Dyck in Herb. Mo. Bot.
+Gard. are marked "authentic" by Dr. Engelmann.  The Wright
+specimens in the same Herb, represent the type of M tuberculosa
+Engelm.
+
+From the mountains of extreme southwestern Texas (common west of
+Devil's River), southward into Chihuahua and Coahuila.  Fl.
+May-June.
+
+Specimens examined: Texas (Wright 18, 19, 20, 23, 24, 29,
+30,31,32, 535, of 1849 and 1852; Bigelow of 1852; Engelmann, with
+no number or date; Evans of 1891): Chihuahua (Pringle 250, 251 in
+part, and 258 of 1885): Coahuila (Palmer of 1880): also specimens
+from Coll. Salm. Dyck in 1857; also growing in Mo Bot. Gard. 1893
+(specimens, sent by G. G. Briggs in 1892 from El Paso, Texas.
+
+The identification of Engelmann's tuberculosa with Scheer's
+strobiliformis was made by Dr. Engelmann himself upon an
+examination of Scheer's type.  The use of the specific name
+tuberculosa is necessitated by the law of homonyms, as
+strobiliformis had been used twice already before it was taken up
+by Scheer.  M. strobiliformis Muhlenpf. is C. scolymoides
+sulcatus; and M. strobiliformis Engelm. is C. conoideus.
+
+57. Cactus viviparus  Nutt. in Fraser's Cat. (1813).
+
+  Mamillaria vivipara  Haw. Syn. Succ. Suppl. 72 (1819).
+
+Low and depressed-globose, usually proliferous and cespitose
+(forming large masses), but sometimes simple: tubercles terete
+and loose, lightly grooved: radial spines 12 to 20, stiff and
+white, often dark-tipped, 6 to 8 mm. long; central spines usually
+4 (sometimes less, often more, even as many as 8), brownish, 8 to
+12 mm. long, 3 spreading upwards, the lowest stouter and shorter
+and deflexed: flowers about 3.5 cm. long (large for the size of
+the plant) and even broader when expanded, bright purple: stigmas
+pointed with a short mucro: fruit oval, pale green, juicy, 12 to
+18 mm. long: seeds yellowish-brown, obliquely obovate and curved
+about the small hilum, 1.4 to 1.6 mm. long).  (Ill. Cact. Mex.
+Bound. t. 74. fig. 3, seeds)  Type unknown.
+
+On the northwestern plains, from the boundary provinces of
+British America (western Manitoba, Assiniboia and Alberta), and
+throughout the Upper Missouri region, southward through western
+Nebraska to western Kansas and to the eastern foothills of
+central Colorado.  It is also mentioned by Howell (Cat. of
+Oregon, Washington and Idaho plants), as occurring beyond the
+Rocky Mountain divide in Idaho and Washington, which is probable,
+but no specimens have been seen.
+
+Specimens examined: Montana (Hayden, nos. 1854, 1855; Vernon
+Bailey of 1890, near Bridger): Colorado (Hayden of 1869):
+Nebraska (Rydberg 1379 of 1893, Thomas Co.): also specimens
+cultivated in St. Louis in 1869; also growing in Mo. Bot. Gard.
+1893.
+
+It seems best to keep this northwestern form specifically
+separate from that large assemblage of southern forms that have
+been commonly referred to it.  The forms referred to this species
+from western Kansas (Smyth's check list) have not been examined,
+and they may represent intermediate forms, inclining to simple
+habit and ovate form, as in the Colorado forms.  The southern
+type (C. radiosus) is distinguished from C. viviparus not only by
+its very different range, but also by its ovate to cylindrical
+form, simple habit, more numerous (12 to 40) and longer (6 to 22
+mm.) radial spines, usually more numerous (3 to 14) central
+spines in which the upper are more robust than the lower, porrect
+lower central, obtuse stigmas, and brown obovate straight seeds.
+
+58. Cactus radiosus (Engelm.).
+
+  Mamillaria vivipara  Engelm. Pl. Fendl. 49 (1849), not Haw.
+    (1819).
+  Mamillaria radiosa  Engelm. Pl. Lindh. 196 (1850).
+  Mamillaria vivipara radiosa texana  Engelm. Syn. Cact. 269
+    (1856).
+
+Ovate or cylindrical, 5 to 12.5 cm. high and about 5 cm. in
+diameter, simple or sparingly proliferous: tubercles terete, more
+or less grooved above, 8 to 12 mm. long: radial spines 20 to 30,
+straight, slender, with with dusky apex, very unequal, 6 to 8 mm
+long; central spines 4 or 5, stouter, yellowish or tawny, 8 to 12
+mm. long, the upper ones the longer and more robust, the lowest
+one shorter and porrect: flowers 3.5 to 5.5 cm. long, about the
+same diameter when fully open, violet to dark purple: stigmas 7
+to 9, obtuse: fruit oval and green: seeds yellowish or brown,
+obovate, pitted, fully 2 mm, long.  (Ill. Cact. Mex. Bound. t.
+74, fig.5, seeds)  Type, Lindheimer of 1846 in Herb. Mo. Bot.
+Gard.
+
+Extending across southern Texas, from the Guadalupe to El Paso.
+thence into contiguous New Mexico and across the Rio Grande near
+Juarez (northern Chihuahua).  Fl. May-June.
+
+Specimens examined: Texas (Lindheimer of 1846): New Mexico
+(Bigelow of 1855): Chihuahua, near Juarez (Evans of 1891): also
+specimens cultivated from the type in St. Louis in 1846.
+
+Attention has been called under C. viviparus to the characters
+that distinguish from C. radiosus  The characters there given for
+the latter species apply to to the whole group of included forms.
+The type of the species is the var. Texana of Engelmann's Syn.
+Cact. and Mex. Bound., which is characterized in the above.
+description.
+
+59. Cactus radiosus neo-mexicanus  (Engelm.).
+
+  Mamillaria vivipara radiosa neo-mexicana  Engelm. Syn. Cact.
+    269 (1856).
+
+Generally lower (3.5 to 10 cm.) and subglobose to ovate or even
+sub-cylindrical, branching at base or simple, with more numerous
+(12 to 40) radial spines, more numerous (3 to 12) and purplish
+centrals, and smaller seeds.  (Ill. Cact. Mex. Bound. t. 74. fig.
+4, seeds)  Type, presumably the Wright, Bigelow, and Schott
+specimens from western Texas, New Mexico, and Sonora, all in
+Herb. Mo. Bot. Gard.
+
+From southern Utah, central Colorado, and western Kansas,
+southward through western Texas, New Mexico and Arizona into
+Chihuahua and Sonora.
+
+Specimens examined: Kansas (Carleton 530 of 1891, in Meade
+County): Oklahoma (Carleton 233 of 1891): Colorado (Hall and
+Harbour of 1862; Brandegee 645 of 1873; Hicks of 1890): Utah
+(Siler of 1870): New Mexico (Wislizenus of 1846; Fendler 244,
+271, of 1847: Wright 298; Bigelow of 1853; G. R. Vasey of 1881):
+Texas (Wright of 1849, 1851, 1852; Bigelow of 1853): Arizona
+(Rothrock, with no number or date): Sonora (Schott of 1855):
+Chihuahua (Evans of 1891, near Juarez).
+
+It is through this variety that C. radiosus approaches most
+nearly to C. viviparus, in the forms with few radials and
+centrals, but the specific characters seem to hold.  This is the
+Mamillaria vivipara of the Syn Fl. Colorado (Porter and Coulter).
+
+60. Cactus radiosus arizonicus  (Engelm.).
+
+  Mamillaria arizonica  Engelm Bot. Calif. i. 244 (1876).
+
+A robust globose or ovate simple form (7.5 to 10 cm. in
+diameter), with long (12 to 25 mm.) deeply-grooved tubercles, 15
+to 20 long (10 to 30 mm.) rigid whitish radial spines, and 3 to 6
+centrals deep brown above.  Type, the specimens of Cous, Palmer,
+Bischoff and Johnson, all in Herb. Mo. Bot. Gard.
+
+Sandy and rocky soil from southern Utah through northern and
+western Arizona to southern California.
+
+Specimens examined: Arizona (Cous of 1865; Cous & Palmer of 1865
+and 1872; Palmer of 1869; Bischoff of 1871; Miller of 1881; Rusby
+617 of 1853; Pringle of 1884): Utah (Johnson of 1871, 1872, 1874;
+Parry of 1875, 1877): California (Parish of 1880): also specimens
+cultivated in Mo. Bot. Gard. in 1881; and in Meehan's Gard. in
+1882.
+
+61. Cactus radiosus deserti  (Engelm.).
+
+  Mamillaria deserti  Engelm. Bot. Calif. ii. 449 (1880).
+
+Subglobose or oval (5 to 10 cm. high) and simple, with deeply
+grooved tubercles (slender and about 12 mm. long), 25 to 30
+rather long (10 to 16 mm.) grayish white radial spines (the
+larger with reddish tips), 3 or 4 shorter and stouter centrals
+with 5 or 6 intermediate ones above, small (2.5 cm. long)
+straw-colored flowers (becoming purplish-tipped), 5 or 6 stigmas,
+and obliquely obovate curved seeds.  Type, Parish 433 in Herb.
+Mo. Bot. Gard.
+
+In the mountains bordering the deserts of southeastern California
+(San Bernardino County) and extending to central Nevada (Reese
+River Valley).
+
+Specimens examined: California (Parish 453 of 1880, also of 1882;
+Bailey of 1890): Nevada, Lincoln County (Coville & Funston of
+1891, Death Valley Expedition): also specimens cultivated in
+Meehan's Gard. in 1882.
+
+The smaller straw-colored flowers alone suggest the propriety of
+keeping this form specifically distinct, but even in size and
+color there is an occasional tendency toward the specific
+character.  The obliquely obovate curved seeds resemble those of
+C. viviparus.  The plant densely covered with stout ashy-gray
+interlocking spines is easily recognized.
+
+62. Cactus radiosus chloranthus  (Engelm.).
+
+  Mamillaria chlorantha  Engelm. Wheeler's Rep. 127 (1878).
+
+Oval to cylindrical (7.5 cm. in diameter, sometimes 20 to 22.5
+cm. high), with 20 to 25 gray radial spines almost in two series,
+6 to 9 stouter reddish or brownish-tipped centrals (12 to 25 mm.
+long), and yellowish or greenish-yellow flowers 3.5 cm. long and
+wide.  Type: Southern Utah specimens of both Parry and Johnson
+occur in Herb. Mo. Bot. Gard., but they are all referred to C.
+radiosus arizonicus, and I can find no trace of any specimens of
+C. radiosus chloranthus in the Engelmann collection.
+
+Southern Utah, east of St. George (Parry; Johnson).
+
+The plant is evidently near C. radiosus deserti, of which variety
+it seems to be the Utah representative, but in the absence not
+only of the type, but even of authentic specimens, the two are
+kept separate, a thing fully justified by the description.
+
+63. Cactus radiosus alversoni, var. nov.
+
+Differs from var. deserti in its more robust and branching habit
+(becoming 12.5 cm. tall and 10 cm. in diameter), shorter and
+thicker tubercles, more numerous (12 to 14 centrals) stouter and
+longer (12 to 22 mm.) spines, all of which are black-tipped (the
+centrals black half way down, shading into red), and pink
+flowers.  Type, Alverson's specimens in Herb. Mo. Bot. Gard. and
+in Herb. Coulter.
+
+In the desert region of extreme southeastern California.
+
+Specimens examined: Southern California (A. H. Alverson of 1892):
+also growing in Mo. Bot. Gard. 1893.
+
+The covering of stout bushy interlocking spines is like that of
+var. deserti, but the black and reddish coloration gives a
+decidedly different appearance.  On account of this appearance of
+a reddish-black brush the plant has been popularly called
+"foxtail cactus."  The decidedly pink flowers were sent by Mr. S.
+B. Parish from specimens growing in cultivation in San Diego, and
+are not from the original collection of Mr. Alverson.
+
+64. Cactus macromeris  (Engelm.) Kuntze Rev. Gen. Pl. 260 (1891).
+
+  Mamillaria macromeris  Engelm. Wisliz. Rep. 13 (1848).
+  Mamillaria heteromorpha  Scheer in Salm. Cact. Hort. Dyck. 128
+    (1850).
+  Mamillaria dactylithele  Labouret, Monogr. Cact. 146 (1858).
+
+Ovate or cylindrical, 5 to 10 cm. high, simple or branching from
+the base and at length cespitose: tubercles large, loose and
+spreading, from a dilated base, more or less elongated (12 to 30
+mm.) and teretish (often incurved), the groove absent in young
+plants and never reaching the axil: radial spines 10 to 17,
+slender and terete, or stouter and often angled, spreading, 12 to
+40 mm. long, whitish (or more or less rose-colored when young),
+straight or a little curved; central spines 4 (or fewer in young
+plants or even wanting), spreading, 25 to 55 mm. long, stouter,
+bulbous at base, mostly black (the lowest the longest and
+stoutest), straight or sometimes curved or twisted: flowers 6 to
+7.5 cm. long and of same diameter, deep red to purple: fruit
+ovate-subglobose, green, 15 to 25 mm, long: seeds
+globose-obovate, yellow, and smooth. 1.2 to 1.6 mm. long. (Ill.
+Cact. Mex. Bound. t. 14 and 15)  Type, Wislizenus of 1846 in
+Herb. Mo. Bot. Gard.
+
+Mostly in loose sand, in the valley of the Rio Grande (on both
+sides of the river), from southern New Mexico to Eagle Pass,
+Texas, and doubtless further down.
+
+Specimens examined: New Mexico (Wislizenus of 1846; Wright 384,
+531, of 1852; G. R. Vasey of 1881): Texas (Wright of 1850, 1851,
+1852; Bigelow of 1852): Chihuahua (Evans of 1891; Budd of 1891):
+also growing in Mo. Bot. Gard. 1893.
+
+This species shows an interesting transition from Coryphantha to
+Echinocactus.  The woolly groove of the Coryphantha extends from
+the spine-bearing areola to the axil of the tubercle, where it
+expands into the flower-bearing areola.  In C. macromeris the
+groove extends only about half way down the tubercle and gives
+origin to the flower-bearing areola on the side of the tubercle;
+while in Echinocactus the flower-bearing areola becomes adjacent
+to the spine-bearing areola and the flower appears at the summit
+of the tubercle.
+
+ARTIFICIAL KEY TO THE SPECIES.
+
+It seems impossible to make a simple artificial key that will
+serve as a useful guide to each individual species and variety.
+Our knowledge of so many of the species is imperfect, that no set
+of characters can be applied throughout.  However, as no plants
+are collected in such fragmentary condition, it will be useful to
+construct a key based upon such characters as are always likely
+to be present, even if specific distinctions are not always
+reached.  In many cases, species are so closely and differently
+related to each other that the complete descriptions will have to
+be consulted to determine the differences, and in such cases the
+artificial key can only indicate the group.  Even the full
+descriptions are very compact, all characters not necessary for
+discrimination having been eliminated.  No attempt need be made
+to determine any species by means of the flowers alone.  In most
+cases more or less of the plant body will be available,
+presenting spine and tubercle characters, and these are used in
+the following key.  The distinction between Eumamillaria and
+Coryphantha, on the basis of grooveless and grooved tubercles
+should always be made out easily.  It may be useful to suggest as
+a caution, however, that often tubercles in drying develop folds
+which simulate grooves, and especially is this true in
+quadrangular tubercles.  In such cases it is necessary to restore
+the original plumpness of the tubercle by boiling, before the
+presence or absence of the groove can be definitely determined.
+The species and varieties are indicated only by their specific or
+varietal names in the following key, and the numbers refer to the
+serial numbers of the synoptical presentation.  Forms occurring
+within the United States are marked with an "*":
+
+                   I. Tubercles never grooved.
+
+                     * Central spines none.
+
+Radials 5 to 9, stout.
+   meiacanthus* (7).
+
+Radials 20 to 40.
+   micromeris* (12), greggii (13).
+
+Radials 40 to 80.
+   lasiacanthus* (10), denudatus* (11).
+
+
+             ** Central spine solitary and not hooked.
+
+              + Central spine longer than the radials.
+
+Radials 7 or 8: tubercles very long (40 to 50 mm.).
+   longimamma (36).
+
+Radials 15 to 20: tubercles 6 to 8 mm. long.
+   eschanzieri (21).
+
+            ++ Central spine shorter than the radials.
+
+Radials 5 to 9, stout.
+   meiacanthus* (7).
+
+Radials 9 to 22.
+   heyderi* (5), hemisphaericus* (6), gummiferus (8), gabbii
+(34),
+   sphaericus (35).
+
+             *** Central spine solitary and hooked.
+
+          + Stems slender cylindric: Lower Californian.
+
+Centrals 1, 20 to 30 mm. long.
+   roseanus (23).
+
+Centrals 1 to 4, 20 to 50 mm. long.
+   setispinus (24).
+
+            ++ Stems depressed-globose to ovate.
+
+Radials 4 to 6, rigid.
+   uncinatus (9).
+
+Radials 8 to 12.
+   wrightii* (15).
+
+Radials 15 to 30.
+   grahami* (19), eschanzieri (21).
+
+Radials 50 to 60.
+   barbatus (18).
+
+   **** Central spines more than one, and none of them hooked.
+
+   + Slender or sometimes stout cylindrical plants, branching at
+     base: Lower Californian.
+
+   brandegei (3), setispinus (24), halei (25).
+
+       ++ Depressed-globose to ovate and stout cylindrical.
+
+         ++ Radials few (3 to 12) and rigid: Mexican.
+
+Radials 3: centrals 3.
+   alternatus (1)
+
+Radials 7 or 8: tubercles 40 to 50 mm. long.
+   longimamma (36).
+
+Radials 10 to 12: tubercles 12 to 15 mm. long.
+   gummiferus (8).
+
+
+   ++++ Radials numerous (16 to 60), capillary or bristle-like.
+
+Radials 15 to 30, slender but rigid (bristly).
+   acanthophlegmus(2), densispinus (4), bispinus (14),
+   rhodanthus (26), sulphureospinus (27), palmeri (29),
+   pringlei (32).
+
+Radials 30 to 60 or more, mostly capillary.
+   tetrancistrus* (22), capillaris (28), texanus* (31),
+   spaerotrichus (33).
+
+   ***** Central spines more than one and but one of them hooked.
+
+Radials 10 to 15.
+   goodrichii* (16), setispinus (24).
+
+Radials 15 to 30.
+   pondii (17), grahami* (19), bocasanus (20).
+
+Radials 30 to 60.
+   tetrancistrus (22).
+
+  ****** Central spines more than one, and more then one of them
+         hooked.
+
+Radials 8 to 12.
+   wrightii* (15).
+
+Radials 30 to 60.
+   tetrancistrus (22).
+
+      II. Tubercles with a more or less prominent groove.
+
+                * Central spines none.
+
+       + Radials whitish and rigid, oppressed (pectinate) and
+         interwoven with adjacent clusters.
+
+Depressed-globose and simple.
+   compactus (44).
+
+Globose and simple.
+   radians* (45), corniferus (47).
+
+Cespitose.
+   pectenoides (46), sulcatus* (49).
+
+            ++ Radials more slender and spreading.
+
+Radials 10 to 17.
+   missouriensis* (37), similis* (38), macromeris* (64).
+
+Radials 30 to 50, capillary.
+   dasyacanthus* (51).
+
+             ** Central spine solitary, not hooked.
+
+                  + Central spine porrect.
+
+Radials 6 to 17.
+   missouriensis* (37), robustior* (39), scheerii* (40).
+
+Radials 30 to 50, white and capillary.
+   dasyacanthus* (51).
+
+             ++ Central spine curved downwards.
+
+Radials 8 to 12.
+   sulcatus* (49).
+
+Radials 12 to 26.
+   robustispinus (41), recurvatus (42), corniferus (47),
+   scolymoides* (48).
+
+            +++ Central spine erect: Mexican.
+
+Radials 7 or 8: central 50 mm. long.
+   salm-dyckianus (43).
+
+Radials 10 or 11: central 25 to 35 mm. long.
+   maculatus (52).
+
+Radials 13 to 16.
+   compactus (44).
+
+         *** Central spine solitary and hooked.
+
+brunneus (53).
+
+   **** Central spines more than one and none of them hooked.
+
+Centrals 2: radials 6 to 20.
+   scheerii* (40), robustispinus (41), recurvatus (42),
+   scolymoides* (48).
+
+Centrals 3: radials 6 to 40.
+   scheerii* (40), scolymoides* (48), echinus* (50),
+   conoideus (54), neo-mexicanus* (59), arizonicus* (60).
+
+Centrals 4 or 5: radials 6 to 40.
+   scheerii* (40), scolymoides* (48), echinus* (50),
+   conoideus (54), tuberculosus* (56), viviparus* (57),
+   radiosus* (58), neo-mexicanus* (59). arizonicus* (60),
+   macromeris* (64).
+
+Centrals 6 or 7: radials 12 to 40.
+   potsii* (55), tuberculosus*(56), viviparus* (57),
+   neo-mexicanus* (59), arizonicus* (60), chloranthus (62).
+
+Centrals 8 to 14: radials 12 to 40 or more.
+   potsii* (55), tuberculosus* (56), viviparus* (57),
+   neo-mexicanus* (59), deserti* (61), chloranthus* (62),
+   alversoni* (63).
+
+               GEOGRAPHICAL DISTRIBUTION
+
+It is only possible to deal with the forms that occur within the
+borders of the United States, as even individual stations of
+common Mexican forms are little if at all known.  These United
+States forms represent a northern extension of an abundant
+Mexican display.  The group EUMAMILLARIA, containing twelve of
+the thirty-one forms defined as occurring north of the Rio
+Grande, makes the feeblest extension northward, at no place being
+found far from the boundary, and all the twelve are Mexican forms
+which extend but slightly into the United States.  Only five of
+the forms are found east of the Pecos: heyderi, the most widely
+distributed EUMAMILLARIA, extending from the southeastern border
+of Texas westward along the whole Mexican boundary except in
+California; hemisphaericus, extending through southern Texas and
+southern New Mexico; meiacanthus, also along the Mexican border
+of Texas and New Mexico; texanus, a low ground form of the Rio
+Grande Valley, extending from the mouth of the river to El Paso,
+and suggesting a connection with the West Indian stellatus; and
+sphaericus, another low ground valley form of similar range, but
+apparently only extending up the Rio Grande to the region of
+Eagle Pass.
+
+The Pecos forms the eastern boundary of five other EUMAMILLARIA
+forms: micromeris, extending northward from Coahuila and
+Chihuahua, apparently only in the mountains between the Pecos and
+El Paso; wrightii, of similar narrow northward extension, but
+ranging further northward on the high plains of the Upper Pecos
+in New Mexico; denudatus, also with a narrow northward extension
+west of the Pecos; lasiacanthus, extending from Chihuahua with a
+northern limit between the Pecos and Arizona; and grahami, a
+Sonoran type which has spread between the Pecos and southeastern
+California.
+
+The ten preceding forms have evidently entered our borders from
+the highlands of Sonora and Chihuahua, with the exception of the
+Rio Grande Valley forms, texanus and sphaericus.  Another
+species, tetrancistrus, is also a Sonoran type which has reached
+the eastern slopes of the mountains of southeastern California,
+and extended through western Arizona to southern Nevada and
+southern Utah, the most extended northern range of any
+EUMAMILLARIA.  The twelfth form, goodrichii, is Lower
+Californian, and extends into California only in San Diego
+County.  A summarized statement of the distribution of our twelve
+EUMAMILLARIA would be that two of them have extended from the low
+grounds of Coahuila and Chihuahua and spread along the valley of
+the Rio Grande; nine have come from the high grounds of Chihuahua
+and Sonora, four of which have extended eastward to the low
+levels of southeastern Texas; four have kept to the highlands
+west of the Pecos, and one has kept to the Colorado Valley and
+its tributaries, while one has a short northern extension from
+Lower California.
+
+The nineteen forms of CORYPHANTHA are decidedly more northern in
+their distribution, and are our characteristic representatives of
+the genus Cactus.  Ten of these, however, are but northern
+extensions of Mexican forms, and six of the ten have simply that
+tongue-like northern extension in the mountains between the Pecos
+and the Upper Rio Grande (above. El Paso), viz.: dasyacanthus,
+tuberculosus, scheerii (which has also spread somewhat east of
+the Pecos), and the three pectinate and closely related forms
+radians, echinus, and scolymoides.  Of the four remaining Mexican
+forms, macromeris is a low ground Rio Grande Valley form,
+extending from above El Paso well towards the Lower Rio Grande;
+potsii just crosses the border in the neighborhood of Laredo; and
+radiosus and neo-mexicanus have by far the greatest northern
+extension, stretching from Sonora and Chihuahua to southern Utah
+and central Colorado, and eastward to the Guadalupe River of
+Texas.
+
+The nine remaining coryphanths are distinctly forms of the United
+States, occupying two well-marked regions, viz.: the northern
+plains, and the desert region of western Arizona and adjacent
+California, Nevada, and Utah.  In the former region is found the
+widespread viviparus, which extends from the southern borders of
+British America to the plains of eastern Colorado and western
+Kansas, and even crosses the Rocky Mountain divide into northern
+Idaho and northeastern Washington; and missouriensis, which also
+ranges from the high prairies of the Upper Missouri to the same
+southern limit, and is continued southward into Texas in its
+varieties similis and robustior.
+
+In the Arizona desert region, four distinct but closely allied
+forms have become differentiated from the strong radiosus stock,
+viz.: arizonicus, deserti, alversoni, and chloranthus, all of
+which might be regarded as distinct species.  In southeastern
+Texas is found an isolated form, sulcatus, occurring between the
+Brazos and Nueces rivers.  That viviparus must be regarded as a
+strong northern extension of the radiosus stock can not be
+doubted, as the low depressed cespitose northern form seems to
+merge southward so gradually into the simple more robust ovate to
+cylindrical forms of radiosus as to suggest the propriety of
+regarding them all as specifically identical.
+
+The result of a closer inspection of the distribution of these
+nearly related forms is worthy of note.  C. viviparus extends
+from British America and the Upper Missouri to eastern Colorado
+and western Kansas; neo-mexicanus (the form most nearly related
+to viviparus) extends from central Colorado and southern Utah
+into Mexico; at the southeastern edge of this range begins
+radiosus and extends eastward through southern Texas; from the
+western edge of neo-mexicanus the form arizonicus extends
+westward into southern California, touching chloranthus at its
+Utah limit, and at its California extension reaching alversoni
+and deserti, the latter of which extends northward into the
+desert region of southeastern California and adjacent Nevada.
+Taking this type as of Mexican origin, it seems to have entered
+the United States from Sonora and Chihuahua, and to have spread
+in three directions, viz.: eastward through southern Texas;
+westward and northwestward into southern California and southern,
+Utah; and northward to the head waters of the Missouri and
+British America, though we would limit the northern extension of
+the present specific type to central Colorado, and would regard
+the still more northern forms as of the same origin but entitled
+to specific rank.
+
+
+           2. ANHALONIUM  Lem. Cact. Gen. Nov. (1839).
+
+Depressed or flattened, simple, unarmed plants, covered with
+peculiar imbricated tubercles above and their scale-like remains
+below: tubercle with lower and upper parts very different; lower
+part comparatively thin and flat; upper exposed part triangular
+in outline and divergent, very thick and hard, the lower surface
+smooth and keeled, the upper surface plane or convex, smooth or
+tuberculate or variously fissured, with a broad wool-bearing
+groove or simply a more or less evident tomentulose apical
+areola: spine-bearing areola obsolete: flower-bearing areola at
+the summit of the lower peduncle-like portion of the very young
+tubercle (thus appearing axillary with reference to the exposed
+part of the tubercle) and bearing a dense penicellate tuft of
+long soft hairs which conceals the lower part of the flower and
+the entire fruit and persists about the apical region of the
+plant as matted and apparently axillary wool: ovary naked: seeds
+large, black, and tuberculate: embryo obovate, straight.
+
+According to the present views concerning generic limitations in
+Cactaceae, Anhalonium must certainly be kept distinct from
+Mamillaria, and to such a view Dr. Engelmann had finally come.
+The generic distinction is based upon such characters as (1) the
+complete suppression of the spine-bearing areolae; (2) the strong
+differentiation of the tubercles into two very distinct regions;
+(3) the production of the flower at the apex of the basal or
+penduncle-like portion (which becomes flattened and expanded at
+maturity) of a very young tubercle; and (4) the large tuberculate
+seeds.
+
+In the case of engelmanni the broad woolly groove of the upper
+portion of the tubercle expands below into the flower-bearing
+areola, but terminates blindly above just behind the sharp apex.
+In prismaticum and furfuraceum the groove is obliterated, but
+there usually remains a small (more or less tufted) areola and
+depression just behind the apex to mark its upper extremity.
+This apical areola therefore, does not represent a spine-bearing
+areola, but the closed upper extremity of a tubercle groove.
+
+It seems evident that Anhalonium is a much modified Cactus, and
+that its affinity is with the coryphanths, through such a species
+as C. macromeris, in which the flower becomes extra-axillary.  If
+in macromeris, with the flower standing well up on the tubercle,
+the portions of the tubercle above and below the flower should
+become very different from each other, the upper portion being so
+much modified as to cause the spine-bearing areola to be
+obliterated, the condition of things in Anhalonium would be
+obtained.
+
+  * Upper surface of tubercle with a broad and deep wool-bearing
+    longitudinal groove which widens below.
+
+
+1. Anhalonium engelmanni  Lem. Cact 42 (1839).
+
+  Mamillaria fissurata  Engelm. Syn. Cact. 270 (1856).
+  Anhalonium fissuratum Engelm. Bot. Mex. Bound. 75 (1859).
+
+Depressed globose or flat, top-shaped below and tapering into a
+thick root, 5 to 12 cm. in diameter: tubercles (upper portion)
+appressed-imbricate, 12 to 18 mm. long and about as wide at base,
+the upper surface convex and variously fissured (presenting an
+irregular warty appearance) even to the edges: flowers apparently
+central, about 2.5 cm. long and broad, shading from whitish to
+rose: fruit oval, pale green, about 10 mm. long: seeds 1.6 mm.
+long. (Ill. Bot. Mex. Bound. t. 16)  Type unknown; but specimens
+of Wright, Bigelow, and Parry in Herb. Mo. Bot. Gard. are the
+basis of Engelmann's Mamillaria fissurata.
+
+On limestone hills, in the "Great Bend" region of the Rio Grande
+in Texas, and southward into Coahuila.  Fl. September-October.
+
+Specimens examined: Texas (Wright of 1850; Bigelow of 1852;
+Parry, with no number or date; Lloyd of 1890; Evans of 1891;
+Briggs of 1892): also growing in Mo. Bot. Gard. 1893.
+
+This species is very closely related to the Mexican A. kotchubeyi
+Lem. (A. sulcatum Salm-Dyck), but unfortunately no type of that
+species seems to be in existence, and Dr. Engelmann notes (Mex.
+Bound. Rep. 75) that "it seems no living or dead specimen is at
+present extant in Europe."  Judging from the description, the
+upper surface of the tubercles in A. kotchubeyi, aside from the
+central furrow, is smooth; at least the margin is "very entire."
+
+  ** Upper surface of tubercle not grooved, but usually with a
+     tomentose pulvillus at the tip.
+
+
+2. Anhalonium prismaticum  Lem. Cact. 1 (1839).
+
+  Mamillaria prismatica  Lem. Hort. Univ. i. 231 (1839).
+  Cactus prismaticus  Kuntze, Rev. Gen. Pl. 261 (1891).
+
+Flat above, top-shaped below, 7.5 to 12.5 cm. in diameter:
+tubercles (upper portion) close]y imbricate but squarrose-
+spreading, sharply triangular-pyramidal and very acute (with a
+sharp cartilaginous tip, which usually disappears with age and
+leaves the older tubercles blunt or retuse), 18 to 25 mm. long
+and about as wide at base, the upper surface almost plane and
+smooth, except that it is more or less pulverulent and usually
+bears a small tomentose pulvillus (often evanescent later) just
+behind the claw-like tip: flowers rose-color: fruit elongated-
+oval and reddish. (Ill. Lem. Cact. t. 1.)  Type unknown.
+
+Referred to Mexico in general, but reported definitely only from
+San Luis Potosi.  Undoubtedly found in Coahuila, and possibly
+crosses the Rio Grande in the region of the "Great Bend."
+
+Specimens examined: San Luis Potosi (Eschanzier of 1891): Mexico
+in general (specimens from Coll. Salm-Dyck in 1858; Schott of
+1858): also specimens cultivated in Mo. Bot. Gard. in 1881; also
+growing in same garden in 1893.
+
+3. Anhalonium furfuraceum  (Watson).
+
+  Mamillaria furfuracea  Watson, Proc. Amer. Acad. xxv. 150
+(1890).
+
+Very closely related to prismaticum; but triangular portion of
+tubercle acuminate and shorter, having an irregularly mamillate
+upper surface, and the acumination ending abruptly in a
+cartilaginous depression containing a tomentose pulvillus:
+flowers 2.5 to 3 cm. long, white or pinkish, the sepals brownish.
+Type, Pringle 2580 in Gray Herb.
+
+At Carneros Pass, Coahuila.
+
+Specimens examined: Coahuila (Pringle 2580 of 1889).
+
+The type of this species was not among the collections received
+from Cambridge, but a specimen of the same distribution from the
+National Herbarium shows tubercle dimensions different from those
+recorded in Dr. Watson's description.  In that description the
+triangular terminal surface is said to be "about an inch broad by
+one-half inch," which is decidedly different from the equilateral
+surface of the tubercle of prismaticum.  In the National
+Herbarium specimen of furfuraceum, however, of the same
+distribution, the surface is almost equilateral, measuring 15 mm.
+long by 18 mm. wide at base.  Without the acuminate upper portion
+the breadth of the triangular portion would be about double its
+length.  The lower rim of the cup-like depression which
+terminates the tubercle and contains the pulvillus is sometimes
+slightly prolonged into a tooth, which in prismaticum becomes the
+sharp tip of the tubercle.  The "minutely
+furfuraceous-punctulate" character of the tubercle is common to
+all the species of Anhalonium I have seen, and simply represents
+the external openings of the remarkably long cuticular
+passageways to the stomata.
+
+4. Anhalonium pulvilligerum  Lem. Cact. (1839).
+
+  Anhalonium elongatum  Salm-Dyck (1850).
+
+This seems to be a third grooveless Mexican species.  I have seen
+no specimens, but judge from the description that it differs from
+the two preceding species chiefly in its less crowded and more
+elongated tubercles (triangular portion 5 cm. long by 2.5 cm.
+broad at base), which are covered at apex with a tomentose
+pulvillus.
+
+                    GEOGRAPHICAL DISTRIBUTION.
+
+This curious genus is strictly Mexican, and, so far as at present
+recorded, is characteristic of Coahuila, but a single species
+(engelmanni) of the four or five known crossing the Rio Grande in
+the Great Bend.
+
+
+                      3. LOPHOPHORA,  gen. nov.
+
+Depressed-globose, proliferous and cespitose, tuberculate-ribbed,
+unarmed plants: tubercles at first conical and bearing at summit
+a flower-bearing areola with a dense tuft or short pencil of
+compact erect hairs, when mature becoming broad and rounded (with
+the remnant of the penicellate tuft as a persistent pulvillus in
+a small central depression) and coalescing into broad convex
+vertical ribs: spine bearing areolae obsolete: flowers borne at
+the summit of nascent tubercles: ovary naked (that is free from
+scales, but often downy): fruit and seed unknown.
+
+These forms have been variously referred to Anhalonium and
+Echinocactus, but seem to deserve generic distinction.  They
+differ from Anhalonium in the entire suppression of the upper
+highly differentiated portion of the tubercle, in the broad and
+rounded development of the lower portion, and in the coalescence
+of the enlarged tubercles into broad vertical ribs.  In fact, in
+young specimens, the plant appears almost smooth, with shallow
+furrows radiating from the depressed apex.  The genus differs
+from Echinocactus in the suppression of the spine-bearing
+areolae, and the naked ovary.  In the examination of developing
+tubercles the relation to Anhalonium is evident.  In the latter
+genus the young tubercle bears on the summit of its pedicel-like
+lower portion the tufted flower-bearing areola the modified upper
+portion of the tubercle at that time appearing as a bract beneath
+the flower.  In Lophophora there is the same condition of things,
+except that the bract-like upper portion is wanting.  From this
+point of view it would appear that the differences between
+Lophophora and Echinocactus are intensified by the fact that the
+flower-bearing areola in the former genus is to be regarded as
+really lateral on a tubercle the upper part of which has
+disappeared.  This genus occurs abundantly in southeastern Texas,
+extending southward into Mexico.  Mrs. A. B. Nickels reports that
+the Indians use the plants in manufacturing an intoxicating
+drink, also for "breaking fevers," and that the tops cut off and
+dried are called "mescal buttons."
+
+1. Lophophora williamsii  (Lem).
+
+  Echinocactus williamsii  Lem. Allg. Gart. Zeit. xiii. 385
+(1845).
+  Anhalonium williamsii  Lem. in Forst Handb. Cact. i. 233
+(1846).
+
+Hemispherical, from a very thick root, often densely proliferous,
+transversely lined below by the remains of withered tubercles:
+ribs usually 8 (in young specimens often 6), very broad,
+gradually merging above into the distinct nascent tubercles which
+are crowned with somewhat delicate penicellate tufts, which
+become rather inconspicuous pulvilli on the ribs: flowers small,
+whitish to rose: stigmas 4.  (Ill. Bot. Mag. t. 4296)  Type
+unknown.
+
+Along the Lower Rio Grande, Texas, and extending southward into
+San Luis Potosi and southern Mexico.
+
+
+
+
+
+End of this Project Gutenberg Etext of A Preliminary Revision of
+the North American Species of Cactus, Anhalonium, and Lophophora
+by John M. Coulter.

@@ -1,0 +1,1245 @@
+﻿The Project Gutenberg EBook of Remarks on a Pamphlet Lately published by
+the Rev. Mr. Maskelyne, Under the Authority of the Board of Longitude, by John Harrison
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Remarks on a Pamphlet Lately published by the Rev. Mr. Maskelyne,
+       Under the Authority of the Board of Longitude
+
+Author: John Harrison
+
+Release Date: September 5, 2011 [EBook #37321]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK REMARKS ON A PAMPHLET ***
+
+
+
+
+Produced by Markus Brenner and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+                                REMARKS
+                                 ON A
+                               PAMPHLET
+
+                        Lately published by the
+                         Rev. Mr. _MASKELYNE_,
+
+                      Under the AUTHORITY of the
+                          BOARD OF LONGITUDE.
+
+
+                           By JOHN HARRISON.
+
+
+                          THE SECOND EDITION.
+
+
+                               _LONDON:_
+                 Printed for W. SANDBY in Fleetstreet.
+                              MDCCLXVII.
+
+                           (PRICE SIXPENCE.)
+
+
+
+
+REMARKS, ON A PAMPHLET, &c.
+
+
+A Publication having lately been made by the Rev. Mr. _Maskelyne_
+Astronomer Royal, under the Authority of the Board of Longitude,
+manifestly tending, by the Suppression of some Facts and the
+Misrepresentation of others, to impress the World with an unjust Opinion
+of my Invention, and falsely asserting that my Watch did not at certain
+Periods therein mentioned keep Time with sufficient Exactness to
+determine the Longitude within the Limits prescribed by the Act of the
+12th of Queen _Anne_; I think it incumbent upon me to submit some
+Observations thereon to the impartial Publick; and the rather, because
+the said Pamphlet is rendered so confused by unnecessary Repetitions,
+and voluminous Tables, that a Man must be pretty conversant in these
+Matters, to trace and combine the Facts, so as to check the
+Conclusions, which would consequently be taken upon Trust by the
+generality of Readers, unless publickly contradicted. As it will be my
+Endeavour so far to avoid the Use of all Terms of Art as to make the
+Subject generally intelligible, I flatter myself I shall not be thought
+impertinent for giving a short Explanation (though quite unnecessary to
+the far greater Part of my Readers) of what the Longitude is, and what
+the Service required of the Watch.
+
+The Longitude of any Place is its Distance East or West from any other
+given Place; and what we want is a Method of finding out at Sea, how far
+we are got to the Eastward or Westward of the place we sailed from. The
+Application of a Time-Keeper to this Discovery is founded upon the
+following Principles: The Earth’s Surface is divided into 360 equal
+Parts (by imaginary Lines drawn from North to South) which are called
+Degrees of Longitude; and it’s daily Revolution Eastward round it’s own
+Axis is performed in 24 Hours; consequently in that Period, each of
+those imaginary Lines or Degrees, becomes successively opposite to the
+Sun (which makes the Noon or precise Middle of the Day at each of those
+Degrees); and it must follow, that from the Time any one of those Lines
+passes the Sun, till the next passes, must be just four Minutes, for 24
+Hours being divided by 360 will give that Quantity; so that for every
+Degree of Longitude we sail Westward, it will be Noon with us four
+Minutes the later, and for every Degree Eastward four Minutes the
+sooner, and so in Proportion for any greater or less Quantity. Now, the
+exact Time of the Day at the Place where we are, can be ascertained by
+well known and easy Observations of the Sun if visible for a few Minutes
+at any Time from his being ten Degrees high ’till within an Hour of
+Noon, or from an Hour after Noon ’till he is only 10 Degrees high in the
+Afternoon; if therefore, at any Time when such Observation is made, a
+Time-Keeper tells us at the same Moment what o’Clock it is at the Place
+we sailed from, our Longitude is clearly discovered. To do this, it is
+not necessary that a Watch should perform it’s Revolutions precisely in
+that Space of time which the Earth takes to perform her’s; it is only
+required that it should invariably perform it in _some known Time_, and
+then the constant Difference between the Length of the one Revolution
+and the other, will appear as so much daily gained or lost by the Watch,
+which constant Gain or Loss, is called _the Rate of its going_, and
+which being added to or deducted from the Time shewn by the Watch, will
+give the true Time, and consequently the Difference of Longitude.
+
+I shall now proceed to make such Remarks as occur to me on Perusal of
+Mr. _Maskelyne_’s Pamphlet.
+
+Mr. _Maskelyne_ begins by telling us that the Board of Longitude, at
+their Meeting, _April_ 26, 1766, came to a Resolution that my Watch
+should be tried at the Royal Observatory under his Inspection, and that
+he accordingly received it on the 5th of _May_, 1766. He then says, “I
+most Days wound up and compared the Watch with the transit Clock of the
+Royal Observatory myself; at other times it was performed by my
+Assistant _Joseph Dymond_, and afterwards _William Baily_; this was
+always done in the Presence of, and attested by one of the Officers of
+_Greenwich_ Hospital, when he came to assist in unlocking the Box in
+which the Watch is kept, in order to its being wound up.”
+
+Not one of those Attestations appears in the Book: Perhaps Mr.
+_Maskelyne_ thinks his Assertion of the Fact will be sufficient for the
+Publick, and indeed so it might have been to me, had I not received
+different Information: But the Truth is, the Commissioners appointed a
+Set of Gentlemen to attend by Rotation the winding up of the Watch; they
+were to unlock the Box the Watch was in, to see it wound up and compared
+with the Clock, then to lock the Box again and take the Key with them,
+and Mr. _Maskelyne_ was to have another Key, there being two Locks to
+the Box:[1] The Officers of _Greenwich_ Hospital were appointed for
+this Service, some of whom from the Infirmities of Age, and Misfortunes
+in the Service, were scarce able to get up the Hill to the Observatory,
+so that when they came there, as can be proved from undoubted Eye
+Witnesses, they only unlocked the Box, sate down ’till Mr. _Maskelyne_
+had done what he thought proper, and then locked the Box again, and
+departed: and whatever Attestation they may be supposed to have made, I
+can prove that at several Times when Gentlemen of my Acquaintance
+happened to be present, the Attendance of the Officers was by no Means
+an effectual Check upon the Comparison of the Watch with the Clock. I
+would not be thought to accuse those Gentlemen of Neglect of the Duty
+imposed upon them; on the contrary I applaud their Diligence in being
+ready at all Hours of the Day to attend when Mr. _Maskelyne_ was pleased
+to appoint; and therefore I will even for the present (though contrary
+to Fact) suppose they have been the Check proposed by the Commissioners
+of Longitude against any unfair Access _to the Watch_, still _the Clock_
+with which it was compared _was left entirely in_ Mr. Maskelyne_’s
+Power_, and an Alteration of the one could not but produce just the same
+Effect as an Error of the other, nor is there even the least _Pretence
+of a Check_ either on the Clock, or on its Comparison with Observations
+of the Sun; nay on the contrary, Mr. _Maskelyne_ did at this Time take
+the Key of the Clock from Mr. _Dymond_ in whose Custody it used to be,
+and kept it himself.
+
+Mr. _Maskelyne_ then proceeds to give us an Account of the Watch’s
+going from Day to Day, which in his 15th Page he concludes thus: “From
+the foregoing Numbers it appears, that the Watch was getting from the
+very first near 20 seconds per day; a circumstance which is not my
+business to account for; but which, as it kept near mean Time in the
+Voyage to Barbadoes, seems to shew that the Watch cannot be taken to
+pieces and put together again without altering its Rate of going
+considerably, contrary to Mr. _Harrison_’s Assertions formerly.”
+
+When I made the Discovery, upon Oath, of the Principles and Construction
+of the Watch, to six Gentlemen appointed by the Board of Longitude and
+to Mr. _Maskelyne_, (who insisted on having a Right to attend, as being
+a Commissioner) which Discovery was finished on the 22d Day of _August_,
+1765, as appears by the annex’d Certificate,[2] the Watch then remained
+in my Hands, all taken to pieces: I little imagined the Board of
+Longitude would take it from me, as not conceiving any Use they could
+make of it; and having besides received Assurances from them, that they
+only wanted the formal Delivery of it, in compliance with the Terms of
+the new Law, without meaning to deprive me of the Use of it: I therefore
+went on making some experiments, and alter’d the Rate of its going,
+thereby to determine a Fact I wanted to be satisfied about. The Watch
+was under this Experiment the latter End of _October_, 1765, when upon
+receiving the Certificate for the Remainder of the first Moiety of my
+Reward, I was ordered to deliver it to the Board. My Son, attending with
+it, being asked if it was then as fit as before to ascertain the
+Longitude, reply’d in the Affirmative; for as I have before shewn, the
+_Rate of its going_, when once ascertained, does not prevent its keeping
+the Longitude. He was not asked the present Rate of its going, nor could
+he have answer’d with precision if he had, because we had not had Notice
+sufficient to determine that Point; but we did, at that Time, tell
+several of our Friends that it went about 18 or 19 Seconds a Day,
+_fast_, and we have at several Times since (without ever dreaming that
+this was to become a Point of public Discussion) had Occasion to mention
+the same Thing to several Members of Parliament, Commissioners of
+Longitude and other Gentlemen, insomuch that we did not believe any body
+was uninformed of it, who at all attended to the Business of the
+Longitude.
+
+This may serve to account for the Circumstance which Mr. _Maskelyne_
+declares, _it was none of his Business to account for_, why the Watch
+was getting near 20 Seconds per Day; but as to _his Inference_, I must
+say it betrays the most absolute Ignorance of Mechanics, and of this
+Machine in particular, in which it is obvious (and for this Fact I
+appeal to the Watchmakers who saw it taken to Pieces) that its going at
+the same Rate when put together again, as before, depends (if none of
+the Parts are alter’d) upon nothing more complicated _than putting a
+single Screw into the same Place from whence it was taken_. Indeed this
+Passage, and the ignorant and puerile Remarks which Mr. _Maskelyne_ has
+been suffer’d to prefix to my written Description of the Watch (to the
+Disgrace of this Country in those foreign Translations it has already
+undergone) bring strongly to my Remembrance an Observation made by some
+of the Gentlemen present at the Discovery, “that they wonder’d at his
+Patience in attending so long to a Subject he seem’d so totally
+unacquainted with.”
+
+Mr. _Maskelyne_ then proceeds to tell us of a Change that happen’d in
+the going of the Watch, and says, “this Change began in the Beginning of
+_August_, on the few and only hot Days we had last Summer, which yet
+were not extreme, the Thermometer within Doors having never risen above
+73°. The Rest of the Summer in general was remarkably cool and
+temperate.” When I took this Watch to Pieces I informed Mr. _Maskelyne_
+and the other Gentlemen, that in trying any Experiments with it, in
+Respect to Heat and Cold, it would be proper that it should be so fixed
+that, as far as could be, the Heat should have an equal Influence on all
+Sides of it; and it is obvious that the Thermometer ought to have been
+kept in the same Box with it; but as this was not done, I apprehend the
+Effects of Heat mention’d above do not merit much Attention; and
+therefore shall only observe that the Watch was placed in a Box with a
+Glass in the Lid and another in one Side, in the Seat of a Window level
+with the lowest Pane of the Window, and exposed to the South East,
+whilst the Thermometer, which was to ascertain the Degree of Heat the
+Watch was exposed to, was placed in a shady Part of the Room: Now ’tis
+obvious that while the Air surrounding the Thermometer might be very
+temperate, there might, if the Sun shone upon it, be a heat in the Box,
+superior to what was ever felt in the open Air in any Part of the World;
+and perhaps greater than any human being could subsist in, and
+consequently improper, or at least unnecessary for this experiment.
+
+Mr. _Maskelyne_ next tells us of an irregularity which he says happened
+in cold Weather, and says, “However, it seems in general that the Frost
+must have been the cause of these irregularities, as well as of the
+Watch’s going so much slower in the Month of _January_, than it had gone
+before.” Mr. _Maskelyne_ ought along with this, to have published what I
+told him when I explained it; that the Provision against the effects of
+Heat and Cold was not _in this Machine_ extended to all Degrees; that I
+never had tryed it so low as the freezing Point, which according to the
+best Informations I have been able to procure is a Degree of Cold _that
+never did exist between the Decks of a Ship at Sea_, in any Climate yet
+explored by Mankind.
+
+Mr. _Maskelyne_ then comes to the Rate of its going in different
+Positions; and says, “It is obvious, these last-mentioned Trials of the
+Watch in a vertical Position could not be designed to shew how near it
+would go at Sea, where it can never obtain these Positions: the Intent
+of them is to prove how near Mr. _Harrison_’s Execution of his Watch
+comes up to his Principles, with respect to the making all the Arcs
+described by the balance, whether large or small, to be performed in the
+same Time, as Mr. _Harrison_ asserts them to be.” Mr. _Maskelyne_ here
+also might have had Candour enough to inform the Public, as I did him,
+that although the Watch was quite sufficient to answer the Purposes
+required of it in Navigation, and to fulfil what was prescribed by the
+Act of Queen _Anne_, yet it was far from being in a state of Perfection,
+_as an universal exact Time-Keeper for every Purpose_: I shew’d him and
+the rest of the Gentlemen the Reasons why the Machine then before them,
+would not go at the same Rate in such different Positions _into which
+the Motion of a Ship could never put it_; and whilst I explained to them
+those Imperfections in the particular Machine we were examining, I also
+in the clearest Manner I was able, pointed out the means of remedying
+them with certainty in others, which the Gentlemen skill’d in Mechanics
+seem’d perfectly to comprehend, and to be satisfied of the Truth which I
+again assert, that Watches made on my Principles will endure a much
+greater Motion and change of Position than they can ever be subject to
+in a Ship; and that they will not be affected by any Degree of Heat or
+Cold, in which a Man can live.
+
+If any Thing was meant to be concluded with respect to me by this
+Experiment, either in Point of Property or of Reputation, common Justice
+would have required that I should have had an Opportunity of seeing the
+Facts ascertained; and when such a Trial was directed as put the Result
+in the absolute Power of a single Person, that I should have been
+satisfied of his Integrity, Disinterestedness and Ability for the
+purpose. I would not be understood to attack Mr. _Maskelyne_’s Knowledge
+of the Theory of Astronomy; as for any Thing I know to the contrary, it
+may be of the very first Rate, especially as the Commissioners have
+thought proper to entrust him with the Execution of their commands; and
+which he has ever been as ready to undertake: But alas! as to his skill
+in Mechanics, he knows little or nothing of the matter he has ventur’d
+to take in Hand.
+
+I think it more consistent with the respect I owe to the Public, and
+myself, to speak out plainly, than to have recourse to _Insinuations_,
+on a Subject of this nature: I therefore declare, that I am not
+satisfied with the Truth of his reporting other Observations relative to
+the Longitude, as I do maintain that in both his Voyages the
+Observations which he said he made the Land by, were not calculated till
+after he had seen the Land; and I am certain those he has given, in the
+Publication now before us, are not genuine, for he pretends to find each
+Observation of the Transit of the Sun to the hundredth part of a Second
+of Time,—a Degree of exactness about twenty Times beyond what any other
+Observer has hitherto found practicable: Moreover I know him to be
+deeply interested in the Lunar Tables, a Scheme set up some Years ago
+for the Reward in Competition with my Invention, and for which large
+Sums of Money have already been paid by the Public.
+
+Although I flatter myself the Reader is already in Possession of very
+sufficient Reasons for rejecting the whole Pamphlet as partial and
+inconclusive, yet I entreat his patient Attention whilst I advance one
+step farther, and shew, that although Mr. _Maskelyne_ has presented us
+with a set of Observations which _according to his mode of Calculation_,
+prove what he advances, yet those very Observations when rightly
+reasoned upon _prove the contrary_; and that in each of the Periods he
+refers to, except those of the severe Frost and improper Positions
+(against which Mr. _Maskelyne_ ought to have informed the World I never
+warranted this particular Watch) it kept Time with sufficient
+correctness to determine the Longitude within the limits of the Act of
+Queen _Anne_.
+
+The Reader by this Time knows enough of the Subject to see, that in
+order to try whether the Watch would or would not keep Time with
+sufficient Exactness to determine the Longitude, Mr. _Maskelyne_’s first
+Operation, after receiving it, should have been to ascertain _the Rate
+of its going_. But no such Thing happened: he knew it had not gone
+exactly correspondent to mean Time, during the Voyage to _Barbadoes_; it
+had been publickly enough declared that its Rate of going had been since
+altered; and, if he had not received that Information, he might nay must
+have discovered it in the first 24 Hours Tryal; however, without once
+attending to this _essential Circumstance_, he goes to work, comparing
+the first Period of six Weeks (which he observes is generally reckoned
+the Term of a West-India Voyage) when it was in an horizontal Position,
+with _mean Time_, instead of _the corrected Time_, and each succeeding
+Period with that immediately preceeding it! Who can hesitate in
+pronouncing that his Conclusions must be all erroneous? He should first
+have ascertained the Rate of its going by a Length of Observations of
+the Sun or Stars, or by a perfect Pendulum Clock if he had such a one,
+and then have corrected the Time shewn by the Watch accordingly.
+However, supposing for a Moment his _Facts_ to be genuine, I will deduce
+the _real Result_ in the best Manner the Observations will admit,
+rejecting those made while the Watch was in improper Positions, and
+those during the Frost, for the same Reasons that Mr. _Maskelyne_ lays
+no Stress upon them, and for those I have already stated. I shall
+therefore (pursuing his Idea of six Weeks) take it during the first
+tranquil six Weeks that it had, viz. from _July_ the 6th, to _August_
+the 17th, in which Time it gained in all 11 Minutes, 50 Seconds, or
+16-9/10 Seconds per Day which I will assume as the Rate of its going, or
+if Mr. _Maskelyne_ pleases I will take the Average of his whole Time of
+Examination, from the 6th of _July_ to the 3d of _January_ and from the
+9th of _January_ to the 4th of _March_, which will come out at the Rate
+of 16-8/10 Seconds per Day fast, and I say that according to either of
+those Rates of going, the Watch kept the Longitude within the Limits of
+the Act of Queen _Anne_, during any Period of six Weeks that can be
+pointed out, excepting those of extreme Cold, and improper Position
+which have already been explained. I do not trouble the Reader with the
+Calculations: If I assert an Untruth, I shall hardly escape
+Contradiction.
+
+There is another Inaccuracy, which tho’ of less Consequence, ought not
+to escape notice. One would naturally suppose when Mr. _Maskelyne_ found
+the Watch went at this Rate of gaining on Mean Time, he would have been
+very exact in his Time of comparing it with his Clock; but on the
+contrary we find he was so irregular as to vary his Comparisons on
+succeeding Days from half an Hour to four Hours and 48 Minutes, and this
+not for a Time or two, but for one third of the whole Time he had it.
+
+Mr. _Maskelyne_ having shewn from the Result of his Calculation (which I
+have here proved to be false) that the Watch is not to be depended upon
+to determine the Longitude in a Voyage of six Weeks, then says, “these
+Considerations are sufficient to explain the Motives which might have
+actuated Mr. _Harrison_, as a Man of Prudence, in desiring to send his
+Watch two Voyages to the West Indies, upon his Idea that he should be
+intitled to the large Rewards prescribed in the Act of the 12th of Queen
+_Anne_, in Case his Watch kept Time within the Limits there mentioned,
+whether the Method itself was or could be rendered generally useful and
+practicable, or not;” this Insinuation _(published under the Authority
+of the Commissioners of Longitude)_ that I had contrived a Trial which I
+knew the Watch would fulfil, whilst I was conscious that it would not
+answer the general Purposes of the Act of Queen _Anne_, and consequently
+that I had formed a villainous Scheme to rob the Publick of the Reward
+without really and effectually performing the Conditions, strikes me as
+a Charge of so atrocious a Nature, that I think myself not only
+_justified_ in publishing to the World what has been done with respect
+to Trials of the Merit of my Invention, but even _indispensably obliged_
+so to do. I well know what I hazard thereby, and if the rest of my
+Reward cannot be obtained on Principles of _National Faith_ and _Publick
+Spirit_, I am contented to forego it, but I will not descend into the
+Grave loaded with that Dishonour which my Enemies, availing themselves
+of their Rank or Offices, have, in various Ways, attempted to throw upon
+me.
+
+In the first Place I must remark, that the Trial referred to was not
+fixed _by me_, but by _an Act of Parliament_ passed so long ago as the
+Year 1714, which (after vesting certain discretionary Powers in
+Commissioners to judge what Methods are likely to prove practicable, and
+authorizing them to issue smaller Sums of Money) goes on to fix the last
+grand Test of the Merit of any such Invention, and enacts “that when a
+Ship, under the Appointment of the said Commissioners, shall thereby
+actually sail from _Great Britain_ to the _West Indies_ without losing
+her Longitude beyond certain Limits, the Inventor shall be intitled to
+certain Rewards.” Having from the Year 1726, employed myself in
+adapting those Principles which I had _at that Time_ executed in a
+Pendulum Clock, to an Instrument or Time-Keeper so constructed as to
+endure the Motion of a Ship at Sea, and having made a Voyage to _Lisbon_
+and done sundry other Things during a Course of Years, mostly under the
+Direction of the Commissioners of Longitude, by way of preparatory
+Experiments, I thought the Invention sufficiently perfect about the
+latter End of the Year 1760, to go upon the ultimate Trial, which I
+accordingly applied for. My Son, after being sent to _Portsmouth_ with
+the third Time-keeper (the fourth or Watch being to be sent to him) was
+kept there five Months, waiting for Orders; which having by returning to
+_London_ at Length obtained, he went to _Jamaica_ in the _Deptford_ Man
+of War, and returned in the _Merlin_ Sloop of War, having fulfilled
+every Instruction of the Commissioners. It remained to compute from the
+Astronomical Observations made at _Portsmouth_ and _Jamaica_, whether
+the Watch had or had not kept the Longitude within the prescribed
+Limits; and as my Title to 20,000_l._ was to be determined thereby, I
+thought it but reasonable that I should name some Person to check the
+Computations, _which was refused_. The Commissioners appointed three
+Gentlemen for that Purpose, and on receiving their Report were pleased
+to declare _that the Watch had not kept its Longitude within the above
+mentioned Limits_.[3] Thoroughly convinced of the contrary (for I had
+the same Materials they had to calculate from) I required a Copy of the
+Computations _which was also refused me_; nor could I ever obtain a
+Sight of them either officially or through private Favour, ’till three
+Years afterwards, when they were ordered to be laid before the House of
+Commons; and it then appeared that two of the three Computations were
+absolutely inconclusive, proving nothing, and the third decided in my
+Favour. Further Proof of the Watch having succeeded in this Voyage may
+be found in the Journals of the House of Commons, Vol. XXIX. P. 546, in
+the Evidence of _George Lewis Scott_ Esq; and Mr. _James Short_.
+
+The Reader will easily believe I did not feel perfectly easy under this
+Treatment of an Invention to the perfecting of which (encouraged by the
+long continued Patronage of a _Graham_, a _Halley_, a _Folkes_, &c.
+&c.——learned Friends to Society, and Publick Good, whose Minds were
+too enlarged, and Spirits too liberal to admit that _little_ Jealousy of
+inferior Artists, which since their Death I have been exposed to) I
+gloried in sacrificing every Prospect of Advantage from other Pursuits,
+and had willingly submitted to lead a Life of Labour and Dependence.
+However ’twas too late to retreat; and I had only one Means of Success
+left which was to follow the Commissioners in their own Way. Accordingly
+after many Difficulties (with a Relation of which I will not tire the
+Reader, as it is by no Means my Intention to meddle with any Subjects of
+Complaint, except such as are material to the forming a right Judgment
+of the Trials made and proposed) a second Voyage to the _West Indies_
+was agreed to in the latter End of the Year 1762, which Agreement was
+afterwards well nigh overset by the Commissioners insisting on such
+Astronomical Observations being previously made, as were next to
+impracticable in this Climate, and could be put into the Instructions
+for no other Reason that I could conceive, but to throw insuperable
+Difficulties in my Way, as they were not at all material to the
+Determination of the Matter in Question. However the Commissioners at
+Length gave up this Point on my Opinion of the Impracticability being
+confirmed by that of an Officer of the Navy distinguished for his
+Abilities and Skill in Matters of Astronomy. To take away all
+Possibility (as I thought) of this Voyage being rendered fruitless like
+the last, I then desired to have inserted at the End of the Instructions
+some few Words to this Purpose, “that provided the Experiment answered,
+the Commissioners present were of Opinion I should _without further
+Trouble_ receive my Reward;” but my Son attending the Board with this
+Proposition was told by Lord _Sandwich_ at that Time President, that it
+would be mere Tautology, for that their giving Instructions implyed the
+same Thing, and that if the Watch kept its Time within the Limits of the
+Act there could be no Doubt of my being entitled to and receiving the
+Reward, and nobody could take if from me. Upon the Faith of this, my Son
+went the Voyage to _Barbadoes_, in which the Watch kept its Time
+“considerably within the nearest Limits of the Act of Queen _Anne_,” as
+certified, even by the Commissioners themselves.
+
+On the Success of this Trial being known, and after having employed near
+forty Years of my Life on the Faith of an Act of Parliament, was a
+Doctrine broached to me (as I solemnly declare _for the first Time_)
+that the Commissioners were invested with a discretionary Power of
+ordering other Trials and the fulfilling of other Conditions than those
+specially annexed by Act of Parliament to the Reward;[4] An Exposition
+of the Law, which I ever did and ever shall (until it is supported by
+legal Authority) totally reject and refuse Obedience to; for I do
+maintain, that before passing the last Act of Parliament I had as full
+and perfect a _Right_ to the Reward of 20,000_l._ as any Free-holder in
+_Britain_ has to his Estate; and I never would have desired nor ever
+will desire any better Satisfaction than a judicial Determination of
+that Point; which however it was very soon thought proper to preclude me
+from, by a new Law, passed at the Instance of the Commissioners of
+Longitude, placing me _too certainly_ under the Discretion of the
+Commissioners and totally changing the Terms on which the Reward was to
+be given me, enacting that I should have half of it when I had disclosed
+the Principles and Construction of the Machine, and assigned over for
+the Use of the Publick the last made Timekeeper, together with the three
+others which were not so perfect as the last; and the other half when I
+should have made more Watches, _without determining how many_, and
+proved them to the Satisfaction of the Commissioners, _without defining
+the Mode of Trial_.
+
+I frankly confess that from thenceforward I considered the second Moiety
+of the Reward as lost for ever. The first Moiety I obtained, tho’ it was
+with great Difficulty, as the Act required me to explain my Invention
+upon Oath, and the Commissioners were pleased to put into that Oath,
+Words of an indeterminate and unlimited Meaning, and refused to explain
+them, or even permit me or my Son to ask what was meant by them. We at
+length agreed to take it (finding we should never get any Thing if we
+did not, such was now the Power of the Commissioners) and they declared
+that themselves and the Gentlemen appointed by them to whom we were to
+explain it, would be _upon Honour_ not to disclose it, that I might have
+an Opportunity of obtaining the Reward promised by foreign Powers;
+however, in less than a Month an Account of it appeared in the public
+News-Papers, signed by the Rev. Mr. _Ludlam_, one of the six Gentlemen
+named by the Commissioners to receive the Discovery, and therefore, I
+make no doubt, by Leave of the Board. Nor did they stop here, for they
+have since published all my Drawings without giving me the last Moiety
+of the Reward, or even paying me and my Son for our Time at the Rate of
+common Mechanicks; a Discouragement to the Improvement of Arts and
+Sciences, and an Instance of such Cruelty and Injustice as I believe
+never existed in a learned and civilized Nation before.
+
+I have already had Occasion to mention, that at the Time I receiv’d the
+Certificate for the first Moiety of the Reward, the Watch was delivered
+up; it remained six Months locked up at the Admiralty, and was then
+removed to Greenwich, to be the Subject of those Experiments concerning
+which I now trouble the Public. The other three Machines, were (by Order
+of the Commissioners) soon after demanded of me by Mr. _Maskelyne_. One
+of them which had been going more than thirty Years, was broke to Pieces
+_under his careful and ingenious management_, before it got out of my
+House; and the other two were so far abused in the Carriage by Land to
+_Greenwich_, as to be rendered quite incorrect, and as far as I can
+learn, incapable of being repaired without having some essential Parts
+made anew: Thus perished the first Essays of this long-wished for
+Invention!
+
+Unwilling however that the Public should lose the Benefit of the
+Discovery, or the Chance of further Improvement, I applied, by repeated
+Letters, to the Board, praying that the Watch might be lent to me
+(offering Security for it if required) for the Sake of employing other
+Workmen to make the different Parts by Model, with quicker Dispatch, and
+in Order to determine by Experiments, whether some expensive Parts of
+the Machinery might not be abridged or totally left out. Still have my
+Requests been refused, and of late they have alledged that they cannot
+keep their Engagements with Mr. _Kendall_ if they were to lend me the
+Watch. What those Engagements are may be seen below.[5] The new Act, as
+I have already observ’d, did not determine _how many_ more Watches were
+to be made before I should receive the other Moiety of the Reward: it
+was seven Months before I could get them to fix _how many_, and then
+they would neither agree to any Mode of Trial proposed by me, nor
+propose any themselves till _eleven Months_ after that, _viz._ not till
+the 11th Day of _April_ last, when (an Enquiry having been set on Foot
+in the House of Commons) they were pleased to propose, that instead of
+the Length of a _West-India_ Voyage, which is about _six Weeks_, the
+Watches should be placed with their very good Friend and Well-wisher Mr.
+_Maskelyne_ for _ten months_, and then be sent for two months on board a
+Ship in the _Downs_; and all this I am required to submit to, without
+the least Shadow of Assurance on their Part, that they will be satisfied
+with this Trial, let it answer ever so well, or that I shall thereby be
+brought at all the nearer receiving what is due to me, altho’
+(independent of making the Watches) it must necessarily employ one whole
+Year of mine or my Son’s Time, in superintending an Examination, which,
+after all, can only prove that I, who have made one Machine, can make
+another like it; and the Point of general Practicability, about which so
+much stir is _affected_ to be made, would not be one Jot advanced beyond
+what it is at present.
+
+I cannot help begging the Reader will here allow me to add a Remark or
+two upon the general Practicability of my Invention, as that is now
+said to be the only Thing that was in Dispute between the Commissioners
+and me, and that they only wanted to be satisfied as to this Point. In
+order to clear it up then, I will submit to the Public to determine
+whether the general Use and Practicability of my Invention can, in the
+Nature of Things, be attacked, unless under one of these three following
+Heads:
+
+1. That a Time-keeper, however perfect, is an insufficient Means of
+ascertaining the Longitude at Sea.
+
+2. That such Information has not been given as will enable other Workmen
+to make other Time-keepers of equal goodness with that which is
+certified to have kept the Longitude.
+
+Or 3. That they will come to so enormous a Price as to be out of the
+Reach of Purchase.
+
+From the Benefit of the first Objection (even if it was founded in
+Truth, which I utterly deny) the Commissioners have surely precluded
+both themselves and the Nation, as with Respect to me, by their repeated
+Orders and Instructions, and after leading me on for near Half a
+Century, to employ my whole Time and make long Voyages for _perfecting_
+the Invention, they can never be permitted now to come and say _the
+Invention itself_ is good for nothing. Should any one however continue
+to propagate such an Opinion, I beg leave, in Contradiction to it, to
+offer that of Sir _Isaac Newton_, and that of _Martin Folkes_, _Dr.
+Halley_, _Dr. Smith_, Mr. _Graham_, and eight other Persons of great
+Eminence, both publicly given to the House of Commons and to be found in
+the Journals, _viz._ Sir _Isaac_’s in Vol. 17, Page 677, and the others
+in Vol. 29, Page 547.
+
+The second Objection is flatly contradicted by Evidence lately before
+the House of Commons, by which it appears that the Description and
+original Drawings from which the Watch was made, as given in by me upon
+Oath, are printed and published; and that Mr. _Mudge_ (the only one of
+the Watchmakers to whom the Discovery was made, who has been examined by
+the House of Commons) declar’d he could make these Watches as well as I
+can. Moreover I am ready, on Condition of receiving the Remainder of
+what’s due to me, upon Oath to give all manner of future Information and
+Instruction in my Power; and I hope it could never enter into any Man’s
+Idea of general Practicability, that I should actually teach every
+indifferent Workman in the Nation, and furnish each of them with a Set
+of Tools for the Trial of his Ability, at my own Expence, before I could
+be entitled to the Reward.
+
+With Regard to the third Objection, no Estimate of the future Expence
+can (from the Nature of the Subject) be grounded upon any Authority
+better than that of Opinion. The Price of common Watches, where each
+Part is made by a different Workman, bears no Proportion to what must
+necessarily be charged by any Man who was to make the whole with his
+own Hands: the same Reduction will naturally take place when a Number of
+Workmen are instructed to make the different Parts of these. My Opinion
+is, that they might in a very few Years be afforded for about £.100
+a-piece, and if a Reduction of the Machinery can be effected (which I am
+strongly inclined to think is the Case, but have not had an Opportunity
+of proving by Experiment for want of my Models) the Expence may be
+reduced to about 70 or 80 l.
+
+By this Time I think the Reader may naturally exclaim, How can all these
+Things be? What can induce a Number of Noblemen, Statesmen and Officers
+of the first Rank and most unblemished Characters; what can induce the
+President of the Royal Society, and the Professors of the Universities
+(to each of whom his Majesty has been most graciously pleased to order
+Payment of 15 l. per Day for every Board of Longitude they attend) and
+what can induce the Astronomer Royal, thus to discourage an Invention
+which they are specially constituted to improve, protect, and support? I
+might answer with Mr. _Maskelyne_, “that’s none of my Business to
+account for.”—_The Facts are so_, and this public Relation of them is
+extorted from me, by a Conviction that no other Way is left me to obtain
+Justice, or so likely to prevent the Invention from perishing. However,
+if it is expected of me, like Mr. _Maskelyne_, to deliver an Opinion on
+this Point, I shall declare what I believe _very sincerely_, that by
+far the greater Part of the Commissioners are perfectly innocent of the
+Treatment I have met with: most of them are Commissioners by Virtue of
+great Employments which engage their Time and Attention: A Board so
+constituted is continually changing; and this being a Matter of Science
+which to many may seem rather abstruse, it was very naturally left to
+the Management of a few of those Members who stand in the most immediate
+Relation to Science, and whose Opinions, upon a Business of this Nature,
+the rest of the Board had too much Modesty to call in Question. How well
+they have merited that Degree of Confidence is left to the impartial
+World to determine.
+
+To return again to Mr. _Maskelyne_’s Account: He, as I think has been
+already shewn, having said and done every Thing in his Power to the
+Dishonour and Discouragement of my Invention, scruples not to sum up his
+Opinion of it in the following Terms:
+
+“That Mr. _Harrison_’s Watch cannot be depended upon to keep the
+Longitude within a Degree, in a _West-India_ Voyage of six Weeks, nor to
+keep the Longitude within Half a Degree for more than a Fortnight, and
+then it must be kept in a Place where the Thermometer is always some
+Degrees above freezing: that, in case the Cold amounts to freezing, the
+Watch cannot be depended upon to keep the Longitude within Half a
+Degree for more than a few Days, and perhaps not so long, if the Cold be
+very intense: nevertheless, that it is a useful and valuable Invention,
+and in Conjunction with the Observations of the Distance of the Moon
+from the Sun and fixed Stars, may be of considerable Advantage to
+Navigation.”
+
+Having sufficiently refuted the first Part of this Opinion already, it
+only remains for me to make such Remarks on the Lunar Method of finding
+the Longitude, as this coupling of my Invention with it seems to call
+upon me for.
+
+It is with Reluctance that I follow Mr. _Maskelyne_ into a Subject in
+which I may seem, like him, to be actuated by a selfish Preference to my
+own Scheme; however, as I shall give my Reasons for what I advance, I
+will not hesitate to submit them to the Public. I beg to be understood
+as a warm and declared Friend to that and every other Mode which can be
+devised of ascertaining the Longitude at Sea, so long as they keep
+within the Bounds of Reason and Probability. Here are now two Methods
+before the Public; Wou’d to God there were two Hundred! The Importance
+of the Object would warrant public Encouragement to them all; but,
+called upon to say something on the Subject, I think it incumbent upon
+me to point out those Limits beyond which its Utility cannot, from the
+Nature of the Thing, be extended.
+
+The Method of finding the Longitude by the Moon, in which Mr.
+_Maskelyne_ is in a pecuniary way interested, is this.—If the apparent
+Distance between the Sun and Moon, or between the Moon and some fix’d
+Star, at any certain Part of the Globe, was for every Hour of the Year
+known; and if a Navigator, when at Sea, could also, by Observations,
+ascertain what is the apparent Distance, at the Place where he is,
+between the Sun and Moon, or between the Moon and a Star, and likewise
+their respective Altitudes; and if he could also, at the same Moment,
+ascertain the Time of the Day, either by an immediate Observation of the
+Sun, or by a Watch which would keep Time pretty exactly from the last
+solar Observation; these Matters of Fact being given, the Difference of
+Longitude may from thence be calculated. I admit the Principle to be
+absolutely true in Theory. The Lunar Tables, for which the Rewards have
+been given, are calculated to shew the Distance between the Sun and
+Moon, or Moon and Stars, at _Greenwich_; I admit the Practicability of
+making such Tables; but with Regard to the other Requisites, I beg Leave
+to observe that, for six Days in every Month, the Moon is too near the
+Sun for observing, consequently, during those Days, the Method falls
+_totally_ to the Ground; that for about other thirteen Days in every
+Month, the Sun and Moon are at too great a Distance for observing them
+at the same Time, or are not at the same Time visible; therefore, during
+those 13 Days, we must depend upon Observations of the Moon and Stars,
+and upon a Watch to keep Time, from the last Solar Observation with
+sufficient Exactness, which common Watches cannot be depended upon to
+do; well therefore might Mr. _Maskelyne_ admit that my Invention would
+become of considerable Value, even if taken in Aid of the Lunar Tables.
+I leave the Reader to judge of the Practicability of making these
+Observations from what follows:
+
+To ascertain the Longitude by the Moon and a Star, requires a distinct
+Horizon to be seen in the Night, which is next to impossible, and if you
+have not an Horizon, the Altitude of neither Moon nor Star can be taken:
+It also requires (and this perhaps when a Ship is in a high Sea) the
+Distance of the Moon and Star, in order to come at which, the Image of
+one of them must be reflected through a silvered Glass, and the other
+seen through an unsilvered Part of the same Glass; and they must be
+brought into Conjunction in the Line that connects the silvered and
+unsilvered Parts, and this to an Exactness only true in Theory, for an
+Error of a Minute of a Degree committed in this Observation, will
+mislead the Mariner Half a Degree in his Longitude; Now I call upon any
+Astronomers of Reputation publickly to declare, that they have, even at
+Land, and with the best Instruments _Europe_ affords, been able to make
+this Observation of the Moon and a Star with _any thing like_ the
+Precision required to determine the Longitude within the Limits
+required by the Act of the 12th of Queen _Anne_; I know it cannot be
+done. Nay I further call upon any such Astronomers to declare, whether
+even in Observations of the Distance between the Sun and Moon, two of
+them observing together have _generally speaking_ agreed in this
+Observation within a Minute of a Degree: I know that in general the
+Difference between the best Observers even at Land will be more, and as
+a farther Proof of this Assertion, I refer the Reader to the Note
+below:[6] And if these Matters of Fact are still doubted, I shall beg
+Leave to call upon Mr. _Maskelyne_ and Mr. _Green_ to declare how near
+they, with Admiral _Tyrrel_ agreed in determining the Longitude by the
+Sun and Moon in their Voyage to _Barbadoes_; and also whether during
+that Voyage they ever did determine their Longitude by the Moon and
+Stars.—I know they did not, for they found the Observation too
+difficult, and indeed _it is only true in Theory_.
+
+From the foregoing Premises I infer,
+
+1st. That during six Days in every Month, no Observations can be made by
+this Method to ascertain the Longitude at Sea.
+
+2dly, That during 13 other Days in each Month, it is impracticable to
+ascertain it by this Method with any Instruments hitherto contrived, or
+which the Nature of the Service to be performed seems to admit of
+
+And 3dly, That during the remaining 11 Days in each Month, when the Sun
+and Moon may, if the Weather is clear be observed at the same Time, no
+Reliance can safely be placed upon the best Instruments in the Hand of
+the best Observer for ascertaining the Longitude within the Limits of
+the Act of Queen _Anne_; and consequently, that how valuable soever the
+Lunar Tables may be for correcting a long dead Reckoning, and thereby
+telling us _whereabouts_ we are, when we are not afraid of falling in
+with the Land, yet even during these 11 Days, they do not extend to the
+Security of Ships near the Shore.
+
+This _Method_ of ascertaining the Longitude by the Moon has already cost
+the Publick the Sum of 6,600_l._ at least, and yet no proper Experiment
+has been made of it.
+
+I shall not presume to make any Reflections on the different Treatment
+the two Inventions have met with, nor will I take up more of the
+Reader’s Time by a Detail of the very earnest Attention paid by the
+_French_ Government to this Object. If our Rivals in Commerce and Arts
+_should_ rob us of the Honour as well as the first Advantages of the
+Discovery, I hope it will be admitted that the Fault is not mine: And I
+likewise flatter myself that I have now furnished sufficient Materials
+for the Justification of my Friends, and for shewing that the Cause
+which they from publick spirited Motives had the Goodness to espouse,
+was not unworthy of their Patronage.
+
+  _Red-Lion-Square,
+  June 23, 1767_
+        JOHN HARRISON.
+
+    _FINIS._
+
+
+
+
+FOOTNOTES:
+
+    [Footnote 1: It may not perhaps be improper here to observe,
+    that the Locks were such as might be picked with a crooked Nail,
+    that the Lock of which the Officers had the Key was on the 10th
+    of _July_ out of Order, and that Mr. _Maskelyne_ was sorry this
+    should ever come to the Ear of the Publick.]
+
+    [Footnote 2: “We whose Names are hereunto subscribed do certify,
+    that Mr. _John Harrison_ has taken his Time-Keeper to Pieces in
+    the Presence of us, and explained the Principles and
+    Construction thereof, and every Thing relative thereto, to our
+    entire Satisfaction; and that he also did to our Satisfaction
+    answer to every Question proposed by us or any of us relative
+    thereto; And that we have compared the Drawings of the same with
+    the Parts, and do find that they perfectly correspond.”
+
+    _August 22, 1765._
+
+        _Nevil Maskelyne,_
+        _John Michell,_
+        _William Ludlam,_
+        _John Bird,_
+        _Thomas Mudge,_
+        _William Matthews,_
+        _Larcum Kendall._]
+
+    [Footnote 3: It may not be amiss to take Notice here of an
+    Objection that was raised by two of the Commissioners, both
+    famous for their Knowledge in Astronomy; _viz._ That the
+    Observations of equal Altitudes made at _Portsmouth_, could not
+    be depended on, because the equal Altitude Instrument had been
+    removed from the Place of Observation in the Morning, to another
+    Place to make the Afternoon Observations; from which it is plain
+    that these great Astronomers did not understand either the
+    Principles or Use of one of the most simple Instruments in
+    Astronomy.]
+
+    [Footnote 4: If this Interpretation of the Act was true, and the
+    Commissioners had a general discretionary Power, where was the
+    Reason or Use of specifying _any Trial at all_ in the original
+    Act?]
+
+    [Footnote 5: The Board contracted with Mr. _Kendall_ (one of the
+    six Persons to whom the Discovery was made) to make a Watch
+    after the Model of mine. He was to be paid for every Thing
+    before-hand, and to begin in a Twelvemonth after making the
+    Bargain; he is to make Parts like Parts, but is not to be
+    answerable for his Watch’s going at all. My Timekeeper is now in
+    his Possession, tho’ he is not yet ready to make Use of it;
+    There are some Parts in the making of which the Model can be of
+    little or no Use to him; I only desired it for six or eight
+    Months, and am confident he can have no Occasion for it before
+    that Time is expired: however I have offered to have it forth
+    coming whenever Mr. _Kendall_ declares that he wants it,
+    therefore I apprehend their Engagements with Mr. _Kendall_
+    afford no solid Reason for the Commissioners to refuse lending
+    it to me.]
+
+    [Footnote 6: In the fifth Volume of M. DE LA CAILLE’s
+    Ephemerides, Page 31, he says, “that any Person would be in the
+    wrong to suppose that the Longitude at Sea can be determined by
+    the Moon, to a less Error than two Degrees, let the Method which
+    is employed be never so perfect, let the Instruments, of the
+    Sort now in use, be never so excellent, and let the Observer be
+    the most able and accomplished. For if we examine, without
+    prejudice, all the Circumstances which enter into the
+    Calculation and into the Observation of a Longitude at Sea, we
+    shall be easily convinced, that it would be ridiculous to
+    maintain, that the Sum of the inevitable Errors should not
+    amount to five Minutes of a Degree, that is, to two Degrees and
+    a half of Longitude.” _N. B._ M. DE LA CAILLE published this in
+    the Year 1755, and is universally allowed to have been an
+    excellent Observer, and made several Voyages by Sea, where he
+    made Trials of this Method by the Moon.
+
+    Dr. HALLEY and Dr. BEVIS (as appeared to the Honourable House of
+    Commons upon an Examination of the latter) did, with an
+    excellent HADLEY’s Quadrant, rectified by Mr. HADLEY himself,
+    and in his presence, attempt to take the angular Distance of the
+    Moon from ALDEBARAN, a Star of the first Magnitude; but with
+    such bad Success (some of the Observations removing GREENWICH
+    from itself almost as far as PARIS) that Dr. HALLEY seemed to be
+    out of Hope of obtaining the Longitude by this Method.]
+
+
+
+Transcriber’s Notes: This ebook has been transcribed from the original
+print edition, published in 1767. Obvious printing errors have been
+corrected, while minor irregularities in the spelling have been
+retained. The table below lists all corrections applied to the
+original text.
+
+p. 9: the Rest of the Summer -> The Rest
+p. 11: [added comma] his Integrity, Disinterestedness and Ability
+p. 13: a set of Observavations -> Observations
+Footnote 6: [added closing quotes] to two Degrees and a half of Longitude.”
+
+
+
+
+
+End of the Project Gutenberg EBook of Remarks on a Pamphlet Lately published
+by the Rev. Mr. Maskelyne, Under the A, by John Harrison
+
+*** END OF THIS PROJECT GUTENBERG EBOOK REMARKS ON A PAMPHLET ***
+
+***** This file should be named 37321-0.txt or 37321-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/7/3/2/37321/
+
+Produced by Markus Brenner and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

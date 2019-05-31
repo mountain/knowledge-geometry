@@ -1,0 +1,2876 @@
+﻿The Project Gutenberg EBook of Selections from the Observator (1681-1687), by 
+Roger L'Estrange
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Selections from the Observator (1681-1687)
+
+Author: Roger L'Estrange
+
+Commentator: Violet Jordain
+
+Release Date: July 26, 2012 [EBook #40339]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE OBSERVATOR ***
+
+
+
+
+Produced by Colin Bell, Hazel Batey, Joseph Cooper and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+  THE AUGUSTAN REPRINT SOCIETY
+
+
+    SIR ROGER L'ESTRANGE
+
+
+
+
+     _SELECTIONS FROM_
+
+            THE
+
+        OBSERVATOR
+
+       (1681-1687)
+
+
+  _Introduction by_ Violet Jordain
+
+
+  PUBLICATION NUMBER 141
+
+  WILLIAM ANDREWS CLARK MEMORIAL LIBRARY
+
+  University of California, Los Angeles
+
+          1970
+
+
+
+
+  GENERAL EDITORS
+
+  William E. Conway, _William Andrews Clark Memorial Library_
+
+  George Robert Guffey, _University of California, Los Angeles_
+
+  Maximillian E. Novak, _University of California, Los Angeles_
+
+
+  ASSOCIATE EDITOR
+
+  David S. Rodes, _University of California, Los Angeles_
+
+
+  ADVISORY EDITORS
+
+  Richard C. Boys, _University of Michigan_
+
+  James L. Clifford, _Columbia University_
+
+  Ralph Cohen, _University of Virginia_
+
+  Vinton A. Dearing, _University of California, Los Angeles_
+
+  Arthur Friedman, _University of Chicago_
+
+  Louis A. Landa, _Princeton University_
+
+  Earl Miner, _University of California, Los Angeles_
+
+  Samuel H. Monk, _University of Minnesota_
+
+  Everett T. Moore, _University of California, Los Angeles_
+
+  Lawrence Clark Powell, _William Andrews Clark Memorial Library_
+
+  James Sutherland, _University College, London_
+
+  H. T. Swedenberg, Jr., _University of California, Los Angeles_
+
+  Robert Vosper, _William Andrews Clark Memorial Library_
+
+
+  CORRESPONDING SECRETARY
+
+  Edna C. Davis, _William Andrews Clark Memorial Library_
+
+
+  EDITORIAL ASSISTANT
+
+  Roberta Medford, _William Andrews Clark Memorial Library_
+
+
+[Illustration: THE OBSERVATOR. =Numb. 1.= For text go to Page 9.]
+
+
+
+
+INTRODUCTION
+
+
+       I fancy, _Trimmer_, that if You and I could but
+    get leave to peep out of our Graves again a matter
+    of a hundred and fifty year hence, we should find
+    these Papers in Bodlies Library, among the Memorialls
+    of State; and Celebrated for the Only Warrantable
+    Remains concerning this Juncture of Affairs.
+      (_Observator_ No. 259, 16 December 1682)
+
+
+When the first of 931 single, folio sheets of the _Observator_ appeared
+on 13 April 1681, the sixty-five-year-old Roger L'Estrange, their sole
+author, had been a controversial London Royalist for over twenty years.
+As Crown protégé, he had served intermittently as Surveyor of the Press,
+Chief Licenser, and Justice of the King's Peace Commission; as a writer,
+he had produced two newspapers, the _Intelligencer_ and the _Newes_
+(1663-1666), dozens of political pamphlets, and seven translations from
+Spanish, Latin, and French.[1] Rightly nicknamed "bloodhound of the
+press," L'Estrange was notorious for his ruthless ferreting out of
+illegal presses and seditious publishers, as well as for his tireless
+warfare against the powerful Stationers' Company.[2] No less well known
+were his intransigent reactionary views, for we can estimate that some
+64,000 copies of pamphlets bearing his name were circulating in the City
+during the two years preceding the _Observator_.[3] Thus the
+_Observator_ papers represent not only the official propaganda of the
+restored monarchy, but also the intellectual temper of a powerful,
+influential man whose London fame was sufficiently demonstrated in the
+winter of 1680, when he was publicly burned in effigy during that year's
+Pope-burning festivities.
+
+In the muddy torrent of "Intelligences," "Mercuries," "Courants,"
+"Pacquets," and sundry newssheets, the _Observator_ marks the beginnings
+of a new sort of journalism, one which was to shape the development of
+the English periodical. Although _Heraclitus Ridens_ and its opponent
+_Democritus Ridens_ initiated the dialogue form for the newspaper
+seventy-two days before the _Observator_, their relatively short run
+relegates these pioneers to a shadowy background, as it does the even
+earlier trade paper in dialogue, the _City and Country Mercury_
+(1667).[4] The eighty-two issues of _Heraclitus Ridens_ and thirteen of
+_Democritus Ridens_ cannot be compared in quantity to the 931 issues of
+the _Observator_ published three or four times a week from 13 April 1681
+to 9 March 1687, nor can their stiff dialogues be compared in importance
+to L'Estrange's much fuller exploitation of the form. Consequently, even
+though he did not initiate the newspaper in dialogue form, L'Estrange is
+unanimously given the honor of having popularized the form, or, in the
+words of Richmond P. Bond, of having "borrowed the dialogue and fastened
+it on English journalism for a generation as a factional procedure."[5]
+
+Imitators did not wait long. Nine days after the first _Observator_,
+L'Estrange's arch-enemy, Harry Care, changed to dialogue the _Popish
+Courant_ section of his _Weekly Pacquet of Advice from Rome_,
+relinquishing the expository format which he had followed since 1678.
+Later, after the Glorious Revolution, the popularity of L'Estrange's
+paper is evident in the spate of imitative "Observators" that ensued:
+_The English Spy: Or, the Critical Observator_ (1693); _The Poetical
+Observator_ (1702); Tutchin's _Observator_ (1702--a Whig organ) and
+Leslie's _Observator_ (1704--a Tory organ); _The Comicall Observator_
+(1704); _The Observator Reviv'd_ (1707), and more. As late as 1716 there
+was created a _Weekly Observator_. By the turn of the century, the very
+term "Observator" had come to signify a controversy _in dialogue_.[6]
+Interestingly enough, even the typography of L'Estrange's _Observator_
+may have left its mark on succeeding journals. A brief comparison of
+Interregnum newspapers (such as _Newes Out of Ireland_ in 1642, _The
+Scotch Mercury_ in 1643, _The Commonwealth Mercury_ in 1658) with John
+Dunton's _The Athenian Mercury_ (1693) and Charles Leslie's _Observator_
+(1704) reveals a marked difference in typography. In the earlier papers
+the typography is generally uniform, with italics used for proper names
+and quotations, whereas L'Estrange's and Leslie's papers exhibit the
+whole range of typeface available to the seventeenth-century printer.
+Dissenter Dunton's _Athenian Mercury_, on the other hand, shows much
+less eccentricity in its typography, limiting itself to generous use of
+italics only, while Defoe's _Review_ goes back to the earlier restraint
+and presents a neat, uniform page. Whether these typographical
+differences are attributable to particular political views or merely to
+"schools" of printing is difficult to say.
+
+In addition to this obvious sort of superficial imitation, there are
+many indications that L'Estrange's _Observator_ had a more permanent
+influence on posterity. It has been suggested that the periodical
+specializing in query and answer between reader and editor, which was
+initiated by John Dunton's _Athenian Mercury_ and which we still have
+today, may have been inspired by the _Observator's_ habitual retorts to
+opponents.[7] James Sutherland isolates in Defoe certain qualities of
+prose style which he attributes to Defoe's extensive reading of
+L'Estrange; and he sees L'Estrange's natural colloquial manner as
+setting a pattern for journalists who followed him.[8] Far-fetched as it
+may seem at first glance, even Addison's _Spectator_ shows a certain
+similarity to the _Observator_. Although the manner, tone, language, and
+political views of the two are antithetical, the _Spectator's_ peculiar
+blend of moralizing and diversion is reminiscent of L'Estrange's work.
+In both papers we notice a serious didactic purpose tempered by literary
+techniques and imaginative handling of material. Decades before
+Addison's famous credo--"to make their Instruction Agreeable, and their
+Diversion useful ... to enliven Morality with Wit, and to temper Wit
+with Morality"[9]--L'Estrange had formulated a similar theory:
+
+    _Obs._: Where there has been Any thing of That which you
+    call Raillery, or Farce; It has amounted to no more then
+    a Speaking to the Common People in their Own Way....
+    He that Talks Dry Reason to them, does as good as treat
+    'em in an Unknown Tongue; and there's no Other way of
+    Conveying the True Sense, & Notion of Things, either to
+    their Affections, or to their Understandings, then by the
+    Palate....
+      (II, No. 15)
+
+And as a link between L'Estrange and Addison we have Defoe's analogous
+promise in "the Introduction" to the _Review_: "After our Serious
+Matters are over, we shall at the end of every Paper, Present you with a
+little Diversion, as any thing occurs to make the World Merry."[10]
+These notions rest, of course, on the ancient _dulce et utile_, though
+modified in various ways in each of the three papers to suit the
+temperaments of their writers, the tastes of their mass-audiences, and
+different times. It is perhaps not irresponsible, then, to say that the
+synonymous titles of Addison's and L'Estrange's periodicals symbolize an
+affinity of purpose and technique. Indeed, the _Observator_ can, in many
+ways, be considered a rather crude and primitive ancestor of the
+_Spectator_.[11]
+
+The purpose of the _Observator_ and its main targets are clearly
+formulated in _Observator_ No. 1, as well as in the prefatory "To the
+Reader," which was written in 1683 for the publication of Volume 1 of
+the collected papers. The "faction" which L'Estrange proposes to reprove
+consists at first (1681-1682) of Shaftesbury's republican-minded
+followers and of the perpetrators of the Popish Plot. In his evaluation
+of the Plot, L'Estrange agrees with some modern historians,[12] for he
+never doubted that it was a Whig fabrication, an invented cause around
+which the party members could rally and which neatly veiled the
+parliamentary power-struggle behind the scenes. Titus Oates is
+consequently the _Observator's_ _bête noire_, and Andrew Marvell's
+pamphlet, _The Growth of Popery_, is for L'Estrange the odious origin of
+the Plot:
+
+    _Obs._: I do not know Any man throughout the whole Tract
+    of the Controversy that has held a Candle to the Devil
+    with a Better Grace then the Author of that Pamphlet ...
+    that Furnishes so Clear a Light toward the Opening of
+    the Roots, Springs, and Causes of our Late Miserable
+    Disorders, and Confusions.... Prethee let Otes'es
+    Popish Plot, Stand, or Fall, to it's Own Master; provided
+    that Marvels may be Allow'd to be the Elder Brother....
+                          (II, No. 16)
+
+Toward the end of 1682, when the Whigs had ceased being an imminent
+threat to the government and all but one of the Whig newspapers had been
+silenced, L'Estrange turned his attack against the more moderate
+Trimmers, as illustrated in _Observator_ III, No. 88. But whether the
+offensive is against Whigs or Trimmers, Dissenters and advocates of
+toleration are always in the line of L'Estrange's fire as chief
+subverters of absolute monarchy and of the Church of England, as is
+evident in the satire of _Observator_ Nos. 13 and 110. On the eve of the
+Glorious Revolution, this rigid stand lost him the support of both the
+Anglican clergy and the universities, support of which he was so proud
+in his "To the Reader." Finally, _Observator_ No. 1 singles out the Whig
+press as one of its chief targets. The "Smith" referred to in that first
+number is Anabaptist Francis "Elephant" Smith, publisher of the
+outrageous _Mirabilis Annus_ books, the inflammatory pamphlet _Vox
+Populi_, and the offensive paper _Smith's Protestant Intelligence_;
+"Harris" is Benjamin Harris, publisher of the Whig paper, _Domestic
+Intelligence_. These, together with Harry Care (_Weekly Pacquet of
+Advice from Rome_ and _Popish Courant_), Richard Janeway (_Impartial
+Protestant Mercury_), Langley Curtis (_The Protestant Mercury_), and
+hordes of anti-Royalist authors or publications are habitually quoted or
+referred to in L'Estrange's counterpropaganda. His untiring countering
+of Whig publications earned him Nahum Tate's hyperbolic praise in _The
+Second Part of Absalom and Achitophel_:
+
+    Than _Sheva_, none more loyal Zeal have shown,
+    Wakefull, as _Judah's_ Lion for the Crown,
+    Who for that Cause still combats in his Age,
+    For which his Youth with danger did engage.
+    In vain our factious Priests the Cant revive,
+    In vain seditious Scribes with Libels strive
+    T'enflame the Crow'd, while He with watchfull Eye
+    Observes, and shoots their Treasons as they fly.
+    Their weekly Frauds his keen Replies detect,
+    He undeceives more fast than they infect.
+    So _Moses_ when the Pest on _Legions_ prey'd,
+    Advanc'd his Signal and the Plague was stay'd.[13]
+
+Parochial as these concerns seem today, the _Observator_ in its totality
+goes far beyond the Harry Cares and "Elephant" Smiths in its exhortation
+to greater rationality in areas ancillary to but transcending politics
+proper. Its assiduous ridicule of Enthusiasm, following in the steps of
+Meric Casaubon and Henry More,[14] its analyses of political
+manipulation of the naive populace, its explanations of psychological
+appeals, its Orwellian warnings against the snares of loaded diction and
+the dangers of affective political rhetoric--all these efforts evident
+in the few _Observators_ represented here are an important step in the
+direction of a less superstitious, less hysterical century.
+Paradoxically, L'Estrange mobilized progressive ideas in the service of
+an archaic political and religious administration, thereby familiarizing
+the man on the street with notions and attitudes commonly known as
+Enlightened.
+
+The sugar coating in the _Observator_ is, however, as significant as the
+pill, and distinguishes L'Estrange's journalism from his predecessors'.
+Apart from the traditional satiric blend of verbal banter and polemic,
+which has received ample commentary,[15] his use of established literary
+modes further enhances the colloquies, making them especially diverting
+for his audience and interesting for us. As dialogues, the papers belong
+to a genre whose popularity has remained constant from Plato onward. The
+appeal of the form lies in its pleasurable verisimilitude, immediacy,
+adaptability to differing points of view, and, especially after the
+Restoration, in its potentiality for humorous repartee.[16] As
+_satiric_ dialogues, L'Estrange's sheets satisfy what seems to be a
+universal love of ridicule, an innate trait of the human mind, although
+there is no agreement among students of satire as to its exact
+psychological operations. In addition to adopting this form, which
+belongs to imaginative literature rather than to journalism, L'Estrange
+spices his _Observator_ with a number of other devices designed to
+provide variety, change in speed, and amusement for his reader, who is
+in turn bullied, joshed, castigated, reasoned, or laughed into accepting
+L'Estrange's views.
+
+Frequently, for example, the dialogue gives way to a pointed anecdote
+(old or current, invented or factual), such as the story of Jack of
+Leyden in _Observator_ No. 1, or the following from a later dialogue,
+humorously satirizing the dour William Prynne and the Puritans' strange
+concepts of sin:
+
+    _Trimmer_: A Gentleman that had Cut-off his own hair on
+    the Saturday, came the next day to Church in his first Perriwig.
+    The Parson (that was already Enter'd into his Sermon)
+    turn'd his Discourse presently, from his Text in the
+    Holy Bible, to the Subject of Prynnes _Unloveliness of
+    Lovelocks_; and Thrash'd for a matter of a Quarter of an
+    hour, upon the Mortal Sin of Wearing False Hair. The
+    Gentleman, finding that he would never give him over,
+    'till he had Preach'd him into a Flat State of Reprobation,
+    fairly took off his Perriwig, and Clapt it upon One of the
+    Buttons at the Corner of the Pew. The Poor Man had not
+    One word more to say to the Perriwig; and was run so far
+    from his Text, that he could not for his heart find the way
+    home again: So that to make short on't; He gave the
+    People his Blessing, and Dismiss'd the Congregation.
+      (II, No. 21)
+
+Frequently, also, L'Estrange satirizes by means of parody or ludicrous
+examples of his enemies' rhetoric or behavior, as in the case of the
+"Dissenting Academies" in _Observator_ No. 110. But most important of
+the techniques for entertaining are his creation of carefully delineated
+speaker-_personae_ and his "Characters," again both borrowed from the
+literary tradition.
+
+After the first twenty-nine _Observators_, which are experimental in
+that "Q" and "A" have shifting personalities (as in Nos. 1 and 13),
+L'Estrange manipulates "Whig" and "Tory" for 171 papers, changes to
+"Whig" and "Observator" for 33 papers, briefly (six papers) shifts to
+"Whig" and "Courantier," and finally settles down to "Trimmer" and
+"Observator" for the remaining 692 papers. In all these, the Tory
+satirist (whether he be "Tory" or "Observator") is presented as the
+conventional "snarling dog" described by Robert C. Elliott,[17] with
+appropriate outbursts of polemic, invective, bitter irony, and railing
+humor. Even the traditional crudity is there, although compared to, say,
+the _Popish Courant_, L'Estrange manifests a Victorian restraint.
+"Whig," on the other hand, is presented as a naive, credulous,
+not-too-bright individual whose main fault is not so much that he is a
+Whig but that he is a Whig because he has no mental capacity for
+discrimination. The "A" speaker of No. 13 (apparently a humorous thrust
+at John Eachard, author of _Grounds and Occasions of the Contempt of the
+Clergy_) with his preference for Prynne, Baxter, and Smith over Tacitus,
+Livy, and Caesar, is typical of the later "Whig" _persona_. Humorless,
+misguided, and chronically given to believing even the most outrageous
+gossip, "Whig" cuts a foolish and therefore amusing figure when pitted
+against the sophisticated, trenchant-minded "Tory." "Trimmer" is quite
+different. L'Estrange here creates a much more intelligent opponent, one
+who is given the liberty of satirizing "Observator" himself and even
+patronizing him with the nickname "Nobs." Instead of naivete and obvious
+stupidity, "Trimmer" has the guile and surface morality of the perfect
+hypocrite, a "pretending friend" as "Observator" notes in _Observator_
+III, Nos. 88 and 202. The humor in these later dialogues does not emerge
+from the "Trimmer" personality but from the frequent self-satire and
+criticism on the part of L'Estrange. "Trimmer," for example, is allowed
+to mock the prose style, figures of speech, stubbornness and
+repetitiveness of "Observator," as "Trimmer's" chiding tone in
+_Observator_ III, No. 88 suggests. To borrow a term from Robert C.
+Elliott, the entertainment of these later colloquies resides primarily
+in the technique of the "satirist satirized."[18] L'Estrange, in short,
+creates both _adversariuses_ as _dramatis personae_ rather than as
+simple straw men, a departure from the run-of-the-mill Restoration
+dialogue evident in the following interruption of his artfully built
+illusion:
+
+    _Obs._: For Varieties sake then, we'le to work another way.
+    Do You keep up your Part of Trimmer still: Do Just as
+    you use to do; and be sure to maintain your Character;
+    Leave the Whig and the Tory to Me.
+
+    _Trimmer_: For the Dialogue sake it shall be done.
+
+    _Obs._: But then you must Consider that there are Severall
+    sort of Trimmers: as your State-Trimmer, Your Law-Trimmer....
+
+    _Trimmer_: And You shall Suppose Mee to be a Statesman.
+
+    _Obs._: But of what Magnitude? A Lord? A Knight?...
+
+    _Trimmer_: Why truly Nobs, if they be all of a Price, I
+    don't care if I be a Lord.
+
+    _Obs._: We are over that Point then; And so I am your
+    Lordships most Humble Servant.
+
+But this role playing within role playing is discarded at the end of the
+paper, the role of Lord being apparently too cumbersome:
+
+    _Trimmer_: No more of your Lordships, as you love me,
+    Nobs; for I am e'en as weary as a Dog of my Dignity.
+       (No. 242)
+
+The "Character," however, is not only L'Estrange's favorite satiric tool
+but perhaps the literary form most frequently used in the _Observator_.
+L'Estrange himself attests to his partiality in his parting comment at
+the close of the _Observator_:
+
+    _Obs._: For my Fancy lyes more to Character, then to
+    Dialogue; and whoever will be so Kind as to Furnish me
+    with Spitefull Materials, shall get his Own again with
+    Interest, in an Essay upon Humane Nature.
+        (III, No. 246)
+
+The Character was, of course, still highly popular in the latter half
+of the century, as Chester Noyes Greenough's listings show,[19] so that
+in indulging his own taste, L'Estrange was also catering to the tastes
+of his public. Of whatever other value the _Observator_ may be to the
+modern student, it is invaluable as a fine example of the
+state-of-the-Character toward the end of the century. Practically every
+type of Character analyzed by Benjamin Boyce in his two studies can be
+found repeatedly in L'Estrange's dialogues:[20] the earlier imitations
+of Theophrastan Characters, with their parallelisms and antitheses; the
+Overburian Character, with its extravagant metaphors; the externally
+dramatized; the subjective; the sprung. There are Characters of
+ideologies, of political parties, of virtues, of vices, of Whigs and
+Dissenters (vices), of Tories and Anglicans (virtues). There are several
+"Credo-Characters" (confessions or manifestoes), and finally there is
+the habitually dramatized self-exposing Character which becomes
+indistinguishable from the _dramatis persona_, as is the Character of
+the Modern Whig in Nos. 13 and 110. Among the _Observators_ included
+here, the definition of "Dissenter" in No. 1 is based on Character
+techniques, as is the conceit of the Protestant as "Adjective
+Noun-Substantive" in the same number. So is also the lengthy exposure of
+"Leaders" in III, No. 202, beginning with "They Talk, to the Ears, and
+to the Passions of their Hearers."
+
+A final comment about L'Estrange's prose, which has been variously
+labeled "colloquial," "idiomatic," "vulgar," "coarse"--all vaguely
+descriptive terms suggesting value judgment, and none precise enough to
+give an intelligible account of what L'Estrange actually does. In
+addition to the obvious device of choppy syntax and deliberately
+careless constructions simulating extemporaneous speech, L'Estrange's
+figures and proverbial material demonstrate his meticulous shaping of an
+"applied prose"[21] particularly suitable for the audience whose
+opinions he tried to sway. His metaphors and analogies tend to rely on
+commonly known objects or experiences, and because of rhetorical
+necessity they are almost always unpleasantly graphic. A random sampling
+yielded the following results: about twenty-five percent of the figures
+in the _Observator_ deal with some specific part of the human body
+(nails, spleen, mouth, eyes, ears, knees, heels, flesh, guts, belly) or
+physiological processes (ulcerating, itching, chewing, digesting,
+spitting, reeking, seeing, crouching, sweating, gobbling). There is no
+euphemistic delicacy in these figures; L'Estrange carefully selects the
+most earthy, common vehicles, thus achieving what James Sutherland has
+termed "racy" and "vigorous" prose.[22] Another twenty-four percent of
+the figures are based on common occupations, daily activities, or
+objects familiar to the simpler citizen of London. These figures
+ordinarily pivot on barter or trade (horse traders, hagglers, fishwives,
+car men); on activities such as cooking, gambling, or glass-making; and
+on such objects as clothing, bagpipes, paper-pellets, bonnets, and
+chamber-pots. The rest derive from the animal kingdom, the Scriptures,
+street-entertainment (jugglers, puppets, high-rope walkers) and folk
+medicine (glysters and plasters). It is obvious that these
+figures--their concreteness, sensuousness, and closeness to the daily
+experience of the ordinary reader--are a main ingredient in the richly
+colloquial texture of L'Estrange's prose, as is the proverbial material
+which he incorporates unsparingly.
+
+In L'Estrange's language the law of the land cannot be misunderstood,
+for it calls _a spade a spade_ (No. 106; T-S699).[23] The factions win
+their objectives _by hook or crook_ (No. 100; T-H588) even though they
+are as _mad as March Hares_ (No. 15; T-H148) and _as Blind as Beetles_
+(No. 15; T-B219). Certain things are _as clear as the Day_ (No. 25;
+T-D56) or _as plain as the nose o'my face_ (No. 40; T-N215), whereas
+others are so confused that one can _make neither Head nor tayl on't_
+(No. 35; T-H258). When _noses are put out of joint_ (No. 38; T-N219) and
+Tories are given a _bone to pick_ (No. 55; T-B522), there will obviously
+be _no love lost betwixt_ Whigs and Tories (No. 97; T-L544).
+
+Thus L'Estrange's Characters, together with the fanciful anecdotes,
+self-satire, parodies, and _personae_, provide the satire and humor in
+the _Observator_, the whole being couched in familiar, pungent language.
+As L'Estrange counters the faction, propagandizes, and exhorts to
+rational behavior, he also amuses and delights, always hoping that the
+laughter provoked by his satiric treatment will cure what he saw as
+follies of his age, always appealing to the common reader whose sense of
+humor, he believed, was probably more developed than his sense.
+
+  California State College,
+  Dominguez Hills
+
+
+
+
+NOTES TO THE INTRODUCTION
+
+
+    1: The translations before 1681 are _The Visions of Dom Francisco de
+    Quevedo_ (1667); _A Guide to Eternity_ (1672); _Five Love-letters
+    from a Nun_ (1677); _The Gentleman-Apothecary_ (1678); _Seneca's
+    Morals_ (1678); _Twenty Select Colloquies of Erasmus_ (1679); and
+    _Tully's Offices_ (1680).
+
+    2: Various perspectives on L'Estrange's life and works can be found
+    in the following: George Kitchin, _Sir Roger L'Estrange_ (London,
+    1913) for L'Estrange's life and impact on the Restoration press; J.
+    G. Muddiman, _The King's Journalist_ (London, 1923) for L'Estrange's
+    rivalry with Henry Muddiman, editor of the _Oxford [London]
+    Gazette_; David J. Littlefield, "The Polemic Art of Sir Roger
+    L'Estrange: A Study of His Political Writings, 1659-1688"
+    (Unpublished Doctoral Dissertation, Yale University, 1961) for an
+    overview of L'Estrange as a political pamphleteer.
+
+    3: In 1679 L'Estrange wrote six new pamphlets and reprinted three
+    old ones; in 1680 eleven new and seventeen old; at the start of
+    1681, ten new and seventeen old. A probable norm of 1000-1500 copies
+    per pamphlet edition has been estimated by Joseph Frank, _The
+    Beginnings of the English Newspaper, 1620-1660_ (Cambridge, Mass.,
+    1961), p. 314; two orders of 1500 pamphlets each were given to the
+    Restoration printer Nathaniel Thompson, as noted by Leona
+    Rostenberg, "Nathaniel Thompson, Catholic Printer and Publisher of
+    the Restoration," _The Library_, 3rd ser., X (1955), 195.
+
+    4: _Heraclitus Ridens_ was considered by generations of historians
+    as the first newspaper in dialogue; most recently, James Sutherland
+    (_English Literature of the Late Seventeenth Century_, Oxford, 1969,
+    p. 241) has given precedence to _The City and Country Mercury_.
+
+    5: _Studies in the Early English Periodical_ (Chapel Hill, 1957), p.
+    38.
+
+    6: Ibid., pp. 38-39.
+
+    7: Walter Graham, _English Literary Periodicals_ (New York, 1930),
+    pp. 38, 63, 168.
+
+    8: _On English Prose_ (Toronto, 1965), pp. 72-74.
+
+    9: _The Spectator_, No. 10, ed. Donald F. Bond (Oxford, 1965), I,
+    44.
+
+    10: _The Review_, ed. Arthur Wellesley Secord (Facsimile Text
+    Society, New York, 1938), I, 4.
+
+    11: Several of the literary techniques in the _Spectator_ had been
+    introduced into journalism by L'Estrange. _Spectator_ No. 1, for
+    example, presents a _persona_ in the character of "Mr. Spectator";
+    No. 2 contains a dream-allegory; Nos. 11 and 34 present indirect
+    discourse between _dramatis personae_; No. 19 sketches a Character
+    of the Envious Man--all literary modes abundant in the _Observator_.
+
+    12: See especially J. R. Jones, _The First Whigs; The Politics of
+    the Exclusion Crisis, 1678-1683_ (London, 1961), pp. 20, 24, 50-51,
+    56, 94, 112, 123-124.
+
+    13: For attribution and identification of Sheva, see G. R. Noyes,
+    ed., _The Poetical Works of John Dryden_ (Boston, 1909), pp. 137,
+    966.
+
+    14: The works that are echoed in the Observator are Meric Casaubon,
+    _A Treatise Concerning Enthusiasme ..._ (London, 1655) and Henry
+    More, _Enthusiasmus Triumphatus ..._ (London, 1656).
+
+    15: The mixture of tones is discussed in Alvin Kernan, _The Cankered
+    Muse_ (New Haven, 1959), pp. 68, 76; Leonard Feinberg, _Introduction
+    to Satire_ (Ames, Iowa, 1967), pp. 124-125; Gilbert Highet, _The
+    Anatomy of Satire_ (Princeton, 1962), p. 18.
+
+    16: Hugh Macdonald, "Banter in English Controversial Prose After the
+    Restoration," _Essays and Studies by Members of the English
+    Association_, XXXII (1946), 22, 26, 38.
+
+    17: _The Power of Satire: Magic, Ritual, Art_ (Princeton, 1960), pp.
+    133-136, 164-165.
+
+    18: Ibid., pp. 130-222 (_passim_).
+
+    19: _A Bibliography of the Theophrastan Character in English, With
+    Several Portrait Characters_ (Cambridge, Mass., 1947).
+
+    20: _The Theophrastan Character in England to 1642_ (Cambridge,
+    Mass., 1947) and _The Polemic Character, 1640-1661_ (Lincoln, Neb.,
+    1955).
+
+    21: The term is suggested by Ian Gordon (_The Movement of English
+    Prose_, London, 1966, p. 136) in his discussion of the simple,
+    clear, journalistic style practiced by L'Estrange, Defoe, and Swift
+    in their political writings.
+
+    22: _On English Prose_, p. 70.
+
+    23: The symbol "T" and accompanying numbers refer to the entries in
+    Morris Palmer Tilley, _A Dictionary of the Proverb in England in the
+    Sixteenth and Seventeenth Centuries_ (Ann Arbor, 1950).
+
+
+
+
+BIBLIOGRAPHICAL NOTE
+
+
+    The sources for the parts of the _Observator_ in _Dialogue_
+    reprinted here are Volume I of the first collected edition published
+    in 1684, and Volume III, published and bound together with Volume II
+    in 1687, both in the collection of the William Andrews Clark
+    Memorial Library. The pieces reprinted from Volume I consist of the
+    prefatory "To the Reader," and _Observator_ Nos. 1, 13, and 110; the
+    papers reprinted from Volume III consist of _Observator_ Nos. 88 and
+    202. In this edition the following editorial changes have been made:
+    black letter type is indicated by underlining; inverted letters have
+    been corrected; obvious compositor's errors have been corrected; and
+    inconsistencies in font due to compositors' carelessness have been
+    normalized. The frontispiece to this facsimile reprint is reproduced
+    from the Clark copy and measures approximately 13-7/16" x 8-5/8" in
+    the original.
+
+
+
+
+THE OBSERVATOR
+
+To the _READER_.
+
+
+Most _Prefaces_ are, (Effectually) _Apologies_; and neither the _Book_,
+nor the _Author_, one Jot the _Better_ for them. If the _Book_ be
+_Good_, it will not _Need_ an _Apology_; If _Bad_, it will not _Bear_
+One: For where a man thinks, by _Calling_ himself _Noddy_, in the
+_Epistle_, to _Atone_, for _Shewing_ himself to be one, in the _Text_;
+He does (with Respect to the Dignity of an _Author_) but _Bind up Two
+Fools_ in _One Cover_: But there's no more Trusting some People with
+_Pen, Ink, and Paper_, then the Maddest Extravagants in _Bedlam_, with
+_Fire_, _Sword_, or _Poyson_. He that _Writes Ill_, and _Sees_ it, why
+does he _Write on_? And, with a kind of _Malice Prepense, Murder_ the
+_Ingenious_ part of _Mankind_? He that _Really Believes_ he Writes
+_Well_; why does he pretend to _Think_ Otherwise? Now take it which way
+you please, a man runs a Risque of his _Reputation_, for want, either of
+_Skill_, and _Judgment_, the _One_ way; Or of _Good Faith_, and _Candor_
+the _Other_. Beside a Mighty Oversight, in _Imagining_ to bring himself
+off, from an _Ill_ Thing, _Done_, or _Said_, by Telling the World that
+he did it for _This_ or _That Reason_. When a Book has once past the
+_Press_ into the _Publique_; there's no more _Recalling_ of it, then of
+a _Word Spoken_, out of the _Air_ again. And a man may as well hope to
+Reverse the _Decree_ of his _Mortality_, as the _Fate_ of his
+_Writings_. In short: When the _Dice_ are _Cast_, the _Author_ must
+stand his _Chance_.
+
+Now that I may not be thought to Enterfere with my self, by _Declaiming_
+against _One Preface_ in _Another_: I do here previously Renounce to All
+the Little Arts and Forms of Bespeaking the _Good Will_ of the _Reader_;
+As a _Practice_, not only _Mean_, _Light_, and _Unprofitable_; but
+wholly _Contrary_ to the _Bent_ of _My Inclination_; as well as
+_Inconsistent_ with the very _Drift_, and _Quality_ of my _Design_. For
+These _Papers_ were _Written_, Indifferently, for the _Enformation_ of
+the _Multitude_; and for the _Reproof_ of a _Faction_: _Two Interests_
+that I am not much _Sollicitous_, or _Ambitious_, to _Oblige_: And upon
+_This Consideration_ it is, that I have _Address'd_ them to the _Reader_
+in _Generall_; as a _Calculation_ that will serve for _All Meridians_:
+But if I could have Resolved upon a _Dedication_, with any _Particular
+Mark_, or _Epithete_ of _Distinction_; it should have been, _To the
+IGNORANT, the SEDITIOUS_, or _the SCHISMATICAL Reader_; for _There_,
+properly, lies _my Bus'ness_.
+
+The Reader will find in the _First Number_ of This Collection, the _True
+Intent_, and _Design_ of the _Undertaking_; And he will likewise find,
+in the very _Date_ of it, (April 13. 1681.) the _Absolute Necessity_ of
+some Such _Application_, to Encounter the _Notorious Falshoods_; the
+_Malicious Scandals_, and the _Poysonous Doctrines_ of _That Season_.
+
+Whether I had Sufficient _Ground_, or _Reason_, for the Warmth I have
+Exprest in These Papers, upon Several Occasions, (out of an Affectionate
+Sense of my _Duty_, and a _Zeal_ for the _Peace_, _Welfare_, and
+_Safety_ of my _Country_;) I _Dare_, and I _Do Appeal_ to the _King_,
+and his _Ministers_; to the _Consciences_ of as many of his Majesties
+_Subjects_, as are not _Stark Blind_ because they _WILL_ not _See_; and
+to the Justice of the Nation. I do _Appeal_, I say, to his Majesties
+_Proclamations_; to his _Royal Declaration_; Several _Orders_ of
+_Councel_; the _Examinations_, and _Confessions_ of _Unquestionable
+Witnesses_; The _Solemnity_ of so many _Tryals_, _Sentences_, and
+_Executions_; and the _Criminals_, Every Man of 'em, Either
+_Acknowledging_ the _Crime_, or _Justifying_ the _Treason_: But the
+_FACT_, however made as _Clear_ as the _Day_. There's the _Flight_ of
+the _Conspirators_; Their _Arms Seiz'd_; Their _Councels Laid Open_;
+_Men Listed_; The _Methods_ of the _Confederacy Detected_, to the very
+_Time_, and _Place_ for the _Perpetration_ of the _Villany_; to the very
+_Circumstance_ of the _Providential Fire_ at _Newmarket_, that
+_Disappointed_ it. I have All These _Demonstrative Proofs_, and
+_Convincing Evidences_, to _Warrant_ me in the most _Violent
+Presumptions_ of a _Rebellion_ in _Agitation_: And the _Phanatiques
+Themselves_ made good the _Worst_ Things that ever I said of the
+_Party_: In _Vindication_ of the _Importunity_ of All my _Foreboding_,
+if not _Prophetical Suspicions_: Nay, they were come to the very
+_Point_, and _Crisis_ of the _Operation_, of That _Unaccountable_, and
+_Amazing Vote_. [_If his Majesty shall come by Any Violent Death (which
+God Forbid) it shall_ be _Reveng'd to the Utmost upon the Papists_.] The
+_King_, and the _Duke_ were to be _Murder'd_ by _Republican_, and
+_Fanatical Rebells_: _There's_ your _VIOLENT DEATH_. And _Then_,
+[Reuenge it upon the Papists:] For [_the Thing_ (says _Keeling_) _was to
+be laid upon the Papists as a Branch of the Popish Plot_. Walcots Tryal.
+Fol.9.] And the _Next_ Step was, for the _Traytors_ to _Unriddle_ the
+_Mystery_, and to _Expound_, Who were the _Papists_. [_The Lord Mayor,
+and the Sheriffs_] _were Three_ of 'em. _They_, were to be Kill'd; And
+[_as many of the_ Lieutenancy _as they could get; And the Principal
+Ministers of State; My Lord_ Halifax, _My Lord_ Rochester, _and my_ Lord
+Keeper: (_They_ were _Three Papists more_.) _My Lord_ Keeper _was to
+have been_ Hang'd _upon the same Post that_ College _had hung. Sir_ John
+Moor _to be_ Hung-up _in_ Guildhall, _as a Betrayer of the Rights and
+Liberties of the City. And the Judges Lordships to be_ Flay'd, _and_
+Stuff'd, _and_ Hung-up _in_ Westminster Hall: _And a great many of the_
+Pensionary Parliament Hang'd-up, _as Betrayers of the Rights of the
+People_. Walcots Tryal, p. 15.] You have here, a _Practical Explanation_
+of the _True-Protestant Way_, (in case of _the King's Violent Death_)
+_of Revenging it to the Utmost upon the Papists_. And This Intended
+_Assassination_ (says _Ferguson_ (in the same Page)) [_Is a Glorious
+Action, and such an Action as_ I HOPE TO SEE PUBLIQUELY GRATIFY'D BY
+PARLIAMENT; _And Question not but you will be Fam'd for it, and_ Statues
+_Erected for you, with the Title of_ LIBERATORES PATRIAE. _Ibid._] Now
+when Matters were come to _This Pass_ once, I think it was High Time to
+Write _Observators_.
+
+I might Enlarge my self, upon the _Inducements_ that Mov'd me to Enter
+upon This _Province_; The _Needfullness_ of some _Popular Medium_ for
+the _Rectifying_ of _Vulgar Mistakes,_ and for _Instilling_ of
+_Dutyfull_, and _Honest Principles_ into the _Common People_, upon That
+_Turbulent_, and _Seditious Juncture_: But I am not Willing to _Clogg_
+my _Preface_, with the _Repetition_ of what I have spoken so _Expressly_
+to, in the _Book_.
+
+I am now to Advertise the _Reader_, in the next Place; That as I have
+not Strain'd, so much as _One Syllable_, in the _Whole Course_ of _These
+Papers_, beyond the _Line_ of _Truth_, Nor let fall _One Word, Contrary_
+to my _Conscience_; Nor _Layd-on_ so much as _One False Colour_, for a
+_Blind_, or a _Disguise_: As I have not done any Thing of All This, I
+say; Nor _Gratify'd_ so much as _One Passion_ to the Prejudice, of any
+_MAN_, or _THING_; or of _Common Justice it Self_: So neither, on the
+_Other_ hand, was I less _Cautious_, and _Considerate_, in the
+_Undertaking_ of This _Duty_, then I have been _Clear_, and _Impartial_,
+in the _Discharge_, and _Manage_ of it.
+
+I was no sooner Possess't, of the _Reason_, and the _Expedience_ of
+the _Thing_; but I fell presently to _Deliberate_ upon the
+_Invidious Difficulties_; The _Scandals_, _Reproches_, and a
+Thousand Other _Mischiefs_, and _Inconveniencies_, that would
+probably _Attend_ it. I laid them All _before_ me; And upon a _Full
+Computation_ of the _Matter, Pro_ and _Con_; I Resolv'd, at last, to
+Put _pen to paper_; not without some _Vanity_ perhaps, in
+_Affecting_ the _Honour_ of being _Revil'd_, by the _Blasphemers_ of
+_God_, and the _King_. I shall say Nothing of the _Traytors_; The
+_Papists_; The _Fidlers_; The _All-manner-of-Rogues_, and
+_Debauchees_ that they have _made_ me: For their _Cause_ is
+_Founded_ upon a _Sacrilegious Hypocrisy; Maintain'd_ by _Fraud_,
+_Scandal_, and _Imposture_. And when they have a mind to _Blacken_
+a man, 'tis not a _Straw_ matter, for any _Foundation_ of _Fact_, or
+_History_: But _Paint_ him as like the _Devil_ as they _Can_; and to
+make short Work on't, _One Fanatique_ Sits to _Another_, for the
+_Picture_. But _These Scurrilities_ have more of _Noise_ in 'em,
+then of _Weight_: And Those People that had the face to _Calumniate
+Charles the First_, for a _TYRANT_, and a _PAPIST_; And the
+_Confidence_, at This very day, to do as much for _Charles the
+Second_; They that _Preach REBELLION_ out of the _GOSPEL_; Give it
+the _Name_ of _GOD'S TRUTH, GOD'S CAUSE_; And offer up the _Bloud_
+of _Kings_ as an _Acceptable Sacrifice_ to _Jesus Christ_: What
+_Christian_ will not _Value_ himself, upon the _Reputation_ of lying
+under the _Scourge_ of _Those Tongues_, and _Pens_, that Offer these
+_Outrages_ to their _Maker_, and their _Saviour_? So that these
+_Clamours_, and _Maledictions_, I look upon, as Matter, rather of
+_Advantage_, then _Discredit_; Where _Loyalty_ to the _King_, and to
+the _Church_, is made the _Crime_: But yet I must Confess, I had
+_Some Other Mortifications_ in my _Thought_, that went a little
+_Nearer_ me.
+
+As first, the _Indecency_ of a _Gentlemans_ Entring into a
+_Street-Brawl_, (and _Bare-fac'd_ too) with the _Sink_ of _Mankind_,
+both for _Quality_, and _Wickedness_. 21y. The _Disproportion_, and the
+_Indecorum_ of the Thing, for an _Old Fellow_ that now Writes _Sixty
+Eight_, to run about, a _Masquerading_, and _Dialoguing_ of it, in
+_Twenty Fantastical Shapes_, only to furnish a _Popular Entertainment_,
+and _Diversion_. 31y. The _Scandalous Appearance_ of it, for Me to take
+up the _Profession_, and _Bus'ness_ of a _Pamphleteer_; And (almost) to
+Lose the _Name_ of my _Family_, by it, in _Exchange_ for That of the
+_Observator_. 41y. I had This Prospect before me too. What
+_Construction_ would be made upon't; (If I may speak it with _Modesty_)
+even to the _Lessening_ of my _Character_; And Consequently, to my
+Detriment, Every way, as well in Respect of _Fortune_, as _Esteem_: For
+men are apt, in such Cases as This, to _Mistake_, the _Intent_, as well
+as the _Reason_ of the _Office_; and to Impute the most _Sacred_, and
+_Consciencious Zeal_ of an _Upright Heart_, in the performance of the
+most _Important_, and _Necessary Duty_, only to a _Levity_ of _Mind_,
+perchance; Or in Other Terms; to an Over _Officious_, and _Pragmatical
+Itch of Medling_: It makes a man to be lookt upon, as if a _Pamphlet_
+were his _Masterpiece_; and when he's once _Nail'd_ to _That Post_, he
+may reckon upon't, that he's at the _Top_ of his _Preferment_. Upon
+These _Four Difficulties_, I Reason'd with my self, after This Manner.
+To the _First_; What do I care, for having so much _Dirt_ Thrown at me,
+that will _Wash off_ again? And at the worst, the Engaging with such a
+_Rabble_ of _Contaminated Varlets_, is no more then _Leaping_ into the
+_Mud_ to help my _Father. Secondly. 'Tis not for a man in years_, to do
+so and so. Well! And here's a _Reputative Circumstance_, on the _One_
+hand, against an _Indispensable Duty_, on the _Other_. The _Common
+people_ are _Poyson'd_, and will run _Stark Mad_, if they be not
+_Cur'd_: Offer them _Reason_, without _Fooling_, and it will never
+_Down_ with them: And give them _Fooling_, without _Argument_, they're
+never the _Better_ for't. Let 'em _Alone_, and All's _Lost_. So that the
+_Mixture_ is become as _Necessary_, as the _Office_; And it has been _My
+Part_, only to _Season_ the _One_ with the _Other. Thirdly_, I must Set
+the _Conscience_ of the Action, against the _Reproch_. And _Lastly; 'Tis
+nothing to me what Other People_ Think, _so long as I am Conscious to my
+Self that I Do what I_ Ought.
+
+All This I Computed upon, _before-hand_; And thus far, I have not been
+_Deceiv'd_ in my _Account_. I have been _Baited_ with _Thousands_ upon
+_Thousands_ of _Libells_. I have Created _Enemies_ that do me the
+_Honour_ to _Hate_ me, perhaps, next to the _King Himself_ (God Bless
+him) and the _Royal Family_. Their _Scandals_ are _Blown over_: Their
+_Malice, Defeated_, And whenever _my Hour comes_, I am ready to Deliver
+up my _Soul_, with the _Conscience_ of an _Honest Man_, as to what I
+have done, in _This Particular_: And I do here Declare, in the
+_Presence_ of an _All-Seeing_, and an _All-Knowing God_, That as I have
+never yet receiv'd any _Answer_, more then _Cavil_, and _Shuffling_, to
+the _Doctrine_, and _Reasoning_ of _These Papers_: So I never _made use_
+of Any _Sophism_, or _Double Meaning_, in Defence of the _Cause_ that I
+have here taken upon me to _Assert_: But have dealt _Plainly_, and
+_Above-Bord_, without either _Fallacy_, or _Collusion_.
+
+After This _View_ of the _Worst side_ of my _Case_; (And (in truth) a
+kind of _Abstract_ of it, in _Minutes_) I should be Extremely wanting,
+both to _God_ and _Man_, in not taking _This Occasion_, of making
+_known_ to the _world_, the _Many Generous Instances_ of _Affection_,
+and _Respect_, which I have received, not only from the most
+_Considerable_ Part of his Majesties _Loyal Subjects_ of _All
+Qualities_, and _Degrees_; But _Particularly_ from the _Two Famous
+Universities Themselves_: And, in short, from the most _Eminent Persons_
+of the _Long Robe_, in their _Several Professions_: In _Testimony_ of
+their _Favourable Acceptance_ of my _Honest Endeavours_ toward the
+Service, both of the _Church_, & the _State_. And This I am Obliged to
+leave behind me, upon _Record_; out of a _Double Right_, & _Regard_, as
+well to my _Friends_, as to my _Self_: For I reckon upon it, as an
+_Accumulation_ of _Honour_, to _Me_, to be _Rescu'd_ out of the hands of
+_Publique Enemies_, and _Apostates_, by Men of the Clear _Contrary
+Character_; That is to say; by Men of _Unquestionable Integrity_, and of
+_Unspotted Faith_.
+
+My _Back Friends_ are as _Merry_, now, as _a Laugh on One side of the
+Mouth_ can Make 'em; at the _Conceit_ of calling the several _Presents_
+which have been made me (and they are very _Considerable_) by the name
+of a _Gathering_; and they do not Stick to put it about, That I was my
+_Own Sollicitor_ for the _Begging_ of it. I have been Told of One, that
+_said_ as much; _for whose sake_, I would Advise _All Parents_ to take
+it for a _Warning_, not to _Stuff_ their _Childrens Heads_ so Damnably,
+with _Greek and Latin_, as to leave no _Room_ for _Brains_, and _Good
+Manners_. But what if it _be a Gathering_? Are not All _Publique
+Benevolences; Publique Works; Publique Acknowledgments_; the _same
+Thing_? Neither do I find any more _Scandal_, in receiving a _Reward_
+for a _Service_ in a _Common Cause_, then in a _Lawyers_ taking a _Fee_,
+in a _Private_ One: But be it what it _will_: I shall Transmit the
+_Acknowledgment_ of it, with This Paper, as the _Glory of my Life_: And
+Value my self Incomparably more upon so _Eminent_ a _Mark_ of a _General
+Esteem_; then upon the _Advantage_ of _Ten times a Greater Sum_, by _Any
+Other way_. But _Gatherings_, with some People, are only _Honourable_,
+when they are Apply'd to the _Maintaining_ of _Conspirators_, and
+_Affidavit-Men_: And they Account _Money_ much better _Bestow'd_ upon
+the _Subversion_ of the _Government_, then toward the _Defending_ of it:
+But _That Orange is Squeez'd as far as 'twill Drop, already_.
+
+Now to the _Calumny_ of _My Setting This Bus'ness afoot; First_, I thank
+God, that neither my _Mind_, nor my _Condition_ were ever Sunk _so_ Low,
+yet, as to _Descend_ to _That way of Application_. 21y, As I hope to be
+Sav'd, the Matter was Proceeded upon, in _Several Places_, and a _Long
+Time_, before ever I had the Least _Inkling_, or _Imagination_ of it;
+And when it was so far _Advanc'd, without my Privity_, I must Certainly
+have been both a Great _Fool_, and a Great _Clown_, either to have
+_Oppos'd_, or _Refus'd_, a Token of so _Obliging_, and so _Generous_ a
+_Respect_. To Conclude; If any man has been so _Misled_, as to _Intend_
+That for a _Personal Charity_; which I cannot _Honourably_ Own the
+_Receiving_ of, under _That Notion_; I am ready to Return him his
+Proportion, with a Thousand Acknowledgments: But This shall not Hinder
+me yet, from _Cherishing_ in my _Thoughts_, the _Remembrance_ of what
+_Honour_ soever has been done me for the sake of the _Publique_.
+
+The Reflexions that have been Pass'd upon my _Quality_, and
+_Conversation_, need no Further Answer, then to Appeal to my very
+_Name_, and my _Acquaintance_: But for the _Charge_ of being a _Papist_,
+it is as _False_, as it is _Malicious_.
+
+I am to say One Word more now, concerning my _L. Shaftsbury_; whose
+_Name_, and _Title_, I have often Occasion to make mention of, in This
+Book. The _Reader_ is to take Notice, that it is Intended of the _Late
+Earl of Shaftsbury_, who Dy'd at _Amsterdam, Jan. 168-2/3. The Surviving
+Heir of That Honour, and Family, having ever Demean'd himself with a
+Remarkable Loyalty, and Respect, toward the King, and his Government_.
+
+
+
+
+=Numb. 1.=
+
+THE OBSERVATOR.
+
+In _QUESTION_ and _ANSWER_.
+
+=WEDNESDAY=, April 13. 1681.
+
+
+_Q. WEll! They are so. But do you think now to bring'um to their Wits
+again with a_ Pamphlet?
+
+_A._ Come, Come; 'Tis the _Press_ that has made'um _Mad_, and the
+_Press_ must set'um _Right_ again. The Distemper is _Epidemical_; and
+there's no way in the world, but by _Printing_, to convey the _Remedy_
+to the _Disease_.
+
+_Q. But what is it that you call a_ Remedy?
+
+_A._ The _Removing_ of the _Cause_. That is to say, the _Undeceiving_ of
+the _People_: for they are well enough Disposed, of themselves, to be
+Orderly, and Obedient; if they were not misled by _Ill Principles_, and
+Hair'd and Juggled out of their Senses with so many Frightful _Stories_
+and _Impostures_.
+
+_Q. Well! to be Plain and Short; You call your self the_ Observator:
+_What is it now that you intend for the Subject of your_ Observations?
+
+_A._ Take it in few words then. My business is, to encounter the
+_Faction_, and to Vindicate the _Government_; to detect their
+_Forgeries_; to lay open the Rankness of their _Calumnies_, and
+_Malice_; to Refute their _Seditious Doctrines_; to expose their
+_Hypocrisy_, and the _bloudy Design_ that is carry'd on, under the Name,
+and Semblance, of _Religion_; And, in short, to lift up the Cloke of the
+_True Protestant_ (as he Christens himself) and to shew the People, the
+_Jesuite_ that lies skulking under it.
+
+_Q. Shall the_ Observator _be a_ Weekly Paper, _or How_?
+
+_A._ No, No; but oftner, or seldomer, as I see Occasion.
+
+_Q. Pray favour me a word; When you speak of a_ True Protestant, _don't
+you mean a_ Dissenting Protestant?
+
+_A._ Yes, I do: For your _Assenting_ and _Consenting Protestant_ (you
+must know) is a _Christian_.
+
+_Q. And is not a_ Dissenting Protestant _a_ Christian too?
+
+_A._ Peradventure, he _is_ one; peradventure, _not_: For a _Dissenter_
+has his Name from his _Disagreement_, not from his _Perswasion_.
+
+_Q. What is a Dissenter then?_
+
+_A._ Tis Impossible to say either what a _Dissenter IS_, or what he is
+_NOT_. For he's a _NOTHING_; that may yet come to be _ANY thing_. He may
+be a _Christian_; or he may be a _Turk_; But you'l find the best account
+of him in his _Name_. _A DISSENTER, is one that thinks OTHERWISE._ That
+is to say, let the _Magistrate_ think what he pleases, the _Dissenter_
+will be sure to be of _another Opinion_. A _Dissenter_ is not of _This_,
+or of _That_, or of _Any Religion_; but _A Member Politique of an
+Incorporate Faction_: or Otherwise; A _Protestant-Fault-Finder_ in a
+_Christian Commonwealth_.
+
+_Q. Well! but tho' a_ Dissenter _may be_ any thing; _A_ Dissenting
+Protestant _yet tells ye_ what _he Is_.
+
+_A._ He does so, he tells ye that he _is_ a _Negative_: an
+_Anti-Protester_; One that _Protests AGAINST_, but not _FOR_ any thing.
+
+_Q. Ay; but so long as he opposes the_ Corruptions _of the Church of_
+Rome.
+
+_A._ Well: And so he does the _Rites_, and _Constitutions_ of the Church
+of _England_ too. As a _Protestant_, he does the _former_; and the
+_Other_ as a _Dissenter_.
+
+_Q. But is there no_ Uniting _of These_ Dissenters?
+
+_A._ You shall as soon make the Winds blow the same way, from all the
+Poynts of the Compass.
+
+_Q. There are_ Good _and_ Bad, _of_ all Opinions, _there's no doubt
+on't: But do you think it fayr, to Condemn a_ whole Party _for some_ Ill
+men _in't_?
+
+_A._ No, by no means: The _Party_ is neither the _Worse_, for having
+_Ill_ men in it, nor the _Better_, for _Good_. For whatever the
+_Members_ are, the _Party_ is a _Confederacy_; as being a _Combination_,
+against the _Law_.
+
+_Q. But a man may_ Mean honestly, _and yet perhaps ly under some_
+Mistake. _Can any man help his Opinion?_
+
+_A._ A man may _Mean well_, and _Do Ill_; he may shed _Innocent Bloud_,
+and _think he does God good Service_. 'Tis True: A man cannot help
+_Thinking_; but he may help _Doing_: He is _Excusable_ for a _Private_
+Mistake, for _That's_ an Error only to _himself_; but when it comes once
+to an _Overt Act_, 'tis an _Usurpation_ upon the _Magistrate_, and
+there's no Plea for't.
+
+_Q. You have no kindnesse, I perceive, for a_ Dissenting Protestant;
+_but what do you think of a bare_ Protestant _without any_ Adjunct?
+
+_A._ I do look upon _Such_ a _Protestant_ to be a kind of an _Adjective
+Noun-Substantive; It requires something to be joyn'd with it, to shew
+its Signification_. By _Protestancy_ in _General_ is commonly understood
+a _Separation_ of Christians from the Communion of the Church of _Rome_:
+But to _Oppose Errors_, on the _One hand_, is not Sufficient, without
+keeping our selves _Clear_ of Corruptions, on the _Other_. Now it was
+the _Reformation_, not the _Protestation_, that Settled us upon a _true
+Medium_ betwixt the two _Extreams_.
+
+_Q. So that you look upon the_ Protestation, _and the_ Reformation, _it
+seems, as two several things_.
+
+_A._ Very right; But in such a manner only, that the _Former_, by Gods
+Providence, made way for the _Other_.
+
+_Q. But are not all_ Protestants _Members of the_ Reformed Religion?
+
+_A._ Take notice, _First_, that the _Name_ came Originally from the
+_Protestation_ in 1529. against the _Decree of Spires_; and that the
+_Lutheran Protestants_ and _Ours_ of the Church of _England_, are not of
+the _Sam Communion_. Now _Secondly_; If you take _Protestants_ in the
+_Latitude_ with our _Dissenters_, they are not so much a _Religion_,
+as a _Party_; and whoever takes this Body of _Dissenters_ for _Members_
+of the _Reformed Religion_ sets up a _Reformation_ of a _hundred and
+fifty Colours_ and as may [sic] _Heresies_. The _Anabaptists, Brownists,
+Antinomians, Familists, &c._ do all of them set up for _Dissenting
+Protestants_; but God forbid we should ever enter these _People_ upon
+the Roll of the _Reformation_.
+
+_Q._ Well! _but what do you think of_ Protestant Smith _and_ Protestant
+Harris?
+
+_A._ Just as I do of _Protestant Muncer_, and _Protestant Phifer_; a
+Brace of _Protestants_ that cost the Empire 150000 Lives: and our own
+_Pretended Protestants_ too, of Later Date, have cost _This Nation
+little lesse_.
+
+_Q. Ay: But these are men of quite another Temper: Do not you see how
+zealous they are for the Preservation of the_ King's Person, _the_
+Government, _and the_ Protestant Religion?
+
+_A._ I _See_ well enough what they _Say_, and I _know_ what they _do_.
+Consider, _First_, that they are Profess'd _Anabaptists: Smith_ no less
+then a _pretended Prophet_; and the _Other_, a kind of a _Wet
+Enthusiast. Secondly_; 'tis the very _Doctrine_ of the _Sect_ to root
+out _Magistracy_, Cancel _Humane Laws; Kill_, and take _Possession_; and
+_wash their Feet with the Bloud of the Ungodly_; and where ever they
+have set Footing, they have _Practic'd_ what they _Taught_. Are not
+these likely men now, to help out a _King_, and a _Religion_, at a dead
+lift? If you would be further satisfy'd in the Truth of things, reade
+_Sleidan, Spanhemius, Gastius, Hortensius, Bullinger, Pontanus, The
+Dipper dipp'd, Bayly's Disswasive, Pagets Heresiography_, &c.
+_Hortensius_ tells ye, how _Jack of Leydens Successor_ murthered his
+Wife, to make way to his Daughter, _P._ 74. and after that, cut a girls
+throat, for fear she should tell Tales. _Gastius_ tells us of a Fellow
+that cut off his brothers Head, as by Impulse, and then cry'd, _The Will
+of God is fulfilled, lib. I. Pa. 12. Jack of Leyden_ started up from
+Supper, _to do some business_ (he said) _which the Father had commanded
+him_, and cut off a Soldiers Head; and afterwards cut off his Wives head
+in the _Market-place. Sleydans Comment. Lib. 10._
+
+_Q. You will not make the_ Protestant-Mercury _to be an_ Anabaptist
+_too, will ye_?
+
+_A._ If you do make him _any thing_, I'le make him _That_. But in one
+word, they are _Factious_ and _Necessitous_; and consequently, the
+fittest Instruments in the world, for the Promoting of a _Sedition_.
+First, as they are _Principled_ for't; and then, in respect of their
+_Condition_; for they are every man of them under the Lash of the Law,
+and Retainers to Prisons; So that in their _Fortunes_ they can hardly
+be _worse_. Insomuch, that it is a common thing for them to lend a Name
+to the countenancing of a Libel which no body else dares own.
+
+_Q. Well! but let them be as_ poor, _and_ malicious _as_ Devils, _so
+long as they have neither_ Brains, _nor_ Interest, _what hurt can their
+Papers do_?
+
+_A._ The Intelligences, you must know, that bear their _Names_, are not
+of _their Composing_, but the Dictates of a _Faction_, and the Venom of
+a Club of _Common-wealths-men_ instill'd into those Papers.
+
+_Q. These are_ Words, _all this while, without_ Proofs; _Can you shew us
+particularly where the Venom lies?_
+
+_A._ It is the business of every Sheet they Publish, to Affront the
+_Government_, the _Kings Authority_, and _Administration_; the
+_Privy-Council_; the _Church, Bench, Juries, Witnesses_; All _Officers,
+Ecclesiastical, Military_, and _Civil_: and no matter for _Truth_ or
+_Honesty_, when a _Forg'd Relation_ will serve their turn. 'Tis a common
+thing with them, to get half a dozen _Schismaticall_ Hands to a
+_Petition_, or _Address_ in a corner, and then call it, the sense of the
+Nation: and when all's done, they are not above twenty Persons, that
+make all this Clutter in the Kingdom.
+
+_Q. But to what End do they all this?_
+
+_A._ To make the Government _Odious_, and _Contemptible_; to magnifie
+their own Party; and fright the People out of their _Allegeance_, by
+_Counterfeit Letters, Reports_, and _false Musters_, as if the sober and
+considerable part of the Nation were all on their side.
+
+_Q. We are in Common Charity to_ allow, _for_ Errors, _and_
+Mis-reports, _and not presently to make an Act of_ Malice, _and_
+Design, _out of every_ Mistake. _Can you shew me any of these_
+Counterfeits, _and_ Impostures _that you speak of? These_ Cheats _upon
+the_ People, _and_ Affronts _upon the_ Government?
+
+_A._ Yes, yes; Abundantly. And Il'e give you Instances immediately upon
+every poynt you'l ask me: Only This note, by the way; That let them be
+_mistakes_, or _Contrivances_, or what you will, they all run
+Unanimously _against_ the Government, without so much as one Syllable in
+_favour_ of it: Which makes the matter desperately suspitious.
+
+_Q. Let me see then, in the First place, where any_ Affront _is put upon
+the_ Government.
+
+_A. Some Persons_ (Says Smiths Prot. Int. N. 7.) _in_ Norwich, _&c. who
+have a greater stock of_ Confidence, _and_ Malice, _then_ Wisdom, _and_
+Honesty, _are so far transported with_ Zeal _to serve the_ Devil, _or
+his_ Emissaryes _the_ Papists, _that they are now Prosecuting several_
+Dissenting Protestants _upon_ Stat. 35. Eliz. _&c._ (And so the
+Protestant-Mercury, _N._ 15.) _Some People at_ Norwich, _are playing
+the_ Devil _for_ Godsake: _several honest, peaceable_, Protestant
+Dissenters, _having been troubled for not coming to_ Church, _or having
+been Present at_ Religious Meetings &c. Now what greater _Affront_ can
+there be to _Government_, then This language, _First_, from an
+_Anabaptist_ that is a _Professed Enemy_ to _all Government_; and
+_Secondly_, from a _Private Person_, Bare-fac'd, to arraign a _Solemn
+Law_: A _Law_ of this _Antiquity_; a _Law_ of _Queen Elizabeth's_, (a
+Princesse so much Celebrated by our _Dissenters themselves_ for her
+_Piety, Good Government_, and _Moderation_;) a _Law_ which, upon
+Experience, has been found so _Necessary_, that the bare _Relaxing_ of
+it, cost the _Life_ of a _Prince_, the _Bloud_ of _two or three hundred
+thousand_ of his _Subjects_, and a _Twenty-years-Rebellion_? To say
+nothing of the dangerous Consequence of making it _Unsafe_ for
+_Magistrates_ to discharge their Dutyes, for fear of _Outrages_, and
+_Libells_.
+
+_Q. Well! but what have you to say now to the_ Kings Authority, _his_
+Administration, _and his_ Privy Council.
+
+_A. Smith_ (in his _Vox Populi, P._ 13.) saith, that _the King is
+oblig'd to pass or Confirm those Laws his People shall Chuse_, at which
+rate, if they shall tender him a Bill for the _Deposing_ of himself, he
+is bound to _agree_ to't. _Secondly_, in the same Page, _he Denies the
+Kings Power of Proroguing, or Dissolving Parliaments_; which is an
+_Essential_ of _Government_ it self, under what Form soever, and he's no
+longer a _King, without it_. And then for his _Administration, P._ 1.
+the _Anabaptist_ charges upon his Majesty [_those many surprizing and
+astonishing Prorogations, and Dissolutions_ (as he has worded his
+Meaning) _to be procur'd by the Papists_.] And then, _P._ 15. he wounds
+both the _King_, and his _Council_, at a Blow; in falling upon _those
+that make the King break his Coronation-Oath_; arraigning his _Council_
+in the _First_ place, and the _King himself_ in the _Second_; and that
+for no less then the breach of _Oath_, and _Faith_.----Wee'l talk out
+the Rest at our next Meeting.
+
+_London_, Printed for _H. Brome_, at the Gun in S. _Pauls_ Church-yard.
+
+
+
+
+=Numb.= 13.
+
+THE OBSERVATOR.
+
+In _QUESTION_ and _ANSWER_.
+
+=SATURDAY=, May 14. 1681.
+
+
+_Q_. _But which way lies_ your _Humour_ then?
+
+_A._ My way (you must know) lies more to _History_, and _Books_, and
+_Politicks_, and _Religion_, and _such as That_, But take this along
+with you too; that I am for turning over of _Men_, as well as _Books_;
+for that's the Profitable Study when all's done.
+
+_Q. Pre' thee commend me to the_ Common Hangman _then, If He that_ turns
+over _the most_ men _be the_ Greatest Philosopher. _But how_ turning
+over _of_ Men?
+
+_A._ That is to say, I _Read_ Them; I _Study_ them; I speak of _turning
+over_ their _Actions_, not their _Bodys_. And Pray observe my _Simile.
+Every_ Action _of a mans_ Life _resembles_ a Page _in a_ Book. D'ye Mark
+me?
+
+_Q._ I _were to Blame else, But what are the Authors that you would
+recommend to a bodys Reading?_
+
+_A._ Why thereafter as the Subject is, As for _History_; ye have _Clarks
+Lives_, and _Examples_; _Lloyd's Memoirs_; the _Popes Warehouse_, &c.
+For _Politicks_; There's Mr. _Baxters Holy Commonwealth_, the _Assemblys
+Catechism_, The Letter about the _Black Box_, &c. For _Law_, ye have Mr.
+_Prinn's Soveraign Power of Parliaments_; _Smiths Vox Populi_, &c. For
+_Morals_, There's _Youth's Behaviour_; And then For _Deep Knowledge_, ye
+have _Brightman's Revelations Reveal'd_; _Lilly's Hieroglyphicks_; the
+_Northern Star_, _Jones_ of the _Heart_: All Excellent Pieces in their
+kinds, and not Inferior (perhaps) to any of the Ancients.
+
+_Q. I was never so happy as to meet with any of these Authors. But what
+d'ye think of_ Cornelius Tacitus?
+
+_A._ A _Talking, Tedious, Empty Fellow_.
+
+_Q. Well but is not_ Titus Livius _a pretty Good_ Historian?
+
+_A._ Ha Ha Ha. That Same _Titus_ is an Errant _Puppy_, A _Damn'd,
+Insipid, Lying Coxcomb. Titus Livius_ a good _Historian_ sayst thou? Why
+if I had a _Schoolboy_ that writ such _Latin_ I'de tickle his _Toby_ for
+him.
+
+_Q. But what's your Opinion of_ Caesars Commentaries _then? I mean, for
+a_ Narrative?
+
+_A._ A _Narrative_ d'ye say? Deliver me from such _Narratives_! Why 'tis
+no more to be compar'd to the _Narratives_ that are written _now adays_,
+then an _Apple_ is to an _Oyster_.
+
+_Q. But however He was a very_ Brave Fellow, _was he not_?
+
+_A._ He was an _Arbitrary_, Oppressing, Tyrannical _Fellow_. And then
+for his _Bravery_, he did pretty well at the Battel of _Leipsick_, and
+after that, at _Lepanto_; and when you have said that, you have said
+all.
+
+_Q. You have read all these Authors, have you not?_
+
+_A._ Why verily I _have_, and I have _not_. They are a company of
+_Lying, Ridiculing Rascals_; They do not _AFFECT_ me at all: they are
+below me, they are not worth my notice.
+
+_Q. What would I give to be as well vers'd in_ History, _as you are_?
+
+_A._ And that's Impossible, let me tell ye; Utterly Impossible: For I
+reade just six times as much as any other Man. I have Read more
+_Folio's_ then ever _Tostatus_ read _Pages_. In one Word; I reade as
+much in _one hour_, as any other man reads in _six_.
+
+_Q. Why how can that be?_
+
+_A._ Why you must know I have a notable Faculty that way. I read ye _two
+Pages_ at a _view_: the _Right-hand_ Page with _one eye_, and the _Left_
+with _t'other_, and then I carry _three Lines_ before me at a time with
+_each eye_.
+
+_Q. But can ye_ Keep _what ye_ Reade, _at this rate_?
+
+_A._ I _remember_ six times more then I _reade_; for I supply all that
+was left out, and yet 'tis a wonderfull thing, I cannot for my heart's
+blood remember _Faces_. I dare swear I have taken one man for another
+twenty times; but I am altogether for _Things_, and _Notions_, d'ye see,
+and such like; _Countenances_, let me tell ye, don't _AFFECT_ me; And
+yet I have a strange aversion for the two Faces I saw with you t'other
+day.
+
+_Q. What D'ye mean_, Kings-man _and_ Church-man?
+
+_A. Devil's-man_ and _Damms-man_: A couple of _Canary-Birds_, I'le
+warrant 'em: But _Kings-man_ is better yet then _Duke's-man_.
+
+_Q. Why do ye talk thus of men of Quality, and Considerable Families?_
+
+_A._ Well! but I may live to see their Honours laid in the dust tho' for
+all that. Prethee why is not _Circingle-man, Lawn-sleeve-man,
+Mitre-man_, as good a name as _Church-man_? Pray what Family is this
+same _Church-man_ of, for I know a world of the _Name_? He's of the
+_Prelatical House_, I suppose, Is he not?
+
+_Q. Well, and is he ever the worse for that?_
+
+_A._ Only _Antichrist_ is the _Head_ of the _Family_. Come let me talk a
+little roundly to ye. How many sound _Protestant Divines_ may there be
+of that House now, d'ye think, in _England_, and _Wales_, and the Town
+of _Berwick upon Tweed_? not above _Six_, if I be a _Christian_, and all
+the rest are _Tantivy's_, and worshippers of the Beast: But I may live
+yet to have the scowring of some of their Frocks for 'em.
+
+_Q. Prethee when didst thou see Mr._ Sancroft?
+
+_A._ Not a good while; but _Harry_ and I had a Crash t'other day yonder
+at _Greenwich_.
+
+_Q. What's become of_ L'Estrange _I wonder?_
+
+_A._ Who! _Towzer?_ that _Impudent Dog_; That _Tory-Rascal_; That
+_Fidling Curr_. He's in the Plot with _Celiers_, and young _Tong_, as
+sure as thou'rt alive, and as Rank a _Papist_ (let him swear what he
+will) as ever Piss't.
+
+_Q. But has he not taken the_ Sacrament _to the_ contrary?
+
+_A._ A _Popish Proselyte_ is no more to be believ'd, upon his _Oath_,
+than the _Devil himself_ if he were to Expound upon the _Gospel_. Why
+they have Dispensations to swear any thing.
+
+_Q. What and continue Papists still?_
+
+_A._ Yes: And go on still with the Hellish Popish Plot, as heartily as
+ever they did before. Why don't you see how the Toad Brazens it out
+still that he was not at _Somerset-House_? tho' _Prance_ and _Mowbray_
+swear they saw him there?
+
+_Q. Well, But who knows best? He_ Himself, _or the_ Witnesses?
+
+_A._ Not a fart matter; For whether 'twas so or not; It were better
+Forty such Rogues were Hang'd then one Kings-Evidence Disparag'd.
+
+_Q. But did they not swear a little short, think ye?_
+
+_A._ Nay, they might have sworn _homer_, I must confess.
+
+_Q. But now you mind me of_ Somerset-House; _Do'nt you remember a young
+Fellow of_ Cambridge _that Refus'd to receive the Sacrament, because (as
+he told his Master) he was reconcil'd to the Church, of_ Rome, _and
+Converted, and Baptiz'd at_ Somerset-House? _This is an old story ye
+must know. Why might not this be_ Towzer?
+
+_A._ Nay as like as not, for the _Universitys_ are the very _Seminarys_
+of _Popery_, and it will never be well with _England_ till _those
+Calves_ be turn'd a _grazing_.
+
+_Q. But is there no believing of a_ Converted Papist _upon his_ Oath?
+_Why does the Law receive 'em then (upon such and such Certain Tests)
+for_ statutable Protestants?
+
+_A._ The _Law_ never was among 'em as _I_ have been. There's no such
+thing (I tell ye) as a _Converted Papist_, and he shall sooner change
+his _shape_, then his _Nature: Kiss a Book, Kiss mine Arse_.
+
+_Q. Why d'ye talk thus at random?_
+
+_A._ Come, come, the _Outlandish Doctor_ for my mony: that told one of
+the _Macks_ t'other day in the face of the _Bench_, that _he would let
+down his Breeches and shite upon him. Plain-dealing's a Jewell._
+
+_Q. Thou'rt e'en as busy with a_ Backside _as a_ Glyster-Pipe. _But
+(sluttery a part) Pray have a care what ye say; for if a_ Proselyted
+Papist _be not to be trusted upon his_ Oath, _what becomes of the_ Kings
+Evidence _that_ swear _under the_ same Circumstances? _But here's enough
+of this; and Pre'thee tell us now, how go squares in the_ State _all
+this while_?
+
+_A._ Oh very bad, very bad, nothing but _Tory-Rorys_, from top to
+bottom. _Tory-Judges; Tory-Jurys; Tory-Justices; Tory-Officers;
+Tory-Crackfarts; Tory-Pamphlets_. All, _Certiorari-men_, and _Yorkists_.
+But I rattled up some of 'em there at the----_What d'ye
+call't-House_----Oh they'r grown strangely Insolent since these Bawling
+Addresses.
+
+_Q. Why what do they do?_
+
+_A._ Why they set every _Rascally Squire_ and _Doctor above_ me: Nay,
+they'l scarce put off their hats to me unless I begin; and then they
+stand grinning at Me and my Train. Would you think now that a fellow
+should have the Impudence to call Me to an account, for nothing in the
+world, but saying, that _he had_ a Bitch _to his_ Wife, _and_ she _a_
+Rogue _to her_ Husband. And then to be call'd _Sirrah_ for my pains,
+only for telling a _Court-Kinsman_ of his that _I should Lace the Rogue,
+his Cozens Coat for him_. Well If I had not sent a Fool o'my errant I
+had had the Rascal in _Lob's_ Pound before this time.
+
+_Q. And how came ye to miss?_
+
+_A._ Why the Agent that I employ'd was so set upon his Guts, that he
+never minded the discourse at the Table. We had had him else. Or if he
+could but have got him to ha' met me, we'd ha' done his business.
+
+_Q. But d'ye take this to be fair dealing now; to set any man at work to
+betray his Host; or to give such language to people of Condition?_
+
+_A._ What not when the _Protestant Religion_ lies at _stake_? Why
+Pre'thee I tell the Proudest of 'em all to their Teeth, that they are
+_Villains_ and _Scoundrells_. What do I care for their _Graces_ and
+_Reverences_, they _Pimp_ for _Preferment_, and some of 'em shall hear
+on't too _next Parliament_. But Hark ye I have a great deal of work upon
+my hands, and I want an _Ammanuensis_ out of all Cry.
+
+_Q. Why ye had a Pretty Fellow to'ther day, what's become of him?_
+
+_A._ I'l tell ye then. A _Taylor_ had made him a _Garment_: and
+afterwards coming to him for the _mony_, he deny'd the Receit on't and
+being prest upon it, he offer'd to purge himself upon _Oath_, that he
+never had any such Garment. Upon this, the matter rested for a while;
+but at length, it was prov'd where he had _Sold_ it, and so the Taylor
+had satisfaction. In short, I turn'd him away apon't, for he is no
+servant for me that's _taken_ in a false Oath.
+
+_Q. How is it possible for you to go thorough with all your
+Writing-work?_
+
+_A._ Nay that's true; considering what a deal of other business I have;
+for really there would be no Justice done, if I did not look after
+_Witnesses_, _Jurys_, Choice of _City-Officers_, Election of _Members_
+to serve in _Parliament_, both for _Town_, and _Country_; the disposing
+of _Ecclesiastical Dignitys_; the _Jurisdiction_ of _Courts_; the
+_Government_ of _Prisons_; the _Regulation_ of _Messengers Fees_: In one
+word, the stress of the whole Government lyes in a manner upon my
+shoulders; And I am so _Harrass'd_ with it, that I profess I was e'en
+thinking, a little before the Meeting of the last Parliament, to lay out
+a matter of _Twenty or Thirty Thousand Pound_ upon some Pretty Seat in
+the Country, and Retire.
+
+_Q. Why truly for a man that has seen the world as you have done, what
+can he do better?_
+
+_A._ Yes, I have seen the world to my Cost. 'Twas a sad thing for me,
+you must think, that never went to bed in my Mothers House without four
+or five Servants to wait upon me, (and if I had a mind to a _Tart_, a
+_Custard_, or a _Cheescake_ at any time, I had 'em all at command:) to
+be _Hackny'd_, and _Jolted_ up and down in a Forreign Country like a
+_Common Body_.
+
+_Q. But what was it that put you upon_ Travel?
+
+_A._ The Desire I had to see _Religions_, and _Fashions_: And now it
+comes in my head. Did you ever see my _Grounds and Occasions of the
+Contempt of the Clergy_?
+
+_Q. Was That Yours then?_
+
+_A. Mum_; betwixt friends. But I shall have a touch ere long at the
+_Creed-making Rascal_ there.
+
+_Q. Who's that?_ Athanasius?
+
+_A._ The very same. What a _Declaration_ is there?
+
+_Q. But how d'ye like the Kings Declaration?_
+
+_A. Not at all. Not at all._ It runs so much upon the _Arbitrary_, and
+the _Prelatick_? Yes, and upon something else too.
+
+_Q. Come, 'Faith we should not part with dry lips, What d'ye think of
+one_ Roomer _now to the Health of? (Hark, and I'le tell ye.)_
+
+_A._ I'le drink no _Traitors_ Health.
+
+_Q. Why prethee what is_ Civilly-Drinking _his Health, more then_
+Dutifully Praying _for't_?
+
+_A._ No: I am of the mans mind that said, I _hope the Devil will have
+him; and if there be any punishment in Hell greater then another_, I
+_hope the Devil will tear his soul to pieces_. So Farewell.
+
+_Q. What a Blessed sort of_ Subjects _and_ Christians _are these, that
+value themselves in the_ One Capacity, _for their_ Contempt _of_
+Authority: _And in the_ other, _for the Zeal of Flying out into_
+Blasphemys, _and_ Execrations, _instead of_ Prayers? _But what shall_ I
+_call this at last? A_ Romantique, _or an_ Historical Observator?
+
+_London_, Printed for _Johanna Brome_, at the Gun in S. _Pauls_
+Church-yard.
+
+
+
+
+=Numb.= 110
+
+THE OBSERVATOR.
+
+In _DIALOGUE_.
+
+=SATURDAY=, March 11. 1681.
+
+
+_WHIG._ Come; I'le shew ye my _study, Tory_.
+
+_TORY._ Why you have got a Brave _Library_ here.
+
+_Wh._ For a _Choice Collection_, let me tell ye, as any is in
+_Christendom_.
+
+_To._ You have all the _Greek_ and _Latin Fathers_, I suppose; the
+_Councells_, the _Schoolmen_, and those People.
+
+_Wh._ I had'em all; but there's a great deal of _Trash_; and so I e'en
+rid my hands of'em; though some of'em did pretty well too; considering
+those _Dark Times_. Now here can I sit as _Snug_ as a _Hare_ in her
+_Form_, and Chat away a Winters Evening with a _Good Fire_, a _Pipe_,
+and a _Friend_, and never feel how the time spends.
+
+_To._ Well! And why should not You and I keep our _Conferences_ here
+too?
+
+_Wh._ Best of all: There's no body within hearing; and then we have our
+_Books_ and _Papers_ about us, and all in such Order, that I'le lay my
+Finger, Blindfold, upon any book you'le call for.
+
+_To._ But what Subject are they mostly of?
+
+_Wh._ Matters of _State, History, Travells_, The Rights and Power of the
+_People, Reformation, Religion, Discipline, Admonitions, Remonstrances,
+Petitions, Appeals_; as ye see'em mark'd upon the Shelves. But all this
+is nothing, you'l say, when y'ave seen my _Gallery_. Open that same Door
+before ye.
+
+_To._ Bless me! What a Treasure's here?
+
+_Wh._ Look ye now. That side is all _News-Books,_ and _Political
+Divinity_.
+
+_To._ You mean _Polemical_ Divinity I suppose.
+
+_Wh._ Ay Ay; 'Tis all one for that. Now all to'ther side is _Dissenting
+Protestants_; as _Cartwright, Brown, Barrow, Robinson_, _Hetherington,
+Trask, Naylor, Best, Biddle, Muggleton_. And here are your _Muncerians,
+Apostoliques, Separatists, Catharists, Enthusiasts, Adamits, Huttites,
+Augustinians, Libertines, Georgites, Familists, Ranters Seekers,
+Sweet-Singers, Antinomians, Arrians, Socinians, Millenaryes, Quakers_:
+And in Two words; all the _Godly Party_. They make Fourteen Folio's of
+Catalogue.
+
+_To._ But ha'ye no _Manuscripts_?
+
+_Wh._ Yes I have Three cases there beyond the Chimny, that I wou'd not
+change for _Bodlies Library_ three times over.
+
+_To._ What do they treat of?
+
+_Wh._ Two of 'em are altogether upon the _Art of Government_, and the
+_Third_ is Cramm'd with _Lampoon_ and _Satyr_. You sha'not name me any
+one Copy that has scap'd me; nor any Exigent of State; but I'le furnish
+ye out of these Papers with an Expedient for't.
+
+_To._ And wherein does this _Art of Government_ Consist?
+
+_Wh._ In _Foresight, Experience, Presence of Thought, Prudence of
+Direction_, and _Vigour of Execution_. To be short; Every Motion of the
+_Head_, the _Eye_, the _Hand_, the _Foot_, the _Body_. Contributes a
+part to this Great Work.
+
+_To._ Is it a Science that may be Convey'd by _Instruction_?
+
+_Wh._ With as much Ease as _Fencing_, or _Dancing_. There are Three or
+Four _Dissenting Academies_ here about the Town, where People are taught
+to _Nod, Wink, Gape, Cough, Spit_; Nay the very _Tuning_ of their
+_Hum's_ and _Haw's_, by _Rule and Method_; when to _Smite the Breast_,
+and when to _Dust the Cushion_; when to _Leap_ in the _Pulpit_, and when
+to _Swim_; when to be _Serene_, and when to _Thunder_: Nay the _Faces_
+they are to make at every _Period_; and the very _Measure_ of their
+_pauses_; that the _Parenthesis_ may be large enough for the _Groans_, &
+_Ejaculations_ of the _Secret ones_ to _Play_ in; they are taught to
+Pray for the _King_ with _One Tone_ and _Countenance_, and for the
+_Parliament_ with _another_.
+
+_To._ I have Observ'd them indeed to Cry with a Loud Voice, _Lord!
+strengthen the Hands of the One_, & then to drop the Note into a kinde
+of a Piping whisper, with a _Lord! Turn the Heart of the Other_; which
+is as much as to say, _Alas! the Poor Gentleman is out of his way, and
+we must set all hands at work to bring him to comply with his_
+Parliament, _though that_ Handy work, _at last, bring his_ Royall Head
+_to the_ Scaffold.
+
+_Wh._ If you wou'd not be a _Rogue_ now and tell tales, I could let ye
+in to the whole _Popular Mystery_; and shew ye the _Folly_, and the
+_Vanity_ of any other Claim to _Sovereign Power_. And then _I_ have all
+the _Prints_ brought me as soon as ever they come out.
+
+_To._ Pre'thee let's fall to work then.
+
+_Wh._ Come, I'le give you a sight of one of my _Boxes_ first; but I must
+be gone in a quarter of an hour upon absolute Necessity.
+
+_To._ Well! And whether in such hast?
+
+_Wh._ There's One at _Newington_ has promis'd me an _Answer_ to the
+_Dissenters Sayings_; and then I am told of a _Godly Divine_ at
+_Clapham_, that has a _Reply_ ready to the _Notes upon College_.
+
+_To._ Let's make the best of our time then. Stay a little; what have we
+here?
+
+_Wh._ Every thing is _Titled_, ye see, ready to your hand; so that you
+may Pick and Chuse.
+
+_To._ Let me see then. _Pious Frauds; Mentall Reservations;
+Infallibility of the Assembly; Baxters Saints; Cases of Conscience;
+Dispensations, Contributions, Maxims, Intelligence, Orders, Committees,
+Juryes, Caballs, Religion, Property, Demands, Proposals, Grievances,
+Pretences, Salvo's, Distinctions, Explanations, Projects, Directions,
+Advices, Resolutions, Invectives, Fictions, Forms of Reproaches_, suited
+to _All Persons, Orders_, and _Qualities; True-Protestant Privileges_;
+The _Doctrine_ of _Probabilityes_, and _Implicit Obedience_.
+
+_Wh._ Now upon all these Heads, ye have _Authoritys, Precedents_; and
+all the _Colours, Arguments_, and _Elucidations_ that the matter will
+bear.
+
+_To._ But your _Pious Frauds, Mentall Reservations, Infallibility,
+Dispensations, Salvo's, Distinctions, Probabilityes, Implicit Faith_;
+These are all _Popish Points_.
+
+_Wh._ They are so, when they are apply'd to the service of the
+Church of _Rome_: but the _True Protestant-Cause Sanctifies_ the
+_Principle_. As there's a great difference betwixt the _Popes
+Excommunicating_ of an _Hereticall Prince_; and the _Generall
+Assemblys Excommunicating_ of an _Antichristian, Episcopall Prince_;
+betwixt a _Popish Gunpowder-Treason_, in the _Cellers, under_ the
+_Parliament-House_; and a _Gunpowder Commission_ to _Kill_ and
+_Slay_ within the _walls_ of the _Same House, above ground_; though
+to Carnal Eyes they may both appear to _Center_ in the same _Point_:
+And so in like manner, betwixt a _Conspiracy_ of _Papists_ to _cut
+off the King_, and _Subvert the Government_; and a
+_True-Protestant-Association_, to the very _same Effect_: Nay with
+this Advantage too; that the Latter Propounds the Accomplishing of
+that, in a matter of a _month_ or _six weeks_, which the Zeal of
+their Fore-fathers was at least _Ten_, or a _dozen years a doing_.
+
+_To._ 'Tis a Great Ease for a man to have all these Subjects
+_Common-Plac'd_ to his hand.
+
+_Wh._ Right. And where you may turn to any thing you have a mind to see,
+with a _wet Finger_.
+
+_To._ But Pray'e How do you approve (in many of our _Seisures_) of the
+_Application_ of _Popish Trinkets_ to _Prophane Uses_, which were by
+them Dedicated to the service of a _Superstitious Religion_?
+
+_Wh._ You cannot Imagine, though an _Embroder'd Cope_ may be an
+_Abomination_, what a _Cordial the Pearl_ of it is to a _True-Protestant
+Professor. Lambs-Wool_ drinks no way better then out of a _Chalice_. Or
+in other Cases; 'Tis but Destroying the _Popish Form_ of an _Idolatrous
+Vessell_, and the _Intrinsick Value_ is never the less _Current_
+according to the _Standard_ of the _Reformation_. The _Picture_ of the
+_Blessed Virgin_, with our _Saviour_ in her Arms, is never a jot the
+worse for _sale_ to a _Painter_, for being an object of _Idolatry_ about
+the _Altar_.
+
+_To._ And yet I have seen it Committed to the _Flames_, but it has been
+an Oversight, betwixt the _Zeal_ and the _Ignorance_ of the
+_Magistrate_. How many _Curious Crucifixes_, and _Reliques_, with
+_Delicate Inlayings_, and _Carvings_ have I seen Expos'd at _Gill_ the
+_Constables_ in _Westminster_; truly, at very _Reasonable Rates_?
+
+_Wh._ Not unlikely; but then ye must know, they were _Seiz'd_ in _One
+Capacity_, and _sold_ in _Another_; for they were _vended_ in the
+Contemplation of the _Workmanship_, though they were _taken_ as the
+_Fooleries_ of a _False Religion_. We have in our days seen the
+_Representation_ of the _Trinity_, Demolish'd in a _Church-Window_, with
+Extraordinary _Zeal_ and _Approbation_.
+
+_To._ Why truly I am as much against the making of any _Image_ or
+_Figure_ of _God the Father_ under the _Form_ of a _Man_, as any body;
+for _Twenty Mistakes_ and _Inconveniencies_ that may arise upon the
+Consideration of such an _Object_; but I know no hurt in the world in
+the Representing of our _Saviour_ under a _Human shape_; or of the _Holy
+Ghost_ under the shadow of a _Dove_: beside that the thing is presum'd
+to have been done by _Authority_; for otherwise, the same _Zeal_ that
+Destroys but the _Window_ of the _Church_, would not stick at the
+Destroying perhaps of every thing else that belongs to't. But prethee
+tell me One thing, suppose the _Blessed Trinity_, so Represented, should
+be the _Seal_ of an _Ancient_ Community, or _Society_ of men, what's the
+difference betwixt that _Figure_, in _Graving_, or in _Nealing_; in
+_Silver_, or in _Glass_? Would not you as much _scruple_ the putting of
+that _Seal_ to a _Lease_, as the _seeing_ of that _Figure_ in a
+_Church-Window_?
+
+_Wh._ No; by no means; for the _One_ is Purely a _Civil Act_; and the
+_Other_ has a Regard to _Religious Worship_.
+
+_To._ And yet this _Image_, or _Pretended Resemblance_, is the _same
+thing_ in the _One_, as it is in the _Other_. Well! I am Extremly
+pleas'd with this Private Corner for Liberty of Discourse.
+
+_Wh._ Here you may have all the _Papers_ as they come out, _Fresh and
+Fresh_: All the _Arguments_, and _Politiques_ of the _Dissenting Party_;
+Chuse _your own Theme_, Take _your own Time_, and Treat upon _your own
+Conditions_.
+
+_To._ That's as fair as any Mortall can wish; So that when the day does
+not afford other matter to work upon, we may Look a little more narrowly
+into the _Merits_ of the _Cause_. And so much for that. But here let me
+ask ye a Question: Do you know a _Little Cause-Jobber_ yonder somewhere
+about _Kings-street, in Covent Garden_?
+
+_Wh._ Does he not use the _Christian Coffee-House_?
+
+_To._ The very same. He was saying t'other day that _L'Estrange_ was a
+_Pensioner of Cromwels_; a _Papist_; and that he durst not bring his
+_Action_ against any man for _Calling_ him so: That he was a _Rogue_; a
+_Fidler_; Liv'd in _Covent-Garden_ a good while, and got his _Living_ by
+his _Trade_; And that a _Magistrate_, not far from that place, would
+_Justify_ it. The Two first Points, I suppose, will be Disputed in
+another place: And for the _Fidler_: 'Tis well known that _L'Estrange_
+liv'd Eight or Nine years in one of the _Piazza-Houses_ there; and kept
+_Servants_ that would have Scorn'd to have Sorted themselves with any
+thing so mean as this _Paltry Varlet_. But to the Business. How far will
+the _Privilege_ of a _True-Protestant-Whig_ Justify a _Villain_ in so
+many _Scandalous Lyes_?
+
+_Wh._ So far as the _Common Good_ of the _Cause_ is more Valuable then
+the _single Credit_ of a _Private Person_. But what say ye now to
+_Curtis's Advertisement_ (in his Last _Mercury_) of _Tong's Narrative_,
+and _Case_; concerning _L'Estrange_, Printed for C W?
+
+_To._ I say, 'tis _first_, a _Cheat_; for 'tis none of _Tong's Writing_;
+_2ly_, 'Tis _Another Cheat_; for 'twas Printed for _Langley Curtis_,
+with his Name to _Tongs Appointment_ for the Printing of it: Only he has
+Fobb'd a _New_, and a _False Title-Page_ to't. But what says Mr.
+_Oates_, all this while, to _L'Estranges Enformation_ against _Tonge_,
+in the _Shammer Shamm'd_? where that young Fellow has the Impudence to
+declare under his hand, the very _Foundation_ of _Oates's_ Plot to be a
+_Cheat_: And _I appeal to all Good Protestants for Justice upon that
+Scandalous Wretch_.
+
+_Wh._ Nay, 'tis a horrible Abuse, and really the man stands in's own
+light: What was't? 500 or a 1000 Pound that he recover'd of One that did
+not say the Hundredth part of what this comes to? The Lord Deliver me! I
+knew the Time when 'twas _half a Hanging-matter_ to have made the least
+doubt of any Branch of the Hellish Plot: But for this Audacious Fool to
+say in Expresse Terms, that [_the_ Four Jesuites Letters, _wherein_
+Oates _pretended was the whole Discovery, were_ Counterfeits] is utterly
+Intolerable. I'le e'en go my ways immediately, and talk with the Doctor
+about it.
+
+_London_, Printed for _Joanna Brome_, at the Gun in S. _Pauls_
+Church-yard.
+
+
+
+
+  Vol. 3.                                 =Numb. 88=
+
+THE OBSERVATOR,
+
+_A_ Schism _a Greater Judgment then a_ Pestilence. _The_ Natural
+Rhetorique _of the_ Non-Cons. _The_ Danger _of them. Several_ Sorts
+_and_ Degrees _of Danger. Of Coming_ About, _or Coming_ Over. _The_
+Cause _Transferr'd from_ Government _to_ Religion.
+
+=Munday=, September 28. 1685.
+
+
+_OBSERVATOR._ If I were the _Master_ of a _Territory_, I would as soon
+_Trust_ so many _Spirits_ in my _Pulpits, to Blow a Pestilence thorough
+my Dominions_, as so many of our _Non-Conforming Divines_; and reckon my
+_People_ much _Safer_ too, under the Danger of a _Plague_, then under
+the _Consequences_ of a _Schism_: For the _One Taints_ but the Bodies of
+Men; the _Other Destroys_ their very Souls; the _One_ takes them
+_Promiscuously_, the _Good_, and the _Bad, One_ with _Another_: But the
+_'Tother Marks_, and _Singles-out_ the _Best Men_ for _Ruine_, with a
+_Privilege_ of _Exemption_, to those that neither fear _God_, nor _Man_.
+The _One_ Sweeps away a Number of Single _Persons_; the _Other_ Tears to
+pieces the _Sinews_ of a _Community_. The _One_ does, in _some Degree_,
+Conduce to the _Purging_ of a _Wicked Nation_, when the _Wrath_ of
+_Heaven_ is _Appeas'd_ by the _Discharge_ of some _Dreadfull Judgment_
+upon't; (as the _Air_ is Clear'd by _Thunder_) The _Other_ does All that
+is _Possible_ to the _Filling-up_ of the _Measure_ of a _Publique
+Iniquity_; and the making of a Land Ripe for _Vengeance_.
+
+_TRIMMER._ Prethee what _Danger_? Or what needs this _Lashing_, when
+they are All Tongue-Ty'd; and Driven into _Holes_, and _Hiding-Places_,
+to keep out of the way of _Messengers_, and _Constables_, and out of the
+_Clutches_ of the _Corporation-Act_, and _Other Penal Laws_ against
+their _Private Meetings_?
+
+_Obs._ What dost thou Talk of Tongue-Ty'd? Why I will undertake it; (and
+in _Serious Good Earnest_ too) _Gagg_ the Whole Set of'em; Give Every
+man his _Pulpit_, or his _Chair_, and only a Bare Standing in't; and if
+they do not _Wink_, and _Nod_, and _Cuff_ any Prince in _Christendom_
+out of his _Dominions_, without a _Word Speaking_, I'le be thy
+_Bond-slave_. Why they do not do their Bus'ness, man, by the Force of
+_Logique, Grammar_, or by the _Dint_ of _Theology_: But by _Groans,
+Pangs, Tragical Ululations, Silent Interjections, Whining Apostrophes,
+Melting Epiphonemas_; and in a word; by the Helps of _Natural
+Rhetorick_, without _Need_, of either _Sense_, or _Syllables_.
+
+_Trim._ They _Preach_, and _Pray_, without _Speaking_ then.
+
+_Obs._ No No. They do Talk for _Fashion_-sake: But Observe it while you
+will; They move the _Passions_ of their _Auditory_, in the _Belfry_, or
+the _Church-Porch, Forty times more_ then Directly under the _Pulpit_:
+For the _Emphasis_ of an _Action_; a _Motion, Tone_, or _Countenance_,
+makes a much Deeper _Impression_, than that of a _Naked, Empty, Sound_:
+And for _My Part_, I fancy, it might do as well for 'em to Whistle their
+_Preachments_ as to Articulate them: For the _Masterpiece_, or the All
+in All of it, lies Mainly, in _Hitting_ the _Tune_.
+
+_Trim._ D'ye call this Reasoning, or Ridiculing?
+
+_Obs._ 'Tis _Both_ in _One_: For it is the _Ridiculous Truth_, and the
+_Just Reason, Method_, and _State_ of the _Matter_: And when People are
+once _Juggled_ Out _of their Wits_, they must be _Fool'd_ Into _'em
+again_. Now there needs no more to the doing of _That Work_, then the
+bare _Drawing_ of the _Curtain_, and letting People into the
+_Tyring-Room_. For the _Cause_, is all over, _Theatrical_: The _Actors_
+are _Hypocrites_, in their _Manners_, as well as in the _Etymon_; and
+the whole _Manage_, fitter for a _Stage_, then a _Pulpit_. So that the
+most _Certain Way_ in _Nature_, for the making of the _Practice,
+Odious_; and the _Disabusing_ of the _Undiscerning Multitude_, is to
+_lay Open_ their _False Colours, Shapes_, & _Disguises_; and _Expose_
+Every thing in its _Naked Simplicity_ to the _Light_.
+
+_Trim._ And what if a man should Allow This sort of People now, to be
+the most _Uncouth, Hideous Monsters_ of the _Creation_? To have the
+_Teeth_, the _Nails_, the _Fierceness_, the _Strength_, & the _Appetite_
+of the most _Ravenous_ of _Wild Beasts_? This Discourse, of _Caution_,
+and _Description_, might do well enough in the _Countrys_ of _Lyons_,
+and _Tygers_: But what's All This, to _his Majesties Dominions_, where
+there are either _None_ of These Creatures, _at all_, or No _Other_, at
+least, then such as have their _Nails Par'd_, and their _Chops Muzzled_:
+And no more _Danger_ of them, at present, then of our _Beeves_, and
+_Muttons_.
+
+_Obs._ Dost not thou know that there are _Several_ Sorts, & Degrees of
+_Danger_? A man may be Wheedled into a _Precipice_, as well as Thrown
+into't: A man may be Hugg'd or Suck'd to _Death_, without any Biting, or
+Scratching in the Case: A man may be Poyson'd in his _Porridge_, as well
+as Strangl'd in his _Bed_: A man may have False Opinions _Impos'd_ upon
+him by a _Fallacy_, or _Fraud_ in _Argument_, as well as Extorted from
+him, by the Force of _Menace_, and _Torment_. And his Bus'ness, at last,
+is _done_, as Dead, _One way_ as _T'other_: And so for the Degrees of
+_Danger_; There's _Danger at Hand_; there's _Danger_ at a _Distance_;
+_Danger_ in _Design_, and _Danger_ in _Practice_; And _Danger_, in fine,
+through All the _Preparatory_, and _Mediate Tendencies_ to _Mischief_,
+to the _Last Effect_ that _Pushes_ it self forth to _Execution_.
+
+_Trim._ Very Good! And what are All These _Sorts_, and _Degrees_ of
+_Danger_ to the _Instances_ we have now _Before_ us?
+
+_Obs._ 'Tis true; The _Faction_ is not in Condition to _Attacque_ the
+_Government_ by _Force_: Their _Armies_ are _Scatter'd_, and their
+_Squadrons Defeated_; the _Whole Party_ put to their _Shifts_; and the
+very _Best_ of 'em, has enough to do to _save his Own Bacon_. Their
+_Teeth_ are _Drawn_, I'le Allow ye, All but here and there a _Stump_;
+And yet they'l _Pinch, Plaguily_, though they cannot _Worry_, and
+_Tear_: And with _Time_, and _Good Discipline_, they'l come to _Grow
+again_. They have the _Same Principles_ to friend, that _ever_ they had:
+Only they must be _Manag'd Another Way_: And there can never Want
+_Matter_, for _Artificial Flattery, Wheedling, Imposture_ and
+_Hypocrisy_, to _Work_ upon. They are not in Condition to _Advance_, at
+this time of the Day, in the face of the _Sun_, and of the _Government_,
+with their _Petticoats Flying_, under the _Auspicious Direction_ of
+their _Tutelary Angel, Ferguson_; and [Fear Nothing but God] for their
+_Motto_. But they must Supply want of _Strength_, by _Stratagem_; and
+_Carry-on_ their _Approches_, out of sight. 'Tis only a little more
+_Patience_, and the _Work_ will be brought about, as sure at the
+_Long-Run_, by a _Mine_, as by a _Battery_: And the _Certifying_ of _a
+Hundred and Fifty Perrots_ into the _Service_, and _Protection_ Of the
+_Government_, will be of Greater _Effect_, then the _Drawing-up_ of _Ten
+Thousand men in Arms_, Against it. Now _These Methods_ lye All _Open_
+still, only they are somewhat more _About_. Now as to _Dangers Remote_,
+or _Nearer hand; Dangers_ of _Design_, or _Dangers_ of _Practice_: All
+the _Preparatories_, & _Dispositions_ to _Mischief_, in their _Secret
+Impulses_, and _Causes_, are as _Vigorous_ Now, as Ever they were, that
+is to say, within Two or Three Motions of a _Publique Violence_: Only
+This Difference in the Case, that we have _Hitherto_, been in the
+_Greatest Danger_ of our _Profess'd_, & _Open Enemies_: And _Now_, God
+bless us from our _Pretending Friends_: For all on a Sudden, the
+_Trimmers_ are come-up to be _Stark Church-of-England-men_; And the
+_Phanatiques_, gotten a _Form Higher_, into the _Seat_ or _Classes_ of
+the _Trimmers_.
+
+_Trim._ Thou art _Well, neither Full nor Fasting_. Neither _Fanatique_,
+nor _Trimmer_, nor _Church-of-England-man_ I perceive, will please ye;
+The _Controversy_ of a New King; or a Common-Wealth, is _Out of Doors_;
+The Question of Liberty of Conscience; The _Privilege_ of _Private
+Meetings_ for Religous Worship; And a _Challenge_ of _Dispensation_ from
+the _Rites, Ceremonies, and_ Discipline _of the Church, are_ All layd
+aside. And All This will not serve the _Turn_ yet. Now if Men go to
+_Church_; Take _Tests_, make _Declarations_; And _Do_ and _Perform_ All
+that the _Law Requires_ of'em; where's the _Danger_ of These People I
+beseech ye?
+
+_Obs._ Not in their _coming over_ with their _Bodies_, but in _Staying
+behind_, in their _Good Wills_, and _Affections_: Nay, and in their
+_Communicating_ with the _Church_ in the _Morning_, and in the
+_Afternoon_, with the _Schism_: And pray will you Note in them, One
+Thing _More_ too. 'Tis worth the while, when they _Ramble_ from their
+_Own Parish_, to _Observe_ whither they go: For I have known the very
+_Streets Throng'd_, out of Distance of _Hearing One Word_ that the
+_Minister says_, with the _Same Superstition_, that the _Quakers Flock_
+to the _Door_, when they are _Lock'd-out_ of the _Meeting-House_: In
+which Case, It has yet the _Semblance_ of a _Private Meeting_; And in
+Truth, looks liker a _Political Muster_, then a _Religious Exercise_:
+But Heark ye for One Word, before we go any further; Suppose a Man
+should have sayd about the _Beginning_ of _July Last_, in a _Brisk
+Reply_ to a _Reflexion_ made upon the _Western-Rebells_; (at that time
+in their _Pride_ and _Glory_) [The King has as Loyal Subjects in That
+Army as Any are in T'other.] Wouldst thou have me, in Construction of
+_Common Sense_, and _Honesty_, look upon _That Person_, to be,
+Effectually Come over, and in the _State_ of _a True
+Church-of-England-man_; only for _Keeping_ the _Law_, with his _Heels_,
+when he _Breaks_ it, with his _Tongue_, and _Doctrine_? Now this is more
+then I Owe ye, upon the Matter in hand: For you have Carry'd the
+_Question_ quite _back_ again, from the _Non-Con-Ministers_, to the
+_Generality_, and the _Multitude_ of the _Dissenters_: which is a Point
+Wholly _Excepted_, and out of the _Limits_ of _Our Debate_: For All
+their _Conventicles_ without a _Mouth_, are _Monsters_; Meer
+_Nullities_, & _Bilks_, without a _Teacher_: So that I have _Restrain'd_
+my _Applications_, Singly, to the _Rabbi's_ of the _Faction_, as
+_Including_, and _Implying_ the _Sense_, and the _Intent_ of their
+_Disciples_: Nay and _so far Including_ it, that they are _Barely_, the
+_Passive Instruments_ of their _Leaders_. Now These _Heads_ of the
+_Divided Parties_, are a sort of People, that do not, by any Means, fall
+within the _Charitable Prospect_ of _Your Qualifications_: For they
+_Stand-off_, in _Contempt_, and _Defyance_ of the _Orders_, & _Censures_
+of the _Church_, and of the _Law_, as much at _This Instant_, as _ever_
+they did. Their _Followers Maintain_, and _Support_ them in That
+_Stubbornness_ of _Disobedience_; And so the _Opposition_ stands yet
+_Firm_, in _Effect_, though with _Less Noise_ of _Menace_, and _Tumult_.
+The _Branches_, 'tis True, are _Lopt_; but the _Root_, not so much as
+_Touch'd_; Nay, and in such a Condition of _Vegetative Virtue_, and
+_Vigour_, that it wants nothing but _Time_, and a _Favourable Season_ to
+make it _Sprout_ again. And This you may Assure your self of, that
+Nothing less then an _Utter_, an _Open_, a _Solemn_, and an _Irrevocable
+Divorce_, betwixt _These Libertine-Seducers_, and Those that have been
+_Trepann'd_, and _Inveigled_, out of the _Bosom_ of the _Church_, into
+the _Arms_ of the _Schism_: Nothing I say, less then Some such
+_Unalterable Act_, or _Decree_ of _Separation_, can ever _Secure_,
+either the _Church_, or the _State_ from the _Pernicious Consequences_
+of this _Intelligence_: For betwixt _Blind Pity_, and _Foolish Zeal_, on
+the _One_ hand, and all the _Arts_, of _Moving_, and _Provoking_ Those
+_Passions_, and _Affections_, on the _Other_, there is _kept-up_, and
+_Cherish'd_, a _Communication_ of _Reciprocal Kindness_, between them,
+that keeps the _Fire alive_ still in the _Embers_, 'till by _Degrees_,
+it _Blows-up_ All at last into a _Common Flame_. Now take away _These
+Bellows_, and _T'other Sparks_, and a man may _Sleep_ in his _Bed_,
+without _Dreaming_ of _Conflagrations_, or the _Dread_ of Rising with
+his Throat Cut.
+
+_Trim._ I will not Excuse some _Hot-Headed Blades_, that let their
+_Tongues_ run before their _Wits_; And make it a Point of _Honour_, to
+_Brave_ All the _Terrors_ of _Death_, and _Dungeons_, in defence of the
+_Cause_ that they have _Undertaken_. The _Less said_, the _Better_;
+Though a Body cannot, in _Generosity_, but have some sort of
+_Compassion_, for a Man that Suffers _Death_, with _Constancy of Mind_,
+Even in a Mistaken Cause, if it be according to his _Conscience_.
+
+_Obs._ If these _Impressions_ were _Inbred_, and the _Errors_ purely
+their _Own_, it would be a _Point_, not only of _Good Nature_, but of
+_Common Justice_, and _Humanity_, to have a _Tenderness_ for _People_
+under an _Invincible Mistake_: But you have Started the _Strongest
+Argument_ in the World, against your _self_ here, by _Enforcing_ the
+_Necessity_ of Clearing the _Stage_ of the _Seditious Oracles_, that
+_Inspire These Desperate Resolutions_.
+
+_Trim._ Why All matter of _Violence, Heat_ of _Dispute_, and _Clamour_
+of _Argument_, is at an _End_. You hear no more of your _Scottish_, and
+_Western Declarations_; No more _Competitors_ for the _Crown_; or
+_Confederates_ for a _Republique_: And therefore prethee, _let_ us be at
+_Peace_ while we _May_ be at _Peace_; and do not stand _Puzzling_ the
+_People_ with _Danger_, where _No Danger is_.
+
+_Obs._ Soft and Fair, _Trimmer_; those _Declarations, Practices_, and
+_Attempts_, are not to be _Repeated_ again in the _same Age_: But there
+are _more ways to the Wood then One_: And 'tis All a case, to a man
+that's _Robb'd_, whether the _Thieves_ came in at the _Door_, or at the
+_Window_. 'Tis very Right, That, since the Breaking of the _Rebellion_,
+the _Non-Cons_ lay their _Fingers_ upon their _Mouths_; and not _One
+Word_ of _Late_, upon the Subject of _Liberties_, and _Properties_; or
+of the Danger of _Tyranny_, and of _Arbitrary Power_: But All other
+_Grievances_ are Now _Swallow'd-up_ in _One_: They are All in _Tears_
+for fear of the _Protestant Religion_; and _That's the Topique that's
+now Carry'd-on, through All Shapes, Figures, and Disguises_.
+
+_Trim._ We shall have fine Work, Next Bout!
+
+_London_, Printed for _Charles Brome_, at the Gun in St. _Paul's_
+Church-yard.
+
+
+
+
+  Vol. 3.                                 =Numb. 202=
+
+THE OBSERVATOR.
+
+_The way of Promoting_ Fears, _and_ Jelousies. _The_ People _meerly_
+Passive _in the Bus'ness. Both Parts seem to_ Contend _for the_ Same
+Common Principles. _The_ Rise of Jelousies.
+
+=Saturday=, August 21. 1686.
+
+
+_TRIMMER._ The _Accommodating_ of Words, Phrases, and Texts to the
+Matter in hand, with the Interjecting, here and there, of Certain
+_Emphatical Winks_, and _Innuendo's_, to the _Common People_, will do
+the Bus'ness of _Fears and Jelousies_, you need never _Doubt_ it,
+without any more Ceremony.
+
+_OBSERVATOR._ I do no more _Doubt_ it, then I do, that a Proper Remedy;
+Rightly Prepar'd; and Administer'd in the _Due_ Time and Proportion,
+will _Work_ such or such an _Effect_. But the _Skill_ lyes, in the
+Judgment of the Distemper; The Constitution of the Patient; The Choice
+of the Physick; The Prescription of the Composition, the Preparation,
+and the Dos. Now _Your_ way of _Operating_, is only the Mechanicall
+_Part of the Bus'ness_; and no more, then the giving of a _Box_, a
+_Gally-pot_, or a _Glass_, with a Note of _Directions_, out of _One_
+hand into _Another_: which Any _Porter_ that Plyes at the _Next Corner_,
+would do as _Dext'rously_, as ever a _Doctor_ of the _College_. The
+_Difficulty_, and the _Mystery_, is Over, before _You_ have any thing to
+_Do_ with it: The _Poysonous_, and _Intoxicating Draught_, Prepar'd; The
+_Multitude_ set a-Gaping for't, and Your _Office_, is only at last, to
+_Pour it down their Throats_. There's Matter of _History_, and _Fact_,
+enough, 'tis true, to _Satisfy any man_, that People may be made as
+_Mad_ with _Cant_, and _Gibberish_, as if they had taken _Henbane_; and
+that _the_ Sting _of_ Jelousy, will put them out of their _Wits_ as soon
+as _the_ Biting _of a_ Mad-Dog: But we are in the _Dark_ all this while,
+for the Rise, the Progress, and the Methods of Enflaming _Jelousies_, to
+bring'em up to that _Pitch_. Prethee let me Understand a little of their
+Birth, Growth, Discipline, and Education; How they are Fed, Nourish'd,
+and Entertain'd? What's the End, and Use of them? What Language do they
+_Speak_; or how comes it to pass, that the _Same_ Words, and Phrases,
+without _Any Intelligence_ with _Grammar, Logique, Common Usage_, or
+_Propriety_, should _Transport_ Some _Men_ into _Outrages, Palpitations
+of the Heart, Horrors_, and _Tremblings_, both of _Mind_, and of _Body_;
+and yet Work no more upon Others, then they _did_, before the very
+Letters of'em were taken out of the _Alphabet_? I do not call ye to a
+_Strict Shrift_ upon _Every Point_, but I Expect you shall say
+something to the _Whole Matter_; for a _Few Words_, in Order, will give
+a man more _Light_ to the _Reason_ of a Thing, then as many _Volumes_,
+in Confusion.
+
+_Trim._ You are in the _Right_; that the _Craft_ lies in the Project,
+and the Preparatory _Manage_ of this Affair, and that the _Danger_ is
+gone too _Far_, when the _Mine_ is already _Wrought_; the _Powder
+Dispos'd_, and nothing wanting to the _Final Execution_ of the
+_Mischief_, but the _Lighting_ of the _Match_, and the Applying of the
+_Coal_ to the _Train_. You have _Well_ and _Truly_ enough _Observed_,
+the _Wonderfull Force_, that _Some Certain_ Words, and Phrases have;
+upon the _Affections_ of the _Multitude_; without the Least _Shadow_ of
+any Logical, Grammatical, or Philosophical _Reason_ for the _Operation_
+of them. Now you must know, that _These_ Words, and Phrases, are made
+_Use_ of, and _Understood_, in the way of a Cypher, or a Jargon, and not
+according to the _Ordinary Acceptation_ of them, in a _Regular_ way of
+_Writing_, or of _Speaking_; So that, Effectually, the _Efficacy_ of
+such _Words_, and _Phrases_, is given for _Granted_; and how they come
+to _Obtain that Force_, remains the _Single Question_.
+
+Now towards the _Understanding_ of this Matter, you must Consider, that
+no _State_ can be _Supplanted_, but by _Turning_ the _Peoples Hearts_,
+against the _Persons_, & the _Actions_ of their _Superiors_: So that in
+_All Conspiracies_ to _Destroy_ a _Government_, Fears & Jelousies, are
+_the_ Corner Stone _of the Babel_. Their Hearts are no sooner _Lost_,
+but they withdraw their Bodies too, and so, by _Degrees, Erect_ Laws,
+and Religions of their Own; and look upon themselves, by This time, as
+in _Another Commonwealth_.
+
+_Obs._ 'Tis most _Certainly True_; and that in this _Separation_, they
+set-up an _Interest_ of _Direct_ Spite, as well as Opposition, to That
+of the _Church_, and of the _State_.
+
+_Trim._ This is the very Course, and Progress of a _Popular Jelousy_:
+But pray take Notice as we go, that the _People_, are thus far, _Meerly_
+Passive; and _Contribute No Otherwise_, to the _Ruine_ of the
+_Publique_, then _a_ Snapping Sea does, to the _Sinking_ of a _Vessell_,
+when the _Billows_ are _Hurry'd-on_ by the _Violence_ of an
+Irresistible Tempest: if the _Winds_ would but let the _Waves alone_,
+they'd be _Quiet_. When they come once to Gather into [Private
+Meetings,] (or as you call them, Conventicles) you may _Then_ accompt
+upon it, that they are as good as put to _School_, to _Learn_ the
+Mystery of their _Profession_. For there are Canting-Schools, as well as
+Reading-Schools: and under This _Discipline_, they come by _Insensible
+Degrees_, to part with their _English_ Tongue, as well as with their
+_English_ Principles, and Manners. Nay, and Effectually, to take up such
+_Uncouth, Novel_, and _Strange_ Thoughts, Opinions, and Practices, that
+it looks, as if the English-Man, the Christian, and the Subject, were
+all lost in a Disguise. They are now, you must know, under New Lords,
+and Consequently, under New Laws; where they are _Train'd-up_ to _New
+Ways_ of Understanding Things, and to a _New Idiome_ of Expressing them.
+Religion, Law, Government, Conscience, Good Manners, are so _Sacred_ in
+Themselves, that the _Worst_ of Men cannot but _Pretend_ a _Veneration_
+for them; but how to _Baffle_, or to _Elude_ the _Force_, the
+_Obligation_, and the _Authority_ of them; and, at the Same Time, to
+set-up for the _Asserters_, and _Supporters_ of _These Publique Rights,
+Privileges_, and _Duties, There_ lies the _Difficulty_ of the
+_Undertaking_.
+
+_Obs._ That is to say, how to _Resolve_ Religion, into an _Empty_
+Notion: To Talk Christianity into a Paradox; and, with Christ in our
+_Mouths_, at _London_, to _fall down_, and _Worship_ Mahomet, in _Buda_:
+How to _Confound_ Gods, and the Governments Friends and Enemies, so as
+to make the _Common People_ take _One_ for _T'other_. Now This can be no
+way done, but by setting-up the Counterfeit of Religion, Law, and
+Conscience, against the _Genuine_, and _Authentique_ Original; and by
+making Evil, to be Good, and Good, to be Evil.
+
+_Trim._ You must _Note_, further, that in This _Opposition_, the Main
+Cause appears to be the _very Same_, on _Both sides_; and _Both Parts_
+seem to _Contend_, for the Same Common Principles, of _Divine Worship_,
+and of _Civil Obedience_.
+
+_Obs._ Only the _One_ Flies to the _Invisible Lights_ and _Dictates_ of
+the _Spirit_, in Matter of Religion; (taking Fancy for Revelation) and,
+in the Matter of Government, has Recourse to Certain _Unaccountable
+Whimsies_, of [Powers Reserv'd,] where there _never was any Power at
+all_; & _These Fooleries_, they _Trump_ upon the _Little People_, under
+the _Pompous Name_ of [_FUNDAMETALS_;] while the _Rulers_, on the
+_Other_ hand, Stick to the Law, to the Text, and to the _Approved Sense_
+of the Best Interpreters of Both, for their _Guide_.
+
+_Trim._ Very Good! And after they have _Departed_ from the Common Rule,
+and _Divided_ themselves from the Common Interest; it is but Reasonable
+to _Expect_, that they will Set-up Another Interest, and Another Rule to
+_Themselves_.
+
+_Obs._ Well! But how do they _Manage That Province_ all this while, as
+to the _Subject_, I mean, that we were _Speaking_ of?
+
+_Trim._ Why their way is, only to put _Religion_, and _Government_ in
+_Another Dress_; but under the Name, of [Religion,] and [_Government_,]
+_Still_; and then to lay on a _Superstructure_, Answerable to the
+_Foundation_; I speak of the Leaders only; for their Disciples are
+_Blanck Paper_; and ready for _any Impression_. They _Talk_, to the
+Ears, and to the Passions of their _Hearers_, not to their
+Understandings: and their _Auditors_ gather more of their _Meaning_,
+from their _Gestures, Actions, Countenances_, and from _Pathetical
+Tones_, then from the _Words Themselves_. As for _Sense_, or _No Sense_,
+'tis _all a Case_; for 'tis the _Jingle_, not the _Matter_, that does
+_Their Bus'ness_. The _Less_ the People Understand, the _More_ they are
+Edify'd; for they take the _Congruities_ of Carnal Reason, for Vain
+Philosophy; and Incomprehensible Nonsense, passes for _the Work of the_
+Light Within. Their _Religion_ lies alltogether in Groan, and Rapture:
+_They Sacrifice to the_ Unknown God; and in One Word; They _Supply_ the
+_Want_ of Knowledge, with an _Excess_ of Zeal; and when they cannot
+_Understand_ the Plain English of a _Discourse_, they Wrap Themselves up
+in the Mystery. The making of a _Party_, & the Saving of their own
+_Skins_, are the _Two Main Points_ of the _Leaders_; and therefore, they
+_Cover_ themselves under Ambiguity, & Riddle; & Compass those Matters,
+by _Theatrical Gesticulations_, & _Actions_, which they dare not
+_Venture_ upon, in _Words_ at _Length_, or by the _Dint_ of _Argument_;
+for there is no _Law_ against _making of_ Faces, _and Dusting of_
+Cushions, They are told _Mightily_, and _Plainly_, of _Heaven_, and
+_Hell_; but in such a _Manner_, that they will _Never Allow_ God, and
+the Government to be _Both of a side. Schism_ is Dignified with the
+_Name_ of Conscience; the Story of their _Grievances_, is the
+_Bitterest_ of Satyrs; Their very Petitions have the force of
+_Invectives_; and the _Smoother_, the _Softer_, you find the _Surface_
+of them, the _Falser_, and the more _Dangerous_ they are at the
+_Bottom_: For betwixt the Persecution that is _Insinuated_, on the part
+of the _Government_, & the Innocence, the Piety, and the Modesty, on
+that of the Sufferers, Nothing can more Provoke, a _Horror_, and
+_Indignation_ for the _One_, or a _Tenderness_, & _Compassion_, for the
+_Other_.
+
+_Obs._ That is to say, among Those that are not _Well Enform'd_, in the
+_Reason_, and _Equity of the Cause in Question_.
+
+_Trim._ Come Come. I tell ye _Nakedly_ how things Are, and not how they
+Ought to be: and I speak of _Those Men_ too, that neither Do, nor Will,
+nor Can make a _Right Judgment_ upon the Matter in _Issue_. They do not
+take down _Reasons_ in Connexion; neither do their _Teachers_ so much as
+Offer at'em; But _their Work_ is, only to _Feed_ Itching Ears, and
+Humours, with _New-Quoyn'd Words, Affectate Phrases_: And briefly, to
+_Instruct_ their _Disciples_, by _Signs_ and _Tokens_, like so many
+_Dancing Horses_ to fall Lame upon all Four, for the _Pope_; to
+come-over, for the _Grand Vizier_; and at the very _Sound_ of Babylon,
+Anti-Christ, or Absolute Power, to Snort, and Boggle, as if they _Smelt
+Fire_. If I may tell ye the _Arrant Truth_, and _Simplicity_ of my
+_Heart_; This is the very Train of a Popular Institution. They are
+Tutor'd, and Inur'd, to the Assuming of such and such _Passions_, upon
+such and such _Occasions_; and they do All their _Ayres_, and _Tricks_,
+by the Direction of the _Hand_, or _Eye. They Dance_ to _Sounds, Hints,
+Nodds, Forms_, and _Syllables_; not to the force of _Fair Reasonings_,
+and _Natural Conclusions_; Nay, they are Taught, when to be _Angry_;
+when to be _Pleas'd_; and their very _Inclinations_, and _Aversions_,
+are none of their _Own, Neither_: The _Whole Bus'ness_, in short, is
+Artifice, Manage, and Practice; for _All their_ Mistakes, _and_
+Mis-understandings, _take the_ Same Biass.
+
+_Obs._ I do _Observe_, indeed, that they Shelter themselves under the
+_Dark Prophets_, and the _Revelation_. The _Number of the Beast_, they
+have all at their _Fingers Ends_; the _Geneva-Bibles_ are _Thumm'd_ over
+and over, at the _Same Texts_: As upon the Subject of the _Groves_, &
+the _High Places, Christian Liberty, Will-Worship, Humane Inventions,
+Idolatry, Superstition_, &c. There's not a _Verse_ in the whole _Bible_,
+against _Persecution_, but makes them Shake their Heads at the
+_Government_. Popery by _Interpretation_, is Episcopacy: The _Liberty_
+of the Subject, has an _Aking Tooth_ at the _Prerogative_ of the Prince:
+But finally; such and such Terms, and Forms of Speaking, are, by Common
+Consent, to pass for _Current_, under such or such a Sense, and
+Meaning, how _Contrary_ soever, to their _Proper_, and _Genuine
+Signification_, or _Import_. But this speaks only to the Propagating of
+_Jelousies_, not to the Rise of them.
+
+_Trim._ If you Ask me the [Rise] of _Jelousies_, I must _Answer_ ye,
+that they are _Begotten_ betwixt Ambition, Avarice, Hypocrisy, Craft,
+Malice, and Disloyalty, on the _One_ side; and Ignorance, Obstinacy,
+Blind Zeal, and an Impetuous Temerity, on the _Other_.
+
+_London_, Printed for _Charles Brome_, at the Gun in St. _Paul's_
+Church-yard.
+
+
+
+
+WILLIAM ANDREWS CLARK
+
+MEMORIAL LIBRARY
+
+UNIVERSITY OF CALIFORNIA, LOS ANGELES
+
+       *       *       *       *       *
+
+THE AUGUSTAN REPRINT SOCIETY
+
+PUBLICATIONS IN PRINT
+
+
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+PUBLICATIONS IN PRINT
+
+       *       *       *       *       *
+
+
+1948-1949
+
+16. Henry Nevil Payne, _The Fatal Jealousie_ (1673).
+
+18. Anonymous, "Of Genius," in _The Occasional Paper_, Vol. III, No. 10
+(1719), and Aaron Hill, Preface to _The Creation_ (1720).
+
+
+1949-1950
+
+19. Susanna Centlivre, _The Busie Body_ (1709).
+
+20. Lewis Theobald, _Prepace to the Works of Shakespeare_ (1734).
+
+22. Samuel Johnson, _The Vanity of Human Wishes_ (1749), and two
+_Rambler_ papers (1750).
+
+23. John Dryden, _His Majesties Declaration Defended_ (1681).
+
+
+1950-1951
+
+26. Charles Macklin, _The Man of the World_ (1792).
+
+
+1951-1952
+
+31. Thomas Gray, _An Elegy Wrote in a Country Church-yard_ (1751), and
+_The Eton College Manuscript_.
+
+
+1952-1953
+
+41. Bernard Mandeville, _A Letter to Dion_ (1732).
+
+
+1963-1964
+
+104. Thomas D'Urfey, _Wonders in the Sun; or, The Kingdom of the Birds_
+(1706).
+
+
+1964-1965
+
+110. John Tutchin, _Selected Poems_ (1685-1700).
+
+111. Anonymous, _Political Justice_ (1736).
+
+112. Robert Dodsley, _An Essay on Fable_ (1764).
+
+113. T. R., _An Essay Concerning Critical and Curious Learning_ (1698).
+
+114. _Two Poems Against Pope_: Leonard Welsted, _One Epistle to Mr. A.
+Pope_ (1730), and Anonymous, _The Blatant Beast_ (1742).
+
+
+1965-1966
+
+115. Daniel Defoe and others, _Accounts of the Apparition of Mrs. Veal_.
+
+116. Charles Macklin, _The Covent Garden Theatre_ (1752).
+
+117. Sir George L'Estrange, _Citt and Bumpkin_ (1680).
+
+118. Henry More, _Enthusiasmus Triumphatus_ (1662).
+
+119. Thomas Traherne, _Meditations on the Six Days of the Creation_
+(1717).
+
+120. Bernard Mandeville, _Aesop Dress'd or a Collection of Fables_
+(1704).
+
+
+1966-1967
+
+123. Edmond Malone, _Cursory Observations on the Poems Attributed to Mr.
+Thomas Rowley_ (1782).
+
+124. Anonymous, _The Female Wits_ (1704).
+
+125. Anonymous, _The Scribleriad_ (1742). Lord Hervey, _The Difference
+Between Verbal and Practical Virtue_ (1742).
+
+
+1967-1968
+
+129. Lawrence Echard, Prefaces to _Terence's Comedies_ (1694) and
+_Plautus's Comedies_ (1694).
+
+130. Henry More, _Democritus Platonissans_ (1646).
+
+132. Walter Harte, _An Essay on Satire, Particularly on the Dunciad_
+(1730).
+
+
+1968-1969
+
+133. John Courtenay, _A Poetical Review of the Literary and Moral
+Character of the Late Samuel Johnson_ (1786).
+
+134. John Downes, _Roscius Anglicanus_ (1708).
+
+135. Sir John Hill, _Hypochondriasis, a Practical Treatise_ (1766).
+
+136. Thomas Sheridan, _Discourse ... Being Introductory to His Course of
+Lectures on Elocution and the English Language_ (1759).
+
+137. Arthur Murphy, _The Englishman From Paris_ (1736).
+
+138. [Catherine Trotter], _Olinda's Adventures_ (1718).
+
+Publications of the first fifteen years of the Society (numbers 1-90)
+are available in paperbound units of six issues at $16.00 per unit, from
+the Kraus Reprint Company, 16 East 46th Street, New York, N.Y. 10017.
+
+Publications in print are available at the regular membership rate of
+$5.00 yearly. Prices of single issues may be obtained upon request.
+Subsequent publications may be checked in the annual prospectus.
+
+
+       *       *       *       *       *
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+William Andrews Clark Memorial Library
+
+UNIVERSITY OF CALIFORNIA, LOS ANGELES
+
+2520 Cimarron Street (at West Adams), Los Angeles, California 90018
+
+       *       *       *       *       *
+
+
+_Make check or money order payable to_
+
+THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+
+
+
+
+William Andrews Clark Memorial Library: University of California, Los
+Angeles
+
+THE AUGUSTAN REPRINT SOCIETY
+
+2520 CIMARRON STREET, LOS ANGELES, CALIFORNIA 90018
+
+_General Editors_: William E. Conway, William Andrews Clark Memorial
+Library; George Robert Guffey, University of California, Los Angeles;
+Maximillian E. Novak, University of California, Los Angeles
+
+_Corresponding Secretary_: Mrs. Edna C. Davis, William Andrews Clark
+Memorial Library
+
+
+       *       *       *       *       *
+
+
+The Society's purpose is to publish rare Restoration and
+eighteenth-century works (usually as facsimile reproductions). All
+income of the Society is devoted to defraying costs of publication and
+mailing.
+
+Correspondence concerning memberships in the United States and Canada
+should be addressed to the Corresponding Secretary at the William
+Andrews Clark Memorial Library, 2520 Cimarron Street, Los Angeles,
+California. Correspondence concerning editorial matters may be addressed
+to the General Editors at the same address. Manuscripts of introductions
+should conform to the recommendations of the MLA _Style Sheet_. The
+membership fee is $5.00 a year in the United States and Canada and
+£1.19.6 in Great Britain and Europe. British and European prospective
+members should address B. H. Blackwell, Broad Street, Oxford, England.
+Copies of back issues in print may be obtained from the Corresponding
+Secretary.
+
+Publications of the first fifteen years of the Society (numbers 1-90)
+are available in paperbound units of six issues at $16.00 per unit, from
+the Kraus Reprint Company, 16 East 46th Street, New York, N.Y. 10017.
+
+
+       *       *       *       *       *
+
+
+Make check or money order payable to The Regents of the University of
+California
+
+
+
+
+REGULAR PUBLICATIONS FOR 1969-1970
+
+139. John Ogilvie, _An Essay on the lyric poetry of the ancients_
+(1762). Introduction by Wallace Jackson.
+
+140. _A Learned Dissertation on Dumpling_ (1726) and _Pudding burnt to
+pot or a compleat key to the Dissertation on Dumpling_ (1727).
+Introduction by Samuel L. Macey.
+
+141. Selections from Sir Roger L'Estrange's _Observator_ (1681-1687).
+Introduction by Violet Jordain.
+
+142. Anthony Collins, _A Discourse concerning Ridicule and Irony in
+writing_ (1729). Introduction by Edward A. Bloom and Lillian D. Bloom.
+
+143. _A Letter from a clergyman to his friend, with an account of the
+travels of Captain Lemuel Gulliver_ (1726). Introduction by Martin
+Kallich.
+
+144. _The Art of Architecture, a poem. In imitation of Horace's Art of
+poetry_ (1742). Introduction by William A. Gibson.
+
+
+
+
+SPECIAL PUBLICATION FOR 1969-1970
+
+Gerard Langbaine, _An Account of the English Dramatick Poets_ (1691),
+Introduction by John Loftis. 2 Volumes. Approximately 600 pages. Price
+to members of the Society, $7.00 for the first copy (both volumes), and
+$8.50 for additional copies. Price to non-members, $10.00.
+
+       *       *       *       *       *
+
+Already published in this series:
+
+1. John Ogilby, _The Fables of Aesop Paraphras'd in Verse_ (1668), with
+an Introduction by Earl Miner. 228 pages.
+
+2. John Gay, _Fables_ (1727, 1738), with an Introduction by Vinton A.
+Dearing. 366 pages.
+
+3. _The Empress of Morocco and Its Critics_ (Elkanah Settle, _The
+Empress of Morocco_ [1673] with five plates; _Notes and Observations on
+the Empress of Morocco_ [1674] by John Dryden, John Crowne and Thomas
+Snadwell; _Notes and Observations on the Empress of Morocco Revised_
+[1674] by Elkanah Settle; and _The Empress of Morocco. A Farce_ [1674]
+by Thomas Duffett), with an Introduction by Maximillian E. Novak. 348
+pages.
+
+4. _After THE TEMPEST_ (the Dryden-Davenant version of _The Tempest_
+[1670]; the "operatic" _Tempest_ [1674]; Thomas Duffett's _Mock-Tempest_
+[1675]; and the "Garrick" _Tempest_ [1756]), with an Introduction by
+George Robert Guffey. 332 pages.
+
+Price to members of the Society, $3.50 for the first copy of each title,
+and $4.25 for additional copies. Price to non-members, $5.00. Standing
+orders for this continuing series of Special Publications will be
+accepted. British and European orders should be addressed to B. H.
+Blackwell, Broad Street, Oxford, England.
+
+
+
+
+Transcriber's Note
+
+The closing square brackets have been removed from the end of the
+following as no opening bracket was found in the text.
+
+1. Page 13 - _Some People at_ Norwich, _are playing
+the_ Devil _for_ Godsake: _several honest, peaceable_, Protestant
+Dissenters, _having been troubled for not coming to_ Church, _or having
+been Present at_ Religious Meetings &c.]
+
+2. Page 14 - _Smith_ (in his _Vox Populi, P._ 13.) saith, that _the King is
+oblig'd to pass or Confirm those Laws his People shall Chuse_.]
+
+On Page 14 the fullstop after Chuse has been changed to a comma.
+
+
+
+
+
+End of the Project Gutenberg EBook of Selections from the Observator
+(1681-1687), by Roger L'Estrange
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE OBSERVATOR ***
+
+***** This file should be named 40339-8.txt or 40339-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/0/3/3/40339/
+
+Produced by Colin Bell, Hazel Batey, Joseph Cooper and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

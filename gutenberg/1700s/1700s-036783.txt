@@ -1,0 +1,2488 @@
+﻿The Project Gutenberg EBook of Some Remarks on the Tragedy of Hamlet,
+Prince of Denmark, Written by Mr. William Shakespeare (1736), by Anonymous
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Some Remarks on the Tragedy of Hamlet, Prince of Denmark, Written by Mr. William Shakespeare (1736)
+
+Author: Anonymous
+
+Release Date: February 4, 2005 [EBook #14899]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SOME REMARKS ON THE TRAGEDY OF HAMLET ***
+
+
+
+
+Produced by David Starner, Graeme Mackreth, David King, and the PG
+Online Distributed Proofreading Team
+
+
+
+
+
+
+Series Three:
+
+_Essays on the Stage_
+
+No. 3
+
+Anonymous [attributed to Thomas Hanmer], _Some Remarks on the Tragedy of
+Hamlet, Prince of Denmark, Written by Mr. William Shakespeare_ (1736).
+
+With an Introduction by Clarence D. Thorpe
+
+and
+
+a Bibliographical Note
+
+
+
+
+The Augustan Reprint Society September, 1947 _Price_: 75c
+
+
+
+
+_GENERAL EDITORS_ RICHARD C. BOYS, _University of Michigan_ EDWARD
+NILES HOOKER, _University of California, Los Angeles_ H.T. SWEDENBERG,
+JR., _University of California, Los Angeles_
+
+_ADVISORY EDITORS_ EMMETT L. AVERY, _State College of Washington_ LOUIS
+I. BREDVOLD, _University of Michigan_ BENJAMIN BOYCE, _University of
+Nebraska_ CLEANTH BROOKS, _Louisiana State University_ JAMES L.
+CLIFFORD, _Columbia University_ ARTHUR FRIEDMAN, _University of Chicago_
+SAMUEL H. MONK, _University of Minnesota_ JAMES SUTHERLAND, _Queen Mary
+College, London_
+
+
+
+
+
+Lithoprinted from copy supplied by author by Edwards Brothers, Inc. Ann
+Arbor, Michigan, U.S.A. 1947
+
+
+
+
+INTRODUCTION
+
+
+The identity of the "Anonymous" of _Some Remarks on Hamlet Prince of
+Denmark_ has never been established. The tradition that Hanmer wrote the
+essay had its highly dubious origin in a single unsupported statement by
+Sir Henry Bunbury, made over one hundred years after the work was
+written, in his _Correspondence of Sir Thomas Hanmer, with a Memoir of
+His Life_ (London, 1838), to the effect that he had reason to believe
+that Hanmer was the author. The evidence against this bare surmise is
+such, however, as to compel assent to Professor Lounsbury's judgment
+that Hanmer's authorship "is so improbable that it may be called
+impossible" (_Shakespeare as a Dramatic Artist_, 60). I have elsewhere
+set down reasons for my own belief that Hanmer could have had nothing to
+do with the composition of the essay, arguing on grounds of ideas,
+attitudes, style, and other internal evidence ("Thomas Hanmer and the
+Anonymous Essay on _Hamlet_," _MLN_61 [1934], 493-498). Without going
+over the case again, I wish here merely to reaffirm my conviction that
+Hanmer was not the author, and to say that it would seem that the
+difference in styles and the attitude of Anonymous toward Pope and
+Theobald are alone convincing proof that Hanmer had no part in the
+_Remarks_. Hanmer's style is stiff, formal, pedantic; the style of the
+essay is free, easy, direct, more in the Addison manner. Hanmer was a
+disciple of Pope's, and in his Preface to his Shakespeare and in his
+edition as a whole shows allegiance to Pope. Anonymous, on the contrary,
+decisively, though urbanely, rejects Pope's edition in favor of
+Theobald's text and notes. The fact that Theobald was at that time still
+the king of dunces in the _Dunciad_, adds to the improbability that an
+admirer of Pope's, as Hanmer certainly was, would pay Theobald such
+honor.
+
+Most careful scholars of our day go no further on the question of
+authorship than to note that the essay has been "attributed" to Hanmer;
+some, like Professor Stoll, seem to have dropped the idea that Hanmer
+was in any way connected with it and safely speak of "the author" or
+"the anonymous author"; I recall only one case in recent years of an
+all-out, incautious assignment of the authorship to Hanmer ("Hamlet
+among the Mechanists," _Shakespeare Association Bulletin_ 17 [July,
+1942], 138). It would seem advisable to follow Stoll's lead and ignore
+Hanmer entirely.
+
+The anonymous essay has been of continued interest to students of
+Shakespeare. Echoes of its ideas if not its words appear in such later
+critics of the eighteenth century as Gentleman, Steevens, Richardson,
+and Morgann; in 1790 Malone copied out some two pages of the best of it
+for publication; and in 1864 the whole was reprinted, a not too usual
+thing for an obscure eighteenth century pamphlet. Present-day students
+of Shakespeare, among them D.N. Smith, Lounsbury, Babcock, Lawrence, and
+Stoll have treated the essay with unvarying respect. Remarking that it
+anticipates some of Johnson's arguments, Smith calls it in general a
+"well-written, interesting book" greatly superior to the anonymous essay
+on Hamlet of 1752 (_Eighteenth Century Essays on Shakespeare_, xxn).
+Lawrence has recently praised a selected passage for its "wise words ...
+which may be pondered with profit" (Hamlet and Fortinbras, _PMLA_61
+[1946], 697). And Stoll, who has obviously read the book with care, has
+found in one of its statements the very "beginning of historical
+criticism" (PQ 24 [1945], 291; _Shakespeare Studies_, 212n.), and has
+elsewhere seen much to commend in it.
+
+Reasons for such attention are not difficult to find; for the _Remarks_
+is both intrinsically and historically an important piece of criticism.
+It is still worth reading for more than one passage of discerning
+analysis and apt comment on scene, speech, or character, and for certain
+not unfruitful excursions into the field of general aesthetics; while
+historically it is a sort of landmark in Shakespearian literature.
+Standing chronologically almost midway between Dryden and Johnson,
+Kames, and Richardson, the _Remarks_ shows decisively the direction in
+which criticism, under the steadily mounting pressure of liberal,
+empirical thought, is traveling. This little unpretentious book gathers
+into itself, either in faint adumbration or in fairly advanced form, the
+tendencies in method and ideas that are to remake criticism in the
+eighteenth century. There are reflected here the growing distrust of the
+"Rules" and the deepening faith in mind as the measure and in
+imagination as the instrument. There is also added recognition of the
+integrity of effects as a factor in judging literature.
+
+Anonymous is an earlier member of the School of Taste. He is
+none-the-less concerned with firm principles by which to justify his
+acceptances and rejections. His announced over-all rule is conformity to
+"Reason and Nature"--old words that he uses in the newer way. But he is
+also handily equipped with a stock of stubbornly conservative
+principles, reaching at times the status of bias, that serve to hold his
+taste in balance and effectively check unrestrained admiration.
+
+This conservative side of Anonymous must not pass unnoticed, for it is
+the part of him that most closely identifies him with his forebears and
+so throws his more original, independent side into stronger relief. Our
+author is, not unexpectedly, an invariable moralist; is throughout a
+stickler for dignity; is sensitive to absurdities, improprieties, and
+slips in decorum; will have no truck with tragi-comedy in any of its
+forms. He hates puns and bombast, demands refinement in speech and
+restraint in manners. He regards Hamlet's speeches to Ophelia in the
+Player scene as a violation of propriety, is shocked by the lack of
+decency in the representation of Ophelia's madness, finds Hamlet's
+frequent levity and the buffoonery of Polonius alike regrettable
+--Shakespeare's favorite foible, he feels, is "that of raising a laugh."
+The introduction of Fortinbras and his army on the stage is "an Absurdity";
+the grave-diggers' scene is "very unbecoming to tragedy"; the satire on
+the "Children of the Chapel" is not allowable in this kind of piece.
+
+In all these things Anonymous is an upholder of the tradition of true,
+restrained wit. But unlike some of his contemporaries, he has a formula
+for discounting faults. "But we should be very cautious in finding Fault
+with Men of such exalted Genius as our Author certainly was, lest we
+should blame them when in reality the Fault lies in our own slow
+Conceptions ..." This is the language of tolerance, a tolerance that can
+overlook faults for the sake of greater beauties--one of the distinct
+marks of the new criticism to which the _Remarks_ belongs.
+
+The essay starts out in a boldly challenging tone. Criticism, says the
+author, has been badly abused: it has been regarded as an excuse for the
+ill-natured to find fault or for the better-natured to eulogize. But
+true criticism has for its end "to set in the best light all Beauties,
+and to touch upon Defects no more than is necessary." Beyond this it
+seeks to set up a right taste for the age. His own purpose is to examine
+a great tragedy "according to the Rules of Reason and Nature, without
+having any regard to those Rules established by arbitrary Dogmatizing
+Critics ..." More specifically, he proposes to show the why of our
+pleasure in this piece: "And as to those things which charm by a certain
+secret Force, and strike us we know not how, or why; I believe it will
+not be disagreeable, if I shew to everyone the Reason why they are
+pleas'd ..." This, it need hardly be observed, is all pretty much in
+the vein of Addison, whom the author extols and whose papers on
+_Paradise Lost_, he tells us, have furnished a model for the present
+undertaking. Throughout his criticism Addison had deprecated mere
+fault-finding and had urged the positive approach of emphasis on
+beauties. In the last twelve essays on Milton's poem he had shown a new
+way in critical writing, the way of particular as opposed to general
+criticism, with the selection of specific details for praise and
+explication; in his essay on the Imagination he had sought to find a
+rationale for that kind of criticism: in which a man of true taste,
+going beyond the mechanical rules, "would enter into the very Spirit and
+Soul of Fine Writing, and shew us the several Sources of that Pleasure
+which rises in the Mind upon the Perusal of a Noble Work." With such
+ideas in mind, Anonymous proceeds to study _Hamlet_, in what is probably
+the first act-by-act, scene-by-scene analysis of a play in English,
+according to his understanding of the principles of the "new criticism"
+as he finds them illustrated in Addison's theory and practice.
+
+Having brushed aside the "fantastick Rules" of the conventional critics,
+he proceeds to apply his laws of "Reason and Nature" as criteria by
+which to test the validity of Shakespeare's effects and to discover the
+cause of these effects. The results he achieves are in part conditioned
+by his interpretation of his basic terms. Reason and Nature had been
+invoked by many previous critics; but to Anonymous these words are not
+what they were to Boileau and Pope. They particularly have nothing, or
+next to nothing, to do with the Deistic concept of a universal nature of
+external diversity but of an internal rational and universal order,
+which art reveals and to which art at its best conforms. To Anonymous,
+who in this is following the lead of the Hobbian school, the nature that
+is the norm by which Shakespeare is to be judged is merely human nature,
+used as Whately, Richardson, and Morgann are to use it later, and as
+Johnson uses it when he argues that there is an appeal open from custom
+to nature. Anonymous' interest is in the way the mind works and the way
+people customarily act. So also when he talks about reason, he is
+thinking only of what is acceptable to a logical, healthy mind. He has
+no thought of identifying nature or reason with the traditional Rules or
+with Homer. On the contrary, he is willing to set both of them quite
+apart from, or even in opposition to the Rules (with a qualifying
+concession that they may sometimes meet), and he definitely renounces
+obligation to show that Shakespeare bears any relation to the ancients
+whatever, denying at the same time the value of the customary shows of
+learning in discussing his work. For Shakespeare apparently drew little
+from the authors of antiquity: "Nature was our great Poet's Mistress;
+her alone has he followed as his Conductress."
+
+Such a view is emancipatory. Free the critic from the idea that nature
+and the ancients are the same and that reason and the laws ascribed to
+the ancients are identical, and he is ready to look at modern literature
+with an independent judgment and to see what it is like and what it is
+worth in and by itself. Release the critic from the necessity of
+regarding nature as universal order and reason as the directive of this
+order, and, whatever the loss in philosophic concept, he is ready for a
+more specific and particular investigation that turns its attention to
+basic human behavior and the basic ways of the mind as the criterion by
+which to judge artistic representation. No need now for quaint parallels
+with the ancients to justify modern practice, nor for scholarly
+arguments to prove learning; all that is required is to prove adherence
+to common nature and common rationality. This is the ground upon which
+Anonymous stands, and it is the ground upon which Morgann is to stand
+when he gives us the "Falstaff of Nature," and Johnson when he presents
+Shakespeare as the dramatist who is "above all modern writers the poet
+of nature," whose "persons act and speak by the influence of those
+general passions by which all minds are agitated," whose "drama is the
+mirror of life," in which his readers may find "human sentiments in
+human language," whose practices are to be judged not by appeal to the
+rules of criticism, but by reference to the author's design and the
+great law of nature and reason.
+
+This position opens the way for further advances. Thus, beginning with
+the assumption that the mind of the spectator or the reader is the chief
+arbiter in such matters, Anonymous gives us what is perhaps the most
+enlightened comment on probability and illusion to be found in the
+period between Dryden and Coleridge. His test for probability is what
+the imagination will readily accept; and the imagination, he says, will
+bear a "strong Imposition." Reason, to be sure, demands that actions and
+speeches shall be "natural"--but natural within the framework of the
+situation and character as established by the dramatist on the
+imaginative level. The author's words on illusion recall the passage in
+Dryden about reason's suffering itself to be "hoodwinked" by imaginative
+presentation, foreshadow Coleridge's "willing suspension of disbelief,"
+and directly suggest Johnson's passages on the subject. Experience will
+show, he says, "that no Dramatick Piece can affect us but by the
+Delusion of our Imagination; which, to taste true and real Pleasures at
+such Representations, must undergo a very great Imposition." For
+example, on our stage all nations speak English, and shock no one; also
+the actors are recognized as actors and not as the persons represented,
+and the stage as a stage and not Rome, or Denmark. Without such
+imposition "farewell all Dramatick Performances."
+
+And then, in continuation of this pre-Johnsonian (and pre-Coleridgean)
+argument he goes on to say that delusion must be accepted, never,
+however, in defiance of our reason but with the approval of our reason.
+That Shakespeare's plays create delusion with the assistance of reason
+is proved by the success they have so long enjoyed. Sublimity of
+sentiments, exalted diction, and "in short all the Charms of his Poetry,
+far outweigh any little absurdities in his Plots." He knew how to work
+up "great and moving Circumstances in such a Way as to affect our
+Passions strongly." The word used here throughout is _delusion_, but the
+sense, just as is largely the case with Johnson, is _illusion_--not a
+demand for such a verisimilitude as will deceive, but for such
+representation as will lead the imagination to voluntary, pleasurable
+acceptance.
+
+Likewise, when Anonymous considers unity his emphasis, like Johnson's
+and Hurd's, is no longer on the mechanical unities but on unity of
+design. "When Shakespeare's plan is understood most of the criticisms of
+Rymer and Voltaire vanish away," Johnson was to write some thirty years
+later. Anonymous holds steadily for the integrity of Shakespeare's plan
+in Hamlet. Of Act I, iii he says, "Concerning the Design of this scene,
+we shall find it is necessary towards the whole plot of the Play"; he
+speaks of I, iv as an "important Scene, on which turns the Whole Play";
+the killing of Polonious, he explains, "was in Conformity to the Plan
+_Shakespeare_ built his Play upon"; and finally, of the piece as a
+whole, he asserts that "there is not one Scene but what some way or
+other conduces toward the _Denoument_ of the Whole; and thus the Unity
+of Action is indisputably kept up by everything tending to what we may
+call the main Design, and it all hangs by Consequence so close together,
+that no Scene can be omitted, without Prejudice to the Whole." When one
+recalls that the idea of unity of design as evolved in Thomas Warton,
+Hurd, and Johnson was the intermediate step on the way to a full theory
+of organic unity we see the importance of such passages in the forward
+march of criticism.
+
+There is in the _Remarks_ a closer examination of event and character
+than is usual in the period, again in the light of what it reasonable
+and natural. The includes some "psychologizing" of persons in the play,
+specifically in partial analyses of Laertes, Polonious, and Hamlet,
+enough to foreshadow the later vogue but none of it very remarkable.
+More worthy of notice is the author's use of a psychological method that
+is to reappear in developed form in Coleridge: that is, a study of
+successive scenes leading to a climactic moment--in this case Hamlet's
+meeting with the ghost--for evidence of a skillful working up through
+right preparatory touches to a point where the audience, in the words of
+Anonymous, "are forced ... entirely to suspend their most fixed Opinions
+and believe ..." This may have been done before in criticism; but if so
+I do not myself recall it.
+
+I should like, also, to risk the suggestion that to the author of _Some
+Remarks_ should go the honor of the earliest adumbration of the "Hamlet
+problem." For here, before Francis Gentleman or Steevens or Richardson,
+Anonymous has raised the tantalising question of the why of Hamlet's
+conduct, the problem of his delay in effecting his revenge, and has
+glanced at an answer. Anonymous in no wise approves of Hamlet's madness:
+it was, he thinks, the best possible way to thwart his design of revenge
+and it was carried on with unseemly lack of dignity. Shakespeare has
+followed his sources too closely, with bad results. There appears "no
+Reason at all in Nature, why the young prince did not put the Usurper to
+Death as soon as possible." To be sure this would have ended the play;
+the poet must therefore delay the hero's revenge. But, insists
+Anonymous, "then he should have contrived some good Reason for it." This
+is clearly recognition of the vexing problem that has since occupied the
+attention of unnumbered critics--if not in full statement, at least in
+its essentials.
+
+Such examples suggest the seminal quality of the best of this little
+book. The writer was obviously a man who read closely and reflected to
+good effect on what he read, with the result that he saw new things and
+helped open new problems and point the way to a generally more fruitful
+study of his author. Because of this and its prevailing sound critical
+qualities the anonymous essay ranks with the more important
+Shakespearian documents of the century. The editors of the _Augustan_
+Reprints are to be commended for their decision to give it a place in
+their valuable series. A critical work which is so viable, which has so
+many points of contact with other good Shakespearian criticism, and
+which is in itself so stimulating in approach and specific idea deserves
+the added accessibility which such publication permits.
+
+   University of Michigan                       Clarence D. Thorpe
+
+Reprinted from the British Museum copy by permission of The Trustees of
+the British Museum.
+
+
+
+_There is hardly any Thing which has been more abus'd than the Art of
+Criticism; it has been turned to so many bad Purposes among us, that the
+very Word it self has almost totally lost its genuine and natural
+Signification; for People generally understand by Criticism, finding
+fault with a Work; and from thence, when we call a Man a Critick, we
+usually mean, one disposed to blame, and seldom to commend. Whereas in
+Truth, a real Critick, in the proper Sense of that Word, is one whose
+constant Endeavour it is to set in the best Light all Beauties, and to
+touch upon Defects no more than is necessary; to point out how such may
+be avoided for the future, and to settle, if possible, a right Taste
+among those of the Age in which he lives.
+
+Ill-nature, and a Propensity to set any Work in a ridiculous and false
+Light, are so far from being the Characteristicks of a true Critick,
+that they are the certain Marks whereby we may know that a Man has not
+the true Spirit of Criticism in him.
+
+There is a Weakness opposite to this, which indeed is better natur'd,
+but is, however, vicious; and that is, the being bigotted to an Author;
+insomuch that Men of this Stamp, when they undertake to explain or
+comment upon any Writer, they will not allow him to have any Defects;
+nay, so far from that, they find out Beauties in him which can be so to
+none but themselves, and give Turns to his Expressions, and lend him
+Thoughts which were never his Design, or never enter'd into his Brain.
+
+Of all our Countrymen, Mr._ Addison _is the best in Criticism, the most
+exempt from the Faults I mention; for his Papers upon_ Milton's Paradise
+Lost, _I look upon as the true Model for all Criticks to follow. In
+those we see the Beauties and Faults of that great Poet weigh'd in the
+most exact and impartial Scales.
+
+Those excellent Papers first gave me an Idea of publishing the following
+Sheets. Happy! if I can but any ways follow such a Guide, though at ever
+so great a Distance; since I am well persuaded, that by this Means I can
+never be totally in Error, tho' I may sometimes deviate for want of
+proper Abilities!
+
+Criticism in general, is what few of our Countrymen have succeeded in:
+In that respect, our Neighbours have got the better of us; altho' we can
+justly boast of the compleatest Essay on that Subject that has been
+publish'd in any Language, in which almost every Line, and every Word,
+convey such Images, and such Beauties, as were never before found in so
+small a Compass, and of whose Author it may properly be said, in that
+respect,_
+
+He is himself that great Sublime he draws.
+
+_I would not have the Reader imagine, that I believe I have pointed out
+all the Excellencies in this Tragedy; I am not so vain as to think so.
+Besides, these Papers are too few to contain them; and I have so little
+of Presumption in me, that I did not think it reasonable to put my
+Readers to a greater Expence, by enlarging on the Subject, until I find
+that they themselves are not averse to it._
+
+_This is all I have to say at present; whatever else is necessary to
+premise, will be found in the Introduction to the Remarks, to which I
+refer._
+
+       *        *        *        *        *
+
+
+
+
+SOME REMARKS ON THE TRAGEDY OF
+
+_Hamlet_ Prince of _Denmark_.
+
+
+I am going to do what to some may appear extravagant, but by those of a
+true Taste in Works of Genius will be approv'd of. I intend to examine
+one of the Pieces of the greatest Tragick Writer that ever liv'd,
+(except _Sophocles_ and _Euripides_,) according to the Rules of Reason
+and Nature, without having any regard to those Rules established by
+Arbitrary Dogmatising Criticks, only as they can be brought to bear that
+Test.
+
+Among the many Parts of this great Poet's Character, so often given by
+some of our best Writers, I shall particularly dwell upon those which
+they have the least insisted on, which will, however, put every Thing he
+has produc'd in its true and proper Light.
+
+He had (beyond Dispute) a most unbounded Genius, very little regulated
+by Art.
+
+His particular Excellency consists in the Variety and Singularity of his
+Characters, and in the constant Conformity of each Character to it self
+from its very first setting out in the Play, quite to the End. And still
+further, no Poet ever came up to him, in the Nobleness and Sublimity of
+Thought, so frequent in his Tragedies, and all express'd with the most
+Energick Comprehensiveness of Diction.
+
+And it must moreover be observed, as to his Characters, that although
+there are some entirely of his own Invention, and such as none but so
+great a Genius could invent; yet he is so remarkably happy in following
+of Nature, that (if I may so express it) he does it even in Characters
+which are not in Nature. To clear up this Paradox, my Meaning is, that
+if we can but once suppose such Characters to exist, then we must allow
+they must think and act exactly as he has described them.
+
+This is but a short Sketch of the main Part of _Shakespeare's_
+particular Excellencies; the others will be taken Notice of in the
+Progress of my Remarks. And if I am so happy as to point out some
+Beauties not yet discovered, or at least not put in the Light they ought
+to be, I hope I shall deserve my Reader's Thanks, who will thereby, I
+imagine, receive that Pleasure which I have always done upon any new
+Discovery of this sort, whether made by my own Labour, or by the
+Penetration of others: And as to those Things which charm by a certain
+secret Force, and strike us we know not how, or why; I believe it will
+not be disagreeable, if I shew to every one the Reason why they are
+pleas'd, and by that Confederation they will be capacitated to discover
+still more and more Charms in the Works of this great Poet, and thereby
+increase their Pleasure without End.
+
+I do not pretend, in Publishing these Remarks of mine, to arrogate any
+Superiority of Genius; but I think every one should contribute to the
+Improvement of some Branch or other of Literature in this Country of
+ours, and thus furnish out his Share towards the Bettering of the Minds
+of his Countrymen, by affording some Honest Amusements, which can
+entertain a Man, and help to refine his Taste, and improve his
+Understanding, and no Ways at the Expence of his Honesty and Virtue. In
+the Course of these Remarks, I shall make use of the Edition of this
+Poet, given us by Mr. _Theobalds_, because he is generally thought to
+have understood our Author best, and certainly deserves the Applause of
+all his Countrymen for the great Pains he has been at to give us the
+best Edition of this Poet, which has yet appear'd. I would not have Mr.
+_Pope_ offended at what I say, for I look upon him as the greatest
+Genius in Poetry that has ever appear'd in _England_: But the Province
+of an Editor and a Commentator is quite foreign to that of a Poet. The
+former endeavours to give us an Author as he is; the latter, by the
+Correctness and Excellency of his own Genius, is often tempted to give
+us an Author as he thinks he ought to be.
+
+Before I proceed to the particular Parts of this Tragedy, I must
+premise, that the great Admirers of our Poet cannot be offended, if I
+point out some of his Imperfections, since they will find that they are
+very few in Proportion to his Beauties. Amongst the former, we may
+reckon some _Anachronisms_, and also the inordinate Length of Time
+supposed to be employ'd in several of his Pieces; add to all this, that
+the Plots of his Plays in general, are charged with some little
+Absurdity or other. But then, how easily may we forgive this, when we
+reflect upon his many Excellencies! The Tragedy that is now coming under
+our Examination, is one of the best of his Pieces, and strikes us with a
+certain Awe and Seriousness of Mind, far beyond those Plays whose Whole
+Plot turns upon vehement and uncontroulable Love, such as are most of
+our modern Tragedies. These certainly have not the great Effect that
+others have, which turn either upon Ambition, the Love of one's Country,
+or Paternal or Filial Tenderness. Accordingly we find, that few among
+the Ancients, and hardly any of our Author's Plays, are built upon the
+Passion of Love in a direct Manner; by which I mean, that they have not
+the mutual Attachment of a Lover and his Mistress for their chief Basis.
+Love will always make a great Figure in Tragedy, if only its chief
+Branches be made use of; as for instance, Jealousy (as in _Othello_) or
+the beautiful Distress of Man and Wife (as in _Romeo_ and _Juliet_) but
+never when the whole Play is founded upon two Lovers desiring to possess
+each other: And one of the Reasons for this seems to be, that this last
+Species of that Passion is more commonly met with than the former, and
+so consequently strikes us less. Add to this, that there may a Suspicion
+arise, that the Passion of Love in a direct Manner may be more sensual
+than in those Branches which I have mention'd; which Suspicion is
+sufficient to take from its Dignity, and lessen our Veneration for it.
+Of all _Shakespeare's_ Tragedies, none can surpass this, as to the noble
+Passions which it naturally raises in us. That the Reader may see what
+our Poet had to work upon, I shall insert the Plan of it as abridged
+from _Saxo-Grammaticus's_ _Danish_ History by Mr. _Theobalds_.
+"The Historian calls our Poets Hero _Amlethus_, his Father _Horwendillus_,
+his Uncle _Fengo_, and his Mother _Gerutha_. The old King in single
+Combat, slew _Collerus_ King of _Norway_; _Fengo_ makes away with his
+Brother _Horwendillus_, and marries his Widow _Gerutha_. _Amlethus_, to
+avoid being suspected by his Uncle of Designs, assumes a Form of utter
+Madness. A fine Woman is planted upon him, to try if he would yield to
+the Impressions of Love. _Fengo_ contrives, that _Amlethus_, in order to
+sound him, should be closetted by his Mother. A Man is conceal'd in the
+Rushes to overhear their Discourse; whom _Amlethus_ discovers and kills.
+When the Queen is frighted at this Behaviour of his; he tasks her about
+her criminal Course of Life, and incestuous Conversation with her former
+Husband's Murtherer; confesses his Madness is but counterfeited, to
+protect himself, and secure his Revenge for his Father; to which he
+injoins the Queen's Silence. _Fengo_ sends _Amlethus_ to _Britain_: Two
+of the King's Servants attend him with Letters to the _British_ King,
+stricyly pressing the Death of _Amlethus_, who, in the Night Time,
+coming at their Commission, overreads it, forms a new One, and turns the
+Destruction designed towards himself on the Bearers of the Letters.
+_Amlethus_ returning Home, by a Wile surprizes and kills his Uncle." I
+shall have Occasion to remark in the Sequel, that in one Particular he
+has follow'd the Plan so closely as to produce an Absurdity in his Plot.
+And I must premise also this, that in my Examination of the whole
+Conduct of the Play, the Reader must not be surprised, if I censure any
+Part of it, although it be entirely in Conformity to the Plan the Author
+has chosen; because it is easy to conceive, that a Poet's Judgment is
+particularly shewn in chusing the proper Circumstances, and rejecting
+the improper Ones of the Ground-work which he raises his Play upon. In
+general we are to take Notice, that as History ran very low in his Days,
+most of his Plays are founded upon some old wretched Chronicler, or some
+empty _Italian_ Novelist; but the more base and mean were his Materials,
+so much more ought we to admire His Skill, Who has been able to work up
+his Pieces to such Sublimity from such low Originals. Had he had the
+Advantages of many of his Successors, ought not we to believe, that he
+would have made the greatest Use of them? I shall not insist upon the
+Merit of those who first break through the thick Mist of _Barbarism_ in
+Poetry, which was so strong about the Time our Poet writ, because this
+must be easily sensible to every Reader who has the least Tincture of
+Letters; but thus much we must observe, that before his Time there were
+very few (if any) Dramatick Performances of any Tragick Writer, which
+deserve to be remembred; so much were all the noble Originals of
+Antiquity buried in Oblivion. One would think that the Works of
+_Sophocles_, _Euripides_, &c. were Discoveries of the last Age only; and
+not that they had existed for so many Centuries. There is something very
+astonishing in the general Ignorance and Dullness of Taste, which for so
+long a Time over-spread the World, after it had been so gloriously
+enlighten'd by _Athens_ and _Rome_; especially as so many of their
+excellent Master-pieces were still remaining, which one would have
+thought should have excited even the Brutes of those barbarous Ages to
+have examined them, and form'd themselves according to such Models.
+
+
+VOL. the 7th of Mr. _Theobald's Shakespeare_.
+
+Page 225.
+
+SCENE I
+
+_Bernardo_ and _Francisco_, two Centinels.
+
+Bernardo. _Who's there?_ &c.
+
+Nothing can be more conformable to Reason, than that the Beginning of
+all Dramatick Performances (and indeed of every other kind of Poesie)
+should be with the greatest Simplicity, that so our Passions maybe
+work'd upon by Degrees. This Rule is very happily observ'd in this Play;
+and it has this Advantage over many others, that it has Majesty and
+Simplicity joined together. For this whole preparatory Discourse to the
+Ghost's coming in, at the same Time that it is necessary towards laying
+open the Scheme of the Play, creates an Awe and Attention in the
+Spectators, such as very well fits them to receive the Appearance of a
+Messenger from the other World, with all the Terror and Seriousness
+necessary on the Occasion. And surely the Poet has manag'd the Whole in
+such a Manner, that it is all entirely Natural: And tho' most Men are
+well enough arm'd against all Belief of the Appearances of Ghosts, yet
+they are forced, during the Representation of this Piece, entirely to
+suspend their most fixed Opinions, and believe that they do actually see
+a Phantom, and that the whole Plot of the Play is justly and naturally
+founded upon the Appearance of this Spectre.
+
+
+Page 227.
+
+   Marcell. HORATIO _says 'tis but our Phantasie,
+   And will not let Belief take hold of Him,
+   Touching this dreaded Sight twice seen of Us;
+   Therefore I have intreated him along
+   With us to watch the Minutes of this Night;
+   That if again this Apparition come,
+   He may approve our Eyes, and speak to it._
+
+   HORATIO, _Tush, Tush, 'twill not appear!_
+
+These Speeches help greatly to deceive us; for they shew one of the
+principal Persons of the Drama to be as incredulous, in Relation to the
+Appearance of Phantoms, as we can be; but that he is at last convinc'd
+of his Error by the Help of his Eyes. For it is a Maxim entirely
+agreeable to Truth, if we consider human Nature, that whatever is
+supernatural or improbable, is much more likely to gain Credit with us,
+if it be introduced as such, and talk'd of as such by the Persons of the
+Drama, but at last prov'd to be true, tho' an extraordinary Thing, than
+if it were brought in as a Thing highly probable, and no one were made
+to boggle at the Belief of it. The Reason of this seems to be, that we
+can for once, upon a very great Occasion, allow such an Incident as this
+to have happen'd, if it be brought in as a Thing of great Rarity; but we
+can by no means so suspend our Judgement and Knowledge, or deceive Our
+Understandings, as to grant That to be common and usual which we know to
+be entirely Supernatural and Improbable.
+
+
+Page 227.
+
+   _Enter the Ghost._
+
+Here it is certain, nothing could be better tim'd than the Entrance of
+this Spectre; for he comes in and convinces _Horatio_, to save
+_Marcellos_ the Trouble of repeating the whole Story, which would have
+been tiresome to the Spectators, as these Gentlemen were obliged soon
+after to relate the Whole to Prince _Hamlet_.
+
+Horatio's Speeches to the Apparition are exceeding Natural, Aweful, and
+Great, and well suited to the Occasion and his own Character.
+
+
+   _What art Thou, that usurpest this Time of Night,
+   Together with that fair and warlike Form,
+   In which the Majesty of buried_ Denmark
+   _Did some Time march? By Heaven, I charge thee speak_. Page 227.
+
+The other is Page 130.
+
+
+   ---- _Stay Illusion!
+   If thou hast any Sound, or Use of Voice,
+   Speak to me!
+   If there be any good Thing to be done,
+   That may to thee do Ease, and Grace to me,
+   Speak to me.
+   If thou art privy to thy Country's Fate,
+   Which, happily, Fore-knowing may avoid,
+   Oh Speak!
+   Or if thou hast uphoarded in thy Life
+   Extorted Treasure in the Womb of Earth,
+   For which, they say, you Spirits oft' walk in Death,
+   Speak of it,--Stay and speak!--Stop it_ Marcellus.
+
+His desiring _Marcellus_ to stop it, is also much in Nature, because it
+shews a Perturbation of Mind, very much to be expected at such an
+Incident. For he must know, being a Scholar, (as they term him) that
+Spirits could not be stopp'd as Corporeal Substances can.
+
+But to return to Page 228.
+
+
+   Bernardo, _How now_ Horatio! _you tremble
+   and look pale_, &c.
+
+This is entirely in Nature, for it cannot be supposed, that any Man,
+tho' never so much endu'd with Fortitude, could see so strange a Sight,
+so shocking to human Nature, without some Commotion of his Frame,
+although the Bravery of his Mind makes him get the better of it.
+
+
+Page 228.
+
+   Horatio, _Before my God, I might not this believe,
+   Without the sensible and trite Avouch
+   Of mine own Eyes_.
+
+This Speech still helps on our Deception, for the Reasons I have already
+given.
+
+
+Page 228.
+
+   Horatio, _Such was the very Armour he
+   had on_, &c.
+
+I have heard many Persons wonder why the Poet should bring in this
+Ghost in complete Armour. It does, I own, at first seem hard to be
+accounted for; but I think these Reasons may be given for it, viz. We
+are to consider, that he could introduce him in these Dresses only; in
+his Regal Dress, in a Habit of Interment, in a common Habit, or in some
+Phantastick one of his own Invention. Now let us examine which was most
+likely to affect the Spectators with Passions proper to the Occasion,
+and which could most probably furnish out great Sentiments and fine
+Expressions.
+
+The Regal Habit has nothing uncommon in it, nor surprising; nor could it
+give rise to any fine Images. The Habit of Interment was something too
+horrible; for Terror, not Horror, is to be raised in the Spectators. The
+common Habit (or _Habit de Ville_, as the _French_ call it) was by no
+Means proper for the Occasion.
+
+It remains then, that the Poet should chuse some Habit from his own
+Brain: But this certainly could not be proper, because Invention in such
+a Case, would be so much in Danger of falling into the Grotesque, that
+it was not to be hazarded.
+
+Now as to the Armour, it was very suitable to a King, who is described
+as a great Warrior, and is very particular, and consequently affects the
+Spectators, without being phantastick. Besides, if there were no other
+Reason, the fine Image which arises from thence, in these Lines, is
+Reason enough.
+
+     _Such was the very Armour he had on,
+   When He th' ambitious_ Norway _combated,
+   So frown'd He once, when in angry Parle,
+   He smote the sleaded_ Polack _on the Ice.
+     'Tis Strange!_
+
+There is a Stroke of Nature in _Horatio's_ breaking off, from the
+Description of the King, and falling into the Exclamation. _'Tis
+Strange!_ which is inimitably Beautiful.
+
+
+Page 228.
+
+   Marcellus. _Good now sit down_, &c.
+
+The whole Discourse concerning the great Preparations making in
+_Denmark_ is very Poetical, and necessary also towards the introducing
+of _Fortinbrass_ in this Play, whose Appearance gives Rise to one Scene,
+which adds a Beauty to the Whole; I mean, That wherein _Hamlet_ makes
+those noble Reflections upon seeing That Prince's Army. Besides, this
+Discourse is necessary also to give the Ghost Time to appear again, in
+order to affect the Spectators still more; and from this Conversation
+the Interlocutors draw one Reason, why the Spirit appears in Arms, which
+appears rational to the Audience. It gives also _Horatio_ an Opportunity
+of addressing the Ghost in that beautiful Manner he does.
+
+
+Page 229
+
+_Stay Illusion! &c_.
+
+The Description of the Prefages which happen'd to _Rome_, and the
+drawing a like Inference from this supernatural Appearance, is very
+nervous and Poetical.
+
+
+Page 230, 231.
+
+Bernardo. _It was about to speak when the Cock crew &c_.
+
+The Speeches in consequence of this Observation are truly beautiful, and
+are properly Marks of a great Genius; as also these Lines which describe
+the Morning, are in the true Spirit of Poetry.
+
+
+Page 31. _But, look, the Morn, in Russet Mantle clad, Walks oe'r the Dew
+of yon high Eastern Hill_.
+
+And as to _Shakespeare's_ complying with the vulgar Notions of Spirits
+amongst the _English_ at that Time, so far from being low, it adds a
+Grace and a _Naïveté_ to the whole Passage, which one can much easier be
+sensible of than know how to make others so.
+
+SCENE. _The Palace_, (p. 231.) And Sequel.
+
+_Enter the_ King, Queen, Hamlet, &c.
+
+It is very natural and apropos, that the King should bring some
+plausible Excuse for marrying his Brother's Wife so soon after the
+Decease of his Brother, which he does in his first Speech in this Scene:
+It would else have too soon revolted the Spectators against such an
+unusual Proceeding. All the Speeches of the King in this Scene to his
+Ambassadors _Cornelius_ and _Voltimand_, and to _Laertes_, and to Prince
+_Hamlet_, are entirely Fawning, and full of Dissimulation, and makes him
+well deserve the Character which the Prince afterwards gives him, of
+_smiling, damn'd Villain, &c._ when he is informed of his Crime.
+
+The King's and Queen's Questions to _Hamlet_ are very proper, to give
+the Audience a true Idea of the Filial Piety of the young Prince, and of
+his virtuous Character; for we are hereby informed of his fixed and
+strong Grief for the Loss of his Father: For it does not appear, that
+the Usurpation of the Crown from him, sits heavy on his Soul, at least,
+it is not seen by any Part of his Behaviour.
+
+How his Uncle came to be preferred to him, we are left entirely in the
+dark, but may suppose it to have been done in the same Manner, as
+several things of the like Nature have been effected, viz. by Corruption
+and Violence, and perhaps upon the Pretence of the Prince's being too
+young.
+
+I can by no Means agree with Mr. _Theobalds_, (p. 235.) who thinks, that
+it is necessary to suppose a considerable Number of Years spent in this
+Tragedy; because Prince _Hamlet_ is said to desire to return to
+_Wittenberg_ again, and is supposed to be just come from it; and that
+afterwards, the Grave-Digger lets us know that the Prince is Thirty
+Years old; my Reasons are, that as _Wittenberg_ was an University, and
+_Hamlet_ is represented as a Prince of great Accomplishments, it is no
+wonder that he should like to spend his Time there, in going on in his
+Improvements, rather than to remain inactive at _Elsinoor_, or be
+immers'd in Sottishness, with which he seems to tax his Countrymen; as
+will appear in the Sequel. Besides, he might well desire to return
+there, when he found his Throne usurped, and his Mother acting so
+abominable a Part. And as to the Term of going to School, &c. That does
+not at all imply literally a School for Boys, but is poetically used for
+Studying at any Age.
+
+Another Reason may be given why there cannot be supposed to be a great
+Length of Time in this Play; which is this, That we see in the First
+Act, Ambassadors dispatch'd to old _Norway_, concerning his Nephew
+_Fortinbras's_ Army, which was then ready to march; and in the Fourth
+Act, we see this Prince at the Head of that Army, which immediately,
+upon the Embassy from the _Danish_ King to his Uncle, we are naturally
+to suppose he leads to that other Enterprize which is mentioned in that
+Scene. Now it is no ways likely, that between the Embassy and the
+marching of an Army already assembled before that Embassy, there should
+be a Number of Years. These Reasons and the whole Conduct of the Piece
+convince me, that this is one of _Shakespeare's_ Plays, in which the
+least Time is employ'd; how much there is, I cannot pretend to say.
+
+As to the _Prolepsis_, or in other Words, the mentioning the University
+of _Wittenberg_, long before its Establishment, thus antedating its
+Time, I shall not justify _Shakespeare_; I think it is a fault in him;
+but I cannot be of Opinion, that it has any bad Effect in this Tragedy.
+_See Mr_. Theobald's _Note_, (p. 235.)
+
+As to _Hamlet's_ Soliloquy, I shall set down the whole Passage, and
+shall subjoin the Remarks of a very eminent Author which are in the
+Spirit of true Criticism.
+
+
+     _Oh that this too, too solid Flesh would melt,
+   Thaw, and resolve it self into a Dew!
+   Or that the Everlasting had not fix'd
+   His Cannon 'gainst Self-slaughter! Oh God! Oh God!
+   How weary, stale, and unprofitable,
+   Seem to me all the Uses of this World!
+   Fie on't! Oh fie! 'tis an unweeded Garden,
+   That grows to Seed; Things rank and gross
+         in Nature,
+   Possess it merely. That it should come to this,
+   But two Months dead! Nay, not so much,
+         not Two!
+   So Excellent a King, that was to this_,
+   Hyperion _to a Satyr: So Loving to my Mother,
+   That he would not let e'en the Winds of
+        Heav'n
+   Visit her Face too roughly. Heav'n and Earth!
+   Must I remember? Why, she would hang on
+        him,
+   As if Increase of Appetite had grown
+   By what it fed on; yet within a Month!
+   Let me not think. Frailty! Thy Name is
+       Woman.
+   A little Month; e'er yet those Shoes were old,
+   With which she follow'd my poor Father's
+       Body,
+   Like_ Niobe, _all Tears; Why she, even she,
+   (Oh Heav'n, a Beast that wants Discourse
+      of Reason,
+   Would have mourn'd longer) married with
+      mine Uncle,
+   My Father's Brother; but no more like my
+      Father,
+   Than I to_ Hercules. _Within a Month,
+   E'er yet the Salt of most unrighteous Tears
+   Had left the flushing in her gaul'd Eyes,
+   She married. Oh! most wicked Speed, to
+      post
+   With such Dexterity to incestuous Sheets!_
+
+   _It is not, nor it cannot come to Good.
+   But, break my Heart, for I must hold my
+     Tongue._
+
+"The young Prince, (says this Author in the _Tatler_,) was not yet
+acquainted with all the Guilt of his Mother; but turns his Thoughts on
+her sudden Forgetfulness of his Father, and the Indecency of her hasty
+Marriage. The several Emotions of Mind, and Breaks of Passion in this
+Speech, are admirable. He has touch'd every Circumstance that aggravated
+the Fact, and seem'd capable of hurrying the Thoughts of a Son into
+Distraction. His Father's Tenderness for his Mother, express'd in so
+delicate a Particular; his Mother's Fondness for his Father, no less
+exquisitely described; the great and amiable Figure of his dead Parent,
+drawn by a true Filial Piety; his Disdain of so unworthy a Successor to
+his Bed: But above all, the Shortness of the Time between his Father's
+Death, and his Mother's Second Marriage, brought together with so much
+Disorder, make up as noble a Part as any in that celebrated Tragedy. The
+Circumstance of Time I never could enough admire. The Widow-hood had
+lasted two Months. This is his first Reflection: But as his Indignation
+rises, he sinks to scarce two Months; afterwards into a Month; and at
+last, into a _little_ Month. But all this so naturally, that the Reader
+accompanies him in the Violence of his Passion, and finds the Time
+lessen insensibly, according to the different Workings of his Disdain. I
+have not mentioned the Incest of her Marriage, which is so obvious a
+Provocation; but can't forbear taking Notice, that when his Fury is at
+its Height, he cries, _Frailty, thy Name is Woman!_ as Railing at the
+Sex in general, rather than giving himself leave to think his Mother
+worse than Others."
+
+
+Page 238.
+
+_Enter_ Horatio, Bernardo, _and_ Marcellus, _to_ Hamlet.
+
+The Greeting between _Hamlet, Horatio,_ and _Marcellus_, is very easy,
+and expresses the benign Disposition of the Prince, and first gives us
+an Intimation of his Friendship for _Horatio_.
+
+
+Page 238.
+
+_We'll teach you to drink deep, e'er you depart_.
+
+This seems designed to reflect upon the sottish Disposition, then
+encouraged amongst the _Danes_ by the Usurper, as will appear in the
+Sequel; and gives us one Reason why _Elsinoor_ was disagreeable to
+Prince _Hamlet_; and certainly, much confirms what I before said, as to
+his going back to _Wittenberg_.
+
+
+Page 238.
+
+The Prince's Reflections on his Mother's hasty Marriage, are very
+natural, and shew That to be one of the principal Causes of the deep
+fix'd Concern so visible in his Behaviour; and then they serve to
+introduce the Relation of the Appearance of his Father's Ghost.
+
+
+Page 238, to the End of the Scene.
+
+_Hamlet_ receives the Account they give him with such a Surprize as is
+very natural, and particularly his breaking off from the Consequence of
+his Question, viz. _Hold you the Watch to Night?_ and saying _arm'd?_
+that is, returning to the main Question, is exceedingly in Nature.
+
+Their differing in the Account of the Time the Spectre staid, throws an
+Air of Probability on the Whole, which is much easier felt than
+described.
+
+The Prince's Resolution to speak to the Phantom, let what will be the
+Consequence, is entirely suitable to his Heroical Disposition; and his
+Reflection upon his Father's Spirit appearing in Arms, is such as one
+would naturally expect from him; and the Moral Sentence he ends his
+short Speech with, suits his virtuous Temper, at the same Time that it
+has a good Effect upon the Audience, and answers the End of Tragedy.
+
+
+Page 241, to the End of the Scene, in p. 246.
+
+SCENE in _Polonius's_ House.
+
+_Enter_ Laertes _and_ Ophelia, _and afterwards_ Polonius.
+
+
+It is evident by the whole Tenour of _Polonius's_ Behaviour in this
+Play, that he is intended to represent some Buffoonish Statesman, not
+too much fraught with Honesty. Whether any particular Person's Character
+was herein aim'd at, I shall not determine, because it is not to the
+Purpose; for whoever reads our Author's Plays, will find that in all of
+them, (even the most serious ones) he has some regard for the meanest
+Part of his Audience, and perhaps too, for that Taste for low Jokes and
+Punns, which prevailed in his Time among the better Sort. This, I think,
+was more pardonable in him, when it was confined to Clowns, and such
+like Persons in his Plays; but is by no Means excusable in a Man,
+supposed to be in such a Station as _Polonius_ is, Nay, granting that
+such Ministers of State were common, (which surely they are not) it
+would even then be a Fault in our Author to introduce them in such
+Pieces as this; for every Thing that is natural is not to be made use of
+improperly: But when it is out of Nature, this certainly much aggravates
+the Poet's Mistake. And, to speak Truth, all Comick Circumstances, all
+Things tending to raise a Laugh, are highly offensive in Tragedies to
+good Judges; the Reason in my Opinion is evident, viz. that such Things
+degrade the Majesty and Dignity of Tragedy, and destroy the Effect of
+the Intention which the Spectators had in being present at such
+Representations; that is, to acquire that pleasing Melancholy of Mind,
+which is caus'd by them, and that Satisfaction which arises from the
+Consciousness that we are mov'd as we ought to be, and that we
+consequently have Sentiments suitable to the Dignity of our Nature. For
+these and many other Reasons, too long to mention here, I must confess
+myself to be an Enemy also to all ludicrous Epilogues and Farcical
+Pieces, at the End of Tragedies; and must think them full as ridiculous
+as if we were to dress a Monarch in all his Royal Robes, and then put a
+Fool's Cap upon him.
+
+But to come to the Scene now under Examination. It is certain, that
+except it be in playing upon the Word _Tender_ p. 244. (of which too he
+is sensible himself,) our old Statesman behaves suitably to his Dignity,
+and acts fully up to his Paternal Character; so here we shall not tax
+him.
+
+The Advice of _Laertes_ to his Sister contains the soundest Reasoning,
+express'd in the most nervous and poetical Manner, and is full of
+Beauties; particularly, I can never enough admire the Modesty inculcated
+in these Lines:
+
+   _The chariest Maid is prodigal enough,
+   If She unmask her Beauty to the Moon_.
+
+_Ophelia's_ modest Replies, the few Words she uses, and the virtuous
+Caution she gives her Brother, after his Advice to her, are inimitably
+charming. This I have observed in general in our Author's Plays, that
+almost all his young Women (who are designed as good Characters) are
+made to behave with a Modesty and Decency peculiar to those Times, and
+which are of such pleasing Simplicity as seem too ignorant and unmeaning
+in our well taught knowing Age; so much do we despise the virtuous
+Plainness of our Fore-fathers!
+
+_Polonius_ and _Laertes_ Behaviour to each other, is exceeding natural;
+and I agree with Mr. _Theobalds's_ Emendation as to that Circumstance,
+(p. 243.) of _Polonius_ Blessing his Son; but I can by no Means be of
+his Sentiment, that it was a Circumstance, which, if well managed by a
+Comick Actor, would raise a Laugh, (See his Note, p. 243.) for I am
+perswaded, that _Shakespeare_ was too good a Judge of Nature, to design
+any Thing Comick or Buffoonish upon so solemn an Occasion, as that of a
+Son's taking leave of his Father in the most emphatical and serious
+Manner. And therefore, whatever Actor proceeds upon this Supposition (as
+I have seen some do in parallel Cases) does only shew his Ignorance and
+Presumption. This Assertion of mine will appear indisputable, if my
+Reader considers well the whole Tenour of this Scene, with the grave
+and excellent Instructions which it contains, from _Polonius_ to
+_Laertes_, and from both to _Ophelia_. It is impossible that any
+Buffoonry could be here blended, to make void and insignificant so much
+good Sense expressed in the true Beauties of Poetry. As to Prince
+_Hamlet's_ Love for _Ophelia_, I shall speak to it in another Place.
+
+Concerning the Design of this Scene, we shall find it is necessary
+towards the whole Plot of the Play, and is by no Means an Episode. As to
+_Laertes's_ Character, I shall lay some thing of it else where.
+
+
+Page 246
+
+Scene. _The Platform before the Palace._
+
+_Enter_ Hamlet, Horatio _and_ Marcellus.
+
+The Beginning of this Scene is easy and natural. The King's taking his
+Rowse, seems introduced to fill up a necessary Space of Time, and also
+perhaps to blacken still more the Character of the Usurper, who had
+revived a sottish Custom (as appears by the Prince's Remarks upon it)
+omitted by several of his Predecessors; for it would have been improper
+to have had the Ghost appear the Minute the Prince was come on to the
+Platform. Some Time was requisite to prepare the Minds of the
+Spectators, that they might collect all their Faculties to behold this
+important Scene, on which turns the whole Play, with due Attention and
+Seriousness; although, indeed, I must think that the Prince's Speech
+would not be much worth preserving, but for That Reason: for expressed
+and amended, according to the best that can be made of it, (as Mr.
+_Theobalds_ has done it) it is but of very obsure Diction, and is much
+too long; for a very short Moral is to be drawn from it.
+
+
+Page 248.
+
+_Enter the Ghost._
+
+
+We now are come to the sublimest Scene in this whole Piece, a Scene
+worthy of the greatest Attention; an Heroical Youth addressing the Shade
+of his departed Father, whom he tenderly loved, and who, we are told,
+was a Monarch of the greatest Worth. Surely there cannot be imagin'd any
+Scene more capable of stirring up our noblest Passions. Let us but
+observe with how much Beauty and Art the Poet has managed it. This
+Spectre has been once spoken to by the Friend of our young Hero, and it
+must be confessed, that _Horatio's_ Speech to it is truly great and
+beautiful: But as the like Incident was again to happen; that is, as the
+Ghost was again to be addressed, and with this Addition, by the Hero of
+the Play, and Son to the King, whose Spirit appears; it was necessary, I
+say, upon these Accounts, that this Incident should be treated in a
+sublimer Manner than the Former. Accordingly we may take Notice, that
+_Hamlet's_ Speech to his Father's Shade is as much superior to that of
+_Horatio_ upon the same Occasion, as his is to any Thing of that kind
+that I have ever met with in any other Dramatick Poet.
+
+_Hamlet's_ Invocation of the heavenly Ministers, is extremely fine; and
+the begging their Protection upon the Appearance of a Sight so shocking
+to human Nature, is entirely conformable to the virtuous Character of
+this Prince, and gives an Air of Probability to the whole Scene. He
+accosts the Ghost with great Intrepidity; and his whole Speech is so
+full of the Marks of his Filial Piety, that we may easily observe, that
+his Tenderness for his Father gets the better of all Sentiments of
+Terror which we could suppose to arise, even in the Breast of the most
+undaunted Person, upon the seeing and conversing with so strange an
+Apparition.
+
+His breaking from his Friends with that Vehemency of Passion in an
+Eagerness of Desire to hear what his Father could say to him, is another
+Proof of his Filial Tenderness.
+
+The Reader of himself must easily see why the Spectre would not speak to
+the Prince, but a-part from those who were with him: For it was not a
+Secret of a Nature fit to be divulg'd. Their earnest Intreaties, and
+almost Force which they use to keep him from going, are much in Nature;
+the Reasons they give him, and the Reflections they make after he is
+gone, are poetically express'd, and very natural.
+
+The Ghost's Account of the base Murther committed on him, is express'd
+in the strongest and most nervous Diction that Poetry can make use of;
+and he speaks with such Gravity and Weight of Language as well suits his
+Condition. The Ideas he raises in the Audience by his short Hint
+concerning the Secrets of his Prison-House, are such as must cause that
+Terror which is the natural Effect of such Appearances, and must
+occasion such Images as should always accompany such Incidents in
+Tragedy.
+
+The Ghost's bringing out the Account of his Murder by Degrees, and the
+Prince's Exclamations as he becomes farther acquainted with the Affair,
+are great Beauties in this Scene, because it is all entirely conformable
+to Nature; that is, to those Ideas by which we naturally conceive, how a
+Thing of this sort would be managed and treated, were it really to
+happen.
+
+We are to observe further, that the King spurs on his Son to revenge his
+foul and unnatural Murder from these two Considerations chiefly, that he
+was sent into the other World without having had Time to repent of his
+Sins, and without the necessary Sacraments, (according to the Church of
+_Rome_,) as Mr. _Theobalds_, (See his Note, _p._ 253.) has well
+explained it, and that consequently his Soul was to suffer, if not
+eternal Damnation, at least a long Course of Penance in Purgatory;
+which aggravates the Circumstances of his Brother's Barbarity. And,
+Secondly, That _Denmark_ might not be the Scene of Usurpation and
+Incest, and the Throne thus polluted and profaned. For these Reasons he
+prompts the young Prince to Revenge; else it would have been more
+becoming the Character of such a Prince as _Hamlet's_ Father is
+represented to have been, and more suitable to his present Condition, to
+have left his Brother to the Divine Punishment, and to a Possibility of
+Repentance for his base Crime, which by cutting him off, he must be
+deprived of.
+
+His Caution to his Son concerning his Mother, is very fine, and shews
+great Delicacy in our Author; as has been observ'd by a great Writer of
+our Nation. The Ghost's Interrupting himself (_but soft, methinks, I
+scent the Morning Air_, &c.) has much Beauty in it, particularly, as it
+complys with the received Notions, that Spirits shun the Light, and
+continues the Attention of the Audience by so particular a Circumstance.
+
+The Sequel of this Scene by no Means answers the Dignity of what we have
+hitherto been treating of. _Hamlet's_ Soliloquy, after the Ghost has
+disappeared, is such as it should be. The Impatience of _Horatio_, &c.
+to know the Result of his Conference with the Phantom, and his putting
+them off from knowing it, with his Caution concerning his future
+Conduct, and his intreating them to be silent in Relation to this whole
+Affair; all this, I say, is natural and right; but his light and even
+ludicrous Expressions to them; his making them swear by his Sword, and
+shift their Ground, with the Ghost's Crying under the Stage, and
+_Hamlet's_ Reflection thereupon, are all Circumstances certainly
+inferiour to the preceeding Part.
+
+But as we should be very cautious in finding Fault with Men of such an
+exalted Genius as our Author certainly was, lest we should blame them
+when in reality the Fault lies in our own slow Conception, we should
+well consider what could have been our Author's View in such a Conduct.
+I must confess, I have turn'd this Matter on every Side, and all that
+can be said for it (as far as I am able to penetrate), is that he makes
+the Prince put on this Levity of Behaviour, that the Gentlemen who were
+with him, might not imagine that the Ghost had reveal'd some Matter of
+great Consequence to him, and that he might not therefore be suspected
+of any deep Designs. This appears plausible enough; but let it be as it
+will, the whole, I think, is too lightly managed, and such a Design as I
+have mention'd might, in my Opinion, have been answered by some other
+Method more correspondent to the Dignity and Majesty of the preceeding
+Part of the Scene. I must observe once more, that the Prince's Soliloquy
+is exquisitely beautiful.
+
+I shall conclude what I have to say on this Scene, with observing, that
+I do not know any Tragedy, ancient or modern, in any Nation, where the
+Whole is made to turn so naturally and so justly upon such a
+supernatural Appearance as this is; nor do I know of any Piece whatever,
+where a Spectre introduced with so much Majesty, such an Air of
+Probability, and where such an Apparition is manag'd with so much
+Dignity and Art; in short, which so little revolts the Judgment and
+Belief of the Spectators. Nor have I ever met in all my Reading, with a
+Scene in any Tragedy, which creates so much Awe, and serious Attention
+as this does, and which raises such a Multiplicity of the most exalted
+Sentiments. It is certain, our Author excell'd in this kind of Writing,
+as has been more than once observed by several Writers, and none ever
+before or since his Time, could ever bring Inhabitants of another World
+upon the Stage, without making them ridiculous or too horrible, and the
+Whole too improbable and too shocking to Men's Understandings.
+
+
+ACT II.
+
+_Polonius_ and _Reynoldo_, and afterwards _Ophelia_.
+
+
+_Polonius's_ Discourse to _Reynoldo_ is of a good moral Tenour, and thus
+far it is useful to the Audience. His forgetting what he was saying, (p.
+260) as is usual with old Men, is extremely natural, and much in
+Character for him.
+
+_Ophelia's_ Description of _Hamlet's_ Madness, does as much Honour to
+our Poet as any Passage in the whole Play, (p. 261, and 262.) It is
+excellently good in the _Pictoresque_ Part of Poetry, and renders the
+Thing almost present to us.
+
+Now I am come to mention _Hamlet's_ Madness, I must speak my Opinion of
+our Poet's Conduct in this Particular. To conform to the Ground-work of
+his Plot, _Shakespeare_ makes the young Prince feign himself mad. I
+cannot but think this to be injudicious; for so far from Securing
+himself from any Violence which fear'd from the Usurper, which was his
+Design in so doing, it seems to have been the most likely Way of getting
+himself confin'd, and consequently, debarr'd from an Opportunity of
+Revenging his Father's Death, which now seem'd to be his only Aim; and
+accordingly it was the Occasion of his being sent away to _England_.
+Which Design, had it taken effect upon his Life, he never could have
+revenged his Father's Murder. To speak Truth, our Poet, by keeping too
+close to the Ground-work of his Plot, has fallen into an Absurdity; for
+there appears no Reason at all in Nature, why the young Prince did not
+put the Usurper to Death as soon as possible, especially as _Hamlet_ is
+represented as a Youth so brave, and so careless of his own Life.
+
+The Case indeed is this: Had _Hamlet_ gone naturally to work, as we
+could suppose such a Prince to do in parallel Circumstances, there would
+have been an End of our Play. The Poet therefore was obliged to delay
+his Hero's Revenge; but then he should have contrived some good Reason
+for it.
+
+His Beginning his Scenes of Madness by his Behaviour to _Ophelia_ was
+judicious, because by this Means he might be thought to be mad for her,
+and not that his Brain was disturb'd about State Affairs, which would
+have been dangerous.
+
+
+Page 263.
+
+_Enter King, Queen_, Rosincrantz, Guildenstern, &c.
+
+
+The King in this Scene, seems to be but half perswaded that _Hamlet_ is
+really mad; had he thoroughly believed it, it was to no Purpose to
+endeavour to sound his Mind; and the shortest and best Way, and what,
+methinks, the King ought most to have wished for, was to have had him
+confin'd; and this was an excellent Reason to give the People for so
+doing.
+
+The Queen seems to have no Design or Artifice in relation to her Son,
+but mere Affection; which, considering all Things, one would little
+expect from her.
+
+The Account of the Embassy to _Norway_, was necessary towards the
+Introduction of _Fortinbrass_, in the Sequel, whose coming in at the
+Close of the Play winds up all very naturally.
+
+_Polonius's_ Character, (p. 267, 268.) is admirably well kept up in that
+Scene, where he pretends to have discovered the Cause of the Prince's
+Madness, and would much deserve Applause, were such a Character
+allowable in such a Piece as this.
+
+_Hamlet's_ Letter to _Ophelia_, which _Polonius_ reads, is none of the
+best Parts of this play, and is, I think, too Comick for this Piece. The
+whole Conduct of _Hamlet's_ Madness is, in my Opinion, too ludicrous for
+his Character, and for the situation his Mind was then really in. I must
+confess, nothing is more difficult than to draw a real Madness well,
+much more a feign'd one; for here the Poet in _Hamlet's_ Case, was to
+paint such a Species of Madness as should not give cause of Suspicion of
+the real Grief which had taken Possession of the Prince's Mind. His
+Behaviour to those two Courtiers, whom the Usurper had sent to dive into
+his Secret, is very natural and just, because his chief Business was to
+baffle their Enquiries, as he does also in another Scene, (p. 304.)
+where his falling into a sort of a Pun upon bringing in the Pipe, is a
+great Fault, for it is too low and mean for Tragedy. But our Author in
+this (as in all his Pieces) is glad of any Opportunity of falling in
+with the prevailing Humour of the Times, which ran into false Wit, and
+a constant endeavour to produce affected Moral Sentences.
+
+He was very capable of drawing _Hamlet_ in Madness with much more
+Dignity, and without any Thing of the Comick; although it is difficult,
+as I said, to describe a feign'd Madness in a Tragedy, which is not to
+touch on the real Cause of Grief.
+
+Page 277.
+
+The Scene of the Players is conducive to the whole Scheme of this
+Tragedy, and is managed with great Beauty. We are to observe, that the
+Speeches spoken by the Prince, and one of the Players, are dismal
+Bombast, and intended, no doubt, to ridicule some Tragedy of those Days.
+
+The Poet's stepping out of his Subject to lash the Custom of Plays being
+acted by the Children of the Chapel, is not allowable in Tragedy, which
+is never to be a Satire upon any modern particular _Foible_ or Vice that
+prevails, but is to be severe upon Crimes and Immoralities of all Ages,
+and of all Countries.
+
+Hamlet's Speech, (p. 281.) after his Conversation with the Players, is
+good; and by it we see that the Poet himself seems sensible of the Fault
+in his Plot. But that avails not, unless he had found Means to help it,
+which certainly might have been.
+
+The Prince's Design of confirming by the Play, the Truth of what the
+Ghost told him, is certainly well imagin'd; but as the coming of these
+Players is supposed to be accidental, it could not be a Reason for his
+Delay.
+
+
+ACT III.
+
+Page 284.
+
+_How smart a Lash, that Speech doth give my Conscience_, &c.
+
+The Poet here is greatly to be commended for his Conduct. As consummate
+a Villain as this King of _Denmark_ is represented to be, yet we find
+him stung with the deepest Remorse, upon the least Sentence that can any
+ways be supposed to relate to his Crime. How Instructive this is to the
+Audience, how much it answers the End of all publick Representations by
+inculcating a good Moral, I leave to the Consideration of every Reader.
+
+Hamlet's Conversation with _Ophelia_, we may observe, is in the Style of
+Madness; and it was proper that the Prince should conceal his Design
+from every one, which had he conversed with his Mistress in his natural
+Style could not have been.
+
+I am perswaded, that our Author was pleas'd to have an Opportunity of
+raising a Laugh now and then, which he does in several Passages of
+_Hamlet's_ satirical Reflections on Women; but I have the same
+Objections to this Part of the Prince's Madness, that I have before
+mentioned, viz. that it wants Dignity. _Ophelia's_ melancholy
+Reflections upon _Hamlet's_ having lost his Sovereignty of Reason, is
+natural and very beautiful. As to the King's sending him to _England_,
+See Mr. _Theobald's_ Note. I purposely omit taking Notice of the famous
+Speech, _To be, or not to be_, &c. every _English_ Reader knows its
+Beauties.
+
+The Prince's Directions to the Players are exceeding good, and are
+evidently brought in as Lessons for the Players, who were
+_Shakespeare's_ Companions, and he thought this a very proper Occasion
+to animadvert upon those Faults which were disagreeable to him. Whoever
+reads these Observations of his, if one may prove a Thing by a negative
+Argument, must believe _Shakespeare_ to have been an excellent Actor
+himself; for we can hardly imagine him to have been guilty of the
+Mistakes he is pointing out to his Brethren.
+
+Notwithstanding all this, and that the Opportunity seems natural enough
+to introduce these Remarks, yet I cannot think them agreeable in such a
+Piece as this; they are not suitable to the Dignity of the Whole, and
+would be better plac'd in a Comedy.
+
+
+Page 292, Act 3d.
+
+Hamlet's Expression of his Friendship for _Horatio_, has great Beauties;
+it is with Simplicity and Strength, and the Diction has all the Graces
+of Poetry. It was well imagin'd, that he should let his Friend know the
+Secret of his Father's Murder, because, thus his Request to him, to
+observe the King's Behaviour at the Play, is very naturally introduc'd
+as a prudent Desire of the Prince's. The Friendship of _Eneas_ for
+_Achates_ in the _Eneid_, is found Fault with much for the same Reasons
+that some Criticks might carp at this of _Hamlet's_ for _Horatio_, viz.
+that neither of them are found to perform any great Acts of Friendship
+to their respective Friends. But, I think, that the Friendship of
+_Hamlet_ and _Horatio_ is far superior to that of _Eneas_ and _Achates_,
+as appears in the last Scene, where _Horatio's_ Behaviour is exceeding
+Tender, and his Affection for the Prince likely to prove very useful to
+his Memory.
+
+Hamlet's whole Conduct, during the Play which is acted before the King,
+has, in my Opinion, too much Levity in it. His Madness is of too light a
+Kind, although I know he says, he must be idle; but among other Things,
+his Pun to _Polonius_ is not tolerable. I might also justly find Fault
+with the want of Decency in his Discourses to _Ophelia_, without being
+thought too severe. The Scene represented by the Players is in wretched
+Verse. This we may, without incurring the Denomination of an ill-natur'd
+Critick, venture to pronounce, that in almost every Place where
+_Shakespeare_ has attempted Rhime, either in the Body of his Plays, or
+at the Ends of Acts or Scenes, he falls far short of the Beauty and
+Force of his Blank Verse: One would think they were written by two
+different Persons. I believe we may justly take Notice, that Rhime
+never arrived at its true Beauty, never came to its Perfection in
+_England_, until long since _Shakespeare's_ Time.
+
+The King's rising with such Precipitation, and quitting the Play upon
+seeing the Resemblance of his own foul Crime, is very much in Nature,
+and confirms the Penetration of our Author's Hero.
+
+
+Page 302.
+
+Hamlet's Pleasantry upon his being certified that his Uncle is Guilty,
+is not a-propos in my Opinion. We are to take Notice that the Poet has
+mix'd a Vein of Humour in the Prince's Character, which is to be seen in
+many Places of this Play. What was his Reason for so doing, I cannot
+say, unless it was to follow his Favourite _Foible_, viz. that of
+raising a Laugh.
+
+
+Page 306.
+
+The Prince's Resolution upon his going to his Mother, is beautifully
+express'd, and suitable to his Character.
+
+
+Page 306, 307.
+
+What _Rosincrantz_ says of the Importance of the King's Life, is
+express'd by a very just Image.
+
+
+Page 307.
+
+The King's seeming so very much touch'd with a Sense of his Crime, is
+supposed to be owing to the Representation he had been present at; but I
+do not well see how _Hamlet_ is introduced so as to find him at Prayers.
+It is not natural, that a King's Privacy should be so intruded on, not
+even by any of his Family, especially, that it should be done without
+his perceiving it.
+
+
+Page 309.
+
+Hamlet's Speech upon seeing the King at Prayers, has always given me
+great Offence. There is something so very Bloody in it, so inhuman, so
+unworthy of a Hero, that I wish our Poet had omitted it. To desire to
+destroy a Man's Soul, to make him eternally miserable, by cutting him
+off from all hopes of Repentance; this surely, in a Christian Prince, is
+such a Piece of Revenge, as no Tenderness for any Parent can justify. To
+put the Usurper to Death, to deprive him of the Fruits of his vile
+Crime, and to rescue the Throne of _Denmark_ from Pollution, was highly
+requisite: But there our young Prince's Desires should have stop'd, nor
+should he have wished to pursue the Criminal in the other World, but
+rather have hoped for his Conversion, before his putting him to Death;
+for even with his Repentance, there was at least Purgatory for him to
+pass through, as we find even in a virtuous Prince, the Father of
+_Hamlet_.
+
+
+Page 310.
+
+_Enter the Queen and_ Polonius, _and afterwards_ Hamlet.
+
+We are now come to a Scene, which I have always much admired. I cannot
+think it possible, that such an Incident could have been managed
+better, nor more conformably to Reason and Nature. The Prince, conscious
+of his own good Intentions, and the Justness of the Cause he undertakes
+to plead, speaks with that Force and Assurance which Virtue always
+gives; and yet manages his Expressions so as not to treat his Mother in
+a disrespectful Manner. What can be expressed with more Beauty and more
+Dignity, than the Difference between his Uncle and Father! The Contrast
+in the Description of them both, is exquisitely fine: And his inforcing
+the Heinousness of his Mother's Crime with so much Vehemence, and her
+guilty half Confessions of her Wickedness, and at last her thorough
+Remorse, are all Strokes from the Hand of a great Master in the
+Imitation of Nature.
+
+His being obliged to break off his Discourse by the coming in of his
+Father's Ghost once more, adds a certain Weight and Gravity to this
+Scene, which works up in the Minds of the Audience all the Passions
+which do the greatest Honour to human Nature. Add to this, the august
+and solemn Manner with which the Prince addresses the Spectre after his
+Invocation of the Celestial Ministers.
+
+The Ghost's not being seen by the Queen, was very proper; for we could
+hardly suppose, that a Woman, and a guilty one especially, could be able
+to bear so terrible a Sight without the Loss of her Reason. Besides
+that, I believe, the Poet had also some Eye to a vulgar Notion, that
+Spirits are only seen by those with whom their Business is, let there be
+never so many Persons in Company. This Compliance with these popular
+Fancies, still gives an Air of Probability to the Whole. The Prince
+shews an extreme Tenderness for his Father in these Lines,
+
+   _On Him! on Him!_ &c.
+   _His Form and Cause conjoin'd_, &c.
+
+and really performs all the strictest Rules of Filial Piety thro' out
+the whole Play, both to Father and Mother; and particularly, to the
+Latter in this Scene, whilst he endeavours to bring her to Repentance.
+In a Word, We have in this important Scene, our Indignation raised
+against a vile Murderer, our Compassion caus'd for the inhuman Death of
+a virtuous Prince; our Affection is heighten'd for the Hero of the Play;
+and, not to enter into more Particulars, we are moved in the strongest
+Manner, by every Thing that can gain Access to our Hearts.
+
+Hamlet's killing _Polonius_, was in Conformity to the Plan _Shakespeare_
+built his Play upon; and the Prince behaves himself on that Occasion, as
+one who seems to have his Thoughts bent on Things of more Importance. I
+wish the Poet had omitted _Hamlet's_ last Reflection on the Occasion,
+_viz. This Counsellor, &c._ It has too much Levity in it; and his
+_tugging_ him away into another Room, is unbecoming the Gravity of the
+rest of the Scene, and is a Circumstance too much calculated to raise a
+Laugh, which it always does. We must observe, that _Polonius_ is far
+from a good Character, and that his Death is absolutely necessary
+towards the _Denoüement_ of the whole Piece. And our Hero had not put
+him to Death, had not he thought it to have been the Usurper hid behind
+the _Arras_; so that upon the Whole, this is no Blemish to his
+Character.
+
+Hamlet's Behaviour to the King, &c. (Act _fourth_, p 320 and Sequel,)
+concerning _Polonius's_ Body, is too jocose and trivial.
+
+
+Page 326. _Enter_ Fortinbrass _with an Army_.
+
+This is a Conduct in most of our Author's Tragedies, and in many other
+of our Tragedy Writers, that is quite unnatural and absurd; I mean,
+introducing an Army on the Stage. Although our Imagination will bear a
+great Degree of Illusion, yet we can never so far impose on our
+Knowledge, and our Senses, as to imagine the Stage to contain an Army:
+Therefore in such a Case, the Recital of it, or seeing the Commander,
+and an Officer or Two of it, is the best Method of conducting such a
+Circumstance. _Fortinbrass's_ Troops are here brought in, I believe, to
+give Occasion for his appearing in the last Scene, and also to give Rise
+to _Hamlet's_ reflections thereon, (p. 327.) which tend to give some
+Reasons for his deferring the Punishment of the Usurper.
+
+Laertes's Character is a very odd one; it is not easy to say, whether it
+is good or bad; but his consenting to the villainous Contrivance of the
+Usurper's to murder _Hamlet_, (p. 342.) makes him much more a bad Man
+than a good one. For surely Revenge for such an accidental Murder as was
+that of his Father's (which from the Queen, it is to be supposed he was
+acquainted with all the Circumstances of) could never justify him in any
+treacherous Practices. It is a very nice Conduct in the Poet to make the
+Usurper build his Scheme upon the generous unsuspicious Temper of the
+Person he intends to murder, and thus to raise the Prince's Character by
+the Confession of his Enemy, to make the Villain ten Times more odious
+from his own Mouth. The Contrivance of the Foil unbated (i.e. without a
+Button) is methinks too gross a Deceit to go down even with a Man of the
+most unsuspicious Nature.
+
+The Scenes of _Ophelia's_ Madness are to me very shocking, in so noble a
+Piece as this. I am not against her having been represented mad; but
+surely, it might have been done with less Levity and more Decency.
+Mistakes are less tolerable from such a Genius as _Shakespeare's_ and
+especially in the very Pieces which give us such strong Proofs of his
+exalted Capacity. Mr. _Warburton's_ Note (in Mr. _Theobalds_) on
+_Laertes's_ Rebellion, is very judicious, (as indeed are all those of
+that Gentleman) only I cannot think _Laertes_ (for the Reasons I have
+given) a good Character.
+
+
+ACT V.
+
+The Scene of the Grave-Diggers. (p. 344.) I know is much applauded, but
+in my humble Opinion, is very unbecoming such a Piece as this, and is
+only pardonable as it gives Rise to _Hamlet's_ fine moral Reflections
+upon the Infirmity of human Nature.
+
+
+Page 354.
+
+Hamlet's Return to _Denmark_ is not ill contriv'd; but I cannot think
+that his Stratagem is natural or easy, by which he brings that
+Destruction upon the Heads of his Enemies, which was to have fallen upon
+himself. It was possible, but not very probable; because methinks, their
+Commission was kept in a very negligent Manner, to be thus got from them
+without their knowing it. Their Punishment was just, because they had
+devoted themselves to the Service of the Usurper in whatever he should
+command, as appears in several Passages.
+
+It does not appear whether _Ophelia's_ Madness was chiefly for her
+Father's Death, or for the Loss of _Hamlet_. It is not often that young
+Women run mad for the Loss of their Fathers. It is more natural to
+suppose, that like _Chimene_ in the _Cid_, her great Sorrow proceeded
+from her Father's being kill'd by the Man she lov'd, and thereby making
+it indecent for her ever to marry him.
+
+
+Page 351.
+
+In _Hamlet's_ leaping into _Ophelia's_ Grave, (which is express'd with
+great Energy and Force of Passion) we have the first real Proof of his
+Love for her, which during this whole Piece has been forced to submit to
+Passions of greater Weight and Force, and here is suffered to break out
+chiefly, as it is necessary towards the Winding up of the Piece. It is
+but an Under-Passion in the Play, and seems to be introduced more to
+conform to the Plan our Poet built upon, than for any Thing else; tho'
+as the whole Play is managed, it conduces towards the Conclusion, as
+well as it diversifies, and adds Beauties to the whole Piece.
+
+
+Page 357.
+
+The Scene of the Fop _Osrick_ is certainly intended as a Satire upon the
+young Courtiers of those Days, and is humourously express'd, but is, I
+think, improper for Tragedy.
+
+Hamlet's feeling, as it were, a Presage in his own Breast, of the
+Misfortune impending from his accepting _Laertes's_ Challenge, is
+beautiful; and we are to note, that our Author in several of his Plays,
+has brought in the chief Personages as having a sort of prophetick Idea
+of their Death; as in _Romeo_ and _Juliet_. It was (I doubt not) the
+Opinion of the Age he lived in.
+
+Laertes's Death, and the Queen's, are truly poetical Justice, and very
+naturally brought about; although I do not conceive it to be so easy to
+change Rapiers in a Scuffle, without knowing it at the Time.
+
+The Death of the Queen is particularly according to the strictest Rules
+of Justice, for she loses her Life by the Villany of the very Person,
+who had been the Cause of all her Crimes.
+
+
+Page 364.
+
+Since the Poet deferred so long the Usurper's Death, we must own, that
+he has very naturally effected it, and still added fresh Crimes to those
+the Murderer had already committed.
+
+Upon _Laertes's_ Repentance for contriving the Death of _Hamlet_, one
+cannot but feel some Sentiments of Pity for him; but who can see or read
+the Death of the young Prince without melting into Tears and Compassion?
+_Horatio's_ earned Desire to die with the Prince, (_p. 365, and
+Sequel_,) thus not to survive his Friend, gives a stronger Idea of his
+Friendship for _Hamlet_ in the few Lines on that Occasion, than many
+Actions or Expressions could possibly have done. And _Hamlet's_ begging
+him to _draw his Breath in this Harsh World_ a little longer, to clear
+his Reputation and manifest his Innocence, is very suitable to his
+virtuous Character, and the honest Regard that all Men should have not
+to be misrepresented to Posterity; that they may not let a bad Example,
+when in reality they have set a good one; which is the only Motive that
+can, in Reason, recommend the Love of Fame and Glory.
+
+
+Page 366.
+
+When the Ambassadors from _England_ say,
+
+   _Where shall we have our Thanks?_
+
+And _Horatio_ answers,
+
+   _Not from his Mouth,
+   He never gave_, &c.
+
+I wonder that Mr. _Theobalds_ should see any Difficulty in this; for it
+is but applying to the King what _Horatio_ says, who knew the whole
+Affair, and then his Answer is just and true; and indeed, I think it
+cannot well be understood in any other Sense from the whole Tenour of
+the Passage.
+
+Horatio's Desire of having the Bodies carried to a Stage, &c. is very
+well imagined, and was the best way of satisfying the Request of his
+deceased Friend. And he acts in this, and in all Points, suitably to the
+manly, honest Character under which he is drawn throughout the whole
+Piece. Besides, it gives a sort of Content to the Audience, that tho'
+their Favourite (which must be _Hamlet_) did not escape with Life, yet
+the greatest amends will be made him, which can be in this World, viz.
+Justice done to his Memory.
+
+Fortinbrass comes in very naturally at the Close of this Play, and lays
+a very just Claim to the Throne of _Denmark_, as he had the dying Voice
+of the Prince. He in few Words gives a noble Character of _Hamlet_, and
+serves to carry off the deceased Hero from the Stage with the Honours
+due to his Birth and Merit.
+
+I shall close these Remarks with some general Observations, and shall
+avoid (as I have hitherto done) repeating any Thing which has been said
+by others, at least as much as I possibly can: Nor do I think it
+necessary to make an ostentatious Shew of Learning, or to draw quaint
+Parallels between our Author and the great Tragic Writers of Antiquity;
+for in Truth, this is very little to the Purpose in reviewing
+_Shakespeare's_ Dramatic Works; since most Men are I believe convinced,
+that he is very little indebted to any of them; and a remarkable
+Influence of this is to be observed in his Tragedy of _Troilus_ and
+_Cressida_, wherein it appears (as Mr. _Theobalds_ has evidently
+demonstrated it,) that he has chosen an old _English_ Romance concerning
+the _Trojan_ War, as a worthier Guide than even _Homer_ himself. Nature
+was our great Poet's Mistress; her alone has he followed as his
+Conductress; and therefore it has been with regard to her only, that I
+have considered this Tragedy. It is not to be denied, but that
+_Shakespeare's_ Dramatic Works are in general very much mix'd; his Gold
+is strangely mingled with Dross in most of his Pieces. He fell too much
+into the low Taste of the Age he liv'd in, which delighted in miserable
+Puns, low Wit, and affected sententious Maxims; and what is most
+unpardonable in him, he has interspersed his noblest Productions with
+this Poorness of Thought. This I have shewn in my Remarks on this Play.
+Yet, notwithstanding the Defects I have pointed out, it is, I think,
+beyond Dispute, that there is much less of this in _Hamlet_ than in any
+of his Plays; and that the Language in the Whole, is much more pure, and
+much more free from Obscurity or Bombast, than any of our Author's
+Tragedies; for sometimes _Shakespeare_ may be justly tax'd with that
+Fault. And we may moreover take Notice, that the Conduct of this Piece
+is far from being bad; it is superior in that respect (in my Opinion) to
+many of those Performances in which the Rules are said to be exactly
+kept to. The Subject, which is of the nicest Kind, is managed with great
+Delicacy, much beyond that Piece wherein _Agamemnon's_ Death is revenged
+by his Son _Orestes_, so much admired by all the Lovers of Antiquity;
+for the Punishment of the Murderer alone by the Son of the murdered
+Person, is sufficient; there is something too shocking in a Mother's
+being put to Death by her Son, although she be never so guilty.
+_Shakespeare's_ Management in this Particular, has been much admired by
+one of our greatest Writers, who takes Notice of the beautiful Caution
+given by the Ghost to _Hamlet_,
+
+   _But howsoever thou pursuest this Act_, &c.
+
+The making the Whole to turn upon the Appearance of a Spectre, is a
+great Improvement of the Plan he work'd upon; especially as he has
+conducted it in so sublime a Manner, and accompanied it with all the
+Circumstances that could make it most perfect in its kind.
+
+I have observed in my Remarks, that the Poet has, with great Art,
+brought about the Punishment of the guilty Queen by the very Person who
+caused her Guilt, and this without Staining her Son's Hands with her
+Blood.
+
+There is less Time employ'd in this Tragedy, as I observed else where,
+than in most of our Author's Pieces, and the Unity of Place is not much
+disturbed. But here give me leave to say, that the Critick's Rules, in
+respect to these two Things, if they prove any Thing, prove too much;
+for if our Imagination will not bear a strong Imposition, surely no Play
+ought to be supposed to take more Time than is really employ'd in the
+Acting; nor should there be any Change of Place in the least. This shews
+the Absurdity of such Arbitrary Rules. For how would such a Genius as
+_Shakespeare's_ have been cramped had he thus fettered himself! But
+there is (in Truth) no Necessity for it. No Rules are of any Service in
+Poetry, of any kind, unless they add Beauties, which consist (in
+Tragedy) in an exact Conformity to Nature in the Conduct of the
+Characters, and in a sublimity of Sentiments and nobleness of Diction.
+If these two Things be well observed, tho' often at the Expence of
+Unity of Time and Place, such Pieces will always please, and never
+suffer us to find out the little Defects in the Plot; nay it generally
+happens (at least Experience has shewn it frequently) that those Pieces
+wherein the fantastick Rules of Criticks have been kept strictly to,
+have been generally flat and low. We are to consider, that no Dramatick
+Piece can affect us but by the Delusion of our Imagination; which, to
+taste true and real Pleasures at such Representations, must undergo very
+great Impositions, even such as in Speculation seem very gross, but
+which are nevertheless allowed of by the strictest Criticks. In the
+first Place, our Understandings are never shocked at hearing all
+Nations, on our Stage, speak _English_; an Absurdity one would think
+that should immediately revolt us; but which is, however, absolutely
+necessary in all Countries where Dramatick Performances are resorted to,
+unless the Characters be always supposed to be of each respective
+Nation; as for instance, in all _Shakespeare's_ Historical Plays. I say,
+this never shocks us nor do we find any Difficulty in believing the
+Stage to be _Rome_, (or _Denmark_, for instance, as in this Play;) or
+_Wilks_ to be _Hamlet_, or _Booth_ to be a Ghost, &c. These Things, I
+repeat it, appear difficult in Speculation; but we find, that in Reality
+they do go down; and must necessarily do so, or else farewel all
+Dramatick Performances; for unless the Distress and Woes appear to be
+real (which they never can, if we do not believe we actually see the
+Things that are represented) it is impossible our Passions should be
+moved. Let any one fairly judge, if these do not seem as great
+Impositions on our Reason, as the Change of Place, or the Length of
+Time, which are found fault with in our Poet. I confess there are Bounds
+set to this Delusion of our Imaginations, (as there are to every Thing
+else in this World) for this Delusion is never perform'd in direct
+Defiance of our Reason; on the contrary, our Reason helps on the Deceit;
+but she will concur no farther in this Delusion, than to a certain Point
+which she will never pass, and that is, the Essential Difference between
+Plays which deceive us by the Assistance of our Reason, and others which
+would impose upon our Imaginations in Despight of our Reason. It is
+evident by the Success our Author's Pieces have always met with for so
+long a Course of Time; it is, I say, certain by this general
+Approbation, that his Pieces are of the former, not of the latter Sort.
+But to go to the Bottom of this Matter, would lead me beyond what I
+propose.
+
+Since therefore it is certain, that the strict Observance of the
+Critick's Rules might take away Beauties, but not always add any, why
+should our Poet be so much blamed for giving a Loose to his Fancy? The
+Sublimity of Sentiments in his Pieces, and that exalted Diction which is
+so peculiarly his own, and in fine, all the Charms of his Poetry, far
+outweigh any little Absurdity in his Plots, which no ways disturb us in
+the Pleasures we reap from the above-mention'd Excellencies. And the
+more I read him, the more I am convinced, that as he knew his own
+particular Talent well, he study'd more to work up great and moving
+Circumstances to place his chief Characters in, so as to affect our
+Passions strongly, he apply'd himself more to This than he did to the
+Means or Methods whereby he brought his Characters into those
+Circumstances. How far a general Vogue is the Test of the Merit of a
+Tragedy, has been often considered by eminent Writers, and is a Subject
+of too complicated a Nature to discuss in these few Sheets. But I shall
+just hint two or three of my own Thoughts on that Head. Nature is the
+Basis of all Tragick Performances, and no Play that is unnatural, i.e.
+wherein the Characters act inconsistently with themselves, and in a
+Manner repugnant to our natural Ideas, can please at all. But a Play may
+be natural, and yet displease one Sett of People out of Two, of which
+all Audiences are composed. If a Play be built upon low Subjects, but
+yet carried on consistently, and has no Merit but Nature, it will please
+the Vulgar; by which I mean, all the unlearned and ill-educated, (as for
+Instance, _George Barnwell_, a Piece calculated for the Many) but it
+must be nauseous to the Learned, and to those of improved and exalted
+Understandings. So on the other Hand, a Piece which turns upon
+Passions, which regard those of high Station chiefly, cannot be so
+pleasing to the Vulgar; for tho' all Men are born with the same
+Passions, yet Education very much exalts and refines them. Thus the
+Loves of Boors and Peasants may delight the Populace, but those of
+better Sort must have Delicacy in that Passion to see it represented
+with any tolerable Patience. The same is to be said of Jealousy and
+Revenge, which are indeed felt by all, but in Breasts well educated are
+felt with sharper Pangs, and are combated with more Vehemence, and from
+more and greater Motives; therefore such People are fitter to judge, and
+more likely to be taken with noble and sublime Representations of such
+Incidents. I need not observe, that the Vulgar cannot judge of the
+Historical Propriety of a great Character, This is obvious to every one;
+nor can they judge of the Passion of Ambition, as it has Power with
+Princes and great Men, because not being versed by Reading in parallel
+Stories, and not being in such a Situation of Life, as to feel the
+Torments of such Passions, they cannot certainly tell whether such
+Things are represented with proper Circumstances, and proper
+Consequences drawn from them. And moreover, as all Men are by Nature
+more prone to some Passions than to others, This must cause Variety of
+Sentiments in relation to the same Piece. Besides all this, we may be
+very certain that different Education, different Degrees of
+Understanding, and of the Passions common to all Men, must cause a
+Variety of Sentiments concerning such Representations. To prove this,
+let us observe how the Tastes of Nations differ in relation to these
+Things; so much, that one would be tempted sometimes to think, that they
+did not all partake of the same Passions; but certainly they vary in the
+Degrees of them; therefore by a Parity of Reason we may justly conclude,
+that Difference of Education among those of the same Nation must affect
+their Passions and Sentiments. The better sort have (if one may so
+express it) some acquired Passions which the lower sort are ignorant of.
+Thus indeed it seems at first Sight; but on a nearer View they are found
+to be, as I said, the same Passions augmented or refined, and turned
+upon other Objects. The different Manner in which one of _Corneille's_
+or _Racine's_ Pieces would be received by an Audience of _Turks_ or
+_Russians_, and an Audience of _Frenchmen_, (supposing the former to
+understand the Language, and the latter to be free from any national
+Prejudices for the Authors) is a lively and strong Emblem of the Force
+of Education and Custom among Creatures, all cast in the same Mould, and
+endued with the same Faculties and Passions with very little real
+Difference. Still farther, we may observe, that even good Acting will
+recommend some bad Pieces, as bad Acting will take away half the Merit
+of good Ones; and some National Subjects are pleasing (as the _Albion
+Queens_ and _Earl_ of _Essex_) to the Many, tho' they very little
+affect the Few. When I speak of Plays, I desire to be understood of
+Tragedies, in which I think the _English_ excell; for I can mention very
+few of our Comedies with any Approbation; since in the Latter, neither
+the Morals of the Inhabitants of this Nation are regarded, or Nature
+followed. In short, not to pursue a Subject, that would carry me great
+Lengths, I conclude from this, that a Piece which has no Merit in it but
+Nature, will please the Vulgar; whereas exalted Sentiments, and Purity
+and Nobleness of Diction, as well as Nature, are absolutely requisite to
+please those of a true Taste. And it is very possible, that a Play which
+turns upon some great Passion, seldom felt by the Vulgar, and wherein
+that Passion is treated with the greatest Delicacy and Justness; I say,
+it is very possible that such a Piece may please the Few, and displease
+the Many. And as a Proof of the bad Taste of the Multitude, we find in
+this Nation of ours, that a vile _Pantomime_ Piece, full of Machinery,
+or a lewd blasphemous Comedy, or wretched Farce, or an empty obscure low
+Ballad Opera, (in all which, to the scandal of our Nation and Age, we
+surpass all the World) shall draw together crowded Audiences, when there
+is full Elbow-Room at a noble Piece of _Shakespeare's_ or _Rowe's_.
+
+Before I conclude, I must point out another Beauty in the Tragedy of
+_Hamlet_, besides those already mentioned, which does indeed arise from
+our Author's conforming to a Rule which he followed, (probably, without
+knowing it,) only because it is agreeable to Nature; and this is, that
+there is not one Scene in this Play but what some way or other conduces
+towards the _Denoüement_ of the Whole; and thus the Unity of Action is
+indisputably kept up by every Thing tending to what we may call the main
+Design, and it all hangs by Consequence so close together, that no Scene
+can be omitted, without Prejudice to the Whole. Even _Laertes_ going to
+_France_, and _Ophelia's_ Madness, however trivial they may seem (and
+how much soever I dislike the Method of that last mentioned) are
+Incidents absolutely necessary towards the concluding of all; as will
+appear to any one upon due Consideration. This all holds good,
+notwithstanding it is my Opinion, that several of the Scenes might have
+been altered by our Author for the better; but as they all stand, it is,
+as I said, quite impossible to separate them, without a visible
+Prejudice to the Whole. I must add, that I am much in Doubt, whether
+Scenes of Prose are allowable, according to Nature and Reason, in
+Tragedies which are composed chiefly of Blank Verse; the Objection to
+them seems to be this, that as all Verse is not really in Nature, but
+yet Blank Verse is necessary in Tragedies, to ennoble the Diction, and
+by Custom is become natural to us, Prose mixed with it serves only,
+methinks, to discover the Effects of Art, by the Contraste between
+Verse and Prose. Add to all this, That it is not suitable to the Dignity
+of such Performances.
+
+In short, Vice is punished in this excellent Piece, and thereby the
+Moral Use of it is unquestionable. And if _Hamlet's_ Virtue is not
+rewarded as we could wish, Mr. _Addison's_ Maxim ought to satify us,
+which is this, "That no Man is so thoroughly Virtuous as to claim a
+Reward in Tragedy, or to have Reason to repine at the Dispensations of
+Providence; and it is besides more Instructive to the Audience, because
+it abates the Insolence of Human Nature, and teaches us not to judge of
+Men's Merit by their Successes. And he proceeds farther, and says, that
+though a virtuous Man may prove unfortunate, yet a vicious Man cannot be
+happy in a well wrought Tragedy." This last Rule is well observed here.
+
+Another Reason why we ought to bear with more Patience the Sufferings of
+a virtuous Character, is the Reflection on the future Rewards prepared
+for such, which is more suitable to the Moral Maxims established in a
+Christian Country. Besides, had it pleased our Author to have spared
+_Hamlet's_ Life, we had been deprived of that pleasing Sensation which
+always (as I have else where observed) accompanies a Consciousness that
+we are moved as we ought to be; which we most assuredly are, when we
+feel Compassion rise in us for the young Prince's Death in the last
+Scene. I shall just touch upon one Thing more, and then I shall end
+these Reflections.
+
+I am very sensible that our Nation has long been censur'd for delighting
+in bloody Scenes on the Stage, and our Poets have been found fault with
+for complying with this vicious Taste. I cannot but own, that there is a
+great deal of Justice in these Complaints; and must needs be of Opinion,
+that such Sights should never be exhibited but in order, visibly, to
+conduce to the Beauty of the Piece. This is sometimes so much the Case,
+that Action is often absolutely necessary. And to come more particularly
+to the Subject now in hand, I desire any unprejudiced Man, of any Nation
+whatever, (if such can be found) who understands our Language, to
+consider whether the Appearance of the Ghost, and the Deaths of the
+several principal Personages, (with whatever else may offend the
+Delicacy I mention) could possibly have that great, that noble Effect,
+by being told to the Audience, as they most undoubtedly have, by being
+brought on the Stage. If this Matter be well examined with all possible
+Candour, I am well perswaded that it would be found in the End, that
+this Piece would, by the Method I speak of, loose half its Beauty.
+
+The _French_, (as has been often observ'd) by their Rules of Criticism,
+have voluntarily imposed on themselves an unnecessary Slavery; and when
+little Genius's among them have written Tragedies with these Chains on,
+they have made most miserable work of it, and given Plays entirely void
+of Spirit. Even the great Genius's in that Nation, such as _Corneille_
+and _Racine_, and Mr. _De Voltaire_ (which last being capacitated by
+having liv'd among us, and by learning our Language, to judge of the
+Defects and Merits of both Nations, is highly sensible of the Truth of
+what I now say, as appears in his Preface to his _Brutus_) even they
+have been forced to damp their Fire, and keep their Spirit from soaring
+in almost all their Pieces; and all this is owing to the false Notions
+of Decency, and a Refinement of Taste among our Neighbours, which is
+getting now to such a Height, that so far from being able to bear the
+Representation of Tragical Actions, they are hardly able to bear any
+Subjects which turn upon the weightier Passions; such as Ambition,
+Revenge, Jealousy, &c. The Form of their Government, indeed, is of such
+a Nature, that many Subjects cannot be treated as they ought, nor work'd
+up to that Height which they are here, and were formerly at _Athens_,
+&c. and Love, for that Reason among others is made to be the Basis of
+almost all their Tragedies. Nay, the Education of the People under such
+a Government, prevents their delighting in such Performances as pleased
+an _Athenian_ or a _Roman_, and now delight us _Britons_. Thus every
+Thing conduces to debase Tragedy among them, as every Thing here
+contributes to form good Tragick Writers; yet how few have we! And what
+is very remarkable, each Nation takes Delight in that, which, in the
+Main, they the least excel in, and are the least fit for. The Audience
+in _England_ is generally more crowded at a Comedy, and in _France_ at a
+Tragedy; yet I will venture to affirm, (and I shall be ready upon
+Occasion to support my Assertion by good Reasons) that no Comick Writer
+has ever equal'd _Moliere_, nor no Tragick Writer ever came up to
+_Shakespeare_, _Rowe_, and Mr. _Addison_. Besides the many Reasons I
+have already given in Relation to the _French_, I might add, that their
+Language is less fit for Tragedy, and the Servitude of their Rhime
+enervates the Force of the Diction. And as for Our Comedies, they are so
+full of Lewdness, Impiety and Immorality, and of such complicated
+perplexed Plots, so stuffed with Comparisons and Similies, so
+replenished with Endeavours at Wit and Smartness, that I cannot forbear
+saying, that whoever sees or reads them for Improvement (I make some
+Exceptions in this Censure) will find a contrary Effect; and whatever
+Man of a True Taste expects to see Nature, either in the Sentiments or
+Characters, will (in general) find himself very much mistaken.
+
+
+_FINIS_.
+
+The _Remarks_ was printed anonymously, in 1736, with the following
+title page:
+
+   Some / Remarks / on the / Tragedy / of /
+   _Hamlet_ Prince of _Denmark_, / Written by /
+   Mr. _William Shakespeare_. / [double rule
+   enclosing a printer's device] / _London_: /
+   Printed for W. Wilkins, in _Lombard_-/
+   _Street_. M,DCC,XXXVI. price 1s.
+
+The edition of 1736 was reprinted in London, 1864, for sale by John
+Russell Smith, with an identical title page. The reprint bore the
+following cover:
+
+   Reprints of Scarce Pieces of Shakespeare
+   Criticism. No. 1. Remarks on Hamlet,
+   1736.
+
+The usual ascription of the essay heretofore to Sir Thomas Hanmer
+derives from the statement by Sir Henry Bunbury, on page 80 of his _The
+Correspondence of Sir Thomas Hanmer, Bart_, London, 1838, that he had
+"reason to believe that he was the author ..."
+
+--Wallace A. Bacon Northwestern University
+
+ANNOUNCING
+
+THE
+
+_Publications_
+
+OF
+
+THE AUGUSTAN REPRINT SOCIETY
+
+_General Editors_
+
+RICHARD C. BOYS EDWARD NILES HOOKER H.T. SWEDENBERG, JR.
+
+_THE AUGUSTAN REPRINT SOCIETY_
+
+MAKES AVAILABLE
+
+_Inexpensive Reprints of Rare Materials_
+
+FROM
+
+ENGLISH LITERATURE OF THE SEVENTEENTH AND EIGHTEENTH CENTURIES
+
+Students, scholars, and bibliographers of literature, history, and
+philology will find the publications valuable. _The Johnsonian News
+Letter_ has said of them: "Excellent facsimiles, and cheap in price,
+these represent the triumph of modern scientific reproduction. Be sure
+to become a subscriber; and take it upon yourself to see that your
+college library is on the mailing list."
+
+The Augustan Reprint Society is a non-profit, scholarly organization,
+run without overhead expense. By careful management it is able to offer
+at least six publications each year at the unusually low membership fee
+of $2.50 per year in the United States and Canada, and $2.75 in Great
+Britain and the continent.
+
+Libraries as well as individuals are eligible for membership. Since the
+publications are issued without profit, however, no discount can be
+allowed to libraries, agents, or booksellers.
+
+New members may still obtain a complete run of the first year's
+publications for $2.50, the annual membership fee.
+
+During the first two years the publications are issued in three series:
+I. Essays on Wit; II. Essays on Poetry and Language; and III. Essays on
+the Stage.
+
+_PUBLICATIONS FOR THE FIRST YEAR (1946-1947)_
+
+MAY, 1946: Series I, No. 1--Richard Blackmore's _Essay upon Wit_ (1716),
+and Addison's _Freeholder_ No. 45 (1716).
+
+JULY, 1946: Series II, No. 1--Samuel Cobb's _Of Poetry_ and _Discourse
+on Criticism_ (1707).
+
+SEPT., 1946: Series III, No. 1--Anon., _Letter to A.H. Esq.; concerning
+the Stage_ (1698), and Richard Willis' _Occasional Paper_ No. IX (1698).
+
+NOV., 1946: Series I, No. 1--Anon., _Essay on Wit_ (1748), together with
+Characters by Flecknoe, and Joseph Warton's _Adventurer_ Nos. 127 and
+133.
+
+JAN., 1947: Series II, No. 2--Samuel Wesley's _Epistle to a Friend
+Concerning Poetry_ (1700) and _Essay on Heroic Poetry_ (1693).
+
+MARCH, 1947; Series III, No. 2--Anon., _Representation of the Impiety
+and Immorality of the Stage_ (1704) and anon., _Some Thoughts Concerning
+the Stage_ (1704).
+
+_PUBLICATIONS FOR THE SECOND YEAR (1947-1948)_
+
+MAY, 1947: Series I, No. 3--John Gay's _The Present State of Wit_; and a
+section on Wit from _The English Theophrastus_. With an Introduction by
+Donald Bond.
+
+JULY, 1947: Series II, No. 3--Rapin's _De Carmine Pastorali_, translated
+by Creech. With an Introduction by J.E. Congleton.
+
+SEPT., 1947: Series III, No. 3--T. Hanmer's (?) _Some Remarks on the
+Tragedy of Hamlet_. With an Introduction by Clarence D. Thorpe.
+
+NOV., 1947: Series I, No. 4--Corbyn Morris' _Essay towards Fixing the
+True Standards of Wit_, etc. With an Introduction by James L. Clifford.
+
+JAN., 1948: Series II, No. 4--Thomas Purney's _Discourse on the
+Pastoral_. With an Introduction by Earl Wasserman.
+
+MARCH, 1948: Series III, No. 4--Essays on the Stage, selected, with an
+Introduction by Joseph Wood Krutch.
+
+The list of publications is subject to modification in response to
+requests by members. From time to time Bibliographical Notes will be
+included in the issues. Each issue contains an Introduction by a scholar
+of special competence in the field represented.
+
+The Augustan Reprints are available only to members. They will never be
+offered at "remainder" prices.
+
+_GENERAL EDITORS_
+
+RICHARD C. BOYS, _University of Michigan_ EDWARD NILES HOOKER,
+_University of California, Los Angeles_ H.T. SWEDENBERG, JR.,
+_University of California, Los Angeles_
+
+_ADVISORY EDITORS_
+
+EMMETT L. AVERY, _State College of Washington_ LOUIS I. BREDVOLD,
+_University of Michigan_ BENJAMIN BOYCE, _University of Nebraska_
+CLEANTH BROOKS, _Louisiana State University_ JAMES L. CLIFFORD,
+_Columbia University_ ARTHUR FRIEDMAN, _University of Chicago_ SAMUEL H.
+MONK, _University of Minnesota_ JAMES SUTHERLAND, _Queen Mary College,
+London_
+
+       *       *       *       *       *
+
+Address communications to any of the General Editors. British and
+Continental subscriptions should be sent to
+
+B.H. BLACKWELL BROAD STREET OXFORD, ENGLAND
+
+
+
+
+
+End of the Project Gutenberg EBook of Some Remarks on the Tragedy of Hamlet,
+Prince of Denmark, Written by Mr. William Shakespeare (1736), by Anonymous
+
+*** END OF THIS PROJECT GUTENBERG EBOOK SOME REMARKS ON THE TRAGEDY OF HAMLET ***
+
+***** This file should be named 14899-8.txt or 14899-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.net/1/4/8/9/14899/
+
+Produced by David Starner, Graeme Mackreth, David King, and the PG
+Online Distributed Proofreading Team
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

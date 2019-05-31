@@ -1,0 +1,2922 @@
+﻿The Project Gutenberg EBook of Epistle to a Friend Concerning Poetry
+(1700) and the Essay on Heroic Poetry (second edition, 1697), by Samuel Wesley
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Epistle to a Friend Concerning Poetry (1700) and the Essay on Heroic Poetry (second edition, 1697)
+
+Author: Samuel Wesley
+
+Commentator: Edward N. Hooker
+
+Release Date: August 10, 2005 [EBook #16506]
+[Most recently updated: December 23, 2005]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK EPISTLE TO A FRIEND ***
+
+
+
+
+E-text prepared by David Starner, Charles M. Bidwell, and the Project
+Gutenberg Online Distributed Proofreading Team (http://www.pgdp.net/)
+
+
+
+
+Series Two:
+_Essays on Poetry_
+
+No. 2
+
+Samuel Wesley's
+_Epistle to a Friend concerning Poetry_ (1700)
+and the
+_Essay on Heroic Poetry_ (second edition, 1697)
+
+With an Introduction by
+Edward N. Hooker
+
+The Augustan Reprint Society
+January, 1947
+_Price:_ 75c
+
+
+
+
+GENERAL EDITORS: _Richard C. Boys_, University of Michigan, Ann
+Arbor; _Edward N. Hooker, H.T. Swedenberg, Jr._, University of
+California, Los Angeles 24, California.
+
+Membership in the Augustan Reprint Society entitles the subscriber to six
+publications issued each year. The annual membership fee is $2.50. Address
+subscriptions and communications to the Augustan Reprint Society, in care
+of one of the General Editors.
+
+EDITORIAL ADVISORS: _Louis I. Bredvold_, University of Michigan;
+_James L. Clifford_, Columbia University; _Benjamin Boyce_,
+University of Nebraska; _Cleanth Brooks_, Louisiana State University;
+_Arthur Friedman_, University of Chicago; _James R. Sutherland_,
+Queen Mary College, University of London; _Emmett L. Avery_, State
+College of Washington; _Samuel Monk_, Southwestern University.
+
+Lithoprinted from Author's Typescript
+EDWARDS BROTHERS, INC.
+_Lithoprinters_
+ANN ARBOR, MICHIGAN
+1947
+
+
+
+
+INTRODUCTION
+
+We remember Samuel Wesley (1662-1735), if at all, as the father of a great
+religious leader. In his own time he was known to many as a poet and a
+writer of controversial prose. His poetic career began in 1685 with the
+publication of _Maggots_, a collection of juvenile verses on trivial
+subjects, the preface to which, a frothy concoction, apologizes to the
+reader because the book is neither grave nor gay. The first poem, "On a
+Maggot," is composed in hudibrastics, with a diction obviously Butlerian,
+and it is followed by facetious poetic dialogues and by Pindarics of the
+Cowleian sort but on such subjects as "On the Grunting of a Hog." In 1688
+Wesley took his B.A. at Exeter College, Oxford, following which he became
+a naval chaplain and, in 1690, rector of South Ormsby; he became rector of
+Epworth in 1695. During the run of the _Athenian Gazette_ (1691-1697)
+he joined with Richard Sault and John Norris in assisting John Dunton, the
+promoter of the undertaking. His second venture in poetry, the _Life of
+Our Blessed Lord and Saviour_, an epic largely in heroic couplets with
+a prefatory discourse on heroic poetry, appeared in 1693, was reissued in
+1694, and was honored with a second edition in 1697. In 1695 he dutifully
+came forward with _Elegies_, lamenting the deaths of Queen Mary and
+Archbishop Tillotson. _An Epistle to a Friend concerning Poetry_
+(1700) was followed by at least four other volumes of verse, the last of
+which was issued in 1717. His poetry appears to have had readers on a
+certain level, but it stirred up little pleasure among wits, writers, or
+critics. Judith Drake confessed that she was lulled to sleep by
+Blackmore's _Prince Arthur_ and by Wesley's "heroics" (_Essay in
+Defence of the Female Sex_, 1696, p. 50). And he was satirized as a
+mare poetaster in Garth's _Dispensary_, in Swift's _The Battle of
+the Books_, and in the earliest issues of the _Dunciad_. Nobody
+today would care to defend his poetry for its esthetic merits.
+
+For a few years in the early eighteenth century Wesley found himself in
+the vortex of controversy. Brought up in the dissenting tradition, he had
+swerved into conformity at some point during the 1680's, possibly under
+the influence of Tillotson, whom he greatly admired (cf. _Epistle to a
+Friend_, pp. 5-6). In 1702 there appeared his _Letter from a Country
+Divine to his friend in London concerning the education of dissenters in
+their private academies_, apparently written about 1693. This attack
+upon dissenting academies was published at an unfortunate time, when the
+public mind was inflamed by the intolerance of overzealous churchmen.
+Wesley was furiously answered; he replied in _A Defence of a Letter_
+(1704), and again in _A Reply to Mr. Palmer's Vindication_ (1707). It
+is scarcely to Wesley's credit that in this quarrel he stood shoulder to
+shoulder with that most hot-headed of all contemporary bigots, Henry
+Sacheverell. His prominence in the controversy earned him the ironic
+compliments of Defoe, who recalled that our "Mighty Champion of this very
+High-Church Cause" had once written a poem to satirize frenzied Tories
+(_Review_, II, no. 87, Sept. 22, 1705). About a week later Defoe,
+having got wind of a collection being taken up for Wesley--who in
+consequence of a series of misfortunes was badly in debt--intimated that
+High-Church pamphleteering had turned out very profitably for both Lesley
+and Wesley (Oct. 2, 1705). But in such snarling and bickering Wesley was
+out of his element, and he seems to have avoided future quarrels.
+
+His literary criticism is small in bulk. But though it is neither
+brilliant nor well written (Wesley apparently composed at a break-neck
+clip), it is not without interest. Pope observed in 1730 that he was a
+"learned" man (letter to Swift, in _Works_, ed. Elwin-Courthope, VII,
+184). The observation was correct, but it should be added that Wesley
+matured at the end of an age famous for its great learning, an age whose
+most distinguished poet was so much the scholar that he appeared more the
+pedant than the gentleman to critics of the succeeding era; Wesley was not
+singular for erudition among his seventeenth-century contemporaries.
+
+The "Essay on Heroic Poetry," serving as Preface to _The Life of Our
+Blessed Lord and Saviour_, reveals something of its author's erudition.
+Among the critics, he was familiar with Aristotle, Horace, Longinus,
+Dionysius of Halicarnasseus, Heinsius, Bochart, Balzac, Rapin, Le Bossu,
+and Boileau. But this barely hints at the extent of his learning. In the
+notes on the poem itself the author displays an interest in classical
+scholarship, Biblical commentary, ecclesiastical history, scientific
+inquiry, linguistics and philology, British antiquities, and research into
+the history, customs, architecture, and geography of the Holy Land; he
+shows, an intimate acquaintance with Grotius, Henry Hammond, Joseph Mede,
+Spanheim, Sherlock, Lightfoot, and Gregory, with Philo, Josephus, Fuller,
+Walker, Camden, and Kircher; and he shows an equal readiness to draw upon
+Cudworth's _True Intellectual System_ and Boyle's new theories concerning
+the nature of light. In view of such a breadth of knowledge it is somewhat
+surprising to find him quoting as extensively as he does in the "Essay"
+from Le Bossu and Rapin, and apparently leaning heavily upon them.
+
+The "Essay" was composed at a time when the prestige of Rymer and
+neo-Aristotelianism in England was already declining, and though Wesley
+expressed some admiration for Rapin and Le Bossu, he is by no means docile
+under their authority. Whatever the weight of authority, he says, "I see
+no cause why Poetry should not be brought to the Test [of reason], as well
+as Divinity...." As to the sacred example of Homer, who based his great
+epic on mythology, Wesley remarks, "But this [mythology] being now
+antiquated, I cannot think we are oblig'd superstitiously to follow his
+Example, any more than to make Horses speak, as he does that of Achilles."
+To the question of the formidable Boileau, "What Pleasure can it be to
+hear the howlings of repining Lucifer?" our critic responds flippantly, "I
+think 'tis easier to answer than to find out what shew of Reason he had
+for asking it, or why Lucifer mayn't howl as pleasantly as either
+Cerberus, or Enceladus." Without hesitation or apology he takes issue with
+Rapin's conception of Decorum in the epic. But Wesley is empiricist as
+well as rationalist, and the judgment of authority can be upset by appeal
+to the court of experience. To Balzac's suggestion that, to avoid
+difficult and local proper names in poetry, generalized terms be used,
+such as _Ill-luck_ for the _Fates_ and the _Foul Fiend_ for _Lucifer_, our
+critic replies with jaunty irony, "... and whether this wou'd not sound
+extreamly Heroical, I leave any Man to judge," and thus he dismisses the
+matter. Similarly, when Rapin objects to Tasso's mingling of lyric
+softness in the majesty of the epic, Wesley points out sharply that no man
+of taste will part with the fine scenes of tender love in Tasso, Dryden,
+Ovid, Ariosto, and Spenser "for the sake of a fancied Regularity." He had
+set out to defend the Biblical epic, the Christian epic, and the propriety
+of Christian machines in epic, and no rules or authority could deter him.
+As good an example as any of his independence of mind can be seen in a
+note on Bk. I, apropos of the poet's use of obsolete words (_Life of Our
+Blessed Lord_, 1697, p. 27): it may be in vicious imitation of Milton and
+Spenser, he says in effect, but I have a fondness for old words, they
+please my ear, and that is all the reason I can give for employing them.
+
+Wesley's resistance to a strict application of authority and the rules
+grew partly out of the rationalistic and empirical temper of Englishmen in
+his age, but it also sprang from his learning. From various sources he
+drew the theory that Greek and Latin were but corrupted forms of ancient
+Phoenician, and that the degeneracy of Greek and Latin in turn had
+produced all, or most, of the present European tongues (_ibid._, p. 354).
+In addition, he believed that the Greeks had derived some of their
+thought from older civilizations, and specifically that Plato had received
+many of his notions from the Jews (_ibid._, p. 230)--an idea which recalls
+the argument that Dryden in _Religio Laici_ had employed against the
+deists. Furthermore, he had, like many of his learned contemporaries, a
+profound respect for Hebrew culture and the sublimity of the Hebrew
+scriptures, going so far as to remark in the "Essay on Heroic Poetry" that
+"most, even of [the heathen poets'] best Fancies and Images, as well as
+Names, were borrow'd from the Antient Hebrew Poetry and Divinity." In
+short, however faulty his particular conclusions, he had arrived at an
+historical viewpoint, from which it was no longer possible to regard the
+classical standards--much less the standards of French critics--as having
+the holy sanction of Nature herself.
+
+Some light is shed on the literary tastes of his period by Wesley's two
+essays here reproduced, which with a few exceptions were in accord with
+the prevailing current. _The Life of Our Blessed Lord_ shows strongly
+the influence of Cowley's _Davideis_. Wesley's great admiration
+persisted after the tide had turned away from Cowley; and his liking for
+the "divine Herbert" and for Crashaw represented the tastes of sober and
+unfashionable readers. In spite of the fact that he professed unbounded
+admiration for Homer as the greatest genius in nature, in practise he
+seemed more inclined to follow the lead of Cowley, Virgil, and Vida.
+Although there was much in Ariosto that he enjoyed, he preferred Tasso;
+the irregularities in both, however, he felt bound to deplore. To
+Spenser's _Faerie Queene_ he allowed extraordinary merit. If the plan
+of it was noble, he thought, and the mark of a comprehensive genius, yet
+the action of the poem seemed confused. Nevertheless, like Prior later,
+Wesley was inclined to suspend judgment on this point because the poem had
+been left incomplete. To Spenser's "thoughts" he paid the highest tribute,
+and to his "Expressions flowing natural and easie, with such a prodigious
+Poetical Copia as never any other must expect to enjoy." Like most of the
+Augustans Wesley did not care greatly for _Paradise Regained_, but he
+partly atoned by his praise for _Paradise Lost_, which was an
+"original" and therefore "above the common Rules." Though defective in its
+action, it was resplendent with sublime thoughts perhaps superior to any
+in Virgil or Homer, and full of incomparable and exquisitely moving
+passages. In spite of his belief that Milton's blank verse was a mistake,
+making for looseness and incorrectness, he borrowed lines and images from
+it, and in Bk. IV of _The Life of Our Blessed Lord_ he incorporated a
+whole passage of Milton's blank verse in the midst of his heroic couplets.
+
+Wesley's attitude toward Dryden deserves a moment's pause. In the "Essay
+on Heroic Poetry" he observed that a speech of Satan's in _Paradise
+Lost_ is nearly equalled in Dryden's _State of Innocence_. Later
+in the same essay he credited a passage in Dryden's _King Arthur_
+with showing an improvement upon Tasso. There is no doubt as to his vast
+respect for the greatest living poet, but his remarks do not indicate that
+he ranked Dryden with Virgil, Tasso, or Milton; for he recognized as well
+as we that the power to embellish and to imitate successfully does not
+constitute the highest excellence in poetry. In the _Epistle to a
+Friend_ he affirmed his admiration for Dryden's matchless style, his
+harmony, his lofty strains, his youthful fire, and even his wit--in the
+main, qualities of style and expression. But by 1700 Wesley had absorbed
+enough of the new puritanism that was rising in England to qualify his
+praise; now he deprecated the looseness and indecency of the poetry, and
+called upon the poet to repent. One other point calls for comment.
+Wesley's scheme for Christian machinery in the epic, as described in the
+"Essay on Heroic Poetry," is remarkably similar to Dryden's. Dryden's had
+appeared in the essay on satire prefaced to his translation of Juvenal,
+published late in October, 1692; Wesley's scheme appeared soon after June,
+1693.
+
+The _Epistle to a Friend concerning Poetry_ is neither startling nor
+contemptible; it has, in fact, much more to say than the rhymed treatises
+on verse by Roscommon and Buckinghamshire. Its remarks on Genius are
+fresh, though tantalizing in their brevity, and it defends the Moderns
+with both neatness and energy. Much of its advice is cautious and
+commonplace--but such was the tradition of the poetical treatise on verse.
+Appearing within two years of Collier's first attack upon the stage, it
+reinforces some of that worthy's contentions, but we are not aware of its
+having had much effect.
+
+The _Epistle to a Friend concerning Poetry_ is here reproduced, with
+permission, from the copy at Harvard. The "Essay on Heroic Poetry" is
+reproduced, with permission, from a copy of the 1697 edition of _The
+Life of Our Blessed Lord_ owned by the Henry E. Huntington Library, at
+San Marino, California. Our reproduction of the second item was made from
+a typescript because the printing of the original lacks the size and
+clarity which are necessary for satisfactory results In lithoprinting. The
+typescript follows the original accurately except that italics (crazily
+profuse in the 1697 edition) are omitted, the use of quotation marks is
+normalized, and three obvious typographical errors are silently emended.
+
+  Edward Niles Hooker
+
+
+
+
+AN
+EPISTLE
+TO A
+FRIEND
+CONCERNING
+POETRY.
+
+By SAMUEL WESLEY.
+
+_Fungor vice Cotis._
+
+_LONDON_
+
+Printed for CHARLES HARPER, at the _Flower de Luce_
+in _Fleetstreet_. MDCC.
+_25. Aprill_.
+
+
+
+
+PREFACE.
+
+_I have not much to say of this Poem, before I leave it to the_ Mercy _of
+the Reader. There's no need of looking far into it, to find out that the
+direct_ Design _of a great part of it, is to Serve the_ Cause of Religion
+_and_ Virtue; _tho' 'twas necessary for that End to dispose the_ whole _in
+such a manner as might be agreeable to the_ Tast _of the present Age, and
+of those who usually give such sort of Books the_ Reading. _If there be
+any Thoughts in it relating to_ Poetry, _that either are not known to_ all
+Persons, _or are tolerably_ ranged _and_ expressed, _the Reader is welcome
+to 'em for_ Over-weight: _If there are too few of these, I yet hope the
+Pardon of all_ candid Judges, _because I've done the best I cou'd on this_
+Argument. _I can't be angry with any Person for ranking me amongst the_
+Ogylbys; _my Quarrel is with these that rank themselves amongst_ Atheists,
+_and impudently defend and propagate that_ ridiculous _Opinion of the_
+Eternity of the World, _and a fatal_ invincible Chain of Things, _which,
+it seems, is now most commonly made use of to destroy the_ Faith, _as our_
+lewd Plays _are to corrupt the_ Morals _of the_ Nation: _An Opinion, big
+with more_ Absurdities _than_ Transubstantiation _it self, and of far
+more_ fatal Consequence, _if receiv'd and believ'd: For besides its
+extremely weakening, if not destroying, the_ Belief _of the_ Being _and_
+Providence of God, _it utterly takes away any sort of_ Freedom _in_ Humane
+Actions, _reduces Mankind beneath the_ Brute Creation; _perfectly_ excuses
+_the greatest_ Villanies _in_ this World, _and entirely vacates all_
+Retribution _hereafter. One wou'd wonder with what Face or Conscience such
+a_ Sett _of Men shou'd hope to be treated by the Rules of_ Civility, _when
+they themselves break through those of_ Society, _and_ common Humanity:
+_How they can expect any fairer_ Quarter _than_ Wolves _or_ Tygers; _or
+what Reason they can give why a_ Price _should not be sett upon their_
+Heads, _as well as on the_ Others; _or at least why they should not be
+securely_ hamper'd _and_ muzzled, _and led about for a_ Sight, _like
+other_ Monsters. _'Tis the fatal and spreading_ Poyson _of these Mens_
+Examples _and_ Principles _which has extorted these_ warm Expressions
+_from me; I cannot with_ Patience _see my_ Countrey ruin'd _by the
+prodigious increase of_ Infidelity _and_ Immorality, _nor forbear crying
+out with some_ Vehemence, _when I am giving Warning to all honest Men to
+stand up in the_ Defence _of it, when it is in greater and more eminent
+danger than it wou'd have been formerly, if the_ Spanish Armada _had made
+a Descent amongst us: I don't speak of these things by distant_ Hear-say,
+_or only from our publick_ Prints, _but from my own_ Knowledg _and little_
+Acquaintance _in the World, and therefore others must have observ'd much
+more, and cannot but fear, that if things go on as they now are, without a
+greater_ Check, _and more_ severe Laws _against these wide and contagious_
+Mischiefs, _at least without a more general united_ Endeavour _to put
+those Laws already made in_ strict Execution, _we are in a fair way to
+become a_ Nation of Atheists. _'Tis now no difficult matter to meet with
+those who pretend to be_ lewd _upon_ Principles; _They'll talk very_
+gravely, _look as if they were in earnest, and come_ sobrii ad perdendam
+Rempublicam: _they wou'd be_ Criticks _too, and_ Philosophers: _They
+attack_ Religion _in_ Form _and batter it from every_ Quarter; _they wou'd
+turn the very_ Scriptures _against themselves, and labour hard to remove
+a_ Supreme Being _out of the World; or if they do vouchsafe him any_ room
+_in it, 'tis only that they may find_ Fault _with his_ Works, _which they
+think, with that_ Blasphemer _of old, might have been much better order'd,
+had they themselves stood by and directed the_ Architect. _They'll tell
+you the_ Errors _of_ Nature _are every where_ plain _and_ visible, _all_
+monstrous, _here_ too much _and there_ too little; _or, as_ one of their
+own Poets,
+
+  Here she's _too sparing_, there _profusely_ vain.
+
+_What would these Men have, or why can't they be content to sink_ single
+_into the_ bottomless Gulph, _without dragging so much Company thither
+with 'em? Can they grapple_ Omnipotence, _or are they sure they can be_
+too hard _for_ Heaven? _Can they_ Thunder _with a_ Voice like God, _and
+cast abroad the_ Rage _of their_ Wrath? _Cou'd they_ annihilate _Hell,
+indeed, or did it only consist of such_ painted Flames _as they'd fain
+believe it, they might make a shift to be tolerably happy, more quietly
+rake through the World, and_ sink _into_ Nothing. _There's too great
+reason to apprehend, that this_ Infection _is spred among Persons of
+almost all_ Ranks _and_ Qualities; _and that tho' some may think it_
+decent _to keep on the_ Masque, _yet if they were search'd to the_ bottom,
+_all_ their Religion _wou'd be found that which they most blasphemously
+assert of_ Religion _in_ general, _only a_ State Engin _to keep the_ World
+in Order. _This is_ Hypocrisie _with a Witness; the_ basest _and_ meanest
+_of_ Vices; _and how come Men to fall into these_ damnable Errors _in
+Faith, but by_ Lewdness _of Life? The Cowards wou'd not believe a God
+because they_ dare _not do it, for Woe be to 'em if there be one, and
+consequently any_ Future Punishments. _From such as these, I desire no
+Favour, but that of their_ Ill Word, _as their_ Crimes _must expect_ none
+_from me, whose_ Character _obliges me to declare an_ eternal War
+_against_ Vice _and_ Infidelity, _tho' at the same time heartily to_ pity
+_those who are_ infected _with it. If I cou'd be_ ambitious _of a_ Name
+_in the World, it shou'd be that I might_ sacrifice _it in so glorious a_
+Cause _as that of_ Religion _and_ Virtue: _If none but_ Generals _must
+fight in this_ sacred War, _when there are such_ infernal Hosts _on the
+other side, they cou'd never prevail without one of the_ antient Miracles:
+_If_ little People _can but well discharge the Place of a_ private
+Centinel, _'tis all that's expected from us. I hope I shall never let the_
+Enemies of God and my Countrey _come on without_ Fireing, _tho' it serve
+but to give the_ Alarm, _and if I dye without_ quitting _my_ Post, _I
+desire no greater Glory_. _I have endeavour'd to shew that I had no_
+Personal Pique _against any whose_ Characters _I may have given in this
+Poem, nor think the worse of them for their_ Thoughts _of me. I hope I
+have every where done 'em_ Justice, _and as well as I cou'd, have given
+'em_ Commendation _where they deserve it; which may also, on the other
+side, acquit me of_ Flattery _with all_ Impartial Judges; _for 'tis not
+only the_ Great _whose_ Characters _I have here attempted. And if what I
+have written may be any ways_ useful, _or_ innocently diverting _to the
+virtuous and ingenious_ Readers, _he has his End, who is_
+
+  Their Humble Servant
+
+  S. WESLEY.
+
+
+
+
+AN
+EPISTLE
+TO A
+FRIEND
+CONCERNING
+POETRY.
+
+  As Brother _Pryme_ of old from Mount _Orgueil_,
+  So I to you from _Epworth_ and the _Isle_:
+  Harsh _Northern_ Fruits from our cold Heav'ns I send,
+  Yet, since the _best_ they yield, they'll please a _Friend_.
+    You ask me, What's the readiest way to _Fame_,
+  And how to gain a _Poet's_ sacred Name?
+  For _Saffold_ send, your Choice were full as just,
+  When burning _Fevers_ fry your Limbs to Dust!
+  Yet, lest you _angry_ grow at your _Defeat_,      }
+  And me as ill as that fierce _Spark_ should treat }                 10
+  Who did the Farrier into Doctor _beat_;           }
+  You to my little _Quantum_, Sir, are free,
+  Which I from HORACE glean or NORMANDY;
+  These with some grains of _Common Sense_ unite,
+  Then freely _think_, and as I think I write.
+    First _poize_ your _Genius_, nor presume to write
+  If _Phoebus_ smile not, or some _Muse_ invite:
+  Nature refuses _Force_, you strive in vain,
+  She will not _drag_, but struggling breaks the Chain.
+  How bright a Spark of _Heav'nly Fire_ must warm!                    20
+  What _Blessings_ meet a _Poet's Mind_ to form!
+  How oft must he for those _Life-Touches_ sit,
+  _Genius, Invention, Memory, Judgment, Wit_?
+  There's here no _Middle-State_, you must excel;
+  _Wit_ has no _Half-way-House_ 'twixt _Heav'n_ and _Hell_
+  _All cannot All things_, lest you mourn too late,
+  Remember _Phaeton_'s unhappy _Fate_!
+  Eager to guide the _Coursers_ of the _Day_,       }
+  Beneath their _Brazen Hoofs_ he trampled lay,     }
+  And his bright _Ruines_ mark'd their flaming Way. }                 30
+                                                   [Sidenote: _Genius_.]
+    You'll ask, What GENIUS is, and Where to find?
+  'Tis the full _Power_ and _Energy_ of _Mind_:
+  A _Reach_ of _Thought_ that skims all Nature o'er,
+  _Exhausts_ this narrow _World_, and asks for _more_:
+  Through every _Rank of Beings_ when't has flown,
+  Can frame a _New Creation_ of its own:
+  By _Possible_ and _Future_ unconfin'd:
+  Can stubborn _Contradictions_ yoke, and bind
+  Through _Fancy_'s Realms, with Number, Time and Place,
+  _Chimera-Forms_, a thin, an airy Race;                              40
+  Then with a secret _conscious Pride_ surveys
+  The _Enchanted Castles_ which't had _Power_ to raise.
+                                                      [Sidenote: _Wit_.]
+    As _Genius_ is the _Strength_, be WIT defin'd
+  The _Beauty_ and the _Harmony_ of _Mind_:
+  _Beauty's_ Proportion, Air, each lively Grace
+  The _Soul_ diffuses round the _Heav'nly Face_:
+  'Tis _various_, yet 'tis _equal_, still the same
+  In _Alpine Snows_, or _Ethiopian Flame_;
+  While _glaring Colours_ short-liv'd Grace supply,
+  Nor _Frost_ nor _Sun_ they bear, but _scorch_ and _die_.            50
+                                                 [Sidenote: _Judgment_.]
+    Nor these alone, tho much they can, suffice,
+  JUDGMENT must join, or never hope the Prize:
+  Those _Headstrong Coursers_ scowr along the Plains,
+  The _Rider's_ down, if once he lose the _Reins_:
+  Soon the _Mad Mixture_ will to all give Law,
+  And for the _Laurel Wreaths_ present thee _Wreaths of Straw_.
+  _Judgment's_ the _Act of Reason_; that which brings
+  Fit _Thoughts_ to _Thoughts_, and argues _Things_ from _Things_,
+  True, Decent, Just, are in its _Balance_ try'd,
+  And thence we learn to _Range, Compound, Divide_.                   60
+                                     [Sidenote: _Invention and Memory_.]
+    A _Cave_ there is wherein those _Nymphs_ reside
+  Who all the Realms of _Sense_ and _Fancy_ guide;
+  Nay some affirm that in the deepest _Cell_
+  Imperial _Reason's_ self does not disdain to dwell:
+  With Living _Reed_ 'tis thatch'd and guarded round,
+  Which mov'd by _Winds_ emit a Silver Sound:
+  Two _Crystal Fountains_ near its _Entrance_ play,      }
+  Wide scatt'ring _Golden Streams_ which ne'er decay,    }
+  Two _Labyrinths_ behind harmonious Sounds convey:      }
+  Chiefly, within, the _Room of State_ is fam'd                       70
+  Of rich _Mosaick Work_ divinely fram'd:
+  Of small _Extent_ to view, 'twill all things hide,
+  Heav'n's Azure _Arch_ it self not half so wide:
+  Here all the _Arts_ their sacred Mansion chuse,
+  Here dwells the MOTHER of the Heav'n-born Muse:
+  With wond'rous mystic _Figures_ round 'tis wrought
+  _Inlaid_ with FANCY, and _anneal'd_ with _Thought_:
+  With more than humane Skill depicted here
+  The various _Images of Things_ appear;
+  What _Was_, or _Is_, or labours yet to _Be_                         80
+  Within the Womb of Dark _Futurity_,
+  May _Stowage_ in this wondrous _Storehouse_ find,
+  Yet leave unnumber'd empty _Cells_ behind:
+  But ah! as fast they come, they fly too fast,
+  Not _Life or Happiness are more in haste_:
+  Only the _First Great Mind_ himself can stay
+  The _Fugitives_ and at _one Glance_ survey;
+  But those whom he disdains not to befriend,  }
+  _Uncommon Souls_, who nearest Heav'n ascend  }
+  Far more, at once, than others comprehend:   }                      90
+  Whate'er within this _sacred Hall_ you find,    }
+  Whate'er will _lodge_ in your _capacious Mind_  }
+  Let _Judgment_ sort, and skilful _Method_ bind; }
+  And as from these you draw your antient Store
+  Daily supply the _Magazine_ with more.
+  Furnish'd with such _Materials_ he'll excel
+  Who when he _works_ is sure to work 'em _well_;
+  This ART alone, as _Nature_ that bestows,
+  And in _Perfection_ both, th' accomplish'd _Verser_ knows.
+  Knows to _persuade_, and how to _speak_, and when;                 100
+  The _Rules of Life_, and _Manners_ knows and _Men_:
+  Those _narrow Lines_ which _Good_ and _Ill_ divide;
+                                                 [Sidenote: _Learning_.]
+  And by what _Balance Just_ and _Right_ are try'd:
+  How _Kindred-Things_ with _Things_ are closely join'd; }
+  How _Bodies_ act, and by what _Laws_ confin'd,         }
+  Supported, mov'd and rul'd by th' _Universal Mind_.    }
+  When the moist _Kids_ or burning _Sirius_ rise;  }
+  Through what ambiguous Ways _Hyperion_ flies,    }
+  And marks our _Upper_ or the _Nether Skies_.     }
+  He knows those _Strings_ to _touch_ with artful Hand               110
+  Which rule Mankind, and all the World command:
+  What _moves_ the _Soul_, and every secret _Cell_
+  Where _Pity, Love_, and all the _Passions_ dwell.
+  The _Music_ of his _Verse_ can _Anger_ raise,
+  Which with a softer _Stroak_ he _smooths_ and _lays_:
+  Can _Emulation, Terror_, all excite,
+  _Compress_ the _Soul_ with _Grief_, or _swell_ with vast Delight.
+  If this you can, your _Care_ you'll well bestow,
+  And some new _Milton_ or a _Spencer_ grow;
+  If not, a _Poet_ ne'er expect to be,                               120
+  Content to _Rime_, like _D----y_ or like me.
+    But here perhaps you'll stop me, and complain,
+  To such _Impracticable Heights_ I strain
+  A Poet's _Notion_, that if _This_ be _He_,
+  There ne'er was one, nor e'er is like to be.
+  --But soft, my Friend! may we not _copy_ well
+  Tho far th' _Original_ our _Art_ excel?
+  _Divine Perfection_ we our _Pattern_ make
+  Th' _Idea_ thence of _Goodness_ justly take;
+  But they who _copy_ nearest, still must fall                       130
+  Immensely short of their _Original_;
+                                                 [Sidenote: _Converse_.]
+    But _Wit_ and _Genius_, _Sense_ and _Learning_ join'd,
+  Will all come short if _crude_ and _unrefin'd_;
+  'Tis CONVERSE only melts the stubborn _Ore_
+  And _polishes_ the _Gold_, too rough before:
+  So _fierce_ the _Natural Taste_, 'twill ne'er b' endur'd,
+  The _Wine_ is _strong_, but never rightly _cur'd_.
+                                                    [Sidenote: _Style_.]
+    STYLE is the _Dress_ of _Thought_; a _modest_ Dress,
+  _Neat_, but not _gaudy_, will true _Critics_ please:
+  Not _Fleckno's Drugget_, nor a worse Extream                       140
+  All daub'd with _Point_ and _Gold_ at every Seam:
+  Who only _Antique Words_ affects, appears
+  Like old King _Harry's_ Court, all Face and Ears;
+  Nor in a _Load_ of _Wig_ thy Visage shrowd,
+  Like _Hairy Meteors glimm'ring through a Cloud_:
+  Happy are those who here the _Medium_ know,
+  We hate alike a _Sloven_ and a _Beau_.
+  I would not follow _Fashion_ to the height
+  Close at the _Heels_, not yet be _out of Sight_:
+  _Words_ alter, like our _Garments_, every day,                     150
+  Now _thrive_ and _bloom_, now _wither_ and _decay_.
+  Let those of greater _Genius_ new _invent_,
+  Be you with those in _Common Use_ content.
+    A different _Style's_ for _Prose_ and _Verse_ requir'd,
+  _Strong figures_ here, _Neat Plainness_ there desir'd:
+  A different _Set of Words_ to both belong;
+  What _shines_ in _Prose_, is, _flat_ and _mean_ in _Song_.
+  The _Turn_, the _Numbers_ must be vary'd here,
+  And all things in a _different Dress_ appear.
+  This every _School Boy_ lash'd at _Eaton_ knows,  }                160
+  Yet _Men of Sense_ forget when they _compose_,    }
+  And Father DRYDEN's Lines are sometimes _Prose_.  }
+  A _vary'd Stile_ do various Works require,
+  This _soft_ as _Air_, and _tow'ring_ that as _Fire_.
+  None than th' _Epistle_ goes more _humbly_ drest,
+  Tho _neat_ 'twou'd be, and _decent_ as the _best_.
+  Such as th' ingenious _Censor_ may invite     }
+  Oft to return with eager _Appetite_;          }
+  So HORACE wrote, and so I'd _wish_ to write.  }
+  Nor _creeps_ it always, but can _mount_ and _rise_,                170
+  And with _bold Pinions_ sail along the Skies.
+  The self-same Work of _different Style_ admits,
+  Now _soft_, now _loud_, as best the _Matter_ fits:
+  So Father THAMES from unexhausted _Veins_,
+  Moves _clean_ and _equable_ along the _Plains_;
+  Yet still of different _Depth_ and _Breadth_ is found,
+  And _humours_ still the _Nature_ of the _Ground_.
+                                                  [Sidenote: _Reading_.]
+    READING will mend your Style and raise it higher,
+  And _Matter_ find to feed th' _Immortal Fire_:
+  But if you would the _Vulgar Herd_ excel,                          180
+  And justly gain the _Palm_ of _Writing well_,
+  Wast not your Lamp in scanning _Vulgar Lines_,
+  Where _groveling_ all, or _One in twenty_ shines;
+  With _Prudence_ first among the _Antients_ chuse,
+  The _noblest_ only, and the _best_ peruse;
+  Such HOMER is, such VIRGIL's sacred Page,
+  Which _Death_ defie, nor yield to _Time_ or _Age_;
+  New _Beauties_ still their _Vigorous Works_ display,
+  Their _Fruit_ still _mellows_, but can ne'er _decay_.
+  The _Modern Pens_ not altogether slight,                           190
+  Be _Master_ of your _Language_ e'er you write!
+  _Immortal_ TILLOTSON with Judgment scan,
+  "That _Man of Praise, that something more than Man_!"
+  Ev'n those who hate his _Ashes_ this advise,         }
+  As from black Shades resplendent Lightning flies,    }
+  _Unwilling Truths_ break through a _Cloud of Lies_.  }
+  He _Words_ and _Things_ for _mutual Aid_ design'd,
+  Before at _Variance_, in just _Numbers_ join'd;
+  He always _soars_, but never's _out of sight_,
+  He taught us how to _Speak_, and _Think_, and _Write_.             200
+    If _English Verse_ you'd in _Perfection_ see,
+  ROSCOMMON read, and _Noble_ NORMANDY:
+  We _borrow_ all from their _exhaustless Store_,
+  Or little say they have not said _before_.
+  _Poor Insects_ of a _Day_, we toil and strive
+  To creep from _Dust_ to _Dust_, and think we _live_;
+  These weak _imperfect Beings_ scarce enjoy
+  E'er _Death's_ rude Hand our _blooming Hopes_ destroy:
+  With _Lynx's_ Eyes each others _Faults_ we find,
+  But to our _own_ how few who are not _blind_?                      210
+  How _long is Art_, how _short_, alas! our _Time_!   }
+  How few who can above the _Vulgar_ climb,           }
+  Whose _stronger Genius_ reach the _True Sublime_!   }
+  With _tedious Rules_ which we our selves transgress,
+  We make the _Trouble more_ who strive to make it _less_.
+    But meanly why do you your _Fate_ deplore,
+  Yet still write on?--Why do a _Thousand_ more,
+  Who for their _own_ or some _Forefathers_ Crime
+  Are _doom'd_ to wear their _Days_ in _beating Rhime_?
+  But this a _Noble Patron_ will redress,                            220
+  And make you _better write_, tho you _write less_:
+  Whate'er a _discontented Mind_ pretends,
+  _Distinguish'd Worth_ can rarely miss of _Friends_:
+  Do but _excel_, and he'll at last arise
+  Who from the _Dust_ may lift thee to the _Skies_;
+  For his _own Sake_ will his _Protection_ grant;
+  What _Horace_ e'er did yet _Mecænas_ want?
+  Or if the _World_ its _Favours_ should refuse,
+  With _barren Smiles_ alone _reward_ thy Muse;
+  Be thy _own Patron_, thou no more wilt need,                       230
+  For all will _court_ thee if thy _Works succeed_;
+  At least the few _Good Judges_ will commend,
+  And _secret growing Praise_ thy Steps attend.
+  Who shew'd _Columbus_ where the _Indies_ lay?
+  True to thy self, _charge through_, and _force_ to _Fame_ the way!
+  If _Envy snarl_, indulge it no _Reply_,
+  Write _better_ still, and let it _burst_ and _die_!
+  Rest pleas'd if you can please the _Wiser Few_,
+  Since _to please all is more than Heav'n it self can do_.
+  There are who _can_ whate'er they _will_ believe,                  240
+  That _Bail's_ too hard for _Beady_, _Three_ are _Five_:
+  That Nature, Justice, Reason, Truth must fall,
+  With _Clear Idea's_ they'll _confound_ 'em all:
+  That _Parallels_ may _travel_ till they _meet_;
+  _Faith_ they can find in L----, no _Sense_ in STILLINGFLEET.
+  Disturb 'em not, but let 'em still enjoy
+  Th' _unenvy'd Charms_ of their _Eternal Moi_.
+    If to the _craggy Top of Fame_ you rise,
+  Those who are _lab'ring after_ ne'er _despise_.
+  Nor those _above_ on _Honours_ dazling Seat      }                 250
+  Tho _disoblig'd_, with _sawcy Rudeness_ treat,   }
+  _Revenge_ not always is _below the Great_.       }
+  Their _Stronger Genius_ may o'er thine prevail:
+  _Wit, Power_ and _Anger_ join'd but rarely fail.
+  Tho _Eagles_ would not chuse to _hawk_ at _Flies_       }
+  They'd _snap_ 'em, should their _buzzing Swarms_ arise  }
+  Importunate, and hurt their _Sun bright Eyes_.          }
+  Nor should the _Muses Birds_ at _random_ fly,
+  And _strike_ at all, lest if they strike _they die_.
+    Why should we still be _lazily content_                          260
+  With thredbare _Schemes_, and nothing _new_ invent?
+  All _Arts_ besides _improve, Sea, Air_ and _Land_  }
+  Are every day with _nicer Judgment_ scan'd,        }
+  And why should _this_ alone be at a _stand_?       }
+  Or _Nature_ largely to the _Ancients_ gave
+  And little did for _younger Children_ save;
+  Or rather we _impartial Nature_ blame
+  To hide our _Sloth_, and cover o'er our _Shame_;
+  As _Sinners_, when their _Reason's_ drown'd in _Sense_,
+  Fall out with _Heav'n_, and quarrel _Providence_.                  270
+    Yet should you our _Galenic Way_ despise,
+  And some _new Colbatch_ of the _Muses_ rise;
+  No _Quarter_ from the _College_ hope, who sit
+  _Infallible_ at _Will's_ and judg of _Sense_ and _Wit_:
+  Keep fair with these, or _Fame_ you _court_ in vain,
+  A strict _Neutrality_ at least _maintain_!
+  Speak, like the wise _Italian_, well of all;
+  Who knows into what _Hands_ he's doom'd to _fall_?
+    Write _oft_ and _much_, at _first_, if you'd _write well_,
+  For he who ne'er _attempts_ will ne'er _excel_;                    280
+  _Practice_ will _file_ your _Verse_, your _Thoughts refine_,
+  And _Beauty_ give, and _Grace_ to every Line:
+  The _Gnat_ to fam'd _Æneis_ led the way,
+  And our _Immortal_ COWLEY once did _play_.
+  Let not the _Sun of Life_ in vain decline,
+  Or _Time_ run _waste; No Day without a Line_.
+  Yet learn by me, my Friend, from _Errors_ past;
+  O never _write_, or never _Print_ in _Haste_!
+  The _worst Excuse_ Ill Authors e'er advance,
+  Which does, like _Lies_, a _single Guilt_ enhance.                 290
+  Lay by your _Work_, and leave it on the _Loom_,
+  Which if at _mod'rate distance_ you resume,
+  A _Father's Fondness_ you'll with Ease look through,
+  And _Objects_ in a proper _Medium_ view.
+  'Tis _Time_ alone can _Strength_ and _Ripeness_ give;
+  A _Hasty Birth_ can ne'er expect to _live_.
+    Fly, _low_ at first, you'll with Advantage _rise_;
+  This _pleases_ all, as that will all _surprize_.
+                                              [Sidenote: _The Subject_.]
+    No _Work_ attempt but where your _Strength_ you know,
+  Be _Master of your Subject_, _Thoughts_ will _flow_:               300
+  The _newer_ 'tis, the _choicer Fruit_ 'twill yield,
+  More _Room_ you have to work if _large_ your _Field_;
+  The _Sponge_ you oftner than the _Pen_ will want,
+  And rather _Reason_ see to _prune_ than _plant_;
+  Yet where the _Thoughts_ are _barren, weak_ and _thin_,
+  New _Cyons_ should be neatly _grafted_ in.
+                                                  [Sidenote: _A Judge_.]
+    If you with _Friend_ or _Enemy_ are blest,
+  Your _Fancy's Offspring_ ne'er can want a _Test_,
+  Tho _Both_, perhaps may _overshoot_ the _Mark_:
+  First _Spite_ with _Envy_ charges in the _Dark_;                   310
+  _Unread_ they _damn_, and into _Passion_ fall,
+  'Tis _Stuff_, 'tis _Blasphemy_ 'tis _Nonsense_ all;
+  They _sleep_ (when _doz'd before_) at every _Line_,       }
+  While your more _dang'rous Friend_ exclaims,--'Tis fine,  }
+  'Tis _furiously Delightful_, 'tis _Divine_;               }
+  Th' _inspiring God's_ in ev'ry Page confess'd;
+  A COWLEY or a DRYDEN at the least!
+  Yet you'll from _both_ an _equal Judgment_ frame
+  And stand the _nearest Candidate_ for _Fame_:
+  What _Envy praises_, or what _Friends dislike_,                    320
+  This bears the _Test_, and that the _Sponge_ should strike.
+  Chuse to be _absent_ when your _Cause_ is try'd,
+  Lest _Favour_ should the _partial Judge_ misguide;
+  Not _others Thoughts_ implicitly prefer,
+  Your _Friend's_ a _Mortal_, and like _you_, may _err_.
+  Upon the _last Appeal_ let _Reason_ sit,
+  And _here_, let _all Authority_ submit.
+  Divest your _self of self_ whate'er you can,
+  And think the _Author_ now some _other Man_.
+  A thousand trivial _Lumber-Thoughts_ will come,                    330
+  A thousand _Fagot-Lines_ will crowd for room;
+  _Reform_ your _Troops_, and no _Exemption_ grant,
+  You'll gain in _Strength_, what you in _Numbers_ want.
+  Nor yet _Infallibility_ pretend;
+  He still _errs on_ who thinks he ne'er can _mend_:
+  Reject that _hasty_, that _presumptuous Thought_!
+  None e'er but VIRGIL wrote without a _Fault_;
+  (Or _none_ he has, or none that _I can find_,
+  Who, dazzled with his _Beauties_, to his _Moles_ am blind.)
+  Who has the _least_ is _happiest_, he the _best_,                  340
+  Who _owns_ and _mends_ where he has once _transgrest_.
+  Nor will _good Writers smaller Blots_ despise,
+  Lest those neglected should to _Crimes_ arise;
+  Such _Venial Sins_ indulg'd will _mortal_ prove,
+  At least they from _Perfection_ far remove.
+  Nor _Critical Exactness_ here deride,
+  It looks like _Sloth_ or _Ignorance_, or _Pride_;
+  _Good Sense_ is spoild in _Words unapt_ exprest,
+  And _Beauty_ pleases more when 'tis _well drest_.
+                                                   [Sidenote: _Method_.]
+    Forget not METHOD if the _Prize_ you'd gain,                     350
+  'Twill cost you _Thought_, but richly pays the _Pain_;
+  What _first_, what _second_, or what _last_ to place,
+  What here will _shine_, and there the _Work_ disgrace.
+    Before you build, your MODEL justly lay,
+  And ev'ry Part in _Miniature_ survey;
+  Where airy _Terraces_ shall threat the _Skies_,
+  Where _Columns_ tow'r, or neat _Pilasters_ rise;
+  Where cool _Cascades_ come _roaring_ down the Hill,
+  Or where the _Crystal Nymph_ a _mossie Bason_ fill:
+  What _Statues_ are to grace the _Front_ design'd,                  360
+  And how to throw the _meaner Rooms_ behind.
+  Draw the _Main Strokes_ at first, 'twill shew your _Skill_,
+  _Life-Touches_ you may add whene'er you will.
+  Ev'n _Chance_ will sometimes all our _Art_ excel,
+  The _angry Foam_ we ne'er can _hit_ so well.
+  A _sudden Thought_, all beautiful and bright,
+  Shoots in and _stunns_ us with _amazing Light_;
+  Secure the _happy Moment_ e'er 'tis past,
+  Not _Time_ more _swift_, or _Lightning_ flies so fast.
+    All must be _free_ and _easie_, or in vain                       370
+  You _whip_ and _spur_, and the _wing'd Courser_ strain:
+  When _foggy Clouds_ hang _bellying_ in the _Skies_,
+  Or _fleety Boreas_ through th' _Horizon_ flies;
+  He then, whose _Muse_ produces ought that's _fine_,
+  His _Head_ must have a _stronger Turn_ than mine:
+  Like _Sybils Leaves_ the _Train of Thoughts_ are rang'd,
+  Which by _rude Winds_ disturb'd, are _nothing_ if they're chang'd.
+  Or are there too in _Writing softer Hours_?
+  Or is't that _Matter_ nobler _Mind_ o'erpow'rs,
+  Which boasts her _native Liberty_ in vain,                         380
+  In _Mortal Fetters_ and a _Slavish Chain_?
+  _Death_ only can the _Gordian Knot_ divide,      }
+  Tho by what secret wondrous _Bands_ 'tis ty'd,   }
+  Ev'n _Reason's_ self must own she can't decide:  }
+  For as the _rapid Tides_ of _Matter_ turn           }
+  We're fann'd with _Pleasure_ or with _Anger_ burn,  }
+  We _Love_ and _Hate_ again, we _Joy_ and _Mourn_.   }
+  Now the swift _Torrent_ high and headstrong grows,
+  _Shoots_ through the Dykes, and all the Banks _o'erflows_;
+  Strait the _capricious Waters_ backward fly,
+  The _Pebbles_ rake and leave the Bottom _dry_;                     390
+  Watch the _kind Hour_ and seize the _rising Flood_,
+  Else will your _dreggy Poem_ taste of _Mud_.
+  Hence old and batter'd _Hackneys_ of the _Stage_,
+  By long Experience render'd _Wise_ and _Sage_,
+  With pow'rful _Juices_ restive Nature urge,
+  Or else with _Bays_ of old, they _bleed_ and _purge_;
+  Thence, as the _Priestess_ from her _Cave_ inspir'd,
+  When to his _Cell_ the _rancid God_ retir'd,
+  _Double Entendres_ their fond _Audience_ blind,
+  Their _boasted Oracles_ abuse Mankind:                             400
+  _False Joys_ around their _Hearts_ in _Slumbers_ play,
+  And the warm _tingling Blood_ steals fast away;
+  The _Soul_ grows _dizzy_, lost in _Senses Night_,
+  And melts in pleasing _Pain_ and vain _Delight_.
+    Not that the _sowrest Critick_ can reprove
+  The _soft_ the moving _Scenes_ of _Virtuous Love_:
+  _Life's Sunny Morn_, which wears, alas! too fast;
+  _Pity_ it e'er should _hurt_, or should not _always last_!
+  Has _Bankrupt Nature_ then no _more_ to give,
+  Or by a _Trick_ persuades Mankind to _live_?                       410
+  No--when with _Prudence_ join'd 'tis still the _same_  }
+  Or _ripens_ into _Friendship's_ nobler _Name_,         }
+  The _Matter_ pure, immortal is the _Flame_.            }
+  No _Fool_, no _Debauchee_ could ever prove
+  The _honest Luxury of Virtuous Love_;
+  Then _curs'd_ are those who that _fair Name_ abuse,
+  And holy _Hymen's_ sacred _Fillets_ loose;
+  Who _poison Fountains_, and _infect_ the _Air_,
+  _Ruine_ the _Witty_, and _debauch_ the _Fair_;
+  With _nauseous Images_ their _Scenes_ debase                       420
+  At once their Country's _Ruine_ and _Disgrace_.
+  _Weigh_ well each _Thought_ if all be _Just_ and _Right_,
+  For those must clearly _think_ who clearly _write_.
+  Nothing _obscure_, _equivocal_, or _mean_,
+  Much less what is or _impious_ or _obscene_:
+  Altho the tempting _Serpent_ play his part,
+  And wind in _glitt'ring Folds_ around thy _Heart_;
+  Reject the _trait'rous Charmer_, tear him thence,
+  And keep thy _Vertue_ and thy _Innocence_.
+                             [Sidenote: _The Manchinel, or Eves Apple_.]
+    In wild _America's_ rank _Champaign_ grows                       430
+  A _Tree_ which _Europe_ oft too dearly knows;
+  It rises high in _cool inchanting Groves_,
+  Whose green broad Leaves the fainting _Trav'ler_ loves;
+  _Fair_ is the treach'rous _Fruit_, and charms your _Eye_,
+  But ah! beware! for if you _taste_ you _die_.
+  Too well alas! it _thrives_ when _planted_ here,
+  Its deadly Branches shade our _Theatre_.
+    Of _Mesures, Numbers, Pauses_ next I sing,
+  And rest the breathless _Muse_ with cautious _Wing_:
+  Of _Embryo Thoughts_, unripen'd yet by Time,                       440
+  The Rules of _Verse_, of _Quantity_ and _Rhime_:
+  With trembling Steps through _Shades_ unknown I stray,
+  And mark a _rugged_ and a _dubious_ way;
+  Yet some small _glimm'ring Light_ will hence be show'd,
+  And future _Trav'lers_ may enlarge the _Road_.
+                                                  [Sidenote: _Measure_.]
+    Of CHAUCER'S Verse we scarce the _Measures_ know,
+  So _rough_ the _Lines_, and so _unequal_ flow;
+  Whether by Injury of _Time_ defac'd,
+  Or _careless_ at the _first_, and writ in _haste_;
+  Or _coursly_, like old _Ennius_, he _design'd_                     450
+  What After-days have _polish'd_ and _refin'd_.
+  SPENCER more _smooth_ and _neat_, and none than He
+  Could better skill of _English Quantity_;
+  Tho by his _Stanza_ cramp'd, his _Rhimes_ less chast,
+  And _antique Words_ affected all disgrac'd;
+  Yet _vast_ his _Genius, noble_ were his _Thoughts_,
+  Whence equal Readers wink at _lesser_ Faults.
+    From _France_ their _Alexandrins_ we receive
+  Which more of _Liberty_ and _Compass_ give;
+  Hence by our dull Translators were they us'd,                      460
+  Nor CHAPMAN nor old STERNHOLD these refus'd;
+  They borrow from _Hexameters_ their _Feet_,
+  Which with _Asclepiads_ and _Iambicks_ meet;
+  Yet in the midst we still a _Weakness_ see,
+  Their _Music_ gives us no _Variety_.
+  More _num'rous_ the _Pentameter_ and _strong_,
+  Which to our _Saxon Fathers_ did belong.
+  In this their antient _Edda_[1] seems to write,
+  _Mysterious Rhimes_, and _horrid_ to the _sight_:
+  Their _Runic Staves_ in this on _Rocks_ engrav'd,                  470
+  Which long th' Assaults of _Time_ it self have brav'd.
+  In this our antient _British Bards_ delight;  }
+  And, if I measure his _rough Numbers_ right,  }
+  In this old _Taliessin_ us'd to Write[2].     }
+  This still _Possession_ keeps, few else we read,
+  And _Right_ as well as _Fact_ may justly plead;
+  Altho the _French Intruders_ oft pursue
+  Their _baffled Title_, and their _Claim_ renew;
+  Too oft _Impressions_ on our _Armies_ make,
+  Cut off our _Straglers_ and our _Out-Guards_ take,                 480
+  Which lazily our Authors now admit,
+  And call th' _Excursions of Luxuriant Wit_;
+  With _Badger-Feet_ the two-top'd _Mount_ we climb,
+  And stalk from _Peak_ to _Peak_ on _Stilts of Rime_.
+    Sweet WALLER'S _Dimeter_ we most approve
+  For cheerful _Songs_ and _moving Tales of Love_,
+  Which for _Heroic Subjects_ wants of _Strength_,
+  Too _short_, as _Alexandrins_ err in _Length_.
+    Our _Ear's_ the Judge of _Cadence_; nicely weigh
+  What _Consonants_; rebel, and what obey;                           490
+  What _Vowels_ mixt compose a pleasing _Sound_,
+  And what the tender _Organs_ grate and wound.
+  Nor at thy Reader's _Mercy_ chuse to lie,
+  Nor let _his Judgment_ want of _thine_ supply:
+  So _easie_ let thy _Verse_ so _smoothly_ fall,
+  They must be read _aright_ if read at all.
+                                                  [Sidenote: _Numbers_.]
+  Nor _equal Numbers_ will for all suffice,
+  The _Sock_ creeps low, the _Tragic Bushkins_ rife;
+  None knew this _Art_ so well, so well did use
+  As did the _Mantuan Shepherd's_ Heav'nly Muse:                     500
+  He marry'd _Sound and Sense_, at odds before,
+  We hear his _Scylla bark, Charybdis roar_;
+  And when in Fields his _Fiery Coursers_ meet
+  The _hollow Ground_ shakes underneath their feet:
+  Yet nicer _Ears_ can taste a _Diff'rence_ when
+  Of _Flocks_ and _Fields_ he _sings_ or _Arms_ and _Men_.
+  If I our _English Numbers_ taste aright,
+  We in the grave _Iambic_ most delight:
+  Each _second_ Syllable the Voice should _rest_,
+  _Spondees_ may serve, but still th' _Iambic's_ best:               510
+  Th' unpleasing _Trochee_ always makes a _Blot_,
+  And lames the _Numbers_; or, if this forgot,
+  A strong _Spondaic_ should the _next_ succeed,
+  The feeble _Wall_ will a good _Buttress_ need:
+  Long _Writing, Observation, Art_ and _Pain_
+  Must here unite if you the _Prize_ would gain.
+                                                   [Sidenote: _Pauses_.]
+    _Pause_ is the _Rest_ of _Voice_, the poor _Remains_
+  Of _antient Song_ that still our _Verse_ retains:
+  The _second Foot_ or _third's_ our usual _Rest_,
+  Tho more of _Art's_ in _varying_ oft exprest.                      520
+  At ev'ry Word the _Pause_ is sometimes[3] made,
+  And wond'rous _Beauty_ every where displaid:
+  --But here we _guess_, and _wander_ in the _dark_;
+  How should a hoodwink'd _Archer_ hit the Mark?
+  The little _Glimpse_ that DRYDEN gives, is more
+  Than all our _careless Writers_ knew before;
+  A few _Chance Lines_ may smooth and roundly fly,
+  But still no Thanks to us, we know not why.
+  He finds _Examples_, we the _Rule_ must make,
+  Tho who without a Guide may not mistake?                           530
+    [4] "_Tho deep yet clear, tho gentle yet not dull,
+        Strong without Rage, without o'er flowing full._"
+  If we that _famous Riddle_ can unty,
+  Their brightest _Beauties_ in the _Pauses_ lie,
+  To Admiration _vary'd_; next to these
+  The _Numbers_ justly order'd charm and please:
+  Each _Word_, each happy _Sound_ is big with _Sense_,
+  They all _deface_ who take one _Letter_ thence.
+                                                 [Sidenote: _Quantity_.]
+    But little more of _Quantity_ we know
+  Than what our _Accent_ does, and _Custom_ show:                    540
+  The _Latin Fountains_ often we forsake,
+  As they the _Greek_; nay _diff'rent Ages_ take
+  A _diff'rent Path; Perfùme_ and _Envy_ now
+  We say, which _Ages past_ would scarce allow:
+  If no _Position_ make our _Accent_ strong
+  Most _Syllables_ are either _short_ or _long_.
+                                                    [Sidenote: _Rhime_.]
+    _Primitive Verse_ was grac'd with pleasing _Rhimes_,
+  The _Blank_ a lazy Fault of _After-times_;
+  Nor need we other proof of this to plead
+  With those the sacred [5] _Hebrew Hymns_ can _read_:               550
+  If this to _lucky Chance_ alone be _due_,
+  Why _Rhime_ they not in _Greek_ and _Latin_ too?
+  [6] PINDAR at first his ancient _Copy_ trac'd,
+  And sometimes equal _Sounds_ his _Numbers_ grac'd;
+  Till with the more than _human Labour_ tir'd,
+  He _drop'd_ his _Rhime_, and own'd him _uninspir'd_.
+  ORPHEUS and HOMER too, who first did dream
+  Of _num'rous Gods_, and left the _One Supreme,
+  Religion_ both and _Poetry_ did wrong,
+  _Apostatiz'd_ from _Rhime_, and lost the _Soul of Song_.           560
+  Yet still some weak and glimm'ring _Sparks_ remain'd,
+  And still our _Great Forefathers_ this retain'd;
+  Nor _Inundations_ of _Barbarian Rome_,
+  Our ancient _Rhime_ could wholly overcome.
+                                               [Sidenote: _Vide p._ 13.]
+    Ne'er _cramp_ thy _Reason_ for some paltry _Chime_,
+  Nor sacrifice _Good Sense_ to _Numbers_ and to _Rhime_:
+  Both may be _sav'd_ and made _good Friends_; and here
+  The Poets _Art_ and _Happiness_ appear:
+  But when some _stubborn Word_ denies to draw
+  In _Numbers_, and defies the _Muses Law_,                          570
+  Reject it strait, unworthy such a _Grace_,
+  Another _yoke_ which better fills the _Place_:
+  Much _Reading_ will thy _Poverty_ amend
+  And _Taggs_ without the help of _Crambo_ lend.
+    The _Double Rhime_ is _antiquated_ grown,
+  Or us'd in _Satyr_ or _Burlesque_ alone;
+  Nor loves our stronger _Tongue_ that tinkling _Chime_,
+  The _Darling_ of the _French_, a _Female Rhime_.
+    Now, daring _Muse_! attempt a _stronger Flight_,
+  Beyond a _Vulgar Verser's_ cautious Height,                        580
+  Beyond thy self, and consecrate to _Fame_   }
+  Those who a _Title_ to the _Laurel_ claim,  }
+  And may to after-times _embalm_ thy Name;   }
+  Commend the _Good_, to all but _Vice_ be kind,
+  And cast the _smaller Faults_ in _shades_ behind;
+  Who _first_, who _next_; the _Balance_ justly hold,
+  As that which shines above, and flames with _Heav'nly Gold_.
+    Great N----BY the first, ROSCOMMON gone,
+  He rules our _Empire_ now of _Wit_ alone:
+  The _Beauties_ he of _Verse_ exactly knows,                        590
+  The famous DRYDEN'S not more smoothly flows:
+  Had ORPHEUS half so sweetly mourn'd his _Fate_,
+  As VIRGIL sung, or _Sh----d_ did _translate_;
+  H' had made the _Manes_ once again _relent_,
+  They would again _Eurydice_ have sent:
+  _Death's Temple_ we with _sacred Aw_ survey,
+  With _Admiration_ read his _Great Essay_:
+  Was _Art_ or bounteous _Nature_ here more _kind_?       }
+  _Strong Sense_! Uncommon _Learning! Thoughts_ refin'd!  }          600
+  A _Godlike Person_, and an _equal Mind_!                }
+               [Sidenote: _Paraphrase on_ Psal. 148 O Azure Vaults, &c.]
+    The _next_ in Dignity, if not the _same_,
+  Is Deathless Dorsot's lov'd and noble _Name_:
+  How did he sing, (listen'd the _Heav'nly Quire_;)
+  The Wond'rous Notes of DAVID's _Royal Lyre_!
+  Ah! _Why no more_ must we for ever long
+  And vainly languish for so _sweet_ a _Song_?
+    The next is _Tityrus_, who not disdains
+  To read his _Name_ among the _tuneful Swains_;
+  _Unweary'd_ in his _Prince's_ glorious _Cause_,                    610
+  As he of _Faith_, Defender of the _Laws_;
+  _Easie_ to all but to himself, he shares
+  His Monarch's _Favours_, and his Monarch's _Cares_:
+  His flowing _Language_ cloaths his _massie Sense_,  }
+  Nor makes with _pompous Words_ a vain pretence,     }
+  _Sound_ without _Soul_, to _Wit_ and _Eloquence_.   }
+  Tho _Great_, he's still the same he was before:
+  --I _sue for nothing_, and I'll say no more.
+    _Montague_ left the _Muses_ peaceful _Seat_,
+  And bore the _Cares_ and _Honours_ of the _Great_:                 620
+  The _Pollio_ he of our _Augustan_ days,
+  Who _Wit_ rewards with more than _hungry Praise_;
+  _True Worth_ his _Patronage_ can never miss,
+  He has his _Prince's Smiles_ and _that_ has _his_.
+    Nor should he pass unprais'd whom all admire,
+  Who, mixt with _Seraphs_, rules the _Western_ Quire;
+  _Flowing_ and _pure_ his unexhausted _Vein_,
+  As Silver _Thames_, which, rolling down the _Plain_,
+  Salutes his _Sacred Dome_.----
+  But those _profane_ who meanly thus _commend_,                     630
+  Th' _Immortal Cowley's_ and the _Muses_ Friend.
+    Of _matchless_ DRYDEN only _Dryden's_ Skill
+  Could justly say enough,--of _Good_ or _Ill_.
+  _Envy_ must own he has our _Tongue refin'd_,
+  And manly _Sense_ with tend'rest _Softness_ join'd:
+  His _Verse_ would _Stones_ and _Trees_ with _Soul_ inspire,
+  As did the _Theban_ and the _Thracian_ Lyre:
+  His youthful _Fire_ within, like _Etna, glows_,
+  Tho _Venerable Age_ around his Temples _snows_:
+  If from the _modern_ or the _antient_ Store                        640
+  He _borrows_ ought, he always _pays_ 'em more:
+  So much _improv'd_, each _Thought_, so _fine_ appears,
+  WALLER or OVID scarce durst own 'em _theirs_.
+  The Learned _Goth_ has scowr'd all _Europe_'s Plains,  }
+  _France, Spain_, and fruitful _Italy_ he _drains_,     }
+  From every Realm and every Language _gains_:           }
+  His _Gains_ a _Conquest_ are, and not a _Theft_;
+  He wishes still new _Worlds_ of _Wit_ were left:
+  Thus _haughty Rome_, when, all the _Firm_ surpass'd,
+  Her _Eagles_ found our _moated World_ at last;                     650
+  Touching upon th' _unhospitable_ Coast,
+  _Good Laws_ bestow'd for our _wild Freedom_ lost;
+  With _Arts of Peace_ our stubborn Soil manur'd,
+  And _naked Limbs_ from _Frost_ and _Sun_ secur'd:
+  --But ah' how _dear_ the _Price_ of all we gain!       }
+  What _Shoals of Vices_ with 'em cross'd the Main?      }
+  What _Pride_, what _Luxury_, a foul, an odious Train?  }
+  Who weighs, like _Galcacus_, the _Good_ with _Ill_,
+  Would wish they'd let us been _Barbarians_ still:
+  Such _thankless Pains Ignatian Firebrands_ take                    660
+  An _honest Pagan_ spoil, and a _bad Christian_ make.
+    Blest be kind Heav'n, which wrap'd me in a _Gown_,
+  And drew me early from the _fatal Town_!
+  And blest _Her Name_, to endless Ages blest,
+  Who gave my weary _Muse_ this calm _Retreat_ and _Rest_.
+  True to my God, my Country, and my Friend,              }
+  Here, may I Life, not _wholly useless_, spend,          }
+  _Steal_ through the World, and _smiling_ meet my _End_! }
+  I envy not _Great Dryden_'s loftier Strain           }
+  Of _Arms_ and _Men_ design'd to entertain,           }             670
+  _Princes_ and _Courts_, so I but please the _Plain_: }
+  Nor would I barter _Profit_ for _Delight_,
+  Nor would have _writ like him, like him to write_.
+  If there's _Hereafter_, and a last _Great Day_,
+  What _Fire_'s enough to _purge_ his _Stains_ away?
+  How will he _wish_ each _lewd_ applauded _Line_      }
+  Which makes _Vice pleasing_, and _Damnation shine_,  }
+  Had been as _dull_ as honest _Quarles_ or _mine_!    }
+  With _sixty Years of Lewdness_ rest content!
+  It mayn't be yet _too late_, O yet _Repent_!                       680
+  Ev'n _Thee_ our _injur'd Altar_ will receive;
+  While yet there's _Hopes_ fly to its _Arms_ and live!
+  So shall for _Thee_ their _Harps_ the _Angels_ string,
+  And the _Returning Prodigal_ shall sing;
+  New _Joys_ through all the _Heav'nly Host_ be shown
+  In _Numbers_ only _sweeter_ than thy _own_.
+    CONGREVE from _Ireland_ wond'ring we receive,      }
+  Would he the _Town's loose way_ of Writing leave,    }
+  More Worth than all their Forfeit Lands will give:   }
+  _Justness_ of _Thought_, a _Courtly Style_, and clear,             690
+  And well-wrought _Passions_ in his _Works_ appear:
+  None knows with _finer Strokes_ our Souls to move,
+  And as he please we _smile_, or _weep_, or _love_.
+  When _Dryden_ goes, 'tis he must fill the _Chair_,
+  _With_ Congreve _only_ Congreve _can compare_.
+  Yet, tho he _natural_ is as untaught Loves,
+  His _Style_ as _smooth_ as _Cytherea_'s Doves,
+  When e'er unbyass'd _Judges_ read him o'er,
+  He sometimes _nodds_, as _Homer_ did before:
+  Some Lines his most _Admirers_ scarce would please,                700
+  Nor _B----_'s Verse alone could _raise Disease_.[7]
+    For _smooth_ and _well turn'd Lines_ we _T----_ admire,
+  Who has in _Justness_ what he wants in _Fire_:
+  Each _Rhime_, each _Syllable_ well-weigh'd and fair,
+  His _Life_ and _Manners_ scarce more _regular_.
+    With _Strength_ and _Flame_ prodigious _D----s_ writes
+  Of _Loves_ lost _Wars_, and cruel martial _Fights_:
+  Scarce LEE himself strove with a _mightier Load_,
+  Or _labour'd_ more beneath th' _Incumbent God_:
+  Whate'er of old to _Rome_ or _Athens_ known,                       710
+  What _France_ or _We_ have _glean'd_, 'tis all his _own_.
+    How few can equal _Praise_ with _C----ch_ obtain,
+  Who made _Lucretius smooth_, and _chast_, and _plain_?
+  Courted by _Fame_ he could her _Charms_ despise,  }
+  Still woo'd by that _false Fair_ he still denies, }
+  And press'd, for _Refuge_ to the _Altar_ flies;   }
+  Like _votive Tablets_ offers up his _Bays_,
+  "_And leaves to our lewd Town the Drudgery of Plays_."
+    In lofty _Raptures_, born on Angels Wings       }
+  Above the _Clouds_, above _Castalian Springs_,    }                720
+  N---- inspir'd, of God and _Nature_ sings;        }
+  And if one _Glance_ on this _poor World_ he throw,
+  If e'er he mind the _Croud_ and _Buzz_ below;
+  Pities our _fruitless Pains_ for _Fame_ and _Praise_,
+  And wonders why we _drudge_ for _Crowns_ and _Bays_.
+    Could _B_---- be _sober_, many he'd excel,
+  Few know the _Antients_, or could use so well;
+  But ah! his _Genius_ with his _Virtue's_ fled,
+  Condemn'd to _Want of Grace_ and _Want of Bread_.
+    Ev'n Envy _B----re's Subject_ must confess }                     730
+  _Exact_ and _rare_, a _curious Happiness_, }
+  Nor many could the _Fable better dress_:   }
+  Of _Words_ what _Compass_, and how vast a _Store_!
+  His _Courage_ and his _Vertue's_ only more:
+  More various _Scenes of Death_ his _Fights_ display
+  Then _Aghrim's_ Field or _London's_ fatal Day:
+  Let beauteous _Elda's Tears_ and _Passion_ prove
+  His _Soul_ is not _unknowing how to love_:
+  Disrob'd of _Clouds_ he view'd the _Stagyrite_
+  As _Nature_ he, confess'd to _Human sight_:
+  His _Rules_ surveys, and traces to their _Springs_,  }             740
+  Where the _blind Bard_ of flaming _Ilium_ sings;     }
+  Thence with the _Mantuan Swan_ in narrower Rings,    }
+  Tho more _exact_, he, stooping from his height,
+  Reviews the same _fierce Wars_ and _Gods_ and _Heroes_ fight:
+  That beauteous antient _Palace_ he surveys         }
+  Which _Maro's Hands_ had only Strength to raise,   }
+  _Models_ from thence, and _copies_ every _Grace_:  }
+  Each _Page_ is big with _Virgil's Manly Thought_,
+  To _follow him too near's a glorious Fault_.
+  He dar'd be _virtuous_ in the _World's_ Despite,                   750
+  _While_ D----n _lives he dar'd a Modest Poem write_.
+    Who can th' ingenious S----y's Praise refuse,
+  Who serves a grateful _Prince_, and grateful _Muse_?
+  Or _P----r_ read unmov'd, whose every _Page_
+  So just a _Standard_ to the opening _Age_?
+    Neat _S----n_'s courtly _Vein's_ correct and clear,
+  Nor shall he miss his _Praise_ and _Station_ here:
+  Nor should the _rest_ whom I _unnam'd_ must leave,
+  (Tho such _Omission_ they'll with ease _forgive_:)                 760
+  _Unknown_ to me, let each his _Works_ commend,
+  Since _Virtue, Praise_, as _Shame_ does _Vice_ attend.
+  _Poets_, like _Leaves_ and _Words_, their _Periods_ know,
+  Now _fresh_ and _green_, now _sear_ and wither'd grow;
+  Or _burnt_ by _Autumn's_ Heat, and _Winter's_ Cold,
+  Or a _new hasty Birth_ shoves off the _old_.
+  Happy are those, and such are _some_ of ours,            }
+  Who blest by bounteous _Heav'n's_ indulgent _Show'rs_    }
+  Bear wholsome _Fruit_, and not gay _pois'nous Flow'rs_:  }
+  Who would not ev'n a _Lawreat's self_ commence                     770
+  Or at their _Virtue's_ or their _Faith's_ Expence:
+  Renounce their _Creed_ to save a _wretched Play_,   }
+  And for a _crowded House_ and _full Third Day_      }
+  At one _bold Stroke_ throw all their _Heav'n_ away. }
+  What gain'd _Euripides_ by all his _Sense_,
+  Who madly rail'd against a _Providence_?
+  _Apostate Poets_ first seduc'd _Mankind_,
+  _But ours upon the Pagan Herd refin'd_;
+  They Vertue _prais'd_ at least, which ours _abuse_,
+  And more than _Paganize_ the Heav'n-born Muse:                     780
+  No Signs of _Grace_, or of _Repentance_ show,
+  Like _Strumpets lash'd_, more _impudent_ they grow.
+    Now learn, my Friend, and freely I'll impart
+  My _little All_ in this delightful Art:
+  Of _Poetry_ the various _Forms_ and _Kinds_,
+  The widest, strongest _Grasp_ of human Minds:
+  Not _all_ from _all_, but _some_ from _each_ I take,
+  Since we a _Garland_ not a _Garden_ make.
+                                                     [Sidenote: _Epic_.]
+    EPIC's the _first_ and _best_, which mounting sings  }
+  In _Mighty Numbers worthy mighty Things_,              }           790
+  Of _High Adventures, Heroes, Gods_ and _Kings_:        }
+  By lively _Schemes_ the Mind to _Vertue_ forms,
+  And far beyond _unactive Precept_ warms.
+  The _Subject_ may be either _feign'd_ or _true_,
+  _Too Old_ it should not be, but less _too New_:
+  _Narration_ mixt with _Action_ most delights,
+  _Intrigues_ and _Councils_, vary'd _Games_ and _Fights_:
+  Nothing so _long_ as may the Reader _tire_,
+  But all the just well-mingled _Scenes_ admire.
+  Your _Heroe_ may be _virtuous_, must be _brave_;
+  Nothing that's _mean_ should his great Soul enslave:
+  Yet Heav'ns unequal _Anger_ he may _fear_,
+  And for his _suffering Friends_ indulge a _Tear_:
+  Thus when the _Trojans Navy_ scatter'd lay
+  He _wept_, he _trembled_, and to Heav'n did _pray_;
+  But when bright _Glory beckon'd_ from afar,
+  And _Honour_ call'd him out to meet the _War_;
+  Like a fierce _Torrent_ pouring o'er the _Banks_,
+  Or _Mars_ himself, he _thunders_ through the _Ranks_;
+  _Death_ walks before, while he a _Foe_ could find,                 810
+  _Horror_ and _Ruine_ mark long frightful _Lanes_ behind.
+                                                 [Sidenote: _Machines_.]
+    For _worn_ and _old_ MACHINES few Readers care,
+  They're like the _Pastboard Chaos in the Fair_:
+  If ought surprizing you expect to shew,
+  The _Scenes_ if not the _Persons_ should be _new_:
+  With _both_ does MILTON'S wondrous Scheme begin,
+  The _Pandemonium, Chaos, Death_ and _Sin_;
+  Which _D----s_ had with like _Success_ assay'd,       }
+  Had not the _Porch_ of _Death's Grim Court_ been made }
+  Too _wide_, and there th' impatient _Reader_ staid.   }            820
+  And _G----h_, tho _barren_ is his _Theme_ and _mean_,
+  By this has _reach'd_ at least the fam'd _Lutrine_.
+  If _tir'd_ with such a plenteous _Feast_ you call
+  For a far meaner _Banquet_, _Meal_ and _Wall_;
+  The _best_ I have is _yours_, tho 'tis too _long_,
+  And what's behind will into _Corners_ throng.
+    A _Place_ there is, if _Place_ 'tis nam'd aright,  }
+  Where scatter'd _Rays_ of pale and sickly _Light_,   }
+  Fringe o'er the _Confines_ of _Eternal Night_.       }
+  _Shorn_ of their _Beams_ the _Sun_ and _Phoebe_ here               830
+  Like the _fix'd Stars_, through _Glasses_ view'd, appear;
+  Or those faint _Seeds of Light_, which just display
+  Ambiguous Splendor round the _milky Way_;
+  The _Waste_ of _Chaos_, whose _Auguster_ Reign
+  Does those more barren doubtful Realms disdain:
+  Here dwell those _hideous Forms_ which oft repair  }
+  To breath our upper _World's_ more _chearful_ Air  }
+  Bleak _Envy_, grinding _Pain_, and meagre _Care_;  }
+  _Disease_ and _Death_, the _Goddess_ of the _place_,
+  _Death_, the _least frightful Form of all their Race_;             840
+  _Ambition, Pride_, false _Joys_ and _Hopes_ as vain,
+  _Lewdness_ and _Luxury_ compose her Train:
+  How large their _Interest_, and how vast their _Sway_
+  Amid the wide invaded Realms of _Day_!
+  Soon would they our frail Race of _Mortals_ end,
+  Did not kind _Heav'n_ auspicious _Succours_ lend;
+  Sweet _Angel-Forms, Peace, Virtue, Health_ and _Love_,
+  How near ally'd, how like to those _above_!
+  These often drive the _Air_, those _Furies_ chace
+  And fetter in their own _infernal Place_:                          850
+  These lent at once NASSAW and ENGLAND Aid,
+  And bright MARIA to our _Shores_ convey'd:
+  Her, all their _Pow'r_ and all their _Charms_ they gave,
+  To _govern_ what her _Heroe_ came to _save_.
+    Nor _Envy_ this, who in her noisome Cell
+  By _Traitors_ in their swift _Descent to Hell_,
+  Her rising _Glories_ heard, then with a _Groan_
+  She crawl'd before her _Sov'reign's_ direful _Throne_:
+  A _Pile of Sculls_ the odious _Fantom_ bore,
+  With _Bones_ half-naked mixt, and dropping putrid _Gore_;          860
+  There thus--Shall _Heav'n_ defraud us of our _Reign_,
+  And BRITAIN, only BRITAIN break her _Chain_?
+  What can we there, while more than _mortal Grace_
+  Forbids our _Entrance_, and secures the _Place_?
+  Awhile I _gaz'd_ and _viewed_ her as I _fled_,
+  When first she came, till half my _Snakes_ were dead;
+  And had I tarry'd longer near her _Throne_,
+  Had soon some base _insipid Vertue_ grown:
+  So fast the wide _progressive Ills_ increase,  }
+  If longer unoppos'd our _Power_ will cease;    }                   870
+  The base degenerate World _dissolve_ to Peace; }
+  Our boasted _Empire_ there will soon be o'er,
+  And _Mortals_ tremble at our _Arms_ no more.
+    She said, her _Tidings_ all the _Court_ affright,
+  And doubled _Horror_ fill'd the _Realms of Night_:
+  Till out foul _Lewdness_ leap'd, and shook the Place.  }
+  The _fulsom'st Fiend_ of all th' _infernal Race_;      }
+  A crusted _Leprosie_ deform'd her _Face_;              }
+  With half a _bloodshot_ Eye the _Fury_ glar'd,
+  Yet when for _Mischief_ she above prepar'd,                        880
+  She _painted_ and she _dress'd_, those _Arts_ she knew,
+  And to her _self_ her self a _Stranger_ grew,
+  (Thus _old_ and batter'd _Bawds_ behind the Scenes,
+  New _rigg'd_ and _dawb'd_, pass on the _Stage_ for _Queens_;)
+  Nor yet, she cries, of _Britain_ we'll _despair_   }
+  I've yet some _trusty Friends_ in _Ambush_ there,  }
+  All is not lost, we've still the _Theatre_:        }
+  I'll batter _Virtue_ thence, nor fear to gain   }
+  New _Subjects daily_ from her _hated Reign_;    }
+  Is not Great _D----_ ours and all his _Train_?  }
+  He knows he has new _Laurels_ here prepar'd,        }              890
+  For those he lost _above_, a just Reward,           }
+  For his wide _Conquests_ he'll _command the Guard_: }
+  _Headed_ by him one _Foot_ we'll scorn to yield,
+  Tho _Virtue's_ glitt'ring _Squadrons_ drive the _Field_:
+  Grant me, Dread _Sov'reign_! a _Detachment_ hence  }
+  We'll not be long alone on our _Defence_,          }
+  But hope to drive the proud _Assailants_ thence.   }
+  Bold _Blasphemy_ shall lead our black _Forlorn_,
+  With _Colours_ from _Heav'n's Crystal Ramparts_ torn,
+  And _Anti-Thunderrs_ arm'd; _Profaneness_ next                     900
+  Their _Canon_ seize, and turn the _Sacred Text_
+  Against th' _Assailants_; brave _Revenge_ and _Rage_
+  Shall our _main Batt'ry_ ply, and guard the _Stage_.
+  --But most I on dear _Ribaldry_ depend,
+  We've not a _surer_ or a _stronger Friend_.
+  Now shall she _broad_ and _open_ to the Skie,
+  Now _close_ behind some _double Meaning_ lye;
+  Now with _sulphureous Rivers_ lave the _French_,
+  And choak th' _Assailants_ with infernal _Stench_;
+  Each nicer _Vertue_ from the _Walls_ repel,                        910
+  And _Heav'n_ it self regale with the Perfumes of _Hell_.
+  This from the World our dreaded _Foe_ will drive,
+  As _murm'ring Bees_ are forc'd to leave their _Hive_;
+  _Souls_ so _refin'd_ such _Vapours_ cannot bear,
+  But seek their _native Heav'n_ and purer Air:
+  When _She_ and all her heav'nly _Guards_ are gone
+  And her bright _Heroe_ absent, all's our own:
+  If any _pious Fools_ should make a stand,
+  To stop our _Progress_ through the conquer'd Land,
+  They soon shall pass for _hot-brain'd Visionairs_,                 920
+  We'll run 'em down with _Ridicule_ and _Farce_.
+  Must they _reform_ the World! A likely _Task_!
+  Tis _Vizard_ all, and them we'll soon _unmask_.
+  The rest will _tumble_ in, or if they stay
+  And loiter in _Damnation's_ ample Way,
+  I've one _Expedient_ left, which can't but take,
+  My last _Reserve_; From yon black _brimstone_ Lake,
+  Whence two _Canals_ thro _subterranean Veins_
+  Are drawn to _Sodom_ and _Campania's_ Plains,
+  My self I'll fill a _Vial_, and infuse                             930
+  My very Soul amid the _potent Juice_:
+  This _Essence_ near my _Heart_ I'll with me bear,  }
+  And this among my _dearest Fav'rites_ share,       }
+  Already _tutor'd_ by the _Theatre_;                }
+  Who pass'd those _Bugbears Conscience, Law_ and _Shame_
+  Have there been taught that _Virtue's_ but a _Name_:
+  _Exalted Souls_ who _vulgar Sins_ despise;
+  Fit for some _new discover'd_ nobler _Vice_;
+  One _Drop_ of this their _frozen Blood_ shall warm,
+  And _frighted Nature's feebler Guards_ disarm                      930
+  Till their _chill Veins_ with hotter _Fevers_ glow  }
+  Than any _Etna_ or _Vesuvius_ know,                 }
+  Scarce equal'd by their _Parent Flames_ below;      }
+  Till wide around the _gen'rous Canker_ spread,
+  And _Vengeance_ draw on each _devoted Head_:
+  Impatient _Heav'n_ it self our _Arms_ shall join,
+  The _Skies_ again with _forky Lightnings_ shine;
+  Till glutted _Desolation_ pants for Breath,
+  And _guilty Shades_ shall croud the _Realms of Death_.
+  --She said, the _Motion pleas'd_ she _wings_ away                  940
+  And in blue _pois'nous Foggs_ invades the _Day_:
+  Part of her _direful Threats_ too true we find,
+  And _Heav'n_ avert the _Plagues_ that yet remain _behind_!
+                                                  [Sidenote: _Tragedy_.]
+    The _Path_ which _Epic_ treads the TRAGIC Muse
+  With _daring_ tho _unequal_ Steps pursues,
+  A _little Epic_ shines through every _Scene_,
+  Tho more of _Life_ appears, and less _Machine_;
+  More _Action_, less _Narration_, more _Delight_;
+  We _see_ the _Gods_ descend, and _Heroes_ fight.
+  While _Oedipus_ is _raving_ on the _Stage_,                        950
+  Mild _Pity_ enters and dissolves our _Rage_;
+  We _low'r_ our _haughty Spirits_, our _Pride_ and _Hate_,
+  And learn to _fear_ the sad _Reverse of Fate_.
+  A _Tyrant's Fall_, a treach'rous _Statesman's_ End
+  Clear the _Just Gods_, and equal _Heav'n_ defend:
+  Ungrateful _Factions_ here themselves torment,
+  And _bring_ those very _Ills_ they would _prevent_:
+  Nor think the lost _Intrigues_ of _Love_ too mean
+  To fill the _Stage_ and grace toe _Tragic Scene_!
+  Who from the _World_ this _Salt of Nature_ takes,                  960
+  _Twice Slaves of Kings_ of _Life_ a _Desart_ makes.
+    The _Moral_ and _Pathetick_ neatly join'd,
+  Are best for _Pleasure_ and for _life_ design'd.
+    Be this in _Tragic_ an _Eternal Law_;
+  _Bold Strokes_ and _larger_ than the _Life_ to draw:
+  Let all be _Great_; when here a _Woman's_ seen,
+  Paint her a _Fury_, or a _Heroine_:
+  _Slaves, Spendthrifts_, angry _Fathers_, better fit
+  The meaner _Sallies_ of COMEDIAN Wit;
+  But _Courtly_ HORACE did their _Stage_ refuse,                     970
+  Nor was it trod by _Maro's_ heav'nly Muse:
+  A _Walk_ so _low_ their _nobler Minds_ disdain,
+  Where _sordid Mirth's_ exchang'd for _sordid Gain_;
+  Where, in false _Pleasure_ all the _Profit's_ drown'd,
+  Nor _Authors_ with just _Admiration_ crown'd:
+  Hence was the _Sock_ a Task for _servile Wit_,
+  Course PLAUTUS hence, and neater TERENCE writ:
+  Yet if you still your _Fortune_ long to take,
+  And long to hear the _crouded Benches_ shake;                      980
+  If you'd _reform_ the _Mob_, lov'd _Vice restrain_,
+  The _Pulpits_ break, and neighb'ring _B----_ drain;
+  Let _Heav'n_ at least, if not its _Priests_, be free,
+  The _Bible_ sures's too _grave_ for _Comedy_:
+  If she nor _lewdly_ nor _profanely_ talk
+  She'll have a _cleaner_, tho a _narrower Walk_.
+  Our Nation's _endless Humour_ will supply
+  So large a _Fund_ as never can be _dry_;
+  Why then should _Vice_ be _bare_ and _open_ shown,
+  And with such _Nauseous Scenes_ affront the _Town_?                990
+  Why thrive the _Lewd_, their _Wishes_ seldom crost,
+  And why _Poetic Justice_ often lost?
+  They plead they copy _Nature_.--Don't abuse
+  Her _sacred Name_ with such a _vile Excuse_!
+  She wisely _hides_ what these, like Beasts _display_, }
+  Ev'n _Vice_ it self, less _impudent_ than they,       }
+  Remote in _Shades_, and far from _conscious_ Day.     }
+    From this _Retrenchment_ by strong _Reason_ beat,
+  They next to _poor Necessity_ retreat:
+  The _Murderers, Bawds_ and _Robbers_ last pretence                1000
+  With equal _Justice_, equal _Innocence_!
+  So _Crack_, in _pious Fit_, will plead she's _poor_,
+  'Tis a _hard Choice_, Good Sir, to _starve_ or _whore_!
+  --Is there no _Third_, or will such _Reas'nings_ pass
+  In _Bridewel's_ rigid Court, or save the _Lash_?
+  Where the _stern Judge_, like _Radamanth_, surveys
+  The _trembling Sinner_, and each Action _weighs_.
+  A lazy, black, encumber'd _Stream_ rolls by,
+  Whole thick _sulphureous Vapours_ load the Sky;
+  Near where, in _Caves_ from _Heav'n's_ sweet _Light_ debar'd,     1010
+  _Shrieks, Groans_, and _Iron Whips_, and _Clanks of Chains_ are heard.
+  And can't you _thrash_, or _trail_ a _Pike_ or _Pole_?
+  Are there no _Jakes_ in Town, or _Kennels_ foul?
+  No _honester Employment_, that you chuse
+  With such _vile Drudgery_ t'abase the heav'n born _Muse_?
+    The num'rous ODE in various _Paths_ delights,
+  _Love, Friendship, Gods_, and _Heroes, Games_ and _Fights_:
+  Her _Age_ with _Veneration_ is confess'd
+  The _first great Mother_ she of all the rest,
+  This [8]MOSES us'd, and DAVID'S Royal Lyre,          }
+  This he whom wond'ring _Seraphs_ did _inspire_,      }            1020
+  Whence PINDAR stole some _Sparks of heav'nly Fire_,  }
+  Who now by COWLEY's happy Muse improv'd,
+  Is _understood_ by some, by more _belov'd_:
+  The _Vastness_ of his Thought, the daring _Range_,
+  That imperceptible and pleasing _Change_,
+  Our jealous _Neighbours_ must themselves confess
+  The _British Genius_ tracks with most Success;
+  But still the _Smoothness_ we of _Verse_ desire,
+  The _Regulation_ of our _Native Fire_:
+  This from experienc'd _Masters_ we receive,                       1030
+  Sweet FLATMAN'S Works, and DRYDEN'S this will give.
+    If you in _pointed_ SATYR most delight,
+  _Worry_ not, where you only ought to _bite_:
+  _Easie_ your _Style_, unstudy'd all and clear.
+  _Prosaic Lines_ are _pardonable_ here.
+  There are whose _Breath_ would blast the _brightest Fame_, }
+  Who from _base Actions_ court an _odious Name_,            }
+  With _Beauty_ and with _Virtue_ War proclaim;              }
+  Who _bundle_ up the _Scandals_ of the _Town_,                     1040
+  And in _lewd Couplets_ make it all their _own_:
+  _Just Shame_ be _theirs_ who thus _debauch_ a _Muse_,
+  To vile _Lampoons_ a _noble Art_ abuse:
+  As _ill_ be _theirs_, and _half of_ DATS'_s Fate_,
+  Who always dully rail against the _State_.
+  _Kings_ are but _Men_, nor are their _Councils_ more,
+  Those _Ills_ we can't _avert_ we must _deplore_:
+  Not _many Poets_ were for _Statesmen_ made,
+  It asks more _Brains_ than stocks the _Rhiming_ Trade:
+  (At least, when they the _Ministry_ receive,                      1050
+  To _Poets Militant_ their _Muse_ they leave.)
+  All _sordid Flat'ry_ hate, it pleases none
+  But _Tyrants_ grinning on their _Iron Throne_:
+  Yet where wer'e rul'd with _wise_ impartial Sway,
+  The _Muses_ should their _grateful Homage_ pay:
+  'Tis _base_ alike a _Tyrant's_ Name to raise,
+  And grudg a _Parent Prince_ our _tributary Praise_.
+  No wonder those who by _Proscriptions_ gain   }
+  In _Marian_ Days, or _Sylla's_ bloody Reign,  }
+  Of the divine _Augustus_ should complain;     }                   1060
+  Who stoops to wear a _Crown's uneasie Weight_,
+  As _Atlas_ under Heav'n, to prop the _State_:
+  No _Glory_ strikes his Great exalted Mind,
+  No _Pleasure_ like obliging all Mankind;
+  He lets the _Factious_ their weak _Malice_ vent,
+  Punish'd enough while they themselves _torment_:
+  _Satiate_ with _Conquest_, his dread _Sword_ he sheaths,
+  And with a _Nod disbands ten thousand Deaths_.
+  Who dares _Rebellious Arms_ against him move
+  While his _Prætorian Guard_'s his Subjects _Love_?                1070
+  Admir'd by all the _bravest_ and the _best_,
+  Who wear a _Roman Soul within their ample Breast_:
+  Tho _charm'd_ with _both_, which shall they more _admire_
+  In _Peace_ his _Wisdom_, or in _War_ his _Fire_?
+  --_One Labour_ yet remains, and that they _ask_,
+  _Alcides_ never clear'd a _nobler Task_;
+  O _Father_! banish'd _Vertue_ O restore!
+  Let _Hydra Vice_ pollute thy _Reign_ no more!
+  Strike through the _Monster-Form_, which threatning stands,
+  Fierce with a _thousand Throats_, a _thousand Hands_!             1080
+  _Rescue_ once more thy _Trojans sacred Line_         }
+  From _slavish Chains_, so shall thy _Temples_ shine  }
+  With _Stars_, and all _Elysium_ shall be _thine_.    }
+
+_FINIS._
+
+
+FOOTNOTES:
+
+[1] _Vide Edda Samundi--apud Sheringham, de Gentis Anglorum
+Origine, pag._ 28, 29.
+
+  _Hiaelp beiter eitt eun thad thier hialpa mun
+  Vid Sikum og Sottum goiru allum,
+  Thad kenn eg aunad er thorfa Ita
+  Syner their ed vilia lakner lisfa._
+[Transcriber's Note: extremely difficult to read in the original.
+Transcription may not be accurate.]
+
+  I know your only Help, the pow'rful Charm
+  That aids in ev'ery Grief and every Harm,
+  I know the Leaches Craft, and what they need
+  Who Doctors in that Noble Art proceed.
+
+[2] the _Vide_ British Chronicle, _and_ Taliessin's _Prophecies_;
+
+  Prryff fard l'yffred in ydwyfi i Elphin
+  Am gwalad gynifio [indecipherable] Goribbin.
+  Ionas ddewn am golwis Merddin
+  Sebach Pob Brenmam geilw Taliesin.
+  Gwea a gasgle elud Tra feyna bud,
+  Gwererbin didd brawd in chospo i gnawd,
+  Gwae ni cheidw i geil ag if yufug eil,
+  Gwae in cheidw i ddefend chog bleiddna.
+[Transcriber's Note: extremely difficult to read in the original.
+Transcription may not be accurate.]
+
+  Me _Elphin_ now his Bard may justly boast
+  Who long of old amid the Fire-wing'd Host:
+  Once _Merlin_ was I call'd, well known to Fame,
+  Whom future Kings shall _Taliessin_ name.
+  Wo to the Wretch who Wealth by Rapine gains,
+  And wo to him who Fasts and Pray'rs refrains;
+  Wo to the Shepherds who their Flocks betray,
+  And will not drive the _Ravish_ Wolves away.
+
+[3] _Olli sedaro rescondit corde Latinus._ Virg.
+
+[4] _Mr._ Dryden's _Riddle, in his Preface to_ Virgil.
+
+[5] _This was observ'd before Mr._ Le Clerc _was born. Vide_ Song of the
+Well, _Num._ 21. 17.
+
+     [Hebrew text]
+
+_Vide_ Psal. 80, & 81. _Where some Verses have Treble, where Quadruple
+Rhimes, four in one Verse._
+
+[6] Ode 1. [Greek: indecipherable]
+
+[7] _Vide_ Collier's _Reflexions on_ Moarning Bride, _and_ Garth's
+_Dispensary_.
+
+[8] _I know some have affirm'd that_ Moses's _Song in the_ 14_th of_
+Exodus _was writ in Hexameters, but I can't perceive any such thing in
+it, any more than in the_ 90_th_ Psalm, _or the Book of_ Job, _which seem
+to be written about the same time with it. The Song of the_ Well, _in_
+Numbers, _pag._ 15. _is clearly an_ Ode _of unequal Measures_.
+
+
+
+
+[Illustration: _THE_
+LIFE
+_of_
+Christ.
+
+An Heroic Poem.
+
+_In Ten BOOKS
+with sixty Copper Plates._
+
+London:
+_Printed for Charles Harper, & Benj. Motte._]
+
+
+
+
+THE
+LIFE
+OF OUR
+Blessed Lord & Saviour
+JESUS CHRIST.
+
+AN
+HEROIC POEM:
+DEDICATED TO
+Her Most Sacred MAJESTY.
+
+_In Ten Books._
+
+ATTEMPTED BY
+_SAMUEL WESLEY_, M.A.
+Chaplain to the most Honourable JOHN Lord Marquess of _Normanby_,
+and Rector of _Epwerth_ in the County of _Lincoln_.
+
+Each Book Illustrated by necessary Notes, explaining all the more
+difficult Matters in the whole History: Also a Prefatory Discourse
+concerning Heroic Poetry.
+
+_The Second Edition, revised by the Author, and improved with the
+addition of a large Map of the_ HOLY-LAND, _and a table of the
+principal matters._
+
+With Sixty Copper-Plates, by the celebrated Hand of _W. Faithorn_.
+
+_LONDON_:
+Printed for _Charles Harper_, at the _Flower-de-Luce_ over against St.
+_Dunstan_'s Church, and are to be Sold by him, and _Roger Clavel_ at the
+_Peacock_ against _Fetter-Lane_, both in _Fleetstreet_, 1697.
+
+
+
+
+THE PREFACE, Being an ESSAY on HEROIC POETRY
+
+
+A Just Heroic Poem is so vast an Undertaking, requires so much both of Art
+and Genius for its Management, and carries such Difficulty in the Model of
+the Whole, and Disposition of the several Parts, that it's no Wonder, if
+not above One or Two of the Ancients, and hardly any of the Moderns, have
+succeeded in their Attempts of this Nature. Rapin, and other Masters of
+Epic, represent it as an Enterprize so hardy, that it can scarce enter
+into the Mind of a wise Man, without affrighting him, as being the most
+perfect Piece of Work that Art can produce. That Author has many excellent
+Reflexions and Rules concerning it in his Discourse sur la Poetique; but
+Bossu is the first I've seen who has writ a just and perfect Tract
+thereon, wherein he has in a clear and Scholastic Method amass'd together
+most that's to be found in Antiquity on that Subject, tho' chiefly keeping
+to the Observations of Aristotle, which he drew from Homer, and who seems
+the first that reduced Poetry to an Art. That Author defines Epic, "An
+Artificial Discourse, in order to form the Manners by Instructions,
+disguis'd under the Allegories of some one important Action, recited in
+Verse, in a manner probable, diverting and admirable;" which he thus
+himself abridges, "'Tis a Fable, agreeably imitated on some important
+Action, recited in Verse in a manner that's probable and admirable;" In
+which Definition are contain'd, as he afterwards explains it, the general
+Nature of Epic, and that double, Fable and Poem: The Matter, some one
+important Action probably feign'd and imitated: Its Form, Recitation or
+Narration: And lastly, its End, Instruction, which is aimed at in general
+by the Moral of the Fable; and besides in the particular Manners of the
+Persons who make the most considerable Figure in the Work.
+
+To begin with Fable, which he makes included in the general Nature or
+Essence of Epic. This, he says, is the most essential Part of it; "That
+some Fables and Allegories scatter'd up and down in a Poem don't suffice
+to constitute Epic, if they are only the Ornaments, and not the very
+Foundation of it." And again, "That 'tis the very Fund and principal
+Action that ought to be Feign'd and Allegorical:" For which reason he
+expresly excludes hence all simple Histories, as by Name, Lucan's
+Pharsalia, Silius Italicus's Punic War, and all true Actions of particular
+Persons, without Fable: And still more home; that 'tis not a Relation of
+the Actions of any Hero, to form the Manners by his Example, but on the
+contrary, a Discourse invented to form the Manners by the Relation of some
+one feign'd Action, design'd to please, under the borrow'd Name of some
+illustrious Person, of whom Choice is made after we have fram'd the Plan
+of the Action which we design to attribute to him.
+
+Nor indeed is Bossu singular in his Judgment on this Matter, there being
+few or none who have ever writ on the same Subject, but are of the same
+mind: For thus Boileau in his Art of Poetry,
+
+  Dans la vaste recit d'une longue action
+  Se soutient par la Fable & vit de Fiction.
+
+Which his Translator I think better;
+
+  In the Narration of some great Design,
+  Invention, Art, and Fable, all must join.
+
+Rapin too gives his Vote on the same side, Rien n'est, says he, plus
+essentiel au Poem Epique, que la Fiction; and quotes Petronius to that
+purpose, Per ambages, Deorumque ministeria praecipitandus est Liber
+Spiritus. Nor is't only the Moderns who are of this Opinion; for the
+Iliads are call'd in Horace, Fabula qua Paridis, &c. And lastly, even
+Aristotle himself tells us, "That Fable is the principal thing in an
+Heroic Poem; and, as it were, the very Soul of it." [Greek: Archê kai oion
+psychê.] And upon this occasion commends Homer for lying with the best
+Grace of any Man in the World: Authorities almost too big to admit any
+Examination of their Reason, or Opposition to their Sentiments. However, I
+see no cause why Poetry should not be brought to the Test, as well as
+Divinity, or any more than the other, be believed on its own bare ipse
+dixit.
+
+Let us therefore examine the Plan which they lay for a Work of this
+Nature, and then we may be better able to guess at those Grounds and
+Reasons on which they proceed.
+
+In forming an Heroic-Poem, the first thing they tell us we ought to do, is
+to pitch on some Moral Truth, which we desire to enforce on our Reader, as
+the Foundation of the whole work. Thus Virgil, as Bossu observes,
+designing to render the Roman People pleased and easie under the new
+Government of Augustus, laid down this Maxim, as the Foundation of his
+Divine Æneis: "That great and notable Changes of State are not
+accomplished but by the Order and Will of God: That those who oppose
+themselves against them are impious, and frequently punished as they
+deserve; and that Heaven is not wanting to take that Hero always under its
+particular Protection, whom it chuses for the Execution of such grand
+Designs." This for the Moral Truth; we must then, he says, go on to lay
+the general Plan of the Fiction, which, together with that Verity, makes
+the Fable and Soul of the Poem: And this he thinks Virgil did in this
+manner, "The Gods save a great Prince from the Ruines of his Country, and
+chuse him for the Preservation of Religion, and re-establishing a more
+glorious Empire than his former. The Hero is made a King, and arriving at
+his new Country, finds both God and Men dispos'd to receive him: But a
+neighbouring Prince, whose Eyes Ambition and Jealousie have closed against
+Justice and the Will of Heaven, opposes his Establishment, being assisted
+by another King despoil'd of his Estate for his Cruelty and Wickedness.
+Their Opposition, and the War on which this pious Prince is forc'd, render
+his Establishment more just by the Right of Conquest, and more glorious by
+his Victory and the Death of his Enemies." These are his own Words, as any
+may see who are at the pains to consult him; nor can I help it, if either
+Virgil or Bossu happen to be Prophets.
+
+When the Poet has proceeded thus far, and as Bossu calls it, dress'd
+his Project, he's next to search in History or receiv'd Fable, for some
+Hero, whose Name he may borrow for his Work, and to whom he may suit his
+Persons. These are Bossu's Notions, and, indeed, very agreeable to
+Aristotle, who says, that Persons and Actions in this sort of Poetry must
+be feign'd, allegorical, and universal.
+
+This is the Platform they lay; and let's now see if we can discover the
+Reasons whereon they found these Rules, being so unanimous for Fable
+rather than true History, as the Matter of an Heroic Poem; and, if I
+mistake not, these are some of the principal.
+
+1. Because they had observ'd the best Models of Heroic Poems were laid
+after this manner; the greatest part of the Action both in Homer and
+Virgil being pure Fable. Homer beginning, and all the rest following his
+Steps.
+
+2. Because no single Hero, or true History, which the Ancients knew was
+sufficient, without Fable, to furnish Matter for an Epic Poem. History,
+says Aristotle, treats of particular Things as they really are; Poetry, as
+they ought to be; and therefore he prefers Poetry as the more grave and
+more instructive; the Poets being forc'd to follow the same Methods with
+their Kindred-Art, that of the Painters, and gather a great many Beauties
+together, out of 'em all, to steal one Venus.
+
+3. A third Reason may be, because, supposing they should have found some
+one Example from whence to enforce strongly any particular Point of
+Morality, yet it would have miss'd those other Characters of Epic, most of
+its Agreeableness, and all its Power to raise Admiration. A chast
+Historian must not go about to amuse his Reader with Machines; and a Poet
+that would imitate him, must have been forc'd to thin his Stage
+accordingly, and disband all his glorious Train of Gods and Godesses,
+which composes all that's admirable in his Work; according to that of
+Boileau; Chaque Virtue devient une divlnitie.
+
+And these, if I mistake not, were the main Reasons on which the
+foremention'd Rules were grounded. Let's now enquire into the Strength and
+Validity of them: To begin with Homer, he wrote in that manner, because
+most of the ancient Eastern Learning, the Original of all others, was
+Mythology. But this being now antiquated, I cannot think we are oblig'd
+superstitiously to follow his Example, any more than to make Horses speak,
+as he does that of Achilles, 2. If a Poet lights on any single Hero, whose
+true Actions and History are as important as any that Fable ever did or
+can produce, I see no reason why he may not as well make use of him and
+his Example to form the Manners and enforce any Moral Truth, as seek for
+one in Fable for that purpose: Nay, he can scarce fail of persuading more
+strongly, because he has Truth it self; the other but the Image of Truth,
+especially if his History be, in the Third place, of it self diverting and
+admirable. If it has from its own Fund, and already made to his hand those
+Deorum Ministeria, which cost the Poet so much in the forming 'em out of
+his own Brain. Nor can we suppose Fiction it self pleases; no, 'tis the
+agreeable and the admirable, in the Dress of Truth; and such a Plan as
+this would effectually answer both the Ends of Poetry in general,
+delectari & monere, nay come up fuller to the End of Epic, which is
+agreeable Instruction; and thence it follows strongly, that a Poem written
+in such a manner, must, notwithstanding the foregoing Rules, be a true and
+proper Heroic Poem, especially if adorn'd with Poetical Colours and
+Circumstances through the whole Body thereof.
+
+Now that all this is not gratis dictum, I think I can prove, even from
+most of those very Authors I've already produc'd, as of the contrary
+Opinion; and that I can make it appear, Bossu goes too far in fixing Fable
+as the Essential Fund and Soul of the principal Action in an Epic Poem. To
+begin with Rapin, who has this Passage, sur la Poetique, Reflex. 5. La
+Poesie Heroique, &c. "Heroique Poesie, according to Aristotle, is a
+Picture or Imitation of an Heroic Action; and the Qualities of the Action
+are, That it ought to be (among others) true, or at least, such as might
+pass for true;" Thus he. And hence it follows, according to him and
+Aristotle, that the principal Action in Heroic, not only ought to pass for
+Truth, but may be really true: For Horace, he does indeed call the Iliads
+a Fable; but then he does not oblige his Poet superstitiously to follow
+Homer in every thing, owning that he sometimes doats as well as other Men:
+Further, this may, and I think does, refer rather to the Dress and Turn of
+the Action, than to the Bottom and Ground of his History, which there's at
+least as much, if not more reason to believe true than false: And in the
+same Sense may we take Petronius and Boileau; nay, if we don't take 'em
+thus, I can't tell whether there were ever such a thing as a true Heroic
+Poem in the World; not so much as the Fairy-Queen, Gondibert, or Orlando
+Furioso; all which have Fable enough in 'em of any reason; but their
+principal Actions might be still true, as we are sure was that of the best
+Heroic that ever was written; (I need not say I mean Virgil) since few or
+no Authors ever deny'd that there was such a Man as Æneas, or even that he
+came into Italy, built Cities there, and erected a Kingdom, which Tully
+mentions, as a generally receiv'd Tradition in those Parts, and which it
+seems he thought not frivolous, but true and solid; otherwise he'd scarce
+have given it a place in his Argument for his Client. Of this Opinion too
+seems Horace himself, in his Art of Poetry, namely, That there's no
+necessity of the principal Action's being feign'd; for his Direction is,
+"Aut famam sequere, aut sibi convenientia finge; Either follow Tradition
+or Fame, or else feign what's agreeable thereunto." He makes not feigning
+essential to Heroic Action, but gives leave to follow Fame, who is not so
+great a Lyar, but that she is sometimes in the right. Nay, what if we
+should after all have Bossu himself on our side, which I'm mistaken if he
+be not; for these are his Expressions, Lib. 1. Cap. 7. Le Fiction, &c.
+"The Fiction may be so disguis'd under the Verity of the History, that
+those who are ignorant of the Art of the Poet, may believe it not a
+Fiction; and to make the Disguisement well, he ought to search into
+History for the Names of some Persons, to whom such an Action has probably
+or truly happen'd, &c." Hence 'tis evident, that according to Bossu's own
+Notion, the main Action may be true; which appears even from Aristotle
+himself, as quoted by him, 97. [Greek: Kan ara] &c. "An Author is not less
+a Poet, because the Incidents he recites have truly happen'd; if so be
+that which happen'd had the appearance of Truth, and all that Art demands,
+and be really such as it ought to have been feign'd." And this Bossu
+himself illustrates admirably well by an ingenious Simile; "A Statuary,"
+says he, "first forms his Design, Posture, Altitudes which he intends for
+his Image; but if he then lights on any precious Material, Agate, or such
+like, where the Figure, the Colours, and Veins will not be accommodated to
+all he design'd, he regulates his Design and Imagination according to his
+Matter; nor ought we to believe, at the same time, that these singular
+lucky Hits condemn the Justness of his Art." From all which, I must leave
+it to the Reader, whether I han't sufficiently prov'd what I've
+undertaken; that Fiction is not necessary to the principal Action of our
+Heroic Poem; on which I've been something more large, not so much on my
+own account; for 'tis indifferent to me by what Name any Man calls my
+Poem, so it answers the great End of Epic, which is Instruction; but
+because I've heard some Persons have been so conceited as to criticise on
+our immortal Cowley for this very reason, and deny his Davideis the Honour
+of being an Heroic Poem, because the Subject thereof is a true History.
+
+And here I should drop the Discourse of Fable, were there not another sort
+of Persons still to deal with, perhaps more importunate than the former:
+The first will not like a Piece unless 'tis all Fable, or at least the
+Foundation of it: These latter run into the contrary extreme, and seam
+unwilling or afraid to admit anything of Fable in a Christian Poem; and as
+Balzac in his Critics on Heinsius his Baptista, are frighted, as at some
+Magical Charm, if they find but one Word there which was made use of by
+the old Heathens; which, says he, (unluckily as things have since
+happened) is as preposterous as to see Turks wear Hats, and Frenchmen
+Turbants; the Flower-de-lis in the Musselmens Colours, or the Half-Moon on
+the Standard of France. He's, however, it must be granted, justly angry
+with Tasso, as Mr. Dryden since, for setting his Angels and Devils to
+stave and tail at one another; Alecto and Pluto on one side, and Gabriel
+and Raphael o' t'other; as well as with Sannazarius, for mingling Proteus
+and David, and calling the Muses and Nymphs to the Labour of the Blessed
+Virgin, Tho' the truth is, the Italian Poets seem more excusable, at least
+to a Papist, in this Case, than any other Nation, who parted with as
+little of their Idolatry as they could possibly, after they had kept it as
+long as they were able, making the Change very easie, and turning their
+Pantheon into an All Saints; much like the good Fathers in the Spanish
+Conquests in America, who suffer the Natives to keep their Old Idols, so
+they'll but pay for 'em, and get 'em christen'd; by this means making many
+a good Saint out of a very indifferent Devil. So far, I say, Balzac is
+undoubtedly in the right, that Christianity and Heathenism ought not to be
+confounded, nor the Pagan Gods mention'd, but as such, in Christian Poems.
+Of which Boileau also says, "They should not be Fill'd with the Fictions
+of Idolatry;" tho' he tells us just before,
+
+  In vain have our mistaken Authors try'd
+  Those ancient Ornaments to lay aside.
+
+As tho' he were afraid lest all Poets shou'd be forc'd to turn Christians,
+and yet in the next Lines he thinks it full as bad,
+
+  To fright the Reader in each Line with Hell,
+  And talk of Satan, Ashtaroth and Bel.
+
+As tho' he'd have no Christian to be a Poet. And much at the same rate is
+Monsieur Balzac very angry with Buchanan, for the same reason; nor will he
+by any means let us substitute Belzebub, Asmodeus, and Leviathan, in the
+room of Alecto, Tisiphone, and Megaera, which is, in his Opinion, perfect
+Pedantry and Affectation; and is extreamly afraid, lest any of those
+Barbarous Hebrew Words should disfigure the purity of the Latin Tongue;
+when surely he cou'd not but know, that this pure Latin Tongue it self,
+for which he's so much concerned, is nothing but the gradual Corruption or
+Barbarizing of the Greek; as that of the Phonician and Hebrew before; and
+the Italian, and his own French too, from the Latin afterwards, by the
+adulterous mixture of 'tis hard to say how many Languages: So that between
+'em, they'd make it impossible for a Christian Poet to write a good Heroic
+Poem, or even a Tragedy, on any, but profane Subjects; by taking away all
+the Machines, and therein whatever is admirable. No, says Balzac, instead
+of those hard Words and proper Names, Appellatives may be chosen, Words
+common to all People: As for example, Ill luck instead of the Fates, and
+the Foul Fiend for Lucifer; and whether this wou'd not sound extreamly
+Heroical, I leave any Man to judge: It being besides certain, that 'tis
+singulars and particulars which give an Air of Probability, and the main
+Life and Beauty to a Poem, especially of this Nature; without which it
+must of necessity sink and languish. However so much of Truth, I must
+confess, there is in what he says, that I verily believe Magor-missabib,
+or Mahershal-alhashbaz, wou'd scarce yoke decently in one of our
+Pentameters, but be near as unquiet and troublesome there, as a Mount
+Orgueil it self. Nor can partiality so far blind my Judgment as not to be
+my self almost frighted at second hearing of such a thundering Verse, as
+Belsamen Ashtaroth Baaltii Ba'al: Which seems as flat Conjuration, as
+Zinguebar, Oran, &c. tho' 'tis now too late to amend it. But then there
+are other Words or a more soft and treatable Cadence, even in the same
+Hebrew Language, especially when mollified by a Latin or Greek form, or
+Termination; and such as these one may make use of and let others alone:
+though neither is our bolder rougher Tongue so much affrighted at them, as
+the French and Latin.
+
+But Boileau pushes the Objection further, and wou'd make it bear against
+the Things as well as Words, persuading himself,
+
+  Our God and Prophets that he sent,
+  Can't act like those the Poets did invent.
+
+Tho' he too, is short in History, how excellent soever in Poetry. For
+first, the Heathen Poets did not invent the Names of their Gods and
+Heroes, but had 'em from Eastern Tradition, and the Phenician and Jewish
+Language, tho' deflected and disguis'd after the Greek and other Forms, as
+Josephus tells us, which the learned Bochart has proved invincibly; and I
+have made some Essay towards it, in my Sixth Book. Nay further, it seems
+plain to me, that most, even of their best Fancies and Images, as well as
+Names, were borrow'd from the Antient Hebrew Poetry and Divinity, as, were
+there room for't, I cou'd, I think, render more than probable, in all the
+most celebrated Strokes of Homer, moat of the Heathen Poetical Fables, and
+even in Hesiod's blind Theogonia. Their Gods or Devils, which you please,
+were not near as Antient as the Hebrews. The Word Satan is as ancient as
+Job; nor can they shew us a Pluto within a long while of him. Ashtaroth,
+and Astarte, are old enough to be Grandmothers to their Isis, or Venus,
+and Bel, of the same standing with Idolatry. Lawful it must certainly be,
+to use these very Heathen Gods in Christian, since they were us'd in
+sacred Hebrew Poetry, in due place, and in a due manner; Bel boweth down,
+Nebo stoopeth, says Isaiah. And what a noble Description has the same
+Prophet of the Fall of Lucifer? Nor can I see why it may not be as
+convenient and agreeable, as 'tis lawful to transplant 'em from Hebrew
+Poetry to our own, if we use 'em as they did. And then for Angels,
+Prophets, and Oracles, it wou'd be strange, if they shou'd not strike the
+Mind as agreeably when real and true, as the Daemons, or Oracles, or
+Prophets of the Heathens, form'd, as has been said, partly from mistaken
+Fragments, or Traditions of sacred Story, partly indeed from the Juggles
+of the Heathen Priests, and crafty Ambitious Daemons. On the whole, we
+have all the Advantages they had, and yet more than they, for Heroic
+Poetry in these matters. As for that Question of Boileau's, "What Pleasure
+can it be to hear the howlings of repining Lucifer?" I think 'tis easier
+to answer than to find out what shew of Reason he had for asking it, or
+why Lucifer mayn't howl as pleasantly as either Cerberus, or Enceladus.
+And let any one read but his Speech, in Milton's Paradise, almost equall'd
+in Mr. Dryden's State of Innocence, and I'm mistaken if he's not of the
+same Mind; or if he be not, and it gives him no pleasure, I dare affirm
+'tis for want of a true taste of what's really admirable.
+
+But Boileau comes to a stronger Objection, both against the Names and use
+of these Daemons, by way of Machine, I mean, in Christian Poetry;
+
+  The Mysteries we Christians must believe
+  Disdain such shifting Pageants to receive.
+
+Thus has his Translator turn'd him; and taking it in that Sence, the
+meaning must be, that it disgraces Christianity, to mix its Mysteries with
+Stories of Daemons, Angels, &c. But sure it can never be any disgrace, to
+represent it really as it is, with the frequent Intervention of those
+invisible and powerful Agents, both good and evil, in the Affairs of
+Mankind, which our Saviour has both asserted and demonstrated in his
+Gospel, both by Theory and Practice: Whence we learn, that there are
+really vast numbers of these Spirits, some tempting, or tormenting, others
+guarding and protecting Mortals: Nay, a subordination too among them, and
+that they are always vigilant, some for our Destruction, others for our
+Preservation, and that, as it seems, of every individual Man; and if this
+be true in general, I'm sure 'tis probable In particular: Nor can it be
+any disgrace to Christianity, to apply general Probabilities to particular
+Cases, or to mention these Daemons in Poetry any more than in Divinity.
+
+But indeed the Translator has here mended Boileau's Thought, or at least
+made it more plausible and defensible, tho he has miss'd his Sence; for
+these are his Lines:
+
+  De la foi d'une Christien les Mysteres terribles
+  D' Ornemens egayés ne sont point susceptibles.
+
+The plain English of which, I think is, "That the terrible Mysteries of
+the Christian Faith, are not at all susceptible of these gayer Ornaments."
+I'll not be too Critical here, tho' methinks its but an odd sort of Gayety
+that's to be found in Tales of Hell; agreeable, I own, the most dreadful
+thing nay be, if well manag'd in Poetry, but he can hardly ever make 'em
+gay without a yery strong Catachresis. But tho' we let that pass, so must
+not what follows, wherein he further explains his Notion. L'Evangile,
+&c.
+
+  The Gospel offers nothing to our Thoughts
+  But Penitence and Punishment for Faults.
+
+To which it may be first said, that supposing this true, and the Gospel
+did present nothing else, yet why mayn't Angels be us'd in it, to warn
+Sinners to that Repentance which we know they so much rejoyce in; or
+Devils, to punish and torment the Guilty and Impious; as in the Case of
+Sceva's Son, and others. But yet further, as to the assertion it self,
+I know not what their Gospel offers, nor I believe are they better
+acquainted with what ours does; but we are sure 'tis far enough from being
+such a dismal melancholy thing as they represent it, since Immortality and
+Life are brought to light therein. We know that it gives us the noblest
+Examples, the most divine Law, the strongest, yet justest Passions, the
+most glorious Combats, and Friendships, and Sufferings, such as neither
+History or Fable cou'd ever yet equal. It shews us a God really
+Descending, disrob'd indeed of all his more dazling and insupportable
+Glories, as our Divine Herbert; but yet clothed with what has more of true
+Divinity, with Humility, and Charity, and Patience, and Meekness, and
+Innocence. Here's War, here's Love indeed; such as never was besides, or
+will be more. He lov'd our Dust and Clay, and even for us, single
+encounter'd all the Powers of Darkness, and yet more, his Almighty
+Father's anger. But I'll go no farther, lest the Reader should think I
+forget where I am. I must return to Boileau, whose strongest Objection is
+yet behind; Et de vos Fictions, &c.
+
+  And mingling Falshood with those Mysteries
+  Wou'd make our sacred Truths appear like Lies.
+
+But I hope the Critic knew, that there is a fair difference between a mere
+Fiction, or Falshood, and an Instructive Parable or Fable, on one side, or
+a few more lively Poetical Colours on the other. To mingle Falshoods, or
+dull Legendary Fictions, without either Life or Soul in 'em, with our
+Saviour's Blessed Gospel, may make 'em, in some Sence, superiour to it:
+This wou'd indeed incline an Italian to be of the same Faith with his
+Countryman, that 'twas all Fabula Christi, in the worst Sence of the Word:
+But certainly expressing the Truth in Parables, and mingling these with
+the Mysteries of the Gospel, can't be thought to give it an Air of
+Fiction: nor dare any affirm it does so, without Blasphemy, since our
+Saviour has so often done it. Nor only these but deeper Allegories are
+thought to be made use of in the Christian Religion; for Example, the
+Throne and Temple of God in the Revelations, and the Description of the
+New Jerusalem, with all its Gates and Foundations of Sapphires and
+Emeralds, and that lovely Scheme of Trees and Rivers, worthy a Paradise:
+All this, I say, will scarcely be granted literal, and consequently must
+be all an Allegory; alluding partly to the Old Jewish Church and Temple,
+partly to Ezekiel's Visionary Representation and Prophetical Paradise. Nor
+can it, I think, be justly reckoned more criminal, where we have any great
+instructive Example, which has been real matter of Fact, to expatiate
+thereon; adding suitable and proper Circumstances and Colours to the
+whole, especially when the History it self is but succinctly Related, and
+the Heads of things only left us. And this some great Man have thought was
+the Method of the Holy Pen-man himself, whoever he were, in that lovely
+antient Poem of Job; which, that 't was at the bottom a real History, few
+but Atheists deny; and yet 'tis thought some Circumstances might be
+amplified in the account we have left us, particularly the long Speeches
+between that Great Man and his Friends; tho' the main hinges of the
+Relation, his Person, Character, and Losses, the malice of the Devil, the
+behaviour of his Wife and Friends, nay even the Substance of their
+Discourses, as well as of that between God and him, and the wonderful Turn
+of his Affairs soon after: All this might, and did, truly happen. Or, if
+any amplification should be here deny'd, does not the Divine however every
+day, Paraphrase and Expatiate upon the Words of his Text, inverting their
+Method as he sees occasion, and yet is still thought unblameable. All the
+difference is, that he delivers what's probable, as only probable; whereas
+the Nature of Poetry requires, that such probable Amplifications as these,
+be wrought into the main Action, in such a manner, as if they had really
+happen'd; and without this, a Man might Ryme long enough, but ne'er cou'd
+make a Poem, any more than this would have been one, had I begun with,
+Abraham begat Isaac, and so tagg'd on to the end of all the fourteen
+Generations, much as Nonnus has done with St. John, and yet often miss'd
+his Sence too, as Heinsius judges.
+
+But enough of Fable, and of those who would either reduce all Heroic
+Poetry unto it, or absolutely banish it thence.
+
+Next the Fable of Epics, the Poem is to be considered; which, after Bossu,
+is the other part of its general Nature, and shews the manner of handling
+it, comprehending Thoughts, Expressions and Verses; of which there need
+not much be said, since they are obvious to every Reader. The Thoughts
+must be clear and just, and noble, and the Diction or Expression suited to
+them. The chief Difficulty, as Rapin observes, is to keep up the Sublime,
+which Virgil has done admirably, even in the meanest Subjects; and which
+Aristotle thinks may be best done by the judicious use of Metaphors. There
+ought to meet, according to him, Proportion in the Design, Justness in the
+Thoughts, and Exactness in the Expression, to constitute an accomplish'd
+Heroic Poem; and the great Art of Thought and Expression lies in this,
+that they be natural and proper without Meanness, and sublime without a
+vitious Swelling and Affectation.
+
+The Matter is next in an Heroic Poem, which must be one important Action;
+it must be important, Res gestæ Regumque Ducumque, with Horace. "It only
+speaks of Kings and Princes," says Rapin, by which he must mean that it
+chiefly and principally turns upon them: for both Virgil and Homer have
+occasion for Traitors, and Cryers, and Beggars, nay even Swineherds (in
+the Odysses), and yet still more, of whole Armies, which can't be all
+compos'd of Kings and Princes. However, the more there is of these lower
+Walks in the Plan of a Design, the less Heroic it must appear, even in the
+Hands of the greatest Genius in Nature. Such a Genius, I think, was
+Homer's, and yet the Truth of this Assertion will be plain to any who
+compares his Odysses with his Iliads; where he'll find, if 'tis not for
+want of Judgment, in the latter a very different Air from the former, in
+many places much more dead and languishing, and this which I have given,
+seems one probable Reason on't; not excluding that of Longinus, that Homer
+was then grown old, and besides too much of the Work was spent in
+Narration; to which may be added, that he here design'd a wise and prudent
+rather than a brave and fighting Hero, having wrought off most of the Edg
+and Fury of his Youthful Spirit and Fury in Achilles, as in Ulysses he
+express'd more of Age and Judgment.
+
+This Action must be one and uniform: the Painture of one Heroic Action,
+says Rapin from Aristotle. It must be, as Bossu from Horace, simplex
+duntaxat & unum, that is, the principal Action on which the whole Work
+moves ought to be one, otherwise the whole will be confus'd; tho' there
+may be many Episodic Actions without making what Aristotle calls an
+Episodic Poem, which is, where the Actions are not necessarily or not
+probably link'd to each other, and of such an irregular multiplication of
+Actions and Incidents. Bossu instances very pleasantly in Statius's
+Achilleid; but he tells us there's also a regular and just Multiplication,
+without which 'twere impossible to find matter for so large a Poem, when
+as before it's so ordered that the Unity of the whole is not broken, and
+consequently divers Incidents it has bound together are not to be
+accounted different Actions and Fables, but only different Parts not
+finish'd, or entire of one Action or Fable entire or finished: and,
+agreeable to this Doctrine, Rapin blames Lucan's Episodes as too
+far-fetch'd, over-scholastic, and consisting purely of speculative
+Disputes on natural Causes whenever they came in his way, not being link'd
+with the main Action, nor flowing naturally from it, nor tending to its
+Perfection.
+
+And in this Action, the Poet ought, as Rapin tells us, to invert the
+natural Order of things, not to begin with his Hero in the Cradle, and
+write his Annals instead of an Epic Poem, as Statius in his Achilleid, the
+Reason of which seems plain, because this would look more like History
+than Poetry. It's more agreeable, more natural, in some Sence, to be here
+unnatural; to bring in, by way of Recitation or Narration, what was first
+in order of time, at some distance from that time when it really happened,
+which makes the whole look unlike a dull formal Story, and gives more
+scope for handsome Turns and the Art of the writer. Another Reason why a
+whole Life is not ordinarily a proper Subject for Epics, is, because many
+trivial Accidents must be therein recited; but if a Life can be found in
+which is nothing but what's diverting and wonderful, tending besides to
+the perfecting the main Action, and the Order of time revers'd in the
+whole, the Case would be so much altered, that I think their Rules would
+not hold.
+
+For the Form of Epic, which comes next in view, 'tis agreed on all Hands
+to be Recitation or Narration. Bossu says, The Persons are not at all to
+be introduced before the Eyes of the Spectators, acting by themselves
+without the Poet; not that he'd hereby exclude the Poet from introducing
+the persons telling their own Story, or some one of them that of the
+principal Hero: for great part of Epic is thus far Dramatic. And thus
+Virgil manages his second and third Books by way of Recitation, and that
+by his Hero himself, making him give Dido a long account of the Wars of
+Troy, and his own Actions, tho' thereby he falls into the Impropriety of
+commending himself, with a--sum pius Æneas. Vida takes the same way of
+Recitation, wherein he employs two or three of his six Books; and Milton
+follows them both, tho' less naturally than either; for he introduces our
+Saviour, in his Paradise regain'd, repeating a great part of his own Life
+in Soliloquy, which way of Discourse includes, in a Wise Man especially,
+so much of Calmness and deep Reflection, that it seems improper for the
+great and noble Turn required in such a Work, unless in describing a
+Passion, where it may be more lively. All that they mean by not
+introducing the Parties, is not doing it as in a Tragedy: they are not to
+be brought in abruptly to tell their own Tale from the beginning, without
+the appearing Help of the Poet, as Actors in a true and proper Drama. And
+this Narration, says Rapin, should be simple and natural; but the greatest
+difficulty is, not to let its Simplicity appear, lest it thence grow
+disagreeable, and the chiefest Art in this, consists in its Transitions,
+and all the delicate surprising Turns, which lead the Reader from one
+thing to another without his thinking whither he's going, or perceiving
+any Breach or so much as a passage between 'em; after all, the more Action
+there is in Epic, still the more Life there will be. A Poet may, I find,
+easily fall into Poorness of Thought by aiming too much at the Probability
+and neglecting the Admirable; whereby he loses that agreeableness which is
+a mixture of both. He ought then to take more care than some have done,
+not to keep himself too long behind the Scenes, and trust the Narration
+with another, which, without a great deal of Art and Pains, will take off
+much of the Life of the Work, as Longinus has already formerly observed.
+
+And here come in the Qualities of Narration, mentioned in our Definition,
+that it ought to be done in a manner probable, agreeable, and admirable;
+'tis rendered probable by its Simplicity and Singularity, and admirable by
+the Grandeur of the Subject, the Figures and Machines, or [Greek: theoi
+apo mêchanês], much more lawful here than in the Drama's; and lastly
+agreeable, as has been said, by a mixture of both.
+
+The last thing in our Definition, is, the End of Epic, indeed the first
+and principal which ought to be intended, and that's Instruction, not
+only, as Rapin thinks, of great Men, but of all, as in Virgil's Scheme,
+which we have already described; and, this either by the principal Moral
+aim'd at in the whole, or the Manners of particular Persons. Of Fable and
+Moral, I've already discours'd, and whether be the more lively and
+probable way to instruct, by that or History. But here it may be worth the
+while to enquire, whether the principal Hero in Epic ought to be virtuous?
+Bossu thinks not, the manners being formed as well by seeing Errors as
+Beauties in the chief Actors; but yet methinks it seems too much to form a
+Hero that's a perfect Almanzor, with not one spark of Vertue, and only
+remarkable for his extraordinary Strength and little Brains; such was
+certainly Homer's Achilles, of whom I think the Father was in the right
+when he observes, the Poet makes him not do one brave or virtuous Action,
+all the while he lies before the Town: whereas Virgil's Hero, is, to tell
+truth, an indifferent good Heathen, and, bating one or two slips, comes up
+pretty well to his own good word. The same however may be said for Homer,
+which our present Dramatists plead for their Excuse; that he copied his
+Hero from those who were esteemed such in the barbarous Age in which he
+liv'd,
+
+  Impiger, iracundus, inexorabllis, acer,
+  Jura neget sibi nata, &c.
+
+Made up of Lewdness, Love, and Fighting: who, had he liv'd in our Days,
+would have made an excellent Town Bully, I wish there were not too much
+reason to say a modish Gentleman. But tho' old Homer took this way,
+Virgil, who writes with much more Judgment and Exactness, and follows him
+in many things, here thought fit to leave him; making his Hero, as I've
+said, not only brave and prudent, but for the most part virtuous. Which
+would much better form the manners of his Reader, than if they were set to
+spell out Instruction from contraries, as Homer has done. Whence it
+follows, the more virtuous a Hero is, the better; since he more
+effectually answers the true end of Epics. After all, Rapin says, the
+chief Excellency of an Heroic Poem consists in the just proportion of the
+Parts; that perfect Union, just Agreement, and admirable Relation, which
+the Parts of this great Work bear one towards another; and blames Tasso
+for mingling all the Sweetness and Delicacy of Eclogues and Lyricks, with
+the Force of an Heroic Poem. But I should think him mistaken here, and
+that this is not the meaning of Aristotles [Greek: analogon]. For if we
+allow not such a pleasing Variety, how shall we excuse even Virgil
+himself, who has his Dido, as well a Tasso his Armida and Erminia? nay,
+how shall we manage Love? which is usually one great Episode of Heroic, if
+not with something of Delicacy. I grant Love ought to have a different Air
+in different sorts of Poems; but still if it be natural it must have
+something of Softness; and for his Enchanted Forrest, which this severe
+Critic also blames, I believe there's few who read that part of his Work,
+who would willingly have it omitted, for the sake of a fancied Regularity,
+any more than they would part with Mr. Dryden's Improvement on't in his
+King Arthur. However, if it be a fault, 'tis strange so many who have been
+Masters of the greatest Genius should unanimously fall into it; as Ovid in
+his Palace of Circe, Ariosto in that of Alcina, and Spencer in his
+Acasia's Bower of Bliss, and several others, who have taken the same
+Method. I should therefore rather think that this beautiful and marvellous
+Analogy which Aristotle requires as the best thing in Epic, relates rather
+to the Harmony and Agreement of the Parts with the Whole; so that there
+appears no Fracture or Contradiction, the different Parts, tho' much
+unlike, yet all together making one beautiful Figure and uniform Variety.
+
+And thus much of the Definition of Epic, containing the main Rules
+thereof, by which the Reader may be able to form a Judgment of this, or
+any other Heroic Poem: Especially if to these Rules be added some Examples
+to render them more plain. In order to which, I desire to express my
+Thoughts freely of other Poems, as I must expect every one will do of
+mine, always observing that piece of Justice, never to find fault, without
+taking notice of some Beauty to ballance it, and giving, where I can find
+it, the better Judgment of other Persons as well as my own. Concluding all
+with a brief Account of my own Work.
+
+To begin then with Grandsire Homer, this may be added to the particular
+Remarks that have been already made. I think none will deny but the
+Disposition of his Iliads, is so truly admirable, so regular, and exact,
+that one would be apt to think he wrote his Poem by Aristotle's Rules, and
+not Aristotle his Rules by his Poem. I confess, I once thought that he had
+been oblig'd to his Commentators for most of the Beauties they celebrated
+in him; but I am now, on a nearer view, so well satisfied to the contrary,
+that I can ne'er think his Poem writ by piece-meal, without any Connexion
+or Dependance: wherein Dionysius the Halicarnassian very justly praises
+the Order and Management of the Design, as well as the Grandeur and
+Magnificence of the Expression, and the sweet and passionate Movements.
+Nor is it without Reason that Horace, Longinus, and all Antiquity have
+given him, as the Model of just and noble Sentiments and Expressions.
+I must confess there's something in his Numbers that strikes me more than
+even Virgil's, his Thoughts and Expressions appear stronger than his, tho'
+it cannot be denied but that Virgil's Design is much more regular. Rapin
+says a great deal of that Prince of the Latin Poets, tho' indeed he can
+never say enough, "He had an admirable Taste, says he, of what's natural,
+an excellent Judgment for the Order, and an incomparable Delicacy for the
+Number and Harmony of his Versification." And adds, "That the Design of
+the Poem is, if we consider it in all its Circumstances, the most
+judicious and best-laid that ever was or ever will be." There is indeed a
+prodigious Variety in Virgil, and yet the same Soul visible in every Line.
+His own great Spirit informs his Poetical World, and like that he speaks
+of,
+
+    ---- totos infusa per Artus
+  Mens agitat Molem, & magno se corpora miscet.
+
+He's soft with the height of Majesty, his Marcellus, his Dido, and, I
+think, above all, his Elegy on Pallas is very noble and tender. The joints
+so strong and exactly wrought, the Parts so proportionable, the Thoughts
+and Expression so great, the Complements so fine and just, that I could
+ne'er endure to read Statius, or any of the rest of the Antient Latins
+after him; with whom therefore I shan't concern my self nor trouble my
+Reader. Ariosto was the first of the Moderns who attempted any thing like
+an Heroic Poem, and has many great and beautiful Thoughts; but at the same
+time, 'tis true, as Balzac observes, that you can hardly tell whether he's
+a Christian or an Heathen, making God swear by Styx, and using all the
+Pagan Ornaments; his Fancy very often runs away with his Judgment, his
+Action is neither one nor simple, nor can you imagine what he drives at;
+he has an hundred Hero's but you can't tell which he designs should be
+chief: Orlando indeed seems a wild Imitation of Homer's Achilles, but his
+Character is not bright enough to make him the Principal; and besides he
+orders it so, that he does more great Actions when he's mad then when
+sober. Agreeable to this are Rapin's thoughts of him, which, in few words,
+are "That he's elevated and admirable in his Expressions, his Descriptions
+fine, but that he wants Judgment; and speaks well, but thinks ill, and
+that tho' the Parts are handsome enough, yet the whole Work can by no
+means pass for an Epic Poem, he having never seen the Rules of Aristotle;"
+which he thinks Tasso had, and therefore wrote much better, whom he
+commends as more correct in his Design, more regular in the ordering his
+Fable, and more accomplish'd in all parts of his Poem than any other of
+the Italians, whom yet he justly blames, because he has two Hero's
+Godfredo and Rinaldo, of whom Godfredo seems the principal, and yet
+Rinaldo performs the greatest part of the notable Actions. He seems to
+imitate Agamemnon and Achilles, but then he raises his Agamemnon too high,
+or keeps him too low, for he hardly lets him do one great Action through
+the whole Work. He further criticises upon him as mingling too much
+Gallantry with his Poem, which, he thinks, is unbecoming the Gravity of
+his Subject. But whether this Censure be just, I know not, for Love and
+Gallantry runs through all Virgil's Æneids, in the Instances of Helen,
+Dido, and Lavinia, and indeed it gives so great a Life to Epic, that it
+hardly can be agreeable without it, and I question whether ever it has
+been so. Nor is he more just, I think, against Tasso's Episodes, which he
+blames as not proper to circumstantiate his principal Action, not entring
+into the Causes and Effects thereof, but seeking too much to please, tho'
+I think this Charge is unjust, for 'tis in his Episodes, if any where,
+that Tasso is admirable. I might here give several Instances, but shall,
+at present, only refer my Reader to that of Tancred and Erminia, and I'm
+mistaken if he does not dissent from Rapin in this particular. Sannazarius
+and Vida were the next who did any thing remarkable in Epic; they both
+writ in Latin on the same Subject, both Christian Heroics; Rapin says they
+both had a good Genius for Latin, the Purity of their Style being
+admirable, but that their ordering of the Fable has nothing in't of
+Delicacy, nor is the manner of their Writing proportionable to the dignity
+of the Subject. For Sannazarius he's indeed so faulty, that one can hardly
+with Patience read him, the whole Structure of his imperfect Piece, de
+partu, being built on Heathen Fable; yet he has great and vigorous
+Thoughts and very Poetical Expressions, tho' therein Vida far excels him,
+whose Thoughts are so noble, and the Air of his Stile so great, that the
+Elogy Balzac gives his Countryman Tasso, wou'd as well or rather better
+have fitted him; "That Virgil is the Cause, Vida is not the first; and
+Vida, that Virgil is not alone." It is true, as Rapin observes, that his
+Fable is very simple, and perhaps so much the better, considering the
+Subject; tho' he forgets not Poetical Ornaments, where there's occasion,
+if he does not lean a little to Sannazarius's Error; for he talks of the
+Gorgons and Sphinxes, the Centaurs and Hydra's and Chimera's, though much
+more sparingly and modestly than the other. He has the happiest beginning
+that perhaps is to be found in any Poem, and by mingling his Proposition
+and Invocation, has the advantage of placing one of the noblest Thoughts
+in the World in the first Line, without danger of falling into the
+absurdity of Horace's Author with his Fortunam Priami: For thus he sings,
+
+  Qui mare, qui terras, qul coelum numine comples
+  Spiritus alme, &c.
+
+After the Invocation, in the very beginning of the Poem, he's preparing
+the Incidents for his Hero's Death; he brings him to Jerusalem at the
+Passover with Hosanna's; then raises his Machines, and falls to the
+Description of Hell. He through the whole, uses his Figures very
+gracefully; few have been more happy in Comparisons, more moving in
+Passion, succinct, yet full in Narration: Yet is he not without Faults; or
+in the second Book he brings him to his last Supper in the Garden, from
+thence before Caiaphas and Pilate; which too much precipitates the main
+Action: Besides, it seems harsh and improbable to bring in S. John, and
+Joseph, our Saviour's reputed Father, as he does in the Third and Fourth
+Book, giving Pilate an account of his Life; not to insist on the general
+Opinion, that Joseph was not then alive. But notwithstanding these few
+failures, it can't be deny'd, that his Description of our Saviour's
+Passion in the Fourth Book, is incomparably fine; the disturbance among
+the Angels on that occasion; his Character of Michael, and the Virgins
+Lamentation under the Cross, and at the Sepulchre, are inimitable. And
+thus much for Vida, on whom I've been more large because I've often made
+use of his Thoughts in this following Work; his Poem being the most
+complete on that Subject I've ever seen or expect to see. And here han't
+the English more reason to complain of Rapin, that he takes no notice of
+their Heroic Poems, than Lupez Viga of Tasso, for not mentioning the
+Spaniards at the Siege of Jerusalem: but since he has been so partial, as
+not to take any notice of our Writers, who sure as much deserve it as
+their Dubartas and Ronsard; we may have liberty to speak of our own, and
+to do 'em Justice: To begin with Spencer, who I think comes the nearest
+Ariosto of any other; he's almost as Irregular, but much more Natural and
+Lovely: But he's not only Irregular but Imperfect too, I mean, as to what
+he intended; and therefore we can't well imagine what it wou'd have been,
+had he liv'd to complete it. If Fable be the Essence of Epic, his Fairy
+Queen had certainly enough of that to give it that Name. He seems, by the
+account he gives of it to Sir Walter Rawleigh, to have design'd one
+Principal Hero King Arthur, and one main important Action bringing him to
+his Throne; but neither of these appear sufficiently distinct, or well
+defin'd, being both lost in the vast Seas of Matter which compose those
+Books which are finish'd. This however must be granted, the Design was
+Noble, and required such a comprehensive Genius as his, but to draw the
+first Sketch of it: And as the Design, so the Thoughts are also very
+great, the Expressions flowing natural and easie, with such a prodigious
+Poetical Copia as never any other must expect to enjoy. Gondibert methinks
+wants Life; the Style is rather stiff than Heroic, and has more of Statius
+than Virgil; one may see every where a great deal of Art, and Pains, and
+Regularity, even to a fault; nor is a Genius wanting, but it's so
+unnatural, that an ingenious Person may find much more pleasure in reading
+a worse Poet. Besides, his Stanza's often cramp the Sence, and injure many
+a noble Thought and Passion. But Mr. Cowley's Davideis is the Medium
+between both; it has Gondibert's Majesty without his stiffness, and
+something of Spencer's Sweetness and Variety, without his Irregularity:
+Indeed all his Works are so admirable, that another Cowley might well be
+employ'd in giving them their just Elogy. His Hero is according to the
+ancient Model, truly Poetical, a mixture of some Faults and greater
+Virtues. He had the advantage of both Love and Honour for his Episodes,
+nay, and Friendship too, and that the noblest in History. He had all the
+sacred History before him, and liberty to chuse where he pleased, either
+by Narration or Prophecy; nor has he, as far as he has gone, neglected any
+advantage the Subject gave him. Its a great Loss to the World that he left
+the Work unfinish'd, since now he's dead, its always like to continue so.
+As for Milton's Paradise Lost its an Original, and indeed he seems rather
+above the common Rules of Epic than ignorant of them. Its I'm sure a very
+lovely Poem, by what ever Name it's call'd, and in it he has many Thoughts
+and Images, greater than perhaps any either in Virgil or Homer. The
+Foundation is true History, but the turn is Fable: The Action is very
+Important, but not uniform; for one can't tell which is the Principal in
+the Poem, the Wars of the Angels or the Fall of Man, nor which is the
+Chief Person Michael or Adam. Its true, the former comes in as an Episode
+to the latter, but it takes up too great a part thereof, because its
+link'd to it. His Discourse of Light is incomparable; and I think 'twas
+worth the while to be blind to be its Author. His Description of Adam and
+Eve, their Persons and Love, is almost too lively to bear reading: Not but
+that he has his inequalities and repetitions, the latter pretty often, as
+have, more or less, all other Poets but Virgil. For his antique Words I'm
+not like to blame him whoever does: And for his blank Verse, I'm of a
+different mind from most others, and think they rather excuse his
+uncorrectness than the contraries; for I find its easier to run into it,
+in that sort of Verse, than in Rhyming Works where the Thought is oftner
+turned; whereas here the Fancy flows on, without check or controul. As for
+his Paradise Regain'd, I nothing wonder that it has not near the Life of
+his former Poem, any more than the Odysses fell short of the Iliads.
+Milton, when he writ this, was grown Older, probably poorer: He had not
+that scope for Fable, was confin'd to a lower Walk, and draws out that in
+four Books which might have been well compriz'd in one: Notwithstanding
+all this, there are many strokes which appear truly his; as the Mustring
+of the Parthian Troops, the Description of Rome by the Devil to our
+Saviour, and several other places.
+
+And now I've done with all the rest, I may take liberty to say something
+of my own.
+
+For the Subject I dare stand by it, that 'tis fit for a better Heroic
+Poem than any ever was, or will be made; and that if a good Poem cou'd not
+be made on't, it must be either from the weakness of the Art itself, or
+for want of a good Artist. I don't say the Subject with all its
+Circumstances is the best for Epic, but considered in it self, or with a
+prudent choice out of the vast Field of Matter which it affords.
+
+The Action is Important, if ever any was, being no less than the
+Redemption of the World, which was not accomplish'd till after our
+Saviours Death and Resurrection. The Ascension I confess should be left
+out, according to the common Rules of Heroick Poetry, but I had not the
+same reason of omitting it, as others have for not coming to the End of
+their History, a little short of which they generally stop, because after
+the main Business is over, nothing great remains, or however not greater
+than has already past. And if any thing mean followed, the Reader wou'd
+leave off dissatisfied. But I've as great and remarkable an Action, as any
+in the whole story, yet upon my Hands, and which if I had omitted, I had
+lost many very moving Incidents that follow'd the Resurrection; and
+besides, Vida before me, has carry'd it yet further, to the actual Descent
+of the Holy Ghost on the Disciples, and the spreading the Christian Name
+all the World over; which I have done only in Prophecy.
+
+The Action is I think uniform, because all the Episodes are part of the
+main Action, the Redemption of the World; to which his Incarnation, and
+Divine Conception were absolutely necessary, and so were his Holy Life,
+Doctrine, Miracles, and especially his Sufferings and Agonies. My
+principal Hero was perfect, yet imitable, and that both in active and
+contemplative Life. He leaves his own Kingdom to save and conquer another,
+endures the greatest hardships, is reduc'd to the lowest ebb, nay is at
+last forc'd to suffer Death it self. Yet after all, he emerges from his
+Misfortunes, conquers all his Enemies, fixes Laws, establishes Religion,
+Peace, and his own Empire, and is advanced higher than any Conquerer ever
+was before him.
+
+The other Persons are Heroical enough, Angels, Kings, High Priests,
+Governours, Councellors, nay even the Apostles themselves were more than
+Kings, for they were thought and call'd Gods by the People. The Moral I
+find not make it, in a true Example, which others are forced to Form in
+Fable; "That we ought to do Good, to suffer evil, submit to the Divine
+Will; to venture or lose a Life for a Friend; to forgive our Enemies."
+
+Yet further I desire to recommend the whole of the Christian Religion; all
+the Articles of Faith; all that System of Divinity and Morality contain'd
+in the Gospel of the Blessed Jesus, to the Study and Practice of Persons
+of Ingenuity and Reason; to make his Divine Person, which is already
+infinitely Amiable, if possible, actually more Ador'd and Lov'd; and to
+Vindicate his Mission, his Satisfaction, and his Divinity, against all
+Jews, Turks, Infidels, and Heretics; which sure are the most proper Ends
+that can be propos'd in a Work of this Nature: Which may be agreeably and
+admirably done, if 'tis not the Poets fault; for here's all the marvellous
+that cou'd be wished for, already done to my Hand, and all sacredly True,
+Angels and Demons, and Miracles, with Voices from Heaven.
+
+Now the Subject being so fit for a good Heroic Poem, I shall have the less
+excuse, if this be a bad one. And here I must ingenuously confess, I had
+seen none of these Rules given by the Masters of Epic, when I laid the
+Scheme of this Poem, tho I wish I had, for I might probably then have done
+it better, or not at all. I knew not the hazard of the undertaking, but
+greedily embrac'd it, when first propos'd by some Friends, who were
+ignorant of what they put me upon. Being full of the Design wherein, the
+earnest desire I had to see it accomplish'd, and either a lucky Chance, or
+the Happiness of my Subject, may perhaps in some Instances, have supply'd
+the want both of Rules and Genius. All I will say of my own performance
+is, that I now know the Faults on't, tho I am not oblig'd to point 'em out
+to my Reader, who will but too soon find 'em. That I wou'd have mended
+much that's now amiss, had I lived in an Age where a man might afford to
+be Nine or Ten Years about a Poem. And in the Mean time this satisfies me,
+whatever is the success, that I've done all that cou'd be done by one in
+my Circumstances towards the rendering it more compleat and free from
+Faults, and only wish that my own Reputation may suffer, by the weakness
+of the Work, and not the Dignity of the Subject.
+
+I cou'd plead for my self what Longinus says on Works of this Nature,
+wou'd it not look like Arrogance, "That even the greatest Genius may
+sometimes sink into meanness, when the force of their Spirits is once
+exhausted: That its very difficult for height of Thought to sustain it
+self long in an equal Tenour; and that some Faults ought to be excused
+when there are more Beauties." But if none of these will pass, I hope it
+will not much mortifie me, since I think the World and I have no great
+matter to do with one another. I'm sensible my Poem wou'd have had fewer
+Enemies, had I left out some Passages in't. But as mean as the worst of
+this are, I wou'd not buy their good Word at such a rate. I had almost
+forgot to mention the Gravers Work, which is not without Faults,
+particularly he has err'd in the Posture of the Disciples at the last
+Supper, whom he has made Sitting, when they were really Declining, or
+Discumbent. But its now more than time to conclude my long Preface, which
+I shall do in few Words. Since the chief Design in this Work, is to
+advance the Honour of my Hero, and next to that, the entertainment of
+Pious and ingenious Minds; for the truth of which, I hope I may appeal to
+the great [Greek: kritikos tês kardias]; I shall not be much concern'd for
+the success it may meet with in the World.
+
+
+
+
+End of the Project Gutenberg EBook of Epistle to a Friend Concerning Poetry
+(1700) and the Essay on Heroic Poetry (second edition, 1697), by Samuel Wesley
+
+*** END OF THIS PROJECT GUTENBERG EBOOK EPISTLE TO A FRIEND ***
+
+***** This file should be named 16506-8.txt or 16506-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/6/5/0/16506/
+
+Produced by Charles M. Bidwell
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+*** END: FULL LICENSE ***

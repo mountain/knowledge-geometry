@@ -1987,6 +1987,15 @@ Acland, John Edward
 as Author
 24984
 
+1540
+1600
+ok
+Spanish
+a45903
+Acosta, José de
+as Author
+50430
+
 1834
 1902
 ok
@@ -3597,6 +3606,33 @@ a46103
 Adney, Tappan
 as Author
 50828
+
+1569
+1636
+ok
+English
+a39817
+Aduarte, Diego
+as Author
+39054
+
+1569
+1636
+ok
+English
+a39817
+Aduarte, Diego
+as Author
+42399
+
+1569
+1636
+ok
+English
+a39817
+Aduarte, Diego
+as Author
+42458
 
 1819
 1900
@@ -6991,6 +7027,33 @@ Alec-Tweedie, Mrs. (Ethel)
 as Author
 27743
 
+1547
+1597
+guess
+English
+a31731
+Alemán, Mateo
+as Author
+52806
+
+1547
+1597
+guess
+English
+a31731
+Alemán, Mateo
+as Author
+52938
+
+1547
+1597
+guess
+English
+a31731
+Alemán, Mateo
+as Author
+53081
+
 1829
 1877
 ok
@@ -10258,6 +10321,15 @@ Almeida, José Valentim Fialho de
 as Author
 22622
 
+1580
+1646
+ok
+Portuguese
+a33489
+Almeida, Manuel de
+as Author
+28692
+
 1839
 1889
 guess
@@ -11302,6 +11374,15 @@ Amundsen, Roald
 as Author
 3415
 
+1513
+1593
+ok
+French
+a48431
+Amyot, Jacques
+as Translator
+55639
+
 1873
 1923
 guess
@@ -11319,6 +11400,15 @@ a48431
 Anastasopoulos, Demetrios
 as Translator
 40061
+
+1534
+1597
+ok
+Portuguese
+a2453
+Anchieta, José de
+as Author
+7384
 
 1659
 1715
@@ -15001,6 +15091,15 @@ Arndt, Ernst Moritz
 as Author
 6641
 
+1555
+1621
+ok
+English
+a37195
+Arndt, Johann
+as Author
+34736
+
 1883
 1952
 ok
@@ -15990,6 +16089,15 @@ a34177
 Asbjørnsen, Peter Christen
 as Author
 36385
+
+1515
+1568
+ok
+English
+a723
+Ascham, Roger
+as Author
+1844
 
 1883
 1933
@@ -19537,6 +19645,15 @@ Bacon, Alice Mabel
 as Author
 32449
 
+1528
+1610
+ok
+English
+a7539
+Bacon, Ann, Lady
+as Translator
+17678
+
 1860
 1932
 ok
@@ -19590,6 +19707,123 @@ a5195
 Bacon, Edwin M. (Edwin Monroe)
 as Author
 13718
+
+1561
+1626
+ok
+English
+a296
+Bacon, Francis
+as Author
+5500
+
+1561
+1626
+ok
+English
+a296
+Bacon, Francis
+as Contributor
+9847
+
+1561
+1626
+ok
+English
+a296
+Bacon, Francis
+as Author
+56463
+
+1561
+1626
+ok
+English
+a296
+Bacon, Francis
+as Author
+575
+
+1561
+1626
+ok
+Finnish
+a296
+Bacon, Francis
+as Author
+26179
+
+1561
+1626
+ok
+English
+a296
+Bacon, Francis
+as Contributor
+57837
+
+1561
+1626
+ok
+English
+a296
+Bacon, Francis
+as Contributor
+18638
+
+1561
+1626
+ok
+English
+a296
+Bacon, Francis
+as Author
+59163
+
+1561
+1626
+ok
+English
+a296
+Bacon, Francis
+as Author
+2434
+
+1561
+1626
+ok
+English
+a296
+Bacon, Francis
+as Author
+45988
+
+1561
+1626
+ok
+English
+a296
+Bacon, Francis
+as Author
+46964
+
+1561
+1626
+ok
+English
+a296
+Bacon, Francis
+as Contributor
+13182
+
+1561
+1626
+ok
+English
+a296
+Bacon, Francis
+as Author
+3290
 
 1864
 1922
@@ -19959,6 +20193,15 @@ a413
 Badger, Jos. E. (Joseph Edward)
 as Author
 783
+
+1806
+1857
+ok
+English
+a50180
+Badham, David
+as Author
+58853
 
 1879
 1965
@@ -22020,6 +22263,24 @@ a6106
 Balagtas, Francisco
 as Author
 15531
+
+1554
+1594
+ok
+Hungarian
+a46217
+Balassa, Bálint, báró
+as Contributor
+42325
+
+1554
+1594
+ok
+Hungarian
+a46217
+Balassa, Bálint, báró
+as Contributor
+42326
 
 1830
 1887
@@ -26899,6 +27160,15 @@ Barclay, Vera C. (Vera Charlesworth)
 as Author
 26130
 
+1535
+1585
+guess
+Spanish
+a48879
+Barco Centenera, Martín del
+as Author
+25317
+
 1894
 1964
 ok
@@ -28131,6 +28401,15 @@ a35429
 Barney, Maginel Wright
 as Illustrator
 38412
+
+1574
+1627
+ok
+English
+a8950
+Barnfield, Richard
+as Author
+19902
 
 1878
 1901
@@ -31641,6 +31920,15 @@ a48590
 Bates, Oric
 as Author
 55950
+
+1560
+1613
+ok
+English
+a41086
+Battell, Andrew
+as Author
+41282
 
 1860
 1932
@@ -35349,6 +35637,15 @@ a9554
 Beckwith, Martha Warren
 as Translator
 13603
+
+1512
+1567
+ok
+English
+a36490
+Becon, Thomas
+as Translator
+22151
 
 1831
 1887
@@ -44116,6 +44413,33 @@ Bernstorff, Johann Heinrich, Graf von
 as Author
 30865
 
+1556
+1626
+ok
+French
+a49668
+Béroalde de Verville
+as Author
+57878
+
+1556
+1626
+ok
+French
+a49668
+Béroalde de Verville
+as Author
+57879
+
+1556
+1626
+ok
+French
+a49668
+Béroalde de Verville
+as Author
+57880
+
 1747
 1791
 ok
@@ -45879,6 +46203,15 @@ a39776
 Beza, Marcu
 as Contributor
 38991
+
+1519
+1605
+ok
+Latin
+a25291
+Bèze, Théodore de
+as Author
+22368
 
 1848
 1934
@@ -49939,6 +50272,15 @@ Blades, William
 as Author
 40841
 
+1571
+1638
+ok
+English
+a31712
+Blaeu, Willem
+as Illustrator
+25979
+
 1778
 1819
 ok
@@ -52873,6 +53215,15 @@ Bode, Wilhelm
 as Author
 18733
 
+1530
+1596
+ok
+Latin
+a7655
+Bodin, Jean
+as Author
+17859
+
 1809
 1893
 ok
@@ -53142,6 +53493,15 @@ a41079
 Böhm, Anton Wilhelm
 as Translator
 34736
+
+1575
+1624
+ok
+English
+a36640
+Böhme, Jakob
+as Author
+33742
 
 1796
 1884
@@ -59290,6 +59650,15 @@ Boys, C. V. (Charles Vernon)
 as Author
 33370
 
+1571
+1625
+ok
+English
+a7265
+Boys, John
+as Author
+17273
+
 1912
 1962
 guess
@@ -63897,6 +64266,15 @@ a49559
 Bretón de los Herreros, Manuel
 as Author
 53671
+
+1544
+1594
+guess
+English
+a49559
+Breton, Nicholas
+as Author
+22001
 
 1877
 1927
@@ -70675,6 +71053,24 @@ Bruno, G.
 as Author
 27782
 
+1548
+1600
+ok
+English
+a8901
+Bruno, Giordano
+as Author
+19817
+
+1548
+1600
+ok
+English
+a8901
+Bruno, Giordano
+as Author
+19833
+
 1884
 1942
 ok
@@ -73014,6 +73410,15 @@ a45095
 Bullinger, E. W. (Ethelbert William)
 as Author
 49018
+
+1504
+1575
+ok
+English
+a25144
+Bullinger, Heinrich
+as Author
+22151
 
 1817
 1902
@@ -78244,6 +78649,15 @@ Burton, Richard Francis, Sir
 as Author
 48511
 
+1577
+1640
+ok
+English
+a3686
+Burton, Robert
+as Author
+10800
+
 1775
 1861
 ok
@@ -78351,6 +78765,33 @@ a1506
 Bury, J. B. (John Bagnell)
 as Author
 4557
+
+1522
+1592
+ok
+English
+a47467
+Busbecq, Ogier Ghislain de
+as Author
+53629
+
+1522
+1592
+ok
+English
+a47467
+Busbecq, Ogier Ghislain de
+as Author
+53630
+
+1522
+1592
+ok
+English
+a47467
+Busbecq, Ogier Ghislain de
+as Author
+53681
 
 1821
 1899
@@ -81178,6 +81619,51 @@ Caithness, James Sinclair, 14th earl of
 as Author
 15468
 
+1510
+1573
+ok
+English
+a32107
+Caius, John
+as Author
+27050
+
+1510
+1573
+ok
+Latin
+a32107
+Caius, John
+as Author
+27050
+
+1510
+1573
+ok
+Latin
+a32107
+Caius, John
+as Author
+26570
+
+1510
+1573
+ok
+Latin
+a32107
+Caius, John
+as Author
+27655
+
+1510
+1573
+ok
+English
+a32107
+Caius, John
+as Author
+33503
+
 1846
 1913
 ok
@@ -82582,6 +83068,51 @@ Calvert, George Henry
 as Author
 12896
 
+1509
+1564
+ok
+English
+a6425
+Calvin, Jean
+as Author
+45001
+
+1509
+1564
+ok
+English
+a6425
+Calvin, Jean
+as Author
+45423
+
+1509
+1564
+ok
+English
+a6425
+Calvin, Jean
+as Author
+45463
+
+1509
+1564
+ok
+English
+a6425
+Calvin, Jean
+as Contributor
+13182
+
+1509
+1564
+ok
+English
+a6425
+Calvin, Jean
+as Author
+32136
+
 1862
 1934
 ok
@@ -82842,6 +83373,33 @@ a24855
 Cammerer, Adelbert
 as Author
 21680
+
+1568
+1639
+ok
+English
+a1040
+Campanella, Tommaso
+as Author
+2816
+
+1568
+1639
+ok
+English
+a1040
+Campanella, Tommaso
+as Contributor
+18638
+
+1568
+1639
+ok
+English
+a1040
+Campanella, Tommaso
+as Author
+10314
 
 1752
 1822
@@ -83310,6 +83868,15 @@ a7149
 Campion, C. T. (Charles Thomas)
 as Translator
 50015
+
+1540
+1581
+ok
+English
+a4855
+Campion, Edmund, Saint
+as Author
+13133
 
 1847
 1885
@@ -84714,6 +85281,15 @@ a43982
 Carducci, Giosuè
 as Author
 56711
+
+1555
+1620
+ok
+English
+a3184
+Carew, Richard
+as Author
+9878
 
 1864
 1935
@@ -89980,6 +90556,15 @@ Catlin, George
 as Author
 44777
 
+1577
+1660
+ok
+Dutch
+a32181
+Cats, Jacob
+as Author
+26696
+
 1859
 1947
 ok
@@ -90537,6 +91122,564 @@ a43113
 Ceruti, Antonio
 as Editor
 45126
+
+1547
+1616
+ok
+Finnish
+a505
+Cervantes Saavedra, Miguel de
+as Author
+45203
+
+1547
+1616
+ok
+Dutch
+a505
+Cervantes Saavedra, Miguel de
+as Author
+28469
+
+1547
+1616
+ok
+Spanish
+a505
+Cervantes Saavedra, Miguel de
+as Author
+2000
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+996
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+55106
+
+1547
+1616
+ok
+Spanish
+a505
+Cervantes Saavedra, Miguel de
+as Author
+57955
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+14420
+
+1547
+1616
+ok
+German
+a505
+Cervantes Saavedra, Miguel de
+as Author
+35181
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+35993
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5921
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5903
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5904
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5905
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5906
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5907
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5908
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5909
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5910
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5911
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5912
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5913
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5914
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5915
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5916
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5917
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5918
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5919
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5920
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5946
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5922
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5923
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5924
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5925
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5926
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5927
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5928
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5929
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5930
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5931
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5932
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5933
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5934
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5935
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5936
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5937
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5938
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5939
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5940
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5941
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5942
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5943
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5944
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+5945
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+58328
+
+1547
+1616
+ok
+French
+a505
+Cervantes Saavedra, Miguel de
+as Author
+42524
+
+1547
+1616
+ok
+French
+a505
+Cervantes Saavedra, Miguel de
+as Author
+16066
+
+1547
+1616
+ok
+French
+a505
+Cervantes Saavedra, Miguel de
+as Author
+16067
+
+1547
+1616
+ok
+Spanish
+a505
+Cervantes Saavedra, Miguel de
+as Author
+15115
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+53041
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+29468
+
+1547
+1616
+ok
+Spanish
+a505
+Cervantes Saavedra, Miguel de
+as Author
+16110
+
+1547
+1616
+ok
+English
+a505
+Cervantes Saavedra, Miguel de
+as Author
+24754
 
 1885
 1948
@@ -93490,6 +94633,51 @@ Champfleury
 as Author
 34382
 
+1574
+1635
+ok
+English
+a2130
+Champlain, Samuel de
+as Author
+36242
+
+1574
+1635
+ok
+French
+a2130
+Champlain, Samuel de
+as Author
+17258
+
+1574
+1635
+ok
+English
+a2130
+Champlain, Samuel de
+as Author
+6653
+
+1574
+1635
+ok
+English
+a2130
+Champlain, Samuel de
+as Author
+6749
+
+1574
+1635
+ok
+English
+a2130
+Champlain, Samuel de
+as Author
+6825
+
 1832
 1905
 ok
@@ -93732,6 +94920,15 @@ a42893
 Channing, William Ellery
 as Author
 44736
+
+1572
+1641
+ok
+English
+a45989
+Chantal, Jeanne-Françoise de, Saint
+as Author
+50592
 
 1821
 1888
@@ -95767,6 +96964,15 @@ Chénier, André
 as Author
 17899
 
+1558
+1639
+ok
+Chinese
+a31181
+Chen, Jiru
+as Commentator
+25246
+
 1893
 1943
 guess
@@ -96865,6 +98071,15 @@ Cheyney, Edward Potts
 as Author
 21660
 
+1552
+1638
+ok
+Italian
+a5875
+Chiabrera, Gabriello
+as Author
+15136
+
 1854
 1904
 guess
@@ -97197,6 +98412,15 @@ a42140
 Childs, Thomas S. (Thomas Spencer)
 as Author
 43328
+
+1579
+1660
+ok
+Nahuatl
+a24900
+Chimalpahin Cuauhtlehuanitzin, Domingo Francisco de San Antón Muñón
+as Author
+21802
 
 1881
 1972
@@ -99258,6 +100482,51 @@ a48034
 Cielo, Astra
 as Author
 54774
+
+1518
+1554
+ok
+Spanish
+a31190
+Cieza de León, Pedro de
+as Author
+25255
+
+1518
+1554
+ok
+English
+a31190
+Cieza de León, Pedro de
+as Author
+48770
+
+1518
+1554
+ok
+English
+a31190
+Cieza de León, Pedro de
+as Author
+48785
+
+1518
+1554
+ok
+English
+a31190
+Cieza de León, Pedro de
+as Author
+56486
+
+1518
+1554
+ok
+English
+a31190
+Cieza de León, Pedro de
+as Author
+49095
 
 1835
 1920
@@ -107584,6 +108853,15 @@ Conscience, Hendrik
 as Author
 20536
 
+1562
+1613
+ok
+English
+a8290
+Constable, Henry
+as Author
+18842
+
 1812
 1881
 ok
@@ -111103,6 +112381,15 @@ Cornwell, Dean
 as Illustrator
 51987
 
+1510
+1554
+ok
+English
+a45710
+Coronado, Francisco Vásquez de
+as Contributor
+50448
+
 1868
 1931
 ok
@@ -111138,6 +112425,24 @@ a49293
 Correvon, Henry
 as Author of introduction
 57753
+
+1510
+1568
+ok
+English
+a33813
+Corrozet, Gilles
+as Author
+21790
+
+1510
+1568
+ok
+French
+a33813
+Corrozet, Gilles
+as Editor
+29279
 
 1882
 1954
@@ -120724,6 +122029,15 @@ Dalling and Bulwer, Henry Lytton Bulwer, Baron
 as Author
 53285
 
+1561
+1637
+ok
+English
+a8043
+Dallington, Robert
+as Translator
+18459
+
 1862
 1952
 ok
@@ -121488,6 +122802,15 @@ a3397
 Daniels, Addie Worth Bagley
 as Author
 10231
+
+1562
+1619
+ok
+English
+a8289
+Daniel, Samuel
+as Author
+18842
 
 1884
 1934
@@ -123882,6 +125205,24 @@ a38367
 Davies, Godfrey
 as Author of introduction
 15074
+
+1569
+1626
+ok
+English
+a43016
+Davies, John, Sir
+as Author
+44977
+
+1569
+1626
+ok
+English
+a43016
+Davies, John, Sir
+as Author
+44978
 
 1859
 1932
@@ -126529,6 +127870,24 @@ Dedekind, Richard
 as Author
 21016
 
+1527
+1608
+ok
+English
+a8745
+Dee, John
+as Author
+22062
+
+1527
+1608
+ok
+English
+a8745
+Dee, John
+as Author
+19553
+
 1877
 1950
 ok
@@ -127788,6 +129147,15 @@ a48790
 De Lisser, Herbert George
 as Author
 56335
+
+1503
+1556
+ok
+English
+a44561
+Della Casa, Giovanni
+as Author
+47993
 
 1887
 1937
@@ -130074,6 +131442,15 @@ a45415
 Desprez, Ernest
 as Author
 49575
+
+1542
+1587
+ok
+French
+a36318
+Des Roches, Catherine Fredonnoit, dame
+as Author
+46991
 
 1680
 1754
@@ -136114,6 +137491,15 @@ Dole, Nathan Haskell
 as Translator
 38616
 
+1509
+1546
+ok
+French
+a8701
+Dolet, Etienne
+as Author
+19483
+
 1886
 1944
 ok
@@ -136203,6 +137589,15 @@ a3961
 Domela Nieuwenhuis, Ferdinand
 as Author
 11380
+
+1515
+1564
+ok
+French
+a31295
+Domenichi, Lodovico
+as Author
+25382
 
 1880
 1935
@@ -136356,6 +137751,42 @@ a48000
 Donnan, F. G. (Frederick George)
 as Translator
 54694
+
+1572
+1631
+ok
+English
+a8886
+Donne, John
+as Author
+23772
+
+1572
+1631
+ok
+English
+a8886
+Donne, John
+as Author
+37387
+
+1572
+1631
+ok
+English
+a8886
+Donne, John
+as Author
+48688
+
+1572
+1631
+ok
+English
+a8886
+Donne, John
+as Author
+48772
 
 1862
 1943
@@ -139066,6 +140497,15 @@ Dow, George Francis
 as Author
 43970
 
+1563
+1626
+ok
+English
+a7367
+Dowland, John
+as Author
+17422
+
 1881
 1968
 ok
@@ -140856,6 +142296,33 @@ a3514
 Drayton, Daniel
 as Author
 10401
+
+1563
+1631
+ok
+English
+a6061
+Drayton, Michael
+as Author
+27770
+
+1563
+1631
+ok
+English
+a6061
+Drayton, Michael
+as Author
+15448
+
+1563
+1631
+ok
+English
+a6061
+Drayton, Michael
+as Author
+17873
 
 1871
 1945
@@ -160288,6 +161755,51 @@ Fénelon, François de Salignac de La Mothe-
 as Author
 13914
 
+1574
+1646
+ok
+Chinese
+a26272
+Feng, Menglong
+as Author
+27582
+
+1574
+1646
+ok
+Chinese
+a26272
+Feng, Menglong
+as Author
+57227
+
+1574
+1646
+ok
+Chinese
+a26272
+Feng, Menglong
+as Author
+25349
+
+1574
+1646
+ok
+Chinese
+a26272
+Feng, Menglong
+as Author
+24141
+
+1574
+1646
+ok
+Chinese
+a26272
+Feng, Menglong
+as Author
+24239
+
 1807
 1885
 ok
@@ -161619,6 +163131,15 @@ a193
 Ferber, Edna
 as Author
 6016
+
+1549
+1609
+ok
+Italian
+a8815
+Ferdinando I, Grand-Duke of Tuscany
+as Author
+19688
 
 1873
 1933
@@ -168028,6 +169549,231 @@ Fletcher, Horace
 as Author
 44997
 
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+50031
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+45780
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+45781
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+47156
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+35303
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+47240
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+50096
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+12039
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+12040
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+39249
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+12221
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+12098
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+12222
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+14771
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+12312
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+14548
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+25398
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+35000
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+10847
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+10850
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+14549
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+12110
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+12141
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+13425
+
+1579
+1625
+ok
+English
+a4606
+Fletcher, John
+as Author
+10620
+
 1791
 1862
 ok
@@ -172753,6 +174499,15 @@ Fox, Edward Lyell
 as Collaborator
 6948
 
+1516
+1587
+ok
+English
+a25311
+Foxe, John
+as Author
+22400
+
 1884
 1964
 ok
@@ -173697,6 +175452,33 @@ a43286
 Francillon, R. E. (Robert Edward)
 as Author
 45416
+
+1567
+1622
+ok
+French
+a40914
+Francis, de Sales, Saint
+as Author
+53540
+
+1567
+1622
+ok
+English
+a40914
+Francis, de Sales, Saint
+as Author
+48887
+
+1567
+1622
+ok
+English
+a40914
+Francis, de Sales, Saint
+as Contributor
+9184
 
 1862
 1912
@@ -180394,6 +182176,24 @@ Gale, Zona
 as Author
 13731
 
+1564
+1642
+ok
+English
+a39014
+Galilei, Galileo
+as Author
+37729
+
+1564
+1642
+ok
+English
+a39014
+Galilei, Galileo
+as Author
+46036
+
 1860
 1931
 ok
@@ -183426,6 +185226,15 @@ a39306
 Garnier, M. (Germain)
 as Author
 38194
+
+1544
+1590
+ok
+English
+a24891
+Garnier, Robert
+as Author
+21789
 
 1872
 1923
@@ -188953,6 +190762,15 @@ Gilbert, Rosa M. (Rosa Mulholland)
 as Author
 20492
 
+1544
+1603
+ok
+English
+a36635
+Gilbert, William
+as Adapter
+33810
+
 1836
 1911
 ok
@@ -191959,6 +193777,15 @@ Godman, John D. (John Davidson)
 as Author
 36304
 
+1562
+1633
+ok
+English
+a43868
+Godwin, Francis
+as Author
+46591
+
 1816
 1904
 ok
@@ -194460,6 +196287,24 @@ a38022
 Gonzaga, Tomás António
 as Author
 18082
+
+1545
+1618
+ok
+English
+a39785
+González de Mendoza, Juan
+as Author
+39009
+
+1545
+1618
+ok
+English
+a39785
+González de Mendoza, Juan
+as Author
+42551
 
 1820
 1891
@@ -204802,6 +206647,15 @@ Guardini, Romano
 as Editor
 15813
 
+1538
+1612
+ok
+Napoletano-Calabrese
+a7630
+Guarini, Giovanni Battista
+as Author
+17835
+
 1862
 1942
 ok
@@ -207447,6 +209301,15 @@ a1427
 Habberton, John
 as Author
 55080
+
+1516
+1590
+ok
+English
+a37378
+Habermann, Johann
+as Author
+34994
 
 1821
 1871
@@ -210588,6 +212451,15 @@ a6638
 Hall, J. Lesslie (John Lesslie)
 as Translator
 16328
+
+1574
+1656
+ok
+English
+a38019
+Hall, Joseph
+as Contributor
+18638
 
 1854
 1904
@@ -216340,6 +218212,15 @@ Harrington, James
 as Author
 2801
 
+1560
+1621
+ok
+English
+a1414
+Harriot, Thomas
+as Author
+4247
+
 1867
 1958
 ok
@@ -217176,6 +219057,42 @@ a32228
 Harrison, S. Frances (Susie Frances)
 as Author
 26768
+
+1534
+1593
+ok
+English
+a35928
+Harrison, William
+as Contributor
+13674
+
+1534
+1593
+ok
+English
+a35928
+Harrison, William
+as Author
+42506
+
+1534
+1593
+ok
+English
+a35928
+Harrison, William
+as Author
+32593
+
+1534
+1593
+ok
+English
+a35928
+Harrison, William
+as Author
+44700
 
 1833
 1906
@@ -227122,6 +229039,15 @@ Hentz, Caroline Lee
 as Author
 43019
 
+1558
+1623
+ok
+English
+a5944
+Hentzner, Paul
+as Author
+1992
+
 1846
 1923
 ok
@@ -228058,6 +229984,15 @@ Hermitte, Enrique Martín
 as Author
 20159
 
+1517
+1587
+ok
+English
+a40300
+Hernández, Francisco
+as Author
+39914
+
 1834
 1886
 ok
@@ -228129,6 +230064,24 @@ a49581
 Hernhuter, Albert
 as Author
 28647
+
+1551
+1628
+ok
+French
+a43041
+Héroard, Jean
+as Author
+45031
+
+1551
+1628
+ok
+French
+a43041
+Héroard, Jean
+as Author
+45655
 
 1861
 1943
@@ -229785,6 +231738,15 @@ a38295
 Hickcox, John H.
 as Editor
 36471
+
+1566
+1631
+ok
+English
+a43499
+Hickes, Francis
+as Translator
+45858
 
 1845
 1924
@@ -234466,6 +236428,15 @@ Holiday, Henry
 as Illustrator
 33582
 
+1517
+1584
+ok
+English
+a37760
+Hollanda, Francisco de
+as Contributor
+19332
+
 1866
 1959
 ok
@@ -234600,6 +236571,15 @@ a36895
 Holland, Norah M. (Norah Mary)
 as Author
 34235
+
+1552
+1637
+ok
+English
+a49436
+Holland, Philemon
+as Translator
+57513
 
 1878
 1952
@@ -239208,6 +241188,15 @@ a45915
 Hotchkiss, Willard E. (Willard Eugene)
 as Author
 29674
+
+1524
+1590
+ok
+English
+a7673
+Hotman, François
+as Author
+17894
 
 1832
 1873
@@ -253708,6 +255697,24 @@ Jagor, Fedor
 as Author
 44405
 
+1569
+1627
+ok
+English
+a47485
+Jahangir, Emperor of Hindustan
+as Author
+53674
+
+1569
+1627
+ok
+English
+a47485
+Jahangir, Emperor of Hindustan
+as Author
+53716
+
 1813
 1869
 ok
@@ -254913,6 +256920,42 @@ a25656
 James, H. R. (Henry Rosher)
 as Translator
 14328
+
+1566
+1625
+ok
+English
+a7089
+James I, King of England
+as Author
+17008
+
+1566
+1625
+ok
+English
+a7089
+James I, King of England
+as Author
+25929
+
+1566
+1625
+ok
+English
+a7089
+James I, King of England
+as Author
+47413
+
+1566
+1625
+ok
+English
+a7089
+James I, King of England
+as Author
+45773
 
 1864
 1962
@@ -258387,6 +260430,15 @@ a36268
 Jevons, William Stanley
 as Author
 33219
+
+1522
+1571
+ok
+English
+a7535
+Jewel, John
+as Author
+17678
 
 1816
 1868
@@ -269116,6 +271168,15 @@ Kephart, Horace
 as Author
 31709
 
+1571
+1630
+ok
+English
+a43585
+Kepler, Johannes
+as Author
+46036
+
 1875
 1943
 ok
@@ -271949,7 +274010,7 @@ English
 a344
 Kingsley, Charles
 as Author
-1018
+36309
 
 1819
 1875
@@ -271958,7 +274019,7 @@ English
 a344
 Kingsley, Charles
 as Author
-36309
+1018
 
 1819
 1875
@@ -273911,7 +275972,7 @@ English
 a132
 Kipling, Rudyard
 as Author
-2186
+2225
 
 1865
 1936
@@ -273920,7 +275981,7 @@ English
 a132
 Kipling, Rudyard
 as Author
-2225
+2186
 
 1865
 1936
@@ -274037,7 +276098,7 @@ English
 a132
 Kipling, Rudyard
 as Author
-236
+35997
 
 1865
 1936
@@ -274046,7 +276107,7 @@ English
 a132
 Kipling, Rudyard
 as Author
-35997
+236
 
 1865
 1936
@@ -274091,7 +276152,7 @@ English
 a132
 Kipling, Rudyard
 as Author
-2226
+35555
 
 1865
 1936
@@ -274100,7 +276161,7 @@ English
 a132
 Kipling, Rudyard
 as Author
-35555
+2226
 
 1865
 1936
@@ -274235,15 +276296,6 @@ English
 a132
 Kipling, Rudyard
 as Author
-15976
-
-1865
-1936
-ok
-English
-a132
-Kipling, Rudyard
-as Author
 557
 
 1865
@@ -274262,7 +276314,7 @@ English
 a132
 Kipling, Rudyard
 as Author
-556
+15976
 
 1865
 1936
@@ -274280,6 +276332,15 @@ English
 a132
 Kipling, Rudyard
 as Author
+556
+
+1865
+1936
+ok
+English
+a132
+Kipling, Rudyard
+as Author
 17689
 
 1865
@@ -274289,7 +276350,7 @@ English
 a132
 Kipling, Rudyard
 as Author
-1937
+37364
 
 1865
 1936
@@ -274298,7 +276359,7 @@ English
 a132
 Kipling, Rudyard
 as Author
-37364
+1937
 
 1865
 1936
@@ -274686,6 +276747,15 @@ a6153
 Kirkland, Caroline M. (Caroline Matilda)
 as Contributor
 10947
+
+1830
+1894
+ok
+English
+a37888
+Kirkland, Joseph
+as Author
+59624
 
 1830
 1894
@@ -277134,6 +279204,24 @@ a41508
 Kóbor, Tamás
 as Author
 42071
+
+1530
+1584
+ok
+English
+a32515
+Kochanowski, Jan
+as Author
+27179
+
+1530
+1584
+ok
+Polish
+a32515
+Kochanowski, Jan
+as Author
+27208
 
 1800
 1877
@@ -279817,6 +281905,15 @@ Krotel, Gottlob Frederick
 as Translator
 39734
 
+1518
+1568
+guess
+English
+a40192
+Kṛṣṇadāsa Kavirāja Gosvāmi
+as Author
+38016
+
 1764
 1824
 ok
@@ -280473,6 +282570,24 @@ a45512
 Kweskin, Sam
 as Illustrator
 49767
+
+1558
+1594
+ok
+English
+a1919
+Kyd, Thomas
+as Author
+6043
+
+1558
+1594
+ok
+English
+a1919
+Kyd, Thomas
+as Author
+35330
 
 1871
 1921
@@ -287710,6 +289825,15 @@ Lavater, Johann Caspar
 as Author
 57030
 
+1527
+1586
+ok
+English
+a46205
+Lavater, Ludwig
+as Author
+51038
+
 1860
 1910
 guess
@@ -290166,6 +292290,15 @@ a6257
 Lee, Gerald Stanley
 as Author
 20361
+
+1575
+1650
+ok
+Dutch
+a34275
+Leeghwater, Jan Adriaansz
+as Author
+29967
 
 1780
 1865
@@ -294469,6 +296602,15 @@ Leonard, Nellie M. (Nellie Mabel)
 as Author
 7767
 
+1562
+1631
+ok
+English
+a42213
+Leonardo de Argensola, Bartolomé
+as Author
+43451
+
 1888
 1931
 ok
@@ -295962,6 +298104,60 @@ a5978
 Lescallier, Daniel, baron
 as Author
 15286
+
+1570
+1641
+ok
+French
+a25225
+Lescarbot, Marc
+as Author
+20441
+
+1570
+1641
+ok
+French
+a25225
+Lescarbot, Marc
+as Author
+21221
+
+1570
+1641
+ok
+French
+a25225
+Lescarbot, Marc
+as Author
+20457
+
+1570
+1641
+ok
+French
+a25225
+Lescarbot, Marc
+as Author
+21199
+
+1570
+1641
+ok
+French
+a25225
+Lescarbot, Marc
+as Author
+22268
+
+1570
+1641
+ok
+French
+a25225
+Lescarbot, Marc
+as Author
+21257
 
 1831
 1895
@@ -300706,6 +302902,33 @@ Lingley, Charles Ramsdell
 as Author
 9868
 
+1580
+1644
+ok
+Chinese
+a26284
+Ling, Mengchu
+as Author
+24162
+
+1580
+1644
+ok
+Chinese
+a26284
+Ling, Mengchu
+as Author
+26729
+
+1580
+1644
+ok
+Chinese
+a26284
+Ling, Mengchu
+as Author
+57248
+
 1736
 1794
 ok
@@ -301920,6 +304143,15 @@ a39795
 Lobingier, Elizabeth Miller
 as Author
 39022
+
+1580
+1622
+ok
+Portuguese
+a39036
+Lobo, Francisco Rodrigues
+as Author
+37757
 
 1858
 1908
@@ -304990,6 +307222,15 @@ Lopes Vieira, Afonso
 as Commentator
 24129
 
+1511
+1564
+ok
+English
+a43830
+López de Gómara, Francisco
+as Author
+46524
+
 1875
 1958
 ok
@@ -307951,6 +310192,15 @@ Luks, George Benjamin
 as Illustrator
 51981
 
+1536
+1618
+ok
+Chinese
+a31422
+Lü, Kun
+as Author
+25558
+
 1831
 1895
 ok
@@ -308328,6 +310578,15 @@ a32368
 Luxemburg, Rosa
 as Author
 31614
+
+1520
+1606
+ok
+Chinese
+a26123
+Lu, Xixing
+as Author
+23910
 
 1871
 1947
@@ -320533,6 +322792,78 @@ Margoliouth, G. (George)
 as Author of introduction
 2800
 
+1553
+1615
+ok
+English
+a1328
+Marguerite, Queen, consort of Henry IV, King of France
+as Author
+59325
+
+1553
+1615
+ok
+English
+a1328
+Marguerite, Queen, consort of Henry IV, King of France
+as Author
+12967
+
+1553
+1615
+ok
+English
+a1328
+Marguerite, Queen, consort of Henry IV, King of France
+as Author
+3841
+
+1553
+1615
+ok
+English
+a1328
+Marguerite, Queen, consort of Henry IV, King of France
+as Author
+3838
+
+1553
+1615
+ok
+English
+a1328
+Marguerite, Queen, consort of Henry IV, King of France
+as Author
+3839
+
+1553
+1615
+ok
+English
+a1328
+Marguerite, Queen, consort of Henry IV, King of France
+as Author
+3840
+
+1553
+1615
+ok
+English
+a1328
+Marguerite, Queen, consort of Henry IV, King of France
+as Author
+7566
+
+1553
+1615
+ok
+French
+a1328
+Marguerite, Queen, consort of Henry IV, King of France
+as Author
+26351
+
 1860
 1918
 ok
@@ -321306,6 +323637,132 @@ a28338
 Marlitt, E. (Eugenie)
 as Author
 56769
+
+1564
+1593
+ok
+English
+a410
+Marlowe, Christopher
+as Author
+20288
+
+1564
+1593
+ok
+English
+a410
+Marlowe, Christopher
+as Author
+18781
+
+1564
+1593
+ok
+English
+a410
+Marlowe, Christopher
+as Author
+20356
+
+1564
+1593
+ok
+Latin
+a410
+Marlowe, Christopher
+as Author
+20356
+
+1564
+1593
+ok
+English
+a410
+Marlowe, Christopher
+as Author
+901
+
+1564
+1593
+ok
+English
+a410
+Marlowe, Christopher
+as Author
+37422
+
+1564
+1593
+ok
+English
+a410
+Marlowe, Christopher
+as Author
+1496
+
+1564
+1593
+ok
+English
+a410
+Marlowe, Christopher
+as Author
+1094
+
+1564
+1593
+ok
+English
+a410
+Marlowe, Christopher
+as Author
+1589
+
+1564
+1593
+ok
+English
+a410
+Marlowe, Christopher
+as Author
+16169
+
+1564
+1593
+ok
+English
+a410
+Marlowe, Christopher
+as Author
+779
+
+1564
+1593
+ok
+English
+a410
+Marlowe, Christopher
+as Author
+811
+
+1564
+1593
+ok
+English
+a410
+Marlowe, Christopher
+as Author
+42724
+
+1564
+1593
+ok
+English
+a410
+Marlowe, Christopher
+as Author
+21262
 
 1928
 2008
@@ -337876,6 +340333,24 @@ Meurman, A. (Agathon)
 as Translator
 56422
 
+1579
+1639
+ok
+French
+a46003
+Meurs, Johannes van
+as Author
+42212
+
+1579
+1639
+ok
+Latin
+a46003
+Meurs, Johannes van
+as Author
+42212
+
 1867
 1951
 ok
@@ -345805,6 +348280,267 @@ Montagu, Victor Alexander
 as Author
 49101
 
+1533
+1592
+ok
+French
+a1230
+Montaigne, Michel de
+as Author
+48529
+
+1533
+1592
+ok
+French
+a1230
+Montaigne, Michel de
+as Author
+49168
+
+1533
+1592
+ok
+French
+a1230
+Montaigne, Michel de
+as Author
+58801
+
+1533
+1592
+ok
+French
+a1230
+Montaigne, Michel de
+as Author
+58706
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+3600
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+3581
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+3582
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+3583
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+3584
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+3585
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+3586
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+3587
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+3588
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+3589
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+3590
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+3591
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+3592
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+3593
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+3594
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+3595
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+3596
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+3597
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+3598
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+3599
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Contributor
+57837
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+5637
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+7551
+
+1533
+1592
+ok
+Finnish
+a1230
+Montaigne, Michel de
+as Author
+45445
+
+1533
+1592
+ok
+English
+a1230
+Montaigne, Michel de
+as Author
+3661
+
 1891
 1947
 ok
@@ -348568,6 +351304,15 @@ Morford, Henry
 as Author
 29583
 
+1559
+1636
+ok
+English
+a2295
+Morga, Antonio de
+as Author
+7001
+
 1836
 1906
 ok
@@ -350341,6 +353086,15 @@ Morley, Sylvanus Griswold
 as Author
 43491
 
+1549
+1623
+ok
+English
+a24890
+Mornay, Philippe de, seigneur du Plessis-Marly
+as Author
+21789
+
 1876
 1946
 ok
@@ -351969,6 +354723,15 @@ a33769
 Morton, Samuel George
 as Author
 29215
+
+1575
+1646
+ok
+English
+a48805
+Morton, Thomas
+as Author
+54162
 
 1764
 1838
@@ -358414,6 +361177,24 @@ Nash, Rosalind Nightingale
 as Editor
 49732
 
+1567
+1601
+ok
+English
+a7595
+Nash, Thomas
+as Author
+17779
+
+1567
+1601
+ok
+English
+a7595
+Nash, Thomas
+as Author
+21338
+
 1877
 1965
 ok
@@ -358620,6 +361401,15 @@ a47604
 Nauman, Mary D. (Mary Dummett)
 as Author
 53899
+
+1563
+1635
+ok
+English
+a777
+Naunton, Robert, Sir
+as Author
+1992
 
 1816
 1909
@@ -366378,6 +369168,15 @@ a25639
 Ocantos, Carlos María
 as Author
 23035
+
+1575
+1643
+ok
+English
+a39485
+O'Clery, Michael
+as Contributor
+11168
 
 1870
 1920
@@ -375307,6 +378106,15 @@ Page, Gertrude
 as Author
 5636
 
+1574
+1630
+ok
+English
+a34000
+Page, Samuel
+as Author
+29574
+
 1806
 1882
 ok
@@ -381859,6 +384667,15 @@ Pascoli, Giovanni
 as Author
 45594
 
+1529
+1615
+ok
+French
+a47873
+Pasquier, Etienne
+as Author
+46991
+
 1767
 1862
 ok
@@ -384946,6 +387763,15 @@ Pemberton, T. Edgar (Thomas Edgar)
 as Author
 41507
 
+1561
+1621
+ok
+English
+a24892
+Pembroke, Mary Sidney Herbert, Countess of
+as Translator
+21789
+
 1852
 1918
 ok
@@ -385134,6 +387960,15 @@ a33068
 Pennell, Joseph
 as Author
 36383
+
+1857
+1926
+ok
+English
+a33068
+Pennell, Joseph
+as Illustrator
+58869
 
 1857
 1926
@@ -388356,6 +391191,15 @@ a48838
 Pettis, George H.
 as Author
 28951
+
+1570
+1647
+ok
+English
+a46375
+Pett, Phineas
+as Author
+51357
 
 1623
 1687
@@ -391685,7 +394529,7 @@ English
 a8301
 Piper, H. Beam
 as Author
-18855
+19158
 
 1904
 1964
@@ -391694,7 +394538,7 @@ English
 a8301
 Piper, H. Beam
 as Author
-19158
+18855
 
 1904
 1964
@@ -397742,7 +400586,7 @@ English
 a25958
 Prus, Bolesław
 as Author
-23646
+35499
 
 1847
 1912
@@ -397751,7 +400595,7 @@ English
 a25958
 Prus, Bolesław
 as Author
-35499
+23646
 
 1847
 1912
@@ -398732,7 +401576,7 @@ English
 a491
 Pyle, Howard
 as Author
-10148
+964
 
 1853
 1911
@@ -398741,7 +401585,7 @@ English
 a491
 Pyle, Howard
 as Author
-964
+10148
 
 1853
 1911
@@ -399543,6 +402387,42 @@ a39239
 Quesada, Ernesto
 as Author
 38086
+
+1580
+1645
+ok
+Spanish
+a35792
+Quevedo, Francisco de
+as Author
+32315
+
+1580
+1645
+ok
+English
+a35792
+Quevedo, Francisco de
+as Author
+46125
+
+1580
+1645
+ok
+English
+a35792
+Quevedo, Francisco de
+as Author
+41908
+
+1580
+1645
+ok
+English
+a35792
+Quevedo, Francisco de
+as Author
+41950
 
 1867
 1935
@@ -402721,6 +405601,15 @@ Ramstedt, Maria
 as Translator
 21548
 
+1515
+1572
+ok
+English
+a32223
+Ramus, Petrus
+as Author
+26752
+
 1879
 1929
 guess
@@ -403845,6 +406734,15 @@ a36786
 Raven-Hill, L. (Leonard)
 as Illustrator
 46690
+
+1867
+1942
+ok
+English
+a36786
+Raven-Hill, L. (Leonard)
+as Illustrator
+58869
 
 1867
 1942
@@ -409623,6 +412521,15 @@ a36323
 Ricardo, David
 as Author
 33310
+
+1512
+1564
+ok
+Italian
+a37140
+Ricchi, Agostino
+as Author
+34639
 
 1842
 1915
@@ -420251,7 +423158,7 @@ English
 a25974
 Roscoe, William
 as Author
-21823
+20860
 
 1753
 1831
@@ -420260,7 +423167,7 @@ English
 a25974
 Roscoe, William
 as Author
-20860
+21823
 
 1753
 1831
@@ -421098,6 +424005,15 @@ a41996
 Ross, J. Elliot (John Elliot)
 as Author
 43040
+
+1848
+1926
+ok
+English
+a50184
+Ross, J. (John)
+as Author
+58852
 
 1777
 1856
@@ -423121,8 +426037,8 @@ ok
 English
 a5023
 Runciman, James
-
-52126
+as Author
+14432
 
 1852
 1891
@@ -423130,8 +426046,8 @@ ok
 English
 a5023
 Runciman, James
-as Author
-14432
+
+52126
 
 1852
 1891
@@ -423311,7 +426227,7 @@ Swedish
 a6413
 Runeberg, Fredrika Charlotta Tengström
 as Author
-52870
+52266
 
 1807
 1879
@@ -423320,7 +426236,7 @@ Swedish
 a6413
 Runeberg, Fredrika Charlotta Tengström
 as Author
-52266
+52870
 
 1807
 1879
@@ -423636,6 +426552,42 @@ a7316
 Ruppelt, Edward J.
 as Author
 17346
+
+1746
+1813
+ok
+English
+a50240
+Rush, Benjamin
+as Author
+58859
+
+1746
+1813
+ok
+English
+a50240
+Rush, Benjamin
+as Author
+58860
+
+1746
+1813
+ok
+English
+a50240
+Rush, Benjamin
+as Author
+58861
+
+1746
+1813
+ok
+English
+a50240
+Rush, Benjamin
+as Author
+58862
 
 1784
 1877
@@ -428290,6 +431242,15 @@ Sanches, António Nunes Ribeiro
 as Author
 23919
 
+1555
+1648
+ok
+English
+a40299
+Sánchez de Aguilar, Pedro
+as Author
+39914
+
 1856
 1935
 ok
@@ -430162,6 +433123,15 @@ Sastre, Marcos
 as Author
 44112
 
+1520
+1603
+ok
+English
+a36827
+Sastrow, Bartholomäus
+as Author
+33891
+
 1892
 1964
 ok
@@ -431457,6 +434427,15 @@ a50000
 Scartazzini, Giovanni Andrea
 as Commentator
 58505
+
+1519
+1584
+ok
+Italian
+a25363
+Scaruffi, Gasparo
+as Author
+22502
 
 1893
 1980
@@ -441727,6 +444706,2931 @@ Shairp, John Campbell
 as Author
 21330
 
+1564
+1616
+ok
+English
+a654
+Shakespeare (spurious and doubtful works)
+as Author
+5137
+
+1564
+1616
+ok
+English
+a654
+Shakespeare (spurious and doubtful works)
+as Author
+1770
+
+1564
+1616
+ok
+English
+a654
+Shakespeare (spurious and doubtful works)
+as Author
+1736
+
+1564
+1616
+ok
+English
+a654
+Shakespeare (spurious and doubtful works)
+as Author
+1548
+
+1564
+1616
+ok
+English
+a654
+Shakespeare (spurious and doubtful works)
+as Author
+4774
+
+1564
+1616
+ok
+English
+a654
+Shakespeare (spurious and doubtful works)
+as Author
+4214
+
+1564
+1616
+ok
+English
+a654
+Shakespeare (spurious and doubtful works)
+as Author
+1788
+
+1564
+1616
+ok
+English
+a654
+Shakespeare (spurious and doubtful works)
+as Author
+1547
+
+1564
+1616
+ok
+English
+a654
+Shakespeare (spurious and doubtful works)
+as Author
+1542
+
+1564
+1616
+ok
+English
+a654
+Shakespeare (spurious and doubtful works)
+as Author
+4255
+
+1564
+1616
+ok
+Catalan
+a65
+Shakespeare, William
+as Author
+17046
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1125
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1529
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2246
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1791
+
+1564
+1616
+ok
+Tagalog
+a65
+Shakespeare, William
+as Author
+15418
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+15942
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+16618
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2268
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1796
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1534
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Dubious author
+43440
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1786
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1523
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1121
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2244
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+15846
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1430
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+15848
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1104
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2239
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1769
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1504
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+23046
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+18162
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+100
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+18311
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+15303
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1797
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2259
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+20188
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+6990
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1133
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2269
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1538
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1799
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+22556
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+19201
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+16710
+
+1564
+1616
+ok
+Spanish
+a65
+Shakespeare, William
+as Author
+53207
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+12842
+
+1564
+1616
+ok
+Catalan
+a65
+Shakespeare, William
+as Author
+22045
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1100
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1115
+
+1564
+1616
+ok
+Dutch
+a65
+Shakespeare, William
+as Author
+51691
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+44158
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2265
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1787
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+15632
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+15032
+
+1564
+1616
+ok
+Portuguese
+a65
+Shakespeare, William
+as Author
+25667
+
+1564
+1616
+ok
+Spanish
+a65
+Shakespeare, William
+as Author
+56454
+
+1564
+1616
+ok
+Esperanto
+a65
+Shakespeare, William
+as Author
+37279
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1524
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+27761
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+7276
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+22760
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+25715
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+26762
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+26763
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+26764
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+26765
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+26766
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2251
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2253
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2258
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1765
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2254
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2255
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2256
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1501
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1502
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1528
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1124
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+44826
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+7225
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+16128
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+20720
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+15847
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1785
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2263
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1522
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+18512
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+9875
+
+1564
+1616
+ok
+Latin
+a65
+Shakespeare, William
+as Author
+46768
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+44839
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+7043
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+44831
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1780
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1782
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1518
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1516
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1136
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+22791
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1784
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1500
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1802
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2249
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1775
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1110
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1511
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2266
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1794
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1776
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1103
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1768
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1111
+
+1564
+1616
+ok
+Dutch
+a65
+Shakespeare, William
+as Author
+25843
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+7933
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+7934
+
+1564
+1616
+ok
+Dutch
+a65
+Shakespeare, William
+as Author
+55662
+
+1564
+1616
+ok
+Dutch
+a65
+Shakespeare, William
+as Author
+51138
+
+1564
+1616
+ok
+Dutch
+a65
+Shakespeare, William
+as Author
+29359
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+42966
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+42873
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+40070
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+40115
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+40174
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+39557
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+39636
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+39939
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+28965
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+16490
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+37835
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+30790
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+7240
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+7292
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+7323
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1541
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1119
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1521
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1536
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1132
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+27708
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+44580
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1137
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1543
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2241
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1109
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1774
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1510
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+7233
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1533
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1795
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2264
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+16893
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+13868
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+6975
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+7269
+
+1564
+1616
+ok
+Esperanto
+a65
+Shakespeare, William
+as Author
+47913
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+20773
+
+1564
+1616
+ok
+Catalan
+a65
+Shakespeare, William
+as Author
+27536
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2238
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1126
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1792
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1530
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+23045
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+19219
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1779
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1515
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2243
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1114
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1781
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1517
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1116
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2237
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+23044
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+18169
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1514
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2242
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1113
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1778
+
+1564
+1616
+ok
+Dutch
+a65
+Shakespeare, William
+as Author
+31126
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+43532
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+26757
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1520
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2240
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1118
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1783
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1519
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2252
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+44845
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+28334
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Contributor
+44740
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2267
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1793
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+17529
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+18179
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+7185
+
+1564
+1616
+ok
+Portuguese
+a65
+Shakespeare, William
+as Author
+28526
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1531
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+42898
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1544
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1545
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+19227
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+28150
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1537
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+19228
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1525
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+26758
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1505
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1506
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2250
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2257
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+6924
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+21856
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+18312
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1513
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2261
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1777
+
+1564
+1616
+ok
+Dutch
+a65
+Shakespeare, William
+as Author
+49880
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+18143
+
+1564
+1616
+ok
+Polish
+a65
+Shakespeare, William
+as Author
+27062
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+15643
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+6996
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+7232
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1117
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1101
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+47518
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2270
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+12578
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1041
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+49146
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+47960
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+56851
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+7022
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+17930
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1105
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1546
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+27191
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+7264
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+7236
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+44840
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2245
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1107
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1508
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1772
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1540
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2235
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1135
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1801
+
+1564
+1616
+ok
+Italian
+a65
+Shakespeare, William
+as Author
+26169
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+23042
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+15071
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1102
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+18144
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+15849
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1798
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2262
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+7226
+
+1564
+1616
+ok
+Dutch
+a65
+Shakespeare, William
+as Author
+23676
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1771
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2260
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+21100
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+25707
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+28151
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+10606
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1130
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1131
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1535
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1122
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1120
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1128
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1532
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1503
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1512
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1129
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1127
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1112
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1106
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1507
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+9077
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1790
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+18313
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+17686
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+44602
+
+1564
+1616
+ok
+Dutch
+a65
+Shakespeare, William
+as Author
+26594
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2247
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+38901
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1123
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1526
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1527
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1108
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1509
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1773
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2236
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+23043
+
+1564
+1616
+ok
+Dutch
+a65
+Shakespeare, William
+as Author
+48386
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+44832
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1045
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+25694
+
+1564
+1616
+ok
+Finnish
+a65
+Shakespeare, William
+as Author
+44825
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+21277
+
+1564
+1616
+ok
+French
+a65
+Shakespeare, William
+as Author
+26759
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+7186
+
+1564
+1616
+ok
+German
+a65
+Shakespeare, William
+as Author
+7041
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1134
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1800
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+1539
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+2248
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+23041
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+45128
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+50559
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+50095
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+49297
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+49007
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+47715
+
+1564
+1616
+ok
+English
+a65
+Shakespeare, William
+as Author
+49008
+
+1564
+1616
+ok
+Greek
+a65
+Shakespeare, William
+as Author
+31797
+
+1564
+1616
+ok
+Greek
+a65
+Shakespeare, William
+as Author
+33961
+
+1564
+1616
+ok
+Greek
+a65
+Shakespeare, William
+as Author
+34434
+
+1564
+1616
+ok
+Greek
+a65
+Shakespeare, William
+as Author
+32797
+
+1564
+1616
+ok
+Greek
+a65
+Shakespeare, William
+as Author
+31808
+
+1564
+1616
+ok
+Greek
+a65
+Shakespeare, William
+as Author
+32305
+
+1564
+1616
+ok
+Greek
+a65
+Shakespeare, William
+as Author
+31405
+
 1861
 1942
 ok
@@ -446145,6 +452049,24 @@ a307
 Sidney, Margaret
 as Contributor
 594
+
+1554
+1586
+ok
+English
+a764
+Sidney, Philip
+as Author
+1962
+
+1554
+1586
+ok
+English
+a764
+Sidney, Philip
+as Author
+56375
 
 1813
 1883
@@ -452346,6 +458268,24 @@ a4711
 Smith, J. Jay (John Jay)
 as Author
 7923
+
+1580
+1631
+ok
+English
+a49180
+Smith, John
+as Author
+56347
+
+1580
+1631
+ok
+English
+a49180
+Smith, John
+as Author
+55199
 
 1858
 1912
@@ -476116,6 +482056,15 @@ Tanagras, Angelos
 as Translator
 17995
 
+1550
+1616
+ok
+Chinese
+a26082
+Tang, Xianzu
+as Author
+23849
+
 1833
 1906
 ok
@@ -476935,6 +482884,24 @@ Taschner, Ignatius
 as Illustrator
 25530
 
+1544
+1595
+ok
+English
+a218
+Tasso, Torquato
+as Author
+392
+
+1544
+1595
+ok
+English
+a218
+Tasso, Torquato
+as Contributor
+10635
+
 1864
 1939
 ok
@@ -477618,6 +483585,15 @@ a47162
 Taylor, Jocelyn
 as Illustrator
 52997
+
+1580
+1653
+ok
+English
+a33154
+Taylor, John
+as Author
+28108
 
 1808
 1887
@@ -479148,6 +485124,24 @@ a39461
 Tenreiro, Ramón María
 as Commentator
 28408
+
+1515
+1582
+ok
+English
+a2651
+Teresa, of Avila, Saint
+as Author
+8120
+
+1515
+1582
+ok
+English
+a2651
+Teresa, of Avila, Saint
+as Author
+19185
 
 1872
 1942
@@ -493621,6 +499615,15 @@ Uchard, Mario
 as Author
 21868
 
+1505
+1556
+ok
+English
+a9875
+Udall, Nicholas
+as Author
+21350
+
 1859
 1932
 ok
@@ -494061,6 +500064,15 @@ a6920
 Upton, Florence K. (Florence Kate)
 as Illustrator
 16770
+
+1834
+1919
+ok
+English
+a5760
+Upton, George P. (George Putnam)
+as Translator
+59626
 
 1834
 1919
@@ -495222,6 +501234,15 @@ a45286
 Valle Atiles, Francisco del
 as Author
 49359
+
+1564
+1650
+ok
+Portuguese
+a37466
+Valle de Moura, Manuel do
+as Author
+20149
 
 1866
 1936
@@ -497221,6 +503242,105 @@ Varnum, William H. (William Harrison)
 as Author
 42317
 
+1511
+1574
+ok
+English
+a9769
+Vasari, Giorgio
+as Author
+25326
+
+1511
+1574
+ok
+English
+a9769
+Vasari, Giorgio
+as Author
+25759
+
+1511
+1574
+ok
+English
+a9769
+Vasari, Giorgio
+as Author
+26860
+
+1511
+1574
+ok
+English
+a9769
+Vasari, Giorgio
+as Author
+28420
+
+1511
+1574
+ok
+English
+a9769
+Vasari, Giorgio
+as Author
+28421
+
+1511
+1574
+ok
+English
+a9769
+Vasari, Giorgio
+as Author
+28422
+
+1511
+1574
+ok
+English
+a9769
+Vasari, Giorgio
+as Author
+31845
+
+1511
+1574
+ok
+English
+a9769
+Vasari, Giorgio
+as Author
+31938
+
+1511
+1574
+ok
+English
+a9769
+Vasari, Giorgio
+as Author
+32362
+
+1511
+1574
+ok
+English
+a9769
+Vasari, Giorgio
+as Author
+33203
+
+1511
+1574
+ok
+English
+a9769
+Vasari, Giorgio
+as Author
+21212
+
 1876
 1924
 ok
@@ -497563,6 +503683,51 @@ Veer, W. de (Willem)
 as Translator
 48239
 
+1503
+1536
+ok
+English
+a45319
+Vega, Garcilaso de la
+as Author
+49410
+
+1562
+1635
+ok
+Spanish
+a25752
+Vega, Lope de
+as Author
+28408
+
+1562
+1635
+ok
+Spanish
+a25752
+Vega, Lope de
+as Author
+57035
+
+1562
+1635
+ok
+Spanish
+a25752
+Vega, Lope de
+as Author
+23206
+
+1562
+1635
+ok
+English
+a25752
+Vega, Lope de
+as Author
+49847
+
 1879
 1950
 ok
@@ -497706,6 +503871,15 @@ a39979
 Veley, Margaret
 as Author
 52002
+
+1579
+1644
+ok
+Spanish
+a4381
+Vélez de Guevara, Luis
+as Author
+12457
 
 1880
 1956
@@ -497949,6 +504123,15 @@ a2860
 Verde, Cesário
 as Author
 8698
+
+1537
+1595
+ok
+Spanish
+a45958
+Verdugo, Francisco
+as Author
+50526
 
 1842
 1904
@@ -499244,7 +505427,7 @@ French
 a60
 Verne, Jules
 as Author
-800
+3456
 
 1828
 1905
@@ -499253,7 +505436,7 @@ French
 a60
 Verne, Jules
 as Author
-3456
+800
 
 1828
 1905
@@ -500236,6 +506419,15 @@ Vigée-Lebrun, Louise-Elisabeth
 as Author
 23158
 
+1523
+1596
+ok
+English
+a44279
+Vigenère, Blaise de
+as Author
+47365
+
 1828
 1914
 ok
@@ -500640,6 +506832,15 @@ a33240
 Villaverde, Cirilo
 as Author
 28281
+
+1534
+1584
+guess
+Spanish
+a33240
+Villegas, Alonso de
+as Author
+51465
 
 1879
 1933
@@ -501305,7 +507506,7 @@ English
 a453
 Vivian, Evelyn Charles
 as Author
-58347
+874
 
 1882
 1947
@@ -501314,7 +507515,7 @@ English
 a453
 Vivian, Evelyn Charles
 as Author
-874
+58347
 
 1882
 1947
@@ -506950,6 +513151,15 @@ Wang, Guowei
 as Annotator
 54784
 
+1526
+1590
+ok
+Chinese
+a32387
+Wang, Shizhen
+as Author
+27026
+
 1634
 1711
 ok
@@ -507805,6 +514015,15 @@ Ward, Mrs.
 as Author
 35307
 
+1578
+1652
+ok
+English
+a37356
+Ward, Nathaniel
+as Author
+34974
+
 1868
 1955
 ok
@@ -507849,6 +514068,15 @@ a42800
 Wardrop, Marjory Scott
 as Translator
 44536
+
+1577
+1640
+ok
+English
+a6697
+Ward, Samuel
+as Author
+16423
 
 1864
 1932
@@ -516739,7 +522967,7 @@ ok
 English
 a104
 Wharton, Edith
-as Contributor
+as Editor
 57584
 
 1862
@@ -516748,7 +522976,7 @@ ok
 English
 a104
 Wharton, Edith
-as Editor
+as Contributor
 57584
 
 1862
@@ -525931,6 +532159,15 @@ Wilkinson, Marguerite
 as Author
 57650
 
+1869
+1940
+ok
+English
+a50185
+Wilkinson, Nevile Rodwell, Sir
+as Illustrator
+58852
+
 1882
 1934
 ok
@@ -532336,7 +538573,7 @@ ok
 German
 a6581
 Witkop, Philipp
-as Author
+as Editor
 16264
 
 1880
@@ -532345,7 +538582,7 @@ ok
 German
 a6581
 Witkop, Philipp
-as Editor
+as Author
 16264
 
 1865
@@ -538052,7 +544289,7 @@ Chinese
 a26060
 Wu, Jianren
 as Author
-54567
+24099
 
 1866
 1910
@@ -538061,7 +544298,7 @@ Chinese
 a26060
 Wu, Jianren
 as Author
-24099
+54567
 
 1866
 1910
@@ -538404,6 +544641,15 @@ a1686
 Wyatt, E. G. P. (Edward Gerald Penfold)
 as Author
 31582
+
+1554
+1624
+ok
+English
+a47669
+Wyatt, George
+as Contributor
+54043
 
 1876
 1954
@@ -538800,6 +545046,15 @@ a1835
 Wynne, G. C. (Graeme Chamley)
 as Translator
 44234
+
+1847
+1918
+ok
+English
+a50182
+Wynne, Madeline Yale
+as Author
+58855
 
 1819
 1876

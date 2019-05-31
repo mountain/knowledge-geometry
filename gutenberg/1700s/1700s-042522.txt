@@ -1,0 +1,2356 @@
+﻿The Project Gutenberg EBook of A Course of Mechanical, Magnetical,
+Optical, Hydrostatical and Pneumati, by Francis Hauksbee (the Younger)
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: A Course of Mechanical, Magnetical, Optical, Hydrostatical and Pneumatical Experiments
+       perform'd by Francis Hauksbee, and the Explanatory Lectures
+       read by William Whiston, M.A.
+
+Author: Francis Hauksbee (the Younger)
+
+Commentator: William Whiston
+
+Release Date: October 23, 2013 [EBook #44019]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK A COURSE OF MECHANICAL ***
+
+
+
+
+Produced by Enrico Segre and the Distributed Proofreading
+team at DP-test Italia, http://dp-test.dm.unipi.it
+
+
+
+
+
+                                    A
+                                  COURSE
+                                    OF
+             Mechanical, Magnetical, Optical, Hydrostatical,
+                                   AND
+                         Pneumatical EXPERIMENTS.
+
+To be perform'd by FRANCIS HAUKSBEE; and the Explanatory Lectures read by
+                          WILLIAM WHISTON, M. A.
+
+
+                               MECHANICKS.
+
+1st Day. SIR _ISAAC NEWTON_'s Three Laws of Motion, or Nature,
+demonstrated by Experiments.
+
+That the Velocity of Falling Bodies is as the Times of Falling, and the
+Lines of Descent in the Duplicate Proportion of those Times.
+
+An Instrument to measure the Force of Falling Bodies.
+
+Experiments concerning the Sliding, Rolling, and Falling of Bodies.
+
+That Bodies will ascend as high, as whence they fall by the last Velocity
+impress'd, when all Obstacles are removed.
+
+That Bodies by a compound Force move in a Diagonal Line.
+
+2d—The Balance and Stilyard, with all their Properties and Uses shewn and
+explain'd.
+
+The Method of estimating the _Momentum_, or Quantity of Motion in any
+given Body.
+
+The general Principle of Mechanicks established upon this Method.
+
+Experiments to demonstrate the different Effects of the same Weight of
+Power acting in different Directions at the same Point of any Engine.
+
+The Resolution of Forces into those of other Directions.
+
+All the various Kinds of Levers explain'd.
+
+3d—All the Phænomena of Pulleys, both single and in all their possible
+Combinations explain'd.
+
+The Power of the Wheel or Axis in Peritrochio explain'd.
+
+The Wedge, with the Method of comparing its Force, deduced from
+Experiments.
+
+The Screw, with the manner of computing its Force.
+
+A Compound Engine.
+
+4th—An Experiment of Lifting a Weight by a Chain of Inflated Bladders,
+with its Application to Muscular Motion.
+
+_Galilæo_'s Demonstration concerning the Strength of the Bones, Timber,
+_&c._ reduced to Experiment.
+
+The Method of computing the Force of the Air on the Sails of Windmills,
+and of Ships; and of Water on Water-Wheels, and on the Rudder of a Ship.
+
+Experiments to shew the proportional Advantages of large and small Wheels,
+in all Sorts of Carriages, as Couches, Waggons, Carts, _&c._
+
+5th—An Experiment to shew, that the lateral Motion compounded with the
+perpendicular Projection, does not alter the Line of Ascent or Descent in
+the projected Body.
+
+The most considerable Objections against the Motion of the Earth, answered
+from this Experiment.
+
+That the Line described by a Projectile is a Parabola.
+
+The Experiments upon which the Art of Gunnery does depend, most exactly
+perform'd.
+
+6th—Experiments concerning Pendulums.
+
+The Description and chief Properties of the Cycloid, and the Application
+of Cycloidal Cheeks for regulating the Vibrations of Pendulums.
+
+An Experiment to shew the Analogy between the Swings of a Pendulum and the
+Waves of the Sea.
+
+Experiments concerning the Expansion of Metals by Heat.
+
+7th—The Laws of Motion in the Collision of Hard and Elastick Bodies.
+
+Experiments concerning the Centrifugal and Centripetal Forces of Solid and
+Fluid Bodies in Motion.
+
+Experiments in order to estimate the Centrifugal Forces of Solid Bodies.
+
+
+                               MAGNETICKS.
+
+8th Day. Attractive and Directive Powers of Loadstones.
+
+The Form or Position of Filings of Iron at the Poles and Equator of a
+Loadstone.
+
+Magnetick Power acts thro' all Bodies but Iron.
+
+The Attraction of different, and Repulse of corresponding Poles.
+
+The manner of touching and untouching of Needles.
+
+The Law of Magnetick Attraction discover'd.
+
+9th—The Phænomena of _Terrella_, or Spherical Loadstones.
+
+The Direction of Magnetick Needles on the Surfaces of _Terrella_ nearly
+towards the Poles.
+
+Their Variation _East_ and _West_.
+
+The Inclinatory or Dipping-Needle, with the Law of the Alteration of that
+Inclination on the Surface of a _Terrella_.
+
+The Terrestrial Magnetism consider'd.
+
+The Application of the Dipping-Needle to the Discovery of the Longitude
+and Latitude of Places by Land and Sea.
+
+
+                                 OPTICKS.
+
+10th Day. Experiments to demonstrate, that in the Rays of Light the Angle
+of Incidence is equal to the Angle of Reflection in all Sorts of Surfaces.
+
+The Method of tracing the reflected Rays of Light from Plain, Convex,
+Concave, and Cylindrical Superficies, with all their wonderful Properties
+and Uses, shew'd and explain'd.
+
+11th—Sir _Is. Newton_'s Reflecting Telescope exhibited, and its
+Construction explained; together with some Specimens of its Uses in
+observing the Planets and Fixed Stars.
+
+12th—Experiments to shew the Manner of Refraction.
+
+The Sines of the Angles of Incidence and Refraction, shewn to be (at all
+Degrees of Incidence) in a constant Proportion to each other.
+
+An Instrument to measure the Refraction of Fluids.
+
+The Method of tracing the Refracted Rays of Light thro' Plain, Convex, and
+Concave Superficies.
+
+13th—An artificial Eye, in which all the Coats and Humours are curiously
+represented.
+
+The Dissection of the Eye.
+
+The Explication of Vision by the naked Eye, deduced from Experiments.
+
+14th—All the Effects, Properties, and Uses of Plain, Convex, and Concave
+Glasses, both single and combin'd in Telescopes and Microscopes, shew'd
+and explain'd.
+
+Several Kinds of Microscopes and Telescopes, with the Manner of applying
+them to their respective Objects; together with a Specimen of the Uses of
+such Microscopes and Telescopes.
+
+A Multiplying Glass.
+
+The Magick Lanthorn.
+
+15th—A particular _Apparatus_ to manifest and measure the Refraction of
+Air.
+
+The _Camera Obscura_.
+
+The Theory of Light and Colours, as delivered by Sir _Isaac Newton_,
+demonstrated by several of his principal Experiments.
+
+The Archbishop of _Spalato_'s Experiment, which discovered the Cause of
+the Rainbow.
+
+Monsieur _Hugen_'s Experiments, which discover the Causes of Halo's, of
+the Mock Suns and Moons, and of inverted Rainbows.
+
+Experiments concerning the blending and Production of Colours by Motion.
+
+
+                              HYDROSTATICKS.
+
+16th Day. That Fluids gravitate _in proprio loco_, the upper Parts
+continually pressing upon the lower: That this Pressure is not only
+propagated Downwards, but even Upwards, and Sideways, according to all
+possible Directions; That a lighter Fluid may gravitate upon a heavier,
+and an heavier upon a lighter; That a Fluid may sustain a Body heavier _in
+Specie_ than it self, and even raise it up; That a Fluid may detain a Body
+lighter _in Specie_ than it self, and even depress it. A general
+Experiment to prove, that a competent Pressure of a Fluid may produce the
+remarkable Phænomena of the Torricellian Tube, the Pump, Syringe, Syphon,
+polished Plates, and other Effects of the like Nature.
+
+17th—That Fluids press according to their perpendicular Altitudes,
+whatever be their Quantities, or however the containing Vessels be
+figured. The exact Estimate of all manner of Pressures. That the Velocity
+and Quantity of Fluids running out at a given Hole, is in the subduplicate
+Proportion of their perpendicular Altitudes. Several Sorts of Pumps. Of
+the sinking and floating of Bodies immers'd in Fluids; their relative
+Gravities and Levities; their Situations and Positions. The Phænomena of
+Glass Bubbles and Images accounted for.
+
+18th—An Instrument to find out the Specifick Gravity of all Liquors. The
+Hydrostatical Balance explain'd, with the Methods of determining the
+Specifick Gravities of all Sorts of Bodies, whether Solid or Fluid,
+thereby. The Praxis of the Hydrostatical Balance, whereby the Specifick
+Gravities of several particular Bodies are actually found out. Some
+Account of the various Uses of such Enquiries.
+
+
+PNEUMATICKS _illustrated by Experiments for the most part Tubular,
+being such as were wont to be made before the Air-Pump was invented._
+
+19th Day. The several Phænomena of the Torricellian Experiment exhibited
+and explained. Other Experiments of the like Nature, with Fluids variously
+combin'd. Several Sorts of Barometers, Thermometers, and Hygroscopes. The
+Pressure of the Air shewn by Experiment to be different at different
+Altitudes from the Surface of the Earth.
+
+20th—The Density and Spring of the Air proved by several ways to be as the
+Force which compresses it, and reciprocally as the Spaces into which it is
+compress'd. From hence an Enquiry is made into the Limits and State of the
+Atmosphere.
+
+21st—The Effects of the Weight and Spring of the Air in Syringes, Pumps,
+Siphons, polished Plates, Cupping-Glasses, Suction: Respiration explained
+by artificial Lungs; That the Air may be so disorder'd by a violent
+Impulse, as to require Time to recover its Strength and Elasticity again.
+
+
+_The more known Properties of the Air established by the Air-Pump, and
+                            other Engines._
+
+22d Day. The Air-Pump; the Instruments for Condensing and Transferring of
+Air; their Fabrick, Operation, and Gages explained.
+
+23d—A Parcel of Air weighed in the Balance; its Specifick Gravity to that
+of Water determined thereby; an artificial Storm, shewing that high Winds
+may make the Barometer sink much and suddenly.
+
+24th—The Weight, Pressure, and Spring of the Air prov'd several ways; by
+the Sense of Feeling; by breaking Glass Vials; the Phænomena of Bladders,
+Glass-bubbles, Fountains; the Gardiner's Watering-Pot; the Diving-Bell,
+_&c._
+
+25th—The Torricellian Tube _in Vacuo_; Quicksilver raised to the usual
+Height of the Weather-Glass, by the bare Spring of a little included Air;
+_Otto Gerick_'s Hemispheres; and that dense Air has the same Advantage
+over common Air, as that has over a _Vacuum_.
+
+The Ebullition of Liquors _in Vacuo_; the Quantity of Air contain'd in
+them; the Sustentation of Fumes and Vapours; the Descent of Bodies _in
+Vacuo_.
+
+
+_The more hidden Properties of the Air consider'd by the help of the like
+                                Engines._
+
+26th Day. The Influence of the Air examin'd as to the Causes of Magnetism;
+the Elasticity of Springs; the Cohæsion of the Parts of Matter; the
+Sphericity of the Drops of Fluids; the Ascent of Liquors in capillary
+Tubes, and between Glass-Planes in the Curve of the Hyperbola, both by the
+Attractive and Repulsive Power of the Glass.
+
+27th—The Influence of the Air, as to Sounds, Fire, and Flame; the
+Consumption of Fuel; the firing of Gunpowder; the Effects of rarified,
+condensed, and burnt Air upon the Life of Animals.
+
+28th—A Piece of Phosphorus _in Vacuo_; new Experiments concerning the
+Mercurial Phosphori; Experiments concerning the Electricity of Bodies.
+
+--------------------------------------------------------------------------
+
+   _Every SUBSCRIBER is to pay Three Guineas; One Guinea at the Time of
+      Subscription, and the Remainder, the First Day of the Course._
+
+SUBSCRIPTIONS _are taken in at Mr. Whiston's, in Great Russel-Street; and
+ at Mr. Hauksbee's, in Crane-Court in Fleetstreet; where the Course is to
+                              be perform'd._
+
+
+
+
+                              Advertisement.
+
+
+Air-Pumps, or Engines for Exhausting the Air from proper Vessels, with all
+their Appurtenances; whereby the various Properties and Uses of that Fluid
+are discover'd and demonstrated by undeniable Experiments. Engines for the
+Compression of the Air: Fountains, in which the Water, or other Liquor, is
+made to ascend by the Force of the Air's Spring. Syringes and Blow-Pipes,
+with Valves for Anatomical Injections. Hydrostatical Balances, for
+determining the Specifick Gravity of Fluids and Solids. The Engine and
+Glasses for the New Way of Cupping without Fire. Scarificators, which at
+once make either 10, 13, or 16 Incisions. Weather-Glasses of all Sorts, as
+Barometers, Thermometers, _&c._ Reflecting Telescopes, by which in so
+short a Length as Six Feet, all that has hitherto been discovered in the
+Heavens (by the longest Telescopes of the common Construction) may be
+observed.
+
+All the above-mention'd Instruments, according to their Latest and Best
+Improvements, are made and sold by FRANCIS HAUKSBEE, in _Crane-Court_ in
+_Fleetstreet, London_.
+
+
+
+
+             [[Mechanicks Plate I. ― Sutton Nicholls sculp:]]
+
+
+
+
+                                    1
+                               MECHANICKS.
+
+                    An Explication of the First PLATE.
+
+
+Figure. 1. This belongs to _Galilæo's_ famous Demonstration of the
+Velocities and Times of Bodies descending by an uniform Force, such is
+that of Gravity here below: And shews that they will ever fall in equal
+Times, 1, 2, 3, 4, _&c._ according to the odd Numbers, 1, 3, 5, 7, _&c._
+or the Trapezia B C D E, D E F G, F G H I, _&c._ and by consequence, that
+their Velocity will increase uniformly in Proportion to the Lines B C,
+D E, F G, H I, _&c._ or to the Times of Descent. And that the entire Lines
+of their Descent will be as the Triangles A B C, A D E, A F G, A H I,
+_&c._ or as the Squares of those Times, 1, 4, 9, 16, _&c._
+
+_Fig. 2._ This is a strong Balance for an Experiment to prove the former
+Proposition, by shewing that any Bullet or Ball, when it falls from four
+Times the Height, has twice, from nine Times the Height has thrice its
+former Velocity or Force; and will accordingly raise a double or triple
+Weight in the opposite Scale, to the same Height, and no more; and so for
+ever.
+
+_Fig. 3._ This shews how Bodies upon an inclin'd Plane will _slide_, if
+the Perpendicular through the Center of their Gravity falls _within_; and
+will _rowl_, if that Perpendicular fall _without_ their common Section.
+
+_Fig. 4._ This shews that an oblique Body will stand, if the Perpendicular
+through its Center of Gravity cut the Base; and that it will fall, if it
+cut not the Base: As accordingly we stand when the Perpendicular through
+the Center of Gravity of our Bodies falls within the Base of our Feet; and
+we are ready to tumble when it falls without the same.
+
+_Fig. 5._ This is a Conick Rhombus, or two right Cones, with a common
+Base, rowling upwards to Appearance, or from E towards F and G: Which
+Points are set higher by Screws than the Point E. But so that the
+Declivity from C towards A and B is greater than the Aclivity from E
+towards F and G. Whence it is plain, that the Axis and Center of Gravity
+do really descend all the Way.
+
+_Fig. 6._ Is a Balance, in an horizontal Posture, with weights at
+Distances from the Center reciprocally proportional to themselves; and
+thereby _in Æquilibrio_.
+
+_Fig. 7. and 8._ Are two other Balances in an horizontal Posture, with
+several Weights on each Side, so adjusted, that the Sum of the Motion on
+one Side, made by multiplying each Weight by its Velocity, or Distance
+from the Center, and so added together, is equal to that on the other: And
+so all still _in Æquilibrio_.
+
+_Fig. 9._ Belongs to the Laws of Motion, in the Collision of Bodies to be
+tried with Pendulums, or otherwise, both as to Elastical Bodies, and to
+those which are not Elastical.
+
+_Fig. 10._ Belongs to that Famous and Fundamental Law of Motion, that if a
+Body be impell'd by two distinct Forces in an Proportion, it will in the
+same Time move along the Diagonal of that Parallelogram, whose Sides would
+have been describ'd by those distinct Forces; and that accordingly all
+Lines, in which Bodies move, be consider'd as Diagonals of Parallelograms;
+and so may be resolved into those two Forces, which would have been
+necessary for the distinct Motions along their two Sides respectively:
+Which grand Law includes the Composition and Resolution of all Motions
+whatsoever, and is of the greatest Use in Mechanical and Natural
+Philosophy.
+
+_Fig. 11._ Are two polite Plains inclined to one another, to shew that the
+Descent down one Plain will elevate a Ball almost to an equal Height on
+the other.
+
+
+
+
+                  [[Plate II. ― Sutton Nicholls sculp:]]
+
+
+
+
+                              MECHANICKS. 2
+
+                   An Explication of the Second PLATE.
+
+
+Figure 1. Is the deceitful Balance; which yet is _in Æquilibrio_ because
+the Weights 23 and 24 are reciprocally proportional to their Distances
+from the Center of Motion. Now this Cheat is easily discover'd by changing
+the Position of the Weights, and putting each of them into the other
+Scale, which will then be very unequal, or nearly as 11 to 12.
+
+_Fig. 2._ Is that sort of Balance which is called a Stiliard, and of
+frequent Use among us. It is only a Common Balance, with Weights at
+Distances from the Center of Motion reciprocally Proportionable to
+themselves: Only here the Length of Part of the Beam is compensated by a
+large Ball or Weight B, fixed to the shorter Beam; and one Weight as w
+removed along equal Divisions is made use of to weigh several others, as
+6 w. _&c._
+
+_Fig. 3_. Is design'd to shew how any Force is diminish'd by its
+Obliquity; and that a Weight hung obliquely at 3, 2, 1, in the
+Circumference of a Circle or Wheel, is of no more Efficacy, as to the
+turning of the Wheel round, than if it were hung perpendicularly at the
+corresponding Points 3, 2, 1, in the Semidiameter of the same Circle.
+
+_Fig. 4._ Is the Demonstration of the former Case, by shewing that in
+those Circumstances the Force P B is resolved into two B F and B G, of
+which B F pulls directly from the Center, and is of no Use to the turning
+the Wheel round: And so all the remaining Force is represented by the
+perpendicular Force B G, which is wholly spent in turning it round. So
+that as B P is to B G, so is the whole oblique Force, to the real or
+direct Force: Or so, in the similar Triangle B E C, is B C the whole
+oblique Radius, to C E the Perpendicular: Or so in the foregoing Figure is
+O 1, O 2, O 3, the common Hypotenuse or entire Radius, to O 1, O 2, O 3,
+the Bases or shorter Radij, where the String cuts the entire Radius
+perpendicularly.
+
+_Fig. 5._ Is the first Sort of Lever, where C the Prop is between the
+Resistance to be overcome, or Weight to be moved 5 w, and w 1 the Power or
+Weight to move the other by: And is so like the Case of the Balance or
+Stiliard, that it needs no particular Explication. A Crow of Iron is of
+this Sort.
+
+_Fig. 6._ Is the second Sort of Lever, where the Resistance to be
+overcome, or Weight to be moved w 3, is between the Prop C and the Point
+A, to which by the means of the Pulley P, the Power or Weight to move the
+other by, is applied. Bakers Knives for cutting Bread are commonly of this
+Sort.
+
+_Fig. 7._ Is the third Sort of Lever, where the Resistance to be overcome,
+or Weight to be moved, w 2 is at one End, the Prop at the other, and the
+Power or Weight w 3 between them. A Ladder lifted up by the Middle, in
+order to be rear'd, where one End is fixed, is of this Sort. Only the
+Force being in this Case nearer the Prop than the Resistance to be
+overcome, or Weight to be moved, this Sort of Lever diminishes Force
+instead of increasing it, and is therefore of little Use.
+
+_Fig. 8._ Is a common Lever of the first Sort, with its Prop and equal
+Divisions, fit to be used as the Stiliard.
+
+_Fig. 9._ Is a compound Lever of the first Sort, as long as the single one
+just above it, where a Weight at G, by being doubled three several Times,
+will raise eight Times its own Weight at A, as well as the other does it
+at once. This last is therefore of the same Force as the former, and no
+more; and by being compounded, is less considerable than the other.
+
+_N. B._ Had the Proportion in the Compound Lever, _Fig. 9._ been
+otherwise, as suppose the Part B C on one Side of the Prop B three Times
+the Length of A B on the other Side, and the same in the other two Levers
+C E and E G; then the Weight G being but the 27th Part of the Weight at A,
+will be in _Æquilibrio_ with it.
+
+_Fig. 10._ Is a bended Lever of the first Sort, where C the Prop is at an
+Angle, and the Force is increas'd with C H, the Distance of the Weight
+w 1, which by the means of the Pulley P, is applied to the longer Part of
+the Lever; and in this Lever, the Power is to the Resistance reciprocally
+as their Distances. An Hammer drawing out a Nail is such a bended Lever.
+
+_Fig. 11, 12._ Shew that Levers or Balances that are even when horizontal,
+may be uneven in other Positions; that is, too light when the Center of
+Gravity of one Weight is fix'd to the Lever or Balance above, and it is
+elevated; or below, and depress'd: Because the Perpendicular cuts the
+horizontal Line too near the Center in these Cases.
+
+
+
+
+                 [[Plate III. ― Sutton Nicholls sculp:]]
+
+
+
+
+                              MECHANICKS. 3
+
+                    An Explication of the Third PLATE.
+
+
+Figure 1. Is a Sort of Compound Lever of the second Kind, where the Weight
+H 6 is unequally born by the Weights F 4 and G 2, which are reciprocally
+proportional to the Distances C B and C A; and are accordingly _in
+Æquilibrio_. Whence we see how two Men may bear unequal Parts of the same
+Weight, in Proportion to their Nearness thereto.
+
+_Fig. 2._ Is another Engine of the same Nature with the former; where the
+Lines D C, A E, B F, and the Lever A B, are parallel to the Horizon; but
+the Lines on which the Weights hang D w 7, E w 5, F w 2, are perpendicular
+thereto; and here a Force or Weight pulling at the Point C sustains the
+unequal Weights w 5 and w 2 _in Æquilibrio_: Provided the Distances C B
+and C A be reciprocally proportional to those Weights. Whence we learn,
+how Horses of unequal Strength may be duly fitted to preserve equally in
+their Labour; _viz._ by taking care that the Beam by which they both draw
+a Weight or Waggon, may be divided at the Point of Traction as C, in
+reciprocal Proportion to such their Strength.
+
+_Fig. 3._ A B is an upper Pulley, of no direct Advantage, but for
+Readiness of the Motion, as increasing not the Power at all; equal Weights
+being ever required to raise others.
+
+_Fig. 4._ Is an upper and an under Pulley connected together; where the
+upper being of no Efficacy, the lower does however double the Force, as is
+ever the Case in such Pulleys.
+
+_Fig. 5._ Is a Compound Pulley of three upper and three under Pulleys, all
+communicating together; where therefore the whole Weight is divided among
+6 Strings; and so 1 Pound balances 6 Pound. The last String B M 1, as
+passing beyond the last upper Pulley, not being here to be reckon'd of any
+Consequence.
+
+_Fig. 6._ and 7. These are Boxes of the same Number of upper and under
+Pulleys with the former; only in other Positions, and depend on the same
+Principle entirely.
+
+
+
+
+                  [[Plate IV. ― Sutton Nicholls sculp:]]
+
+
+
+
+                              MECHANICKS. 4
+
+                   An Explication of the Fourth PLATE.
+
+
+Figure 1. Is a System of Pulleys connected together, whereby the Force is
+increased by Addition in Proportion to the Number of Cords; so that one
+Pound, w 1, sustains five Pounds, w 5, as must happen from the Equality of
+the stretching of the whole Cord, and the consequent Division of the whole
+Weight into five equal Parts, as equally supported by them all.
+
+_Fig. 2._ Is a System of Pulleys not connected together, whereby the Force
+is increas'd, for every lower Pulley; according to the Numbers, 2, 4, 8,
+in a double Proportion; because every lower Pulley doubles the Force of
+the former; as is evident at the first Sight; since the Velocity of Ascent
+or Descent of the greater Weight is every Time but half so great as
+before.
+
+_Fig. 3._ Is the Axis in Peritrochio; or Wheel, with its Axel; where any
+Weight or Force applied round E F, or C D, or A B, has just so much
+greater Power to move the Wheel, or entire Machine about the Axis, as the
+Velocity or Distance from the Geometrical Axis it self is greater. Nor is
+there any farther Difficulty in this plain Engine.
+
+_Fig. 4._ This is only a Train of Wheel-work; which by Composition of
+Wheels vastly increases the Force. Thus suppose the Diameter of the Barrel
+E F, be ten times the Diameter of the Pinion G: And the Diameter, or
+Number of equal Teeth in G, be one tenth of the Diameter, or Number of
+equal Teeth in H I: And the Diameter and Velocity of the Teeth in H I, be
+ten times the Diameter and Velocity of the Pinion K; and the Diameter or
+Number of equal Teeth in K, be one tenth of the Diameter, or Number of
+equal Teeth in L M; And that the Barrel N O, be of the same Diameter with
+the Wheel L M. Then a Weight on the Barrel E F will balance a Weight one
+hundred times as heavy upon the Barrel N O; which is done by its moving an
+hundred Times as swift as the other. For the Velocity in the first Barrel
+E F, to that of its Pinion G, is as ten to one; and that in the Wheel H I,
+to that in its Pinion K, is also as ten to one. While the Velocities at
+each Wheel, and its corresponding Pinion in the other Wheel, as well as at
+the Wheel L M, and its Barrel N O, are equal.
+
+_Fig. 5._ Is a compound Engine, to prove that in a Wedge, as E M G,
+depress'd by a Weight w, or by its own Weight, or by a Stroke, the Force
+is diminished in Proportion to the Sine of its Aperture, compar'd with the
+Line of its Depth: So that when the former Sine is double or triple, _&c._
+the Force is diminished one half, or one third, _&c._ This is here prov'd
+by the Wedges separating two Cylinders, which are drawn together by other
+Weights, in the Scales R and S beneath, when its Sides are screw'd nearer
+or farther off, to adjust their Distance to those Weights perpetually.
+
+_Fig. 6._ Is a Wedge by it self, where the Force is increas'd in the
+Proportion of the Sines of the Angles of Aperture, D F and D E, to the
+Radius D B; or is resolv'd into two Forces, the one perpendicular, and the
+other parallel to the Plain of the Tree or Timber it is to reeve: And this
+because the Velocity downward is ever to the Velocity side-ways in the
+Proportion of D B to D F and D E, or to 2 D F. _i. e._ by the Similitude
+of Triangles, as A B or C B to A C.
+
+_Fig. 7._ Is a Paper Wedge, H F G coil'd round a Cylinder, and so
+representing a Screw; and shews that its Force must be increas'd in
+Proportion to the Progress along its Cylinder, when it is compar'd with
+the Circumferences on the same Cylindrical Surface, or as H F to H G.
+
+_Fig. 8._ Is a compound Engine to explain and measure the Power of the
+Screw: from whence it appears, that the Force of Screws is reciprocally
+proportional to the Distance of the _Helix_'s or Threads which compose
+them.
+
+
+
+
+               [[Plate V. ― Sutton Nicholls del. & sculp:]]
+
+
+
+
+                              MECHANICKS. 5
+
+                    An Explication of the Fifth PLATE.
+
+
+Figure 1. Is a Compound Engine in which all the several Mechanical Powers
+are combin'd: as the Wheel and Axle G H: The Balance or Lever I K: the
+Screw F; which includes the Wedge: and the Pulley L M. The entire Force of
+this Engine is to be computed by compounding the separate Forces together.
+
+_Fig. 2._ Is a Windmill; whose Force is here represented, by its raising a
+Weight on a Barrel. The Wind is supposed to blow parallel to the Axis,
+from E towards D; its several Sails have their Plains nearly 45 Degrees
+oblique to the Plain through the middle of those Sails: Two of them
+inclining, and two reclining. By this Means the Wind falling at about 45
+Degrees obliquity on the Plain of each Sail; the Breadth of each Sail is a
+Diagonal of a square, one of whose Sides is parallel to the Direction of
+the circular Motion, and has its full Force; and the other is
+perpendicular thereto, and so has no Effect as to that circular Motion at
+all. And as much as the Side of a Square is lesser than the Diagonal, so
+much of the whole Quantity of the Wind is lost on every single Sail. But
+then each Pair along the same Line, by the different Situation of those
+Sails, agreeing in the same Motion, the whole united Quantity is more than
+the single Quantity upon one equal Sail directly expos'd to the same Wind,
+as much as two Sides of a Square are greater than the Diagonal. But this
+without the Consideration of the weakning of the Force of the Wind by the
+Obliquity of Incidence; which alters the former Proportion: for this also
+diminishing the Force in the same Proportion with the former Diminution of
+the Quantity of the Wind, the whole Diminution will ever be as the Squares
+of that Quantity; or as the Squares of the Sines of the Angles of
+Incidence: wherefore in this Case of Four oblique Sails of 45 Degrees will
+be equivalent to Two direct ones.
+
+_Fig. 3._ Is the elastical spiral Spring of a Watch, out of its Box, and
+unwinding it self more weakly, as it is less restrained.
+
+_Fig. 4._ Is the same Spring in its Barrel A B join'd by a Chain to its
+Fusee C D, or spiral Line about a Cone, which Cone has the Semidiameter or
+Distance from its Axis in the very same Proportion, greater as the Spring
+is weaker, and lesser as the Spring is stronger: that so the absolute
+Force on the Wheels of the Watch may be ever the same, for the exact
+Equality of their Motion in all Cases.
+
+_Fig. 5._ Is an Imitation of a Waggon or Coach, with its fore Wheels E F,
+either equal (as here,) or else lesser, or greater, than the hinder G H;
+to be drawn by a Weight w in the Scale, either upon an Horizontal, or upon
+an Inclined Plain A B, and to get over any Obstacle as C D: The Quadrant
+M, and Bullet N, are to shew the Quantity of the Elevation of that Plain,
+for the Tryal of Experiments relating to all such Sort of Vehicles.
+
+_Fig. 6._ Is a strong Machine, with a Wheel O P, and its Winch R, and
+String O P L K, its lesser Barrel K L, circular Table A B, Scale with a
+Weight w, suspended by a String that comes through the hollow Axis C D,
+and oblique Tube G C, in which Mercury or a Bullet is included; its Screw
+H; its Balls I and B, and their Strings; To shew that Motion once begun
+always continues, till some other Cause stops it: That absolute and
+respective Motion are entirely different: And to shew withal the Endeavour
+of Bodies that move circularly to recede from the Center of their Motion,
+on inclined, as well as horizontal Plains, and that in the same Circle in
+a duplicate Proportion to their Velocity.
+
+
+
+
+                  [[Plate VI. ― Sutton Nicholls sculp:]]
+
+
+
+
+                              MECHANICKS. 6
+
+                    An Explication of the Sixth PLATE.
+
+
+Figure 1. Is an Instrument to shew the various Parabola's that are made by
+Projectils, and particularly the Truth of the several Rules in the Art of
+Gunnery. Wherein A B is a Tunnel full of Quicksilver, D K is a Glass Tube,
+let into a Groove or Frame of Wood for its Support, and at K is a fine
+Stem, accommodated to the Arch of a Quadrant L M, and turning upon its
+Center, to direct the projected Quicksilver to any Angle; while the Tube's
+perpendicular Altitude, or the Force that produces the Projection, is
+either the same, or altered by a different Inclination at Pleasure,
+according to the Nature of the several Experiments.
+
+_Fig. 2._ Is a Cycloid with its equal Sides A B, A C, and pendulous Body
+E, oscillating therein. And, _Note_, That by the Make of the Figure, the
+Line B C is equal to the Circumference of the Circle D G F, by which it
+was describ'd; that the Length of the Cycloid it self is four times that
+Circle's Diameter; that every Part of it from F the _Vertex_ is still
+double to the Chord of the Correspondent circular Arch G F; that its
+included Area B D C F, is Three times the Area of the former Circle; that
+the Force upon the Pendulum at any Point E, is exactly proportional to the
+Distance along the Cycloid of the Point from the _Vertex_, as E F; and
+that therefore the Time of every Oscillation, in all Angles whatsoever, is
+always equal.
+
+_Fig. 3._ A C B is a Syphon with Quicksilver from A to C, and a Pendulum
+of half that Length; to shew here also that the Force is as the Line to be
+describ'd, and that by Consequence the Vibrations in the Syphon are all
+equal: as also to shew that they are equal to those of a Pendulum, of half
+the same Length: As is plain from the former Case of the Cycloid, where
+the Length of the Pendulum is half that of the Cycloid in which the Body
+moves.
+
+_Fig. 4._ A B are two Spheres, to denote the several Laws of Motion in the
+Collision of Bodies, whether Elastical or not Elastical, to be tried in
+the Cycloid, or in a Circle, with proper Corrections: Which Experiments
+yet are most of them too difficult for such a Course as this is.
+
+_Fig. 5._ Is an Instrument to explain muscular Motion; supposing the
+Muscles to be some way like a String of Bladders; by shewing that a
+smaller Quantity of an elastical Fluid may equally raise equal Weights
+with a larger; and to shew exactly what Quantity is necessary for any
+particular Effect. For thus will the lesser Quantity of Air, (measured in
+both Cases by the Gage C A K, as condens'd by the Syringe H A) equally
+raise an equal Weight to the same Height by the lesser three Bladders,
+that the greater Quantity raises the same by the one larger Bladder.
+
+_Fig. 6._ Are several Pendulums of several Sorts of Matter, heavy and
+light; where the Centers of Suspension and Oscillation are equally
+distant, and the Times of those Oscillations are all equal. This also
+hints the other remarkable Phænomena of Pendulums; _viz._ that the
+Semicircular and Cycloidal Times of Oscillation are to each other as 34 to
+29: That in both the Length of the Strings of Pendulums are in a duplicate
+Proportion to their Times of Oscillation; and that the Heights of Roofs,
+_&c._ may be found from the Times of the Oscillations of Pendulous Bodies
+fixed to them, on the known Hypothesis that a Pendulum of 39.2 Inches
+vibrates in one Second of Time.
+
+_Fig. 7._ Is a Fountain running on Wheels, and made by Air condens'd on
+the Surface of Quicksilver, and so forcing the Quicksilver to ascend
+through the Pipe G: And is to shew that the Lines of Projectils, or other
+Bodies, are not alter'd by the common Motion of the whole Instrument or
+Floor on which they are plac'd; and that all Motions on the Earth, if it
+move, will be the same as if it stand still.
+
+_Fig. 8._ Is a Parabola with the several Lines belonging to it, in order
+to demonstrate the Doctrine of Projectils; and particularly the Art of
+Gunnery.
+
+_Fig. 9._ Is an Engine moving on Wheels, that lets a Ball fall down from a
+Groove through a Hole, as it is in Motion; to shew that it will then fall
+on the same Point of the Frame that it falls upon when it is at rest; as
+does a Stone let fall from the Top of the Mast of a Ship under Sail: and
+that all respective Motions on the Earth must be the very same, while it
+self moves as if it were at rest.
+
+_Fig. 10._ Is a Cylindrical Iron A B, swinging on a Pin E F, in the very
+same time that a pendulous Body D of two thirds of its Length C D does; to
+shew that two thirds is the Center of Oscillation or Percussion in all
+such prismatick or cylindrical Bodies.
+
+
+
+
+              [[Opticks Plate I. ― Sutton Nicholls sculp:]]
+
+
+
+
+                                    7
+                                 OPTICKS.
+
+                    An Explication of the First PLATE.
+
+
+Figure 1. Represents the Foundation of Vision, and of all Opticks
+whatsoever, by exhibiting to the Eye a Specimen how the Rays of Light do
+as well originally, as after Reflection or Refraction, spread themselves
+in right Lines from each Point in every visible Object, as P, to each
+other Point, as R, R, R, R, R, every way, to be receiv'd by the Eye in any
+direct Position whatsoever.
+
+_Fig. 2._ Represents the known Law of Reflection; that the Angle of
+Incidence C P D, is equal to that of Reflection C P E, or that the Angle
+of Inclination D P A is equal to the other E P B.
+
+_Fig. 3._ Shews the Reason why a plain Looking-Glass, as A E F B, exhibits
+the Object C D by the Image _c d_, which is equal to C D, and equidistant
+from the Glass A _c_ = A C: And in an erect Posture; all depending only on
+the Equality of the Triangles, whose Vertices are C _c_ : D _d_, and have
+their common Bases below E and above F, which Glass by forming the same
+Image _c d_, so to the Eye, as if the real Object C D was at _c d_, must
+needs shew that Picture in the Place assign'd, without any Inequality of
+Distance or Magnitude, or any Inversion.
+
+_Fig. 4._ Shews the Reason why the same or equal Object, as A B, C D, E F,
+appears larger when it is nearer, and smaller when farther off: _viz._ on
+account of the Inequality of the Angles A G B, or M G N, and C G D, or
+K G L, and E G F or H G I, and the consequent Inequality of the Pictures
+made by the Rays at the Bottom of the Eye.
+
+_Fig. 5._ Shews the Reason why a Convex Looking-Glass, as A E F B,
+exhibits Object C D by the Image _c d_, both nearer to the Glass, and
+lesser than it self; but still in an erect Posture. All depending only on
+the different Bend of the Circle between E and its lower Point, between F
+and its upper Point; which cannot make the Angles of Reflection or
+Inclination equal, as they must needs be in all such Reflections, without
+making the Vertices of the Angles, as _c_ and _d_, nearer the Glass than C
+and D: And so the apparent Picture or Diameter _c d_ lesser than that of
+the Object C D, though without any Inversion.
+
+_Fig. 6._ Shews the Reason why a Concave Glass, as A E F B, exhibits an
+Object plac'd nearer the Glass than the Center, as C D by the Image _c d_,
+remoter from the Glass, and larger than it self, _viz._ for Reasons just
+contrary to those under the fifth Figure foregoing.
+
+_Fig. 7._ Shews the Reason why a Concave Glass, as C D E F, exhibits an
+Object, if it be plac'd remoter than the Center, as A B, inverted, and at
+different Distances between the Eye and the Glass; according to the Length
+or Shortness of its own Distance, as B C or A D, _viz._ Because the Rays
+from the same Point still cross one another, as at G and H, before they
+fall upon the Eye; and so by forming an inverted Image make it impossible
+for the Eye to see the Object in any other Position than that the Image
+has; which Image indeed it self is the only proper Object of the Eye, in
+all such Cases whatsoever.
+
+_Fig. 8._ Is a Picture in Confusion; but rectified by a Convex Cylinder,
+and thereby brought into exact Order again.
+
+_Fig. 9._ Represents an Image in a Cylindrical Concave Surface, when the
+Eye is in a Plain perpendicular to its Axis; so that lengthways it is as a
+Plain, and breadthways as a Concave _Speculum_: Which therefore makes the
+Picture longer, but not wider. The contrary will happen in a Convex
+_Speculum_, which will make it shorter but not narrower, for the like
+Reason.
+
+
+
+
+                  [[Plate II. ― Sutton Nicholls sculp.]]
+
+
+
+
+                                OPTICKS. 8
+
+                   An Explication of the Second PLATE.
+
+
+Figure 1. Shews that an Object, as K, seen through a plain Glass, whose
+Sides A B, C D, are parallel, by the Eye at G, appears out of its true
+Place; and this so much the more as the Glass is thicker: While at the
+same time the two Surfaces do exactly balance each other's Refraction, and
+make the two Rays H K, G F exactly parallel.
+
+_Fig. 2._ Exhibits a plain Method of measuring the Refraction of Fluids at
+all Angles, and of proving thereby that it is always in one fixed
+Proportion of the Sines, as the next Figure will explain it. For if the
+moveable Rule K C L, with its measuring Circle A B D E fix'd by the Prop
+E, to a heavy Pedestal F G, in a large Glass A H I D, be so far immers'd
+in the Fluid, that the Center C may be in the Surface of the Fluid, and
+one of its Legs C L be so far bent from a rectilinear Position, that the
+Refraction of the Fluid can just make it appear as if it were in a strait
+Line, the Angle B C K, or its equal M C E, is the Angle of Incidence: And
+L C E the Angle of Refraction: And L C M the Difference, or the refracted
+Angle.
+
+_Fig. 3._ Is for the Illustration of the former Proposition, and shews the
+Sines afore-mentioned; as A D or G N (for they are suppos'd equal, and the
+Line A C N one strait Line,) is the Sine of the Angle of Incidence, and
+F E the Sine of the Angle of Refraction, which Sines do in the same Fluid
+at all Angles bear one and the same Proportion to each other; till at
+last, if the Refraction be out of a thick Medium into a thin one, and
+makes the second Sine equal to the Radius, that Ray cannot emerge at all,
+but will be reflected back by the Surface into the same Medium whence it
+came, along the Line C R.
+
+_Fig. 4._ Is a Bason of Water, or other Fluid; to shew the common
+Experiment of Refraction; where a Shilling, or other Object at A, (which
+is so plac'd that it cannot be seen by the Eye at O, the Side of the Bason
+C interposing) is readily seen there, as soon as the Water or other Fluid
+is put in to the same Bason, and appears to be remov'd to the Point B.
+
+_Fig. 5._ Is the Alteration of a round white Object D, as seen through a
+Triangular Glass Prism A B C, by the Eye at G, where the double Refraction
+of the Glass at E and F makes the Object appear at _d_; and that as an
+oblong colour'd Image; wherein the upper Part is made by the violet Rays,
+which are most refrangible; and the lower by the red Rays, which are least
+so; and the intermediate Parts by those that are refrangible in a mean
+Degree; after the Order of the Colours of the Rainbow.
+
+_Fig. 6._ Shews the Nature of a multiplying Glass A D, and its Plains A B,
+B C, C D, _&c._ and the Reason why the different Refraction of every
+oblique Plain, as A B, C D, _&c._ exhibits the same Object K as a
+different Object k, k, _&c._ according to the Number of the oblique
+Plains: While the direct Plain B C shews it still in its own Place: And
+while the Convolution of the Glass on the Axis K L removes all the oblique
+Images, but does not remove the direct one, on Account of the Change of
+the Position of those oblique Plains, and of the unchanged Position of the
+direct Plain.
+
+_Fig. 7._ Shews the Effect of the Lens, or double Convex Glass, in
+gathering parallel Rays, as G L, H M, A B, I N, K O, _&c._ towards a
+Point, as D; because, as in the Case of the Prism above, the Refraction
+_to_ the perpendicular in the Entrance, and _from_ it in the Exit of those
+Rays, do still, by the different Position of that Perpendicular, conspire
+to unite the same Rays.
+
+_Fig. 8._ Shews the contrary Effect of the double Concave Glass, in
+scattering the parallel Rays; and that exactly on the like Account; and so
+this needs no new Explication.
+
+_Fig. 9._ Shews the Reason why a Lens, or double Convex, shews a near
+Object at Q, as more remote at _q_, because it refracts it so that the
+Rays from the same Point meet more backward than before: And why it shews
+the same Object larger also: Which must needs be, because every Point in
+the Object appearing so much more backward, and yet in the same apparent
+Angle, its Length and Breadth must every where be proportionably enlarg'd.
+
+_Fig. 10._ Shews how such a Lens inverts Objects, as A, B, _b a_, which it
+does on Account of the Intersection of the Rays from each Point, in or
+near the Lens it self: Which necessarily infers such an Alteration: just
+as the Images of all Objects are in the Eye in an inverted Position, on
+the like Account.
+
+_Fig. 11._ Shews how a Lens does so refract the Rays from every Point of
+an Object, that is in its Focus C, and B, and A, that the Rays from each
+of those Points do become parallel afterward; and also how parallel Rays
+of different Positions are gather'd in that Focus.
+
+_Fig. 12._ Is the Nature of direct Vision by the Eye, in some Conformity
+to the 10th Figure: only in this Case the Crystalline Humour is the Lens.
+
+_Fig. 13._ Is the Case of a Concavo-convex Glass, with its parallel
+Surfaces, as in _Fig. 1_.
+
+
+
+
+                 [[Plate III. ― Sutton Nicholls sculp:]]
+
+
+
+
+                                OPTICKS. 9
+
+                    An Explication of the Third PLATE.
+
+
+Figure 1. Is a Telescope, with two Convex Glasses, the one towards the
+Object and the Segments of a great Sphere, the other near the Eye, the
+Segments of a small Sphere _g h i_, and they are to be so placed that the
+distinct Base or Image may, by the Collection of the Rays, be in the
+common Focus of both the Glasses _f e d_. By these two Glasses the
+parallel Rays, or those nearly so, as proceeding from the same Point of
+the Object A B C, (which is to be suppos'd considerably remote) are made
+to meet in the intermediate Image _f e d_, at _f_, and _e_, and _d_; and
+again at the Bottom of the Eye, at _r_, and _s_, and _t_; but in an erect
+Position; and therefore so as to shew the Object inverted.
+
+_Fig. 2._ Is a Telescope with four Convex Glasses, the one towards the
+Object, and three nearer the Eye: Whose Images are made in the common
+Focus of two Glasses, as before. This is like the former; but only that
+two of the Eye Glasses serve merely to reinvert, or to erect the Image,
+that so it may be inverted at the Bottom of the Eye; and therefore may
+shew the Object in its true or erect Position.
+
+_Fig. 3._ Is a Telescope, with a Convex Object Glass, and a Concave Eye
+Glass; which last, by scattering the Rays, as if they came from a nearer
+Point, makes the Image inverted in the Bottom of the Eye, and therefore
+shews the Object in its true or erect Position. Only this takes in but a
+small Part of an Object, an so is less used than the two former
+Telescopes.
+
+_Fig. 4._ Is a Telescope with a Triangular Prism D B in its Axis; and that
+Prism's Gage F G for the Demonstration of the Refraction out of _Vacuum_
+into Air, and out of thinner Air into thicker; and both by the Means of an
+Object seen through the Prism, as well when the Air is condensed, as when
+it is exhausted. Where in the first Case the Object is seen higher, and in
+the other lower than in its natural Situation; as the two following
+Figures demonstrate.
+
+_Fig. 5._ Shews how the Object or Circle which was low at first, is to
+Appearance _rais'd_ as it passes through condens'd Air; by being refracted
+towards the perpendicular, in its Ingress into a Glass Prism, and from it
+in its Egress into the common Air again.
+
+_Fig. 6._ Shews how the same Object or Circle, which was high at first, is
+to Appearance _depress'd_, as it passes through the _Vacuum_; by being
+refracted from the Perpendicular, in its Ingress into the Prism, and
+towards it, in its Egress into the common Air again.
+
+_Fig. 7._ Is a Triangular Glass Prism, fitted to receive all sorts of
+Fluids, and when rightly apply'd to the Semi-circle of the next Figure,
+does exactly measure the refractive Power of all those Fluids. Where the
+vertical Angle G D H is 45 Degrees; and by consequence the half Angles
+C D H, C D G, C H G, are 22° 30′, and where all is to be so contriv'd,
+that the Rays within the Glass may be parallel to G H, and perpendicular
+to C D, and may fall on each side Plain of the Glass Prism in an Angle of
+22° 30′ from their Perpendiculars; that so the Refractions at the Ingress
+and Egress may be equal, and the Computations easy.
+
+_Fig. 8._ Is the Semicircle, with the Glass Prism full of its Liquor
+rightly apply'd thereto; and both Arms of the Index E D, F D, equally
+elevated above the horizontal Line A C. This shews the Proportion of the
+Sine of the Angle of Incidence to that of Refraction, in this Incidence of
+22° 30′; which Proportion of Sines being the same in all other Angles, we
+hence learn that Proportion accurately and universally.
+
+
+
+
+                 [[Plate IIII. ― Sutton Nicholls sculp:]]
+
+
+
+
+                               OPTICKS. 10
+
+                   An Explication of the Fourth PLATE.
+
+
+Figure 1. Is the Apparatus for Microscopes: Containing A C a Cylinder of
+Brass or Ivory; to which, near the Eye at K, the Microscope it self, or
+very small Sphere of Glass set Ivory, is apply'd; G H a small Slice of
+Ivory, and its _Muscovy_ Glass Circles, with the fine Objects upon them,
+inserted in their true Place; E F a Convex Glass, screwed into the former
+Cylinder, and at a due Distance casting Light on the Objects; with I L,
+the Handle of the Microscope.
+
+_Fig. 2._ Is only one of the Slices of Ivory A B, like G H
+before-mentioned, set by it self; with the double Circles of _Muscovy_
+Glass, and kept down by circular Wire; between which, on one of those
+Glasses, the small Objects are commonly plac'd.
+
+_Fig. 3._ Is a Scheme to demonstrate how the double Microscope comes to
+magnify so much. Where G is the small Object; which, if there be Light
+sufficient, may by the small Microscope Glass E F, placed very near the
+Object, be cast into a larger Image H I: Which by the Means of the two Eye
+Glasses, are reduc'd into a Compass fit to enter into the Eye. And here by
+the way it is to be noted that die small Glasses, whereby single
+Microscope do magnify so much, and whereby the Magnitude is in Part
+increas'd in this double Microscope, is only a very small spherical Glass,
+or Segment of it, which does so suddenly reduce distant Rays to
+Parallelism, or nearly to it, that a small Object, which by its great
+Nearness could not be otherwise seen, is hereby made visible.
+
+_Fig. 4._ Is the double Microscope, with all its Apparatus and
+Contrivances, as to the Position of the Object, the Light to be thrown
+upon it, and the Elevation and Depression of the Instrument it self, as
+the Case requires, _&c._ all which the Figure does plainly shew to the
+Eye.
+
+_Fig 5._ Is a circular Plate of Ivory, with a small Sphere of Glass in its
+Center, and a Screw round the Center, to be put upon the first Figure at
+B C, as a single Microscope.
+
+_Fig. 6._ Is a small Fish, represented in a Cylindrical hollow Glass, so
+as it is to be placed when the Circulation of Blood in its Tail is to be
+seen by the single Microscope.
+
+_Fig. 7._ Is the Magick Lanthorn, with its Pedestal T: its Lamp W; its
+double Convex Glass X Y; its Pictures inverted upon the Plate E F; and its
+large or gygantick Images at B A projected upon the white Wall, to the
+Surprize of the Spectators.
+
+_Fig. 8._ Is the Demonstration of the _Camera obscura_, or dark Chamber;
+which will shew the Object as A B erect. Where C D is the double Convex
+Glass, ready to form an inverted Picture _b a_: Which by the Reflection of
+the plain Speculum E F, plac'd obliquely in an Angle of 4°, is formed in
+an erect Position at _a b_, for the View of the Spectator.
+
+
+
+
+                  [[Plate V. ― Sutton Nicholls sculp:]]
+
+
+
+
+                               OPTICKS. 11
+
+                    An Explication of the Fifth PLATE.
+
+
+Figure 1. Is one of Sir _Isaac Newton_'s Experiments, to shew the
+different Refrangibility of the Rays of Light, of the different Colours,
+Red, Orange, Yellow, Green, Blue, Indigo, Violet. Where D E is a
+Parallelogram of Pastboard, having the one half D G blue, and the other
+half F E red; both strongly illuminated by the same Candle: and having
+black Silk wrapped several times round it. M N is a Lens or double Convex
+Glass interpos'd, which gathers upon white Paper the blue Rays sooner at
+_h i_ than the Red at H I: As appears by the Distinctness of the Colours
+and of the Silk at those and only those Distances. Where also at somewhat
+above 12 Feet from the Colours to the Images, the Distance between _h i_
+and H I is no less than an Inch and half.
+
+_Fig. 2._ Is another of Sir _Isaac_'s Experiments to the same Purpose:
+Where X Y represents the Sun: E G, a Window, with a small round Hole at F:
+within which is a Triangular Glass Prism A B C, by which the Rays of the
+Sun are differently refracted upon a white Wall or Paper M N; and become
+an Oblong Image P T; the Violet seen at P as most refracted; and the Red
+at T, as least refracted: And the intermediate Colours seen in
+intermediate Places, according to the different Degrees of their
+Refraction.
+
+_Fig. 3._ Is another of his Experiments, to shew that White is a Mixture
+of all Sorts of colour'd Rays; where D C is a Hole in the Window, which
+admits the Sun's Rays. E F G a Prism, casting its oblong colour'd Image
+upon a Lens, or double Convex Glass; which collects all those Rays into
+its Focus. In which Case, the Point of Concourse exhibits a perfect White
+Colour; tho' upon their Separation again, the oblong colour'd Image
+appears again, only in an inverted Position: as the crossing of the Rays
+in the Focus must of Necessity occasion.
+
+_Fig. 4._ Is the last Experiment improv'd; by shewing that the White Light
+made by the Mixture of all the Colours is but imperfectly so, when any of
+the several Colours are intercepted in their Passage to their Focus, or
+Place of Mixture.
+
+_Fig. 5._ Is the _Experimentum Crucis_, or determining Experiment. Where
+B F is the Hole that lets in a large Ray of Light: whose middle Part,
+after it has pass'd through the Prism A B C, is let through a lesser Hole
+at G, and forms an oblong colour'd Image at _d e_: where another small
+Hole lets thro' one Colour only; which passing through the Second Prism
+_a b c_ it is refracted again, and cast upon N M. And here it is most
+remarkable, that the two Holes and second Prism are kept immoveable; and
+so the Rays G _g_ fall upon the second Prism in the very same Angle,
+whatever Colour they are of, and that by the Motion of the first Prism,
+all the Colours may successfully pass through the same Holes. Yet is the
+Refraction by the second Prism never then able to produce any Variety of
+Colours; but exhibits the Image always of that Colour alone, which falls
+upon it before the second Refraction.
+
+_Fig. 6._ Is a Figure for the Explication of the several Refractions and
+Reflections of Light, which cause the _Phænomena_ of the Rainbow. Thus if
+the greatest Crowd of Rays enter in Parallel to B Q along or near to A N,
+the round Drop of Water L B G Q will refract Part of those Rays to F,
+whence Part of them will be reflected to G: And going there out of the
+Drop, will be thereby refracted to R, which double Refraction will so
+separate the several Colours, and make them go out in Angles so sensibly
+different, that as the Eye is placed a little higher or lower, it will see
+a different Colour; and that in Angles as A X R, of about 41 Degrees; and
+this is the Case of the primary Rainbow, which appears in about that Angle
+from the Axis B Q, or its Parallel A X. Thus also, if the same Line A N be
+now suppos'd to represent another Drop, and that some of the Rays at G are
+reflected a second time, and so pass out at H, and are there refracted to
+S; here will be a weaker Impression, but a like Refraction and Separation
+of the Colours as before; and the Eye placed a little higher or lower will
+also see different Colours, tho' in a contrary Order to the former; and
+that in an Angle, as A Y S, of about 52 Degrees and a half; which is the
+Case of the secondary Rainbow.
+
+_Fig. 7._ Are the two Rainbows themselves, r presented as they appear in
+Nature. Where A E B F represents the Air full of spherical Drops of Rain,
+in such Parts as the Angles E O P, F O P are about 41 Degrees from the
+Axis O P, which Axis is the Line from the Sun's Center, through the Eye of
+the Spectator, to the Center of the Rainbow: And where C G D H represents
+the same Air, full of the like Drops, in such Parts where the Angles
+G O P, H O P are about 52 Degr. and a half. Where also the Rays S E, S F,
+S G, S H, coming from the Sun's Center, are represented as parallel, by
+reason of its vast Distance. These Rays, when they fall upon the higher
+Quadrant of the Drop, as at S E, S F, come to the Eye at O in about an
+Angle of 41 Degrees, after two Refractions, and one Reflection; and so
+cause the primary Rainbow: the Red is without, by the least refrangible
+Rays at F: and the blue within, by the more refrangible Rays at E. But
+when they fall upon the lower Quadrant of the Drop, as at S G, S H, they
+come to the same Eye at O, but in an Angle of about 52 Degrees and a half,
+after two Refractions, and two Reflections, and so cause the secondary
+Rainbow. Which is Blue without, by the more refrangible Rays at H; and Red
+within by the least at G. Where note, that because the Angles F O P,
+E O P, as well as those H O P, G O P, are ever the same, the same Colours
+must still be circular, or appear in the Surface of a right Cone, whose
+Axis is O P, and whose Sides are the Lines turned round thereon, as O E
+O F, and O G O H.
+
+
+
+
+              [[Hydrostaticks Plate I. ― I. Senex sculp.^t]]
+
+
+
+
+                                    12
+                              HYDROSTATICKS.
+
+                    An Explication of the First PLATE.
+
+
+Figure 1. Is a Balance, to weigh Water in its own Element, and in the Air;
+and to prove that its Weight is the very same in the former Case as in the
+latter. For when the Glass Bottle F is exhausted of Air, it will indeed
+require much more Weight to counterpoise it in the Air, than in the Water;
+by Reason of the much greater Weight of the Water thrust out by it, than
+of the Air; yet when upon the Admission of Water within, you weigh it
+again in the Air, and then in the Water, the additional Counterpoise now
+necessary is the very same; and shews that the real Weight of the Water
+admitted, is the same in both Elements. This Figure does also shew how
+Trials may be made to shew the respective Weight of those Bodies in Fluids
+that sink in them.
+
+_Fig. 2._ Is an inverted Syphon, to shew why Fluids ever press according
+to perpendicular Altitude, and not according to Quantity of Matter: As the
+small Quantity of Water in the smaller Tube is a Balance for the great
+Quantity in the greater, and stands upon the same Level C D E G; because
+in all possible Motions and Vibrations of the Fluid, the Velocity in the
+smaller must, by the Make of the Syphon, compensate the Quantity in the
+larger; the one ascending or descending as far as B D, while the other
+ascends only as far as E H, and so the Force is equal on both Sides, as is
+the known Case in the Stiliard also.
+
+_Fig. 3._ Is to shew the same equal perpendicular Height or Level in a
+common Syphon inverted.
+
+_Fig. 4._ Is a Number of hollow Tubes, of all Shapes and Directions, to
+shew that if their lower Orifices be put under tinged Water, and Oil be
+poured on the Surface of that Water, from G H to E F, the tinged Water
+will equally be pressed upwards through all the Tubes, according to all
+Directions; and will stand upon a common Level; tho' somewhat under the
+Surface of the Oil, because Oil is lighter than Water.
+
+_Fig. 5._ Is for the same Experiment with Water on the Surface of
+Quicksilver; into which Quicksilver a hollow Tube is inserted before the
+pourings in of the Water. For the Water will press upon the Quicksilver,
+and raise it in the small Tube, till it bears the same Proportion to the
+Height of the Water, that the Specifick Gravity of Water bears to that of
+Quicksilver, or about a fourteenth Part so high. Which, by the by, is one
+ready Way also of finding the Specifick Gravity of Quicksilver to Water,
+by measuring their several Altitudes.
+
+_Fig. 6._ Is to shew how Water in a very small Tube may elevate
+Quicksilver it self, when it is thrust more below the Surface of the
+Water, than the Difference of their Specifick Gravity requires; and that
+it will rise or fall as you thrust it lower, or raise it higher; and will
+at last fall out at the Bottom, if you raise it too high.
+
+_Fig. 7._ Is to shew that Fluids of different Specifick Gravities, as
+Water A B, and Oil A C, will stand at unequal perpendicular Altitudes, in
+Proportion to their Quantities, and Difference of Specifick Gravities.
+
+_Fig. 8._ Is a Part of a Compound Balance, to be joined to that of
+_Fig. 1._ for the weighing of Levity, or of the Power of Ascent in a Body,
+as F, lighter than the Fluid wherein it is; and will shew that that Levity
+is the Difference of the Weight of that Body, and of an equal Bulk of the
+Fluid: Which is also the respective Gravity of those Bodies which are
+heavier than their Fluids, as may be tried by the same Balance of
+_Fig. 1._ alone.
+
+
+
+
+                    [[Plate II. ― I. Senex sculp.^t]]
+
+
+
+
+                            HYDROSTATICKS. 13
+
+                   An Explication of the Second PLATE.
+
+
+Figure 1. Is a large Glass Vessel A D full of Water as high as E F. Within
+this is a lesser Glass Vessel P H, open at both Ends, but somewhat
+narrower at the Bottom. Through the middle of this goes a strong Wire M N,
+to which is fixed at the lower End a Plate of Lead G H, with wet Leather
+to its upper Surface, to be applied to the large lower Orifice of the
+lesser Glass I K, to keep out the Water from entring into the same any
+otherwise than by a slow Insinuation. This is to shew that a Plate of
+Lead, or other Metal, may be supported by Water, and not sink in it, where
+the Water is kept from pressing on its upper Surface, so long as its Depth
+under the Water is greater than its Specifick Gravity requires; and that
+by Consequence while Water is gradually admitted over it, it will not sink
+till the perpendicular Height of the Column of Air between E F and R S
+bears no greater Proportion to the Thickness of the metalline Plate (with
+what is annexed to it) than the Specifick Gravity of the Metal bears to
+Water.
+
+_Fig. 2._ Is a cylindrical Vial or Glass A D, with a small Cylinder of
+Wood below G H fixed to its Bottom, and made very smooth at Top; and
+another like Cylinder of Wood above G H, made equally smooth on the lower
+Side, that it may as exactly as possible fit the other; with a strong Pin
+I, fixed in its Axis. Upon these Two, when laid close, is pour'd
+Quicksilver, till it covers them both as far as E F. This is to shew, that
+there is no such thing as positive Levity; but that Wood is so far from
+rising in Quicksilver of it self, that till a sufficient Force pulls it
+up, and permits the Quicksilver to insinuate between the two Plates, the
+upper is fastned to the lower by that Quicksilver: Tho' upon the first
+Insinuation of the same it immediately and violently emerges of it self:
+As Dr. _Moor_'s Famous Trencher did in his Bucket, to his great Surprize;
+till he was forc'd to solve it by the Introduction of his Spirit of
+Nature.
+
+_Fig. 3_, and _4_. Are Vessels of equal Altitude, but unequal Bases, and
+of the same Quantity of Water; to shew that Fluids ever press according to
+their Bases, if their perpendicular Height be equal; and according to
+their perpendicular Height, if their Bases be equal, whatever Figure they
+are of.
+
+_Fig. 5._ Is a cubical Vessel full of Water, in order to compute the
+entire Quantity of the Pressure its Sides and Bottom sustain. And that the
+Bottom alone sustains the whole Weight of the Water; as is most evident.
+
+_Fig. 6._ Is to shew that each Side of the same Vessel sustains a Pressure
+equal to half the Weight of the same Water. For since the Pressure at
+every point, as L, M, N, C, is equal to the Altitude of the Water above
+it, A L, A M, A N, A C, by erecting equal Perpendiculars L O, M P, N Q,
+C D, and so at all the intermediate Points, and summing them up, we shall
+have the Triangle A C D as the Sum of all the Pressures; which being half
+the Square A C D B, made by as many Perpendiculars equal to the longest
+C D, and bearing the whole Weight of the Square over it A C D B, shews
+that the Pressure on every physical Line, as A C of a triangular Prism,
+and so on the whole Side represented by it, is one half of the whole
+Water. So that since each of the four Sides sustain half, and the Bottom
+the whole Weight notwithstanding, the entire Pressure is three times the
+Weight.
+
+_Fig. 7._ Is a like Method of Computation for an inclined Plain's
+Pressure, and how to estimate it; _viz._ by the Weight of Water equal to
+the Prism represented by the Triangle A R C, where the Lines L O, M P,
+N Q, C R, are erected perpendicular to A C, and equal to L G, M T, N V,
+C X, respectively.
+
+_Fig. 8._ Is to determine the Center of Pressure Z against such a Plain;
+at which if an equal Weight W directly pulls along Z P over the Pulley P,
+it will just balance the Water, and evenly sustain its Pressure.
+
+_Fig. 9._ Is to shew that this Center of Pressure is no other than the
+Center of Percussion or Oscillation about an Axis, as D. For the Pressures
+being as the Perpendiculars E A, F B, G C; and the Percussions, as D A,
+D B, D C, the Radij of the Circles of Motion; and E A being to F B, as D A
+to D B; and F B to G C, as D B to D C: The Percussions are still as the
+Pressures; and so the Center of Percussion, the same with the Center of
+Pressure.
+
+_Fig. 10._ Is for the Computation of the Quantity and Center of the
+Pressure on any erect Rectangle under Water; according to that Rule, that
+the Depth of any Bodies or Surfaces Center of Gravity is to be taken for
+the perpendicular Altitude of all the Pressures, as a Mean between them.
+
+_Fig. 11._ Is a large Glass Vessel A D, containing Water near the Bottom;
+with another smaller Vessel F K with Water almost to its Top. There is
+also a Syphon B H K, with an hollow Stem G H, communicating with both its
+Legs. To shew that if you stop the Top of the Stem of the Syphon while you
+pour Oil into both Vessels, a considerable Height above the Bend of the
+Syphon, and then unstop it, the Oil will press upon the Water in both
+Vessels, and force it to ascend in each Leg; till meeting at the Bend, it
+run down the longer Leg, out of the higher Water into the lower. This is
+to shew how the Air pressing upon Water may raise it up, and cause the
+known Effects of Syphon, Pumps, Syringes, _&c._ Which used to be ascribed
+to Nature's Abhorrence of a _Vacuum_.
+
+_Fig. 12._ Is a Cube at different Depths of the same Water; to shew how it
+must have the same Weight in one Place that it has in another, because the
+Water and Cube have ever the same Proportion of Bulk and Gravity to one
+another.
+
+_Fig. 13._ Is a Bucket under Water; to shew it can have there no
+respective Gravity, or cannot preponderate; tho' it has ever the same
+absolute Gravity.
+
+_Fig. 14._ Are a Bubble and Images of the same Nature, made of Glass, Air,
+and Water; all so nicely pois'd, that by the Pressure or Relaxation of the
+Air included, which is done at the Bladder A D, the Bubble and Images rise
+and fall after a surprizing Manner.
+
+
+
+
+                 [[Plate III. ― Sutton Nicholls sculp.]]
+
+
+
+
+                            HYDROSTATICKS. 14
+
+                    An Explication of the Third PLATE.
+
+
+Figure 1. Is a Tube full of Water, with Two Holes E, F, for the Water to
+run out at, the one F four times as much below the Surface of the Water
+A B as the other; (the Vessel to be still kept equally full all along:) to
+shew that the Velocity and Quantity of Fluids that run out, are in only a
+subduplicate Proportion of the Altitude of the Fluids, or twice so much in
+a Fourfold Altitude. Not can it be otherwise: For twice the Quantity
+running out, with twice the Velocity, implies the Force or Pressure to be
+Fourfold, as the Fourfold Altitude requires; and so for ever.
+
+_Fig. 2._ Is a Pump; where G M is a hollow Cylinder, reaching to the Water
+below, with a Valve G, which will be lift up by the ascending Water, and
+permit its Entrance into the Body of the Pump; but will not permit its
+Return when it is attempting to descend. D is the Sucker, with its hollow
+Cylinder, and a like Valve: which Sucker is pulled upward or thrust
+downward by the Handle I L K. When it is pulled upward, it leaves the Body
+of the Pump a Vacuum: whence the Air's Pressure on the Water's Surface
+below raises it up into that Space, and fills it; and when it is thrust
+down, the Water, which is stopp'd by the lower Valve from going back, is
+forc'd through the Valve in the Sucker D, into the Cistern above; whence
+by its own Gravity it runs out at the Canal A C.
+
+_Fig. 3._ Is a Forcing Pump, in the main made like the other, only without
+a Cistern; and the Exit is out of the Side through a Hole, with a Valve
+opening outward, but shutting inward, in which the Sucker when thrust
+downwards forces the Water out sideways with great Violence.
+
+_Fig. 4._ Is _Archimedes_'s Spiral Pump C D, made of only a Cylinder, with
+a hollow Spiral Tube wreath'd about it; where the Fluid partly descending,
+and partly ascending, all the way, makes its flowing along the more easy,
+till upon its Arrival at the Top it runs out at C.
+
+_Fig. 5._ Is the whole Apparatus of the Hydrostatical Balance. The Glass
+Bubble G is heavier than all Fluids but Quicksilver, and is to be put into
+all those Fluids: The Bulk of Water in ours is 830 Grains _Troy_. If when
+pois'd in Water it sink more by any Number of Grains, that Number of
+Grains substracted from; if less, added to those 830, do by their
+Proportion to 830 give the Specifick Gravity of all such Fluids to Water.
+I K is the Glass Bucket, which in Air is in Æquilibrio with the Scale E:
+And because when it is let into Water, it will be no longer an Equipoise
+to the opposite Scale, but lighter; the Scale R is to be added to the Part
+H, by which the Bucket is suspended, and that will restore the Æquilibrium
+in Water. By this Solids and Quicksilver are weighed first in Air, and
+then in Water: The Difference of which Weights being the Weight of an
+equal Bulk of Water, by its Proportion to the first Weight in Air, gives
+the Specifick Gravity of the Solid compared with Water: And if that
+Difference still divide the Weight in Air, for all sort of Bodies, we may
+have a Table of the Specifick Gravities of the Solids; as by dividing 830
+by the Sum or Difference of the other Fluids, we may have a like Table of
+the Specifick Gravity of Fluids, such an one as here presented the Reader.
+
+
+
+
+                              HYDROSTATICKS.
+
+  A TABLE of the Specifick Gravities of several Solid and Fluid Bodies.
+
+
+    Fine Gold               19,640   Calculus Humanus         1,700
+    Standard Gold           18,888   Oyl of Vitriol           1,700
+    Quicksilver             14,000   Oyl of Tartar            1,550
+    Lead                    11,325   Bezoar                   1,500
+    Fine Silver             11,091   Honey                    1,450
+    Standard Silver         10,535   Gum Arabick              1,375
+    Bismuth                  9,700   Spirit of Nitre          1,315
+    Copper                   9,000   Aqua Fortis              1,300
+    Cast Brass               8,000   Serum of Human Blood     1,190
+    Steel    } Soft          7,738   Pitch                    1,150
+    the same } Hard          7,704   Spirit of Salt           1,130
+    Piece    } Spring Temper 7,809   Spirit of Urine          1,120
+    Iron                     7,645   Human Blood              1,040
+    Tin                      7,320   Amber                    1,040
+    Glass of Antimony        5,280   Milk                     1,030
+    A Pseudo Topaz           4,270   Urine                    1,030
+    A Diamond                3,400   Dry Box-Wood             1,030
+    Clear Crystal Glass      3,150   Sea-Water                1,030
+    Iceland Crystal          2,720   Common Water             1,000
+    Fine Marble              2,700   Camphire                 0,996
+    Rock Crystal             2,650   Bees-Wax                 0,955
+    Common Green Glass       2,620   Lynseed Oyl              0,932
+    Stone of a mean Gravity  2,500   Dry Oak                  0,925
+    Sal Gemmæ                2,143   Oyl Olive                0,913
+    Brick                    2,000   Spirit of Turpentine     0,874
+    Nitre                    1,900   Rectified Spirit of Wine 0,866
+    Alabaster                1,875   Dry Ash                  0,800
+    Dry Ivory                1,825   Dry Maple                0,755
+    Brimstone                1,800   Dry Elm                  0,600
+    _Dantzick_ Vitriol       1,715   Dry Firr                 0,550
+    Allom                    1,714   Cork                     0,240
+    Borax                    1,714   Air                      0,001 ¼
+
+
+
+
+                         [[Plate I. Pneumaticks]]
+
+
+
+
+                                    15
+                               PNEUMATICKS.
+
+                    An Explication of the First PLATE.
+
+
+Figure 1. Are several Torricellian Tubes or Barometers of different
+Shapes, Bores, and Positions; but where the perpendicular Altitude of the
+Quicksilver in the Tubes, above the Level of the Surface of that in the
+Bason, is ever the same, or between 28 and 31 inches high; which is the
+known Counterpoise between 32 and 36 Feet of Water; and to the entire
+Atmosphere in its several States and Elevations, where the Bases or the
+several Tubes are supposed equal.
+
+_Fig. 2._ Is a Diagonal Barometer, where the Alteration of the
+Perpendicular Altitude of 3 Inches, by the Obliquity of that Part B C of
+the Tube A B C, (as a Diagonal is oblique to the Sides of its
+Parallelogram,) is increas'd to 20 or 30 Inches Sideways, for more Nicety
+of Observation.
+
+_Fig. 3._ Is a Wheel Barometer, where by two Weights G and H on a Pulley,
+by which a Hand is turned, the one of which plays freely in the Air, and
+the other rises and falls with the Quicksilver in the Tube, the Divisions
+are larger and more obvious than in the ordinary Barometer: as they are in
+the Diagonal one; for the like greater Nicety of Observation.
+
+_Fig. 4._ Is a common Thermometer, to determine the Quantity of the Heat
+of the Air, or of any Liquor, by the Rarefraction of Spirit of Wine
+contain'd in the hollow Ball at the Bottom, and its consequent ascending
+to the several Divisions on the small Tube.
+
+_Fig. 5_, and _12_. Are to shew that the Air's Density is as its
+Compression, the former upon a greater Compression, and the latter upon a
+greater Rarefraction; and that accordingly, in the first Case, B D the
+Standard Altitude, or about 29½ Inches, and L M the Additional Altitude of
+Quicksilver pour'd in higher than the Level H, taken together, is to B D
+the Standard Altitude alone, as I G the inverted Part of the Tube when
+full of common Air, to H G the Part full of condens'd Air: And in the
+Second Case, B D the Standard Altitude, is to D C the Depression by the
+Air, as E C the Part of the Tube full of the expanded Air, to E F the Part
+at first left full of common Air.
+
+_Fig. 6._ Is Monsieur _Azout_'s noble Experiment, to determine, that 'tis
+certainly the Air's Pressure that raises the Quicksilver in the Barometer.
+The Instrument is nothing but a double Barometer communicating together,
+by the Means of a small hollow Pipe in the Middle: Its lower Tube is
+stopp'd at the Bottom with a Bladder; and when the entire Cavities are
+full of Quicksilver, the Bladder is prick'd or cut, and the Quicksilver
+runs out: Hereupon the upper Barometer's Tube, and Part of its Bason,
+becomes empty; while the lower is yet full: But upon the unscrewing a
+Screw, and letting Air in above the upper Bason, that Air presses on the
+Quicksilver's Surface, and raises it into its Tube; while the same Air
+pressing down the upper Part of the under Tube, depresses the Quicksilver
+therein at the same time.
+
+_Fig. 7._ Is a Hygrometer, or Cord, with a Needle or Index in a Circle, to
+measure the Air's Moisture by its shrinking up, and consequent Revolution
+one way; and the Air's Dryness, by its Extension down, and consequent
+Revolution the contrary way; and both measured by the Degrees of the
+Bottom Circle.
+
+_Fig. 8._ Is a Syphon above 29½ Inches high, along where no Suction nor
+Art can make the Quicksilver run, as it uses to do when it is of any less
+Altitude.
+
+_Fig. 9._ Is the new Sort of Cupping-Glass, whence the Air is suck'd out
+by a Syringe, and where by a Valve it is hindred from returning.
+
+_Fig. 10._ Is an Example of Suction; and will shew that Quicksilver can
+thereby never be rais'd to 29½ Inches.
+
+_Fig. 11._ Is an Example of a Weight raised by a Syringe, as Water uses to
+be; and still shews, that all is proportionable to the Power of the Air's
+Pressure, and is limited thereby.
+
+
+
+
+                    [[Plate II. ― I. Senex sculp.^t]]
+
+
+
+
+                             PNEUMATICKS. 16
+
+                   An Explication of the Second PLATE.
+
+
+Figure 1. Is the Air-Pump, with its Receiver and Gage, as ready for Use;
+_a a_, _a a_ are two strong hollow Cylindrical Barrels, in which are
+suppos'd to be Suckers, with their Handles _c c_, _c c_ notched; into
+which Notches a Cog-wheel falls, which Cog-wheel moves upon the Axis _f_,
+when the Engine is put into Motion by the Winch _b b_. _g g_, _g g_ are
+two Cylinders of Wood, fixed to the Frame of the Air-Pump, with Screws at
+the Top, on which the Nuts _e_, _e e_ do run, and press down the upper
+Piece _f f_ upon the Tops of the Brass Barrels, to fix them both at Top
+and Bottom. _h h_ is a Swan-neck'd, or small bended hollow Brass Pipe,
+leading from the Top-Plate _i i i i_, or rather from the Brass hollow
+Piece above _n n_, which communicates through that Top-Plate with the
+Cavity of the Receiver. This Pipe is screwed to a bottom Brass Piece,
+included in the Box _d d_; which is perforated not only lengthways, but
+also upwards, in three Places: The Middle one for a Communication with
+this Swan-neck'd Pipe, and at the two Ends through small Cylinders;
+inserted into the two Brass Barrels _a a a a_; and 'tis by this Threefold
+Communication, that the Air is pump'd out of the Receiver. _l l l_ is the
+Gage; which is no other than a common Barometer, or Weather-Glass; with
+its Bason of Mercury _m m_, fix'd to the Engine by a particular
+Contrivance, and its Index or Boxen Receptacle, with Inches, and its Cork
+to support that Index upon the Surface of the Mercury, and to rise and
+fall with it; for the Exactness of measuring the Height of the Mercury
+from that Surface. Only this Barometer is open at the Top, and
+communicates, as does the Swan-neck'd Pipe, with the Cavity of the
+Receiver. _n n_ is a Stop-cock, that communicates also with the Cavity of
+the Receiver, and either excludes or readmits the Air, as you see
+convenient. _k_ is the Bottom of the Receiver, ground true to fit the
+Brass Circle below it; to which it is affixed by the Hand at first, and
+afterward by the Pressure of the Air, with wet Leather instead of Cement.
+
+_Fig. 2._ Is a Barometer Tube, open at the Top H, and included in such a
+Receiver G B, as gives room for it to stand upright, and yet permits the
+Air to go backward or forward on its Surface, according as you pump the
+same out of or readmit the same into that Receiver. And this is done so,
+that the included Air C D, which supports the Mercury, by pressing on the
+Surface of that in its Bason E D, is confin'd within. This small Quantity
+of Air, on the Extraction of that in the Receiver, will, by its
+Elasticity, raise the Mercury almost as high as the usual Standard: And
+thereby shews, that the Spring of any small Part of common Air presses
+equally with the whole correspondent Column of the Atmosphere.
+
+_Fig. 3._ Is a Contrivance to make an Explosion of Gunpowder in Vacuo:
+Where H D is a red hot Iron, standing on its Pedestal E, within a Receiver
+G C; and F is a Cock made above like a Dish, to contain the Gunpowder;
+which by the pulling up and thrusting down a strong Wire, with a Hole like
+the Eye of a Needle, is in a certain Quantity let fall every time upon the
+hot Iron; and on the Explosion produces Flame, and fictitious Air; but
+very little Sound, by reason of the Absence of the Air that should convey
+it.
+
+_Fig. 4._ Is a Syringe, which will suck up the Water in the Glass C D,
+when it is in the open Air; but will not do the same under the Exhausted
+Receiver E F, unless for so small an Altitude as the remaining Air can
+sustain.
+
+
+
+
+                    [[Plate III. ― I. Senex sculp.^t]]
+
+
+
+
+                             PNEUMATICKS. 17
+
+                    An Explication of the Third PLATE.
+
+
+Figure 1. Is a large strong Glass Receiver, or Condenser, Arm'd with Brass
+Circles at both Ends, and fit to receive and bear the Pressure of Air
+considerably condens'd, when crouded into it by a Syringe fitted for that
+Purpose. It has also annexed to it a Gage C D, to determine the Quantity
+of the condens'd Air within. This Gage consists of a hollow Tube,
+Hermetically seal'd at D, with another smaller included, open towards D,
+and Hermetically seal'd at the other End. In this smaller Tube is left a
+little Quicksilver: This Quicksilver is by the Air at D in the larger
+Tube, which communicates with the condens'd Air in the Receiver it self,
+and so is of the same Density with it, crouded inwards towards C every
+time of the Admission of new Air; and by its whole Length from the End
+near D, compar'd with its Distance from the End near C, it determines the
+Proportion of the Density of the included Air to that of the common Air.
+_Note_, That the Syringe to be made use of with the Receiver, is the same
+with that represented in the next Figure, as joined to the condensing
+Engine it self; and acts by pulling up the Sucker above the Hole H, for
+the Admission of a full Cylinder of common Air, and then crouding it down
+into the Receiver; at the Bottom of this Syringe is a Valve, that hinders
+what is once crouded in from returning back again, as is necessary on all
+such Occasions.
+
+_Fig. 2._ Is the usual Brass Condenser it self, with a Stop-cock E F near
+it; to be interposed between the Syringe and the Receiver upon Occasion.
+The Instrument, besides the Frame, is composed of a Recipient of Brass,
+made of Two Hemispheres, or what is equivalent to them, closed together by
+a Ring of wet Leather, to keep in the Air; and because in this Case the
+dense Air within endeavours forcibly to disjoin these Hemispheres, they
+are confin'd down close by a strong Piece of Iron, and Screws belonging
+thereto. The Syringe already describ'd, is represented as join'd to it
+after the same manner that it is when the Air is thereby intruded. This
+Brass Recipient will bear Air very much denser than the foregoing Glass
+one, tho' it being not transparent as the other is, cannot be so pleasant,
+nor so well shew the Mutations that happen to Animals or other Bodies in
+condens'd Air as the former.
+
+_Fig. 3._ Is the Logarithmick Curve A C _c_, with its Ordinates A B, C D,
+_c d_, K δ representing Absolute Numbers, and its Abscissæ, C G or D B,
+I _c_ or B d and B δ, representing their Logarithms, whose famous Property
+it is, that one Ordinate as A B, is to another Ordinate as C D, or _c d_
+or K δ, as that unlimited Space between the Curve and Asymptote above the
+one, is to that above the other; and whence is deduc'd the Proportion of
+the Air's Rarity at all Altitudes whatsoever; that at 7 Miles high it is 4
+times as rare; at another 7, or 14 Miles, it is 16 times as rare, and so
+for ever, in a Geometrical Proportion of Rarity, compar'd with the
+Arithmetical Proportion of its Altitude; tho' all this is here upon the
+Hypothesis that the Distances are not so great, that the real Gravity of
+the Parts be sensibly diminished. For in that Case,
+
+_Fig. 4._ Gives the Scheme, which is made use of to discover the Air's
+Rareness, even at such Distances, as imply a considerable Alteration in
+that Gravity; whence it will appear, that the Density of the Air is
+diminished in that Case more than 4 times for every 7 Miles of Altitude.
+
+
+
+
+                   [[Plate IIII. ― I. Senex sculp.^t]]
+
+
+
+
+                             PNEUMATICKS. 18
+
+                   An Explication of the Fourth PLATE.
+
+
+Figure 1. Is a compound Instrument, to shew, why in a Storm the Mercury in
+the Barometer vibrates so much, by a parallel Case in an Imitation of such
+a Storm. A A is a large hollow Brass Sphere, into which by the means of
+the Syringe in _Fig. 2_. Air is crouded till it is 8 or 10 times as dense
+as usual. H F and L K are Two Barometers, with their Basons in the Boxes
+F F, K K, which Boxes communicate by a long hollow Tube I I. E E is a
+Brass hollow Tube, to convey the crowded Air near the Surface of one of
+the Basons of Quicksilver, which Air passes out of that into a larger
+hollow Pipe G G, and so into the open Air. Upon the turning of the
+Stopcock C to give vent to the condensed Air, it rushes with great Force
+along the hollow Pipes E E, G G; and as it passes not far off the Surface
+of the Bason of Quicksilver F F, it causes the Mercury in both the
+Barometers H H, and L L, to descend and vibrate several Inches, as the
+great Storm made Barometers descend and vibrate in Chambers at a distance
+from it.
+
+_Fig. 3._ Is a Transferrer; containing one common hollow Stem I (here
+represented as screw'd to a square Piece of Wood, and thereby held
+upright) with its Stopcock I, and its Horizontal Hollow G H with which it
+communicates. Upon this Horizontal Piece two more hollow Stems are
+erected, and communicate therewith. These also have Stopcocks E and F, and
+to these are screw'd Two Brass Plates A B and C D, on which Two Recipients
+may be fix'd, and may communicate with the rest. By this means the whole
+Instrument may be apply'd to the Air Pump, and one or more of its
+Recipients exhausted; and afterward any Factitious or Natural Air may be
+transferr'd from one Receiver to another, as Occasion requires: Of which
+Instrument Mr. _Boyle_ made great Use in his Second Continuation of
+Experiments.
+
+_Fig. 4._ Are very small or capillary Glass Tubes, of different Bores, let
+down into Tinged Water, in Vacuo, to shew, that by the Attraction of the
+Glass the Water will be elevated, contrary to the ordinary Law of
+Hydrostaticks, and that to a considerable Height; and what is chiefly
+remarkable, is, that the Altitude of the Liquid in the Tubes is the same
+in Vacuo as in the open Air, and is always in an exact reciprocal
+Proportion to the Diameters of their Bases.
+
+_Fig. 5._ Is the noble Improvement of the former Experiment by Mr.
+_Hauksbee, Sen._ upon which the Learned Mr. _Ditton_ has written a small
+Treatise. It is done by two Glass Plains, A C B, A D B, meeting in an Axis
+at A B; and being about a Tenth of an Inch distant at the greatest
+Aperture D C. These Plains are Erected in Spirit of Wine, and are like a
+Series of Tubes of all different Diameters less than D C, which must
+therefore elevate the Fluid a little at D C, and higher all the way to B,
+where the Elevation ought to be Infinite; the Tops of the elevated Columns
+will form an Hyperbola, E F G, with its Two Asymptotes, the Surface of the
+Fluid D C B, and the Line B A. _Note_, That if the Angle at D C be
+altered, the Bigness of the Hyperbola will be alter'd, while its Species
+remains; but that if the Angle A B C be alter'd, the Species of the
+Hyperbola will be alter'd also, though it will still be a true Hyperbola,
+and that if the Glass be clean, to a surprizing Degree of Exactness.
+
+
+
+
+                  [[Plate V. ― Sutton Nicholls sculp:]]
+
+
+
+
+                             PNEUMATICKS. 19
+
+                    An Explication of the Fifth PLATE.
+
+
+Figure 1. Are _Otto Guerick_'s Hemispheres, with their several Screws and
+Apparatus at large, set separately by themselves. They are designed to
+prove that the Force of the outward Air, when the inward is extracted from
+between them, is equal to the Weight of a Column of Quicksilver of about
+29 Inches and a half: Of Water of about 34 Feet: And of Air to the Top of
+the Atmosphere, all pressing upon the same Base with the largest Circles
+of those Hemispheres.
+
+_Fig. 2._ Is the Syringe, with its Hole; to be screw'd on to the Top of
+the Receiver of the next Figure; in order to thrust Air into it, for the
+Improvement of the former Experiment; or to shew that tho' common Air be
+left in the Hemispheres, yet if that on their outward Surface be made
+twice or thrice as dense, they will still sustain an equal, or a double
+Weight respectively, before they are separated.
+
+_Fig. 3._ Is that Instrument included in such a Receiver D B, and that
+Receiver kept close to its Basis by a cross Piece and Screws, as in the
+Condenser before: Together with a newly contriv'd Stiliard, to which the
+upper Hemisphere is hung; with its fixed Base, and its Gage, to measure
+the Degrees of Condensation of the Air, where by the Proportion of S P to
+P K, the Weight 50 w. is equivalent to greater Weights, and shews how many
+Pounds are required to separate the Hemispheres in all Cases. If the
+Diameter be 3 Inches and a half, they will sustain about 150 Pounds; and
+so in all other Proportions.
+
+_Fig. 4._ Is the Plate which covers the upper Part of the Receiver. And
+through the Hole C the Piece D E slides, which takes hold on the upper
+Hemisphere.
+
+_Fig. 5._ Shews the Gage of the same Instrument; this is like that for the
+Glass Condenser before describ'd, and contains a bended Tube, whose open
+End is in a small Basin of Mercury; and the other is Hermetically seal'd:
+For this Mercury crowded by the condensed Air in the Receiver, will croud
+the Air in the small Tube closer in Proportion to its Density, and so will
+afford us the Knowledge of the Quantity thereof.
+
+_Fig. 6._ Is a like Experiment of the Cohesion of polished Plates of
+Brass, or of Marble; when the Air is excluded by a little Oil, and an
+exact Application. This Cohesion may be weighed by the Stiliard, as well
+as that of the Hemispheres; and is equal to the same, upon the same Base;
+provided a Ring do prevent their side or sliding Motion; and provided the
+Air can equally be excluded from between the Plates, as between the
+Hemispheres. Which last yet is almost impossible to be done.
+
+_Fig. 7._ Is a Number of great Weights, kept steady one over another by an
+Iron Rod passing through them, and pressing upon a Bladder half blown,
+plac'd below them: This Bladder, by the Elasticity of its included Air,
+gradually elevates all those Weights; as soon as by the Extraction of the
+other Air out of the Receiver, wherein they are all included, its
+Counterpoise is gradually taken away.
+
+_Fig. 8._ Is a Number of Jet d'Eaus, or Fountains, made by condens'd Air,
+in a large Copper Vessel C D, pressing on the Surface of Water at the
+Bottom of the Vessel; into which Water a hollow Brass Pipe is immers'd.
+For if there be then a Stopcock at G, to open or shut the hollow Pipe at
+Pleasure; and several smaller Pipes at I K, communicating therewith,
+turning upon Balls or Joints, and plac'd in Order, we shall have a very
+pleasant Set of these _Jet d'Eaus_, or Fountains; all whose Water will be
+caught by the Bason A B, which Water may be again let into the Vessel C D,
+by unscrewing the Pillar in the Center of the Bason.
+
+
+
+
+                    [[Plate VI. ― I. Senex sculp.^t]]
+
+
+
+
+                             PNEUMATICKS. 20
+
+                    An Explication of the Sixth PLATE.
+
+
+This Plate is in Reality but one compound Instrument or Apparatus, for
+trying the Electricity of Glass, and its Luminousness, when put into
+Motion, and rubb'd upon to heat it. Wherein B C is a Wheel, with its
+String A B C. D E is a Sphere of Glass, whose Air has been drawn out by
+the Air-Pump: This is turned round by the former Wheel-string at A. F is a
+Stopcock, whereby the Air is exhausted, and may be readmitted at
+Discretion.
+
+In _Fig. 1._ K L M is an Arch with Threads of Cruel or Yarn upon it, as
+they hang about the Glass D E, (here represented by a smaller Circle
+within the Arch) before it is turned round or heated by rubbing.
+
+_Fig. 2._ G H I is the same with the former; only the Threads are here
+represented as they hang at the Beginning of the turning round of the
+Globe, before it be heated by Friction; being plainly bent one way, by a
+Wind arising from that Convolution.
+
+_Fig. 3._ N P O is the same; only with the Threads pointing towards the
+Sphere, or its Center, when the Arch is in an upright Posture, and some of
+the Threads hang partly downwards, and this upon the Spheres being heated
+sufficiently.
+
+_Fig. 4._ Q S R is the same, with its Threads pointing the same way,
+though in a downward Posture, when some of the Threads thereby are forc'd
+to stand erect.
+
+_Fig. 5._ T U is a Circular Arch, in an horizontal Position, when the
+Threads point towards the same Center, in the same horizontal Plain.
+
+_Fig. 6._ Is another Sphere, communicating with the Air, and to be apply'd
+to the same Wheel in the Room of D E, where-into is inserted an Axis with
+a Circle affixed to it; at the Edges of which Circle the Threads are
+placed. These upon the Friction and Heat of the Glass extend themselves
+outward, and point from the Center to the Circumference, contrary to the
+former. In both Cases the Threads, when under the Influence of the
+Electricity, will be moved by the Finger, even without Contact, nay by the
+Finger and Breath, even through the Glass it self; so subtle are these
+_Effluvia_. The Light is made when the Air is exhausted, and diminishes as
+you readmit it. It spreads and branches it self inwardly like Lightning,
+when about half that Air is readmitted. The Colour of that Light is always
+Purple. It spreads at some Distance, and makes the Edges of a Cravat look
+a little like the milky Way, by the great Number of Sparkles it emits:
+Which may also be felt by the Flesh, with a crackling Noise that
+accompanies them. If you also sufficiently rub and heat a large Tube of
+Glass, either solid or hollow, it becomes strongly Electrical, even
+through Glass it self; tho' not so much through Muslin. Other Heat than
+that by Friction signifies nothing. It will attract and repel Leaf Gold,
+and the like small and light Bodies, after a strange manner, by turns;
+when once they have been fully repell'd they cannot be made to touch them,
+till they have been reflected from some other Body. If they lye between
+two Pieces of Wood, laid pretty near, the Electricity fails of its Effect.
+With other Circumstances very surprizing and unaccountable.
+
+
+                                 _FINIS._
+
+
+
+
+                           Transcription note:
+
+
+The original punctuation and ortography of the book have been faithfully
+preserved; words which are spelled variantly, or inconsistently
+capitalized (e.g., _Axel_ vs. _Axle_, _crowded_ vs. _crouded_, _blue, red_
+vs. _Blue, Red_, etc.) have been left as such.
+
+Likewise, the (mis)spelling of names like Galilæo, Azout, Hugen, Guerick,
+has been retained.
+
+The following typographical mistakes have been corrected, taking into
+account recurrences across the text:
+
+  * Page III, 25th day:
+       * The Ebullition of Liquors in _Vacuo_ → The Ebullition of Liquors
+         _in Vacuo_
+
+  * Mechanicks, Explication of the 2nd Plate:
+       * Figure. 1. Is the deceitful Balance; which yet is _in Equilibrio_
+              → Figure 1. Is the deceitful Balance; which yet is _in Æquilibrio_
+       * _Fig. 3_ → Fig. 3.
+       * [Fig. 10]: perpendiculary → perpendicularly
+       * [between Fig. 9 and 10]: N. _B._ → _N. B._
+       * [Fig. 10]: and in this Leaver → and in this Lever
+
+  * Mechanicks, Expl. 5th Plate, Fig. 3:
+       * us it is less restrained. → as it is less restrained.
+
+  * Opticks, Expl. 1st Plate, Fig. 3:
+       * Looking-glass → Looking-Glass
+
+  * Opticks, Expl. 2nd Plate:
+       * _Fig. 8._ Shows → _Fig. 8._ Shews
+       * [Fig. 10]: on the like Acccount. → on the like Account.
+
+  * Hydrostaticks, Expl. 1st Plate:
+       * [Fig. 5]: specifick Gravity of Water → Specifick Gravity of Water
+
+  * Hydrostaticks, Table of Specifick Gravities:
+       * Spirit of Nirre → Spirit of Nitre
+
+  * Pneumaticks, Expl. 2nd Plate:
+       * [Fig. 1]: 'tis by this Thteefold → 'tis by this Threefold
+       * [Fig. 2]: small Part of ccmmon Air → small Part of common Air
+
+  * Pneumaticks, Expl. 5th Plate:
+       * [Fig. 6]: as between the Hemispheres → as between the
+         Hemispheres.
+
+  * Pneumaticks, Expl. 6th Plate:
+       * [Fig. 6]: througn Muslin → through Muslin
+
+
+
+
+
+End of the Project Gutenberg EBook of A Course of Mechanical, Magnetical,
+Optical, Hydrostatical and Pneumati, by Francis Hauksbee (the Younger)
+
+*** END OF THIS PROJECT GUTENBERG EBOOK A COURSE OF MECHANICAL ***
+
+***** This file should be named 44019-0.txt or 44019-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/4/0/1/44019/
+
+Produced by Enrico Segre and the Distributed Proofreading
+team at DP-test Italia, http://dp-test.dm.unipi.it
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

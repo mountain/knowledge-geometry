@@ -1,0 +1,3828 @@
+﻿The Project Gutenberg EBook of Athaliah, by J. Donkersley
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Athaliah
+       A Tragedy, Intended For Reading Only, Translated Into
+       English Blank Verse, From Racine (A. Gombert's Edition,
+       1825)
+
+Author: J. Donkersley
+
+Release Date: June 29, 2007 [EBook #21967]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ATHALIAH ***
+
+
+
+
+Produced by David Widger
+
+
+
+
+
+ATHALIAH:
+
+A Tragedy,
+
+_Intended For Reading Only_,
+
+Translated Into English Blank Verse,
+
+FROM RACINE,
+
+(_A. Gombert's Edition, 1825_,)
+
+By J. Donkersley.
+
+1873
+
+
+
+
+PREFACE.
+
+Racine, the author of Athalie (Athaliah), flourished in the latter half
+of the 17th century. At his appearance, Corneille, the great French
+Dramatist, was in the full splendour of his fame, whose rival he was
+afterwards recognised to be. Athalie is a Tragedy in rhyme, consisting
+of six Iambic feet, similar to the Alexandrine verse found occasionally
+in our English poets at the termination of a sentence or paragraph.
+Dryden, and a few others of less note, in the reign of Charles IL,
+introduced the rhyming drama to the English public; but the clank of its
+fetters was unpleasant to the British ear, which had become attuned to
+the freedom and majesty of blank verse. Blank verse, therefore, being
+our recognised vehicle of dramatic productions, has been employed in
+this translation. I did, however, intend in the first place to render
+the chorus into rhyme; but after maturer consideration it appeared to me
+that irregular blank verse would be more capable of tragic expression;
+and that it would also be more in harmony with the Hebrew rhythm as
+represented by the scriptures, from which the plot was appropriated.
+
+In carrying out my conception of what the translation ought to be, I
+have endeavoured to preserve the dignity of the subject, without
+sacrificing the freedom of dramatic force. It has, therefore, not been
+my aim to produce smooth monotonous numbers, but to harmonize the whole
+versification with the spirit and conditions of the theme.
+
+I have retained several of the French names, on account of their measure
+and euphony. Joas and Joad I have, I believe, invariably versified as
+one syllable, and Baal also, with one exception, which occurs in the
+first page; these words, to my judgment, being scarcely of greater
+quantity than thought, wrought, brought, &c.
+
+Should the reader realize the same amount of interest in the perusal of
+this translation that I have had in its production, I shall be amply
+rewarded for the genial labour bestowed upon it.
+
+J. DONKERSLEY,
+
+South Street Academy,
+
+Huddersfield.
+
+
+
+
+HISTORICAL OUTLINE.
+
+"Athaliah was the daughter of Ahab and Jezebel, who exercised a
+sanguinary dominion over Israel, and both, (more especially Jezebel,)
+rendered their reign infamous by their worship of idols, and their cruel
+persecution of prophets. She had been espoused by Jehoram, king of
+Judah, son of Jehosaphat, and the seventh king of the race of David. His
+son, Ahaziah, seduced into idolatry, as well as Jehoram, by the example
+of Athaliah, after a reign of one year was put to death, together with
+all the princes of the house of Ahab, by Jehu, whom God had anointed by
+his prophets to reign over Israel, and to be the minister of his
+vengeance. Athaliah, irritated by the massacre of her family, undertook
+on her part to exterminate the royal race of David, and accordingly
+perpetrated the murder of all the children of Ahaziah, her own
+grandchildren, Joas, at that time an infant in the cradle, alone escaped
+the fury of her slaughtering sword: he was rescued by Jehosabeth, the
+half-sister of Ahaziah (being daughter of Jehoram by a different
+mother), and wife of the high-priest Joad. It is the establishment of
+this scion of David upon the throne of his ancestors that forms the
+subject of this drama."
+
+
+
+
+CHARACTERS
+
+Joas, King of Judah, son of Ochoziah.
+
+Athaliah, widow of Joram, Joas's grandmother.
+
+Joad, the High-priest
+
+Josabet, wife of the High-priest, and Joas's aunt.
+
+Zachariah, son of Joad and Josabet.
+
+Salomith, Zachariah's sister.
+
+Abner, one of the principal officers of the kings of Judah.
+
+Azartah, Ishmael, and three other priests and Levite chiefs.
+
+Mathan, apostate priest, pontiff of Baal.
+
+Nabal, Mathan's confidant.
+
+Agar, a woman in Athaliah's suite.
+
+Troupes of Levites and priests.
+
+Nurse of Joad.
+
+Choir, daughters of the tribe of Levi.
+
+
+The Scene is in the Temple of Jerusalem, in a vestibule
+of the High-priest's apartment.
+
+
+
+
+A T H A L I A H.
+
+
+
+
+_ACT FIRST.--Scene I._
+
+     {JOAD, ABNER.}
+
+     {ABNER.}
+
+     TO worship the Eternal, yea, I come
+     Into his temple, come to celebrate,
+     According to our ancient, solemn use,
+     In company with you, the hallowed day
+     On which upon Mount Sinai unto us
+     The law was given. How changed are the times!
+     No sooner did the sacred trumpet sound
+     That day's return, than holy people thronged
+     In multitudes the temple's porticos;
+     And all in order 'fore the altar placed,
+     Bearing the fields' new produce in their hands,
+     Those first-fruits offered up to the One God:
+     The sacrifices overtaxed the priests!
+     Stopping that concourse, an audacious woman
+     Has changed those glorious days to days of gloom.
+     Scarce a small number of true worshippers
+     Dare give faint semblance of the ancient times;
+     The rest have shewn a fatal thoughtlessness
+     Towards their God, or worse, have even rushed
+     To Baal's altars to initiate
+     Themselves into his shameful mysteries;
+     And curse the name their fathers have invoked.
+     To speak right openly, I am in dread
+     That Athaliah from the altar will
+     Tear you, yourself; and casting off, at length,
+     The remnants of her forced respect, complete
+     On you her deadly vengeance.
+
+     {JOAD.}
+
+     Whence comes to-day this dark presentiment?
+
+     {ABNER.}
+
+     Think you that with impunity you can
+     Be just and pure? since, for so long a time
+     The queen has hated that rare constancy
+     Which adds, in Joad, new splendour to his office;
+     Since, for so long, your ardour for your faith
+     Has been construed sedition and revolt.
+     The jealous-minded queen hates, above all,
+     The dazzling worth of Josabet, your wife.
+     Though Joad is the successor of the priest--
+     The high priest, Aaron--Josabet is still
+     The last king's sister. Mathan, besides, Mathan--
+     Apostate priest--more vile than Athaliah,
+     Is importuning her at every hour;
+     Mathan, the base deserter from our altars,
+     And persecutor of all righteous zeal.
+     'Tis not enough his brow's encircled with
+     A foreign mitre; e'en his ministry
+     This Levite lends to Baal: this temple frets him,
+     And his impiety doth wish to crush
+     The God he has abjured. To ruin you
+     No snare he can devise will be unwrought.
+     Sometimes he pities you, and frequently
+     He even praises, and affects for you
+     A treacherous gentleness; and by this means
+     He deepens his malignity's dark dye.
+     Now, to that queen he paints you terrible;
+     Now, seeing her insatiate lust for gold,
+     He feigns that in a place, to you but known,
+     You hide the treasures David had amassed.
+     At last, the sombre Athaliah's seemed
+     For two days buried in a dark chagrin.
+     I saw her yesterday, and watched her eye
+     Flash on this holy place a furious glance,
+     As if the depths of this vast edifice
+     Concealed God's 'venger, armed to punish her.
+     Believe me, more I think of it and less
+     I doubt that 'tis on you her wrath's to burst;
+     And that the cruel Athaliah will
+     Assail our God, e'en in His sanctuary.
+
+     {JOAD.}
+
+     He who can rein the fury of the waves
+     Knows also how to check the base one's plots:
+     Submit with reverence to His holy will.
+     Dear Abner, I fear God, and no one else
+     I have to fear. I thank you, ne'ertheless,
+     For the observant zeal with which your eyes
+     Are open to my peril. Secretly,
+     I see injustice galls you,--that you have
+     Within you still the heart of Israel:
+     Thank God for that! But are you satisfied
+     With this unpractised virtue--secret wrath?
+     Ah! Can that faith which acts not be sincere?
+     Usurping all the rights of David's sway,
+     An impious stranger, now for eight years past,
+     Hath weltered in the blood of Judah's kings
+     Unpunished,--odious murderer of her sons;
+     And now e'en raiseth her perfidious arm
+     'Gainst God: and you, though nourished in the camp
+     Of Josaphat, the saintly king, are one
+     Of the upholders of this tottering state;
+     Who led our armies under Joram's son,
+     And who alone revived our towns alarmed
+     When the abrupt decease of Ochoziah
+     Dispersed all his camp at Jehu's sight;
+     God fear, I say you, and His word affects me!
+     Hear, how that God rebukes you by my mouth:--
+     "What use to vaunt your ardour for My law?
+     By empty vows think you to honour Me?
+     What value all your offerings to Me?
+     Need I the blood of he-goats and of heifers?
+     The blood of kings exclaims and is not heard:
+     Break, break all compact with the impious!
+     Drive out the offences from your people's midst;
+     And then return to offer Me your victims."
+
+     {ABNER.}
+
+     Ah! what can I amongst this down-trod race?
+     Powerless is Benjamin, and Judah droops:
+     The day which saw their race of kings no more
+     Extinguished all their spirits' ancient fire;
+     E'en God, say they, withholds Himself from us:
+     So jealous, formerly, of Hebrews' fame,
+     He sees, unmoved, our grandeur crushed to earth,
+     And, in the end, His mercy's wearied out:
+     No more, for us, His terrible arm is seen
+     To awe mankind with marvels numberless:
+     The ark is mute, its oracles unspoken.
+
+     {JOAD.}
+
+     Yet, when was time so full of miracles?
+     When did God show His power with more effect?
+     Will you have always eyes that do not see
+     A people thankless?--still your ear be struck
+     With greatest wonders, and your heart unmoved?
+     Must I, then, Abner, call to mind the course
+     Of prodigies accomplished in our days?
+     Of Israel's tyrants, the notorious shame,
+     And God found true in all His menaces;
+     The impious Ahab ruined, and his blood
+     That drenched the field by homicide usurped;
+     Jezebel slaughtered near that fatal field;
+     That queen beneath the feet of horses crushed;
+     The dogs in her inhuman blood quenched full,
+     And the torn members of her hideous corpse;
+     Of lying prophets, the confounded crew,
+     And flames upon the altar fall'n from heaven;
+     Elijah speaking like a potentate
+     Unto the elements, the firmament
+     As heated brass becoming, closed by him;
+     The earth three years without both rain and dew;
+     The dead reviving at Elisha's voice?
+     O, Abner, own in these transcendant deeds,
+     A God such as He was throughout all time.
+     Who knoweth, when He wills, to show His glory,
+     His people always present in His thoughts.
+
+     {ABNER.}
+
+     But where the dignities to David promised,
+     And e'en foretold by Solomon, his son?
+     Alas! we hoped that from that happy race
+     Was to descend a numerous train of kings;
+     That over every nation, every tribe,
+     His domination one of them should fix;
+     Make war and tumult cease in every land,
+     And at their feet behold all earthly kings.
+
+     {JOAD.}
+
+     Wherefore renounce the promises of heaven?
+
+     {ABNER.}
+
+     Where shall we seek that monarch, David's son?
+     Can heaven itself repair that withered tree,
+     Dead, even to its roots? The infant king,
+     By Athaliah murdered in his cradle;
+     Can those, for eight years dead, forsake the tomb?
+     Ah! in her fury were she but deceived!
+     If of the royal blood one drop escaped!
+
+     {JOAD.}
+
+     What would you then?
+
+     {ABNER.}
+
+     O happy day for me!
+     O with what ardour would I own my king!
+     Doubt you, that at his feet our eager tribes--
+     But wherefore flatter me with these vain thoughts?
+     The wretched heir of our triumphant kings
+     Alone was Ochoziah, with his children;
+     By Jehu's shafts I saw the father pierced;
+     You, by the mother, saw the son despatched.
+
+     {JOAD.}
+
+     I say no more; but when the star of day
+     Shall have performed a third part of his course
+     On the horizon, come with this same zeal
+     Again into the temple, whilst to prayers
+     The third hour summons us, and God to you
+     Will show, by benefactions weighty, that
+     His word is stable, that it ne'er deceives.
+     Depart: I must prepare for this great day,
+     And dawn already gilds the temple's summit.
+
+     {ABNER.}
+
+     What are those favours that I cannot fathom?
+     The illustrious Josabet approaches you:
+     I go to mingle with the faithful band
+     Which this day's solemn pomp enticeth forth.
+
+
+
+
+_Scene II._
+
+     {JOAD.}
+
+     Princess, the time's accomplished, I must speak!
+     You may conceal your rescued charge no longer.
+     The guilty vauntings of Jehovah's foes,
+     Misdeeming against Him His silence deep,
+     Too long of falsehood's taxed His promises:
+     What do I say? Success imparting life
+     Into their fury, even on our shrines
+     Your cruel stepmother would offer up
+     To Baal idolatrous incense. Let us show
+     The infant monarch, whom your hands have saved,
+     Raised in the temple 'neath the Lord's defence.
+     He will possess the courage of our princes;
+     His mind already mounts above his years.
+     Before my voice explains his destiny,
+     I go to offer him to God, by Whom
+     Our sovereigns rule; our Levites and our priests,
+     Immediately assembling, I to them
+     The offspring of their princes will declare.
+
+     {JOSABET.}
+
+     Knows he his name and noble parentage?
+
+     {JOAD.}
+
+     He answers only to Eliacin,
+     And by his mother thinks himself abandoned,
+     To whom I have in pity served as father.
+
+     {JOSABET.}
+
+     Alas! what perils I have known him 'scape!
+     What peril is he nigh to come to, still?
+
+     {JOAD.}
+
+     What! does your faith, already weak, shrink back?
+
+     {JOSABET.}
+
+     To your wise counsels, lord, I yield myself:
+     For, from the day I snatched that child from death,
+     Into your hands I've placed the care of him;
+     Dreading the violence of my love, I have,
+     As much as possible, e'en shunned his sight,
+     For fear, when seeing him, some foolish grief
+     Should bring to light my secret with my tears.
+     But, above all, I have believed it good
+     To consecrate three days and nights entire
+     To tears and prayers. However, may I ask
+     Of you to-day, What friends have you prepared
+     To second you? Will Abner, the brave Abner,
+     Come to defend us? Has he taken oath
+     To show himself beside his king?
+
+     {JOAD.}
+
+     Though we can be assured of Abner's faith,
+     He even knows not yet, we have a king.
+
+     {JOSABET.}
+
+     To whom do you confide the care of Joas?
+     Obed or Ammon does that honour favour?
+     The benefits showered on them by my sire--
+
+     {JOAD.}
+
+     To Athaliah they have sold themselves.
+
+     {JOSABET.}
+
+     Whom, then, do you engage against her guards?
+
+     {JOAD.}
+
+     Have I not said? Our Levites and our priests.
+
+     {JOSABET.}
+
+     I know that under your foreseeing care
+     Their numbers are redoubled, secretly
+     Assembled near you; that full of love
+     For you, for Athaliah boundless hate,
+     A solemn oath anticipating, binds
+     Them to the son of David, when revealed;
+     But with that noble fire with which they burn
+     Can they, alone, avenge their prince's cause?
+     For such great object is their _zeal_ sufficient?
+     Doubt you that Athaliah, at the word
+     First spread abroad--that Ochoziah's son
+     Is here concealed--will fail her barbarous troop
+     Of strangers to collect about the temple,
+     And violate its gates? Will it suffice
+     'Gainst them to place your sacred ministers,
+     Who never scattered but their victims' blood;
+     Who, raising to the Lord their harmless hands,
+     Can only groan and pray for our offences?
+     Perhaps, when in their arms, Joas pierced with wounds--
+
+     {JOAD.}
+
+     Then count you God for nought who fights for us!
+     God, who protects the orphans' innocence,
+     And in their weakness testifies His power;
+     God, who hates tyrants, who in Jezreel
+     Swore Jezabel and Ahab to uproot;
+     God, who smote Joram, husband of their daughter,
+     And even to his son pursued their house;
+     God, whose avenging arm, awhile withheld,
+     Is always threatening o'er that impious race:
+
+     {JOSABET.}
+
+     And 'tis His rigid justice on those kings
+     That throes me for my wretched brother's son.
+     For who can say that child, at birth, was not
+     Condemned with them--included in their guilt?
+     That God, for David's sake, will grant him favour,
+     And separate him from a hateful race?
+     Alas! the horrible perplexing state,
+     In which heaven represents itself to me,
+     Haunts me incessantly, and frights my soul.
+     The chambers gorged with princes massacred--
+     Inexorable Athaliah, armed
+     With poniard, fires her barbarous soldiery
+     Unto the carnage, and pursues the course
+     Of her assassinations. Left for dead,
+     Joas strikes my sight! Methinks I still behold
+     His nurse, distracted, throw her feeble form
+     In vain before the murderers; and him,
+     Extended on the earth, clasp to her breast
+     I take him up all bloody--with my tears
+     Bathing his visage--bring him back to life;
+     And still in terror, or caressing me,
+     I feel his innocent arms upon me press.
+     Great God! let not my love be fatal to him,
+     The precious relic of the loyal David:
+     Brought up within Thy house to love Thy law,
+     He knows no other father yet than Thee.
+     About to attack a homicidal queen,
+     If peril's aspect terrifies my faith,
+     If flesh and blood to-day, bewildered being,
+     Have too great part in tears I shed for him,
+     Heir of Thy sacred promises, preserve him,
+     And punish me alone for all my frailty!
+
+     {JOAD.}
+
+     Your griefs are crimeless, Josabet; but God
+     Would have us trust in His paternal care.
+     Upon the son who fears Him He does not
+     Call blindly in His wrath to answer for
+     His sire's impiety. All that remain
+     Still faithful Hebrews, will come forth to-day
+     To make their vows anew; all that revere
+     The race of David, Athaliah hate!
+     Joas will affect them with his modesty,
+     Through which appears to glow his royal blood,
+     And our example, by His very voice
+     The Lord supporting, will moreover speak
+     Within His temple straight unto their hearts.
+     Two unbelieving kings in turns have braved Him;
+     Tis now imperative a king be raised
+     Upon the throne, who shall avow hereafter
+     That, to the honour of his ancestors,
+     God caused him, by the influence of His priests,
+     To re-ascend; and, by their hands, hath snatched
+     Him, Joas, from the oblivion of the tomb,
+     To light again the fire of David's ashes.
+     Great God! if Thou foreseest that of his race
+     Unworthy, he will stray from David's footsteps,
+     Yea, let him be as fruit whilst growing, plucked,
+     Or blighted in its bloom by hostile blast!
+     But if this child, obedient to Thy rule,
+     Is to be useful aid in Thy designs,
+     Restore the sceptre to the rightful heir;
+     Give into my weak hands his potent foes;
+     Confound the councils of the cruel queen!
+     Deign, deign, my God, on Mathan and on her
+     To cast the spirit of vanity and falsehood,
+     Fatal forerunner of the fall of kings!
+     Adieu; the hour is pressing. Unto you,
+     His sister and our son advancing, bring
+     The daughters of the families most devout.
+
+
+
+
+_Scene III._
+
+     {JOSABET, ZACHARIAH, SALOMITH, THE CHOIR.}
+
+     {JOSABET.}
+
+     Dear Zachariah, go, without delay;
+     Accompany your noble father's steps.
+     Daughters of Levi, young and faithful band,
+     Whom now the Lord hath chosen for their zeal,
+     That come so frequently to share my sighs:
+     Children, my only joy in my long griefs,
+     Those flowers upon your heads, and in your hands
+     Those garlands were appropriate, formerly,
+     At our great festivals; but now, alas!
+     In these opprobious and afflicting times,
+     What offering so comely as our tears?
+     I hear, already, hear the sacred trumpet,
+     And soon the temple will be open to us.
+     Whilst I prepare myself for the occasion,
+     Sing to the Lord, whom you have come to seek.
+
+
+
+
+_Scene IV._
+
+     {THE CHOIR.}
+
+     _All the Choir sing._
+
+     Let all adore our God; the universe
+     Is full of His magnificence!
+         Let all invoke Him ever:
+     His empire was before the birth of time;
+     Sing, and proclaim His benefactions.
+
+     _One voice alone._
+     In vain unrighteous violence hath imposed
+     Silence upon the people praising Him:
+         His name shall never perish.
+     Day unto day proclaims His glory and His power:
+     The universe is full of His magnificence:
+     Sing, and proclaim His benefactions.
+
+     _All the Choir._
+     The universe is full of His magnificence:
+     Sing, and proclaim His benefactions.
+
+     _One voice alone._
+
+     He gives to flowers their lovely hues,
+     He brings the fruits to birth and ripens them;
+     To these He portions, with judicious care,
+     The heat of day and coolness of the night:
+     The fields receiving them, return
+         The gifts with usury.
+
+     _Another._
+
+     He bids the sun to animate His works,
+     And light's the power of His own hands;
+     But still His holy law, His spotless law
+     Is richest blessing God has given mankind.
+
+     _Another._
+
+     O, Mount of Sinai, keep eternally
+     In our remembrance the illustrious day,
+     When on thy flaming summit, in a cloud,
+     Densely enveloped, God into the eye
+     Of mortals caused to shine
+     A beamlet of His glory.
+     O tell me why those lightnings and those flames
+     The floods of vapour, rumblings in the air,
+     The trumpetings, and thunder:
+     Came He to overturn
+     The order of the elements?
+     Came He to shake the earth
+     Upon its old foundations?
+
+     _Another._
+
+     He came to witness to the Hebrew children
+     His holy precepts' everlasting light;
+     He came to bid that happy people love Him
+         With a love eternal.
+
+     _All the Choir._
+
+     O law divine, delightful law!
+     O justice, tenderness supreme!
+     What satisfaction, sweetness overflowing,
+     To pledge unto that God our love and faith!
+
+     _One voice alone._
+
+     He freed our fathers from a cruel yoke;
+     While in the desert, with delicious food
+     He nourished them: He gives to us His law,
+     He gives Himself; and for such benefits
+     He orders us to love Him.
+
+     _The Choir._
+     O justice, tenderness supreme!
+
+     _The same voice._
+
+     For them He closed the waters of the sea,
+     And from an arid rock made fountains gush;
+     He gives to us His law, He gives Himself;
+     And for such benefits
+     He orders us to love Him.
+
+     _The Choir._
+     O law divine, delightful law!
+     What satisfaction, sweetness overflowing,
+     To pledge unto that God our love and faith!
+
+     _Another voice alone._
+
+     O you, who only know a servile fear,
+     Ingrates, can not a God so good delight you?
+     Is it so difficult unto your hearts,
+     So painful, then, to love Him?
+     The bondsman dreads the tyrant's violence,
+     But love's the portion of a child:
+     You wish that God should load you with His blessings,
+     Without returning Him your love!
+
+     _All the Choir._
+
+     O law divine, delightful law!
+     O justice, tenderness supreme!
+     What satisfaction, sweetness overflowing,
+     To pledge unto that God our love and faith!
+
+
+
+
+_ACT SECOND,--Scene I. and II._
+
+     {JOSABET, SALOMITH, THE CHOIR.}
+     {JOSABET.}
+
+     That is enough, my daughters, cease your chanting:
+     Tis time to mingle in the public prayers.
+     Our hour is come; Let us go celebrate
+     This glorious day, and, in our turn, appear
+     Before the Lord. What do I see! my son!
+     What is the cause that hastens your return?
+     Where run you thus, all pale and out of breath?
+
+     {ZACHARIAH.}
+
+     O, my mother!
+
+     {JOSABET.}
+
+     Well! what!
+
+     {ZACHARIAH.}
+
+     The temple is profaned!
+
+     {JOSABET.}
+
+     How?--
+
+     {ZACHARIAH.}
+
+     And by the Lord the temple is abandoned.
+
+     {JOSABET.}
+
+     I tremble; hasten to enlighten me.
+
+     {ZACHARIAH.}
+
+     My sire, the high priest, having offered up,
+     According to the law, the sacred bread
+     Of the new harvest, to the God that fosters
+     Mankind, appearing still with gory hands
+     Fresh from the reeking entrails of the victim;
+     Close to his side the young Eliacin
+     Assisting, like myself, in linen vests;
+     The priests, meanwhile, with sacrificial blood
+     Besprinkling the assembly and the altar;
+     A murmur indistinct arose; at once
+     The astonished people turn aside their glance,--
+     A woman--can I name her and not curse?--
+     A woman--It was Athaliah's self!
+
+     {JOSABET.}
+
+     Heavens!
+
+     {ZACHARIAH.}
+
+     In one of the church courts, reserved for men,
+     This haughty woman enters, with proud mien,
+     And even prepares to overpass the bounds
+     Of the enclosure sacred, which alone
+     Is open to the Levites. Terrified
+     The people fled in every way. My father--
+     Ah! what resentment kindled in his eye!
+     Moses to Pharoah seemed less formidable:
+     Queen! go! said he, and quit this awful place,
+     From which thy sex and vices banish thee:
+     Dost thou come here to brave the majesty
+     Of the Eternal God? At which the queen,
+     Casting on him infuriated glance,
+     Her mouth was opening, doubtless, to blaspheme:
+     I know not if the angel of the Heavens
+     Appearing showed to her a flaming sword;
+     But instantly her tongue and lips were frozen,
+     And all her over-boldness was abashed;
+     As if her eyes were awe-struck, they were fixed;
+     And, above all, Eliacin appeared
+     To amaze her.
+
+     {JOSABET.}
+
+     What! Has Eliacin been seen by her?
+
+     {ZACHARIAH.}
+
+     We both of us beheld that cruel queen,
+     Who with an equal horror struck our hearts:
+     But very soon the priests surrounded us--
+     They caused us to withdraw. Of all the rest
+     I'm ignorant, and I returned to tell
+     You of this woeful uproar.
+
+     {JOSABET.}
+
+     She came, no doubt, to tear him from our arms;
+     Her fury came to seek him at the altar!
+     Perhaps, the object of so many tears
+     Is at this moment--God, who seest my grief,
+     Do Thou remember David!
+
+     {SALOMITH.}
+
+     What is the reason of your flooding tears?
+
+     {ZACHARIAH.}
+
+     Ah! Is Eliacin's life in danger?
+
+     {SALOMITH.}
+
+     Has he attracted Athaliah's rage?
+
+     {ZACHARIAH.}
+
+     What! does she fear a child without support,
+     And fatherless?
+
+     {JOSABET.}
+
+     Ah! here she is. Come, let us go: we must
+     Avoid her.
+
+
+
+
+_Scenes III and IV._
+
+     {ATHALIAH, AGAR, ABNER, SUITE OF {ATHALIAH.}}
+     {AGAR.}
+
+     Why, Madam, do you linger in this place?
+     Here all the objects wound and anger you.
+     Unto the priest, who dwells within it, leave
+     This temple, flee this tumult, and go calm
+     Your agitated spirit in your palace.
+
+     {ATHALIAH.}
+
+     No, no, I cannot: my perplexity
+     And weakness thou behold'st. Give my commands
+     That Mathan instantly must hasten hither.
+     Happy if I can find, by his assistance,
+     The peace I seek--that's always shunning me!
+
+     {ATHALIAH, ABNER, SUITE OF ATHALIAH.}
+
+     {ABNER.}
+
+     Your pardon, Madam, if I dare defend him:
+     Joad's zeal should not have struck you with surprise:
+     Such is the eternal order of the God
+     We serve: His temple and His altar He,
+     Himself, forbade to us; to Aaron's sons
+     Alone, His sacrifices were committed;
+     He marked the Levites' office and their place,
+     And, above all, to their posterity forbade
+     All intercourse with other gods.
+     Indeed, both wife and mother of our kings,
+     Are you in this respect a stranger to us?
+     Do you not know our laws? Must I to-day--
+     Here is your Mathan; I will take my leave.
+
+     {ATHALIAH.}
+
+     Abner, your presence here is requisite.
+     No more of Joad's rash violence; of all
+     That heap of superstition, which bars out
+     All other nations from your sanctuary;
+     A subject more momentous stirs my fears.
+     I know, from infancy brought up to arms,
+     That Abner has a noble heart; that he
+     Can render, when necessity demands,
+     His duty to his God, and what he owes
+     Unto his queen. Remain.
+
+
+
+
+_Scene V._
+
+     {ATHALIAH, MATHAN, ABNER, SUITE OF ATHALIAH.}
+
+     {MATHAN.}
+
+     Great queen! is this a fitting place for you?
+     What trouble agitates you--fear congeals?
+     What do you come to seek amidst your foes?
+     Dare you approach this temple of profaneness?
+     Have you cast off that hatred so intense--
+
+     {ATHALIAH.}
+
+          List both of you attentively:
+     I wish not here to call to mind the past,
+     Nor render an account of blood that's flowed;
+     I do not take a hasty crowd for judge;
+     In what its violence has dared put forth,
+     To justify me, heaven itself has cared.
+     The great achievements of my rooted power
+     Have made my name respected to both seas:
+     By me Jerusalem's a calm profound;
+     Jordan no longer sees the vagrant Arabs',
+     Nor proud Philistines' constant ravages,
+     Lay waste her banks, as in your sovereigns' times;
+     The Syrian treats me as a sister queen;
+     At length the treacherous scourger of my house.
+
+     {ATHALIAH.}
+
+     Who was to drive his cruelty on me,
+     Jehu, the haughty Jehu, in Samaria
+     Is trembling; pressed by potent neighbours
+     On every side, whom I have found the means
+     To raise against that murderer; and I
+     Am left the royal mistress of those lands;
+     In peace the fruit of my sagacity
+     Enjoying. But, some days ago, there came
+     A sleepless trouble to arrest the course
+     Of my prosperity. A dream (why should a dream
+     Disquiet me?) feeds in my heart a pang
+     That wrings it; everywhere I try to shun it;
+     But everywhere it follows me. It was
+     During the horror of the night profound,
+     My mother, Jezebel, before me stood,
+     Apparelled gorgeously, as on the day
+     Of her decease; misfortunes had not crushed
+     Her dignity; and even she had still
+     That borrowed tint, with which it was her care
+     To bloom and ornament her countenance,
+     In order to repair the ravages
+     Of years irreparable. 'Tremble, daughter,
+     Thou worthy of myself,' to me she said;
+     'The cruel God of Judah over thee
+     Will certainly prevail: I pity thee,
+     My daughter, falling into His dread hands.'
+     These fearful words completed, towards my bed
+     Her shadow seemed to bend itself, and I
+     Held out my arms in order to embrace it;
+     But only found confusion horrible
+     Of mangled bones and flesh dragged in the mud,
+     And tatters soaked in gore, of hideous limbs,
+     That dogs, devouring, fought for with each other.
+
+     {ABNER.}
+
+     Great God!
+
+     {ATHALIAH.}
+
+     In this disorder came before mine eyes
+     A tender boy, in radiant robes arrayed,
+     As one beholds the Hebrew priests attired.
+     My sunken spirits rallied at the vision;
+     But when recovering from my deadly trouble,
+     His sweetness, noble air, and modesty
+     I was admiring, all at once I felt
+     A homicidal steel, plunged by the traitor
+     Deep through my breast.--Of objects so diverse
+     The strange assemblage, seems to you perhaps
+     A work of chance; and I myself, at times,
+     Shamed of my fears, have thought it but the effect
+     Of sombre melancholy; but my soul,
+     Possessed by this remembrance, in my sleep,
+     Has twice beheld that spectre terrible:
+     Twice my sad eyes have had upon them traced
+     The picture of that boy always prepared
+     To spring on me. At length, quite wearied out,
+     With horrors that pursued me, unto Baal
+     I went to ask protection for my life,
+     And at his altars look for some repose:
+     What cannot terror do in mortal mind?
+     An instinct forced me to the Jewish temple,
+     And I conceived the thought to appease their God:
+     Some offerings, I believed, would calm His rage,
+     And make that God, whate'er He be, more gentle.
+     Pontiff of Baal excuse my feebleness!
+     I entered; but the sacrifices ceased,
+     The people fled; the high-priest furiously
+     Rushed towards me; whilst he spake, O terrible
+     surprise!
+     I saw that selfsame child, my menacer,
+     Such as my frightful dream had fashioned him.
+     I saw him; even his air, his linen garb,
+     His gait, his eyes, his lineaments entire:
+     It was himself. He walked beside the high-priest:
+     But soon they caused him to avoid my sight.
+     This is the trouble that arrests me here,
+     And touching which I long to question both.
+     Mathan, what does this prodigy forebode?
+
+     {MATHAN.}
+
+     This dream, and this resemblance seem to me
+     Quite terrible.
+
+     {ATHALIAH.}
+
+     But, Abner, have you seen that fatal boy?
+     What is he? Of what blood, and of what tribe?
+
+     {ABNER.}
+
+     Two children at the altar lend their service:
+     The one is Joad's, his mother, Josabet;
+     The other is unknown to me.
+
+     {MATHAN.}
+
+          But why
+     Deliberate, Madam, must not both be seized?
+     You know my moderation, and regard
+     For Joad, and that I do not seek revenge
+     For injuries; that equity alone
+     In all my counsels is the ruling virtue.
+     But after all, even were it his own child,
+     Could he one moment let the culprit live?
+
+     {ABNER.}
+
+     What is the crime for which the boy is fitted?
+
+     {MATHAN.}
+
+     Heaven's shown him with a weapon in his hand.
+     Heaven, just' and wise, does nothing fruitlessly.
+     What do you seek for more?
+
+     {ABNER.}
+
+          But on the strength
+     Of a mere dream urge you that we should plunge
+     Our hands into the blood of blossoming youth?
+     You know not yet his father, who he is.
+
+     {MATHAN.}
+
+     He stirs our fears; that comprehends the whole.
+     If of illustrious parents he is born,
+     The splendour of his lot must speed his doom.
+     Should fate have ranked him in obscurity,
+     What matters it if low-born blood be spilt?
+     Does this slow justice appertain to kings?
+     Their safety oft depends on prompt redress.
+     Let us not pinch them with perplexing cares:
+     Suspected ones are criminals to them.
+
+     {ABNER.}
+
+     Mathan, is this the language of a priest?
+     I, trained to horrid carnage in the field,
+     The stern executor of royal vengeance,
+     Must I to the unhappy lend my voice!
+     And you, who owe to him a father's yearnings,
+     You, minister of peace in time of wrath,
+     Now, covering your resentment with false zeal,
+     Are of opinion blood too lightly flows!
+     You have commanded me to speak to you
+     Without concealment, Madam: What is then
+     This mighty cause of fear? A dream, a child
+     Devoid of power, that your suspicious eye
+     Thinks it has recognised, perhaps untruly.
+
+
+     {ATHALIAH.}
+
+     I wish to think so, Abner, I may be
+     Deluded; probably an empty dream
+     Has too much occupied my spirit. Well,
+     I must observe that child more narrowly;
+     His features I must scan at leisure. Let
+     Them both be brought before me.
+
+     {ABNER.}
+
+     I fear--
+
+     {ATHALIAH.}
+
+     What would they fail in courtesy to me?
+     Of that strange non-compliance, what the cause?
+     It might produce in me mistrustful thoughts.
+     Let Josabet, or Joad, I tell you, bring them \
+     I can, when time requires, speak like a queen.
+     Abner, to you I may indeed declare,
+     Your priests have reason to be satisfied
+     With Athaliah's kindness. Still I know
+     That on my conduct and against my power
+     How far they bear the license of their speech:
+     They live, however, and their temple stands.
+     But soon, I feel, my gentleness must end.
+     Let Joad put bridle on his savage zeal,
+     Nor wound me with a second outrage. Go.
+
+
+
+
+_Scene VI._
+
+     {MATHAN.}
+
+     At length I have the liberty to speak;
+     I can expose the truth to open day.
+     Some monster's rising in that temple reared!
+     Queen, do not wait the bursting of the cloud.
+     Abner, attended by the high-priest Joad,
+     Was there before the break of day: You know
+     His passion for the offspring of their kings.
+     And who can say that Joad does not intend,
+     In place of them, to substitute the boy
+     By which heaven threatens you. It may perchan
+     Be his own son.
+
+     {ATHALIAH.}
+
+     Mine eyes are opened: I begin to see
+     Clearly into the warnings of the heavens.
+     I wish, however, to be free from doubt:
+     A child is little fit to flourish thoughts,
+     Yet _one_ may make us judge of great designs.
+     I must, dear Mathan, see him--question him.
+     But go yourself, without exciting fears,
+     And cause my Tyrians to arm themselves.
+
+
+
+
+_Scene VII_
+
+     {JOAS, JOSABET, ATHALIAH, ZACHARIAH, ABNER, SALOMITH,
+     TWO LEVITES, THE CHOIR, SUITE OF ATHALIAH.}
+
+     {JOSABET (_to the two Levites_).}
+
+     You, servants of the Lord, upon those children
+     So dear, so precious, keep a fixed regard.
+
+     {ABNER (_to Josabet_).}
+
+     Princess, have courage, they are in my care.
+
+     {ATHALIAH.}
+
+     O heaven! the more I look at him, the more
+     I scrutinize--'Tis he! my faculties
+     Again are seized with horror! Josabet
+     Is that your son?
+
+     {JOSABET.}
+
+     Who, he, Madam?
+
+     {ATHALIAH.}
+
+     He.
+
+     {JOSABET.}
+
+     His mother I am not. This is my son.
+
+     {ATHALIAH (_to Joas_.)}
+
+     And you, my boy, who _is_ your father then?
+     Come child reply.
+
+     {JOSABET.}
+
+     Heaven till to-day--
+
+     {ATHALIAH.}
+
+     Why do you hurry to reply for him?
+
+     {JOSABET.}
+
+     From such a tender age can you expect
+     Much information?
+
+     {ATHALIAH.}
+
+     That age is artless, its ingenuousness
+     Does not as yet pervert the simple truth.
+     Let him explain the whole concerning him.
+
+     {JOSABET.}
+
+     Great God, O place Thy wisdom in his mouth!
+
+     {ATHALIAH.}
+
+     What is your name?
+
+     {JOAS.}
+
+     Eliacin.
+
+          They say I am an orphan,
+     Cast from my birth into the arms of God,
+     And who my parents were I never knew.
+
+     {ATHALIAH.}
+
+     Have you no parents?
+
+     {JOAS.}
+
+     They abandoned me.
+
+     {ATHALIAH.}
+
+     How? And how long ago?
+
+     {JOAS.}
+
+     At my birth.
+
+     {ATHALIAH.}
+
+     Do they, at least, not know your native country?
+
+     {JOAS.}
+
+     This temple is my country; none I know
+     Besides--
+
+     {ATHALIAH.}
+
+     Your father?
+
+     Where is it said that chance discovered you?
+
+     {JOAS.}
+
+     Among the cruel wolves, their helpless prey.
+
+     {ATHALIAH.}
+
+     Who placed you in this temple?
+
+     {JOAS.}
+
+     An unknown woman, never looked on since,
+     Who did not say her name.
+
+     {ATHALIAH.}
+
+     But who took charge of your most early years?
+
+     {JOAS.}
+
+     Does God e'er let his children want in vain?
+     He gives the smallest birds their nourishment,
+     And over all His works extends His goodness.
+     Each day I call on Him. His care paternal
+     Nourishes me with gifts presented at
+     The altar.
+
+     {ATHALIAH.}
+
+     What strange event again perplexeth me?
+     The sweetness of his voice, his youthful grace,
+     Cause my aversion imperceptably
+     To be succeeded--I could be inclined
+     To pity.
+
+     {ABNER.}
+
+     Is this, then, Madam, that terrific foe '?
+     The fraud of your false dreams is manifest:
+     Unless 'tis sympathy that touches you,
+     It is that fatal blow which makes you tremble.
+
+     {ATHALIAH (_to Joas and Josabet_).}
+
+     Are you going?
+
+     {JOSABET.}
+
+     His story you have heard:
+     His further stay would be importunate.
+
+     {ATHALIAH.}
+
+     No, No, return. What do you every day?
+
+     {JOAS.}
+
+     Adore the Lord; they train me in His law,
+     They teach me how to read His sacred book,
+     And now I copy it with mine own hand.
+
+     {ATHALIAH.}
+
+     How does that law instruct you?
+
+     {JOAS.}
+
+     That love is what the Lord desires; that He
+     Sooner or later will avenge His name,
+     His holy name blasphemed; that He protects
+     The timid orphan, that He breaks the proud,
+     And punishes the murderer.
+
+     {ATHALIAH.}
+
+     I understand. But what do all the people
+     Enclosed within that place?
+
+     {JOAS.}
+
+     They praise, and bless the Lord.
+
+     {ATHALIAH.}
+
+     And does He wish that one should always pray
+     And meditate.
+
+     {JOAS.}
+
+     All deeds profane are banished from His temple.
+
+     {ATHALIAH.}
+
+     What are your pleasures, then?
+
+     {JOAS.}
+
+     Sometimes unto the high priest I present
+     Either the salt or incense at the altar:
+     I hear them sing of God's unbounded greatness,
+     I see the sumptuous order of His rites.
+
+     {ATHALIAH.}
+
+     Alas! have you no pastimes more delightful?
+     I pity the sad fate of one like you.
+     Come to my palace, see my splendour there.
+
+     {JOAS.}
+
+     I! I should lose the memory of God's blessings!
+
+     {ATHALIAH.}
+
+     No. I would not constrain you to forget Him.
+
+     {JOAS.}
+
+     You do not pray to Him.
+
+     {ATHALIAH.}
+
+     But you can pray to Him.
+
+     {JOAS.}
+
+     But I should see another god invoked.
+
+     {ATHALIAH.}
+
+     I have my god to serve, and you have yours.
+     They both are powerful gods.
+
+     {JOAS.}
+
+     Mine must be feared, for He alone is God,
+     And yours is nothing, Madam.
+
+     {ATHALIAH.}
+
+     Pleasures, near _me_, will seek you out, in crowds.
+
+     {JOAS.}
+
+     The blessings of the wicked pass away,
+     As doth a torrent
+
+     {ATHALIAH.}
+
+     The wicked! Who are they?
+
+     {JOSABET.}
+
+     Pray, Madam! excuse a child.
+
+     {ATHALIAH}
+
+     I like to see how you are training him.
+     At length, Eliacin, you have amused me;
+     You're, doubtless, not an ordinary child.
+     You see I am a queen, without an heir:
+     Cast off these garments, quit this menial trade,
+     And all my riches I will share with you.
+     Try the conclusion of my promises:
+     Beside me at my table, everywhere,
+     I promise you shall sit as my own son.
+
+     {JOAS.}
+
+     As your own son?
+
+     {ATHALIAH.}
+
+     Yes, would it please you?
+
+     {JOAS.}
+
+     Ah what a father I should leave, and for--
+
+     {ATHALIAH.}
+
+     Well!
+
+     {JOAS.}
+
+     What kind of mother!
+
+     {ATHALIAH.}
+
+     His memory's faithful; and in all he says
+     I recognise your animus and Joad's.
+     Behold, how here, corrupting simple youth,
+     You both employ the peace I leave you in!
+     Their hate and fury you already foster:
+     Only with horror you pronounce my name
+     To them.
+
+     {JOSABET.}
+
+     Can we conceal the history of our wrongs?
+     All know it, and you boast of it yourself.
+
+     {ATHALIAH.}
+
+     Yes, of my righteous rage, and I am proud
+     To avenge my parents on posterity.
+     My father and my brother saw I slaughtered;
+     My mother from her palace window hurled;
+     And even in one day murdered at once--
+     Dread sight!--more than twice twenty sons of kings:
+     And wherefore? To avenge some nameless prophets
+     Whom she had punished for their senseless frenzy:
+     And I, cold queen, and daughter without love,
+     Slave of a cowardly and frivolous folly,
+     Shall even not return to this blind rage
+     Insult for insult, death for every death,
+     And shall not treat all David's progeny
+     As Ahab's wretched remnant were by them!
+     Where should I be to-day, had I not had
+     A tenderness for my torn, strangled mother;
+     And, conquering my weakness, with my hand
+     Shedding in torrents my own people's blood,
+     Had not repressed your plots by that fierce blow!
+     At length, the inflexible vengeance of your God,
+     Betwixt our houses all alliance breaks:
+     David of me's in horror; and his sons,
+     Though of my blood, are strangers unto me.
+
+     {JOSABET.}
+
+     In all you have succeeded. Let God see
+     And judge.
+
+     {ATHALIAH.}
+
+     That God, a long time past, your only refuge,
+     Of what effect will be His prophecies?
+     Let Him produce that King, told to the nations,
+     That Son of David, your support, your hope--
+     But we shall meet again. Adieu, I go,
+     Quite satisfied. I wished to see: I have seen.
+
+     {ABNER (_to Josabet_).}
+
+     I promised you; and I return the charge
+     That you committed to me.
+
+
+
+
+_Scenes VIII and IX._
+
+     {JOAD, JOSABET, JOAS, ZACHARIAH, ABNER, SALOMITH,
+     LEVITES, AND THE CHOIR.}
+
+     {JOSABET (_to Joad_).}
+
+     My lord, Did you o'erhear that haughty queen?
+
+     {JOAD.}
+
+     I heard the whole, and I bewailed your anguish.
+     To lend you aid, these Levites and myself,
+     Were close at hand, resolved to die with you.
+
+     (To Joas.)
+     May God watch over you whose courage, child,
+     Has just returned this noble testimony
+     Unto His name! I recognize, dear Abner,
+     This important service: bear in mind
+     The hour when Joad expects you. We, whose sight
+     This inpious, murderous woman has defiled,
+     Whose prayers has interrupted, will return:
+     And let immaculate blood, shed by my hands,
+     Cleanse to the marble what her steps have touched.
+
+     {THE CHORUS.}
+
+     _One of the daughters of the Choir._
+
+     What star has burst upon our sight?
+     What will that marvellous child one day become?
+     He braveth pompous haughtiness,
+     And will not let himself be lured
+     By any of her dangerous baits.
+
+     _Another._
+
+     Whilst each to Athaliah's god
+     With incense to the altar runs,
+     A child unfearing publishes
+     That God alone eternal is,
+     And speaks as once Elijah spoke
+     Before the other Jezebel.
+
+     _Another._
+     Who will reveal to us thy secret birth
+     Dear child? Art thou some holy prophet's son?
+
+     _Another._
+
+     And thus the lovely Samuel was seen
+     To grow beneath the tabernacle's shadow;
+     Become the Hebrews' hope and oracle.
+     May'st thou like him console our race!
+
+     _Another sings._
+
+     O blessed, a thousand times,
+     The child that loves the Lord,
+     Who early hearkens to His voice,
+     Whom God, Himself, doth deign to teach!
+     Far from the world he, nurtured, is adorned
+     By all heaven's blessings from his birth;
+     And the contagious company of the bad
+     Doth alter not his innocence.
+
+     _All the Choir._
+
+     O happy, happy is the child
+     That God instructs and vindicates!
+     _The same voice alone._
+     So, in a secret vale upon the banks
+     Of a pellucid stream,
+     Beneath the shadow of an oak,
+     A tender lily bloometh, nature's love.
+     Far from the world arising, 'tis adorned
+     With all heaven's blessings from its birth;
+     And the contagious company of the bad
+     Doth alter not its innocence.
+
+     _All the Choir._
+
+     O blest, a thousand times, the child
+     That God doth render docile to His laws.
+
+     _One voice alone._
+
+     My God, how can a growing virtue walk
+     Amongst so many dangers with sure step %
+     What obstacles are found to his designs
+     Who seeketh Thee, and wisheth innocence
+     What enemies make war on him!
+     Where can Thy saints conceal themselves?
+     The evil-doers overspread the earth.
+
+     _Another._
+
+     O David's palace, and his cherished city,
+     Famed mount, where even God a long time dwelt,
+     Why hast thou from the heavens drawn down His
+     wrath?
+     Sion, dear Sion, what sayest thou,
+     When thou, alas! beholdst upon the throne
+     Of thine own kings, an impious stranger sat?
+
+     _All the Choir._
+     Sion, dear Sion, what sayest thou,
+     When thou, alas! beholdst upon the throne
+     Of thine own kings, an impious stranger sat!
+
+     _The same voice continues._
+
+     Instead of David's pleasing strains,
+     In which he poured his holy raptures,
+     And blessed his God, his Father and his Lord:
+     Sion, dear Sion, what sayest thou,
+     When thou dost hear them laud the strangers' god,
+     And curse the name thy princes have adored?
+
+     _One voice alone._
+
+     How long, O Lord, and yet again how long
+     Shall we behold the wicked rise 'gainst Thee?
+     They come into Thy temple braving Thee:
+     The people who adore Thee, treat as frenzied.
+     How long, O Lord, and yet again How long
+     Shall we behold the wicked rise 'gainst Thee?
+
+     _Another._
+
+     Wherefore, say they, this sombre piety?
+     Why flee the use of many joys so sweet?
+     Your God does naught for you.
+
+     _Another._
+
+     Come laugh and sing, exclaims this impious band;
+     From flower to flower, from sweet to sweet,
+     Let us give air to our desires,
+     In the insensate future who confides?
+     Doubtful the number of our fleeting years:
+     Then let us haste to-day to relish life;
+     Who knows if we shall be to-morrow?
+
+     _All the Choir._
+     O let them weep, my God, and groan for fear,
+     The miserable, who will not see
+     The eternal splendour of Thy holy city.
+     But we must chant, to whom Thou dost reveal
+     Thy everlasting light;
+     Of all Thy gifts and grandeur we must sing.
+
+     _One voice alone._
+     What will remain of all their empty pleasures
+     In which their soul is sunk? I' the dregs of dreams
+     Whose error's recognized.
+     At their awaking--awaking full of horror!--
+     Whilst at the table the just poor will taste
+     The sweets of peace unspeakable,
+     The hideous cup exhaustless they will drink,
+     Which in the day of wrath thou wilt present
+     To all the guilty race.
+
+     _All the Choir._
+     O waking full of horror!
+     O fleeting dream!
+     O dangerous error!
+
+     {END OF THE SECOND ACT.}
+
+
+
+
+_ACT III.--Scenes I. and II_
+
+     {MATHAN, NABAL, THE CHOIR.}
+
+     {MATHAN.}
+
+     Young daughters, go, and say to Josabet
+     That Mathan waits to speak to her in private.
+
+     _One of the daughters of the Choir._
+
+     Mathan! O God of heaven do thou confound him.
+
+     {NABAL.}
+
+     How now? all flee, disperse without reply!
+
+     {MATHAN.}
+
+     Let us approach.
+
+     {ZACHARIAH, MATHAN, NABAL.}
+
+     {ZACHARIAH.}
+
+     Audacious! Whither would you go? Forbear
+     Beyond this place to make advance: it is
+     The holy minister's divine abode.
+     To all profane the law forbids the entrance.
+     Of whom are you in search? My mother shuns,
+     Upon this solemn day, the guilty sight
+     Of foul idolatry; and prostrate now
+     Before the Lord, would shrink from being disturbed.
+
+     {MATHAN.}
+
+     My son, her time is ours; be not alarmed;
+     I wish to speak to your illustrious mother.
+     I come here charged with orders from the queen.
+
+
+
+
+_Scene III._
+
+     {MATHAN, NABAL.}
+     {NABAL.}
+
+     The children have already _their_ fierce pride.
+     But what doth Athaliah seek in this?
+     What is this tumult born of in her councils?
+     By overbearing Joad this morn offended,
+     And in her dreams braved by a murderous child,
+     She went to sacrifice the high-priest Joad
+     Unto her wrath, and in the end to place
+     Within that temple Baal and you. You had
+     To me already testified your joy;
+     I hoped, on my part, for so rich a prey.
+     What changes thus her vacillating vows?
+
+     {MATHAN.}
+
+     I have not known her, friend, for two days past.
+     No more the queen of an enlightened spirit,
+     Intrepid, raised beyond her timid sex,
+     Who crushed, at first, her wondering enemies,
+     And knew the value of occasion lost:
+     The pangs of vain remorse whelm this great soul:
+     She wavers, hesitates, is in a word,
+     A woman. I, her heart, already wrung
+     With threats from heaven, had filled with bitterness
+     And rancour; she, confiding to my care
+     Her vengeance, had commanded me to bring
+     At once her guards together: but, indeed,
+     Whether that brat before her brought, and said
+     To be an outcast from his parents, had
+     Diminished the alarm of frightful dreams,
+     Or she had seen in him some unknown charm,
+     I found her anger reeling, undecided:
+     She now puts off her vengeance till to-morrow.
+     Her projects all appear to slay each other.
+     "Some knowledge I have gained of this boy's fate,"
+     So did I say; "now of his ancestry
+     They have begun to boast: from time to time
+     Joad shows him to the factious, holds him up,
+     As if another Moses, to the Jews,
+     And lying oracles support his speech."
+     These words did cause the blood to mount her brow:
+     Ne'er lucky fable had such prompt effect.
+     "Must I drag on in this uncertainty?
+     Let us escape," said she, "this restlessness.
+     To Josabet declare you this resolve--
+     'The fires are kindling, and the sword prepared,
+     Nothing can save your temple from destruction,
+     If hostage for your faith that child's not given.'"
+
+     {NABAL.}
+
+     Why for a boy of whom they're ignorant,
+     That chance, perhaps, has cast into their arms,
+     Will they behold their temple tombed in weeds?
+
+     {MATHAN.}
+
+     Ah! of all mortals known, the haughtiest!
+     Sooner than yield a child into our hands,
+     That Joad has consecrated to his God,
+     He would endure the most terrific death.
+     Besides 'tis plainly seen they love the child.
+     If, from the queen, I heard a true report,
+     Joad of his birth knows more than he imparts.
+     However fatal it may be for them,
+     I can foresee they will not give him up.
+     On me the rest remains; and in the end
+     I hope that fire and sword will free my eyes
+     Of that obnoxious temple!
+
+     {NABAL.}
+
+     What can inspire in you so fierce a hate?
+     Is it your zeal for Baal inflames you thus?
+     As for myself, you know of Ishmael blood,
+     I neither worship Baal nor Israel's God.
+
+     {MATHAN.}
+
+     Friend, canst thou think that I allow myself
+     To be made blind by an unworthy zeal
+     For a vain idol, fragile form of wood,
+     Which, notwithstanding my support, the worms
+     Upon its altar every day consume?
+     Born servant of the God that temple loves,
+     It might be Mathan would adore Him still,
+     If lust of greatness, thirst for dominance,
+     Could be accommodated to His yoke.
+     Nabal, what need repicture to thy mind
+     The noted quarrel of myself and Joad.
+     When I 'gainst him the censor dared dispute,
+     My factions, struggles, waitings, my despair?
+     Vanquished by him I chose a new career,
+     And wed my soul entirely to the court.
+     I by degrees approached their royal honours,
+     And soon my voice was made an oracle.
+     I probed their heart, and flattered their caprice;
+     Bestrewed with flowers the precipice's brink;
+     Serving their passions, naught to me was sacred;
+     Measure and weight I changed as they inclined.
+     As much as Joad's unpliant humour pained
+     The softness of their supercilious ear,
+     So much I pleased them with my dexterous art;
+     Concealing from their eyes the bitter truth;
+     Lending convenient colour to their rage;
+     And, lavish, above all, of wretches' blood.
+     At length, to Baal, whom she had introduced,
+     By Athaliah was a temple reared.
+     Jerusalem did weep to see herself
+     Profaned: The alarmed band of Levi's race
+     Did elevate to heaven appalling cries.
+     Giving example to the timid Jews.
+     Deserter from their law, myself approved
+     The enterprise, and merited by that
+     Baal's priesthood: and I made myself withal
+     A terror to my rival; I put on
+     The turban--walked his equal. Ne'ertheless
+     I must avow, that in that glorious height
+     The troublesome memory of the God I left
+     Still throws into my soul a shade of dread:
+     Tis that which strengthens and supports my fury.
+     Happy, if on the temple my revenge
+     Accomplishing, I can at length content
+     Her petty spite, and lose amongst the wreck
+     The ravage and the slaughter, my remorse,
+     By dint of those enormities. But here
+     Is Josabet.
+
+
+
+
+_Scene IV._
+
+     {JOSABET, MATHAN, NABAL.}
+
+     {MATHAN.}
+
+          Commissioned by the queen
+     To calm again, and dissipate the anger,
+     Princess, in which heaven placed so sweet a soul,
+     Be not surprised at my addressing you.
+     A rumour, which however I suspect
+     To be a fable, favouring the warnings,
+     Which in a dream she had received, on Joad,
+     Accused of dangerous complots, she was going
+     To pour the floodgates of her wrath. I wish
+     Not here to boast of services to you--
+     I know of Joad's injustice to myself--
+     But for offence I must return good deeds.
+     At length, I come to speak the words of peace.
+     Live, solemnize your feasts without distrust,
+     She only claims a pledge of your submission:
+     It is--I did my utmost to dissuade her--
+     The orphan whom she says that she has seen.
+
+     {JOSABET.}
+
+     Eliacin?
+
+     {MATHAN.}
+
+     I am ashamed of her on that account:
+     Of a vain dream she makes too much ado:
+     But you declare yourselves her mortal foes,
+     If not that child's resigned to me at once:
+     The queen impatiently 'waits your reply.
+
+     {JOSABET.}
+
+     And that on her part is the peace announced.
+
+     {MATHAN.}
+
+     Can you one moment hesitate to grant it?
+     Or is that courtesy too dear for peace?
+
+     {JOSABET.}
+
+     Could Mathan, I was wondering, stript of guile,
+     Have overcome the injustice of his heart;
+     And, fatal plotter of so many ills,
+     Could he be author of a shade of good.
+
+     {MATHAN.}
+
+     Of what do you complain? Come I enraged
+     To tear from you your offspring, Zachariah?
+     What is this other child you love so well?
+     In turn, this great affection marvels me.
+     Is _he_ to you a pearl so precious, rare?
+     Is _he_ a liberator trained by Heaven?
+     Remember, your refusal would confirm
+     A faint report that's just begun to spread.
+
+     {JOSABET.}
+
+     What report I
+
+     {MATHAN.}
+
+     That of illustrious origin's the child,
+     Destined to some great project by your spouse.
+
+     {JOSABET.}
+
+     And by that tale, which flatters Mathan's fury--
+
+     {MATHAN.}
+
+     Princess, to think me false belongs to you.
+     Yet still I deem that Josabet, the foe
+     Implacable of falsehood, would resign
+     Her own life even, were it requisite,
+     Rather than life of insincerity
+     Be purchased by the slightest word untrue.
+     Then of that child's descent there is no trace?
+     Darkness profound surrounds his origin!
+     You know not of what parents he was born?
+     From whose hands Joad received him to his arms?
+     Pray speak, I listen ready to believe.
+     Princess, unto the God you serve give glory!
+
+     {JOSABET.}
+
+     Base one, is't well you thus dare speak the name
+     Of God, whom your own tongue bids men to curse!
+     Could His veracity be vouched by you,
+     You, wretched, sat upon the noxious bench
+     Where poison's scattered, falsehood hath the sway;
+     You, nurtured in deceit and treachery?
+
+
+
+
+_Scene V._
+
+     {JOAD, JOSABET, MATHAN, NABAL.}
+
+     {JOAD.}
+
+     Where am I? Am I looking at Baal's priest?
+     What, David's daughter speaking to that traitor?
+     And will you tolerate his speech with you?
+     Do you not fear that a profound abyss
+     Will yawning open underneath his feet,
+     So that its flames at once will compass you?
+     Or that these walls will crush you fallen on him?
+     What wants he? Wherefore comes, this enemy
+     Of God, to taint the air we here inhale?
+
+     {MATHAN.}
+
+     This violence gives evidence of Joad.
+     Yet he would show more prudence to respect
+     His sovereign, and not outrage one that she
+     Has deigned to charge with her commands.
+
+     {JOAD.}
+
+     Well, what's the ill she bids you to announce,
+     What frightful charge may such an agent bear?
+
+     {MATHAN.}
+
+     To Josabet I have made known her will.
+
+     {JOAD.}
+
+     Then quit me, monster of iniquity,
+     Go fill thy measure of all horrid things.
+     God rules to join thee with the perjured race,
+     Achitophel, Abiron, Doeg, Dathan t
+     The dogs which tore the limbs of Jezebel,
+     Waiting to show their fury upon thee,
+     Already, at thy gates, demand their prey.
+     {mathan (_agitated_).}
+     Before this day expires--it will be seen
+     Which of us---- He shall be forced--
+
+     _(To Nabal.)_
+
+     But, Nabal, let us go.
+
+     {NABAL.}
+
+     Where wander you? What wildering chaos is
+     The master of your senses? That's your way.
+
+
+
+
+_Scene VI._
+
+     {JOAD, JOSABET.}
+
+     {JOSABET.}
+
+     The storm has burst!
+     The queen, enraged, demands Eliacin.
+     Already of his birth, and your designs
+     They have begun to pierce the mystery:
+     Mathan but failed to name to me his father.
+
+     {JOAD.}
+
+     To the perfidious Mathan who has told it?
+     Has not your agitation said too much?
+
+     {JOSABET.}
+
+     I did whate'er I could to curb myself.
+     Howe'er, believe me, peril presses, Sir;
+     For happier times let us reserve that child.
+     Whilst wicked ones deliberate with each other,
+     Before he is surrounded, torn from us,
+     Allow me to conceal him once again;
+     To him are open yet the doors, the gates.
+     Shall we convey him to the wildest desert?
+     I am prepared, I know a secret way,
+     By which myself and he, still unperceived,
+     The torrents of the Cedron passing over,
+     May go into the desert, where in tears,
+     And seeking safety, like ourselves, in flight,
+     David escaped his rebel son's pursuit.
+     I shall, on his account, fear wild beasts less;--
+     But why do you not favour Jehu's aid?
+     Perhaps good counsel I may offer you;
+     Let us make Jehu guardian of this treasure,
+     We could to-day conduct him to his kingdom,
+     For short the road is leading to his court.
+     Jehu has not a wild, relentless heart;
+     The name of David's honoured in his eyes.
+     Alas! is he a king so callous, cruel,
+     Unless his mother was a Jezebel,
+     That he would not commiserate the fate
+     Of such a suppliant? Is not his cause
+     The common one of kings?
+
+     {JOAD.}
+
+     Dare you propose to me such timid counsels?
+     What can you hope in Jehu's countenance?
+
+     {JOSABET.}
+
+     Does God forbid all care and all prevision?
+     Will not an over-confidence offend Him?
+     Employing human means to sacred ends,
+     Has He Himself not Jehu's arm equipt?
+
+     {JOAD.}
+
+     Jehu, on whom I see your hopes are built,
+     Paying His gifts with thankless thoughtlessness,
+     Jehu in peace leaves Ahab's hideous daughter;
+     Following the course profane of Israel's kings,
+     Of Egypt's worthless god he saves the temples;
+     Jehu, at length, dares offer on the heights
+     An incense rash which God can not allow:
+     His heart's not just enough, nor pure his hands,
+     To serve His cause--to avenge His injuries.
+     No, No, 'tis God alone we must engage.
+     Far from concealing, let us show the boy,
+     And let the diadem surround his head:
+     I even will urge on the expected hour,
+     Before vile Mathan's complots can be formed.
+
+
+
+
+_Scene VII_
+
+     {JOAD, JOSABET, AZARIAH, THE CHOIR, AND SEVERAL
+     LEVITES.}
+
+     {JOAD.}
+
+     Well, Azariah, is the temple closed?
+
+     {AZARIAH.}
+
+     The gates have all been made before my eyes
+
+     {JOAD.}
+
+     Your saintly troops and you alone remain?
+
+     {AZARIAH.}
+
+     Twice I have walked around the sacred courts,
+     And all are fled; dispersed without return,
+     Scattered in fear--a miserable crew!
+     God by His holy tribe's no longer served:--
+     E'er since that people Pharoah's steps escaped,
+     An equal panic has not seized on them.
+
+     {JOAD.}
+
+     A people in performance loose, and born
+     For slavery--bold against God alone!
+     Let us pursue our work. But who retains
+     These children, even in our midst?
+
+     _One of the daughters of the choir_
+
+     Alas, could we, sire, part ourselves from you?
+     In the Lord's temple are we aliens?
+     Around you are our fathers and our sires.
+
+     _Another._
+
+     Ha! if to avenge the shame of Israel
+     Our hands may not as Jael's, formerly,
+     Have power to pierce God's impious enemies' head,
+     Yet we at least may give our lives to Him.
+     Whilst you are fighting for His temple stormed,
+     We may, at least, invoke Him with our tears.
+
+     {JOAD.}
+
+     Eternal Wisdom, in Thy quarrel armed
+     Here, then, are Thine avengers--priests and children!
+     But Thou sustaining, who can cast us down?
+     From death Thou canst recall us when Thou wilt!
+     Thou strikest and Thou healest, Thou destroyest
+     And Thou resuscitatest. We rely
+     Not on our own deserts, but on Thy name,
+     Invoked so frequently, and on Thy oath
+     Sworn to the most devout of all our kings,
+     Within this temple made Thy holy dwelling,
+     And which the sun's duration is to last.
+     But whence this sacred thrilling of my soul?
+     Am I transported by the Holy Spirit?
+     It is so: it inflames me: speaks to me:
+     My eyes are opened, and the times obscure
+     Unveil themselves before me! Levites, lend
+     Your harmony of sounds, and by their swell
+     Support my ecstacy!
+
+     _The Choir sing to the sound of every symphony of the
+     instruments._
+
+     O let the voice of God be heard,
+     And to our hearts, His oracle divine,
+     Be as the freshness of the morn
+     Is to the tender grass in spring.
+
+     {JOAD.}
+
+     Heaven, hear my voice. Earth, lend thine ear.
+     No more, O Jacob, say thy God doth slumber,
+     O sinners disappear; the Lord's awake.
+
+     _Here the symphonies are resumed, and Joad instantly
+     continues._
+
+     How into worthless lead pure gold is changed!
+     Who is that priest slain in the holy place?
+     Weep, weep Jerusalem, perfidious city,
+     Wretched destroyer of the sacred seers;
+     God of His love for thee divests Himself;
+     Thy incense in His eyes is incense foul.
+     Where do you take those children and those wives?
+     The queen of cities God has overthrown:
+     Her priests are captives, and her kings disowned.
+     Temple be overthrown! Cedars cast your flames!
+     Jerusalem, thou object of my grief,
+     Who in one day has ravished all thy charms?
+     O who will change, to weep thy miseries,
+     Mine eyes to two fountains of tears?
+
+     {AZARIAH.}
+
+     O holy temple!
+
+     {JOSABET.}
+
+     O David!
+
+     {THE CHOIR.}
+
+     Restore, O God of Sion, O restore,
+     Thy ancient benefactions in her favour.
+
+     _The symphonies resume, and immediately after Joad
+     continues._
+
+     What new Jerusalem arises from
+     The desert's depths in dazzling splendour,
+     And bears upon her brow a stamp immortal?
+
+     {JOAD.}
+
+          Sing, people of the earth,
+     Jerusalem reborn more grand and beautiful!
+     Whence on all sides repair to her
+     The progeny not fostered in her bosom?
+     Lift high, Jerusalem, lift high thy head!
+     Look on those monarchs of thy marvellous glory:
+     The kings of nations are before thee prostrate,
+     Kissing the dust of thy feet:
+     The people in thy light walk emulous.
+     Blest, who for Sion with a holy fervour
+     Doth feel his soul expanded!
+     Heavens scatter your dew, and let the earth
+     Bring forth its Saviour!
+
+     {JOSABET.}
+
+     Alas! from whence this signal benefaction?
+     If kings from whom Messiah's to descend--
+
+     {JOAD.}
+
+     Let Josabet prepare the diadem
+     Which David's self bore on his sacred brow.
+
+     (To the Levites.)
+
+     And you, attend me to the place to arm
+     Yourselves, where is concealed from strangers' eyes
+     That formidable heap of swords and lances,
+     Which ever in Philistine's blood were drenched;
+     And which triumphant David, full of years
+     And honours, caused to be unto the God
+     That had protected him made consecrate.
+     Could we employ them in a nobler cause %
+     Follow, I will myself distribute them.
+
+
+
+
+_Scene VIII._
+
+     {SALOMITH, THE CHOIR.}
+
+     {SALOMITH.}
+
+     What fears my sisters, O what mortal broils!
+     All powerful God, are these the sacrifices,
+     The first-fruits and the perfumes we
+     This day should offer at Thy altars?
+
+     _One of the daughters of the Choir._
+
+     What spectacle unto our timid eyes!
+     Who could have feared we ever should behold
+     The murderous sword, the homicidal lance
+     Flashing within the house of peace?
+
+     _Another._
+
+     Whence comes it that Jerusalem,
+     Full of indifference to her God,
+     Is silent in her present danger?
+     Whence comes it, sisters, that for our protection
+     Brave Abner, at the least, speaks not aloud?
+
+     {SALOMITH.}
+
+          Ah! in a court, in which prevails
+     No other law than force and violence;
+     In which its honours and employments are
+     The price of blind and base obedience,
+     Who will desire, my sister, to lift up
+     His voice for sorrowing innocence?
+
+     _Another._
+
+     For whom's that sacred diadem prepared
+     In this confusion--peril violent?
+
+     {SALOMITH.}
+
+     The Lord has deigned to speak;
+     But who can make us understand
+     What to his prophet He has now revealed?
+     Arms He Himself in our defence?
+     Or does He arm to overwhelm us?
+
+     _All the choir sing,_
+
+     O promise! threatening! mysterious gloom!
+     What evil and what good by turns foretold!
+     How can we reconcile
+     So much of wrath and love?
+
+     _One voice alone._
+
+     Sion will be no more; a cruel flame
+     Will burn up all her excellence.
+
+     _Another voice._
+
+     O God, shield Sion; Thy eternal word
+     She holds for her foundations.
+
+     _The first_
+
+     How all her splendour fades before my eyes.
+
+     _The second._
+
+     I see on every side her glory radiant
+
+     _The first._
+
+     Sion is sunk to a profound abyss.
+
+     _The second._
+
+     Sion, whose brow is in the heavens.
+
+     _The first_
+
+     What sorrowful abasement!
+
+     _The second._
+
+     What immortal glory!
+
+     _The first_
+
+     What wailings!
+
+     _The second._
+
+     What songs of victory!
+
+     _A third._
+
+     Let us cease from troubling; our God one day
+     Will reconcile this mystery sublime!
+
+     _All three._
+
+     Let us revere His anger; trust His love.
+
+     _Another._
+
+     God! of a heart that loveth Thee
+     Who can disturb the peace?
+     Itself forgetting ever,
+     It seeks, in all, Thy will supreme.
+     On earth--in heaven even can there bloom
+     Another blessing than the tranquil peace
+     Of a heart that loveth Thee?
+
+     {END OF THE THIRD ACT.}
+
+
+
+
+_ACT IV.--Scenes I and II_
+
+     {JOAS, JOSABET, ZACHARIAH, SALOMITH, A LEVITE,
+     THE CHOIR.}
+
+     {SALOMITH.}
+
+     With a majestic step, beside my mother,
+     Near Zachariah, walks Eliacin.
+     What hide they, sisters, underneath their cloaks?
+     In short, what is that sword that's borne before them?
+
+     {JOSABET (_to Zachariah_).}
+
+     Place on that table, reverentially,
+     The book redoubted of our holy law:
+     And also you, my loved Eliacin,
+     This diadem place near the book divine.
+     Levites we must have there, Joad orders it,
+     The sword of David close beside the crown.
+
+     {JOAS.}
+
+     Princess, what then is this strange spectacle?
+     This sacred book, this diadem, this sword?
+     I ne'er have seen example of like form,
+     Since in His temple God accepted me.
+
+     {JOSABET.}
+
+     Soon all your doubts, my son, will be dispelled.
+
+     {JOAS.}
+
+     Why will you fit this diadem on my brow?
+     Ah, princess! keep its glory unprofaned!
+     Respect the memory of the king who wore it.
+     A wretched child abandoned to the bears--
+
+     {JOSABET (_tries on the diadem_).}
+
+     Allow me, son, I do what I am ordered.
+
+     {JOAS.}
+
+     But from your lips I hear your sobs arise!
+     Princess, you weep, What pity touches you?
+     To-day presented as burnt offering
+     Am I, as formerly was Jeptha's daughter,
+     By my own death to appease the wrath of God?
+     Alas! a child has nought a father may
+     Not claim.
+
+     {JOSABET.}
+
+     Here's one will tell you of the will of Heaven;
+     Fear nothing. Let us leave these precincts.
+
+     {JOAD, JOAS.}
+
+     _( Joas running into the arms of the high-priest.)_
+
+
+     {JOAD.}
+     Well, my son?
+
+     {JOAS.}
+
+     What is it, pray, that they prepare?
+
+     {JOAD.}
+
+          'Tis right my son
+     I should inform you, even before all,
+     Of God's great ends o'er you and o'er His people.
+     Be armed with new fidelity and zeal!
+     'Tis time to show this ardour and this faith,
+     Which to the bottom of your heart my cares
+     Have cultivated; and to pay to God
+     The debt you owe Him. Do you feel this noble
+     And generous aspiration?
+
+     {JOAS.}
+
+     I feel prepared, if wished, to give my life.
+
+     {JOAD.}
+
+     You've oft heard read the history of our kings:
+     My son, do you remember what strict law
+     Must be imposed on him who takes the crown?
+
+     {JOAS.}
+
+     Thus God Himself declares that a wise king
+     Does not rely on riches and on gold;
+     But fears the Lord his God; and ever hath
+     Before him His stern judgments, precepts, laws,
+     And crusheth not his brethren with oppression.
+
+     {JOAD.}
+
+     But of our kings, if you must copy one,
+     Which, from your choice, my son, would you be like?
+
+     {JOAS.}
+
+     David, who full of loyal love to God,
+     Appears the type most perfect of great kings.
+
+     {JOAD.}
+
+     Then, in their riot, you'd not imitate
+     The faithless Joram, godless Ochoziah?
+
+     {JOAS.}
+
+     O my father!
+
+     {JOAD.}
+
+     Continue, say what you think.
+
+     {JOAS.}
+
+     Whoe'er resembles, may he die like them.
+
+     _(Joad prostrates himself at his feet)._
+
+     My father, in what state are you before me?
+
+     {JOAD.}
+
+     I render you the homage of my king.
+
+     {JOAS.}
+
+     Joas! me?
+
+     {JOAD.}
+
+     You know the signal grace by which
+     God, foiling the designs of a bad woman,
+     Already with her dagger in your breast,
+     He chose, and saved you from amid the carnage.
+     You have not yet eluded all her madness:
+     With the same passion she has ever hungered
+     To lose in you the last child of her son,
+     Her cruelty is fixed to reach your death;
+     Under your name assumed, she hunts you still.
+     But 'neath your standard I have now arranged
+     A people prompt to vengeance and obedience.
+     Come, generous chiefs of sacred families,
+     By turns be honoured by the holy priest.
+
+
+
+
+_Scene III._
+
+     {JOAS, JOAD, AZARIAH, ISHMAEL, THREE OTHER LEVITE
+     CHIEFS.}
+
+     {JOAD.}
+
+     King, here are the avengers on your foes.
+     Priests, here's the king that I have promised you.
+
+     {AZARIAH.}
+
+     What, is't Eliacin?
+
+     {ISHMAEL.}
+
+     What! that amiable child--
+
+     {JOAD.}
+
+     Is true inheritor of Judah's throne,
+     Last born of tristful Ochoziah's children,
+     Reared up, you know it, by the name of Joas.
+     All Israel wept like you the destiny
+     Of this sweet flower, cut down so soon, and thought
+     That with his brother he was wrapt in death.
+     Attacked with the perfidious steel like them:
+     But God knowing how to turn aside the blow,
+     Kept in his heart the life-warmth near extinct,
+     Allowing Josabet to carry him
+     All bleeding in her bosom, and avoid
+     The assassin's vigilance. She having none
+     Except myself the accomplice of her theft,
+     Concealed the child, and reared him in the temple.
+
+     {JOAS.}
+
+     Alas! for so much love, so many blessings,
+     Father, how shall I e'er acquit myself?
+
+     {JOAD.}
+
+     For other times reserve this gratitude.
+     Here then behold your king, your only hope!
+     Till now my care has treasured him for you;
+     You, servants of the Lord, must bear it out.
+     Informed that Ochoziah's son still lives,
+     The murderess, Athaliah, soon will rush,
+     To hurry him again into the tomb.
+     Already, without knowing him, she pants
+     To ruin sacred ministers 'tis yours
+     To anticipate her fury; now 'tis time
+     To end the shameful slavery of the Jews,
+     To avenge our princes' deaths, exalt our laws,
+     And make our king be owned by our two tribes.
+     The enterprize is great and dangerous;
+     Attacking on her throne a haughty queen,
+     Who sees a numerous camp of hardy strangers
+     And traitorous Hebrews march beneath her standards!
+     But God's my strength, whose interest guideth me.
+     Think that all Israel lives within this child!
+     Already God the avenger troubles her.
+     Eluding whom, I have assembled you;
+     She deems us armless here, without defence.
+     Let us crown quickly and proclaim Joas king:
+     Then, fearless soldiers of the new crowned prince,
+     March and invoke the Arbiter of battles;
+     And rousing in the people's hearts their faith,
+     Even in her palace, seek our enemy.
+     Then those so long in lazy slumber sunk,
+     Beholding us advance in saintly garbs,
+     Will haste with zeal to follow our example!
+     A king whom in His temple God has nourished:
+     Aaron's successor, followed by his priests,
+     Leading the house of Levi to the combat;
+     And in these hands, by all tribes venerated,
+     The arms of David consecrate to God!
+     The Lord will scatter terror on His foes.
+     Bathe without fear in unbelievers' blood!
+     Strike Syrian, and even Israelite!
+     From those famed Levites do you not descend,
+     Who, when to Nilus' god inconstant Israel
+     Paid in the desert adoration vile,
+     The saintly homicides of their own house,
+     Did dedicate their hands in treacherous blood,
+     And by that awful deed acquired for you
+     The rank of sole presiders at the altar?
+     But now I see you burn to follow me!
+     Swear on this sacred volume, then, Yore all
+     To live, to combat, and to die for him,
+     The king, whom heaven presenteth you to-day.
+
+     {AZARIAH (_at the end of the table, laying his hand
+     the sacred book),_}
+
+     Yes, swear we, for our brothers and ourselves,
+     To establish Joas upon his father's throne;
+     That we again will not lay down our arms
+     Until avenged upon his enemies:
+     If any' violator break this vow,
+     O may he feel, great God, Thy vengeful wrath!
+     And may with him his children be debarred
+     Thy heritage, as those Thou knowest no more!
+
+     {JOAD.}
+
+     And to this law, your ever present guide,
+     Will you not, king, swear always to be true?
+
+     {JOAS.}
+
+     Can I not to that law conform myself?
+
+     {JOAD.}
+
+     Allow, my son--I still dare call you so--
+     This tenderness, and tolerate the tears
+     Drawn from my eyes for you with just alarms.
+     Alas! far from the throne instructed, you
+     Are ignorant of the enpoisoned cup;
+     The drunkenness of unrestricted power;
+     The voice of the enchantress flattery.
+     Soon will they tell you that the sacred laws,
+     Which sway the common people, bow to kings;
+     That his own will's the sovereign's sole restraint;
+     That all to his supreme magnificence
+     Is to be sacrificed; that unto tears
+     And toils his subjects are condemned; and that
+     They must be governed by an iron sway;
+     Who soon or late, if not subdued, subdue.
+     And thus from snare to snare, and gulf to gulf,
+     Fouling the lovely chasteness of your morals,
+     At length they bring you to despise the truth
+     By painting virtue in a frightful form;
+     Alas! they have misled the kings most wise!
+     Swear on this book, before these witnesses,
+     That God shall always be your first of cares;
+     Stern to the wicked, refuge of the good:
+     That 'twixt the poor and you the Lord shall judge.
+     Remember you, my son, that in this dress,
+     Like them you were an orphan, like them, poor.
+
+     {JOAS (_at the middle of the table, having his hand
+     the sacred book,)_}
+
+     I promise to obey the law ordained;
+     God punish me if I abandon you.
+
+     {JOAD.}
+
+     Come, and anoint him with the holy oil;
+     Josabet, appear: you now may show yourself.
+
+
+
+
+_Scenes IV. and V._
+
+     {JOAS, JOAD, JOSABET, ZACHARIAH, SALOMITH, AZARIAH,
+     ISHMAEL, THREE OTHER LEVITE CHIEFS, THE CHOIR.}
+
+     {JOSABET _(embracing Joas)_}.
+
+     O king, offspring of David!
+
+     {JOAS.}
+
+     My only mother! Come, dear Zachariah,
+     Embrace me.
+
+     {JOSABET (_to Zachariah_).}
+
+     My son, prostrate yourself before your king.
+
+     {JOAD (_whilst they embrace._)}
+
+     Children, may thus your hearts be always one.
+
+     {JOSABET (_to Joas_).}
+
+     You know then to what source you owe your life?
+
+     {JOAS.}
+
+     And also know the hand, which, but for you,
+     Had robbed me of it.
+
+     {JOSABET.}
+
+     I then can call you by your own name, Joas.
+
+     {JOAS.}
+
+     Joas will never cease to love you.
+
+     {THE CHOIR.}
+
+     What! is it--
+
+     {JOSABET.}
+
+     It is Joas.
+
+     {JOAD.}
+
+     Let us hear that Levite.
+
+
+
+
+_Scene VI._
+
+     {JOAS, JOAD, JOSABET, ZACHARIAH, SALOMITH, AZARIAH,
+     ISHMAEL, THREE OTHER LEVITE CHIEFS, A LEVITE,
+     THE CHOIR.}
+
+     {A LEVITE.}
+
+     I know not what design they have 'gainst God;
+     But threatening boldness growls on every side:
+     Amidst their standards they have lighted fires,
+     And doubtless Athaliah joins her forces;
+     Already every path for succour's closed:
+     The sacred mount on which the temple's reared
+     Is quite infested with fierce Tynans;
+     Blaspheming, one of them came forth and said,
+     "Your Abner is in chains, and cannot aid you."
+
+     {JOSABET (_to Joas_)}
+
+     Dear child, whom Heaven in vain reserved for me,
+     I've done whate'er I could to rescue you:
+     But God no longer knows your father, David.
+
+     {JOAD (_to Josabet_).}
+
+     What! fear you not to draw His wrath on you,
+     And on this king so dear unto your love?
+     Though God should tear him from your arms for ever,
+     And will that David's house should be extinct,
+     Are you not here upon the holy mount,
+     Where 'gainst his innocent son the Jewish sire,
+     Raised, without murmur, his obedient arm;
+     And, as burnt-offering, on the altar placed
+     The finit of his old age, leaving with God
+     The oversight of bearing out His promise,
+     And yielded up to Him, with his loved son,
+     His house's hope, contained in him alone?
+     Friends let us go. Let Ishmael to his charge,
+     Take all the side that looks unto the east;
+     You take the northern portion, you the west,
+     And you the centre. Let not too much zeal,
+     Betraying my designs, cause priest or Levite
+     To quit his place, and charge before the time;
+     And, finally, let all impelled as one
+     Keep to the death the post I have assigned them.
+     The foe beholding us in his blind rage,
+     As a vile herd reserved for massacre,
+     Thinks but to meet disorder and dismay.
+     You, Azariah, keep beside the king.
+
+     _(To Joas.)_
+
+     Come, you dear scion of a valiant race,
+     With a new courage fill your champions;
+     Assume the diadem before their eyes,
+     And fall as king, at least, if fall you must.
+
+     _(To a Levite.)_
+
+     Follow him, Josabet. Give me those arms.
+
+     _(To the Choir.)_
+
+     Children, to God present your innocent tears.
+
+
+
+
+_Scene VII._
+
+     _The Choir sing._
+
+     Children of Aaron, go--depart;
+     In never more illustrious cause
+     Battled the zeal of your progenitors.
+     Children of Aaron, go--depart;
+     It is your king, your God, for whom ye fight.
+
+     _One voice alone._
+
+     Where are those thunderbolts Thou launchest,
+     Great God, in Thy just wrath?
+     Art Thou no more the jealous God?
+     Art Thou no longer the avenger?
+
+     _Another,_
+
+     Where, God of Jacob, are Thy former favours?
+     Amid the horrors, that encompass us,
+     Hearest Thou alone the voice
+     Of our iniquities?
+     Art Thou no longer the forgiving God?
+
+     _The Choir._
+
+     Where, God of Jacob, are Thy former favours?
+
+     _One voice alone._
+
+     It is against Thyself that in this strife
+     The armies of the wicked aim assault.
+     Come let us cause to cease, say they,
+     God's festivals upon the earth;
+     And from His tiresome yoke deliver man:
+     Let all His saints be slaughtered;
+     His altars overthrown;
+     That of His name and glory
+     No memory may be left;
+     That neither He, nor Christ may reign o'er us.
+
+     _The Choir._
+
+     Where are the thunderbolts Thou launchest,
+     Great God, in Thy just wrath?
+     Art Thou no more the jealous God?
+     Art Thou no longer the avenger?
+
+     _One voice alone._
+
+         Sad remnant of our kings,
+     Dear and last bloom of such a beauteous stem,
+     Ah! 'neath the dagger of a cruel dam
+     Shall we, a second time, behold thee fall?
+     Say, did an angel at thy cradle side,
+     Beloved prince! against thy murderers
+     Defend thee with his care;
+     Or in the darkness of the tomb
+     Did God re-animate thy ashes?
+
+     _Another._
+
+     Dost Thou, great God, impute the guilty deeds
+     Of father and grandfather unto him?
+     Abandon him without relenting pity?
+
+     _The Choir._
+
+     Where, God of Jacob, are Thy former favours?
+     Art Thou no longer the forgiving God?
+
+     _One of the daughters of the Choir (speaking)._
+
+     Dear sisters, hear you not the sound
+     Of the fierce Tyrians' trumpet?
+
+     {SALOMITH.}
+
+     I even hear the barbarous soldiers' cries,
+     And I shiver with horror.
+     Come, let us fly to our refuge
+     Under the sanctuary's shadow.
+
+
+
+
+_ACT V.--Scene I._
+
+     {ZACHARIAH, SALOMITH, THE CHOIR.}
+
+     {SALOMITH.}
+
+     Dear Zachariah, well! what have you learnt?
+
+     {ZACHARIAH.}
+
+     Redouble to the Lord your fervent prayers:
+     Perhaps we are approaching our last hour;
+     The order's given for the horrid conflict.
+
+     {SALOMITH.}
+
+     What is Joas doing?
+
+     {ZACHARIAH.}
+
+         He has just been crowned:
+     On him the high-priest's poured the holy oil.
+     O heaven, what joy was seen in every eye,
+         Beholding him, the ransomed from the tomb!
+     My sisters, still is seen the dagger's scar.
+     Also his faithful nurse appeared to us,
+     Who guarding that dear charge has had no eye
+     To note her cares but God's and Josabet's.
+     Our Levites wept with joy and tenderness,%
+     And mixed their sobs with shouts of ecstacy.
+     He, midst those transports, courteous, without pride,
+     To one his hand, to others gave his look,
+     And swore to govern by their frank advice,
+     Naming them all his brothers or his sires.
+
+     {SALOMITH.}
+
+     Think you this secret's spread beyond these walls?
+
+     {ZACHARIAH.}
+
+     This secret to the temple's still confined;
+     The band of Levi's race, distributed,
+     Have placed themselves all silent at the doors;
+     All are to rush together on the foe,
+     And for the signal cry, "Long live King Joas!"
+     My father wills that Zachariah guard
+     The king, forbidden to expose himself.
+     Meanwhile the queen, with poniard in her hand,
+     Laughs at the feeble check of our brass gates.
+     To crush them she attends the fatal engines,
+     Breathing, in short, but blood and devastation.
+     Some priests, my sister, at the first proposed,
+     That in a secret cave, our fathers' dug,
+     The precious ark at least should be concealed.
+     "O base insulting fear my father cried,
+     The ark which caused so many gorgeous towers
+     To fall, and forced the Jordan's backward course;
+     So many times triumphant o'er the gods
+     Of nations, must it flee at the approach
+     Of insolent woman?" My mother, near
+     The king, in deadly trouble, now her eye
+     Being on the altar, and now turned on him,
+     Silent, and sinking 'neath the weight of dread,
+     Would have extorted tears from eyes of brass.
+     The king from time to time embracing her
+     Consoled her: then she said, "my sisters dear,
+     All follow me, and if our king to-day
+     Must perish, let one fate unite ourselves
+     With him."
+
+     {SALOMITH.}
+
+     What rugged hand knocks with repeated blows?
+     Why those disordered Levites put to flight?
+     And what precaution makes them hide their arms?
+     Is the temple stormed?
+
+     {ZACHARIAH.}
+
+     Disperse your fears, God sends us Abner.
+
+
+
+
+_Scene II._
+
+     {ABNER, JOAD, JOSABET, ZACHARIAH, SALOMITH,
+     TWO LEVITES, THE CHOIR.}
+
+     {JOAD.}
+
+          Must I believe my eyes,
+     Dear Abner? By what way have you been here
+     Conducted, through a camp besieging us?
+     'Twas said that Ahab's sacrilegious daughter
+     Had loaded with vile chains your generous hands.
+
+     {ABNER.}
+
+     Yes, sire, she feared my fortitude and zeal.
+     Confining me's the least part of her rage;
+     In horrid dungeon by her orders buried,
+     I was expecting that the temple burnt
+     To ashes, and not satiated yet,
+     With many floods of slaughter, she would come,
+     And rid me of a troublesome life, cut short
+     The days which would a thousand times have swelled
+     The grief of being survivor of my kings.
+
+     {JOAD.}
+
+     What miracle has brought about your pardon?
+
+     {ABNER.}
+
+     God only knows what passes in her heart.
+     She sent for me, and with distracted air
+     Said, "see those soldiers quite surround that temple,
+     A vengeful fire's about to make it ashes;
+     Thy God 'gainst mine can not defend Himself.
+     Howe'er His priests--but they must make quick haste,
+     On two conditions may redeem their lives--
+     That in my power Eliacin be given,
+     With treasures which I know are known to them,
+     Amassed by David, formerly your king,
+     Intrusted to the high-priest's secret care.
+     Go tell them at that price that they may live."
+
+     {JOAD.}
+
+     What counsel, Abner, think you we should follow?
+
+     {ABNER.}
+
+     If, in effect, 'tis true that all the gold
+     Of David's secret treasure you preserve,
+     And from the hands of that rapacious queen
+     You may thereby save all that's rich and rare,
+     Why, yield it up. Would you that foul assassins
+     Come break the altar, burn the cherubim,
+     And laying on our ark a violent hand,
+     With your own blood pollute the sanctuary?
+
+     {JOAD.}
+
+     Would it become us, Abner, from kind hearts,
+     To give to torture an unfortunate child,
+     Whom God Himself confided to my care;
+     And at his life's expense redeem our own?
+
+     {ABNER.}
+
+     Alas! God sees my heart. O that our God
+     Would make the queen forget an innocent child,
+     And that the blood of Abner would content
+     Her cruelty, and that my death would calm
+     The heavens that torture her! But what avails
+     Your useless tenderness? If you all perish,
+     Is death the less to him? And does our God
+     Bid you to dare impossibilities?
+     Submitting to a heartless tyrant's law,
+     Moses, left by his mother at the Nile,
+     Was seen almost at birth condemned to fall:
+     But God, preserving him beyond all hope,
+     Made e'en the tyrant tend, his infancy.
+     Who knows God's will towards our Eliacin?
+     And, if preparing him like destiny,
+     He has not, the fierce murderess of our kings,
+     Already made susceptible of pity?
+     At least, short time ago, I saw his aspect
+     Move her (which Josabet observed as well),
+     I saw the tempest of her fury fall.
+
+     _(To Josabet.),_
+
+     Princess! can you be silent in this peril?
+     What, for a boy, who is a stranger to you,
+     Will you allow that Joad shall fruitlessly
+     Leave you, his son, and people to be slaughtered?
+     And that the fire devour the very place
+     Upon the earth where God would be adored?
+     Why, were that tender boy a precious relic
+     Of your ancestral kings, could you do more?
+
+     {JOSABET (_aside, to Joad_).}
+
+     O wherefore do you not speak out, you see
+     His tenderness for Israel's kings?
+
+     {JOAD.}
+
+     Princess 'tis not yet time.
+
+     {ABNER.}
+
+     The time's more precious, sire, than you suppose.
+     Whilst hesitating here to answer me,
+     Mathan, beside the queen, indignant flaming,
+     Demands the signal, panting for the carnage.
+     Must I entreat you at your sacred feet,
+     By the place saintly, closed to all but you,
+     Dread place, where dwells the majesty of God?
+     However hard the task on you imposed,
+     We must but think of warding off the blow.
+     O give me only time to breathe--to-morrow,
+     This very night, I will arrange the means
+     To save the temple and avenge its wrongs.
+     But ah! I see my tears and vain discourse
+     Are arguments too frail to change your mind:
+     Your austere virtue will not be subdued.
+     Well! bring me then my armour, and a sword,
+     That at the portals of the temple, where
+     The foe awaits me, Abner, at the least,
+     May die in combat
+
+     {JOAD.}
+
+     I yield. You give advice which I embrace:
+     Let us avert so many threatening ills.
+     'Tis true there is a treasure left by David;
+     To my fidelity the charge was given:
+     It was the melancholy Jews' last hope,
+     Which from the light my vigilance concealed:
+     But since we _must_ expose it to our queen,
+     I'm going to please her. Open wide our gates!
+     Let her, accompanied by her bravest chiefs,
+     Advance, but from our sacred altars, let
+     Her hold at distance the unreasoning fury
+     Of herds of strangers, and protect me from
+     The horror of the pillage of the temple.
+     Would a few priests and children rouse suspicion?
+     With her arrange the number of her suite.
+     As to that child, so feared, so terrible--
+     Abner, I know the justness of your heart--
+     I will explain his birth before you both:
+     You'll hear if we should place him in her power,
+     And you shall judge 'twixt him and Athaliah.
+
+     {ABNER.}
+
+     Ah! now, I take him under my protection.
+     Fear nothing, I return to her who sent me.
+
+
+
+
+_Scene III._
+
+     {JOAD, JOSABET, ZACHARIAH, SALOMITH, ISHMAEL, TWO
+     LEVITES, THE CHOIR.}
+
+     {JOAD.}
+
+     Great God! Thy hour is come, they bring Thy prey!
+     Ishmael, listen. (_Speaks low to him._)
+
+     {JOSABET.}
+
+          Mighty Master of the heavens!
+     Re-bind on her the veil which wrapt her eyes,
+     When rendering all her crimes abortive, Thou
+     Conceal'dst that tender victim in my bosom!
+
+     {JOAD.}
+
+     Go, prudent Ishmael, lose not any time,
+     Follow my grave instructions, step by step;
+     And, above all, let everything present
+     To her, upon her entry and her way,
+     The picture of a calm profound. You, children,
+     Prepare a throne for Joas. Let him advance,
+     Accompanied by our sacred combatants;
+     And also cause his faithful nurse to come,
+     Princess, and let your tears cease flowing.
+
+     _(To a Levite.)_
+
+     You, when the queen with mad presumption drunk,
+     Has passed the threshold of the temple's doors,
+     That she no more be able to return,
+     Take care that instantly the warlike trumpet
+     Shall spread a sudden consternation through
+     The enemy's camp; then call upon the people
+     To the support of Judah's king, and let
+     The marvellous prodigy of Joas preserved
+     Resound upon the ear. He comes.
+
+
+
+
+_Scene IV._
+
+     _Joad is followed by a procession of priests and Levites',
+     and the chorus. The high-priest arranges them round
+     their king, and orders them to wait in concealment the
+     expected signal. He seats Joas on the throne, and
+     immediately after Athaliah arrives. At her approach
+     Joad draws a curtain, by which Joas and the Levites
+     are hid from view._
+
+     {JOAS, JOAD, JOSABET, ZACHARIAH, SALOMITH, AZARIAH,
+     TROUPES OF PRIESTS AND LEVITES, THE CHOIR.}
+
+     {JOAD.}
+
+     Ye saintly Levites, ministers of God,
+     Surround this place, concealed on every side;
+     And, leaving to my charge to guide your zeal,
+     Wait till my voice commands you to appear.
+
+     _(They all conceal themselves.)_
+
+     King, I believe this hope's allowed your vows;
+     You come to see your foes fall at your feet.
+     That one, whose madness in your infancy
+     Pursued you, now advances towards this place,
+     With hasty step, intent to ruin you;
+     But fear you not, think, that surrounding you,
+     The exterminating angel, stands with us.
+     Ascend your throne, and--but the doors are opening:
+     Allow this screen to cover you a moment.
+
+     _(He draws the screen.)_
+
+     Princess, you are pale.
+
+     {JOSABET.}
+
+          Without becoming so
+     Can I behold the temple filled with murderers?
+     What! See you not that numerous escort?
+
+     {JOAD.}
+
+     I see them close the sacred temple's doors,
+     That everything is safe.
+
+
+
+
+_Scene V._
+
+     (_Athaliah enters, and addresses Joad._)
+
+     {ATHALIAH.}
+
+          Ah! there thou art, seducer! thou
+     Noxious contriver of conspiracies,
+     Who only on confusion feed'st thy hopes;
+     Perpetual enemy of sovereign power!
+     In the support of God thou hast reposed:
+     Art thou yet disabused of thy vain trust?
+     His temple and thy life he yields to me.
+     I ought upon the altar, where thy hand
+     Makes sacrifices, thee.--But with the price
+     They offer me I must content myself.
+     What thou hast promised, see to execute:
+     That boy, that treasure must be given to me.
+     Where are they?
+
+     {JOAD.}
+
+     Immediately thou shalt be satisfied;
+     I am about to show them both at once.
+
+     (_The screen is withdrawn. Joas is seen on his throne;
+     his nurse on her knees at his right; Azariah, with
+     his sword in his hand, is standing at his left; and
+     near him are Zachariah and Salomith, kneeling on
+     the steps of the throne; several Levites armed are
+     ranged around._)
+
+     Appear, dear boy, blood worthy Israel's kings!
+     Of our most saintly monarchs, knowst thou, queen,
+     The inheritor? Knowst thou at least these scars
+     Thy dagger made? Behold thy king, thy son,
+     The son of Ochoziah! Abner, you
+     And people recognise king Joas!
+
+     {ABNER.}
+
+     Heavens!
+
+     ATHALIAH (to Joad).
+
+     Perfidious wretch!
+
+     {JOAD.}
+
+          See'st thou that faithful Jewess
+     Of whom, thou knowest well, he drew the breast?
+     Him rescued from thy rage by Josabet,
+     This temple hailed, where God has cared for him,
+     Of David's treasures, see what I have left.
+
+     {ATHALIAH.}
+
+     Thy treachery, traitor, to that child will be
+     Most fatal. Soldiers, deliver me from
+     That odious spectre!
+
+     {JOAD.}
+
+     Guards of the living God, defend your king!
+
+     (_The bottom of the temple opens, and the Levites rush
+     upon the scene from all sides._)
+
+     {ATHALIAH.}
+
+     Where am I? Treason! O, unhappy queen!
+     With arms and enemies I am surrounded!
+
+     {JOAD.}
+
+     Thine eyes flash round in vain, escape thou canst not,
+     On every side the Lord's encompassed thee:
+     That God thou hast defied, into my hands
+     Has given thee up: now render an account
+     To Him of slaughters which have made thee drunk.
+
+     {ATHALIAH.}
+
+     What fear has petrified my worthless troops?
+     Into what snare hast thou conducted me,
+     Base Abner?
+
+     {ABNER.}
+
+     Queen, God is my testimony--
+
+     {ATHALIAH.}
+
+     Hence with thy God, thou traitor, and avenge me!
+
+     {ABNER.}
+
+     On whom, on Joas, my master?
+
+     {ATHALIAH.}
+
+     He Joas? Thy king? Remember, vile one, that
+     My armies still are holding you besieged.
+     I hear my camp demand me with loud cries,
+     They come to aid me, quake, rebellious crew!
+
+
+
+
+_Scene VI._
+
+     {ISHMAEL, JOAS, JOAD, ATHALIAH, AND ALL THE
+     OTHERS OF THE LAST SCENE.}
+
+     {ISHMAEL (_to Joad_).}
+
+     The temple, sire, is free, the foe's no more;
+     The stranger's army's fled, the Jewish docile;
+     As wind disperses vapour in the air,
+     The voice of the Almighty's chased that army.
+     Our Levites, from the sacred porches' height,
+     The son of Ochoziah have proclaimed
+     Unto the people, and recited how
+     His infancy was stolen from the sword;
+     How Ahab's daughter's buried in the snare.
+     At the same time the trumpet on all sides
+     Resounded, and its blasts, blent with their shouts,
+     Into the astonished camp disorder spread,
+     And utter panic: (as proud Midianite
+     Was struck by Gideon) Tyrians threw away
+     Their arms and bucklers, and by diverse roads
+     Scattered the first; some Hebrews next took flight;
+     But with loud voice the rest declared for Joas;
+     Admiring how the Lord had dealt with him.
+     At length the people, by one spirit moved,
+     The women, children, and old men, with joy
+     Embraced each other, blessing God who sent,
+     And those who tended him, celebrating Joas
+     With hymns, the son of David come again to life!
+     Baal in the holy city is in horror!
+     His temple's doors are shivered Mathan's slain!
+
+     {ATHALIAH.}
+
+          God of the Jews, Thou conquerest!
+     Yea, it is Joas, I try deceit in vain;
+     I see where I did cause him to be struck;
+     I own the port and mien of Ochoziah;
+     True, all remind me of the blood I hate;
+     David's triumphant; Ahab is destroyed.
+     Merciless God Thou hast o'erruled the whole:
+     Who, with an easy vengeance flattering me,
+     Hast made me self-conflicting through the day.
+     Now, by a child exciting my remorse;
+     Now, dazzling me with lust of Thy rich treasures,
+     I feared to give this temple to destruction.
+     Then let that son be king, Thy care, Thy work,
+     And that to signalize his new dominion,
+     Cause him to plunge his knife into my breast!
+     This is his dying mother's wish towards him.
+     What do I say? I soothe myself with hopes,
+     That to Thy yoke unbent, tired of Thy law,
+     Faithful to Ahab's blood received from me,
+     In his grandfather's steps, and like his sire,
+     The hateful heir of David will be found
+     To abrogate Thy honour, and profane
+     Thy temple, Venging Ahab, Jezebel,
+     And Athaliah!
+
+     {JOAD.}
+
+     Let her at once be taken from the temple,
+     So that its sanctity be not profaned.
+     Go, sacred Vengers of our murdered princes,
+     Stay, by her death, the outcry of their blood.
+     If any rash adherent take her part,
+     Let him be given to the sword with her.
+
+
+
+
+_Scene VII._
+
+     {JOAS (_having descended from his throne_)}
+
+     God, who behold'st my trouble, my affliction,
+     O turn her maledictions far from me,
+     And never suffer their accomplishment.
+     Sooner than Joas forget Thee, may he die!
+
+     {JOAD.}
+
+     Call forth the people, let them see their king,
+     That in his power they may renew their faith.
+     King, people, priests, come, full of gratitude,
+     Confirm the covenant with Jacob's God:
+     And, struck with sacred awe at our ill deeds,
+     Engage ourselves anew to Him with oaths.
+     Abner, resume your place beside your prince.
+
+
+
+
+_Scene VIII._
+
+     {A LEVITE, JOAS, JOAD, AND ALL THE OTHERS OF
+     THE PRECEDING SCENE.}
+
+     {JOAD (_to the Levite_).}
+
+     Well, have they punished the temerity
+     Of that ungodly woman?
+
+     {LEVITE.}
+
+     Her death's atoned the horrors of her life.
+     Jerusalem, for long her fury's prey,
+     Is freed at length from her detested yoke.
+
+     {JOAD.}
+
+     By her dread end, commensurate with her crimes,
+     Learn, prince of Judah, never to forget,
+     That there's a rigid Judge of kings in heaven;
+     The orphan's Father, Sword of innocence.
+
+     {FINIS.}
+
+
+
+
+
+End of the Project Gutenberg EBook of Athaliah, by J. Donkersley
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ATHALIAH ***
+
+***** This file should be named 21967.txt or 21967.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/1/9/6/21967/
+
+Produced by David Widger
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
