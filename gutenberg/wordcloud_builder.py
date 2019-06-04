@@ -8,6 +8,10 @@ from nltk.corpus import stopwords
 from wordcloud import WordCloud
 from matplotlib.cm import get_cmap
 
+from matplotlib import rcParams
+rcParams['axes.titlepad'] = 60
+
+
 nltk.download('stopwords')
 stopWords = set(stopwords.words('english') + [
     'one', 'two', 'first', 'every', 'de', 'mr', 'st',
@@ -91,5 +95,6 @@ for year in range(1600, 2000, 10):
         cld.generate_from_frequencies(wrd2frq)
 
         plt.imshow(cld, interpolation='lanczos')
+        plt.title(str(year))
         plt.axis('off')
         plt.savefig('./wordcloud/%ds.png' % year)
