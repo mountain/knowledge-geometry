@@ -97,4 +97,4 @@ for year in range(1600, 2000, 10):
         plt.imshow(cld, interpolation='lanczos')
         plt.title(str(year))
         plt.axis('off')
-        plt.savefig('./wordcloud/%ds.png' % year)
+        plt.savefig('./wordcloud/cloud-%02d.png' % ((year - 1650) / 10))
