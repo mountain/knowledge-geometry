@@ -1,0 +1,19 @@
+\documentclass[tikz]{standalone}
+\tikzset{if/.code n args={3}{\pgfmathparse{#1}%
+  \ifnum\pgfmathresult=1\pgfkeysalso{#2}\else\pgfkeysalso{#3}\fi}}
+\begin{document}
+\begin{tikzpicture}[nodes=draw, thick,
+  H/.style n args={5}{% #1=direction, #2=initial length, #3=levels, #4=numerator, #5=denominator
+    if={0<=#3}{
+      append after command={\pgfextra{\let\tikzLastnode\tikzlastnode}
+        node[HH={#1}{#2}{#3}{#4}{#5*2}, shift=(#1+180:#2)] at (\tikzLastnode) {#4/#5} edge (\tikzLastnode)
+        node[HH={#1}{#2}{#3}{#4*2}{#5}, shift=(#1:#2)]     at (\tikzLastnode) {#4/#5} edge (\tikzLastnode)}
+    }{}},
+  HH/.style n args={5}{
+    append after command={\pgfextra{\let\tikzLastnode\tikzlastnode}
+      node[H={#1}{#2/2}{#3-1}{#4+#5}{#5}, shift=(#1+90:#2)] at (\tikzLastnode) {#4/#5} edge (\tikzLastnode)
+      node[H={#1}{#2/2}{#3-1}{#4-#5}{#5}, shift=(#1-90:#2)] at (\tikzLastnode) {#4/#5} edge (\tikzLastnode)
+    }}]
+\node[H={90}{16cm}{0}{0}{1}] {};
+\end{tikzpicture}
+\end{document}
