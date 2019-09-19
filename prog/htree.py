@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+import turtle
+
 from fractions import gcd
 from turtle import Turtle, Screen
 
@@ -57,10 +59,15 @@ yertle = Turtle()
 yertle.goto(0, 0)
 yertle.right(90)
 
-drawHTree(yertle, 5, 1536, 0, 1)
+drawHTree(yertle, 2, 256, 0, 1)
+
+turtle._CFG['width'] = 0.5
+turtle._CFG['height'] = 0.75
+turtle._CFG['canvwidth'] = 800
+turtle._CFG['canvheight'] = 800
 
 screen = Screen()
 ts = yertle.getscreen()
-ts.getcanvas().postscript(file="labled-htree.eps")
+ts.getcanvas().postscript(file="../images/labled-htree.eps")
 
 screen.exitonclick()
