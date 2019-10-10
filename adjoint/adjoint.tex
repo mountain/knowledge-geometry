@@ -101,7 +101,31 @@ Under this interpretation, a pair of adjoint operators are just active and passi
 
 \subsection{The traditional way to introduce adjoint equation}
 
-Adjoint equation is a tool when we seek an optimized solution bounded to an evolutionary process satisfying a differential equation, here the optimized solution can be a boundary value to apply control, or instead, an initial value to fit the observation aftermath, or possibly, better parameters to influence evolution. To handle all these different settings, we give a generalized formulation as below.
+Adjoint equation is a tool when we seek an optimized solution bounded to an evolutionary differential equation, here the optimized solution can be a boundary value to apply control, or instead, an initial value to fit observations aftermath, or possibly, better parameters to influence the process.
+To handle all these different problem settings, we give formulations as below.
+
+\subsubsection{optimized boundary value}
+
+we need to optimize the boundary value $ \mathbf{u} = \mathbf{y}_{\partial} $ to minimize the error between $ \mathbf{y}_1 = \mathbf{y}(\mathbf{x}, 1)$ and target $ \mathbf{y}_1^o $.
+
+$$
+\begin{array}{rcll}
+\min &~& J(\mathbf{y_1}, \mathbf{y}_1^o, \mathbf{u}) & \\
+\mathrm{s.t.} &~& \dot{\mathbf{y}} = f(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \Omega \times [0, 1] \\
+&~& \mathbf{y} = u(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \partial \Omega \times [0, 1] \\
+&~& \mathbf{y}(\mathbf{x}, 0) = \mathbf{y}_0(\mathbf{x}) & \mathbf{x} \in \Omega
+\end{array}
+$$
+
+And $ J $ is determined by
+
+$$
+J(\mathbf{y_1}, \mathbf{y}_1^o, \mathbf{u}) = \frac{1}{2} \int\limits_{\Omega}|\mathbf{y_1} - \mathbf{y_1^o}|^2dx +  \frac{\lambda}{2} \int\limits_{0}^{1}\int\limits_{\partial \Omega} |\mathbf{u}|^2 dS(x) dt
+$$
+
+\subsubsection{optimized initial value}
+
+\subsubsection{optimized parameters}
 
 \section{Geometrical interpretation of adjoint equation}
 
@@ -144,9 +168,9 @@ produces
 
 
 \subsection{Figures}
-\lipsum[10] 
+\lipsum[10]
 See Figure \ref{fig:fig1}. Here is how you add footnotes. \footnote{Sample of the first footnote.}
-\lipsum[11] 
+\lipsum[11]
 
 \begin{figure}
   \centering
@@ -179,7 +203,7 @@ See awesome Table~\ref{tab:table}.
 \subsection{Lists}
 \begin{itemize}
 \item Lorem ipsum dolor sit amet
-\item consectetur adipiscing elit. 
+\item consectetur adipiscing elit.
 \item Aliquam dignissim blandit est, in dictum tortor gravida eget. In ac rutrum magna.
 \end{itemize}
 
