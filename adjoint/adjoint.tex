@@ -60,10 +60,9 @@
 \maketitle
 
 \begin{abstract}
-Traditionally, adjoint equation was introduced via the technic of integration-by-parts.
-After recalling the geometrical interpretation of adjoint operators in linear cases,
-we reveal that adjoint equation shares the same interpretation,
-and then a new dual-number-based definition of adjoint equation and proof for equivalence between definitions are given.
+Traditionally, adjoint equation was introduced via different approches.
+After recalling the geometrical interpretation of adjoint operators in linear cases, we reveal that adjoint equation shares the same interpretation.
+Then a new dual-number-based definition of adjoint equation is given, and the equivalence of these different approches is proofed.
 \end{abstract}
 
 \keywords{adjoint \and adjoint equation \and geometrical interpretation \and dual number}
@@ -127,7 +126,7 @@ In this section, we will show some typical problems appeared in different litera
 
 \subsubsection{A boundary-value optimization problem}
 
-We need optimize the boundary value $ \mathbf{u} = \mathbf{y}_{\partial} $ to minimize the error between $ \mathbf{y}_1 = \mathbf{y}(\mathbf{x}, 1)$ and target $ \mathbf{y}_1^o $.
+This is an example of optimal control, we need optimize the boundary value $ \mathbf{u} = \mathbf{y}_{\partial} $ to minimize the error between $ \mathbf{y}_1 = \mathbf{y}(\mathbf{x}, 1)$ and target $ \mathbf{y}_1^o $.
 
 $$
 \begin{array}{rcll}
@@ -146,7 +145,10 @@ $$
 
 \subsubsection{An initial-value optimization problem}
 
+This is an example of data assimilation.
+
 Let $ O(\mathbf{x}, t) $ to be the character functions of the observable area at time $t$
+
 $$
 O(\mathbf{x}, t) = \begin{cases}
 1, & \text{if }\mathbf{x}\text{ is observable at t} \\
@@ -176,6 +178,8 @@ $$
 
 \subsubsection{A parameter optimization problem}
 
+This is an example of machine learning.
+
 Parameter $\theta$ will influence the evolution process and we need optimize $\theta$ to minimize the error between $ \mathbf{y}_1 = \mathbf{y}(\mathbf{x}, 1)$ and target $ \mathbf{y}_1^o $.
 
 $$
@@ -193,7 +197,7 @@ $$
 J(\mathbf{y_1}, \mathbf{y}_1^o, \mathbf{u}) = \frac{1}{2} \int\limits_{\Omega}|\mathbf{y_1} - \mathbf{y_1^o}|^2dx + \frac{\lambda}{2} |\theta|^2
 $$
 
-\subsection{Traditional methods to introduce adjoint equation}
+\subsection{Traditional approches to introduce adjoint equation}
 
 In literatures, there are several ways to introduce adjoint equation.
 
