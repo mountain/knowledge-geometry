@@ -12,8 +12,7 @@
 \usepackage{microtype}      % microtypography
 
 \usepackage{graphicx}
-
-\usepackage{lipsum}		% Can be removed after putting your text content
+\usepackage{amsmath}
 
 \newtheorem{definition}{Definition}
 \newtheorem{lemma}{Lemma}
@@ -99,12 +98,12 @@ if and only if, the equation $$ \langle A \phi, \psi \rangle = \langle \phi, B \
 Geometrically, We can interpret $ X $ in $ \langle X, Y \rangle $ as bottom space, while $ Y $ is frame space, and the value of $ \langle x, y \rangle $ is a coordinate.
 Under this interpretation, a pair of adjoint operators are just active and passive transformations (or alibi and alias transformations)\cite{wiki:aptrans}.
 
-\subsection{The traditional way to introduce adjoint equation}
+\subsection{Different problems leading to adjoint equation}
 
 Adjoint equation is a tool when we seek an optimized solution bounded to an evolutionary differential equation, here the optimized solution can be a boundary value to apply control, or instead, an initial value to fit observations aftermath, or possibly, better parameters to influence the process.
-To handle all these different problem settings, we give formulations as below.
+Here, we will show some typical problems leading to adjoint equation.
 
-\subsubsection{optimized boundary value}
+\subsubsection{optimized boundary-value problem}
 
 we need to optimize the boundary value $ \mathbf{u} = \mathbf{y}_{\partial} $ to minimize the error between $ \mathbf{y}_1 = \mathbf{y}(\mathbf{x}, 1)$ and target $ \mathbf{y}_1^o $.
 
@@ -123,9 +122,51 @@ $$
 J(\mathbf{y_1}, \mathbf{y}_1^o, \mathbf{u}) = \frac{1}{2} \int\limits_{\Omega}|\mathbf{y_1} - \mathbf{y_1^o}|^2dx +  \frac{\lambda}{2} \int\limits_{0}^{1}\int\limits_{\partial \Omega} |\mathbf{u}|^2 dS(x) dt
 $$
 
-\subsubsection{optimized initial value}
+\subsubsection{optimized initial-value problem}
 
-\subsubsection{optimized parameters}
+Let $ O(\mathbf{x}, t) $ to be the character functions of the observable area
+$$
+O(\mathbf{x}, t) = \begin{cases}
+1, & \text{if }\mathbf{x}\text{ is observable at t} \\
+0, & \text{if }\mathbf{x}\text{ is not observable at t}
+\end{cases}
+$$
+
+Let $ \mathbf{y} $ to be the status of observable and $ M(\mathbf{x}, \mathbf{y}) $ is a measure method gives the measured value.
+
+At any time $ t $, we have measured value over an observable area:
+
+$$ \mathbf{m}_t = M(\mathbf{x}, \mathbf{y}_t) O(\mathbf{x}, t) $$
+
+we need to optimize the initial value $ \mathbf{u} = \mathbf{y}_0 - \mathbf{y}_0^b $  to minimize the error between the computed measurement $ \mathbf{m}_1 $ and the observed measurement $ \mathbf{m}_1^o $.
+
+$$
+\begin{array}{rcll}
+\min &~& J(\mathbf{m_1}, \mathbf{m}_1^o, \mathbf{u}) & \\
+\mathrm{s.t.} &~& \dot{\mathbf{y}} = f(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \Omega \times [0, 1] \\
+&~& \mathbf{y} = g(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \partial \Omega \times [0, 1] \\
+\end{array}
+$$
+
+And $ J $ is determined by
+
+$$
+J(\mathbf{m_1}, \mathbf{m}_1^o, \mathbf{u}) = \frac{1}{2} \int\limits_{\Omega}|\mathbf{m}_1 - \mathbf{m}_1^o|^2 dx + \frac{\lambda}{2} \int\limits_{\Omega}|\mathbf{u}|^2 dx
+$$
+
+\subsubsection{optimized parameter problem}
+
+$$
+\begin{array}{rcll}
+\min &~& J(\mathbf{y_1}, \mathbf{y}_1^o) & \\
+\mathrm{s.t.} &~& \dot{\mathbf{y}} = f(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \Omega \times [0, 1] \\
+&~& \mathbf{y} = g(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \partial \Omega \times [0, 1] \\
+&~& \mathbf{y}(\mathbf{x}, 0) = \mathbf{y}_0(\mathbf{x}) & \mathbf{x} \in \Omega
+\end{array}
+$$
+
+\subsection{The traditional way to introduce adjoint equation}
+
 
 \section{Geometrical interpretation of adjoint equation}
 
@@ -144,69 +185,6 @@ $$
 the orbit of a disturbance is a point
 
 \section{Applications}
-
-
-\lipsum[8] \cite{Liberzon2012CalculusOV} and see \cite{hadash2018estimate}.
-
-The documentation for \verb+natbib+ may be found at
-\begin{center}
-  \url{http://mirrors.ctan.org/macros/latex/contrib/natbib/natnotes.pdf}
-\end{center}
-Of note is the command \verb+\citet+, which produces citations
-appropriate for use in inline text.  For example,
-\begin{verbatim}
-   \citet{hasselmo} investigated\dots
-\end{verbatim}
-produces
-\begin{quote}
-  Hasselmo, et al.\ (1995) investigated\dots
-\end{quote}
-
-\begin{center}
-  \url{https://www.ctan.org/pkg/booktabs}
-\end{center}
-
-
-\subsection{Figures}
-\lipsum[10]
-See Figure \ref{fig:fig1}. Here is how you add footnotes. \footnote{Sample of the first footnote.}
-\lipsum[11]
-
-\begin{figure}
-  \centering
-  \fbox{\rule[-.5cm]{4cm}{4cm} \rule[-.5cm]{4cm}{0cm}}
-  \caption{Sample figure caption.}
-  \label{fig:fig1}
-\end{figure}
-
-\subsection{Tables}
-\lipsum[12]
-See awesome Table~\ref{tab:table}.
-
-\begin{table}
- \caption{Sample table title}
-  \centering
-  \begin{tabular}{lll}
-    \toprule
-    \multicolumn{2}{c}{Part}                   \\
-    \cmidrule(r){1-2}
-    Name     & Description     & Size ($\mu$m) \\
-    \midrule
-    Dendrite & Input terminal  & $\sim$100     \\
-    Axon     & Output terminal & $\sim$10      \\
-    Soma     & Cell body       & up to $10^6$  \\
-    \bottomrule
-  \end{tabular}
-  \label{tab:table}
-\end{table}
-
-\subsection{Lists}
-\begin{itemize}
-\item Lorem ipsum dolor sit amet
-\item consectetur adipiscing elit.
-\item Aliquam dignissim blandit est, in dictum tortor gravida eget. In ac rutrum magna.
-\end{itemize}
-
 
 \bibliographystyle{unsrt}
 \bibliography{references}
