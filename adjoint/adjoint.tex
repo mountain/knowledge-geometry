@@ -60,8 +60,8 @@
 \maketitle
 
 \begin{abstract}
-Traditionally, adjoint equation was introduced via the technic of integration-by-part.
-After recalling the geometrical interpretation of adjoint in linear cases,
+Traditionally, adjoint equation was introduced via the technic of integration-by-parts.
+After recalling the geometrical interpretation of adjoint operators in linear cases,
 we reveal that adjoint equation shares the same interpretation,
 and then a new dual-number-based definition of adjoint equation and proof for equivalence between definitions are given.
 \end{abstract}
@@ -78,34 +78,56 @@ In linear cases, there is an apparent geometrical interpretation of adjoint oper
 
 Formally, we can define a pair of adjoint operators in a dual system.
 
-\begin{figure}[ht]
-\centering
-\includegraphics[width=3.5in]{../images/adjoint/alias_and_alibi.png}
-\caption{A dual system and two pair of adjoint operators\cite{wiki:aatrans}}
-\end{figure}
-
 \begin{definition}
 \label{d0}
 A dual system $ \langle X, Y \rangle $ is a bilinear mapping $ \langle , \rangle : X \times Y \to F $ where $X$, $Y$ are two vector space and $ F $ is a field.
 \end{definition}
 
+Geometrically, We can interpret that $ X $ is a bottom space which holds the points, $ Y $ is a frame space which holds the coordinate frames, and the value of $ \langle x, y \rangle $ is the coordinate of $x$ under a frame $y$.
+
 \begin{definition}
 \label{d1}
 For two dual system $ \langle X_1, Y_1 \rangle $ and $ \langle X_2, Y_2 \rangle $ , each of the two operator $ A : X_1 \to X_2$ and $ B : Y_2 \to Y_1 $ is an adjoint of the other counterpart,
-if and only if, the equation $$ \langle A \phi, \psi \rangle = \langle \phi, B \psi \rangle $$ holds for arbitrary $ \phi \in X_1 $ and $ \psi \in Y_2 $
+if and only if, the equation
+\begin{equation}
+  \label{eq:langrangeidentity}
+  \langle A \phi, \psi \rangle = \langle \phi, B \psi \rangle
+\end{equation}
+holds for arbitrary $ \phi \in X_1 $ and $ \psi \in Y_2 $
 \end{definition}
 
-Geometrically, We can interpret $ X $ in $ \langle X, Y \rangle $ as bottom space, while $ Y $ is frame space, and the value of $ \langle x, y \rangle $ is a coordinate.
-Under this interpretation, a pair of adjoint operators are just active and passive transformations (or alibi and alias transformations)\cite{wiki:aptrans}.
+Under the above interpretation, a pair of adjoint operators are just active and passive transformations (or alibi and alias transformations)\cite{wiki:aptrans}.
+
+The left side of Equation \ref{eq:langrangeidentity} $ \langle A \phi, \psi \rangle $ is interpreted as an active transformation(operator) $ A $ act on a point $\phi$ in bottom space $ X_1 $ and hence have a coordinate $\langle A \phi, \psi \rangle$ after the transformations;
+
+The right side of Equation \ref{eq:langrangeidentity} $ \langle \phi, B \psi \rangle $ is interpreted as a passive transformation(operator) $ B $ act on a frame $\psi$ in frame space $ Y_2 $ and hence have another coordinate $\langle \phi, B \psi \rangle$ after the transformations.
+
+\begin{figure}[ht]
+\label{fig:alias_and_alibi}
+\centering
+\includegraphics[width=3.5in]{../images/adjoint/alias_and_alibi.png}
+\caption{A dual system and two pair of adjoint operators\cite{wiki:aatrans}}
+\end{figure}
+
+Then, the Equation \ref{eq:langrangeidentity} just says that the two coordinate are always the same, just as illustrated in Figure \ref{fig:alias_and_alibi}.
 
 \subsection{Different problems leading to adjoint equation}
 
-Adjoint equation is a tool when we seek an optimized solution bounded to an evolutionary differential equation, here the optimized solution can be a boundary value to apply control, or instead, an initial value to fit observations aftermath, or possibly, better parameters to influence the process.
-Here, we will show some typical problems leading to adjoint equation.
+Adjoint equation is a tool when we seek an optimized solution bounded to an evolutionary differential equation.
 
-\subsubsection{optimized boundary-value problem}
+\begin{equation}
+\begin{array}{ll}
+\dot{\mathbf{y}} = f(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \Omega \times [0, 1] \\
+\mathbf{y} = u(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \partial \Omega \times [0, 1] \\
+\end{array}
+\end{equation}
 
-we need to optimize the boundary value $ \mathbf{u} = \mathbf{y}_{\partial} $ to minimize the error between $ \mathbf{y}_1 = \mathbf{y}(\mathbf{x}, 1)$ and target $ \mathbf{y}_1^o $.
+The optimized solution can be a boundary value to apply control, or instead, an initial value to fit observations aftermath, or possibly, better parameters to influence the process.
+In this section, we will show some typical problems appeared in different literatures ? \cite{Liberzon2012CalculusOV}\cite{hall1983physical}\cite{Errico1997WhatIA} ? and reformulate these problems with a uniformed notion.
+
+\subsubsection{A boundary-value optimization problem}
+
+We need optimize the boundary value $ \mathbf{u} = \mathbf{y}_{\partial} $ to minimize the error between $ \mathbf{y}_1 = \mathbf{y}(\mathbf{x}, 1)$ and target $ \mathbf{y}_1^o $.
 
 $$
 \begin{array}{rcll}
@@ -116,15 +138,15 @@ $$
 \end{array}
 $$
 
-And $ J $ is determined by
+And $ J $ is given by
 
 $$
 J(\mathbf{y_1}, \mathbf{y}_1^o, \mathbf{u}) = \frac{1}{2} \int\limits_{\Omega}|\mathbf{y_1} - \mathbf{y_1^o}|^2dx +  \frac{\lambda}{2} \int\limits_{0}^{1}\int\limits_{\partial \Omega} |\mathbf{u}|^2 dS(x) dt
 $$
 
-\subsubsection{optimized initial-value problem}
+\subsubsection{An initial-value optimization problem}
 
-Let $ O(\mathbf{x}, t) $ to be the character functions of the observable area
+Let $ O(\mathbf{x}, t) $ to be the character functions of the observable area at time $t$
 $$
 O(\mathbf{x}, t) = \begin{cases}
 1, & \text{if }\mathbf{x}\text{ is observable at t} \\
@@ -132,13 +154,11 @@ O(\mathbf{x}, t) = \begin{cases}
 \end{cases}
 $$
 
-Let $ \mathbf{y} $ to be the status of observable and $ M(\mathbf{x}, \mathbf{y}) $ is a measure method gives the measured value.
-
-At any time $ t $, we have measured value over an observable area:
+$ M(\mathbf{x}, \mathbf{y}) $ is a measure method which gives some measured value. At any time $ t $, we have a measurement $\mathbf{m}_t$ over an observable area:
 
 $$ \mathbf{m}_t = M(\mathbf{x}, \mathbf{y}_t) O(\mathbf{x}, t) $$
 
-we need to optimize the initial value $ \mathbf{u} = \mathbf{y}_0 - \mathbf{y}_0^b $  to minimize the error between the computed measurement $ \mathbf{m}_1 $ and the observed measurement $ \mathbf{m}_1^o $.
+We need optimize the adjustment of initial value $ \mathbf{u} = \mathbf{y}_0 - \mathbf{y}_0^b $  to minimize the error between the computed measurement $ \mathbf{m}_1 $ and the observed measurement $ \mathbf{m}_1^o $.
 
 $$
 \begin{array}{rcll}
@@ -148,21 +168,29 @@ $$
 \end{array}
 $$
 
-And $ J $ is determined by
+And $ J $ is given by
 
 $$
 J(\mathbf{m_1}, \mathbf{m}_1^o, \mathbf{u}) = \frac{1}{2} \int\limits_{\Omega}|\mathbf{m}_1 - \mathbf{m}_1^o|^2 dx + \frac{\lambda}{2} \int\limits_{\Omega}|\mathbf{u}|^2 dx
 $$
 
-\subsubsection{optimized parameter problem}
+\subsubsection{A parameter optimization problem}
+
+Parameter $\theta$ will influence the evolution process and we need optimize $\theta$ to minimize the error between $ \mathbf{y}_1 = \mathbf{y}(\mathbf{x}, 1)$ and target $ \mathbf{y}_1^o $.
 
 $$
 \begin{array}{rcll}
-\min &~& J(\mathbf{y_1}, \mathbf{y}_1^o) & \\
+\min &~& J(\mathbf{y_1}, \mathbf{y}_1^o, \theta) & \\
 \mathrm{s.t.} &~& \dot{\mathbf{y}} = f(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \Omega \times [0, 1] \\
 &~& \mathbf{y} = g(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \partial \Omega \times [0, 1] \\
 &~& \mathbf{y}(\mathbf{x}, 0) = \mathbf{y}_0(\mathbf{x}) & \mathbf{x} \in \Omega
 \end{array}
+$$
+
+And $ J $ is given by
+
+$$
+J(\mathbf{y_1}, \mathbf{y}_1^o, \mathbf{u}) = \frac{1}{2} \int\limits_{\Omega}|\mathbf{y_1} - \mathbf{y_1^o}|^2dx + \frac{\lambda}{2} |\theta|^2
 $$
 
 \subsection{The traditional way to introduce adjoint equation}
