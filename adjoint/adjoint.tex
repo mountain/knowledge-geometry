@@ -110,18 +110,28 @@ The right side of Equation \ref{eq:langrangeidentity} $ \langle \phi, B \psi \ra
 
 Then, the Equation \ref{eq:langrangeidentity} just says that the two coordinate are always the same, just as illustrated in Figure \ref{fig:alias_and_alibi}.
 
-\subsection{Different problems leading to adjoint equation}
+\subsection{Problem leading to adjoint equation}
 
-Adjoint equation is a tool when we seek an optimized solution bounded to an evolutionary differential equation.
+A control system can be described with a state variable $\mathbf{x} \in \Omega$ and a control variable $\mathbf{u} \in \Upsilon$,
+and the state variable bounded to a constraint which governed by an evolutionary differential equation:
 
 \begin{equation}
 \begin{array}{ll}
-\dot{\mathbf{y}} = f(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \Omega \times [0, 1] \\
-\mathbf{y} = u(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \partial \Omega \times [0, 1] \\
+\dot{\mathbf{y}} = f(\mathbf{x}, \mathbf{u}, t; \theta) & (\mathbf{x}, \mathbf{u}, t) \in \Omega \times \Upsilon \times [0, 1] \\
+\mathbf{y} = g(\mathbf{x}, \mathbf{u}, t; \theta) & (\mathbf{x}, \mathbf{u}, t) \in \partial \Omega \times \Upsilon \times [0, 1] \\
 \end{array}
 \end{equation}
 
-The optimized solution can be a boundary value to apply control, or instead, an initial value to fit observations aftermath, or possibly, better parameters to influence the process.
+For the reason of simplication, we denote $\mathbf{\nu}_t$ as variable $\mathbf{\nu}$ at time $t$,
+so $\mathbf{\nu}_0$ is the initial value and $\mathbf{\nu}_1$ is the terminal value.
+
+Now we can define an optimization problem, find the control trajectory $\mathbf{u}:[0,1] \mapsto \Upsilon$ to minimize the cost:
+
+\begin{equation}
+J = \psi(\mathbf{x}_0) + \phi(\mathbf{x}_1) + \int\limits_{0}^{1} L(\mathbf{x}, \mathbf{u}, t) dt
+\end{equation}
+
+Adjoint equation is a tool when we seek an optimized solution of the control variable $\mathbf{u}$.
 In this section, we will show some typical problems appeared in different literatures ? \cite{Liberzon2012CalculusOV}\cite{hall1983physical}\cite{Errico1997WhatIA} ? and reformulate these problems with a uniformed notion.
 
 \subsubsection{A boundary-value optimization problem}
@@ -132,7 +142,7 @@ $$
 \begin{array}{rcll}
 \min &~& J(\mathbf{y_1}, \mathbf{y}_1^o, \mathbf{u}) & \\
 \mathrm{s.t.} &~& \dot{\mathbf{y}} = f(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \Omega \times [0, 1] \\
-&~& \mathbf{y} = u(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \partial \Omega \times [0, 1] \\
+&~& \mathbf{y} = g(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \partial \Omega \times [0, 1] \\
 &~& \mathbf{y}(\mathbf{x}, 0) = \mathbf{y}_0(\mathbf{x}) & \mathbf{x} \in \Omega
 \end{array}
 $$
