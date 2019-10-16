@@ -69,9 +69,9 @@ Then a new dual-number-based definition of adjoint equation is given, and the eq
 
 \section{Introduction}
 
-The concept of adjoint is very fundamental\cite{Daz1953MethodsOM}\cite{Marchuk1995}, and adjoint equation shows its importance in domains of optimal control\cite{Liberzon2012CalculusOV}, sensitivity analysis\cite{hall1983physical}, and data assimilation\cite{Errico1997WhatIA}. Also, recent contribution\cite{Chen2018NeuralOD} shows adjoint equation can play a role in the intersection area of deep learning and differential equations.
+Adjoint is a fundamental concept\cite{Daz1953MethodsOM}\cite{Marchuk1995}, and adjoint equation shows its importance in domains of optimal control\cite{Liberzon2012CalculusOV}, sensitivity analysis\cite{hall1983physical}, and data assimilation\cite{Errico1997WhatIA}. Also, recent contribution\cite{Chen2018NeuralOD} shows adjoint equation can play a role in the intersection area of deep learning and differential equations.
 
-In linear cases, there is an apparent geometrical interpretation of adjoint operators, and in this paper, we want to reveal adjoint equation shares the same interpretation.
+In linear cases, there is an apparent geometrical interpretation of adjoint operators, and in this paper, we want to reveal that adjoint equation shares the same interpretation.
 
 \subsection{Definition and geometrical interpretation of adjoint operators in linear case}
 
@@ -113,16 +113,16 @@ Then, the Equation \ref{eq:langrangeidentity} just says that the two coordinate 
 \subsection{Problem leading to adjoint equation}
 
 A control system can be described with a state variable $\mathbf{x} \in \Omega$ and a control variable $\mathbf{u} \in \Upsilon$,
-and the state variable bounded to a constraint which governed by an evolutionary differential equation:
+and the state variable $\mathbf{x}$ bounded to a constraint which governed by an evolutionary differential equation:
 
 \begin{equation}
 \begin{array}{ll}
-\dot{\mathbf{y}} = f(\mathbf{x}, \mathbf{u}, t; \theta) & (\mathbf{x}, \mathbf{u}, t) \in \Omega \times \Upsilon \times [0, 1] \\
-\mathbf{y} = g(\mathbf{x}, \mathbf{u}, t; \theta) & (\mathbf{x}, \mathbf{u}, t) \in \partial \Omega \times \Upsilon \times [0, 1] \\
+\dot{\mathbf{x}} = f(\mathbf{x}, \mathbf{u}, t; \theta) & (\mathbf{x}, \mathbf{u}, t) \in \Omega \times \Upsilon \times [0, 1] \\
+\mathbf{x} = g(\mathbf{x}, \mathbf{u}, t; \theta) & (\mathbf{x}, \mathbf{u}, t) \in \partial \Omega \times \Upsilon \times [0, 1] \\
 \end{array}
 \end{equation}
 
-For the reason of simplication, we denote $\mathbf{\nu}_t$ as variable $\mathbf{\nu}$ at time $t$,
+For the reason of simplification, we denote $\mathbf{\nu}_t$ as variable $\mathbf{\nu}$ at time $t$,
 so $\mathbf{\nu}_0$ is the initial value and $\mathbf{\nu}_1$ is the terminal value.
 
 Now we can define an optimization problem, find the control trajectory $\mathbf{u}:[0,1] \mapsto \Upsilon$ to minimize the cost:
@@ -131,87 +131,18 @@ Now we can define an optimization problem, find the control trajectory $\mathbf{
 J = \psi(\mathbf{x}_0) + \phi(\mathbf{x}_1) + \int\limits_{0}^{1} L(\mathbf{x}, \mathbf{u}, t) dt
 \end{equation}
 
-Adjoint equation is a tool when we seek an optimized solution of the control variable $\mathbf{u}$.
-In this section, we will show some typical problems appeared in different literatures ? \cite{Liberzon2012CalculusOV}\cite{hall1983physical}\cite{Errico1997WhatIA} ? and reformulate these problems with a uniformed notion.
+Or, rewrite in a compact form
 
-\subsubsection{A boundary-value optimization problem}
-
-This is an example of optimal control, we need optimize the boundary value $ \mathbf{u} = \mathbf{y}_{\partial} $ to minimize the error between $ \mathbf{y}_1 = \mathbf{y}(\mathbf{x}, 1)$ and target $ \mathbf{y}_1^o $.
-
-$$
+\begin{equation}
 \begin{array}{rcll}
-\min &~& J(\mathbf{y_1}, \mathbf{y}_1^o, \mathbf{u}) & \\
-\mathrm{s.t.} &~& \dot{\mathbf{y}} = f(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \Omega \times [0, 1] \\
-&~& \mathbf{y} = g(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \partial \Omega \times [0, 1] \\
-&~& \mathbf{y}(\mathbf{x}, 0) = \mathbf{y}_0(\mathbf{x}) & \mathbf{x} \in \Omega
+\min &~& J(\mathbf{u}, \mathbf{x}, \mathbf{x}_0, \mathbf{x}_1) & \\
+\mathrm{s.t.} &~& \dot{\mathbf{x}} = f(\mathbf{x}, \mathbf{u}, t; \theta) & (\mathbf{x}, \mathbf{u}, t) \in \Omega \times \Upsilon \times [0, 1] \\
+&~& \mathbf{x} = g(\mathbf{x}, \mathbf{u}, t; \theta) & (\mathbf{x}, \mathbf{u}, t) \in \partial \Omega \times \Upsilon \times [0, 1] \\
 \end{array}
-$$
+\end{equation}
 
-And $ J $ is given by
+\subsection{Traditional approach to introduce adjoint equation}
 
-$$
-J(\mathbf{y_1}, \mathbf{y}_1^o, \mathbf{u}) = \frac{1}{2} \int\limits_{\Omega}|\mathbf{y_1} - \mathbf{y_1^o}|^2dx +  \frac{\lambda}{2} \int\limits_{0}^{1}\int\limits_{\partial \Omega} |\mathbf{u}|^2 dS(x) dt
-$$
-
-\subsubsection{An initial-value optimization problem}
-
-This is an example of data assimilation. Let $ O(\mathbf{x}, t) $ to be the character functions of the observable area at time $t$
-
-$$
-O(\mathbf{x}, t) = \begin{cases}
-1, & \text{if }\mathbf{x}\text{ is observable at t} \\
-0, & \text{if }\mathbf{x}\text{ is not observable at t}
-\end{cases}
-$$
-
-$ M(\mathbf{x}, \mathbf{y}) $ is a measure method which gives some measured value. At any time $ t $, we have a measurement $\mathbf{m}_t$ over an observable area:
-
-$$ \mathbf{m}_t = M(\mathbf{x}, \mathbf{y}_t) O(\mathbf{x}, t) $$
-
-We need optimize the adjustment of initial value $ \mathbf{u} = \mathbf{y}_0 - \mathbf{y}_0^b $  to minimize the error between the computed measurement $ \mathbf{m}_1 $ and the observed measurement $ \mathbf{m}_1^o $.
-
-$$
-\begin{array}{rcll}
-\min &~& J(\mathbf{m_1}, \mathbf{m}_1^o, \mathbf{u}) & \\
-\mathrm{s.t.} &~& \dot{\mathbf{y}} = f(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \Omega \times [0, 1] \\
-&~& \mathbf{y} = g(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \partial \Omega \times [0, 1] \\
-\end{array}
-$$
-
-And $ J $ is given by
-
-$$
-J(\mathbf{m_1}, \mathbf{m}_1^o, \mathbf{u}) = \frac{1}{2} \int\limits_{\Omega}|\mathbf{m}_1 - \mathbf{m}_1^o|^2 dx + \frac{\lambda}{2} \int\limits_{\Omega}|\mathbf{u}|^2 dx
-$$
-
-\subsubsection{A parameter optimization problem}
-
-This is an example of machine learning. Parameter $\theta$ will influence the evolution process and we need optimize $\theta$ to minimize the error between $ \mathbf{y}_1 = \mathbf{y}(\mathbf{x}, 1)$ and target $ \mathbf{y}_1^o $.
-
-$$
-\begin{array}{rcll}
-\min &~& J(\mathbf{y_1}, \mathbf{y}_1^o, \theta) & \\
-\mathrm{s.t.} &~& \dot{\mathbf{y}} = f(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \Omega \times [0, 1] \\
-&~& \mathbf{y} = g(\mathbf{x}, t; \theta) & (\mathbf{x}, t) \in \partial \Omega \times [0, 1] \\
-&~& \mathbf{y}(\mathbf{x}, 0) = \mathbf{y}_0(\mathbf{x}) & \mathbf{x} \in \Omega
-\end{array}
-$$
-
-And $ J $ is given by
-
-$$
-J(\mathbf{y_1}, \mathbf{y}_1^o, \mathbf{u}) = \frac{1}{2} \int\limits_{\Omega}|\mathbf{y_1} - \mathbf{y_1^o}|^2dx + \frac{\lambda}{2} |\theta|^2
-$$
-
-\subsection{Traditional approches to introduce adjoint equation}
-
-In literatures, there are several ways to introduce adjoint equation.
-
-\subsubsection{Integration by parts}
-
-\subsubsection{Differentiation along orbit}
-
-\subsubsection{Hamiltonian}
 
 \section{Geometrical interpretation of adjoint equation}
 
