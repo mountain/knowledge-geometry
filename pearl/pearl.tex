@@ -20,7 +20,7 @@
 \newtheorem{program}{Program}
 \newtheorem{convention}{Convention}
 
-\title{Toward geometry of computation: An embedding from addition-multiplication tree into hyperbolic surface}
+\title{Toward geometry of computation}
 
 %\date{September 9, 1985}	% Here you can change the date presented in the paper title
 %\date{} 					% Or removing it
@@ -78,7 +78,7 @@ multiplication operators are at branches.
 
 \section{Local polar coordinate and flow equation}\label{sec:lpcsafe}
 
-Given any point $x_0$ on $\mathfrak{S}$, an addtional axis $A$ pass $x_0$, then for any nearby point $x_1$, two
+Given any point $x_0$ on $\mathfrak{S}$, an additional axis $A$ pass $x_0$, then for any nearby point $x_1$, two
 horocycle $B$ and $\bar{B}$ exists to connect with $x_0$ and $x_1$, so we can consider a local polar coordinate
 $\mathfrak{C}_{x_0}$, in which $x_1$ decided by:
 \begin{itemize}
@@ -91,6 +91,69 @@ $\mathfrak{C}_{x_0}$ has a counterpart $\bar{\mathfrak{C}_{x_0}}$, in which $x_1
     \item the angle $\bar{\theta}$ between $A$ and $\bar{B}$
     \item the length $\bar{\rho}$ of arc between $x_0$ and $x_1$ along $\bar{B}$
 \end{itemize}
+
+Question: what dose the two horocycles mean under the computation perspective? how dose the two horocycles contact?
+
+Now we will study infinitesimal computation and horocycle flow on $\mathfrak{S}$. Under a local coordinate
+$\mathfrak{C}_{x_0}$, we try to approach a horocycle flow $x(t)$ by addition-multiplication computation:
+
+\begin{equation}
+    \frac{1}{\epsilon} [ (x_0 + t\epsilon \cos \theta)(1 + t\epsilon \sin \theta) - x_0 ] = t \cos \theta + x_0 t \sin \theta
+\end{equation}
+
+We denote the left side of the above equation as $\frac{dx}{dt}$ when $\epsilon$ approaches 0.
+
+\begin{equation}
+    \frac{dx}{dt} = \cos \theta + x \sin \theta
+\end{equation}
+
+We can get the solution by steps:
+
+\begin{equation}
+    \frac{dx}{\cos \theta + x \sin \theta} = dt
+\end{equation}
+
+\begin{equation}
+    \frac{1}{\sin \theta} \frac{d(\cos \theta + x \sin \theta)}{\cos \theta + x \sin \theta} = dt
+\end{equation}
+
+\begin{equation}
+    \frac{1}{\sin \theta} ln(\cos \theta + x \sin \theta) = t + C
+\end{equation}
+
+\begin{equation}
+    \cos \theta + x \sin \theta = C e^{t \sin \theta}
+\end{equation}
+
+\begin{equation}
+    \cos \theta + x_0 \sin \theta = C
+\end{equation}
+
+\begin{equation}
+   x = \frac{\cos \theta + x_0 \sin \theta}{\sin \theta} e^{t \sin \theta} - \cot \theta
+\end{equation}
+
+\begin{equation}
+   x = (\cot \theta + x_0) e^{t \sin \theta} - \cot \theta
+\end{equation}
+
+\begin{equation}
+   x =  x_0 e^{t \sin \theta} + (e^{t \sin \theta} - 1) \cot \theta
+\end{equation}
+
+\begin{equation}
+   x =  x_0 e^{t \sin \theta} + [1 + t \sin \theta + \frac{1}{2!}(t\sin \theta)^2  + \frac{1}{3!}(t\sin \theta)^3 + ... - 1] \cot \theta
+\end{equation}
+
+\begin{equation}
+   x =  x_0 e^{t \sin \theta} + t \cos \theta + \sin \theta \cos \theta (\frac{t^2}{2!} + \frac{t^3}{3!} \sin \theta + \frac{t^4}{4!} (\sin \theta)^2 + ...)
+\end{equation}
+
+When $\theta = \frac{k \pi}{2}, k = 0, 1, 2, 3...$, we have
+
+\begin{equation}
+    x = x_0 e^{t \sin \theta} + t \cos \theta
+\end{equation}
 
 \section{An embedding of surreal number}\label{sec:aeosn}
 
