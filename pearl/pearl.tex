@@ -142,17 +142,64 @@ We can get the solution by steps:
 \end{equation}
 
 \begin{equation}
-   x =  x_0 e^{t \sin \theta} + [1 + t \sin \theta + \frac{1}{2!}(t\sin \theta)^2  + \frac{1}{3!}(t\sin \theta)^3 + ... - 1] \cot \theta
+   x =  x_0 e^{t \sin \theta} + [1 + t \sin \theta + \frac{1}{2!} t\sin^2 \theta  + \frac{1}{3!} t \sin^3 \theta + ... - 1] \cot \theta
 \end{equation}
 
 \begin{equation}
-   x =  x_0 e^{t \sin \theta} + t \cos \theta + \sin \theta \cos \theta (\frac{t^2}{2!} + \frac{t^3}{3!} \sin \theta + \frac{t^4}{4!} (\sin \theta)^2 + ...)
+   x =  x_0 e^{t \sin \theta} + t \cos \theta + \sin \theta \cos \theta (\frac{t^2}{2!} + \frac{t^3}{3!} \sin \theta + \frac{t^4}{4!} \sin^2 \theta + ...)
+\end{equation}
+
+\begin{equation}
+   x =  x_0 e^{t \sin \theta} + t \cos \theta + \frac{1}{2} \sin 2\theta (\frac{t^2}{2!} + \frac{t^3}{3!} \sin \theta + \frac{t^4}{4!} \sin^2 \theta + ...)
+\end{equation}
+
+\begin{equation}
+   x =  x_0 e^{t \sin \theta} + t \cos \theta + \frac{1}{2} \sin 2\theta (\frac{t^2}{2!} + \frac{t^3}{3!} \sin \theta + \frac{t^4}{4!} (\frac{1 - \cos 2\theta}{2}) + ...)
 \end{equation}
 
 When $\theta = \frac{k \pi}{2}, k = 0, 1, 2, 3...$, we have
 
 \begin{equation}
     x = x_0 e^{t \sin \theta} + t \cos \theta
+\end{equation}
+
+
+rewrite it:
+
+\begin{equation}
+   x =  x_0 e^{t \sin \theta} + t \cos \theta + \frac{1}{2} \sin 2\theta \Psi(t)
+\end{equation}
+
+\begin{equation}
+   \Psi(t) =  \frac{t^2}{2!} + \frac{t^3}{3!} \sin \theta + \frac{t^4}{4!} (\frac{1 - \cos 2\theta}{2}) + \frac{t^5}{5!} (\frac{3 \sin \theta - \sin 3\theta}{4}) + \frac{t^6}{6!} (\frac{3 - 4 \cos 2\theta - \cos 4\theta}{8}) + ...
+\end{equation}
+
+\begin{equation}
+   \Psi(t) = c_0 + s_1 \sin \theta + c_2 \cos 2\theta + s_3 \sin 3\theta + c_4 \cos 4\theta + s_5 \sin 5\theta + c_6 \cos 6\theta + ...
+\end{equation}
+
+\begin{equation}
+   c_0 = \frac{t^2}{2!} + \frac{1}{2}\frac{t^4}{4!} + \frac{3}{8} \frac{t^6}{6!} + \frac{5}{16} \frac{t^8}{8!} + \frac{35}{128} \frac{t^{10}}{10!}  ...
+\end{equation}
+
+\begin{equation}
+   s_1 = \frac{t^3}{3!} + \frac{3}{4}\frac{t^5}{5!} + \frac{5}{8} \frac{t^7}{7!} + \frac{35}{64} \frac{t^9}{9!} + \frac{63}{128} \frac{t^{11}}{11!}  ...
+\end{equation}
+
+\begin{equation}
+   c_2 = \frac{t^3}{3!} + \frac{3}{4}\frac{t^5}{5!} + \frac{5}{8} \frac{t^7}{7!} + \frac{35}{64} \frac{t^9}{9!} + \frac{63}{128} \frac{t^{11}}{11!}  ...
+\end{equation}
+
+\begin{equation}
+   s_3 = \frac{t^3}{3!} + \frac{3}{4}\frac{t^5}{5!} + \frac{5}{8} \frac{t^7}{7!} + \frac{35}{64} \frac{t^9}{9!} + \frac{63}{128} \frac{t^{11}}{11!}  ...
+\end{equation}
+
+\begin{equation}
+   c_4 = \frac{t^3}{3!} + \frac{3}{4}\frac{t^5}{5!} + \frac{5}{8} \frac{t^7}{7!} + \frac{35}{64} \frac{t^9}{9!} + \frac{63}{128} \frac{t^{11}}{11!}  ...
+\end{equation}
+
+\begin{equation}
+   s_5 = \frac{t^3}{3!} + \frac{3}{4}\frac{t^5}{5!} + \frac{5}{8} \frac{t^7}{7!} + \frac{35}{64} \frac{t^9}{9!} + \frac{63}{128} \frac{t^{11}}{11!}  ...
 \end{equation}
 
 \section{An embedding of surreal number}\label{sec:aeosn}
