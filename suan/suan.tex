@@ -149,11 +149,73 @@ Or
    x =  x_0 e^{t \sin \theta} + t \cos \theta + \frac{1}{2} \sin 2\theta (\frac{t^2}{2!} + \frac{t^3}{3!} \sin \theta + \frac{t^4}{4!} \sin^2 \theta + ...)
 \end{equation}
 
+\section{Example functions}\label{sec:ef}
+
+\subsection{a constant k}
+
+\begin{equation}
+    0 = \cos \theta + k \sin \theta
+\end{equation}
+
+\begin{equation}
+    \theta = n\pi - \arctan \frac{1}{k}
+\end{equation}
+
+\subsection{identity}
+
+\begin{equation}
+    \cos \theta + t \sin \theta - 1 = 0
+\end{equation}
+
+\begin{equation}
+    \cos \theta = 0
+\end{equation}
+
+\subsection{inverse of x}
+
+\begin{equation}
+    \frac{d(t^{-1})}{dt} = \cos \theta + t^{-1} \sin \theta
+\end{equation}
+
+\begin{equation}
+    t^2 \cos \theta + t \sin \theta + 1 = 0
+\end{equation}
+
+\subsection{square of x}
+
+\begin{equation}
+    \frac{d(t^2)}{dt} = \cos \theta + t^2 \sin \theta
+\end{equation}
+
+\begin{equation}
+    \cos \theta + t^2 \sin \theta - 2 t = 0
+\end{equation}
+
+\subsection{sin of x}
+
+\begin{equation}
+    \frac{d(\sin t)}{dt} = \cos \theta + \sin t \sin \theta
+\end{equation}
+
+\begin{equation}
+     \cos \theta + \sin t \sin \theta - \cos t = 0
+\end{equation}
+
+\subsection{exp of x}
+
+\begin{equation}
+    \frac{d(e^t)}{dt} = \cos \theta + e^t \sin \theta
+\end{equation}
+
+\begin{equation}
+     \cos \theta + e^t \sin \theta - e^t = 0
+\end{equation}
+
 \section{Streamlization}\label{sec:soada}
 
 \section{An embedding of surreal number}\label{sec:aeosn}
 
-\section{Geometry of computation}\label{sec:gioc}
+\section{A geometry of computation}\label{sec:gioc}
 
 \bibliographystyle{unsrt}
 \bibliography{references}
@@ -221,7 +283,6 @@ When $\theta = \frac{k \pi}{2}, k = 0, 1, 2, 3...$, we have
 \begin{equation}
     x = x_0 e^{t \sin \theta} + t \cos \theta
 \end{equation}
-
 
 rewrite it:
 
