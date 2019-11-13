@@ -20,7 +20,7 @@
 \newtheorem{program}{Program}
 \newtheorem{convention}{Convention}
 
-\title{Toward geometry of computation}
+\title{Suan: towards a geometry of computation}
 
 %\date{September 9, 1985}	% Here you can change the date presented in the paper title
 %\date{} 					% Or removing it
@@ -60,21 +60,20 @@
 \maketitle
 
 \begin{abstract}
-    We introduce an new mathematical system Suan $\mathfrak{S}$ which is an embedding of addition-multiplication
+    We introduce a new mathematical system Suan $\mathfrak{S}$ which is an embedding of addition-multiplication
     computation into hyperbolic surface. After a local polar coordinate on $\mathfrak{S}$ is defined, a flow
     equation can be conducted, and it shows surreal number can be embedded properly into $\mathfrak{S}$.
 \end{abstract}
 
 \keywords{addition-multiplication tree \and hyperbolic surface \and surreal number \and geometry of computation}
 
-\section{Computation as an addition-multiplication tree}\label{sec:caaamt}
+\section{A new mathematical system Suan}\label{sec:anmss}
 
 Traditionally, computation was engaged by apply a serial of addition and multiplication on numbers. Any
 addition-multiplication expression can be formed into a binary tree, while pure numbers are leaves and addition or
 multiplication operators are at branches.
 
-
-\section{An embedding from addition-multiplication tree into hyperbolic surface}\label{sec:aefamtihs}
+\section{Reverse Polish notation, recursion and discrete path on $\mathfrak{S}$}\label{sec:rpnradp}
 
 \section{Local polar coordinate and flow equation}\label{sec:lpcsafe}
 
@@ -94,14 +93,74 @@ $\mathfrak{C}_{x_0}$ has a counterpart $\bar{\mathfrak{C}_{x_0}}$, in which $x_1
 
 Question: what dose the two horocycles mean under the computation perspective? how dose the two horocycles contact?
 
-Now we will study infinitesimal computation and horocycle flow on $\mathfrak{S}$. Under a local coordinate
-$\mathfrak{C}_{x_0}$, we try to approach a horocycle flow $x(t)$ by addition-multiplication computation:
+Now we study infinitesimal computation and horocycle flow on $\mathfrak{S}$. By the perspective of
+addition-multiplication computation, under a local coordinate $\mathfrak{C}_{x_0}$,
+consider a point moving from $x_0$ and towards $x_{\delta}$ with the angle $\theta$ and a small step $\epsilon$, we have
 
 \begin{equation}
-    \frac{1}{\epsilon} [ (x_0 + t\epsilon \cos \theta)(1 + t\epsilon \sin \theta) - x_0 ] = t \cos \theta + x_0 t \sin \theta
+    x_{\delta} = (x_0 + \epsilon \cos \theta)(1 + \epsilon \sin \theta)
 \end{equation}
 
-We denote the left side of the above equation as $\frac{dx}{dt}$ when $\epsilon$ approaches 0.
+or
+
+\begin{equation}
+    x_{\delta} = x_0 (1 + \epsilon \sin \theta) + \epsilon \cos \theta
+\end{equation}
+
+And both can be simplified to
+
+\begin{equation}
+    x_{\delta} = x_0 + \epsilon (x_0 \sin \theta + \cos \theta)
+\end{equation}
+
+So we have
+
+\begin{equation}
+    \frac{1}{\delta} (x_{\delta} - x_0) = \frac{\epsilon}{\delta} (\cos \theta + x_0 \sin \theta)
+\end{equation}
+
+We denote the left side of the above equation as $dx / dt$ when $\delta$ and $\epsilon$ approach 0.
+
+\begin{equation}
+    \frac{dx}{dt} = u (\cos \theta + x \sin \theta)
+\end{equation}
+
+where $u$ is the moving speed, and by assuming $u = 1$, we have a simpler formula,
+
+\begin{equation}
+    \frac{dx}{dt} = \cos \theta + x \sin \theta
+\end{equation}
+
+Then we have the solution:
+
+\begin{equation}
+   x =  x_0 e^{t \sin \theta} + (e^{t \sin \theta} - 1) \cot \theta
+\end{equation}
+
+And then expand to
+
+\begin{equation}
+   x =  x_0 e^{t \sin \theta} + [1 + t \sin \theta + \frac{1}{2!} t\sin^2 \theta  + \frac{1}{3!} t \sin^3 \theta + ... - 1] \cot \theta
+\end{equation}
+
+Or
+
+\begin{equation}
+   x =  x_0 e^{t \sin \theta} + t \cos \theta + \frac{1}{2} \sin 2\theta (\frac{t^2}{2!} + \frac{t^3}{3!} \sin \theta + \frac{t^4}{4!} \sin^2 \theta + ...)
+\end{equation}
+
+\section{Streamlization of an addition-multiplication tree}\label{sec:soada}
+
+\section{An embedding of surreal number}\label{sec:aeosn}
+
+\section{Geometry of computation}\label{sec:gioc}
+
+\bibliographystyle{unsrt}
+\bibliography{references}
+
+\appendix
+
+\section{Derivation of the flow equation}
 
 \begin{equation}
     \frac{dx}{dt} = \cos \theta + x \sin \theta
@@ -201,13 +260,5 @@ rewrite it:
 \begin{equation}
    s_5 = \frac{t^3}{3!} + \frac{3}{4}\frac{t^5}{5!} + \frac{5}{8} \frac{t^7}{7!} + \frac{35}{64} \frac{t^9}{9!} + \frac{63}{128} \frac{t^{11}}{11!}  ...
 \end{equation}
-
-\section{An embedding of surreal number}\label{sec:aeosn}
-
-\section{Geometry of computation}\label{sec:gioc}
-
-
-\bibliographystyle{unsrt}
-\bibliography{references}
 
 \end{document}
