@@ -1,0 +1,24 @@
+set term png size 1024,1024
+set output "plot/sine3d.png"
+
+unset key
+set auto
+set xtics
+set ytics
+set ztics
+set surface
+set zrange [-2.0:2.0]
+
+set contour
+set cntrparam bspline levels 36
+set samples 1024
+set logscale z 1.0003
+set isosamples 48
+set view 60, 30
+
+set xlabel "t"
+set ylabel "θ"
+
+u(t,θ) = cos(t) / (cos(θ) + sin(t) * sin(θ))
+
+splot [-2.5:2.5] [-2.5:2.5] u(x,y)
