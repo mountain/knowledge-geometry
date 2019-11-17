@@ -1,0 +1,21 @@
+set term png size 1280, 1024
+set output "plot/cosine2d.png"
+
+set key right top outside title "velocity" noautotitle
+unset surface
+set xtics
+set ytics
+
+set contour
+set cntrparam bspline levels 32
+set samples 1024
+set logscale z 2
+set isosamples 1024
+set view map
+
+set xlabel "t"
+set ylabel "θ"
+
+u(t,θ) = cos(t) / (cos(θ) + sin(t) * sin(θ))
+
+splot [-6.28318530718:6.28318530718] [-6.28318530718:6.28318530718] u(x,y)
