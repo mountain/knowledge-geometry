@@ -60,22 +60,33 @@
 \maketitle
 
 \begin{abstract}
-    We introduce a new mathematical system Suan $\mathfrak{S}$ which is an embedding of addition-multiplication
-    computation into hyperbolic surface. After a local polar coordinate on $\mathfrak{S}$ is defined, a flow
-    equation can be conducted, and it shows surreal number can be embedded properly into $\mathfrak{S}$.
+    Begin from an embedding of addition-multiplication computation into hyperbolic surface, we define a local polar
+    coordinate on hyperbolic surface and then derive a flow equation, after studying several examples, we proof the
+    consistency among the discrete constructions, infinitesimal computation and the hyperbolic geometrical structures, and
+    these lead us to a new mathematical system $\mathfrak{S}$. It also shows surreal number can be embedded properly
+    into $\mathfrak{S}$.
 \end{abstract}
 
-\keywords{addition-multiplication tree \and hyperbolic surface \and surreal number \and geometry of computation}
+\keywords{hyperbolic surface \and addition-multiplication tree \and infinitesimal computation \and Suan system \and surreal number \and geometry of computation}
 
-\section{A new mathematical system Suan}\label{sec:anmss}
+\setcounter{tocdepth}{2}
+\tableofcontents
+
+\section{Some discrete constructions on hyperbolic surface}\label{sec:fgs}
+
+\subsection{Order-4 apeirogonal tiling and addition-multiplication tree}\label{sec:o4ataamt}
 
 Traditionally, computation was engaged by apply a serial of addition and multiplication on numbers. Any
 addition-multiplication expression can be formed into a binary tree, while pure numbers are leaves and addition or
 multiplication operators are at branches.
 
-\section{Reverse Polish notation, recursion and discrete path on $\mathfrak{S}$}\label{sec:rpnradp}
+\subsection{Reverse Polish notation, recursion and discrete path on $\mathfrak{S}$}\label{sec:rpnradp}
 
-\section{Local polar coordinate and flow equation}\label{sec:lpcsafe}
+\newpage
+
+\section{A kind of new infinitesimal computation}\label{sec:fgs}
+
+\subsection{Local polar coordinate and flow equation}\label{sec:lpcsafe}
 
 Given any point $x_0$ on $\mathfrak{S}$, an additional axis $A$ pass $x_0$, then for any nearby point $x_1$, two
 horocycle $B$ and $\bar{B}$ exists to connect with $x_0$ and $x_1$, so we can consider a local polar coordinate
@@ -149,86 +160,11 @@ Or
    x =  x_0 e^{t \sin \theta} + t \cos \theta + \frac{1}{2} \sin 2\theta (\frac{t^2}{2!} + \frac{t^3}{3!} \sin \theta + \frac{t^4}{4!} \sin^2 \theta + ...)
 \end{equation}
 
-\section{Example functions}\label{sec:ef}
-
-\subsection{a constant k}
-
-\begin{equation}
-    0 = \cos \theta + k \sin \theta
-\end{equation}
-
-\begin{equation}
-    \theta = n\pi - \arctan \frac{1}{k}
-\end{equation}
-
-\subsection{identity}
-
-\begin{equation}
-    \cos \theta + t \sin \theta - 1 = 0
-\end{equation}
-
-\begin{equation}
-    \theta = 2k\pi
-\end{equation}
-\begin{equation}
-    \theta = 2k\pi + \tan^{-1} t
-\end{equation}
-
-\subsection{inverse of x}
-
-\begin{equation}
-    \frac{d(t^{-1})}{dt} = \cos \theta + t^{-1} \sin \theta
-\end{equation}
-
-\begin{equation}
-    t^2 \cos \theta + t \sin \theta + 1 = 0
-\end{equation}
-
-\subsection{square of x}
-
-\begin{equation}
-    \frac{d(t^2)}{dt} = \cos \theta + t^2 \sin \theta
-\end{equation}
-
-\begin{equation}
-    \cos \theta + t^2 \sin \theta - 2 t = 0
-\end{equation}
-
-\subsection{cube of x}
-
-\begin{equation}
-    \frac{d(t^3)}{dt} = \cos \theta + t^3 \sin \theta
-\end{equation}
-
-\begin{equation}
-    \cos \theta + t^3 \sin \theta - 3 t^2 = 0
-\end{equation}
-
-\subsection{sin of x}
-
-\begin{equation}
-    \frac{d(\sin t)}{dt} = \cos \theta + \sin t \sin \theta
-\end{equation}
-
-\begin{equation}
-     \cos \theta + \sin t \sin \theta - \cos t = 0
-\end{equation}
-
-\subsection{exp of x}
-
-\begin{equation}
-    \frac{d(e^t)}{dt} = \cos \theta + e^t \sin \theta
-\end{equation}
-
-\begin{equation}
-     \cos \theta + e^t \sin \theta - e^t = 0
-\end{equation}
-
 \newpage
 
-\section{Driving chart of a evolutionary process}\label{sec:dcoaep}
+\subsection{Driving chart of an evolutionary process}\label{sec:dcoaep}
 
-\subsection{$\sin t$}
+\subsubsection{$\sin t$}
 
 \begin{equation}
     \frac{dx}{dt} = u (\cos \theta + x \sin \theta)
@@ -261,13 +197,107 @@ Or
 
 \newpage
 
+\subsection{Other example functions}\label{sec:ef}
+
+\subsubsection{a constant k}
+
+\begin{equation}
+    0 = \cos \theta + k \sin \theta
+\end{equation}
+
+\begin{equation}
+    \theta = n\pi - \arctan \frac{1}{k}
+\end{equation}
+
+\subsubsection{identity}
+
+\begin{equation}
+    \cos \theta + t \sin \theta - 1 = 0
+\end{equation}
+
+\begin{equation}
+    \theta = 2k\pi
+\end{equation}
+\begin{equation}
+    \theta = 2k\pi + \tan^{-1} t
+\end{equation}
+
+\subsubsection{inverse of t}
+
+\begin{equation}
+    \frac{d(t^{-1})}{dt} = \cos \theta + t^{-1} \sin \theta
+\end{equation}
+
+\begin{equation}
+    t^2 \cos \theta + t \sin \theta + 1 = 0
+\end{equation}
+
+\subsubsection{square of t}
+
+\begin{equation}
+    \frac{d(t^2)}{dt} = \cos \theta + t^2 \sin \theta
+\end{equation}
+
+\begin{equation}
+    \cos \theta + t^2 \sin \theta - 2 t = 0
+\end{equation}
+
+\subsubsection{cube of t}
+
+\begin{equation}
+    \frac{d(t^3)}{dt} = \cos \theta + t^3 \sin \theta
+\end{equation}
+
+\begin{equation}
+    \cos \theta + t^3 \sin \theta - 3 t^2 = 0
+\end{equation}
+
+\subsubsection{sin of t}
+
+\begin{equation}
+    \frac{d(\sin t)}{dt} = \cos \theta + \sin t \sin \theta
+\end{equation}
+
+\begin{equation}
+     \cos \theta + \sin t \sin \theta - \cos t = 0
+\end{equation}
+
+\subsubsection{exp of t}
+
+\begin{equation}
+    \frac{d(e^t)}{dt} = \cos \theta + e^t \sin \theta
+\end{equation}
+
+\begin{equation}
+     \cos \theta + e^t \sin \theta - e^t = 0
+\end{equation}
+
+\newpage
+
+\section{The consistency problem}\label{sec:consistency}
+
+The consistency of addition-multiplication tree, flow equation and hyperbolic geometrical structures
+
+\subsection{A non-trival example of the consistency}
+
+\subsection{How to formulate the consistency}
+
+\subsection{A proof of the consistency}
+
+\subsection{A new mathematical system $\mathfrak{S}$}
+
+
+\newpage
+
 \section{An embedding of surreal number}\label{sec:aeosn}
 
 \section{A geometry of computation}\label{sec:gioc}
 
+\newpage
 \bibliographystyle{unsrt}
 \bibliography{references}
 
+\newpage
 \appendix
 
 \section{Derivation of the flow equation}
