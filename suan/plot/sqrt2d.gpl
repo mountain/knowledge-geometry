@@ -1,0 +1,23 @@
+set term png size 1280, 1024
+set output "plot/sqrt2d.png"
+set palette rgb 30,31,32;
+
+set key right top outside title "velocity" noautotitle
+unset surface
+set xtics
+set ytics
+
+set contour
+set cntrparam bspline levels 17
+
+set samples 1024
+set logscale z 1.1
+set isosamples 1024
+set view map
+
+set xlabel "t"
+set ylabel "θ"
+
+u(t,θ) =  1 / 2 / sqrt(t) / (cos(θ) + sqrt(t) * sin(θ))
+
+splot [0.0:6.28318530718] [0.0:6.28318530718] u(x,y)
