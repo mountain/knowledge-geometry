@@ -19,6 +19,7 @@
 \newtheorem{proposition}{Proposition}
 \newtheorem{program}{Program}
 \newtheorem{convention}{Convention}
+\newtheorem{theorem}{Theorem}
 
 \title{Suan: towards a geometry of computation}
 
@@ -272,49 +273,84 @@ Or
      \cos \theta + e^t \sin \theta - e^t = 0
 \end{equation}
 
+\subsection{Constant angle flow}
+
+We guess constant angle flow is horocycle flow and there is a sign.
+
+\subsubsection{Two examples of constant angle flow}
+
+Assuming $\theta = \pi / 4$, we can conclude that
+
+\begin{equation}
+    \frac{dx}{dt} = \frac{\sqrt{2}}{2} (1 + x)
+\end{equation}
+
+\begin{equation}
+    x = c e^{\frac{t}{\sqrt{2}}} - 1
+\end{equation}
+
+Then, we have below formula
+
+\begin{equation}
+    x = (x_0 + 1)e^{\frac{t}{\sqrt{2}}} - 1
+\end{equation}
+
+And a recurrence relation with $t_n = \sqrt{2} n$
+
+\begin{equation}
+    x_{n+1} = (x_n + 1) e - 1, n = 0 ... k ...
+\end{equation}
+
+or in simplified Polish notation
+
+\begin{equation}
+    x_{n+1} = [+*-] x_n, n = 0 ... k ...
+\end{equation}
+
+Geometricly, this recurrence relation defines a horecycle on $H^2$.
+
+Assuming $\theta = \pi / 6$, we can conclude that
+
+\begin{equation}
+    \frac{dx}{dt} = \frac{1}{2} (\sqrt{3} x + 1)
+\end{equation}
+
+\begin{equation}
+    x = c e^{\frac{\sqrt{3}}{2}t} - \frac{\sqrt{3}}{3}
+\end{equation}
+
+Then, we have below formula
+
+\begin{equation}
+    x = (x_0 + \frac{\sqrt{3}}{3})e^{\frac{\sqrt{3}}{2}t} - \frac{\sqrt{3}}{3}
+\end{equation}
+
+And a recurrence relation with $t_n = \frac{2\sqrt{3}}{3} n$
+
+\begin{equation}
+    x_{n+1} = (x_n + \frac{\sqrt{3}}{3}) e - \frac{\sqrt{3}}{3}, n = 0 ... k ...
+\end{equation}
+
+\subsubsection{Constant angle flow theorem}
+
+\begin{theorem}
+\label{l1}
+A recurrence relation
+
+\begin{equation}
+    x_{n+1} = (x_n + \tan \theta) e - \tan \theta, n = 0 ... k ...
+\end{equation}
+
+is hold for a flow with constant angle $\theta$ and constant speed $\csc \theta$
+
+\end{theorem}
+
+
 \newpage
 
 \section{The consistency problem}\label{sec:consistency}
 
 The consistency of addition-multiplication tree, flow equation and hyperbolic geometrical structures
-
-\subsection{Two examples of the consistency}
-
-Assuming $\theta = \pi / 4$ and $x_0 = 0$, we can conclude that
-
-\begin{equation}
-    \frac{dx}{dt} = \frac{\sqrt{2}}{2} (1 + x)
-\end{equation}
-
-\begin{equation}
-    x = c e^{\frac{t}{\sqrt{2}}} - 1
-\end{equation}
-
-\begin{equation}
-    x_{n+1} = e (x_n + 1) - 1, x_0 = 0
-\end{equation}
-
-\begin{equation}
-    x_{n+1} = [+1*e-1] x_n, x_0 = 0
-\end{equation}
-
-Assuming $\theta = \pi / 6$ and $x_0 = 0$, we can conclude that
-
-\begin{equation}
-    \frac{dx}{dt} = \frac{\sqrt{2}}{2} (1 + x)
-\end{equation}
-
-\begin{equation}
-    x = c e^{\frac{t}{\sqrt{2}}} - 1
-\end{equation}
-
-\begin{equation}
-    x_{n+1} = e (x_n + 1) - 1, x_0 = 0
-\end{equation}
-
-\begin{equation}
-    x_{n+1} = [+*-](x_n), x_0 = 0
-\end{equation}
 
 \subsection{A non-trival example of the consistency}
 
