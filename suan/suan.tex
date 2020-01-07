@@ -7,6 +7,8 @@
 \usepackage{hyperref}       % hyperlinks
 \usepackage{url}            % simple URL typesetting
 \usepackage{booktabs}       % professional-quality tables
+\usepackage[english]{babel}
+\usepackage{amsthm}
 \usepackage{amsfonts}       % blackboard math symbols
 \usepackage{nicefrac}       % compact symbols for 1/2, etc.
 \usepackage{microtype}      % microtypography
@@ -140,7 +142,9 @@ We denote the left side of the above equation as $dx / dt$ when $\delta$ and $\e
 where $u$ is the moving speed, and by assuming $u = 1$, we have a simpler formula,
 
 \begin{equation}
+    \tag{Flow equation}
     \frac{dx}{dt} = \cos \theta + x \sin \theta
+    \label{eqn:flow}
 \end{equation}
 
 Then we have the solution:
@@ -345,6 +349,21 @@ is hold for a flow with constant angle $\theta$ and constant speed $\csc \theta$
 
 \end{theorem}
 
+\begin{proof}
+
+We follow below solution of \eqref{eqn:flow}
+
+\begin{equation}
+   x = (\cot \theta + x_0) e^{t \sin \theta} - \cot \theta
+\end{equation}
+
+and re-write it as
+
+\begin{equation}
+   x = (\cot \theta + x_0) e^{t \sin \theta} - \cot \theta
+\end{equation}
+
+\end{proof}
 
 \newpage
 
@@ -473,6 +492,10 @@ rewrite it:
 
 \begin{equation}
    s_5 = \frac{t^3}{3!} + \frac{3}{4}\frac{t^5}{5!} + \frac{5}{8} \frac{t^7}{7!} + \frac{35}{64} \frac{t^9}{9!} + \frac{63}{128} \frac{t^{11}}{11!}  ...
+\end{equation}
+
+\begin{equation}
+    {\left(C - \int \cos\left(\theta\left(t\right)\right) e^{\left(\int \sin\left(\theta\left(t\right)\right)\,{d t}\right)}\,{d t}\right)} e^{\left(-\int \sin\left(\theta\left(t\right)\right)\,{d t}\right)}
 \end{equation}
 
 \end{document}
