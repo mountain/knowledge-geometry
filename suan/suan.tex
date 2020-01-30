@@ -75,7 +75,7 @@
 \setcounter{tocdepth}{2}
 \tableofcontents
 
-\section{Some discrete constructions on hyperbolic surface}\label{sec:fgs}
+\section{Some discrete constructions on hyperbolic surface}\label{sec:sdcohs}
 
 \subsection{Order-4 apeirogonal tiling and addition-multiplication tree}\label{sec:o4ataamt}
 
@@ -87,9 +87,9 @@ multiplication operators are at branches.
 
 \newpage
 
-\section{A kind of new infinitesimal calculation}\label{sec:fgs}
+\section{A kind of new infinitesimal calculation}\label{sec:akonic}
 
-\subsection{Local polar coordinate and flow equation}\label{sec:lpcsafe}
+\subsection{Local polar coordinate and flow equation}\label{sec:lpcafe}
 
 Given any point $x_0$ on $\mathfrak{S}$, an additional axis $A$ pass $x_0$, then for any nearby point $x_1$, two
 horocycle $B$ and $\bar{B}$ exists to connect with $x_0$ and $x_1$, so we can consider a local polar coordinate
@@ -140,7 +140,11 @@ We denote the left side of the above equation as $dx / dt$ when $\delta$ and $\e
     \label{eqn:flow}
 \end{equation}
 
-where $u$ is the moving speed, and by assuming $u = 1$, we have a simpler formula,
+where $u$ is the moving speed.
+
+\subsection{background defined by flow equation}\label{sec:}
+
+By assuming $u = 1$ and costant angle $\theta$, we have a background which can be descibed by a simpler formula,
 
 \begin{equation}
     \frac{dx}{dt} = \cos \theta + x \sin \theta
@@ -166,7 +170,7 @@ Or
 
 \newpage
 
-\subsection{Driving chart of an evolutionary process}\label{sec:dcoaep}
+\subsection{Constant speed flow}\label{sec:csflow}
 
 \subsubsection{$\sin t$}
 
@@ -198,83 +202,6 @@ Or
 \includegraphics[width=5.5in]{plot/sine2d.png}
 \caption{contour of velocity $u(t, \theta)$ for process $\sin t$}
 \end{figure}
-
-\newpage
-
-\subsection{Other example functions}\label{sec:ef}
-
-\subsubsection{a constant k}
-
-\begin{equation}
-    0 = \cos \theta + k \sin \theta
-\end{equation}
-
-\begin{equation}
-    \theta = n\pi - \arctan \frac{1}{k}
-\end{equation}
-
-\subsubsection{identity}
-
-\begin{equation}
-    \cos \theta + t \sin \theta - 1 = 0
-\end{equation}
-
-\begin{equation}
-    \theta = 2k\pi
-\end{equation}
-\begin{equation}
-    \theta = 2k\pi + \tan^{-1} t
-\end{equation}
-
-\subsubsection{inverse of t}
-
-\begin{equation}
-    \frac{d(t^{-1})}{dt} = \cos \theta + t^{-1} \sin \theta
-\end{equation}
-
-\begin{equation}
-    t^2 \cos \theta + t \sin \theta + 1 = 0
-\end{equation}
-
-\subsubsection{square of t}
-
-\begin{equation}
-    \frac{d(t^2)}{dt} = \cos \theta + t^2 \sin \theta
-\end{equation}
-
-\begin{equation}
-    \cos \theta + t^2 \sin \theta - 2 t = 0
-\end{equation}
-
-\subsubsection{cube of t}
-
-\begin{equation}
-    \frac{d(t^3)}{dt} = \cos \theta + t^3 \sin \theta
-\end{equation}
-
-\begin{equation}
-    \cos \theta + t^3 \sin \theta - 3 t^2 = 0
-\end{equation}
-
-\subsubsection{sin of t}
-
-\begin{equation}
-    \frac{d(\sin t)}{dt} = \cos \theta + \sin t \sin \theta
-\end{equation}
-
-\begin{equation}
-     \cos \theta + \sin t \sin \theta - \cos t = 0
-\end{equation}
-
-\subsubsection{exp of t}
-
-\begin{equation}
-    \frac{d(e^t)}{dt} = \cos \theta + e^t \sin \theta
-\end{equation}
-
-\begin{equation}
-     \cos \theta + e^t \sin \theta - e^t = 0
-\end{equation}
 
 \subsection{Constant angle flow}
 
@@ -495,6 +422,82 @@ rewrite it:
 
 \begin{equation}
     {\left(C - \int \cos\left(\theta\left(t\right)\right) e^{\left(\int \sin\left(\theta\left(t\right)\right)\,{d t}\right)}\,{d t}\right)} e^{\left(-\int \sin\left(\theta\left(t\right)\right)\,{d t}\right)}
+\end{equation}
+
+
+\subsection{Other examples of driving charts}\label{sec:meodc}
+
+\subsubsection{a constant k}
+
+\begin{equation}
+    0 = \cos \theta + k \sin \theta
+\end{equation}
+
+\begin{equation}
+    \theta = n\pi - \arctan \frac{1}{k}
+\end{equation}
+
+\subsubsection{identity}
+
+\begin{equation}
+    \cos \theta + t \sin \theta - 1 = 0
+\end{equation}
+
+\begin{equation}
+    \theta = 2k\pi
+\end{equation}
+\begin{equation}
+    \theta = 2k\pi + \tan^{-1} t
+\end{equation}
+
+\subsubsection{inverse of t}
+
+\begin{equation}
+    \frac{d(t^{-1})}{dt} = \cos \theta + t^{-1} \sin \theta
+\end{equation}
+
+\begin{equation}
+    t^2 \cos \theta + t \sin \theta + 1 = 0
+\end{equation}
+
+\subsubsection{square of t}
+
+\begin{equation}
+    \frac{d(t^2)}{dt} = \cos \theta + t^2 \sin \theta
+\end{equation}
+
+\begin{equation}
+    \cos \theta + t^2 \sin \theta - 2 t = 0
+\end{equation}
+
+\subsubsection{cube of t}
+
+\begin{equation}
+    \frac{d(t^3)}{dt} = \cos \theta + t^3 \sin \theta
+\end{equation}
+
+\begin{equation}
+    \cos \theta + t^3 \sin \theta - 3 t^2 = 0
+\end{equation}
+
+\subsubsection{sin of t}
+
+\begin{equation}
+    \frac{d(\sin t)}{dt} = \cos \theta + \sin t \sin \theta
+\end{equation}
+
+\begin{equation}
+     \cos \theta + \sin t \sin \theta - \cos t = 0
+\end{equation}
+
+\subsubsection{exp of t}
+
+\begin{equation}
+    \frac{d(e^t)}{dt} = \cos \theta + e^t \sin \theta
+\end{equation}
+
+\begin{equation}
+     \cos \theta + e^t \sin \theta - e^t = 0
 \end{equation}
 
 \end{document}
