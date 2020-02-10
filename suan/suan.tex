@@ -23,6 +23,10 @@
 \newtheorem{convention}{Convention}
 \newtheorem{theorem}{Theorem}
 
+\usepackage[nounderscore]{syntax}
+\shortverb{\|}
+\setlength{\grammarindent}{0cm}
+
 \title{Suan: towards a geometry of computation}
 
 %\date{September 9, 1985}	% Here you can change the date presented in the paper title
@@ -77,7 +81,7 @@
 
 \section{Some discrete constructions on hyperbolic surface}\label{sec:sdcohs}
 
-\subsection{Addition-multiplication tree and simplified reversed Polish notation}\label{sec:amt}
+\subsection{Addition-multiplication tree, simplified postfix notation and Cayley graph}\label{sec:amt}
 
 Traditionally, we can express the most frequently-used mathematical functions by Taylor series,
 so we can carry the computation by applying a serial of addition and multiplication on some numbers.
@@ -87,7 +91,7 @@ expressions, or addition-multiplication trees as we named; and for a specific ki
 that holds a fixed summand $1$ or a fixed multiplier $e$, and we name them as fixed addition-multiplication tree.
 
 As we show later, all the fixed addition-multiplication trees can be formed into a background space,
-where all the addition-multiplication trees can be appropriately expressed.
+where all the addition-multiplication trees can be appropriately representated in this background space.
 
 \begin{definition}
 An addition-multiplication tree is an arithmetical expression which owns arbitrary valid summands or arbitrary valid multipliers.
@@ -107,14 +111,61 @@ Here is some examples of fixed addition-multiplication trees
     \item the values defined by the iteration $x_{n+1} = e (x_n + 1), x_0 = 0$
 \end{itemize}
 
-We can express fixed addition-multiplication trees in a simplified notion other than the normal infix notation.
+We can express fixed addition-multiplication trees in a simplified postfix notion other than the normal infix notation.
 
 \begin{convention}
-Simplified reversed Polish notation
+    The grammar of simplified postfix notion
+    \begin{grammar}
+        <Expression> ::= <Operand> <Operators>
+
+        <Operand> ::= $0$ | $1$
+
+        <Operators> ::= <Operator> <Operators>
+
+        <Operator> ::= $\epsilon$ | $+$ | $-$ | $*$ | $/$
+    \end{grammar}
 \end{convention}
 
+We also have the inverse notion
+\begin{convention}
+    The inverse notion
+    \begin{itemize}
+        \item $+^{-1} = -$
+        \item $-^{-1} = +$
+        \item $*^{-1} = /$
+        \item $/^{-1} = *$
+    \end{itemize}
+\end{convention}
 
-\subsection{recursion and discrete path on $\mathfrak{S}$}\label{sec:rpnradp}
+In fact, the initial operand can be any number. We have one expression and assume the operand is $\alpha$, the operations are
+$a_1 a_2 ... a_{n-1} a_n$, and the result of the expression is $\beta$, hence we have
+$\beta = \alpha a_1 a_2 ... a_{n-1} a_n$
+
+\begin{lemma}
+\label{lemma:inverse}
+If we have
+$$\beta = \alpha a_1 a_2 ... a_{n-1} a_n$$,
+then
+$$\alpha = \beta a_n^{-1} a_{n-1}^{-1} ... a_2^{-1} a_1^{-1}$$
+\end{lemma}
+
+\begin{proof}
+Notice that $+, -, *, /$ are all bijections, we know that $\alpha a_1 a_2 ... a_{n-1} a_n$ is a composition of functions
+
+$$\beta = a_n( a_{n-1}( ... a_2( a_1(\alpha) ) ... ) )$$
+
+Considering the inverse of a composition, we have
+
+$$\alpha = a_1^{-1}( a_2^{-1}( ... a_{n-1}^{-1}( a_n^{-1}(\beta) ) ... ) )$$
+
+Or under the simplified postfix notion
+
+$$\alpha = \beta a_n^{-1} a_{n-1}^{-1} ... a_2^{-1} a_1^{-1}$$
+
+\qedhere
+
+\end{proof}
+
 
 \subsection{Order-4 apeirogonal tiling}\label{sec:o4ataamt}
 
