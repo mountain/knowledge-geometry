@@ -77,13 +77,47 @@
 
 \section{Some discrete constructions on hyperbolic surface}\label{sec:sdcohs}
 
-\subsection{Order-4 apeirogonal tiling and addition-multiplication tree}\label{sec:o4ataamt}
+\subsection{Addition-multiplication tree and simplified reversed Polish notation}\label{sec:amt}
 
-Traditionally, computation was engaged by apply a serial of addition and multiplication on numbers. Any
-addition-multiplication expression can be formed into a binary tree, while pure numbers are leaves and addition or
-multiplication operators are at branches.
+Traditionally, we can express the most frequently-used mathematical functions by Taylor series,
+so we can carry the computation by applying a serial of addition and multiplication on some numbers.
+Any addition-multiplication expression can be formed into a binary tree, while pure numbers are leaves,
+and addition or multiplication operators are at the branches. In this article, we study general arithmetical
+expressions, or addition-multiplication trees as we named; and for a specific kind of addition-multiplication tree
+that holds a fixed summand $1$ or a fixed multiplier $e$, and we name them as fixed addition-multiplication tree.
 
-\subsection{Reverse Polish notation, recursion and discrete path on $\mathfrak{S}$}\label{sec:rpnradp}
+As we show later, all the fixed addition-multiplication trees can be formed into a background space,
+where all the addition-multiplication trees can be appropriately expressed.
+
+\begin{definition}
+An addition-multiplication tree is an arithmetical expression which owns arbitrary valid summands or arbitrary valid multipliers.
+\end{definition}
+
+\begin{definition}
+A fixed addition-multiplication tree is an arithmetical expression which owns fixed summands $1, -1$
+or fixed multipliers $e, e^{-1}$.
+\end{definition}
+
+Here is some examples of fixed addition-multiplication trees
+\begin{itemize}
+    \item $1 + 1 + 1 + 1$
+    \item $n$ as $1 + 1 + ... + 1$
+    \item $e^n$ as $e e ... e$
+    \item $(e - 1) / e $
+    \item the values defined by the iteration $x_{n+1} = e (x_n + 1), x_0 = 0$
+\end{itemize}
+
+We can express fixed addition-multiplication trees in a simplified notion other than the normal infix notation.
+
+\begin{convention}
+Simplified reversed Polish notation
+\end{convention}
+
+
+\subsection{recursion and discrete path on $\mathfrak{S}$}\label{sec:rpnradp}
+
+\subsection{Order-4 apeirogonal tiling}\label{sec:o4ataamt}
+
 
 \newpage
 
