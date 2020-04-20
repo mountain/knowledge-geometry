@@ -94,12 +94,14 @@
 
 \section{Background}\label{sec:background}
 
-Hilbert curves is a family of space-filling curves that fills the unit square. The construction of Hilbert curves can be
-expressed as a Lindenmayer system.
+Hilbert-type curves is a family of space-filling curves that fills the unit square.
+The construction of Hilbert curves can be expressed as a Lindenmayer system with a visual interpretion.
 
-For example, the Hilbert curve discovered by David Hilbert himself can be constructed by below rules:
+For example, the Hilbert curve discovered by David Hilbert himself can be constructed by
+rule \ref{rule:hilbert-curve}.
 
 \begin{lsystem}
+    \label{rule:hilbert-curve}
     \caption{Hilbert curve}
     \begin{itemize}
       \item axiom: L
@@ -112,14 +114,14 @@ For example, the Hilbert curve discovered by David Hilbert himself can be constr
     \end{itemize}
 \end{lsystem}
 
-With visual interpretions of the pure symbol
+With a visual interpretion of the symbols,
 \begin{itemize}
   \item F: draw a line with one fix-length step
-  \item +: turn right to a specific angle predefined
-  \item -: turn left to a specific angle predefined
+  \item +: turn left to a specific angle predefined
+  \item -: turn right to a specific angle predefined
+  \item others: other symbols are denoted the state of transformation steps
 \end{itemize}
-
-The first several steps of the construction of Hilbert curve can be visualized as below
+the first several steps of the construction can be visualized as figure \ref{fig:hilbert-curve}.
 
 \pgfdeclarelindenmayersystem{Hilbert curve}{
   \rule{L -> +RF-LFL-FR+}
@@ -170,6 +172,7 @@ The first several steps of the construction of Hilbert curve can be visualized a
 \\
 \end{tabular}
 \caption{the construction of Hilbert curve}
+\label{fig:hilbert-curve}
 \end{figure}
 
 With different initial axioms and rules, a family of Hilbert-type curves had been discovered by Hilbert, Moore,
@@ -177,18 +180,21 @@ Liu and Perez-Davidenko et al. For example, the construction of Hilbert-type cur
 can be constructed by
 
 \begin{itemize}
-  \item axiom: L
+  \item axiom: R
   \item scale factor: 0.5
   \item rules: \begin{itemize}
-      \item[$\circ$] $L \mapsto +RF-LFL-FR+ $
-      \item[$\circ$] $R \mapsto -LF+RFR+FL- $
+      \item[$\circ$] $Y \mapsto F-F-F $
+      \item[$\circ$] $Z \mapsto F+F+F $
+      \item[$\circ$] $R \mapsto +LF-RFR-FY+ $
+      \item[$\circ$] $L \mapsto -RF+LFL+FZ- $
   \end{itemize}
 \end{itemize}
 
 \pgfdeclarelindenmayersystem{Liu curve}{
-  \rule{C -> +RF-LFL-FR+}
-  \rule{L -> +RF-LFL-FR+}
-  \rule{R -> -LF+RFR+FL-}}
+  \rule{Y -> F-F-F}
+  \rule{Z -> F+F+F}
+  \rule{R -> +LF-RFR-FY+}
+  \rule{L -> -RF+LFL+FZ-}}
 
 \begin{figure}[ht]
 \centering
@@ -196,7 +202,7 @@ can be constructed by
 \begin{tabular}{c}
     \begin{tikzpicture}
         \shadedraw [bottom color=white, top color=white, draw=red!80!black]
-        [l-system={Liu curve, axiom=C, order=1, step=32pt, angle=90}]
+        [l-system={Liu curve, axiom=R, order=1, step=32pt, angle=90}]
         lindenmayer system;
     \end{tikzpicture}
 \end{tabular}
@@ -204,7 +210,7 @@ can be constructed by
 \begin{tabular}{c}
     \begin{tikzpicture}
         \shadedraw [bottom color=white, top color=white, draw=red!80!black]
-        [l-system={Liu curve, axiom=C, order=2, step=16pt, angle=90}]
+        [l-system={Liu curve, axiom=R, order=2, step=16pt, angle=90}]
         lindenmayer system;
     \end{tikzpicture}
 \end{tabular}
@@ -212,7 +218,7 @@ can be constructed by
 \begin{tabular}{c}
     \begin{tikzpicture}
         \shadedraw [bottom color=white, top color=white, draw=red!80!black]
-        [l-system={Liu curve, axiom=C, order=3, step=8pt, angle=90}]
+        [l-system={Liu curve, axiom=R, order=3, step=8pt, angle=90}]
         lindenmayer system;
     \end{tikzpicture}
 \end{tabular}
