@@ -90,7 +90,7 @@
 Hilbert curves is a family of space-filling curves that fills the unit square. The construction of Hilbert curves can be
 expressed as a Lindenmayer system.
 
-For example, the first Hilbert curve discovered by Hilbert himself can be constructed by below rules:
+For example, the Hilbert curve discovered by David Hilbert himself can be constructed by below rules:
 
 \begin{itemize}
   \item axiom: L
@@ -152,11 +152,56 @@ For example, the first Hilbert curve discovered by Hilbert himself can be constr
 \caption{the construction of a Hilbert curve}
 \end{figure}
 
-The family of Hilbert curve
+A family of Hilbert curves had been discovered by Hilbert, Moore, Liu and Perez-Davidenko et al
 
 A construction of Hilbert curve $\leftidx{_4}{H}{_4}$ of Liu
 
-
+\begin{figure}[ht]
+\centering
+\begin{tabular}{ccccc}
+\begin{tabular}{c}
+    \begin{tikzpicture}
+        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
+        [l-system={Hilbert curve, axiom=+RF-LFL-FR+, order=1, step=32pt, angle=90}]
+        lindenmayer system;
+    \end{tikzpicture}
+\end{tabular}
+&
+\begin{tabular}{c}
+    \begin{tikzpicture}
+        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
+        [l-system={Hilbert curve, axiom=+RF-LFL-FR+, order=2, step=16pt, angle=90}]
+        lindenmayer system;
+    \end{tikzpicture}
+\end{tabular}
+&
+\begin{tabular}{c}
+    \begin{tikzpicture}
+        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
+        [l-system={Hilbert curve, axiom=+RF-LFL-FR+, order=3, step=8pt, angle=90}]
+        lindenmayer system;
+    \end{tikzpicture}
+\end{tabular}
+&
+\begin{tabular}{c}
+    \begin{tikzpicture}
+        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
+        [l-system={Hilbert curve, axiom=+RF-LFL-FR+, order=4, step=4pt, angle=90}]
+        lindenmayer system;
+    \end{tikzpicture}
+\end{tabular}
+&
+\begin{tabular}{c}
+    \begin{tikzpicture}
+        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
+        [l-system={Hilbert curve, axiom=+RF-LFL-FR+, order=5, step=2pt, angle=90}]
+        lindenmayer system;
+    \end{tikzpicture}
+\end{tabular}
+\\
+\end{tabular}
+\caption{the construction of a Hilbert curve}
+\end{figure}
 
 \section{Hilbert spirals}\label{sec:space-filling}
 
