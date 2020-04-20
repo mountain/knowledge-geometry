@@ -12,6 +12,7 @@
 \usepackage{amsfonts}       % blackboard math symbols
 \usepackage{nicefrac}       % compact symbols for 1/2, etc.
 \usepackage{microtype}      % microtypography
+\usepackage{amssymb}
 
 \usepackage{graphicx}
 \usepackage{amsmath}
@@ -26,6 +27,10 @@
 
 \usepackage{stmaryrd}
 \usepackage{mathtools}
+
+\usepackage{tikz}
+\usetikzlibrary{lindenmayersystems}
+\usetikzlibrary[shadings]
 
 \title{Hilbert spiral and Riemann mapping theorem}
 
@@ -67,8 +72,10 @@
 \maketitle
 
 \begin{abstract}
-    Hilbert curve is a space-filling curve that fills the unit square. Based on a construction of Hilbert curve $\leftidx{_4}{H}{_4}$ of Liu,
-    we give the construction of Hilbert spiral which fills the whole Euclidean plane $E_2$, and a conterpart construction on hyperbolic plane $H_2$.
+    Hilbert curve is a space-filling curve that fills the unit square.
+    Based on a construction of Hilbert curve $\leftidx{_4}{H}{_4}$ of Liu,
+    we give the construction of Hilbert spiral which fills the whole Euclidean plane $E_2$,
+    and a conterpart construction on hyperbolic plane $H_2$.
     By using the perpendicular and parallel relationship introduced by Hilbert spiral in $H_2$,
     we can define a special conformal flow and this leads us to a new proof of Riemann mapping theorem.
 \end{abstract}
@@ -80,19 +87,82 @@
 
 \section{Introduce}\label{sec:intro}
 
-Hilbert curve is a space-filling curve that fills the unit square.
+Hilbert curves is a family of space-filling curves that fills the unit square. The construction of Hilbert curves can be
+expressed as a Lindenmayer system.
 
-A construction of Hilbert curve
+For example, the first Hilbert curve discovered by Hilbert himself can be constructed by below rules:
+
+\begin{itemize}
+  \item axiom: L
+  \item scale factor: 0.5
+  \item rules: \begin{itemize}
+      \item[$\circ$] $L \mapsto +RF-LFL-FR+ $
+      \item[$\circ$] $R \mapsto -LF+RFR+FL- $
+  \end{itemize}
+\end{itemize}
+
+\pgfdeclarelindenmayersystem{Hilbert curve}{
+  \rule{L -> +RF-LFL-FR+}
+  \rule{R -> -LF+RFR+FL-}}
+
+\begin{figure}[ht]
+\centering
+\begin{tabular}{ccccc}
+\begin{tabular}{c}
+    \begin{tikzpicture}
+        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
+        [l-system={Hilbert curve, axiom=L, order=1, step=32pt, angle=90}]
+        lindenmayer system;
+    \end{tikzpicture}
+\end{tabular}
+&
+\begin{tabular}{c}
+    \begin{tikzpicture}
+        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
+        [l-system={Hilbert curve, axiom=L, order=2, step=16pt, angle=90}]
+        lindenmayer system;
+    \end{tikzpicture}
+\end{tabular}
+&
+\begin{tabular}{c}
+    \begin{tikzpicture}
+        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
+        [l-system={Hilbert curve, axiom=L, order=3, step=8pt, angle=90}]
+        lindenmayer system;
+    \end{tikzpicture}
+\end{tabular}
+&
+\begin{tabular}{c}
+    \begin{tikzpicture}
+        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
+        [l-system={Hilbert curve, axiom=L, order=4, step=4pt, angle=90}]
+        lindenmayer system;
+    \end{tikzpicture}
+\end{tabular}
+&
+\begin{tabular}{c}
+    \begin{tikzpicture}
+        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
+        [l-system={Hilbert curve, axiom=L, order=5, step=2pt, angle=90}]
+        lindenmayer system;
+    \end{tikzpicture}
+\end{tabular}
+\\
+\end{tabular}
+\caption{the construction of a Hilbert curve}
+\end{figure}
 
 The family of Hilbert curve
 
 A construction of Hilbert curve $\leftidx{_4}{H}{_4}$ of Liu
 
+
+
 \section{Hilbert spirals}\label{sec:space-filling}
 
 \section{A flow on $H_2$}\label{sec:flow}
 
-\section{The conformality of the flow}\label{sec:conformality}
+\section{The conformal property of the flow}\label{sec:conformal}
 
 \section{A new proof of Riemann mapping theorem}\label{sec:riemann-mapping}
 
