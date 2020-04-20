@@ -13,6 +13,7 @@
 \usepackage{nicefrac}       % compact symbols for 1/2, etc.
 \usepackage{microtype}      % microtypography
 \usepackage{amssymb}
+\usepackage{gensymb}
 
 \usepackage{graphicx}
 \usepackage{amsmath}
@@ -31,6 +32,12 @@
 \usepackage{tikz}
 \usetikzlibrary{lindenmayersystems}
 \usetikzlibrary[shadings]
+
+\usepackage{float}
+
+% this code block defines the new and custom floatbox float environment
+\newfloat{lsystem}{thp}{lob}[section]
+\floatname{lsystem}{Lindenmayer System}
 
 \title{Hilbert spiral and Riemann mapping theorem}
 
@@ -85,21 +92,34 @@
 \setcounter{tocdepth}{2}
 \tableofcontents
 
-\section{Introduce}\label{sec:intro}
+\section{Background}\label{sec:background}
 
 Hilbert curves is a family of space-filling curves that fills the unit square. The construction of Hilbert curves can be
 expressed as a Lindenmayer system.
 
 For example, the Hilbert curve discovered by David Hilbert himself can be constructed by below rules:
 
+\begin{lsystem}
+    \caption{Hilbert curve}
+    \begin{itemize}
+      \item axiom: L
+      \item angle: $90\degree$
+      \item scale factor: 0.5
+      \item rules: \begin{itemize}
+          \item[$\circ$] $L \mapsto +RF-LFL-FR+ $
+          \item[$\circ$] $R \mapsto -LF+RFR+FL- $
+      \end{itemize}
+    \end{itemize}
+\end{lsystem}
+
+With visual interpretions of the pure symbol
 \begin{itemize}
-  \item axiom: L
-  \item scale factor: 0.5
-  \item rules: \begin{itemize}
-      \item[$\circ$] $L \mapsto +RF-LFL-FR+ $
-      \item[$\circ$] $R \mapsto -LF+RFR+FL- $
-  \end{itemize}
+  \item F: draw a line with one fix-length step
+  \item +: turn right to a specific angle predefined
+  \item -: turn left to a specific angle predefined
 \end{itemize}
+
+The first several steps of the construction of Hilbert curve can be visualized as below
 
 \pgfdeclarelindenmayersystem{Hilbert curve}{
   \rule{L -> +RF-LFL-FR+}
@@ -149,20 +169,34 @@ For example, the Hilbert curve discovered by David Hilbert himself can be constr
 \end{tabular}
 \\
 \end{tabular}
-\caption{the construction of a Hilbert curve}
+\caption{the construction of Hilbert curve}
 \end{figure}
 
-A family of Hilbert type curves had been discovered by Hilbert, Moore, Liu and Perez-Davidenko et al
+With different initial axioms and rules, a family of Hilbert-type curves had been discovered by Hilbert, Moore,
+Liu and Perez-Davidenko et al. For example, the construction of Hilbert-type curve $\leftidx{_4}{H}{_4}$ of Liu
+can be constructed by
 
-A construction of Hilbert-type curve $\leftidx{_4}{H}{_4}$ of Liu
+\begin{itemize}
+  \item axiom: L
+  \item scale factor: 0.5
+  \item rules: \begin{itemize}
+      \item[$\circ$] $L \mapsto +RF-LFL-FR+ $
+      \item[$\circ$] $R \mapsto -LF+RFR+FL- $
+  \end{itemize}
+\end{itemize}
+
+\pgfdeclarelindenmayersystem{Liu curve}{
+  \rule{C -> +RF-LFL-FR+}
+  \rule{L -> +RF-LFL-FR+}
+  \rule{R -> -LF+RFR+FL-}}
 
 \begin{figure}[ht]
 \centering
-\begin{tabular}{ccccc}
+\begin{tabular}{ccc}
 \begin{tabular}{c}
     \begin{tikzpicture}
         \shadedraw [bottom color=white, top color=white, draw=red!80!black]
-        [l-system={Hilbert curve, axiom=+RF-LFL-FR+, order=1, step=32pt, angle=90}]
+        [l-system={Liu curve, axiom=C, order=1, step=32pt, angle=90}]
         lindenmayer system;
     \end{tikzpicture}
 \end{tabular}
@@ -170,7 +204,7 @@ A construction of Hilbert-type curve $\leftidx{_4}{H}{_4}$ of Liu
 \begin{tabular}{c}
     \begin{tikzpicture}
         \shadedraw [bottom color=white, top color=white, draw=red!80!black]
-        [l-system={Hilbert curve, axiom=+RF-LFL-FR+, order=2, step=16pt, angle=90}]
+        [l-system={Liu curve, axiom=C, order=2, step=16pt, angle=90}]
         lindenmayer system;
     \end{tikzpicture}
 \end{tabular}
@@ -178,36 +212,18 @@ A construction of Hilbert-type curve $\leftidx{_4}{H}{_4}$ of Liu
 \begin{tabular}{c}
     \begin{tikzpicture}
         \shadedraw [bottom color=white, top color=white, draw=red!80!black]
-        [l-system={Hilbert curve, axiom=+RF-LFL-FR+, order=3, step=8pt, angle=90}]
-        lindenmayer system;
-    \end{tikzpicture}
-\end{tabular}
-&
-\begin{tabular}{c}
-    \begin{tikzpicture}
-        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
-        [l-system={Hilbert curve, axiom=+RF-LFL-FR+, order=4, step=4pt, angle=90}]
-        lindenmayer system;
-    \end{tikzpicture}
-\end{tabular}
-&
-\begin{tabular}{c}
-    \begin{tikzpicture}
-        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
-        [l-system={Hilbert curve, axiom=+RF-LFL-FR+, order=5, step=2pt, angle=90}]
+        [l-system={Liu curve, axiom=C, order=3, step=8pt, angle=90}]
         lindenmayer system;
     \end{tikzpicture}
 \end{tabular}
 \\
 \end{tabular}
-\caption{the construction of a Hilbert curve}
+\caption{the construction ${}_4H_4$ of Liu}
 \end{figure}
 
 \section{Hilbert spirals}\label{sec:space-filling}
 
 \section{A flow on $H_2$}\label{sec:flow}
-
-\section{The conformal property of the flow}\label{sec:conformal}
 
 \section{A new proof of Riemann mapping theorem}\label{sec:riemann-mapping}
 
