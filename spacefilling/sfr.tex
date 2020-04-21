@@ -125,7 +125,8 @@ the first several steps of the construction can be visualized as figure \ref{fig
 
 \pgfdeclarelindenmayersystem{Hilbert curve}{
   \rule{L -> +RF-LFL-FR+}
-  \rule{R -> -LF+RFR+FL-}}
+  \rule{R -> -LF+RFR+FL-}
+}
 
 \begin{figure}[ht]
 \centering
@@ -180,29 +181,30 @@ Liu and Perez-Davidenko et al. For example, the construction of Hilbert-type cur
 can be constructed by
 
 \begin{itemize}
-  \item axiom: R
+  \item axiom: G
   \item scale factor: 0.5
   \item rules: \begin{itemize}
-      \item[$\circ$] $Y \mapsto F-F-F $
-      \item[$\circ$] $Z \mapsto F+F+F $
-      \item[$\circ$] $R \mapsto +LF-RFR-FY+ $
-      \item[$\circ$] $L \mapsto -RF+LFL+FZ- $
+      \item[$\circ$] $G \mapsto +RF-LFL-FZ+ $
+      \item[$\circ$] $Z \mapsto RF-LFL-FR $
+      \item[$\circ$] $L \mapsto +RF-LFL-FR+ $
+      \item[$\circ$] $R \mapsto -LF+RFR+FL- $
   \end{itemize}
 \end{itemize}
 
 \pgfdeclarelindenmayersystem{Liu curve}{
-  \rule{Y -> F-F-F}
-  \rule{Z -> F+F+F}
-  \rule{R -> +LF-RFR-FY+}
-  \rule{L -> -RF+LFL+FZ-}}
+  \rule{G -> +RF-LFL-FZ+}
+  \rule{Z -> RF-LFL-FR}
+  \rule{L -> +RF-LFL-FR+}
+  \rule{R -> -LF+RFR+FL-}
+}
 
 \begin{figure}[ht]
 \centering
-\begin{tabular}{ccc}
+\begin{tabular}{ccccc}
 \begin{tabular}{c}
     \begin{tikzpicture}
         \shadedraw [bottom color=white, top color=white, draw=red!80!black]
-        [l-system={Liu curve, axiom=R, order=1, step=32pt, angle=90}]
+        [l-system={Liu curve, axiom=G, order=1, step=32pt, angle=90}]
         lindenmayer system;
     \end{tikzpicture}
 \end{tabular}
@@ -210,7 +212,7 @@ can be constructed by
 \begin{tabular}{c}
     \begin{tikzpicture}
         \shadedraw [bottom color=white, top color=white, draw=red!80!black]
-        [l-system={Liu curve, axiom=R, order=2, step=16pt, angle=90}]
+        [l-system={Liu curve, axiom=G, order=2, step=16pt, angle=90}]
         lindenmayer system;
     \end{tikzpicture}
 \end{tabular}
@@ -218,7 +220,23 @@ can be constructed by
 \begin{tabular}{c}
     \begin{tikzpicture}
         \shadedraw [bottom color=white, top color=white, draw=red!80!black]
-        [l-system={Liu curve, axiom=R, order=3, step=8pt, angle=90}]
+        [l-system={Liu curve, axiom=G, order=3, step=8pt, angle=90}]
+        lindenmayer system;
+    \end{tikzpicture}
+\end{tabular}
+&
+\begin{tabular}{c}
+    \begin{tikzpicture}
+        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
+        [l-system={Liu curve, axiom=G, order=4, step=4pt, angle=90}]
+        lindenmayer system;
+    \end{tikzpicture}
+\end{tabular}
+&
+\begin{tabular}{c}
+    \begin{tikzpicture}
+        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
+        [l-system={Liu curve, axiom=G, order=5, step=2pt, angle=90}]
         lindenmayer system;
     \end{tikzpicture}
 \end{tabular}
@@ -227,7 +245,80 @@ can be constructed by
 \caption{the construction ${}_4H_4$ of Liu}
 \end{figure}
 
-\section{Hilbert spirals}\label{sec:space-filling}
+\section{Hilbert spiral}\label{sec:space-filling}
+
+\begin{itemize}
+  \item axiom: G
+  \item scale factor: 0.5
+  \item rules: \begin{itemize}
+      \item[$\circ$] $G \mapsto +RF-LFL-FZ+ $
+      \item[$\circ$] $Z \mapsto RF-LFL-FR $
+      \item[$\circ$] $L \mapsto +RF-LFL-FR+ $
+      \item[$\circ$] $R \mapsto -LF+RFR+FL- $
+  \end{itemize}
+\end{itemize}
+
+\pgfdeclarelindenmayersystem{Hilbert spiral}{
+  \rule{G -> +RF-LFL-FZ+}
+  \rule{Z -> RF-LFL-FR}
+  \rule{L -> +RF-LFL-FR+}
+  \rule{R -> -LF+RFR+FL-}
+}
+
+\begin{figure}[ht]
+\centering
+\begin{tabular}{c}
+\begin{tabular}{c}
+    \begin{tikzpicture}
+        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
+        [l-system={Hilbert spiral, axiom=G, order=1, step=4pt, angle=90}]
+        lindenmayer system;
+    \end{tikzpicture}
+\end{tabular}
+\\
+\begin{tabular}{c}
+    \begin{tikzpicture}
+        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
+        [l-system={Hilbert spiral, axiom=G, order=2, step=4pt, angle=90}]
+        lindenmayer system;
+    \end{tikzpicture}
+\end{tabular}
+\\
+\begin{tabular}{c}
+    \begin{tikzpicture}
+        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
+        [l-system={Hilbert spiral, axiom=G, order=3, step=4pt, angle=90}]
+        lindenmayer system;
+    \end{tikzpicture}
+\end{tabular}
+\\
+\begin{tabular}{c}
+    \begin{tikzpicture}
+        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
+        [l-system={Hilbert spiral, axiom=G, order=4, step=4pt, angle=90}]
+        lindenmayer system;
+    \end{tikzpicture}
+\end{tabular}
+\\
+\begin{tabular}{c}
+    \begin{tikzpicture}
+        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
+        [l-system={Hilbert spiral, axiom=G, order=5, step=4pt, angle=90}]
+        lindenmayer system;
+    \end{tikzpicture}
+\end{tabular}
+\\
+\begin{tabular}{c}
+    \begin{tikzpicture}
+        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
+        [l-system={Hilbert spiral, axiom=G, order=6, step=4pt, angle=90}]
+        lindenmayer system;
+    \end{tikzpicture}
+\end{tabular}
+\\
+\end{tabular}
+\caption{the construction of Hilbert spiral}
+\end{figure}
 
 \section{A flow on $H_2$}\label{sec:flow}
 
