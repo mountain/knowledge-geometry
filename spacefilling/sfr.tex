@@ -259,11 +259,15 @@ Using above two constructions of Hilbert curve and ${}_4H_4$ of Liu, we can give
 \end{itemize}
 
 \pgfdeclarelindenmayersystem{Hilbert spiral}{
-  \rule{s -> yxg}
+  \rule{s -> +cyFcz+F+czF-g}
+  \rule{c -> c.}
+  \rule{.x -> xx}
+  \rule{.y -> yy}
+  \rule{.z -> zz}
   \rule{g -> G}
-  \rule{x -> LF}
-  \rule{y -> YF}
-  \rule{Y -> LF+RFR+FL}
+  \rule{x -> L}
+  \rule{y -> R}
+  \rule{z -> Z}
   \rule{G -> +RF-LFL-FZ+}
   \rule{Z -> RF-LFL-FR}
   \rule{L -> +RF-LFL-FR+}
@@ -276,7 +280,7 @@ Using above two constructions of Hilbert curve and ${}_4H_4$ of Liu, we can give
 \begin{tabular}{c}
     \begin{tikzpicture}
         \shadedraw [bottom color=white, top color=white, draw=red!80!black]
-        [l-system={Hilbert spiral, axiom=s, order=1, step=32pt, angle=90}]
+        [l-system={Hilbert spiral, axiom=s, order=1, step=64pt, angle=90}]
         lindenmayer system;
     \end{tikzpicture}
 \end{tabular}
@@ -284,7 +288,7 @@ Using above two constructions of Hilbert curve and ${}_4H_4$ of Liu, we can give
 \begin{tabular}{c}
     \begin{tikzpicture}
         \shadedraw [bottom color=white, top color=white, draw=red!80!black]
-        [l-system={Hilbert spiral, axiom=s, order=2, step=16pt, angle=90}]
+        [l-system={Hilbert spiral, axiom=s, order=2, step=32pt, angle=90}]
         lindenmayer system;
     \end{tikzpicture}
 \end{tabular}
@@ -292,7 +296,7 @@ Using above two constructions of Hilbert curve and ${}_4H_4$ of Liu, we can give
 \begin{tabular}{c}
     \begin{tikzpicture}
         \shadedraw [bottom color=white, top color=white, draw=red!80!black]
-        [l-system={Hilbert spiral, axiom=s, order=3, step=8pt, angle=90}]
+        [l-system={Hilbert spiral, axiom=s, order=3, step=16pt, angle=90}]
         lindenmayer system;
     \end{tikzpicture}
 \end{tabular}
@@ -300,7 +304,7 @@ Using above two constructions of Hilbert curve and ${}_4H_4$ of Liu, we can give
 \begin{tabular}{c}
     \begin{tikzpicture}
         \shadedraw [bottom color=white, top color=white, draw=red!80!black]
-        [l-system={Hilbert spiral, axiom=s, order=4, step=4pt, angle=90}]
+        [l-system={Hilbert spiral, axiom=s, order=4, step=8pt, angle=90}]
         lindenmayer system;
     \end{tikzpicture}
 \end{tabular}
@@ -308,7 +312,15 @@ Using above two constructions of Hilbert curve and ${}_4H_4$ of Liu, we can give
 \begin{tabular}{c}
     \begin{tikzpicture}
         \shadedraw [bottom color=white, top color=white, draw=red!80!black]
-        [l-system={Hilbert spiral, axiom=s, order=5, step=2pt, angle=90}]
+        [l-system={Hilbert spiral, axiom=s, order=5, step=4pt, angle=90}]
+        lindenmayer system;
+    \end{tikzpicture}
+\end{tabular}
+\\
+\begin{tabular}{c}
+    \begin{tikzpicture}
+        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
+        [l-system={Hilbert spiral, axiom=s, order=6, step=2pt, angle=90}]
         lindenmayer system;
     \end{tikzpicture}
 \end{tabular}
