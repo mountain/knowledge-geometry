@@ -245,7 +245,7 @@ can be constructed by
 
 \section{Hilbert spiral}\label{sec:space-filling}
 
-Using above two constructions of Hilbert curve and ${}_4H_4$ of Liu, we can give the construction of Hilbert spiral.
+Using above two curves as component, we can give the construction of Hilbert spiral.
 
 \begin{itemize}
   \item axiom: G
@@ -259,15 +259,7 @@ Using above two constructions of Hilbert curve and ${}_4H_4$ of Liu, we can give
 \end{itemize}
 
 \pgfdeclarelindenmayersystem{Hilbert spiral}{
-  \rule{s -> +cyFcz+F+czF-g}
-  \rule{c -> c.}
-  \rule{.x -> xx}
-  \rule{.y -> yy}
-  \rule{.z -> zz}
-  \rule{g -> G}
-  \rule{x -> L}
-  \rule{y -> R}
-  \rule{z -> Z}
+  \rule{s -> +RFZ+F+ZF-G}
   \rule{G -> +RF-LFL-FZ+}
   \rule{Z -> RF-LFL-FR}
   \rule{L -> +RF-LFL-FR+}
