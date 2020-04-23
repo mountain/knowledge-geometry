@@ -74,9 +74,8 @@
 
 \begin{abstract}
     Hilbert curve is a space-filling curve that fills the unit square.
-    Based on a construction of a Hilbert-type curve $\leftidx{_4}{H}{_4}$ of Liu,
-    we give the construction of Hilbert spiral which fills the whole Euclidean plane $E_2$,
-    and a conterpart construction on hyperbolic plane $H_2$.
+    Based on Hilbert-type curves, we give the construction of Hilbert spiral
+    which fills the whole Euclidean plane $E_2$, and its counterpart on hyperbolic plane $H_2$.
     By using the perpendicular and parallel relationship introduced by Hilbert spiral in $H_2$,
     we can define a special conformal flow which leads us to a new proof of Riemann mapping theorem.
 \end{abstract}
@@ -245,80 +244,116 @@ can be constructed by
 
 \section{Hilbert spiral}\label{sec:space-filling}
 
-Using above two curves as component, we can give the construction of Hilbert spiral.
+Using Hilbert curve and $\leftidx{_4}{H}{_4}$ of Liu as components, we can give the construction of Hilbert spiral.
+The basic idea is quite simple - besides the standard downward recursive construction of Hilbert-type curves,
+we add an upward process to make a spiral.
 
-\begin{itemize}
-  \item axiom: G
-  \item scale factor: 0.5
-  \item rules: \begin{itemize}
-      \item[$\circ$] $G \mapsto +RF-LFL-FZ+ $
-      \item[$\circ$] $Z \mapsto RF-LFL-FR $
-      \item[$\circ$] $L \mapsto +RF-LFL-FR+ $
-      \item[$\circ$] $R \mapsto -LF+RFR+FL- $
-  \end{itemize}
-\end{itemize}
 
-\pgfdeclarelindenmayersystem{Hilbert spiral}{
-  \rule{s -> Z+F+ZFRFZ+F+ZF-G}
+\pgfdeclarelindenmayersystem{Hilbert spiral 1}{
+  \rule{s1 -> ZFZ+F+ZF-G}
+  \rule{G -> +RF-LFL-FZ+}
+  \rule{Z -> RF-LFL-FR}
+  \rule{L -> +RF-LFL-FR+}
+  \rule{R -> -LF+RFR+FL-}
+}
+\pgfdeclarelindenmayersystem{Hilbert spiral 2}{
+  \rule{s2 -> ZFRFZ+F+Z+F+ZFRFZ+F+ZF-G}
+  \rule{G -> +RF-LFL-FZ+}
+  \rule{Z -> RF-LFL-FR}
+  \rule{L -> +RF-LFL-FR+}
+  \rule{R -> -LF+RFR+FL-}
+}
+\pgfdeclarelindenmayersystem{Hilbert spiral 3}{
+  \rule{s3 -> ZFRFRFZ+F+Z+F+Z+F+ZFRFRFZ+F+Z+F+ZFRFZ+F+ZF-G}
+  \rule{G -> +RF-LFL-FZ+}
+  \rule{Z -> RF-LFL-FR}
+  \rule{L -> +RF-LFL-FR+}
+  \rule{R -> -LF+RFR+FL-}
+}
+\pgfdeclarelindenmayersystem{Hilbert spiral 4}{
+  \rule{s4 -> ZFRFRFRFZ+F+Z+F+Z+F+Z+F+ZFRFRFRFZ+F+Z+F+Z+F+ZFRFRFZ+F+Z+F+ZFRFZ+F+ZF-G}
   \rule{G -> +RF-LFL-FZ+}
   \rule{Z -> RF-LFL-FR}
   \rule{L -> +RF-LFL-FR+}
   \rule{R -> -LF+RFR+FL-}
 }
 
+
 \begin{figure}[ht]
 \centering
-\begin{tabular}{c}
-\begin{tabular}{c}
-    \begin{tikzpicture}
-        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
-        [l-system={Hilbert spiral, axiom=s, order=1, step=64pt, angle=90}]
-        lindenmayer system;
-    \end{tikzpicture}
-\end{tabular}
-\\
+\begin{tabular}{cccc}
 \begin{tabular}{c}
     \begin{tikzpicture}
         \shadedraw [bottom color=white, top color=white, draw=red!80!black]
-        [l-system={Hilbert spiral, axiom=s, order=2, step=32pt, angle=90}]
+        [l-system={Hilbert spiral 1, axiom=s1, order=2, step=16pt, angle=90}]
         lindenmayer system;
     \end{tikzpicture}
 \end{tabular}
-\\
+&
 \begin{tabular}{c}
     \begin{tikzpicture}
         \shadedraw [bottom color=white, top color=white, draw=red!80!black]
-        [l-system={Hilbert spiral, axiom=s, order=3, step=16pt, angle=90}]
+        [l-system={Hilbert spiral 2, axiom=s2, order=2, step=16pt, angle=90}]
         lindenmayer system;
     \end{tikzpicture}
 \end{tabular}
-\\
+&
 \begin{tabular}{c}
     \begin{tikzpicture}
         \shadedraw [bottom color=white, top color=white, draw=red!80!black]
-        [l-system={Hilbert spiral, axiom=s, order=4, step=8pt, angle=90}]
+        [l-system={Hilbert spiral 3, axiom=s3, order=2, step=16pt, angle=90}]
         lindenmayer system;
     \end{tikzpicture}
 \end{tabular}
-\\
+&
 \begin{tabular}{c}
     \begin{tikzpicture}
         \shadedraw [bottom color=white, top color=white, draw=red!80!black]
-        [l-system={Hilbert spiral, axiom=s, order=5, step=4pt, angle=90}]
+        [l-system={Hilbert spiral 4, axiom=s4, order=2, step=16pt, angle=90}]
         lindenmayer system;
     \end{tikzpicture}
 \end{tabular}
-\\
+\end{tabular}
+\caption{the upward construction of Hilbert spiral}
+\end{figure}
+
+
+\begin{figure}[ht]
+\centering
+\begin{tabular}{cccc}
 \begin{tabular}{c}
     \begin{tikzpicture}
         \shadedraw [bottom color=white, top color=white, draw=red!80!black]
-        [l-system={Hilbert spiral, axiom=s, order=6, step=2pt, angle=90}]
+        [l-system={Hilbert spiral 1, axiom=s1, order=2, step=16pt, angle=90}]
         lindenmayer system;
     \end{tikzpicture}
 \end{tabular}
-\\
+&
+\begin{tabular}{c}
+    \begin{tikzpicture}
+        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
+        [l-system={Hilbert spiral 2, axiom=s2, order=3, step=8pt, angle=90}]
+        lindenmayer system;
+    \end{tikzpicture}
 \end{tabular}
-\caption{the construction of Hilbert spiral}
+&
+\begin{tabular}{c}
+    \begin{tikzpicture}
+        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
+        [l-system={Hilbert spiral 3, axiom=s3, order=4, step=4pt, angle=90}]
+        lindenmayer system;
+    \end{tikzpicture}
+\end{tabular}
+&
+\begin{tabular}{c}
+    \begin{tikzpicture}
+        \shadedraw [bottom color=white, top color=white, draw=red!80!black]
+        [l-system={Hilbert spiral 4, axiom=s4, order=5, step=2pt, angle=90}]
+        lindenmayer system;
+    \end{tikzpicture}
+\end{tabular}
+\end{tabular}
+\caption{the construction of Hilbert spiral with upward and downward process together}
 \end{figure}
 
 \section{A flow on $H_2$}\label{sec:flow}
