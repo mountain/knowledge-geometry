@@ -83,7 +83,12 @@
 
 \subsection{Arithmetical expressions}\label{sec:expressions}
 
-Arithmetical expression set $A_n$ is expressions freely generated from
+Euler's number $e$ is irrational and transcendental, the first 50 decimals of e is
+$$
+e = 2.71828182845904523536028747135266249775724709369995...
+$$
+
+We consider the arithmetical expression set $A_n$ which is freely generated from
 \begin{itemize}
     \item initial operand: $0$
     \item operator $\oplus_n: x \mapsto x + 2^{-n}$
@@ -91,12 +96,17 @@ Arithmetical expression set $A_n$ is expressions freely generated from
     \item operator: $\otimes_n: x \mapsto x \cdot e^{2^{-n}}$
     \item operator: $\oslash_n: x \mapsto x / e^{2^{-n}}$
 \end{itemize}
+where e is the Euler's number.
 
 With $A_n$ defined as above, we have a chain of inclusion
 \begin{lemma}
 \label{lemma:chainofinclusion}
+We have
 $$ A_0 \subset A_1 \subset A_2 \subset \ldots \subset A_n \subset \ldots $$
+hold for all $n$.
 \end{lemma}
+
+\subsubsection{Syntactical discussion}\label{sec:syntactical}
 
 The inverse notion can be introduced
 \begin{itemize}
@@ -134,11 +144,47 @@ Or under the path notion
 $$\alpha = \beta a_n^{-1} a_{n-1}^{-1} ... a_2^{-1} a_1^{-1}$$
 
 \qedhere
-
 \end{proof}
 
-If we treat each elements of $A_n$ as a calculation path from $0$ by applying a serial of operators,
-we will get the path group $\mathcal{P}$ which is obviously non-abelian.
+After intruduce of a zero operator $\odot$ which is its own inverse:
+\begin{itemize}
+    \item $\odot: x \mapsto x$
+    \item $\odot^{-1} = \odot$
+\end{itemize}
+
+Informally We can divide a long calculation into pieces, or composite small pieces of calculations into a longer one,
+for example
+
+$$\gamma = 0 a_1 a_2 ... a_{n-1} a_n b_1 b2 ... b_{m-1} b_m$$
+
+can be rewritten as
+
+$$\gamma = 0 ((\odot a_1 a_2 ... a_{n-1} a_n) \circ (\odot b_1 b2 ... b_{m-1} b_m))$$
+
+And if we treat $\odot$ and $0$ as the same, and we define
+
+$$\alpha = 0 a_1 a_2 ... a_{n-1} a_n$$
+$$\beta = 0 b_1 b2 ... b_{m-1} b_m$$
+
+We have
+
+$$\gamma = \alpha \circ \beta$$
+
+where $\alpha$, $\beta$ and $\gamma$ are all well defined in of $A_n$.
+
+It is easy to see the algebraic structure $\mathcal{P} = (A_n, \circ)$ is a group, and we can verify it is non-abelian.
+
+\begin{lemma}
+\label{lemma:nonabelian}
+The path group $\mathcal{P} = (A_n, \circ)$ is non-abelian
+\end{lemma}
+
+\begin{proof}
+Notice that $x \oplus_n \otimes_n \neq x \otimes_n \oplus_n$ when $x \neq 0$
+\qedhere
+\end{proof}
+
+\subsubsection{Semantical discussion}\label{sec:semantical}
 
 The result of each calculation is a mapping $Val$ from $\mathcal{P}$ to real number $R$ which keeps the group structure
 $$ Val: \mathcal{P} \to R $$
