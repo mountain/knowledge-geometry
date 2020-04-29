@@ -81,8 +81,77 @@
 
 \section{Background}\label{sec:background}
 
-All the arithmetical expressions generated from $\{0, +1, \cdot e\}$, denoted as $A_1$,
-can be embedded into Hyperbolic plane $H_2$ as a regular tree which is an infinite tree of degree 4.
+\subsection{Arithmetical expressions}\label{sec:expressions}
+
+Arithmetical expression set $A_n$ is expressions freely generated from
+\begin{itemize}
+    \item initial operand: $0$
+    \item operator $\oplus_n: x \mapsto x + 2^{-n}$
+    \item operator: $\ominus_n: x \mapsto x - 2^{-n}$
+    \item operator: $\otimes_n: x \mapsto x \cdot e^{2^{-n}}$
+    \item operator: $\oslash_n: x \mapsto x / e^{2^{-n}}$
+\end{itemize}
+
+With $A_n$ defined as above, we have a chain of inclusion
+\begin{lemma}
+\label{lemma:chainofinclusion}
+$$ A_0 \subset A_1 \subset A_2 \subset \ldots \subset A_n \subset \ldots $$
+\end{lemma}
+
+The inverse notion can be introduced
+\begin{itemize}
+    \item $\oplus_n^{-1} = \ominus_n$
+    \item $\ominus_n^{-1} = \oplus_n$
+    \item $\otimes_n^{-1} = \oslash_n$
+    \item $\oslash_n^{-1} = \otimes_n$
+\end{itemize}
+
+Suppose we have a operand $\alpha \in A_n $ and a series of operators $a_1, a_2, ... a_{n-1}, a_n$,
+we introduce the path notion:
+$$\alpha a_1 a_2 ... a_{n-1} a_n = a_n( a_{n-1}( ... a_2( a_1(\alpha) ) ... ) )$$
+
+Then we have the calculation rule of inverse.
+
+\begin{lemma}
+\label{lemma:inverserule}
+If we have
+$$\beta = \alpha a_1 a_2 ... a_{n-1} a_n$$
+then
+$$\alpha = \beta a_n^{-1} a_{n-1}^{-1} ... a_2^{-1} a_1^{-1}$$
+\end{lemma}
+
+\begin{proof}
+Notice that $\oplus_n, \ominus_n, \otimes_n, \oslash_n$ are all bijections, we know that $\alpha a_1 a_2 ... a_{n-1} a_n$ is a composition of functions
+
+$$\beta = a_n( a_{n-1}( ... a_2( a_1(\alpha) ) ... ) )$$
+
+Considering the inverse of a composition, we have
+
+$$\alpha = a_1^{-1}( a_2^{-1}( ... a_{n-1}^{-1}( a_n^{-1}(\beta) ) ... ) )$$
+
+Or under the path notion
+
+$$\alpha = \beta a_n^{-1} a_{n-1}^{-1} ... a_2^{-1} a_1^{-1}$$
+
+\qedhere
+
+\end{proof}
+
+\begin{lemma}
+\label{lemma:groupofexpressions}
+If we have
+$$\beta = \alpha a_1 a_2 ... a_{n-1} a_n$$
+then
+$$\alpha = \beta a_n^{-1} a_{n-1}^{-1} ... a_2^{-1} a_1^{-1}$$
+\end{lemma}
+
+\subsection{Order-4 apeirogonal tiling}\label{sec:o4tiling}
+
+\subsection{Lindemann–Weierstrass theorem}\label{sec:lindemann}
+
+\section{An embedding from generated expressions to hyperbolic surface}\label{sec:embeding}
+
+$A_0$ can be embedded into Hyperbolic plane $H_2$ as a regular tree which is an infinite tree of degree 4.
 
 \begin{figure}[ht]
 \centering
@@ -99,122 +168,6 @@ can be embedded into Hyperbolic plane $H_2$ as a regular tree which is an infini
 \end{tikzpicture}
 \caption{Embedding of the expressions}
 \end{figure}
-
-\subsection{Binary expression tree}\label{sec:btree}
-
-As we show later, all the fixed addition-multiplication trees can be formed into a background space,
-where all the addition-multiplication trees can be appropriately representated in this background space.
-
-\begin{definition}
-An addition-multiplication tree is an arithmetical expression which owns arbitrary valid summands or arbitrary valid multipliers.
-\end{definition}
-
-\begin{definition}
-A fixed addition-multiplication tree is an arithmetical expression which owns fixed summands $1, -1$
-or fixed multipliers $e, e^{-1}$.
-\end{definition}
-
-Here is some examples of fixed addition-multiplication trees
-\begin{itemize}
-    \item $1 + 1 + 1 + 1$
-    \item $n$ as $1 + 1 + ... + 1$
-    \item $e^n$ as $e e ... e$
-    \item $(e - 1) / e $
-    \item the values defined by the iteration $x_{n+1} = e (x_n + 1), x_0 = 0$
-\end{itemize}
-
-We can express fixed addition-multiplication trees in a simplified postfix notion other than the normal infix notation.
-
-\begin{definition}
-    The grammar of the simplified postfix notion
-    \begin{itemize}
-    \item $\langle Expression \rangle \coloneqq \langle Operand \rangle \langle Operators \rangle$
-    \item $\langle Operand \rangle \coloneqq 0$
-    \item $\langle Operators \rangle \coloneqq \langle Operator \rangle \langle Operators \rangle$
-    \item $\langle Operator \rangle \coloneqq \epsilon | + | - | * | /$
-    \end{itemize}
-\end{definition}
-
-And we can define the semantics of the simplified postfix expression layer by layer as below
-
-\begin{definition}
-    The semantics of the simplified postfix notion
-    \begin{itemize}
-    \item $\llbracket\langle Expression \rangle\rrbracket = \llbracket\langle Operators \rangle\rrbracket (\llbracket\langle Operand \rangle\rrbracket)$
-    \item $\llbracket\langle Operand \rangle\rrbracket = 0$
-    \item $\llbracket\langle Operators \rangle\rrbracket =  \llbracket\langle Operators \rangle\rrbracket \circ \llbracket\langle Operator \rangle\rrbracket$
-    \item $\llbracket\langle Operator \rangle\rrbracket = \llbracket\epsilon\rrbracket | \llbracket+\rrbracket | \llbracket-\rrbracket | \llbracket*\rrbracket | \llbracket/\rrbracket$
-    \item $\llbracket\epsilon\rrbracket = id$
-    \item $\llbracket+\rrbracket = incr$
-    \item $\llbracket-\rrbracket = decr$
-    \item $\llbracket*\rrbracket = expn$
-    \item $\llbracket/\rrbracket = shrn$
-    \item $id(x) = x$
-    \item $incr(x) = x + 1$
-    \item $decr(x) = x - 1$
-    \item $expn(x) = e x$
-    \item $shrn(x) = \frac{x}{e}$
-    \end{itemize}
-\end{definition}
-
-So we rewrite the above examples in the postfix notion correspondingly
-
-\begin{itemize}
-    \item $0++++$
-    \item $0++++...+++$: totally n plus sign are in the string
-    \item $0+***...***$: totally n multiply sign are in the string
-    \item $0+*-/$
-    \item $0+*+*+*.../$
-\end{itemize}
-
-Let us introduce the inverse notion
-
-\begin{convention}
-    The inverse notion
-    \begin{itemize}
-        \item $+^{-1} = -$
-        \item $-^{-1} = +$
-        \item $*^{-1} = /$
-        \item $/^{-1} = *$
-    \end{itemize}
-\end{convention}
-
-In fact, with a minor change on the grammar, we can change the initial operand to be any number.
-Assume we have one expression and the operand is $\alpha$, the operations are $a_1 a_2 ... a_{n-1} a_n$, and the
-result of the expression is $\beta$, hence we have $\beta = \alpha a_1 a_2 ... a_{n-1} a_n$
-
-\begin{lemma}
-\label{lemma:inverse}
-If we have
-$$\beta = \alpha a_1 a_2 ... a_{n-1} a_n$$
-then
-$$\alpha = \beta a_n^{-1} a_{n-1}^{-1} ... a_2^{-1} a_1^{-1}$$
-\end{lemma}
-
-\begin{proof}
-Notice that $+, -, *, /$ are all bijections, we know that $\alpha a_1 a_2 ... a_{n-1} a_n$ is a composition of functions
-
-$$\beta = a_n( a_{n-1}( ... a_2( a_1(\alpha) ) ... ) )$$
-
-Considering the inverse of a composition, we have
-
-$$\alpha = a_1^{-1}( a_2^{-1}( ... a_{n-1}^{-1}( a_n^{-1}(\beta) ) ... ) )$$
-
-Or under the simplified postfix notion
-
-$$\alpha = \beta a_n^{-1} a_{n-1}^{-1} ... a_2^{-1} a_1^{-1}$$
-
-\qedhere
-
-\end{proof}
-
-\subsection{Order-4 apeirogonal tiling}\label{sec:o4tiling}
-
-\subsection{Lindemann–Weierstrass theorem}\label{sec:lindemann}
-
-\section{An embedding from generated expressions to hyperbolic surface}\label{sec:embeding}
-
-\newpage
 
 \section{A kind of new infinitesimal calculation}\label{sec:akonic}
 
