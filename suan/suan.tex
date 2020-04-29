@@ -26,6 +26,8 @@
 \usepackage{stmaryrd}
 \usepackage{mathtools}
 
+\usepackage{tikz}
+
 \title{Suan: towards a geometry of computation}
 
 %\date{September 9, 1985}	% Here you can change the date presented in the paper title
@@ -77,17 +79,28 @@
 \setcounter{tocdepth}{2}
 \tableofcontents
 
-\section{The algebraic structure of arithmetical expressions}\label{sec:discrete}
+\section{Background}\label{sec:background}
 
-\subsection{Addition-multiplication tree, simplified postfix notation}\label{sec:amt}
+All the arithmetical expressions generated from $\{0, +1, \cdot e\}$, denoted as $A_1$,
+can be embedded into Hyperbolic plane $H_2$ as a regular tree which is an infinite tree of degree 4.
 
-Traditionally, we can express the most frequently-used mathematical functions by Taylor series,
-so we can carry the computation by applying a serial of addition and multiplication on some numbers, or an arithmetical
-expression.
-Any addition-multiplication expression can be formed into a binary tree, while pure numbers are leaves,
-and addition or multiplication operators are at the branches. In this article, we study general arithmetical
-expressions, or addition-multiplication trees as we named; and for a specific kind of addition-multiplication tree
-that holds a fixed summand $1$ or a fixed multiplier $e$, and we name them as fixed addition-multiplication tree.
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+    \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
+    \draw (-4.40, +4.60) node[inner sep=1pt] (s) {$0 - 1$};
+    \draw (-2.00, +2.80) node[inner sep=1pt] (z) {$0$};
+    \draw (+2.90, +1.60) node[inner sep=1pt] (a) {$0 + 1$};
+    \draw (+6.00, +1.60) node[inner sep=1pt] (aa) {$0 + 1 + 1$};
+    \draw (+3.00, +5.00) node[inner sep=1pt] (am) {$(0 + 1) \cdot e$};
+    \draw (+4.00, -2.00) node[inner sep=1pt] (ad) {$(0 + 1) / e$};
+    \draw (-0.80, +6.20) node[inner sep=1pt] (m) {$0 \cdot e$};
+    \draw (-4.90, +0.40) node[inner sep=1pt] (d) {$0 / e$};
+\end{tikzpicture}
+\caption{Embedding of the expressions}
+\end{figure}
+
+\subsection{Binary expression tree}\label{sec:btree}
 
 As we show later, all the fixed addition-multiplication trees can be formed into a background space,
 where all the addition-multiplication trees can be appropriately representated in this background space.
@@ -195,15 +208,11 @@ $$\alpha = \beta a_n^{-1} a_{n-1}^{-1} ... a_2^{-1} a_1^{-1}$$
 
 \end{proof}
 
-\newpage
+\subsection{Order-4 apeirogonal tiling}\label{sec:o4tiling}
 
-\section{Some geometric constructions on hyperbolic surface}\label{sec:geometry}
+\subsection{Lindemann–Weierstrass theorem}\label{sec:lindemann}
 
-\subsection{Order-4 apeirogonal tiling}\label{sec:o4ataamt}
-
-\newpage
-
-\section{An embeding from generated expressions to hyperbolic surface}\label{sec:embeding}
+\section{An embedding from generated expressions to hyperbolic surface}\label{sec:embeding}
 
 \newpage
 
