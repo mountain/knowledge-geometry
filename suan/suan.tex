@@ -108,6 +108,9 @@ hold for all $n$.
 
 \subsubsection{Syntactical discussion}\label{sec:syntactical}
 
+In this section, we discus the conclusions that is drawn only from the syntactical side of the definition of $A_n$ and
+do not borrow any semantic properties from the value of R.
+
 The inverse notion can be introduced
 \begin{itemize}
     \item $\oplus_n^{-1} = \ominus_n$
@@ -172,7 +175,12 @@ $$\gamma = \alpha \circ \beta$$
 
 where $\alpha$, $\beta$ and $\gamma$ are all well defined in of $A_n$.
 
-It is easy to see the algebraic structure $\mathcal{P} = (A_n, \circ)$ is a group, and we can verify it is non-abelian.
+It is easy to see the algebraic structure $\mathcal{P} = (A_n, \circ)$ is a group, and we call it \emph{path group}.
+
+\subsubsection{Semantical discussion}\label{sec:semantical}
+
+In this section, we study the conclusions related with the calculation result from each expression of $A_n$.
+For example, we can verify path group $\mathcal{P}$ is non-abelian by calculating the result at point $0$.
 
 \begin{lemma}
 \label{lemma:nonabelian}
@@ -180,14 +188,12 @@ The path group $\mathcal{P} = (A_n, \circ)$ is non-abelian
 \end{lemma}
 
 \begin{proof}
-Notice that $x \oplus_n \otimes_n \neq x \otimes_n \oplus_n$ when $x \neq 0$
+Notice that $0 \oplus_n \otimes_n \neq 0 \otimes_n \oplus_n$
 \qedhere
 \end{proof}
 
-\subsubsection{Semantical discussion}\label{sec:semantical}
-
-The result of each calculation is a mapping $Val$ from $\mathcal{P}$ to real number $R$ which keeps the group structure
-$$ Val: \mathcal{P} \to R $$
+The result of each calculation is a mapping $Val$ from $A_n$ to real number $R$
+$$ Val: A_n \to R $$
 
 \subsection{Order-4 apeirogonal tiling}\label{sec:o4tiling}
 
