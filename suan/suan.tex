@@ -106,7 +106,7 @@ $$ A_0 \subset A_1 \subset A_2 \subset \ldots \subset A_n \subset \ldots $$
 hold for all $n$.
 \end{lemma}
 
-\subsubsection{Syntactical discussion}\label{sec:syntactical}
+\subsubsection{Conclusions from the generating}\label{sec:generating}
 
 In this section, we discus the conclusions that is drawn only from the syntactical side of the definition of $A_n$ and
 do not borrow any semantic properties from the value of R.
@@ -177,7 +177,38 @@ where $\alpha$, $\beta$ and $\gamma$ are all well defined in of $A_n$.
 
 It is easy to see the algebraic structure $\mathcal{P} = (A_n, \circ)$ is a group, and we call it \emph{path group}.
 
-\subsubsection{Semantical discussion}\label{sec:semantical}
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+
+\filldraw [black] (0,0) circle (2pt) node[align=center, below] {0};
+\filldraw [black] (4,1) circle (2pt) node[align=center, below] {$\alpha$};
+\filldraw [black] (2,3) circle (2pt) node[align=center, below] {$\beta$};
+\filldraw [black] (5,3) circle (2pt) node[align=center, below] {$\gamma$};
+\filldraw [black] (-2,2) circle (2pt) node[align=center, below] {$\psi$};
+\filldraw [black] (1,2) circle (2pt) node[align=center, below] {$\phi$};
+\filldraw [gray] (3,-0.4) circle (0pt) node[align=center, below] {$x$};
+\filldraw [gray] (3,1.8) circle (0pt) node[align=center, below] {$y$};
+\filldraw [gray] (4.7,2) circle (0pt) node[align=center, below] {$z$};
+\draw [gray] (0,0) to[out=300,in=240] (4,1);
+\draw [gray] (4,1) to[out=120,in=300] (2,3);
+\draw [gray] (4,1) to[out=60,in=240] (5,3);
+\draw [gray] (0,0) to[out=120,in=300] (-2,2);
+\draw [gray] (0,0) to[out=60,in=240] (1,2);
+\filldraw [gray] (-1,0.8) circle (0pt) node[align=center, below] {$y$};
+\filldraw [gray] (0.7,1) circle (0pt) node[align=center, below] {$z$};
+
+\end{tikzpicture}
+\caption{Factorization by greatest common divisor}
+\end{figure}
+
+\begin{lemma}
+\label{lemma:coprimes}
+When $\alpha = gcd(\beta, \gamma)$, and $\beta = \alpha \circ \psi$, $\gamma = \alpha \circ \phi$ hold, we have $\psi$ and $\phi$ are coprimes.
+\end{lemma}
+
+
+\subsubsection{Conclusions from the calculation}\label{sec:calculation}
 
 In this section, we study the conclusions related with the calculation result from each expression of $A_n$.
 For example, we can verify path group $\mathcal{P}$ is non-abelian by calculating the result at point $0$.
