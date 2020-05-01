@@ -79,9 +79,7 @@
 \setcounter{tocdepth}{2}
 \tableofcontents
 
-\section{Background}\label{sec:background}
-
-\subsection{Arithmetical expressions}\label{sec:expressions}
+\section{Arithmetical expressions}\label{sec:expressions}
 
 Euler's number $e$ is irrational and transcendental, the first 50 decimals of e is
 $$
@@ -106,7 +104,7 @@ $$ A_0 \subset A_1 \subset A_2 \subset \ldots \subset A_n \subset \ldots $$
 hold for all $n$.
 \end{lemma}
 
-\subsubsection{Conclusions from the generating}\label{sec:generating}
+\subsection{Syntactical conclusions from the generating}\label{sec:generating}
 
 In this section, we discus the conclusions that is drawn only from the syntactical side of the definition of $A_n$ and
 do not borrow any semantic properties from the value of R.
@@ -175,7 +173,7 @@ $$\gamma = \alpha \circ \beta$$
 
 where $\alpha$, $\beta$ and $\gamma$ are all well defined in of $A_n$.
 
-It is easy to see the algebraic structure $\mathcal{P} = (A_n, \circ)$ is a group, and we call it \emph{path group}.
+It is easy to see the algebraic structure $\mathcal{P}_n = (A_n, \circ)$ is a group, and we call it \emph{path group}.
 
 \begin{figure}[ht]
 \centering
@@ -208,14 +206,14 @@ When $\alpha = gcd(\beta, \gamma)$, and $\beta = \alpha \circ \psi$, $\gamma = \
 \end{lemma}
 
 
-\subsubsection{Conclusions from the calculation}\label{sec:calculation}
+\subsection{Semantic conclusions from the calculation}\label{sec:calculation}
 
 In this section, we study the conclusions related with the calculation result from each expression of $A_n$.
-For example, we can verify path group $\mathcal{P}$ is non-abelian by calculating the result at point $0$.
+For example, we can verify path group $\mathcal{P}_n$ is non-abelian by calculating the result at point $0$.
 
 \begin{lemma}
 \label{lemma:nonabelian}
-The path group $\mathcal{P} = (A_n, \circ)$ is non-abelian
+The path group $\mathcal{P}_n = (A_n, \circ)$ is non-abelian
 \end{lemma}
 
 \begin{proof}
@@ -223,10 +221,90 @@ Notice that $0 \oplus_n \otimes_n \neq 0 \otimes_n \oplus_n$
 \qedhere
 \end{proof}
 
+We can consider two subgroup $\mathcal{N}_n$ and $\mathcal{Q}_n$ of $\mathcal{P}_n$.
+
+The subgroup $\mathcal{N}_n$ are all expressions freely generated from
+\begin{itemize}
+    \item initial operand: $0$
+    \item operator: $\otimes_n: x \mapsto x \cdot e^{2^{-n}}$
+    \item operator: $\oslash_n: x \mapsto x / e^{2^{-n}}$
+\end{itemize}
+
+The subgroup $\mathcal{Q}_n$ of $\mathcal{P}_n$ are all expressions freely generated from
+\begin{itemize}
+    \item initial operand: $0$
+    \item operator $\oplus_n: x \mapsto x + 2^{-n}$
+    \item operator: $\ominus_n: x \mapsto x - 2^{-n}$
+\end{itemize}
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+
+\filldraw [black] (0,0) circle (2pt) node[align=center, below] {0};
+\filldraw [black] (4,1) circle (2pt) node[align=center, below] {$\alpha$};
+\filldraw [black] (2,3) circle (2pt) node[align=center, below] {$\beta$};
+\filldraw [black] (5,3) circle (2pt) node[align=center, below] {$\gamma$};
+\filldraw [black] (-2,2) circle (2pt) node[align=center, below] {$\psi$};
+\filldraw [black] (1,2) circle (2pt) node[align=center, below] {$\phi$};
+\filldraw [gray] (3,-0.4) circle (0pt) node[align=center, below] {$x$};
+\filldraw [gray] (3,1.8) circle (0pt) node[align=center, below] {$y$};
+\filldraw [gray] (4.7,2) circle (0pt) node[align=center, below] {$z$};
+\draw [gray] (0,0) to[out=300,in=240] (4,1);
+\draw [gray] (4,1) to[out=120,in=300] (2,3);
+\draw [gray] (4,1) to[out=60,in=240] (5,3);
+\draw [gray] (0,0) to[out=120,in=300] (-2,2);
+\draw [gray] (0,0) to[out=60,in=240] (1,2);
+\filldraw [gray] (-1,0.8) circle (0pt) node[align=center, below] {$y$};
+\filldraw [gray] (0.7,1) circle (0pt) node[align=center, below] {$z$};
+
+\end{tikzpicture}
+\caption{Normality of $\mathcal{N}_n $}
+\end{figure}
+
+\begin{lemma}
+\label{lemma:normalofn}
+The subgroup $\mathcal{N}_n $ is a normal subgroup of $\mathcal{P}_n$.
+\end{lemma}
+
+\begin{proof}
+Notice that $0 \oplus_n \otimes_n \neq 0 \otimes_n \oplus_n$
+\qedhere
+\end{proof}
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+
+\filldraw [black] (0,0) circle (2pt) node[align=center, left] {0};
+\filldraw [black] (4,0) circle (2pt) node[align=center, below] {$\alpha = $};
+\filldraw [black] (1,2) circle (2pt) node[align=center, below] {$\beta$};
+\filldraw [black] (-1,-2) circle (2pt) node[align=center, below] {$\beta^{-1}$};
+\filldraw [black] (5,2) circle (2pt) node[align=center, below] {$\alpha \circ \beta$};
+\filldraw [gray] (2,-0.4) circle (0pt) node[align=center, below] {$n$};
+\filldraw [gray] (0.7,1) circle (0pt) node[align=center, below] {$x$};
+\draw [gray] (0,0) to[out=0,in=180] (4,0);
+\draw [gray] (0,0) to[out=90,in=240] (1,2);
+\draw [gray] (0,0) to[out=-90,in=60] (-1,-2);
+
+\end{tikzpicture}
+\caption{Normality of $\mathcal{Q}_n $}
+\end{figure}
+
+\begin{lemma}
+\label{lemma:normalofq}
+The subgroup $\mathcal{Q}_n $ is a normal subgroup of $\mathcal{P}_n$.
+\end{lemma}
+
+\begin{proof}
+Notice that $0 \oplus_n \otimes_n \neq 0 \otimes_n \oplus_n$
+\qedhere
+\end{proof}
+
+Duality of the two?
+
 The result of each calculation is a mapping $Val$ from $A_n$ to real number $R$
 $$ Val: A_n \to R $$
-
-\subsection{Order-4 apeirogonal tiling}\label{sec:o4tiling}
 
 \subsection{Lindemann–Weierstrass theorem}\label{sec:lindemann}
 
