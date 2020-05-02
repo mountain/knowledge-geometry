@@ -245,24 +245,22 @@ The subgroup $\mathcal{Q}_n$ of $\mathcal{P}_n$ are all expressions freely gener
 \begin{tikzpicture}
 
 \filldraw [black] (0,0) circle (2pt) node[align=center, below] {0};
-\filldraw [black] (4,1) circle (2pt) node[align=center, below] {$\alpha$};
-\filldraw [black] (2,3) circle (2pt) node[align=center, below] {$\beta$};
-\filldraw [black] (5,3) circle (2pt) node[align=center, below] {$\gamma$};
-\filldraw [black] (-2,2) circle (2pt) node[align=center, below] {$\psi$};
-\filldraw [black] (1,2) circle (2pt) node[align=center, below] {$\phi$};
-\filldraw [gray] (3,-0.4) circle (0pt) node[align=center, below] {$x$};
-\filldraw [gray] (3,1.8) circle (0pt) node[align=center, below] {$y$};
-\filldraw [gray] (4.7,2) circle (0pt) node[align=center, below] {$z$};
-\draw [gray] (0,0) to[out=300,in=240] (4,1);
-\draw [gray] (4,1) to[out=120,in=300] (2,3);
-\draw [gray] (4,1) to[out=60,in=240] (5,3);
-\draw [gray] (0,0) to[out=120,in=300] (-2,2);
-\draw [gray] (0,0) to[out=60,in=240] (1,2);
-\filldraw [gray] (-1,0.8) circle (0pt) node[align=center, below] {$y$};
-\filldraw [gray] (0.7,1) circle (0pt) node[align=center, below] {$z$};
+\filldraw [black] (0,4) circle (2pt) node[align=center, right] {$\alpha = \beta^{-1} \circ \alpha \circ \beta$};
+\filldraw [black] (2,1) circle (2pt) node[align=center, right] {$\beta$};
+\filldraw [black] (-2, -1) circle (2pt) node[align=center, left] {$\beta^{-1}$};
+\filldraw [black] (-2, 3) circle (2pt) node[align=center, left] {$\beta^{-1} \circ \alpha$};
+\filldraw [gray] (-0.4, 2) circle (0pt) node[align=center, below] {$n$};
+\filldraw [gray] (-2.4, 1) circle (0pt) node[align=center, below] {$n$};
+\filldraw [gray] (1, 0.3) circle (0pt) node[align=center, below] {$x$};
+\filldraw [gray] (-1, -0.5) circle (0pt) node[align=center, below] {$x^{-1}$};
+\draw [gray] (0,0) to[out=90,in=270] (0,4);
+\draw [gray] (0,0) to[out=330,in=180] (2,1);
+\draw [gray] (0,0) to[out=150,in=0] (-2,-1);
+\draw [gray] (-2,-1) to[out=90,in=270] (-2,3);
+\draw [gray] (-2,3) to[out=330,in=180] (0,4);
 
 \end{tikzpicture}
-\caption{Normality of $\mathcal{N}_n $}
+\caption{If $\mathcal{N}_n $ is normal}
 \end{figure}
 
 \begin{lemma}
@@ -271,7 +269,7 @@ The subgroup $\mathcal{N}_n $ is a normal subgroup of $\mathcal{P}_n$.
 \end{lemma}
 
 \begin{proof}
-Notice that $0 \oplus_n \otimes_n \neq 0 \otimes_n \oplus_n$
+?
 \qedhere
 \end{proof}
 
@@ -280,18 +278,22 @@ Notice that $0 \oplus_n \otimes_n \neq 0 \otimes_n \oplus_n$
 \begin{tikzpicture}
 
 \filldraw [black] (0,0) circle (2pt) node[align=center, left] {0};
-\filldraw [black] (4,0) circle (2pt) node[align=center, below] {$\alpha = $};
+\filldraw [black] (4,0) circle (2pt) node[align=center, right] {$\alpha = \beta^{-1} \circ \alpha \circ \beta$};
 \filldraw [black] (1,2) circle (2pt) node[align=center, below] {$\beta$};
 \filldraw [black] (-1,-2) circle (2pt) node[align=center, below] {$\beta^{-1}$};
-\filldraw [black] (5,2) circle (2pt) node[align=center, below] {$\alpha \circ \beta$};
-\filldraw [gray] (2,-0.4) circle (0pt) node[align=center, below] {$n$};
+\filldraw [black] (3,-2) circle (2pt) node[align=center, below] {$\beta^{-1} \circ \alpha$};
+\filldraw [gray] (2,-0.4) circle (0pt) node[align=center, below] {$q$};
+\filldraw [gray] (1,-2.4) circle (0pt) node[align=center, below] {$q$};
 \filldraw [gray] (0.7,1) circle (0pt) node[align=center, below] {$x$};
+\filldraw [gray] (-0.1,-1) circle (0pt) node[align=center, below] {$x^{-1}$};
 \draw [gray] (0,0) to[out=0,in=180] (4,0);
 \draw [gray] (0,0) to[out=90,in=240] (1,2);
 \draw [gray] (0,0) to[out=-90,in=60] (-1,-2);
+\draw [gray] (-1,-2) to[out=0,in=180] (3,-2);
+\draw [gray] (3,-2) to[out=90,in=240] (4,0);
 
 \end{tikzpicture}
-\caption{Normality of $\mathcal{Q}_n $}
+\caption{If $\mathcal{Q}_n $ is normal}
 \end{figure}
 
 \begin{lemma}
@@ -300,7 +302,7 @@ The subgroup $\mathcal{Q}_n $ is a normal subgroup of $\mathcal{P}_n$.
 \end{lemma}
 
 \begin{proof}
-Notice that $0 \oplus_n \otimes_n \neq 0 \otimes_n \oplus_n$
+?
 \qedhere
 \end{proof}
 
@@ -317,7 +319,7 @@ $$ e = \sum_{k = 1}^\infty \frac{1}{\Gamma(k)} = \sum_{k = 1}^\infty k e^{\gamma
 
 $$\cdots$$
 
-I need to convert the above into a identity with $1$ in the left side and an infinite product in the right side.
+I need to convert the above into an identity with $1$ in the left side and an infinite product in the right side.
 
 \subsection{Lindemann–Weierstrass theorem}\label{sec:lindemann}
 
