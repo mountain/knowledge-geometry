@@ -221,6 +221,9 @@ Notice that $0 \oplus_n \otimes_n \neq 0 \otimes_n \oplus_n$
 \qedhere
 \end{proof}
 
+The result of each calculation is a mapping $Val$ from $A_n$ to real number $R$
+$$ Val: A_n \to R $$
+
 We can consider two subgroup $\mathcal{N}_n$ and $\mathcal{Q}_n$ of $\mathcal{P}_n$.
 
 The subgroup $\mathcal{N}_n$ are all expressions freely generated from
@@ -301,15 +304,20 @@ Notice that $0 \oplus_n \otimes_n \neq 0 \otimes_n \oplus_n$
 \qedhere
 \end{proof}
 
-Duality of the above two subset, and duals to measure the regularity and transcendentality.
+A kind of duality of the above two subset are there, duals to measure the regularity and transcendentality.
 
-https://en.wikipedia.org/wiki/Infinite_product
-https://en.wikipedia.org/wiki/Reciprocal_gamma_function
-https://en.wikipedia.org/wiki/Gamma_function
-https://en.wikipedia.org/wiki/Euler%E2%80%93Mascheroni_constant
+There should be a transcendental dual of below regular formula
+$$ e = \sum_{n = 0}^\infty \frac{1}{n!} = \frac{1}{0!} + \frac{1}{1!} + \frac{1}{2!} + \frac{1}{3!} + \frac{1}{4!} + \cdots $$
 
-The result of each calculation is a mapping $Val$ from $A_n$ to real number $R$
-$$ Val: A_n \to R $$
+I still need time to figure it out, but clues include
+
+$$ e = \sum_{n = 1}^\infty \frac{1}{\Gamma(n)} = \frac{1}{\Gamma(1)} + \frac{1}{\Gamma(2)} + \frac{1}{\Gamma(3)} + \frac{1}{\Gamma(4)} + \frac{1}{\Gamma(5)} + \cdots $$
+
+$$ e = \sum_{k = 1}^\infty \frac{1}{\Gamma(k)} = \sum_{k = 1}^\infty k e^{\gamma k} \prod_{n=1}^\infty \left(1 + \frac{k}{n}\right) e^{-\frac{k}{n}} $$
+
+$$\cdots$$
+
+I need to convert the above into a identity with $1$ in the left side and an infinite product in the right side.
 
 \subsection{Lindemann–Weierstrass theorem}\label{sec:lindemann}
 

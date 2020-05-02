@@ -10,4 +10,4 @@ for i in range(1000):
     cum *= r
     print(i, xs[i], r, cum)
 print(cum)
-print(p)
+print()
