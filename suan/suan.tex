@@ -81,12 +81,31 @@
 
 \section{Arithmetical expressions}\label{sec:expressions}
 
+\begin{lemma}
+\label{lemma:arithmeticalalgebra}
+All arithmetical expressions $A$ over real number $R$ is an algebra $\mathcal{A} = (A, R, \cdot)$.
+\end{lemma}
+
+\begin{proof}
+It is easy to verify the three axioms should be hold by an algebra:
+for any arithmetical expressions $x$, $y$, $z$ and real number $a$, $b$, we have
+\begin{itemize}
+    \item right distributivity: $(x + y) \cdot z = x \cdot z + y \cdot z$
+    \item left distributivity: $z \cdot (x + y) = z \cdot x + z \cdot y$
+    \item compatibility with scalars: $(ax) \cdot (by) = (ab) (x \cdot y)$
+\end{itemize}
+\qedhere
+\end{proof}
+
+It should be noticed that the equality here is equality from R which applying on the calculation result of each expressions.
+We just omitted the technical details of the inductions over the recursive definition of $A$.
+
 Euler's number $e$ is irrational and transcendental, the first 50 decimals of e is
 $$
 e = 2.71828182845904523536028747135266249775724709369995...
 $$
 
-We consider the arithmetical expression set $A_n$ which is freely generated from
+Now we consider the arithmetical expression set $A_n$ which is freely generated from
 \begin{itemize}
     \item initial operand: $0$
     \item operator $\oplus_n: x \mapsto x + 2^{-n}$
@@ -107,7 +126,7 @@ hold for all $n$.
 \subsection{Syntactical conclusions from the generating}\label{sec:generating}
 
 In this section, we discus the conclusions that is drawn only from the syntactical side of the definition of $A_n$ and
-do not borrow any semantic properties from the value of R.
+do not borrow any semantic properties from the algebra of the expressions $\mathcal{A}$.
 
 The inverse notion can be introduced
 \begin{itemize}
@@ -223,6 +242,11 @@ Notice that $0 \oplus_n \otimes_n \neq 0 \otimes_n \oplus_n$
 
 The result of each calculation is a mapping $Val$ from $A_n$ to real number $R$
 $$ Val: A_n \to R $$
+
+But not an arbitrary function from $A_n$ to $R$ can take the role of $Val$ here,
+because $Val$ is uniformed under the generating relationship.
+
+
 
 We can consider two subgroup $\mathcal{N}_n$ and $\mathcal{Q}_n$ of $\mathcal{P}_n$.
 
