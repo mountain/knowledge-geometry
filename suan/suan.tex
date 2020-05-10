@@ -98,7 +98,7 @@ where e is the Euler's number.
 
 With $A_n$ defined as above, we have a chain of inclusion
 \begin{lemma}
-\label{lemma:chainofinclusion}
+\label{lemma:chainofinclusion1}
 We have
 $$ A_0 \subset A_1 \subset A_2 \subset \ldots \subset A_n \subset \ldots $$
 hold for all $n$.
@@ -200,13 +200,20 @@ It is easy to see the algebraic structure $\mathcal{P}_n = (A_n, \circ)$ is a gr
 \caption{Factorization by greatest common divisor}
 \end{figure}
 
+The generating order is a partial order over $A_n$, we assume the later generated one is greater. By using the generating order,
+we can define the concept of greatest common divisor: for any $\beta, \gamma \in A_n$, the greatest common divisor
+$gcd(\beta, \gamma)$ is the greatest common ancestor in the generating relationships.
+So coprime of $\psi, \phi \in A_n$ means $gcd(\psi, \phi) = 0$
+
 \begin{lemma}
 \label{lemma:coprimes}
-When $\alpha = gcd(\beta, \gamma)$, and $\beta = \alpha \circ \psi$, $\gamma = \alpha \circ \phi$ hold, we have $\psi$ and $\phi$ are coprimes.
+When $\alpha = gcd(\beta, \gamma)$, and $\beta = \alpha \circ \psi$, $\gamma = \alpha \circ \phi$ hold, then $\psi$ and $\phi$ are coprimes.
 \end{lemma}
 
-
 \subsection{Semantic conclusions from the calculation}\label{sec:calculation}
+
+In this section, we study the conclusions related with the calculation results for each expression of $A_n$.
+
 \begin{lemma}
 \label{lemma:arithmeticalalgebra}
 All arithmetical expressions $A$ over real number $R$ is an algebra $\mathcal{A} = (A, R, \cdot)$.
@@ -226,8 +233,20 @@ for any arithmetical expressions $x$, $y$, $z$ and real number $a$, $b$, we have
 It should be noticed that the equality here is equality from R which applying on the calculation result of each expressions.
 We just omitted the technical details of the recursive definition of $A$ and the inductive inference over $A$.
 
-In this section, we study the conclusions related with the calculation result in $\mathcal{A}$ for each expression of $A_n$.
+We define $Q_n = \{2^{-n}k | k \in Z\}$, it is easy to know $Q_n$ is a field, and we also have a chain of inclusion
 
+\begin{lemma}
+\label{lemma:chainofinclusion2}
+We have
+$$ Q_0 \subset Q_1 \subset Q_2 \subset \ldots \subset Q_n \subset \ldots $$
+hold for all $n$.
+\end{lemma}
+
+
+\begin{lemma}
+\label{lemma:algebra_n}
+All arithmetical expressions in $A_n$ over $Q_n$ is an algebra $\mathcal{A}_n = (A_n, Q_n, \cdot)$.
+\end{lemma}
 
 
 For example, we can verify path group $\mathcal{P}_n$ is non-abelian by calculating the result at point $0$.
@@ -247,8 +266,6 @@ $$ Val: A_n \to R $$
 
 But not an arbitrary function from $A_n$ to $R$ can take the role of $Val$ here,
 because $Val$ is uniformed under the generating relationship.
-
-
 
 We can consider two subgroup $\mathcal{N}_n$ and $\mathcal{Q}_n$ of $\mathcal{P}_n$.
 
