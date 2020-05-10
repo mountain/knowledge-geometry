@@ -86,8 +86,6 @@ $$
 e = 2.71828182845904523536028747135266249775724709369995...
 $$
 
-Lindemann–Weierstrass theorem
-
 Now we consider the arithmetical expression set $A_n$ which is freely generated from
 \begin{itemize}
     \item initial operand: $0$
@@ -216,14 +214,23 @@ When $\alpha = gcd(\beta, \gamma)$, and $\beta = \alpha \circ \psi$, $\gamma = \
 
 In this section, we study the conclusions related with the calculation results for each expression of $A_n$.
 
+We define $Q_n = \{2^{-n}k | k \in Z\}$, it is easy to know $Q_n$ is a field, and we also have a chain of inclusion
+
+\begin{lemma}
+\label{lemma:chainofinclusion2}
+We have
+$$ Q_0 \subset Q_1 \subset Q_2 \subset \ldots \subset Q_n \subset \ldots \subset Q$$
+hold for all $n$, where $Q$ is rational numbers.
+\end{lemma}
+
 \begin{lemma}
 \label{lemma:arithmeticalalgebra}
-All arithmetical expressions $A$ over real number $R$ is an algebra $\mathcal{A} = (A, R, \cdot)$.
+All arithmetical expressions $A_n$ is an algebra over $Q_n$, or $\mathcal{A} = (A, Q_n, \cdot)$.
 \end{lemma}
 
 \begin{proof}
 It is easy to verify the three axioms should be hold by an algebra:
-for any arithmetical expressions $x$, $y$, $z$ and real number $a$, $b$, we have
+for any arithmetical expressions $x, y, z \in A_n$ and $a, b \in Q_n$, we have
 \begin{itemize}
     \item right distributivity: $(x + y) \cdot z = x \cdot z + y \cdot z$
     \item left distributivity: $z \cdot (x + y) = z \cdot x + z \cdot y$
@@ -232,26 +239,6 @@ for any arithmetical expressions $x$, $y$, $z$ and real number $a$, $b$, we have
 \qedhere
 \end{proof}
 
-It should be noticed that the equality here is equality from R which applying on the calculation result of each expressions.
-We just omitted the technical details of the recursive definition of $A$ and the inductive inference over $A$.
-
-We define $Q_n = \{2^{-n}k | k \in Z\}$, it is easy to know $Q_n$ is a field, and we also have a chain of inclusion
-
-\begin{lemma}
-\label{lemma:chainofinclusion2}
-We have
-$$ Q_0 \subset Q_1 \subset Q_2 \subset \ldots \subset Q_n \subset \ldots $$
-hold for all $n$.
-\end{lemma}
-
-
-\begin{lemma}
-\label{lemma:algebra_n}
-All arithmetical expressions in $A_n$ over $Q_n$ is an algebra $\mathcal{A}_n = (A_n, Q_n, \cdot)$.
-\end{lemma}
-
-And thus,
-
 \begin{lemma}
 \label{lemma:chainofinclusion3}
 We have
@@ -259,10 +246,27 @@ $$ \mathcal{A}_0 \subset \mathcal{A}_1 \subset \mathcal{A}_2 \subset \ldots \sub
 hold for all $n$.
 \end{lemma}
 
-The result of each calculation is a mapping $Val$ from $A_n$ to field $Q_n$
-$$ Val: A_n \to Q_n $$
+An equivalent formulation of Lindemann-Weierstrass theorem is given as below
 
-The mapping $Val$ is a surjection. So, we can verify path group $\mathcal{P}_n$ is non-abelian by calculating the result at point $0$.
+\begin{proposition}
+\label{proposition:LindemannWeierstrass}
+If $\alpha_1, \cdots, \alpha_n$ are distinct algebraic numbers, then $e^{\alpha_1}, \cdots, e^{\alpha_n}$ are linearly independent over the algebraic numbers.
+\end{proposition}
+
+This theorem gives the transcendental nature of $e$. Now, we can study the structure of the values.
+Due to Lindemann-Weierstrass theorem, we have all the values should take the form:
+$$
+a_1 e^{\alpha_1} + \cdots + a_m e^{\alpha_m}
+$$
+where $a_i \in Q_n$ and $\alpha_i \in Q_n$, $i \in \{1, \cdots, m\}$.
+
+And for a specific $n$, all possible values $N_n$ form a ring, we denote the ring as $\mathcal{N}_n = (N_n, +, \cdot)$.
+
+The result of each calculation is a mapping $V_n$ from $A_n$ to $N_n$
+$$ V_n: A_n \to N_n $$
+
+The mapping $V_n$ is a surjection.
+So, we can verify path group $\mathcal{P}_n$ is non-abelian by calculating the result at point $0$.
 
 \begin{lemma}
 \label{lemma:nonabelian}
@@ -270,9 +274,16 @@ The path group $\mathcal{P}_n = (A_n, \circ)$ is non-abelian
 \end{lemma}
 
 \begin{proof}
-Notice that $(0 + 2^{-n}) \cdot 2^{-n} \neq 0 \cdot 2^{-n} + 2^{-n}$, and since $Val$ is a surjection, we know $0 \oplus_n \otimes_n \neq 0 \otimes_n \oplus_n$
+Notice that $(0 + 2^{-n}) \cdot e^{2^{-n}} \neq 0 \cdot e^{2^{-n}} + 2^{-n}$, and since $V_n$ is surjective, we know $0 \oplus_n \otimes_n \neq 0 \otimes_n \oplus_n$
 \qedhere
 \end{proof}
+
+On one hand, we have a path representation of expressions in $A_n$;
+on the other hand, we have norm expressions take the form:
+$$
+a_1 e^{\alpha_1} + \cdots + a_m e^{\alpha_m}
+$$
+where $a_i \in Q_n$ and $\alpha_i \in Q_n$, $i \in \{1, \cdots, m\}$.
 
 \subsection{Ideals of $\mathcal{A}_n$}\label{sec:ideals}
 
