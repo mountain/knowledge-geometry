@@ -248,8 +248,19 @@ hold for all $n$.
 All arithmetical expressions in $A_n$ over $Q_n$ is an algebra $\mathcal{A}_n = (A_n, Q_n, \cdot)$.
 \end{lemma}
 
+And thus,
 
-For example, we can verify path group $\mathcal{P}_n$ is non-abelian by calculating the result at point $0$.
+\begin{lemma}
+\label{lemma:chainofinclusion3}
+We have
+$$ \mathcal{A}_0 \subset \mathcal{A}_1 \subset \mathcal{A}_2 \subset \ldots \subset \mathcal{A}_n \subset \ldots $$
+hold for all $n$.
+\end{lemma}
+
+The result of each calculation is a mapping $Val$ from $A_n$ to field $Q_n$
+$$ Val: A_n \to Q_n $$
+
+The mapping $Val$ is a surjection. So, we can verify path group $\mathcal{P}_n$ is non-abelian by calculating the result at point $0$.
 
 \begin{lemma}
 \label{lemma:nonabelian}
@@ -257,15 +268,10 @@ The path group $\mathcal{P}_n = (A_n, \circ)$ is non-abelian
 \end{lemma}
 
 \begin{proof}
-Notice that $0 \oplus_n \otimes_n \neq 0 \otimes_n \oplus_n$
+Notice that $(0 + 2^{-n}) \cdot 2^{-n} \neq 0 \cdot 2^{-n} + 2^{-n}$, and since $Val$ is a surjection, we know $0 \oplus_n \otimes_n \neq 0 \otimes_n \oplus_n$
 \qedhere
 \end{proof}
 
-The result of each calculation is a mapping $Val$ from $A_n$ to real number $R$
-$$ Val: A_n \to R $$
-
-But not an arbitrary function from $A_n$ to $R$ can take the role of $Val$ here,
-because $Val$ is uniformed under the generating relationship.
 
 We can consider two subgroup $\mathcal{N}_n$ and $\mathcal{Q}_n$ of $\mathcal{P}_n$.
 
