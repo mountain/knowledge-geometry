@@ -90,7 +90,7 @@ $$
 Now we consider the arithmetical expression set $A_n$ which is freely generated from
 \begin{itemize}
     \item initial operand: $0$
-    \item operator $\oplus_n: x \mapsto x + 2^{-n}$
+    \item operator: $\oplus_n: x \mapsto x + 2^{-n}$
     \item operator: $\ominus_n: x \mapsto x - 2^{-n}$
     \item operator: $\otimes_n: x \mapsto x \cdot e^{2^{-n}}$
     \item operator: $\oslash_n: x \mapsto x / e^{2^{-n}}$
@@ -154,7 +154,7 @@ After intruduce of a zero operator $\odot$ which is its own inverse:
     \item $\odot^{-1} = \odot$
 \end{itemize}
 
-Informally We can divide a long calculation into pieces, or composite small pieces of calculations into a longer one,
+Informally wee can divide a long calculation into pieces, or composite small pieces of calculations into a longer one,
 for example
 
 $$\gamma = 0 a_1 a_2 ... a_{n-1} a_n b_1 b2 ... b_{m-1} b_m$$
@@ -254,7 +254,8 @@ An equivalent formulation of Lindemann-Weierstrass theorem is given as below
 If $\alpha_1, \cdots, \alpha_n$ are distinct algebraic numbers, then $e^{\alpha_1}, \cdots, e^{\alpha_n}$ are linearly independent over the algebraic numbers.
 \end{proposition}
 
-This theorem gives the transcendental nature of $e$. Now, we can study the structure of the values.
+This theorem gives the transcendental nature of $e$.
+Now, we can study the structure of the values.
 Due to Lindemann-Weierstrass theorem, we have all the values should take the form:
 $$
 a_1 e^{\alpha_1} + \cdots + a_m e^{\alpha_m}
@@ -262,8 +263,6 @@ $$
 where $a_i \in Q_n$ and $\alpha_i \in Q_n$, $i \in Z$.
 
 And for a specific $n$, all possible values $N_n$ form an algebra, we denote the algebra as $\mathcal{N}_n = (N_n, Q_n, \cdot)$.
-
-$N_n$ hold itself under $\mathcal{P}_n$'s operators and we can embed it properly into $A_n$ by a mapping.
 
 The result of each calculation is a mapping $V_n$ from $A_n$ to $N_n$
 $$ V_n: A_n \to N_n $$
@@ -281,7 +280,47 @@ Notice that $(0 + 2^{-n}) \cdot e^{2^{-n}} \neq 0 \cdot e^{2^{-n}} + 2^{-n}$, an
 \qedhere
 \end{proof}
 
-\subsection{Horner embedding}\label{sec:hornerembedding}
+Let's consider an embedding $H_n$ from $N_n$ to $A_n$
+$$ H_n: N_n \to A_n $$
+which is given by below procedure:
+
+For any
+$$
+a_1 e^{\alpha_1} + \cdots + a_m e^{\alpha_m} \in N_n
+$$
+Assume we had ordered the terms by ascending order of $\alpha_i$, i.e. we have
+$$
+\alpha_1  < \alpha_2 \cdots < \alpha_m
+$$
+and also
+$$
+a_1 \neq 0, a_2 \neq 0, \cdots a_m \neq 0
+$$
+
+We can rewrite it into another form by Horner method, we call this form as Horner norm
+
+$$
+b_m + e^{\beta_m} (b_{m-1} + e^{\beta_{m-1}} ( \cdots (b_1 + b_0 e^{\beta_1}) \cdots ))
+$$
+
+and then we can translate it into path notion equivalently:
+
+$$
+0 \oplus^{b_0} \otimes^{\beta_1} \oplus^{b_1} \cdots \otimes^{\beta_{m-1}} \oplus^{b_{m-1}} \otimes^{\beta_m} \oplus^{b_m}
+$$
+where we improve the notion as
+\begin{itemize}
+    \item operator: $\oplus^k: x \mapsto x + k$, hence $\oplus^k = \oplus_n^{k2^n}$
+    \item operator: $\ominus^k: x \mapsto x - k$, hence $\ominus^k = \ominus_n^{k2^n}$
+    \item operator: $\otimes^k: x \mapsto x \cdot e^k$, hence $\otimes^k = \otimes_n^{k2^n}$
+    \item operator: $\oslash^k: x \mapsto x / e^k$, hence $\oslash^k = \oslash_n^{k2^n}$
+\end{itemize}
+
+We call this embedding $H_n$ as Horner embedding.
+
+At the end of this section, we discuss some combinatorial properties of the Horner norm and the path notion.
+
+
 
 \subsection{Homomorphisms}\label{sec:homomorphisms}
 
