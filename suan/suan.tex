@@ -19,6 +19,7 @@
 \newtheorem{definition}{Definition}
 \newtheorem{lemma}{Lemma}
 \newtheorem{proposition}{Proposition}
+\newtheorem{corollary}{Corollary}
 \newtheorem{program}{Program}
 \newtheorem{convention}{Convention}
 \newtheorem{theorem}{Theorem}
@@ -202,7 +203,7 @@ It is easy to see the algebraic structure $\mathcal{P}_n = (A_n, \circ)$ is a gr
 
 The generating order is a partial order over $A_n$, we assume the later generated one is greater. By using the generating order,
 we can define the concept of greatest common divisor: for any $\beta, \gamma \in A_n$, the greatest common divisor
-$gcd(\beta, \gamma)$ is the greatest common ancestor in the generating relationships.
+$gcd(\beta, \gamma)$ is the greatest common ancestor in the generating tree.
 So coprime of $\psi, \phi \in A_n$ means $gcd(\psi, \phi) = 0$
 
 \begin{lemma}
@@ -225,11 +226,11 @@ hold for all $n$, where $Q$ is rational numbers.
 
 \begin{lemma}
 \label{lemma:arithmeticalalgebra}
-All arithmetical expressions $A_n$ is an algebra over $Q_n$, or $\mathcal{A} = (A, Q_n, \cdot)$.
+All arithmetical expressions $A_n$ is an algebra over $Q_n$, or $\mathcal{A}_n = (A_n, Q_n, \cdot)$.
 \end{lemma}
 
 \begin{proof}
-It is easy to verify the three axioms should be hold by an algebra:
+It is easy to verify the three axioms of an algebra is hold:
 for any arithmetical expressions $x, y, z \in A_n$ and $a, b \in Q_n$, we have
 \begin{itemize}
     \item right distributivity: $(x + y) \cdot z = x \cdot z + y \cdot z$
@@ -258,9 +259,11 @@ Due to Lindemann-Weierstrass theorem, we have all the values should take the for
 $$
 a_1 e^{\alpha_1} + \cdots + a_m e^{\alpha_m}
 $$
-where $a_i \in Q_n$ and $\alpha_i \in Q_n$, $i \in \{1, \cdots, m\}$.
+where $a_i \in Q_n$ and $\alpha_i \in Q_n$, $i \in Z$.
 
-And for a specific $n$, all possible values $N_n$ form a ring, we denote the ring as $\mathcal{N}_n = (N_n, +, \cdot)$.
+And for a specific $n$, all possible values $N_n$ form an algebra, we denote the algebra as $\mathcal{N}_n = (N_n, Q_n, \cdot)$.
+
+$N_n$ hold itself under $\mathcal{P}_n$'s operators and we can embed it properly into $A_n$ by a mapping.
 
 The result of each calculation is a mapping $V_n$ from $A_n$ to $N_n$
 $$ V_n: A_n \to N_n $$
@@ -278,16 +281,9 @@ Notice that $(0 + 2^{-n}) \cdot e^{2^{-n}} \neq 0 \cdot e^{2^{-n}} + 2^{-n}$, an
 \qedhere
 \end{proof}
 
-On one hand, we have a path representation of expressions in $A_n$;
-on the other hand, we have norm expressions take the form:
-$$
-a_1 e^{\alpha_1} + \cdots + a_m e^{\alpha_m}
-$$
-where $a_i \in Q_n$ and $\alpha_i \in Q_n$, $i \in \{1, \cdots, m\}$.
+\subsection{Horner embedding}\label{sec:hornerembedding}
 
-\subsection{Ideals of $\mathcal{A}_n$}\label{sec:ideals}
-
-\subsection{Normal subgroups of $\mathcal{P}_n$}\label{sec:normalgroups}
+\subsection{Homomorphisms}\label{sec:homomorphisms}
 
 We can consider two subgroup $\mathcal{N}_n$ and $\mathcal{Q}_n$ of $\mathcal{P}_n$.
 
@@ -371,7 +367,7 @@ The subgroup $\mathcal{Q}_n $ is a normal subgroup of $\mathcal{P}_n$.
 \qedhere
 \end{proof}
 
-\subsection{Duality between regularity and transcendentality}\label{sec:duality}
+\subsection{Dual structure}\label{sec:duality}
 
 A kind of duality of the above two subset are there, duals to measure the regularity and transcendentality.
 
