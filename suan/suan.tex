@@ -215,23 +215,23 @@ When $\alpha = gcd(\beta, \gamma)$, and $\beta = \alpha \circ \psi$, $\gamma = \
 
 In this section, we study the conclusions related with the calculation results for each expression of $A_n$.
 
-We define $Q_n = \{2^{-n}k | k \in Z\}$, it is easy to know $Q_n$ is a field, and we also have a chain of inclusion
+We define $S_n = \{2^{-n}k | k \in Z\}$, it is easy to know $S_n$ is a commutative ring, and we also have a chain of inclusion
 
 \begin{lemma}
 \label{lemma:chainofinclusion2}
 We have
-$$ Q_0 \subset Q_1 \subset Q_2 \subset \ldots \subset Q_n \subset \ldots \subset Q$$
-hold for all $n$, where $Q$ is rational numbers.
+$$ S_0 \subset S_1 \subset S_2 \subset \ldots \subset S_n \subset \ldots \subset Q$$
+hold for all $n$, where $Q$ is the field of rational numbers.
 \end{lemma}
 
 \begin{lemma}
 \label{lemma:arithmeticalalgebra}
-All arithmetical expressions $A_n$ is an algebra over $Q_n$, or $\mathcal{A}_n = (A_n, Q_n, \cdot)$.
+All arithmetical expressions $A_n$ is an algebra over $S_n$, or $\mathcal{A}_n = (A_n, Q_n, \cdot)$.
 \end{lemma}
 
 \begin{proof}
 It is easy to verify the three axioms of an algebra is hold:
-for any arithmetical expressions $x, y, z \in A_n$ and $a, b \in Q_n$, we have
+for any arithmetical expressions $x, y, z \in A_n$ and $a, b \in S_n$, we have
 \begin{itemize}
     \item right distributivity: $(x + y) \cdot z = x \cdot z + y \cdot z$
     \item left distributivity: $z \cdot (x + y) = z \cdot x + z \cdot y$
@@ -260,9 +260,9 @@ Due to Lindemann-Weierstrass theorem, we have all the values should take the for
 $$
 a_1 e^{\alpha_1} + \cdots + a_m e^{\alpha_m}
 $$
-where $a_i \in Q_n$ and $\alpha_i \in Q_n$, $i \in Z$.
+where $a_i \in S_n$ and $\alpha_i \in S_n$, $i \in Z$.
 
-And for a specific $n$, all possible values $N_n$ form an algebra, we denote the algebra as $\mathcal{N}_n = (N_n, Q_n, \cdot)$.
+And for a specific $n$, all possible values $N_n$ form an algebra, we denote the algebra as $\mathcal{N}_n = (N_n, S_n, \cdot)$.
 
 The result of each calculation is a mapping $V_n$ from $A_n$ to $N_n$
 $$ V_n: A_n \to N_n $$
