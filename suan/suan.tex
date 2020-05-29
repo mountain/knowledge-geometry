@@ -255,19 +255,37 @@ If $\alpha_1, \cdots, \alpha_n$ are distinct algebraic numbers, then $e^{\alpha_
 \end{proposition}
 
 This proposition gives the transcendental nature of $e$.
+
 Now, we can study the structure of the values.
 Due to Lindemann-Weierstrass theorem, we have all the values should take the form:
 $$
 a_1 e^{\alpha_1} + \cdots + a_m e^{\alpha_m}
 $$
-where $a_i \in S_n$ and $\alpha_i \in S_n$, $i \in Z$.
+where $a_i \in S_n$ and $\alpha_i \in S_n$, $i \in Z$. And we denote
 
-And for a specific $n$, all possible values $N_n$ form an algebra over ring $S_n$, we denote the algebra as $\mathcal{N}_n = (N_n, S_n, \cdot)$.
-k
-The result of each calculation is a mapping $V_n$ from $A_n$ to $N_n$
+$$
+N_n = \{ a_1 e^{\alpha_1} + \cdots + a_m e^{\alpha_m} | a_i \in S_n, \alpha_i \in S_n \}
+$$
+
+\begin{lemma}
+\label{lemma:valuealgebra}
+All values from $N_n$ is an algebra over $S_n$, or $\mathcal{N}_n = (N_n, S_n, \cdot)$.
+\end{lemma}
+
+\begin{proof}
+We can verify $N_n$ is closed under $+$ and $\cdot$. Also the three axioms of an algebra is hold:
+for any value $x, y, z \in N_n$ and $a, b \in S_n$, we have
+\begin{itemize}
+    \item right distributivity: $(x + y) \cdot z = x \cdot z + y \cdot z$
+    \item left distributivity: $z \cdot (x + y) = z \cdot x + z \cdot y$
+    \item compatibility with scalars: $(ax) \cdot (by) = (ab) (x \cdot y)$
+\end{itemize}
+\qedhere
+\end{proof}
+
+The result of each calculation is a surjection $V_n$ from $A_n$ to $N_n$
 $$ V_n: A_n \to N_n $$
 
-The mapping $V_n$ is a surjection.
 So, we can verify path group $\mathcal{P}_n$ is non-abelian by calculating the result at point $0$.
 
 \begin{lemma}
@@ -319,8 +337,6 @@ where we improve the notion as
 We call this embedding $H_n$ as Horner embedding.
 
 At the end of this section, we discuss some combinatorial properties of the Horner norm and the path notion.
-
-
 
 \subsection{Homomorphisms}\label{sec:homomorphisms}
 
