@@ -12,68 +12,42 @@
 \usepackage{mathtools}
 
 \title{有效过程与自然法则}
-
-\date{September 9, 1985}	% Here you can change the date presented in the paper title
-
+\date{1985 年 9 月 9 日}
 \author{罗伯特·罗森}
 
 \begin{document}
-\maketitle
 
+\maketitle{}
+
+\renewcommand\contentsname{目录}
 \setcounter{tocdepth}{2}
 \tableofcontents
 
 \section{引言}
 
-One of the most remarkable confluences of ideas in modern scientific history occurred in the few short years between the publication of Godel's
-original papers on formal undecidability in 1931, and the work of McCulloch and Pitts on neural networks, which appeared in 1943.
-During these twelve years, fundamental interrelationships were established between logic, mathematics, the theory of the brain,
-and the possibilities of digital computation, which still literally takes one's breath away to contemplate in their full scope.
-It was believed at that time, and still is today, over half a century later, that these ideas presage a revolution as fundamental
-as that achieved by Newton three centuries earlier.
+\begin{figure}[ht]
+\centering
+\includegraphics[width=1.5in]{images/kurt_godel.jpg}
+\includegraphics[width=1.7in]{images/pitts_mcculloch_1949.png}
+\caption{青年哥德尔；皮茨和麦卡洛克的合照}
+\end{figure}
+
 
 现代科学史上最引人注目的思想交汇之一，发生在 1931 年哥德尔关于形式不可判定性的原始论文发表与 1943 年麦卡洛克和皮茨关于神经网络的著作发表之间的短短几年间。
 在这 12 年中，逻辑学、数学、大脑理论和数字计算的可能性之间建立了基本的相互关系，而真实的数字计算仍然还差让人心动的那么一步来全面实现。人们当时认为，
 半个世纪之后的今天依然如此认为，这些思想预示着一场革命，就像三个世纪前牛顿所取得的革命一样。
 
-The name of Alan Turing is preeminent in the history of these astonishing developments. For it was Turing, in his seminal paper of 1936,
-who first really juxtaposed the relevant ideas through the construction of the class of "machines" which bear his name.
-These Turing machines were, on the one hand, explicitly extrapolated from the mental processes of a human being engaged in a mathematical computation;
-on another hand, they represented a formal embodiment of logical or algorithmic processes as manifested in mathematics;
-and on yet another hand, through the use of the term "machine" they suggested both the harnessing of material processes to extend
-our own mathematical capabilities (soon to be realized through the creation of digital computers) and, at an even deeper level, a new and powerful
-metaphor for exploring life itself.
-
 阿兰·图灵的名字在这些惊人发展的历史上是非凡的。正因为图灵，在他 1936 年发表的开创性论文中，通过构建以他的名字命名的“机器”类，他首次把这些相关的思想真正并列在一起。
 一方面，图灵机是从人类进行数学计算的心理过程中明确推演出来的；另一方面，它们代表了逻辑或算法过程在数学中的形式化的体现；再一方面，通过使用“机器”这个术语，
 它们又代表了，利用物质过程来扩展我们自己的数学能力（很快会通过数字计算机的发明来实现），并且在更深的层次上，为探索生命本身建立一个新的、强大的隐喻。
-
-At a purely mathematical/logical level it was quickly recognized that the Turing machines were one of a number of equivalent formalisms for
-embodying the concept, of an algorithm. In its turn, an algorithm is regarded as the epitome of an effective process for solving a problem.
-Now an effective process connotes an idea of absolute necessity; it is an inferential chain which in every case must lead from appropriate initial data to the
-corresponding answer or solution. Moreover, an algorithm is a rote process which, once set in motion, requires no further intervention, no reflection,
-and no thought in its relentless progression from data to solution. That is why it seems, in retrospect, so natural to embody it in a "machine", as Turing did.
 
 在纯粹的数学/逻辑层面上，人们很快认识到，图灵机是体现算法概念的许多等价形式之一。反过来，一个算法被认为是一个解决问题的有效过程的缩影。
 首先，一个有效过程意味着一种绝对必要性；它是一个推理链条，对从适当初始数据开始的每一个情况，它都必须要导向相应的那个答案或解答。
 此外，算法是一个死记硬背的过程，一旦启动，在从数据到解答的无休止的过程中，不需要进一步的干预、省察和思考。 这就是为什么，现在回想起来，
 把它体现在一台“机器”上是如此自然，就像图灵做的那样。
 
-Since the notion of "effective process" is an informal, intuitive concept, while the notion of "algorithm" is a precisely formalized mathematical one,
-it was early suggested that the latter can replace the former. This is precisely the substance of Church's Thesis (cf. Kleene 1952),
-which asserts that any process one would want to call "effective" can already be carried out by some properly programmed Turing machine.
-
 由于“有效过程”的概念是一个非形式的、直观的概念，而“算法”的概念是一个精确的形式化的数学概念，早期有人提出后者可以取代前者。
-这正是丘奇论文(参见 Kleene1952)的实质内容， 该论文断言，任何人们想称之为“有效”的进程，已经可以通过一些适当编程的图灵机器来完成。
-
-Now, strictly speaking, all of the developments described so far are entirely formal; they take place in a logical and mathematical universe of
-propositions and production rules. In a sense, they are "all software". However, much of their interest resides in the fact that terms like "machine"
-or "effective" have connotations which are nonmathematical, which pertain to the external world of natural, material phenomena.
-Indeed, as we have already noted, Turing himself designed his mathematical machines as abstractions from a real-world phenomenon,
-a human being performing a computation. The suggestion is thus irresistibly conveyed that if this aspect of human mental
-activity can be "mechanized", why not others? Why not all? Likewise, if mental processes, involving what happens in a material
-brain (i.e., in hardware) can be represented entirely formally, why can there not be other kinds of material systems (i.e., other hardware) which can be
-made to do the same thing the brain does? Here we see, in embryo, the field of "artificial intelligence" in its widest ramifications, and much else besides.
+这正是丘奇论文(参见 Kleene1952)的实质内容， 该论文断言，任何人们想称之为“有效”的过程，已经可以通过一些适当编程的图灵机器来完成。
 
 现在，严格地说，到目前为止所描述的所有讨论都是完全形式化的；它们发生在命题和产生规则的逻辑和数学宇宙中。从某种意义上说，它们都是“软件”。
 然而，有趣之处主要集中在这样一个事实上：像“机器”或“有效”这样的术语具有非数学的内涵，这些内涵都属于自然物质现象的外部世界。
@@ -81,78 +55,43 @@ made to do the same thing the brain does? Here we see, in embryo, the field of "
 如果人类精神活动的这一方面可以“机械化”，为什么其他方面不可以呢？为什么不可以是全部呢？同样地，如果心理过程，包括在物质大脑中发生的事情(也即在硬件中)可以完全形式地表示，
 为什么不能有其他类型的物质系统（也即其他硬件）可以做与大脑相同的事情？虽然还在胚胎阶段，在这里，我们看到了，“人工智能”的最广推论，以及许多其他的意涵。
 
-But once we have admitted a material significance to words like "machine" or "effective", we have left the world of mathematics and entered
-the world of (in the broadest sense) physics. And whereas the Turing machines are, as we have noted, "all software", physics is by contrast "all hardware".
-We have thus, for good and ill, introduced a fundamental distinction between hardware and software which is, in itself,
-not part of the formal theory with which we began; nor, by the same token, is it part of physics either. This distinction,
-as we shall see, is vital, but it is insidious; it is camouflaged in the all-encompassing, umbrella term "machine".  We can
-see how insidiously the distinction creeps in from the following quotation taken from Martin Davis's book Computability and Unsolvability (1958):
-
 但是，一旦我们承认“机器”或“有效”这样的词具有物质意义，我们就离开了数学的世界，进入了（最广义的）物理世界。正如我们已经提到的，图灵机是“纯软件”，
 而物理学则相反，是“纯硬件”。因此，无论是好是坏，我们引入了硬件和软件之间的根本区别，它本身并不是我们开始时所使用的形式理论的一部分；同样，它也不是物理学的一部分。
 正如我们将要看到的，这种区别是至关重要的，但是它是一种隐蔽的危险，藏在包罗万象的总称“机器”中。从马丁·戴维斯 1958 年出版的《可计算性和不可解性》一书中，
 我们可以看到这种区别是如何悄无声息地出现的:
 
-For how can we ever exclude the possibility of our being presented someday (perhaps by some extraterrestrial visitor) with
-a (perhaps extremely complex) device or "oracle" that "computes" a noncomputable function?
-
 我们怎么能排除某一天（也许是某个外星访客）给我们一个（也许是极其复杂的）设备或“神谕”来“计算”一个不可计算函数的可能性呢?
-
-This was clearly meant to be the most rhetorical of rhetorical questions, presented in the context of an entirely formal mathematical development.
-But we see here clearly the equivocation on the term "machine", resting on a tacit distinction between real hardware and logical software.
 
 这显然是在一个完全形式化的数学发展背景下提出的最具修辞性的反问句。但是我们在这里清楚地看到术语“机器”的任意性，它建立在真实硬件和逻辑软件之间的默认区别之上。
 
-The present author has been troubled for a long time by the deep epistemological ramifications of this question.  In particular,
-once we admit "hardware", or material systems, into our discussion (and as we have already noted, that was from the beginning the clear if tacit intention),
-what happens to the idea of an "effective process"?  A long time ago (Rosen 1962) I considered the question of what Church's Thesis
-means in this new context. Specifically: Is Church's Thesis a fundamental restriction on material nature (akin to the exclusion of the perpetuum
-mobile by the Laws of Thermodynamics), or not? And what happens to recursiveness if Church's Thesis can be violated by natural processes?
-
 长期以来，作者一直为这一问题的深层认识论的结论所困扰。特别是，一旦我们承认“硬件”或物质系统进入我们的讨论（正如我们已经指出的那样，这从一开始就是明确无误的意图），
-那么“有效过程”的概念会发生什么变化呢？很久以前（罗森 1962 年），我考虑的问题是什么丘奇的论点在这个新的背景下意味着什么。
+那么“有效过程”的概念会发生什么变化呢？很久以前（Rosen 1962），我考虑的问题是丘奇的论点在这个新的背景下意味着什么。
 特别地：丘奇的论点是否是对物质本性的一个基本限制呢（类似于热力学定律排除了永动机），或者相反？ 如果丘奇的论点可以被自然过程破坏，那么递归性又会怎么样呢？
 
-It may be useful to review the salient points of out earlier argument here. Suppose we are given a physical system $S$ (perhaps the alien "computer" of Davis).
-Its behavior is governed by physical laws, which we learn about by doing experiments. A typical experiment will involve either doing something to the system
-(i.e, perturbing it from outside) or else letting the system do something to its environment, and then observing or measuring the result.
-Clearly, both the experimenter's intervention and the measured results are material events. Events are described or characterized by means of
-numbers, whose values are determined by the application of suitable meters (cf. Rosen 1978). Suppose for simplicity that our experimental
-intervention $\alpha$ is characterized by such a number $r(\alpha)$, and that the resultant behavior of our system is characterized by another such number.
-In this way, our experimenter can generate a table of values which defines a function $f$ from numbers to numbers.
-
-
-The reader will recognize this procedure as a typical input-output characterization of our system $S$.  The form of the function $f$ clearly
-tells us something about the laws which govern the behavior of $S$. This is, after all, the whole function of experiment in science.
-
-在这里回顾一下先前论点的要点可能是有用的。假设我们有一个物理系统$S$（也许是戴维斯的外星“计算机”）。它的行为受到物理定律的支配，我们通过实验来了解这些定律。
+在这里回顾一下先前论点的要点可能是有用的。假设我们有一个物理系统 $S$（也许是戴维斯的外星“计算机”）。它的行为受到物理定律的支配，我们通过实验来了解这些定律。
 一个典型的实验要么对系统做一些事情（例如，从外部扰动它），要么让系统对其环境做一些事情，然后观察或测量结果。显然，实验者的干预和测量的结果都是物质事件。
 事件是由数字来描述或刻画其特性的，其数值是由应用的合适的量表来决定的（参见 Rosen1978）。为了简单起见，假设我们的实验干预 $\alpha$ 拥有的属性是这样一个数值 $r(\alpha)$，
 而我们系统的结果行为由另一个这样的数字刻画。通过这种方式，我们的实验者可以生成一个数值表，它定义了一个从数字到数字的函数 $f$。
 
+$$
+r(\alpha) \mapsto \beta
+$$
 
 读者将会认识到，这个过程以典型输入输出的方式刻画了我们系统 $S$。函数 $f$ 的形式，清楚地告诉我们支配 $S$ 行为的规律。毕竟，这就是科学实验的全部功能。
 
+这个实验过程在某种意义上是有效的。事实上，正如我们将在下面详细论述的那样，物质世界（例如，在系统 $S$ 中）的事件序列是由因果关系所支配的，这些因果关系将它们联系在一起，就像蕴涵关系将命题无可避免地联系在一起一样。
+因此，如果我们的实验过程是可重复的（这意味着 $S$ 中相同的因果序列可以随意重建） ，那么丘奇的论点必须意味着任何输入输出函数 $1$，正如我们已经描述过的任何物质系统 $S$，也必须是递归的或可计算的。
+否则，系统 $S$ 将正是戴维斯向我们保证排除在可能性之外的那种“计算机”。
 
+从这个角度来看，丘奇的论文试图从软件（算法）的前提中得出关于硬件（物理学）的推论或结论。
+冯 · 诺依曼关于“自我复制”的论点（Burks 1966; Arbib，本卷; 参见下文第5节）体现了另一种众所周知的做同样事情的尝试
+在这里，我们的目的是从一个关于计算的形式理论中学习关于物质系统（特别是有机体）的行为的一些东西。
+不出所料，这类尝试风险极大，但如果能成功实现，回报将是巨大的。
 
-Now surely this experimentation process is in some sense effective. Indeed, as we shall argue at great length below, sequences of events in the
-material world (e.g., in the system S) are governed by causal relations, which bind them together quite as inexorably as implication relations
-bind propositions. Thus, if our experimental procedures are repeatable (which meansthat the same causal sequence in S can be recreated at will),
-then Church's Thesis must mean that any input-output function 1, generated as we have described from any material system S,
-must also be recursive or computable. Otherwise, the system S would be precisely the "computer" which Davis assured us is excluded from possibility.
+至少，我们可能已经看到，在形式理论中引入“硬件”的概念将产生一些特殊的结论。而当我们试图把“软件”的概念引入物理学时，互补的结论就出现在另一方面。
+然而，这些特殊的结论将告诉我们一些关于这两者的有趣事情。在本文的其余部分，我们将探索这种可能性。
 
-Seen in this light, Church's Thesis is an attempt to draw inferences or conclusions about hardware (physics) from premises about software
-(algorithms). Another well-known attempt to do the same thing is embodied in von Neumann's arguments about "self-reproduction"
-(Burks 1966; Arbib, this volume; cf. Section 5 below). Here again, the intent is to learn something about the behavior of material systems
-(especially organisms) from a formal theory of computation. As might be expected, such enterprises are risky in the extreme;
-but if it could be successfully pulled off, the rewards would be great indeed.
-
-At the very least, we can perhaps already see that introducing an idea of "hardware" into formal theory will have some peculiar
-ramifications. Complementary peculiarities arise from the other side, when we attempt to introduce ideas of "software" into physics.
-However, these very peculiarities promise to tell us something interesting about both. In the remainder of the present paper, we shall
-explore some of these possibilities.
-
-\section{Church's Thesis in Formal Systems}
+\section{形式系统中的丘奇论题}
 
 The essence of Church's Thesis is that it identifies logical inference in any
 formal system with string processing. In its turn, string processing, or word
@@ -189,7 +128,7 @@ of the theorems, other than what they derive from the axioms which
 govern them, amounts to saying that not all of their properties which matter
 for the deductions have been expressed by axioms. When the meanings
 of the technical terms are thus left out of account, we have arrived at the
-standpoint of formal axiomatics ... Since we have abstracted entirely from
+standpoint of formal axiomatics \ldots Since we have abstracted entirely from
 the content matter, leaving only the form, we say that the original theory has
 been formalized. In this structure, the theory is no longer a system of meaningful
 propositions, but one of sentences as sequences of words, which are
@@ -257,7 +196,7 @@ here for future reference that the encoding and decoding are logically distinct 
 and from the actual computation; if these are in some sense "ineffective", then Church's Thesis
 may appear to fail, even though the computation itself is completely recursive.
 
-\section{Implication and Causality}
+\section{蕴含与因果性}
 
 As we have seen, in the realm of formal systems, Church's Thesis identifies the intuitive notion of "effective process" with the purely syntactic idea of string processing.
 
@@ -344,7 +283,7 @@ a class of universal simulators for all material processes. There are
 then two questions to be asked: (a) is it true? and (b) if so, what does it
 mean?
 
-\section{Is Church's Thesis Physically True?}
+\section{丘奇论题在物理上是正确的吗？}
 
 The upshot of the argument of the preceding sections is the following. Na-
 ture provides us with a plethora of material processes which we would want
@@ -420,7 +359,7 @@ information with other (semantic) information not formalizable within his system
 Thus, for a variety of reasons, there is cause to believe that Church's Thesis fails as a physical proposition. Nevertheless,
 as we have seen, to state and analyze the Thesis in material terms touches on some of the deepest and most basic aspects of theoretical science.
 
-\section{The Role of Simulations}
+\section{模拟的角色}
 
 We have already alluded above to the use of the Turing machines both
 as metaphors for the material world and as effective descriptions of that
