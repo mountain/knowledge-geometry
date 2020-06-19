@@ -2,14 +2,18 @@
 \usepackage{amsmath, amsthm, amssymb}
 \usepackage{datetime}
 \usepackage{tikz} % 添加绘图
+\usepackage{framed}
 \usepackage{tabularx}
 \usepackage{enumitem}
 \usepackage{fancyref}
+\usepackage{csquotes}
+\usepackage{wrapfig}
 
 \input{data/style}
 
 \usepackage{stmaryrd}
 \usepackage{mathtools}
+\usepackage{csquotes}
 
 \title{有效过程与自然法则}
 \date{1985 年 9 月 9 日}
@@ -44,7 +48,7 @@
 \begin{figure}[ht]
 \centering
 \includegraphics[height=2.0in]{images/turing_machine.jpg}
-\caption{图灵机的一个硬件实现}
+\caption{图灵机计算忙碌海狸问题的过程}
 \end{figure}
 
 在纯粹的数学/逻辑层面上，人们很快认识到，图灵机是体现算法概念的许多等价形式之一。反过来，一个算法被认为是一个解决问题的有效过程的缩影。
@@ -52,14 +56,16 @@
 此外，算法是一个死记硬背的过程，一旦启动，在从数据到解答的无休止的过程中，不需要进一步的干预、省察和思考。这就是为什么，现在回想起来，
 把它体现在一台“机器”上是如此自然，就像图灵做的那样。
 
-由于“有效过程”的概念是一个非形式的、直观的概念，而“算法”的概念是一个精确的形式化的数学概念，早期有人提出后者可以取代前者。
-这正是丘奇论文(参见 Kleene1952)的实质内容， 该论文断言，任何人们想称之为“有效”的过程，已经可以通过一些适当编程的图灵机器来完成。
+\begin{wrapfigure}{r}{0.3\textwidth}
+  \begin{center}
+    \includegraphics[height=2.0in]{images/alonzo_church.jpg}
+  \end{center}
+  \caption{阿隆佐·邱奇}
+\end{wrapfigure}
 
-\begin{figure}[ht]
-\centering
-\includegraphics[height=2.0in]{images/alonzo_church.jpg}
-\caption{阿隆佐·邱奇}
-\end{figure}
+由于“有效过程”的概念是一个非形式的、直观的概念，而“算法”的概念是一个精确的形式化的数学概念，早期有人提出后者可以取代前者。
+这正是邱奇论文(参见 Kleene1952)的实质内容， 该论文断言，任何人们想称之为“有效”的过程，已经可以通过一些适当编程的图灵机器来完成。
+
 
 现在，严格地说，到目前为止所描述的所有讨论都是完全形式化的；它们发生在命题和产生规则的逻辑和数学宇宙中。从某种意义上说，它们都是“软件”。
 然而，有趣之处主要集中在这样一个事实上：像“机器”或“有效”这样的术语具有非数学的内涵，这些内涵都属于自然物质现象的外部世界。
@@ -72,19 +78,26 @@
 正如我们将要看到的，这种区别是至关重要的，但是它是一种隐蔽的危险，藏在包罗万象的总称“机器”中。从马丁·戴维斯 1958 年出版的《可计算性和不可解性》一书中，
 我们可以看到这种区别是如何悄无声息地出现的:
 
-我们怎么能排除某一天（也许是某个外星访客）给我们一个（也许是极其复杂的）设备或“神谕”来“计算”一个不可计算函数的可能性呢?
+\begin{displayquote}
+    我们怎么能排除某一天（也许是某个外星访客）给我们一个（也许是极其复杂的）设备或“神谕”来“计算”一个不可计算函数的可能性呢?
+\end{displayquote}
 
 这显然是在一个完全形式化的数学发展背景下提出的最具修辞性的反问句。但是我们在这里清楚地看到术语“机器”的任意性，它建立在真实硬件和逻辑软件之间的默认区别之上。
 
+\begin{figure}[ht]
+\centering
+\includegraphics[height=2.0in]{images/turing_machine_oracle.png}
+\caption{带神谕的图灵机}
+\end{figure}
+
 长期以来，作者一直为这一问题的深层认识论的结论所困扰。特别是，一旦我们承认“硬件”或物质系统进入我们的讨论（正如我们已经指出的那样，这从一开始就是明确无误的意图），
-那么“有效过程”的概念会发生什么变化呢？很久以前（Rosen 1962），我考虑的问题是丘奇的论点在这个新的背景下意味着什么。
-特别地：丘奇的论点是否是对物质本性的一个基本限制呢（类似于热力学定律排除了永动机），或者相反？ 如果丘奇的论点可以被自然过程破坏，那么递归性又会怎么样呢？
+那么“有效过程”的概念会发生什么变化呢？很久以前（Rosen 1962），我考虑的问题是邱奇的论点在这个新的背景下意味着什么。
+特别地：邱奇的论点是否是对物质本性的一个基本限制呢（类似于热力学定律排除了永动机），或者相反？ 如果邱奇的论点可以被自然过程破坏，那么递归性又会怎么样呢？
 
 在这里回顾一下先前论点的要点可能是有用的。假设我们有一个物理系统 $S$（也许是戴维斯的外星“计算机”）。它的行为受到物理定律的支配，我们通过实验来了解这些定律。
 一个典型的实验要么对系统做一些事情（例如，从外部扰动它），要么让系统对其环境做一些事情，然后观察或测量结果。显然，实验者的干预和测量的结果都是物质事件。
 事件是由数字来描述或刻画其特性的，其数值是由应用的合适的量表来决定的（参见 Rosen1978）。为了简单起见，假设我们的实验干预 $\alpha$ 拥有的属性是这样一个数值 $r(\alpha)$，
 而我们系统的结果行为由另一个这样的数字刻画。通过这种方式，我们的实验者可以生成一个数值表，它定义了一个从数字到数字的函数 $f$。
-
 $$
 r(\alpha) \mapsto \beta
 $$
@@ -92,28 +105,29 @@ $$
 读者将会认识到，这个过程以典型输入输出的方式刻画了我们系统 $S$。函数 $f$ 的形式，清楚地告诉我们支配 $S$ 行为的规律。毕竟，这就是科学实验的全部功能。
 
 这个实验过程在某种意义上是有效的。事实上，正如我们将在下面详细论述的那样，物质世界（例如，在系统 $S$ 中）的事件序列是由因果关系所支配的，这些因果关系将它们联系在一起，就像蕴涵关系将命题无可避免地联系在一起一样。
-因此，如果我们的实验过程是可重复的（这意味着 $S$ 中相同的因果序列可以随意重建） ，那么丘奇的论点必须意味着任何输入输出函数 $1$，正如我们已经描述过的任何物质系统 $S$，也必须是递归的或可计算的。
+因此，如果我们的实验过程是可重复的（这意味着 $S$ 中相同的因果序列可以随意重建） ，那么邱奇的论点必须意味着任何输入输出函数 $1$，正如我们已经描述过的任何物质系统 $S$，也必须是递归的或可计算的。
 否则，系统 $S$ 将正是戴维斯向我们保证排除在可能性之外的那种“计算机”。
 
-从这个角度来看，丘奇的论文试图从软件（算法）的前提中得出关于硬件（物理学）的推论或结论。
-冯 · 诺依曼关于“自我复制”的论点（Burks 1966; Arbib，本卷; 参见下文第5节）体现了另一种众所周知的做同样事情的尝试
+从这个角度来看，邱奇的论文试图从软件（算法）的前提中得出关于硬件（物理学）的推论或结论。
+冯 · 诺依曼关于“自我复制”的论点（Burks 1966; Arbib，本卷; 参见下文第5节）体现了另一种众所周知的同样尝试。
 在这里，我们的目的是从一个关于计算的形式理论中学习关于物质系统（特别是有机体）的行为的一些东西。
 不出所料，这类尝试风险极大，但如果能成功实现，回报将是巨大的。
+
+\begin{figure}[ht]
+\centering
+\includegraphics[height=2.0in]{images/self_reprod.png}
+\caption{运行中的第一个为人所知的自复制机}
+\end{figure}
+
 
 至少，我们可能已经看到，在形式理论中引入“硬件”的概念将产生一些特殊的结论。而当我们试图把“软件”的概念引入物理学时，互补的结论就出现在另一方面。
 然而，这些特殊的结论将告诉我们一些关于这两者的有趣事情。在本文的其余部分，我们将探索这种可能性。
 
-\section{形式系统中的丘奇论题}
+\section{形式系统中的邱奇论题}
 
-The essence of Church's Thesis is that it identifies logical inference in any
-formal system with string processing. In its turn, string processing, or word
-processing, is a purely syntactic activity.  String processing is, of course,
-precisely what the Turing machines do. Nevertheless, it seems on the face
-of it to be a very strong, perhaps excessively strong condition to require
-that every inference in a formal system should be expressible in syntactic
-terms alone; i.e., that every trajectory from premises to conclusion should be
-navigated entirely through the manipulation of the symbols in which these
-propositions are encoded.
+邱奇论题的实质是，把任何形式系统中的逻辑推理与字符串处理等同起来。反过来，字符串处理或字处理是一种纯粹的语法活动。
+当然，字符串处理正是图灵机所做的。尽管如此，从表面上看，这似乎是一个非常强的、或许有些过于强的条件，
+它要求形式系统中的每一个推理，都应该只用语法项来表达；也就是说，从前提到结论的每一个步骤，都应该完全通过，对这些编码了的命题的符号进行操作来实现。
 
 Nevertheless, a rather strong case can be built to support this rather
 unlikely-looking Thesis. It distills a trend towards formalization which
@@ -131,6 +145,7 @@ nothing but syntax.
 
 Perhaps the clearest statement of this kind of Formalist program was given by Kleene 1952:
 
+\begin{displayquote}
 This step (axiomatization) will not be finished until all the properties of the
 undefined or technical terms of the theory which matter for the deduction
 of theorems have been expressed by axioms. Then it should be possible to
@@ -147,6 +162,7 @@ propositions, but one of sentences as sequences of words, which are
 in turn sequences of letters.  We say by reference to the form alone which
 combinations of words Itre sentences, which sentences are axioms, and which
 sentences follow as immediate consequences of others.
+\end{displayquote}
 
 Clearly, the idea here is that it is always possible to replace semantics ("meanings")
 with syntactics, so that logically no information is lost; any inference involving semantics
@@ -295,7 +311,7 @@ a class of universal simulators for all material processes. There are
 then two questions to be asked: (a) is it true? and (b) if so, what does it
 mean?
 
-\section{丘奇论题在物理上是正确的吗？}
+\section{邱奇论题在物理上是正确的吗？}
 
 The upshot of the argument of the preceding sections is the following. Na-
 ture provides us with a plethora of material processes which we would want
