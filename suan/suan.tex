@@ -465,9 +465,15 @@ $A_0$ can be embedded into Hyperbolic plane $H_2$ as a regular tree which is an 
 \caption{Embedding of the expressions}
 \end{figure}
 
-\section{A kind of new infinitesimal calculation}\label{sec:akonic}
+\newpage
 
-\subsection{Local polar coordinate and flow equation}\label{sec:lpcafe}
+\section{A new kind of infinitesimal calculation}\label{sec:ankoic}
+
+\subsection{About coordinate system}\label{sec:coordinate}
+
+\subsection{Flow: local polar coordinate}\label{sec:flpc}
+
+\subsubsection{Local polar coordinate and flow equation}\label{sec:lpcafe}
 
 Given any point $x_0$ on $\mathfrak{S}$, an additional axis $A$ pass $x_0$, then for any nearby point $x_1$, two
 horocycle $B$ and $\bar{B}$ exists to connect with $x_0$ and $x_1$, so we can consider a local polar coordinate
@@ -520,7 +526,7 @@ We denote the left side of the above equation as $dx / dt$ when $\delta$ and $\e
 
 where $u$ is the moving speed.
 
-\subsection{background defined by flow equation}\label{sec:}
+\subsubsection{background defined by flow equation}\label{sec:}
 
 By assuming $u = 1$ and costant angle $\theta$, we have a background which can be descibed by a simpler formula,
 
@@ -546,9 +552,7 @@ Or
    x =  x_0 e^{t \sin \theta} + t \cos \theta + \frac{1}{2} \sin 2\theta (\frac{t^2}{2!} + \frac{t^3}{3!} \sin \theta + \frac{t^4}{4!} \sin^2 \theta + ...)
 \end{equation}
 
-\newpage
-
-\subsection{Constant speed flow}\label{sec:csflow}
+\subsubsection{Constant speed flow}\label{sec:csflow}
 
 \subsubsection{$\sin t$}
 
@@ -581,7 +585,7 @@ Or
 \caption{contour of velocity $u(t, \theta)$ for process $\sin t$}
 \end{figure}
 
-\subsection{Constant angle flow}
+\subsubsection{Constant angle flow}
 
 We guess constant angle flow is horocycle flow and there is a sign.
 
@@ -639,7 +643,7 @@ And a recurrence relation with $t_n = \frac{2\sqrt{3}}{3} n$
     x_{n+1} = (x_n + \frac{\sqrt{3}}{3}) e - \frac{\sqrt{3}}{3}, n = 0 ... k ...
 \end{equation}
 
-\subsubsection{Constant angle flow theorem}
+\subsubsubsection{Constant angle flow theorem}
 
 \begin{theorem}
 \label{l1}
@@ -668,6 +672,22 @@ and re-write it as
 \end{equation}
 
 \end{proof}
+
+\subsection{Flow: Euler point of view}\label{sec:fepov}
+
+\begin{equation}
+    \frac{dw}{dt} = \frac{dx}{dt} + w \frac{dy}{dt}
+    \label{eqn:eflow}
+\end{equation}
+
+\subsection{Flow: Lagrange point of view}\label{sec:flpov}
+
+\begin{equation}
+    \frac{dx}{dt} = u (\cos \theta + x \sin \theta)
+    \label{eqn:lflow}
+\end{equation}
+
+\subsection{Transformation}\label{sec:tranformation}
 
 \newpage
 
