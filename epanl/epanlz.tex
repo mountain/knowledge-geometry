@@ -6,8 +6,10 @@
 \usepackage{tabularx}
 \usepackage{enumitem}
 \usepackage{fancyref}
-\usepackage{csquotes}
 \usepackage{wrapfig}
+
+\usepackage{csquotes}
+\renewcommand{\mkbegdispquote}[2]{\itshape}
 
 \input{data/style}
 
@@ -56,7 +58,7 @@
 此外，算法是一个死记硬背的过程，一旦启动，在从数据到解答的无休止的过程中，不需要进一步的干预、省察和思考。这就是为什么，现在回想起来，
 把它体现在一台“机器”上是如此自然，就像图灵做的那样。
 
-\begin{wrapfigure}{r}{0.3\textwidth}
+\begin{wrapfigure}{r}{0.25\textwidth}
   \begin{center}
     \includegraphics[height=2.0in]{images/alonzo_church.jpg}
   \end{center}
@@ -127,51 +129,46 @@ $$
 当然，字符串处理正是图灵机所做的。尽管如此，从表面上看，这似乎是一个非常强的、或许有些过于强的条件，
 它要求形式系统中的每一个推理，都应该只用语法项来表达；也就是说，从前提到结论的每一个步骤，都应该完全通过，对这些编码了的命题的符号进行操作来实现。
 
-Nevertheless, a rather strong case can be built to support this rather
-unlikely-looking Thesis. It distills a trend towards formalization which
-began with Euclid, became a matter of urgency in the confusion following the
-discovery of non-Euclidean geometries (i.e., geometries which, as formal
-systems, were consistent as God-given Euclid), and of absolute desperation
-when the paradoxes in naive set theory were revealed. The formalistic response
-to this situation, pioneered by David Hilbert, was precisely to empty
-mathematics of any semantic content whatsoever, arguing in effect that it
-was a needless semantics which was at the root of the difficulties.
-This in effect turned all of mathematics into a kind of game in which meaningless
-symbols were manipulated according to (a finite family of) arbitrary syntactical rules.
-Indeed, the whole point of Hilbertian Formalism is to create systems in which there is
-nothing but syntax.
+然而，我们可以有一个相当有力的理由来支持这个看起来不太可能的论题。
+它源自于一种形式化的趋势，这种趋势始于欧几里得，随着非欧几里德几何的发现（即作为形式系统，（？）与上帝赋予的欧几里德一致的几何），
+以及发现朴素集合论中悖论时的绝对绝望，这种混乱成为了一个紧迫问题。
+大卫·希尔伯特首先对这种情况提出的形式主义的回应，恰恰是对任何语义内容都是空洞的数学； 而辩称的不必要的语义，是困难的根源。
+实际上，这把所有的数学变成了一种游戏，在这种游戏中，无意义的符号按照（一个有限的）任意语法规则来处理。
+事实上，希尔伯特形式主义的全部意义，在于创造一个除了语法以外什么都没有的系统。
 
-Perhaps the clearest statement of this kind of Formalist program was given by Kleene 1952:
+\begin{figure}[ht]
+\centering
+\includegraphics[height=2.0in]{images/hilbert.jpg}
+\includegraphics[height=2.0in]{images/kleene.jpg}
+\caption{大卫·希尔伯特；斯蒂芬·科尔·克莱尼}
+\end{figure}
+
+或许，这种形式主义计划最清晰的陈述是由 Kleene 1952 给出的
 
 \begin{displayquote}
-This step (axiomatization) will not be finished until all the properties of the
-undefined or technical terms of the theory which matter for the deduction
-of theorems have been expressed by axioms. Then it should be possible to
-perform the deductions treating the technical terms as words in themselves
-without meaning.  For to say that they have meanings necessary to the deduction
-of the theorems, other than what they derive from the axioms which
-govern them, amounts to saying that not all of their properties which matter
-for the deductions have been expressed by axioms. When the meanings
-of the technical terms are thus left out of account, we have arrived at the
-standpoint of formal axiomatics \ldots Since we have abstracted entirely from
-the content matter, leaving only the form, we say that the original theory has
-been formalized. In this structure, the theory is no longer a system of meaningful
-propositions, but one of sentences as sequences of words, which are
-in turn sequences of letters.  We say by reference to the form alone which
-combinations of words Itre sentences, which sentences are axioms, and which
-sentences follow as immediate consequences of others.
+这一步（公理化）将不会完成，直到所有的未定义的性质或理论的技术性术语已表示成公理，它们对定理的推演是重要的。
+然后应该有可能应用演绎法，把技术术语当作没有意义的单词。
+因为说它们对于定理的推导具有必要的意义，而不是说它们是从支配它们的公理中衍生出来的，
+就等于说它们对于演绎来说重要的性质并不都是用公理来表达的。
+当技术性术语的含义因此被忽略了，我们就达到了形式公理学说的立场（？）\ldots
+因为我们已经完全从内容中抽象出来，只留下形式，我们说原始理论已经形式化了。
+在这种结构中，理论不再是一个有意义的命题系统，而是一个作为词序列的句子系统，这些词序列依次是字母序列。
+我们只是参照形式来说，哪些单词组合成句子，哪些句子是公理，哪些句子是其他句子的直接后果。
 \end{displayquote}
 
-Clearly, the idea here is that it is always possible to replace semantics ("meanings")
-with syntactics, so that logically no information is lost; any inference involving semantics
-possesses a purely syntactical image in the formalization.
+显然，这里的想法是，总是可以用语法替换语义（“意义”），从而在逻辑上没有信息丢失；
+任何涉及语义的推理，在形式化中都有纯粹的语法映像。
 
-In such a formal system, we start with the idea that the axioms are true.
-This notion of truth is hereditary; if the axioms are true, then so also are the
-symbol sequences obtained by applying the inferential rules of the system to them;
-thus truth passes from axioms to theorems. So far, we never need to import a notion of "truth"
-into the system from outside, as it were; we simply construct true propositions (theorems)
-as we go along.
+在这样的一个形式系统中，我们首先认为公理是真的。这种真的概念是可传递的；
+如果公理为真，那么通过将系统的推理规则应用于它们而获得的符号序列也是如此；因而，真从公理传递到定理。
+到目前为止，我们从来不需要从外部引入“真”的概念到系统中，就像从前一样；我们只是在推演的过程中构造真的命题（定理）。
+
+\begin{figure}[ht]
+\centering
+\includegraphics[height=2.5in]{images/konigsberger_university.jpg}
+\caption{哥德尔的著名定理于 1930 年 9 月在柯尼斯堡大学的一个学术会议上发表}
+\end{figure}
+
 
 The troubles embodied in Gliders celebrated theorems (GOdel 1931)
 arise from trying to compare this constructive notion of internal truth with
