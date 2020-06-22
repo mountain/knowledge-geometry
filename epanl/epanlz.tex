@@ -169,16 +169,11 @@ $$
 \caption{哥德尔不完备性定理最早于 1930 年 9 月在柯尼斯堡大学的一个学术会议上发表}
 \end{figure}
 
-The troubles embodied in Gliders celebrated theorems (GOdel 1931)
-arise from trying to compare this constructive notion of internal truth with
-preassigned external truth-value in formal arithmetic; as Godel showed, they
-do not match. Furthermore, one way of looking at Turing's theorem on decidability (Turing 1936-7)
-is that there is no internal inferential mechanism for deciding whether a proposition
-in the given formalization is a theorem(i.e., true) or not. Thus, we know that the Formalist program,
-in which only purely syntactic inferences are allowed, is too impoverished to even play the game of number theory.
-That is, we must either allow into our system some "informal" inferential procedures, which according to Godes Theorem
-cannot be reduced to syntactics even in principle, or else restrict ourselves forever to mere fragments of number theory.
-Such "informal" inferential procedures are what are disallowed by Church's Thesis; they are ineffective.
+哥德尔著名的定理（Godel 1931）中所包含的麻烦，源自于试图将这种内部真理的构造性概念与形式算术中预先赋予的外部真值进行比较； 正如哥德尔所示，它们并不匹配。
+此外，看待图灵可判定性定理（Turing 1936-7）的一种方式是，在给定的形式化中，没有内部推理机制来决定一个命题是否是一个定理(即，是真的)。
+因此，我们知道，形式主义计划，其中只有纯粹的语法推论是允许的，是过于贫乏的，甚至不足以支撑数论。
+也就是说，我们要么允许一些“非形式”的推理过程进入我们的系统，根据哥德尔定理，这些程序甚至在原则上都不能简化为语法； 要么永远把我们自己限制在数论的片段中。
+这种“非形式”的推理过程是邱奇论题所不允许的，它们是无效的。
 
 Let us put the above discussion into more familiar terms. In ordinary
 ("Platonic") mathematics, which of course has both a syntactic and a semantic aspect,
@@ -200,23 +195,18 @@ say that the mapping Q is not effective, according to Church's Thesis. But
 clearly, if Q has any meaning or existence at all, once it is given to us, it is
 effective.
 
-In the "all-software" world of formal systems, we can of course restrict ourselves in any way we like.
-Thus, we can agree not to allow ourselves any automorphisms Q which cannot be expressed in purely syntactical
-terms. In such a world, and only in such a world, could Church's Thesis hold unrestrictedly.
-Whether such a formal world would be at all interesting is, of course, another question.
-And as we shall see, the situation gets even worse when we allow "hardware" into our world.
+在形式系统的“全软件”的世界中，我们当然可以用任何我们喜欢的方式来限制自己。
+因此，我们可以同意不允许我们自己的任何自同构 $Q$，它不能表示成纯粹的语法项。
+在这样一个世界里，也只有在这样一个世界里，邱奇论题才能不受限制地成立。
+当然，这样一个正式的世界是否有趣，是另一个问题。正如我们将看到的，当我们允许“硬件”进入我们的世界时，情况会变得更加糟糕。
 
-Before turning to material systems, we should say a word about the encoding of propositions
-in a formal system onto Turing machine tapes, and decoding tapes back into propositions in the system.
-It is fairly clear that we may use the word "effective" in its usual intuitive sense in connection
-with encoding and decoding; the familiar Godel numbering, for example, is
-clearly an effective mapping from syntax to arithmetic and back. Indeed,
-in showing that a process in some formal system is effective, or recursive,
-we can clearly combine the encoding, the computation, and the decoding
-into a single Turing machine which does all three. However, we merely note
-here for future reference that the encoding and decoding are logically distinct from each other
-and from the actual computation; if these are in some sense "ineffective", then Church's Thesis
-may appear to fail, even though the computation itself is completely recursive.
+在讨论物质系统之前，我们应该先把形式系统中的命题编码到图灵机磁带上，然后再把磁带解码成系统中的命题。
+很明显，在编码和解码方面，我们可以按照通常的直观意义使用“有效”一词； 例如，我们熟悉的哥德尔编码，
+显然是从句法到算术、然后再回来的有效映射。事实上，通过证明一个过程在某些形式系统中是有效的，或者说是递归的，
+我们可以清楚地将编码、压缩和解码结合到一个单独的图灵机中，这个机器可以完成所有三个步骤。
+然而，我们在这里只是注意到，编码和解码在逻辑上彼此不同，也不同于实际计算；
+如果这里在某种意义上是“无效” ，那么 邱奇的论题可能会失败掉，即使计算本身是完全递归的。
+
 
 \section{蕴含与因果性}
 
