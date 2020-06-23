@@ -185,40 +185,38 @@ $$
 如果两者是一致的，可以说我们的 $Q$ 在系统中是可计算的；否则，就是不可计算的。在后一种情况下，根据邱奇的论点，我们不得不说映射 $Q$ 是无效的。
 但是很明显，如果 $Q$ 有意义或存在，一旦它被赋予给我们，它就是有效的。
 
-在形式系统的“全软件”的世界中，我们当然可以用任何我们喜欢的方式来限制自己。
-因此，我们可以不允许我们自己拥有任意的自同构 $Q$，它不能表示成纯粹的语法项。
+在形式系统的“全软件”的世界中，我们当然可以用任何喜欢的方式来限定自己。
+因此，我们可以不允许我们自己拥有任意的自同构 $Q$，它是不能表示成纯粹的语法项的。
 在这样一个世界里，也只有在这样一个世界里，邱奇论题才能不受限制地成立。
 当然，这样一个正式的世界是否有趣，是另一个问题。正如我们将看到的，当我们允许“硬件”进入我们的世界时，情况会变得更加糟糕。
 
 在讨论物质系统之前，我们应该先把形式系统中的命题编码到图灵机码带上，然后再把码带上的内容解码成系统中的命题。
-很明显，在编码和解码方面，我们可以按照通常的直观意义使用“有效”一词； 例如，我们熟悉的哥德尔编码，
+很明显，在编码和解码方面，我们可以按照通常的直观意义使用“有效”一词；例如，我们熟悉的哥德尔编码，
 显然是从句法到算术、然后再回来的有效映射。事实上，通过证明一个过程在某些形式系统中是有效的，或者说是递归的，
 我们可以清楚地将编码、计算和解码结合到一个单独的图灵机中，这个机器可以完成所有三个步骤。
-然而，我们在这里只是注意到，编码和解码在逻辑上彼此不同，也不同于实际计算；
-如果这里在某种意义上是“无效”的，那么邱奇论题可能会失败，即使计算本身是完全递归的。
+然而，我们在这里只是记下，编码和解码在逻辑上彼此不同，也不同于实际计算；
+如果它们在某种意义上是“无效”的，那么邱奇论题可能会失败，即使计算本身是完全递归的。
 
 \section{蕴含与因果性}
 
-As we have seen, in the realm of formal systems, Church's Thesis identifies the intuitive notion of "effective process" with the purely syntactic idea of string processing.
+正如我们已经看到的，在形式系统的领域，邱奇论题辨析了“有效过程”的直觉概念与纯粹的语法观点下的字符串处理。
 
-That is, any implication which can be "effectively" performed within the system can already be carried out by means of a finite set of production rules,
-operating on finite strings of symbols taken from a f i nite alphabet. We have also pointed out that when we deal with the material world
-(as opposed to the formal ones of mathematics and logic) ideas of implication are replaced by ideas of causality. Nevertheless, we can still
-retain the idea of an "effective" process. In this context, Church's Thesis means that any causal sequence can be represented by a corresponding
-recursive process; i.e., any causal sequence can be described by purely syntactic means. If this is true, it of course places severe
-limitations on what physics can be like. The question is no less than whether the Laws of Nature can themselves be formulated in purely
-syntactical terms, or whether they can possess an inherent semantic component which cannot be finitistically formalized.
-It should be noted that the urge to formalization (i.e., to pure syntactics) in mathematics is exactly parallel to similar trends in theoretical science.
-Indeed, the whole thrust of atomic theory (or nowadays, the theory of "elementary particles") is to reduce all material processes to the motion of
-ultimate constituent units, devoid of any internal structure ("meaning"), possessing only an instantaneous position ("configuration")
-and the temporal derivatives of position. The forces which push these ultimate units around are the precise analogs of the production rules in a formal system.
-Hence the paths or trajectories traced out by a material system under the influence of given forces are the analogs of formal theorems,
-with initial conditions as axioms. The idea that causal relations between events in material systems can be related to implication relations between
-propositions describing those events is the sine qua non of theoretical science. Indeed, the belief in what used to be called Natural Law requires (a)
-that the sequences of events we perceive in the external world are not arbitrary or whimsical, but are governed by definite rules (this is Causality),
-and (b) that these rules can be articulated in such a way that they can be grasped by the human mind. Taken together, this formulation of Natural Law
-asserts precisely that causal relations in material systems can be brought into congruence with implications in a
-formal (ultimately, mathematical) system of propositions about those events.
+也就是说，任何可以在系统内“有效地”执行的蕴涵，都可以通过一套有限的产生规则来执行，这套规则操作于从一个有限字母表中取出的有限的符号串。
+我们还指出，当我们在处理物质世界时（相对于形式的数学和逻辑），蕴涵的观念被因果关系的观念所取代。
+尽管如此，我们仍然可以保留“有效”过程的想法。 在这种情况下，邱奇论题意味着任何因果序列都可以用相应的递归过程来表示；
+也就是说，任何因果序列都可以用纯粹的句法手段来描述。 如果这是真的，它当然会严重限制物理学的发展。
+是否自然法则本身可以表达成纯粹的语法项，或者它们是否可以拥有一个内在的语义组成部分不能被有限形式化，问题绝不仅仅限于此。
+值得注意的是，数学中的形式化（即纯粹的句法）与理论科学中的类似趋势是完全平行的。
+事实上，原子论（或者现在的“基本粒子”理论）的全部推动力是将所有物质过程简化到终极组成单元的运动，而没有任何内部结构（“意义”），
+只拥有瞬时位置（“构型”）和位置的瞬时导数。推动这些终极单元的力量与形式系统中的产生式规则完全相同。
+因此，一个物质系统在给定力的影响下所追踪到的路径或轨迹是形式定理的类比，以初始条件为公理。
+物质系统中事件之间的因果关系可以与描述这些事件的命题之间的蕴涵关系相联系的观点是理论科学的必要条件。
+事实上，过去被称为自然法则的信念要求：
+\begin{enumerate}[label=(\alph*)]
+\item 我们在外部世界中感知到的事件序列不是任意的或异想天开的，而是受到明确规则的支配（这就是因果关系），
+\item 这些规则可以清楚地表达出来，以便人类头脑能够理解。
+\end{enumerate}
+综上所述，自然法则的这种表述精确地断言，物质系统中的因果关系可以被引导到一个形式化（终极的，数学的）命题系统的蕴涵的一致性中。
 
 This situation can be most succinctly expressed in terms of a diagram (see Figure 1).
 
