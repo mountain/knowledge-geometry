@@ -1,21 +1,25 @@
 \documentclass[a4paper,12pt]{article}
 \usepackage{amsmath, amsthm, amssymb}
 \usepackage{datetime}
-\usepackage{tikz} % 添加绘图
 \usepackage{framed}
 \usepackage{tabularx}
 \usepackage{enumitem}
 \usepackage{fancyref}
 \usepackage{wrapfig}
+\usepackage{pifont}
+
+\usepackage{tikz}
+\usetikzlibrary{fit,arrows,calc}
 
 \usepackage{csquotes}
 \renewcommand{\mkbegdispquote}[2]{\itshape}
 
+\usepackage{data/circledsteps}
 \input{data/style}
 
 \usepackage{stmaryrd}
 \usepackage{mathtools}
-\usepackage{csquotes}
+
 
 \title{有效过程与自然法则}
 \date{1985 年 9 月 9 日}
@@ -197,9 +201,16 @@ $$
 然而，我们在这里只是记下，编码和解码在逻辑上彼此不同，也不同于实际计算；
 如果它们在某种意义上是“无效”的，那么邱奇论题可能会失败，即使计算本身是完全递归的。
 
-\section{蕴含与因果性}
+\section{蕴涵与因果}
 
 正如我们已经看到的，在形式系统的领域，邱奇论题辨析了“有效过程”的直觉概念与纯粹的语法观点下的字符串处理。
+
+\begin{figure}[ht]
+\centering
+\includegraphics[height=2.5in]{images/boltzmanns_molecule.jpg}
+\caption{玻尔兹曼设想的由原子构成的分子}
+\end{figure}
+
 
 也就是说，任何可以在系统内“有效地”执行的蕴涵，都可以通过一套有限的产生规则来执行，这套规则操作于从一个有限字母表中取出的有限的符号串。
 我们还指出，当我们在处理物质世界时（相对于形式的数学和逻辑），蕴涵的观念被因果关系的观念所取代。
@@ -213,24 +224,52 @@ $$
 物质系统中事件之间的因果关系可以与描述这些事件的命题之间的蕴涵关系相联系的观点是理论科学的必要条件。
 事实上，过去被称为自然法则的信念要求：
 \begin{enumerate}[label=(\alph*)]
-\item 我们在外部世界中感知到的事件序列不是任意的或异想天开的，而是受到明确规则的支配（这就是因果关系），
+\item 我们在外部世界中感知到的事件序列不是任意的或异想天开的，而是受到明确规则的支配（这就是因果关系）；
 \item 这些规则可以清楚地表达出来，以便人类头脑能够理解。
 \end{enumerate}
-综上所述，自然法则的这种表述精确地断言，物质系统中的因果关系可以被引导到一个形式化（终极的，数学的）命题系统的蕴涵的一致性中。
+综上所述，自然法则的这种表述精确地断言，物质系统中的因果关系可以被引导到一个形式化的（终极的，数学的）命题系统的一致性蕴涵关系中。
 
-This situation can be most succinctly expressed in terms of a diagram (see Figure 1).
+这种情况可以最简洁地用图式一来表示(参见图9)。
 
-We say that a modeling relation exists between the natural system on the left of the diagram, and the formal system on the right, when the following
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+[round/.style={rounded corners=1.5mm, minimum width=1cm, inner sep=2mm, above right, draw, align=center, text width=7mm}]
+    \node[round] (N) at (0,0) {自然系统};
+    \node[round] (F) at (6,0) {形式系统};
+    \path[draw, thick, bend left=-45]
+        ($(N.east)+(0,-1.0)$) edge[->] node[near start] {\hspace{+6em}\ding{193}编码} ($(F.west)+(0,-1.0)$);
+    \path[draw, thick, bend left=-45]
+        ($(F.west)+(0,1.0)$) edge[->] node[near start] {\hspace{-6em}\ding{195}解码} ($(N.east)+(0,1.0)$);
+    \path[draw, thick, bend left=-45]
+        ($(N.west)+(0,+0.8)$) edge[->] node {\hspace{-3em}\ding{192}因果} ($(N.west)+(0,-0.8)$);
+    \path[draw, thick, bend left=-45]
+        ($(F.east)+(0,-0.8)$) edge[->] node {\hspace{+3em}\ding{194}蕴涵} ($(F.east)+(0,+0.8)$);
+\end{tikzpicture}
+\caption{图式一}
+\end{figure}
 
-commutativity holds:
-0 = 02 + 0 + 	(1)
-That is, we get the same answer whether we simply sit as observers, and watch the unfolding sequence of events in the natural system, or whether we (a) encode some properties of the natural system into the formalism, (b) use the implicative structure of the formal systhm to derive theorems, and then (c) decode these theorems into propositions (predictions) about the natural system itself.  When the diagram commutes, we have established a congruence between (some of) the causal features of the natural system and the implicative structure of the formal system. We can then say that the formal system is a model of the natural one, or alternatively, that the natural system is a realization of the formal one.
-   These little diagrams themselves possess a number of rich and important epistemological properties, which we cannot enter into here; for a fuller discussion, see e.g. Rosen 1985.
-Once we have thus constructed a formal system which is a model for
-some natural process, we have left the realm of science and entered that
-of mathematics. We can then treat a model as we would any other formal
-system. In particular, we can look at its purely syntactic aspects, which we can immediately identify with the "effective" processes of Church's Thesis,
-and ask whether these exhaust the implicative resources of the system itself.
+我们说，当以下的交换性成立时，图表左侧的自然系统和右侧的形式系统之间存在一种建模关系:
+
+\begin{equation}
+\Circled{1} = \Circled{2} + \Circled{3} + \Circled{4}
+\end{equation}
+\newline
+
+也就是说，无论我们是仅仅作为观察者坐在那里，观察自然系统中事件的展开序列，还是我们
+\begin{enumerate}[label=(\alph*)]
+\item 将自然系统的某些性质编码成形式；
+\item 然后利用形式系统的蕴涵结构导出定理；
+\item 再将这些定理解码成关于自然系统本身的命题（预测）
+\end{enumerate}
+我们都得到了同样的答案。当图表交换时，我们在自然系统的因果特征和形式系统的蕴涵结构之间建立了一个一致性。
+我们可以说形式系统是自然系统的模型，或者说，自然系统是形式系统的实现。
+
+这些小图表本身包含许多丰富而重要的认识论属性，我们不能在这里进入；要进行更全面的讨论，请参阅 Rosen 1985。
+
+一旦我们建立了一个形式的系统，作为某种自然过程的模型，我们就离开了科学的领域，进入了数学的领域。
+然后，我们可以像对待其他任何形式系统一样对待模型。特别是，我们可以看看它纯粹的语法方面，
+我们可以立即辨认出邱奇论题里的“有效”过程，并问这些过程是否耗尽了系统本身的蕴涵性资源。
 
 In this way, we can construct a purely syntactic "machine" model of our original natural system, as indicated in Figure 2.
 
