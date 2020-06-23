@@ -229,7 +229,7 @@ $$
 \end{enumerate}
 综上所述，自然法则的这种表述精确地断言，物质系统中的因果关系可以被引导到一个形式化的（终极的，数学的）命题系统的一致性蕴涵关系中。
 
-这种情况可以最简洁地用图式一来表示(参见图9)。
+这种情况可以最简洁地用图式一来表示（参见图9）。
 
 \begin{figure}[ht]
 \centering
@@ -271,7 +271,29 @@ $$
 然后，我们可以像对待其他任何形式系统一样对待模型。特别是，我们可以看看它纯粹的语法方面，
 我们可以立即辨认出邱奇论题里的“有效”过程，并问这些过程是否耗尽了系统本身的蕴涵性资源。
 
-In this way, we can construct a purely syntactic "machine" model of our original natural system, as indicated in Figure 2.
+通过这种方式，我们可以构建一个纯语法的原本的自然系统的“机器”模型，如 图10 所示。
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+[round/.style={rounded corners=1.5mm, minimum width=1cm, inner sep=2mm, above right, draw, align=center, text width=7mm}]
+    \node[round] (N) at (0,0) {自然系统};
+    \node[round] (F) at (6,0) {形式系统};
+    \node[round] (M) at (12,0) {机　　器};
+    \path[draw, thick, bend left=-45]
+        ($(N.east)+(0,-1.0)$) edge[->] node[near start] {} ($(F.west)+(0,-1.0)$);
+    \path[draw, thick, bend left=-45]
+        ($(F.west)+(0,1.0)$) edge[->] node[near start] {} ($(N.east)+(0,1.0)$);
+    \path[draw, thick, bend left=-45]
+        ($(N.west)+(0,+0.8)$) edge[->] node {\hspace{-3em}因果} ($(N.west)+(0,-0.8)$);
+    \path[draw, thick, bend left=-45]
+        ($(F.east)+(0,-0.8)$) edge[->] node {\hspace{+3em}蕴涵} ($(F.east)+(0,+0.8)$);
+    \path[draw, thick, bend left=-45]
+        ($(M.east)+(0,-0.8)$) edge[->] node {\hspace{+5em}字串处理} ($(M.east)+(0,+0.8)$);
+\end{tikzpicture}
+\caption{图式二}
+\end{figure}
+
 
 This can be seen by looking only at the outer two systems, and forgetting about our original model, which now plays the role of a "transducer"
 between them.
