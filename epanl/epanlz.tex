@@ -278,12 +278,20 @@ $$
 \begin{tikzpicture}
 [round/.style={rounded corners=1.5mm, minimum width=1cm, inner sep=2mm, above right, draw, align=center, text width=7mm}]
     \node[round] (N) at (0,0) {自然系统};
-    \node[round] (F) at (6,0) {形式系统};
-    \node[round] (M) at (12,0) {机　　器};
+    \node[round] (F) at (4,0) {形式系统};
+    \node[round] (M) at (8,0) {机　　器};
     \path[draw, thick, bend left=-45]
         ($(N.east)+(0,-1.0)$) edge[->] node[near start] {} ($(F.west)+(0,-1.0)$);
     \path[draw, thick, bend left=-45]
         ($(F.west)+(0,1.0)$) edge[->] node[near start] {} ($(N.east)+(0,1.0)$);
+    \path[draw, thick, bend left=-45]
+        ($(F.east)+(0,-1.0)$) edge[->] node[near start] {} ($(M.west)+(0,-1.0)$);
+    \path[draw, thick, bend left=-45]
+        ($(M.west)+(0,1.0)$) edge[->] node[near start] {} ($(F.east)+(0,1.0)$);
+    \path[draw, thick, dotted, color=lightgray, bend left=-45]
+        ($(N.south)$) edge[->] node[near start] {} ($(M.south)$);
+    \path[draw, thick, dotted, color=lightgray, bend left=-45]
+        ($(M.north)$) edge[->] node[near start] {} ($(N.north)$);
     \path[draw, thick, bend left=-45]
         ($(N.west)+(0,+0.8)$) edge[->] node {\hspace{-3em}因果} ($(N.west)+(0,-0.8)$);
     \path[draw, thick, bend left=-45]
@@ -295,53 +303,41 @@ $$
 \end{figure}
 
 
-This can be seen by looking only at the outer two systems, and forgetting about our original model, which now plays the role of a "transducer"
-between them.
+我们只看外侧的两个系统，忘记原本的模型，这个模型现在在两者间扮演一种“转换器”的角色。
 
-However, when we do this, the following points must be explicitly noticed: (a) the encoding and decoding arrows between them (the
-dotted arrows in Figure 2) cannot be described as effective in any formal
-sense, and (b) these encoding and decoding arrows involve exclusively the
-input and output strings of the machines inhabiting the right-most box. Both
-of these observations are important. We shall briefly discuss them each in
-turn.
+但是，当我们这样做时，必须明确注意以下几点:
+\begin{enumerate}[label=(\alph*)]
+\item 它们之间的编码和解码箭头(图式二中的虚线箭头)在任何形式意义上都不能被描述为有效的；
+\item 这些编码和解码箭头只涉及居最右的边框中的机器的输入和输出字符串；
+\end{enumerate}
+这两个观察结果都很重要。我们将依次简要地讨论它们。
 
-In applying Church's Thesis to formal systems, we noted above that the
-corresponding encoding and decoding arrows themselves represented formal processes, which could in fact be amalgamated into
-the Thesis itself. However, when we wish to compare a natural system, governed by causality, with a formal system, governed by
-implication, this is no longer the case. The encoding instruments, or transducers, are now themselves material systems;
-i.e., governed by causality and not by implications. As noted above, they are (in the broadest sense) meters. Since these meters are governed by
-causality, anything they do is effective in a material sense. But it is clear that a formalization of the encoding process would require more models;
-these would in turn require their own encoding and decoding processes, which would require more models, etc., an infinite regress.
-It is precisely this fact which makes "the measurement problem" so hard in physics. The question as to whether this potential infinite regress
-can be terminated at some finite point is a deep epistemological question about the nature of the world, with close ties to such things as
-reductionism. We cannot of course enter into such matters here; we will merely assume that a set of meters or other transducers
-from the natural world to input tapes is given, and that Church's Thesis can be investigated relative to these encodings
-(which are then, by hypothesis, effective in the material sense).
+在将邱奇论题应用于形式系统时，我们注意到上述相应的编码和解码箭头本身代表形式过程，实际上可以合并到论题本身。
+然而，当我们想要比较一个受因果关系支配的自然系统和一个受蕴涵支配的形式系统时，情况就不一样了。
+编码工具，或转换器，现在本身就是物质系统；也就是说，是由因果关系而不是蕴涵所支配。
+如上所述，它们(在最广泛的意义上)是仪表。因为这些仪表受因果关系支配，它们所做的任何事情在物质意义上都是有效的。
+但是很明显，编码过程的形式化需要更多的模型；这反过来又需要它们自己的编码和解码过程，这就需要更多的模型，等等，一个无穷回归。
+正是这一事实使物理学中的“测量问题”变得如此困难。
+这个潜在的无穷回归是否可以在某个有限点终止的问题是一个关于世界本质的深刻的认识论问题，与简化论这样的东西有着密切的联系。
+我们当然不能在这里进入这样的问题；我们只是假设从自然世界到输入码带的一套仪表或其他转换器是给定的，
+并且可以相对于这些编码对丘奇论题进行调查（然后，通过假设，在物质意义是有效的）。
 
-Our second observation is also epistemologically important. It says that
-all relevant features of a material system, and of the model into which it
-was originally encoded (cf. Figure 1), are to be expressed as input strings to
-be processed by a machine whose structure itself encodes nothing. That is to
-say, the rules governing the operation of these machines, and hence the entire
-inferential structure of the string-processing system themselves, have no
-relation at all to the material system being encoded. The'only requirement
-is that the requisite commutativity hold, as expressed in Section 1 above,
-between the encoding on input strings and the decoding of the resultant
-output strings. As we shall see, this is the essence of simulation.
+\begin{figure}[ht]
+\centering
+\includegraphics[height=2.5in]{images/infinite_reflections.jpg}
+\caption{镜像里的无穷回归}
+\end{figure}
 
-We have already noted that Church's Thesis amounts to asserting that
-all causal relationships can be expressed in purely syntactic terms. We can
-formulate the Thesis still more sharply now: relative to any given encoding
-of a natural system into input strings, the string-processing machinery itself
-must not encode any aspect of the material system.  That is to say, the
-"hardware" of the machines must be totally independent of the "hardware"
-generating the strings to be processed. If this cannot be done, then Church's
-Thesis cannot be true.
+我们的第二个观察在认识论上也很重要。它说，一个物质系统的所有相关特征，以及它最初被编码进去的模型的所有相关特征(参见图式一) ，
+都被表示为输入字符串，由一台其结构本身不编码任何东西的机器处理。也就是说，控制这些机器操作的规则，以及字符串处理系统本身的整个推理结构，
+与被编码的物质系统毫无关系。唯一的要求是，在输入字符串的编码和结果输出字符串的解码之间保持必要的交换性，如上文第1节所述。
+正如我们将看到的，这就是模拟的本质。
 
-Given the above, Church's Thesis asserts that the Turing machines constitute
-a class of universal simulators for all material processes. There are
-then two questions to be asked: (a) is it true? and (b) if so, what does it
-mean?
+我们已经注意到，邱奇论题相当于断言，所有的因果关系，可以表达成纯粹的语法项。
+我们现在可以更明确地阐述这个命题: 相对于将自然系统的任何特定编码转化为输入字符串，字符串处理机器本身不能对物质系统的任何方面进行编码。
+也就是说，机器的“硬件”必须完全独立于生成要处理的字符串的“硬件”。 如果不能做到这一点，那么邱奇论题就不可能是正确的。
+
+鉴于上述，邱奇论题断言，对所有物质过程，图灵机构成了一类通用的模拟器。 这里有两个问题要问: (a)这是真的吗？ (b)如果是，那意味着什么？
 
 \section{邱奇论题在物理上是正确的吗？}
 
