@@ -29,6 +29,21 @@
 
 \usepackage{tikz}
 
+\DeclareMathSymbol{\mathinvertedexclamationmark}{\mathclose}{operators}{'074}
+\DeclareMathSymbol{\mathexclamationmark}{\mathclose}{operators}{'041}
+\makeatletter
+\newcommand{\raisedmathinvertedexclamationmark}{%
+  \mathclose{\mathpalette\raised@mathinvertedexclamationmark\relax}%
+}
+\newcommand{\raised@mathinvertedexclamationmark}[2]{%
+  \raisebox{\depth}{$\m@th#1\mathinvertedexclamationmark$}%
+}
+\begingroup\lccode`~=`! \lowercase{\endgroup
+  \def~}{\@ifnextchar`{\raisedmathinvertedexclamationmark\@gobble}{\mathexclamationmark}}
+\mathcode`!="8000
+\makeatother
+
+
 \title{Suan: towards a geometry of computation}
 
 %\date{September 9, 1985}	% Here you can change the date presented in the paper title
@@ -444,6 +459,38 @@ The other candidate is
 $$
 \lim_{n \to \infty} \frac{(n!)^{1/n}}{n} = \frac{1}{e}
 $$
+
+Some new findings for the duality:
+
+when $k > 0$, we have
+$$
+n! = 0! \prod_{k = 1}^n k = 0! \prod_{k = 1}^n \sum_{l = 1}^k 1
+$$
+and when $k = 0$
+$$
+0! = 1
+$$
+similarly, we have below formula
+$$
+n!` = 0 !` + \sum_{k = 1}^n \gamma^k = 0 !` + \sum_{k = 1}^n \prod_{l = 1}^k \gamma
+$$
+and
+$$
+0!` = ?
+$$
+
+then we have the pair of dual identity
+
+$$
+1 = \prod_{k = 0}^\infty (\frac{\infty!` - n!`}{\infty!` - 0!`})
+$$
+
+and
+
+$$
+e = \sum_{n = 0}^\infty (\frac{0!}{n!} - \frac{0!}{\infty!})
+$$
+
 
 \section{An embedding from generated expressions to hyperbolic surface}\label{sec:embeding}
 
