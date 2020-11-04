@@ -84,7 +84,7 @@
 \maketitle
 
 \begin{abstract}
-    After embedding all arithmetical expressions into hyperbolic surface, we define a local polar coordinate
+    After assigning all arithmetical expressions into hyperbolic surface, we define a local polar coordinate
     and then derive a flow equation, we show the consistency among the discrete constructions, infinitesimal calculation
     and the hyperbolic geometrical structures by several interesting cases.
     These lead to the foundation problem which is still unsolved, and we propose several ways to attack it.
@@ -104,6 +104,9 @@ We consider the arithmetical expression set $A$ which is freely generated from
 \begin{itemize}
     \item initial operand: $0$
     \item operator: $\oplus_n: x \mapsto x + 2^{-n}$
+    \item operator: $\ominus_n: x \mapsto x - 2^{-n}$
+    \item operator: $\otimes_n: x \mapsto x \cdot e^{2^{-n}}$
+    \item operator: $\oslash_n: x \mapsto x / e^{2^{-n}}$
 \end{itemize}
 where e is the Euler's number.
 
@@ -452,10 +455,6 @@ The subgroup $\mathcal{Q}_n $ is a normal subgroup of $\mathcal{P}_n$.
 \subsubsection{Syntactical structure}
 
 \subsubsection{Semantical structure}
-
-
-
-
 
 
 $A_0$ can be embedded into Hyperbolic plane $H_2$ as a regular tree which is an infinite tree of degree 4.
