@@ -2,8 +2,11 @@ import numpy as np
 
 import matplotlib.pyplot as plt
 
+ratio = 2 * np.pi
+
 
 fig, ax = plt.subplots()
+fig.set_size_inches(74, 42, forward=True)
 
 
 def adjustFigAspect(fig, aspect=1):
@@ -29,8 +32,8 @@ ax.spines['right'].set_color('none')
 ax.spines['top'].set_color('none')
 ax.xaxis.set_ticks_position('bottom')
 ax.yaxis.set_ticks_position('left')
-ax.set_xlim((-3, 3))
-ax.set_ylim((0, 3))
+ax.set_xlim((-3 * 1.2, 3 * 1.2))
+ax.set_ylim((0, 3 * 1.2))
 
 
 def mk_mobius(a, b, c, d):
@@ -38,22 +41,25 @@ def mk_mobius(a, b, c, d):
         return (a * w + b) / (c * w + d)
     return mobius
 
-
-angles = np.linspace(0, np.pi, 100000)
-axis_m = np.zeros(100000) + np.linspace(0, 1000, 100000) * 1j
-axis_an1 = (np.cos(angles) + np.sin(angles) * 1j) / np.e
+angles = np.linspace(0, np.pi, 100000, dtype=np.float64)
+axis_m = np.zeros(100000, dtype=np.float64) + np.linspace(0, 1000, 100000, dtype=np.float64) * 1j
+axis_an1 = (np.cos(angles) + np.sin(angles) * 1j) / ratio
 axis_a0 = (np.cos(angles) + np.sin(angles) * 1j)
-axis_ap1 = (np.cos(angles) + np.sin(angles) * 1j) * np.e
+axis_ap1 = (np.cos(angles) + np.sin(angles) * 1j) * ratio / np.pi
 
 ax.scatter(np.real(axis_m), np.imag(axis_m), s=0.1, c='blue', marker='.')
 ax.scatter(np.real(axis_an1), np.imag(axis_an1), s=0.1, c='red', marker='.')
 ax.scatter(np.real(axis_a0), np.imag(axis_a0), s=0.1, c='red', marker='.')
 ax.scatter(np.real(axis_ap1), np.imag(axis_ap1), s=0.1, c='red', marker='.')
 
-m = mk_mobius(1.0, 1.0, 1.0, -1.0)
+rs = axis_an1
+mb = mk_mobius(1.0, -1.0, 1.0, +1.0)
+for _ in range(100):
+    rs = mb(rs)
+    ax.scatter(np.real(rs), np.imag(rs), s=0.1, c='yellow', marker='.')
+    rs = rs / ratio
+    ax.scatter(np.real(rs), np.imag(rs), s=0.1, c='yellow', marker='.')
 
-rs = m(axis_a0)
-ax.scatter(np.real(rs), np.imag(rs), s=0.1, c='yellow', marker='.')
 
 
 adjustFigAspect(fig, aspect=2)
