@@ -31,6 +31,7 @@ def adjustFigAspect(fig, aspect=1):
                         bottom=0.5-ylim,
                         top=0.5+ylim)
 
+
 ax.spines['left'].set_position('center')
 ax.spines['right'].set_color('none')
 ax.spines['top'].set_color('none')
