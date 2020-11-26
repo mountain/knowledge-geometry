@@ -2,8 +2,11 @@ import numpy as np
 
 import matplotlib.pyplot as plt
 
-iteration = 1000
-ratio = 1.8553 * np.pi
+from scipy.spatial.distance import cdist
+
+iteration = 1
+size = 10000
+ratio = 1.85523 * np.pi
 
 
 fig, ax = plt.subplots()
@@ -33,36 +36,94 @@ ax.spines['right'].set_color('none')
 ax.spines['top'].set_color('none')
 ax.xaxis.set_ticks_position('bottom')
 ax.yaxis.set_ticks_position('left')
-ax.set_xlim((-3 * 1.2, 3 * 1.2))
-ax.set_ylim((0, 3 * 1.2))
+ax.set_xlim((-6 * 1.1, 6 * 1.1))
+ax.set_ylim((0, 6 * 1.1))
 
 
 def mk_mobius(a, b, c, d):
     def mobius(w):
         return (a * w + b) / (c * w + d)
-    return mobius
+    def inverse(w):
+        return (d * w - b) / (- c * w + a)
+    return mobius, inverse
 
-angles = np.linspace(0, np.pi, 100000, dtype=np.float64)
-axis_m = np.zeros(100000, dtype=np.float64) + np.linspace(0, 1000, 100000, dtype=np.float64) * 1j
+
+angles = np.linspace(0, np.pi, size, dtype=np.float128)
+axis_m = np.zeros(size, dtype=np.float128) + np.linspace(0, size / 100, size, dtype=np.float128) * 1j
 axis_an1 = (np.cos(angles) + np.sin(angles) * 1j) / ratio
 axis_a0 = (np.cos(angles) + np.sin(angles) * 1j)
 axis_ap1 = (np.cos(angles) + np.sin(angles) * 1j) * ratio
 
-ax.scatter(np.real(axis_m), np.imag(axis_m), s=0.1, c='blue', marker='.')
-ax.scatter(np.real(axis_an1), np.imag(axis_an1), s=0.1, c='red', marker='.')
-ax.scatter(np.real(axis_a0), np.imag(axis_a0), s=0.1, c='red', marker='.')
-ax.scatter(np.real(axis_ap1), np.imag(axis_ap1), s=0.1, c='red', marker='.')
+lastf = axis_an1
+lasti = axis_an1
+arm = [axis_a0, axis_m, axis_a0]
+fwd, inv = mk_mobius(1.0, -1.0, 1.0, +1.0)
 
-rs = axis_an1
-mb = mk_mobius(1.0, -1.0, 1.0, +1.0)
 for _ in range(iteration):
-    rs = mb(rs)
-    ax.scatter(np.real(rs), np.imag(rs), s=0.1, c='yellow', marker='.')
-    rs = rs / ratio
-    ax.scatter(np.real(rs), np.imag(rs), s=0.1, c='yellow', marker='.')
+    lastf = fwd(lastf)
+    arm.append(lastf)
+    lastf = lastf / ratio
+
+arm = list(reversed(arm))
+
+for _ in range(iteration):
+    lasti = inv(lasti)
+    arm.append(lasti)
+    lasti = lasti / ratio
+
+arm = np.array(arm)
+ax.scatter(np.real(arm.flatten()), np.imag(arm.flatten()), s=0.1, c='blue', marker='.')
+fig.savefig('arm.png')
 
 
+def validate():
+    kx = None
+    for _ in range(2 * iteration + 2):
+        print('validating %s ...' % _)
+        xs, ys = arm[_], arm[_ + 1]
+        a = xs.view(np.float64).reshape(size, 2)
+        b = ys.view(np.float64).reshape(size, 2)
+        dm = cdist(a, b, 'euclidean')
+        pos = np.argmin(dm)
+        ix, jx = pos // size, pos % size
+        d1 = dm[ix, jx]
+        d2 = np.abs(xs[ix] - ys[jx])
+        print('%s ...' % d1)
+        assert d1 == d2 and d1 < 0.001
+        k = np.real((xs[ix + 1] - xs[ix - 1]) / (ys[jx + 1] - ys[jx - 1]))
+        print('%s ...' % k)
+        assert k < 0.006
+        if kx is not None:
+            if kx > ix:
+                step = -1
+            else:
+                step = +1
+            lastp, length = None, 0
+            for sx in range(kx, ix, step):
+                p = xs[sx]
+                if lastp is not None:
+                    ds2 = (np.abs(p - lastp) ** 2) / (np.imag((p + lastp) / 2) ** 2)
+                    length += np.sqrt(ds2)
+                lastp = p
+            print('d(%s, %s) = %s ...' % (kx, ix, length))
+        kx = jx
 
-adjustFigAspect(fig, aspect=2)
 
-fig.savefig('halfplane.png')
+scale = 1.6
+for _ in range(4):
+    arm1 = fwd(arm) # rotate right
+    ax.scatter(np.real(arm1), np.imag(arm1), s=0.1, c='red', marker='.')
+    arm2 = inv(arm) # rotate left
+    ax.scatter(np.real(arm2), np.imag(arm2), s=0.1, c='green', marker='.')
+    arm3 = arm * ratio # scale up
+    ax.scatter(np.real(arm3), np.imag(arm3), s=0.1, c='yellow', marker='.')
+    arm4 = arm / ratio # scale down
+    ax.scatter(np.real(arm4), np.imag(arm4), s=0.1, c='purple', marker='.')
+
+    scale *= ratio
+    ax.set_xlim((-scale * 1.1, scale * 1.1))
+    ax.set_ylim((0, scale * 1.1))
+    adjustFigAspect(fig, aspect=2)
+    fig.savefig('halfplane%s.png' % _)
+
+    arm = np.concatenate([arm1, arm2, arm3, arm4])
