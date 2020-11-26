@@ -2,7 +2,8 @@ import numpy as np
 
 import matplotlib.pyplot as plt
 
-ratio = 2 * np.pi
+iteration = 1000
+ratio = 1.8553 * np.pi
 
 
 fig, ax = plt.subplots()
@@ -45,7 +46,7 @@ angles = np.linspace(0, np.pi, 100000, dtype=np.float64)
 axis_m = np.zeros(100000, dtype=np.float64) + np.linspace(0, 1000, 100000, dtype=np.float64) * 1j
 axis_an1 = (np.cos(angles) + np.sin(angles) * 1j) / ratio
 axis_a0 = (np.cos(angles) + np.sin(angles) * 1j)
-axis_ap1 = (np.cos(angles) + np.sin(angles) * 1j) * ratio / np.pi
+axis_ap1 = (np.cos(angles) + np.sin(angles) * 1j) * ratio
 
 ax.scatter(np.real(axis_m), np.imag(axis_m), s=0.1, c='blue', marker='.')
 ax.scatter(np.real(axis_an1), np.imag(axis_an1), s=0.1, c='red', marker='.')
@@ -54,7 +55,7 @@ ax.scatter(np.real(axis_ap1), np.imag(axis_ap1), s=0.1, c='red', marker='.')
 
 rs = axis_an1
 mb = mk_mobius(1.0, -1.0, 1.0, +1.0)
-for _ in range(100):
+for _ in range(iteration):
     rs = mb(rs)
     ax.scatter(np.real(rs), np.imag(rs), s=0.1, c='yellow', marker='.')
     rs = rs / ratio
