@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 from scipy.spatial.distance import cdist
 
-iteration = 1
+iteration = 100
 size = 10000
 ratio = 1.85523 * np.pi
 
@@ -20,8 +20,8 @@ def adjustFigAspect(fig, aspect=1):
     '''
     xsize, ysize = fig.get_size_inches()
     minsize = min(xsize, ysize)
-    xlim = 0.7 * minsize/xsize
-    ylim = 0.7 * minsize/ysize
+    xlim = 0.9 * minsize/xsize
+    ylim = 0.9 * minsize/ysize
     if aspect < 1:
         xlim *= aspect
     else:
@@ -110,21 +110,31 @@ def validate():
         kx = jx
 
 
-scale = 1.6
-for _ in range(4):
+wsize = 1.0
+for _ in range(1):
     arm1 = fwd(arm) # rotate right
-    ax.scatter(np.real(arm1), np.imag(arm1), s=0.1, c='red', marker='.')
+    ax.scatter(np.real(arm1), np.imag(arm1), s=0.1, c='green', marker='.')
     arm2 = inv(arm) # rotate left
-    ax.scatter(np.real(arm2), np.imag(arm2), s=0.1, c='green', marker='.')
+    ax.scatter(np.real(arm2), np.imag(arm2), s=0.1, c='red', marker='.')
     arm3 = arm * ratio # scale up
     ax.scatter(np.real(arm3), np.imag(arm3), s=0.1, c='yellow', marker='.')
-    arm4 = arm / ratio # scale down
-    ax.scatter(np.real(arm4), np.imag(arm4), s=0.1, c='purple', marker='.')
+    # arm4 = arm / ratio # scale down
+    # ax.scatter(np.real(arm4), np.imag(arm4), s=0.1, c='green', marker='.')
 
-    scale *= ratio
-    ax.set_xlim((-scale * 1.1, scale * 1.1))
-    ax.set_ylim((0, scale * 1.1))
+    # arm5 = arm * np.sqrt(ratio) # scale up
+    # ax.scatter(np.real(arm5), np.imag(arm5), s=0.1, c='blue', marker='.')
+    # arm6 = arm / np.sqrt(ratio) # scale down
+    # ax.scatter(np.real(arm6), np.imag(arm6), s=0.1, c='blue', marker='.')
+    #
+    # arm7 = arm * np.sqrt(np.sqrt(ratio)) # scale up
+    # ax.scatter(np.real(arm7), np.imag(arm7), s=0.1, c='green', marker='.')
+    # arm8 = arm * np.sqrt(np.sqrt(ratio)) * np.sqrt(ratio) # scale down
+    # ax.scatter(np.real(arm8), np.imag(arm8), s=0.1, c='green', marker='.')
+
+    wsize *= ratio
+    ax.set_xlim((-wsize * 1.1, wsize * 1.1))
+    ax.set_ylim((0, wsize * 1.1))
     adjustFigAspect(fig, aspect=2)
     fig.savefig('halfplane%s.png' % _)
 
-    arm = np.concatenate([arm1, arm2, arm3, arm4])
+    arm = np.concatenate([arm1, arm2, arm3])
