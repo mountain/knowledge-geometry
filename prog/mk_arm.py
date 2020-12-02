@@ -10,7 +10,7 @@ granularity = 180
 size = iteration * granularity + 1
 
 # 1.85501339 at iteration = 500 and granularity = 200
-arclength0 = np.array([1.85501339 * np.pi], dtype=np.float128)
+ratio = np.array([1.85501339 * np.pi], dtype=np.float128)
 
 
 angles = np.linspace(0, np.pi, size, dtype=np.float128)
@@ -50,7 +50,7 @@ def mk_arm(arclength):
 
 
 grid = {}
-arm, fwd, inv = mk_arm(arclength0)
+arm, fwd, inv = mk_arm(ratio)
 
 
 def validate():
@@ -94,7 +94,7 @@ data = {
     'iteration': iteration,
     'granularity': granularity,
     'size': size,
-    'arclength0': arclength0,
+    'ratio': ratio,
     'arm': arm,
     'grid': grid
 }

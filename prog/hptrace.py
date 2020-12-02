@@ -16,7 +16,7 @@ with gzip.open('arm.pkl.gz', mode='rb') as g:
     iteration = data['iteration']
     granularity = data['granularity']
     size = data['size']
-    arclength0 = data['arclength0']
+    ratio = data['ratio']
     arm = data['arm']
     grid = data['grid']
 
@@ -77,11 +77,11 @@ def mk_cost(index):
 
 for _ in range(arm.shape[0]):
     res = minimize(mk_cost(_), 1.0, method='Powell')
-    ratio = res.x
-    print(ratio)
-    if ratio[0] > 0:
-        branch = arm[_] * ratio
-        assignment = 0
+    scale = res.x
+    print(scale)
+    if scale[0] > 0:
+        branch = arm[_] * scale
+        assignment0 = np.exp(- np.log(scale) / np.log(ratio))
 
 
 
