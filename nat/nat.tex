@@ -1,0 +1,64 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{datetime}
+\usepackage{amsmath, amsthm, amssymb}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{enumitem}
+\usepackage{fancyref}
+
+\input{../data/style}
+
+\setlength{\parindent}{0em}
+
+\newcommand{\specialcell}[2][c]{%
+  \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
+
+\newtheorem{definition}{定义}
+\newtheorem{lemma}{引理}
+\newtheorem{proposition}{命题}
+\newtheorem{grammar}{文法}
+\newtheorem{program}{程序}
+\newtheorem{convention}{约定}
+\renewcommand*{\proofname}{证明}
+
+\usetikzlibrary{shapes.geometric}
+\tikzset{
+    turtle/.style={
+        draw,
+        shape border rotate=270,
+        regular polygon,
+        regular polygon sides=3,
+        fill=gray,
+        node distance=2cm,
+        minimum height=4em
+    }
+}
+
+\newdateformat{monthyeardate}{\THEYEAR 年 \THEMONTH 月}
+
+\title{关于自然数的定义}
+\author{苑明理}
+\date{\monthyeardate\today}
+
+\begin{document}
+\begingroup
+\let\newpage\relax
+\maketitle
+\endgroup
+
+\renewcommand\contentsname{目录}
+\setcounter{tocdepth}{2}
+\tableofcontents
+
+\newpage
+
+\section{采用的约定}
+
+\section{有限和有限性}
+
+\section{皮亚诺公理}
+
+\section{一进系统的初始模型}
+
+\section{几个研究的方向}
+
+\end{document}
