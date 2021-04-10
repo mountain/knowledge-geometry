@@ -91,7 +91,6 @@
     If the foundation problem is true, we can define a new mathematical system Suan or $\mathfrak{S}$, and reformulate other
     traditional mathematical object in a new way. Several important question arosed by $\mathfrak{S}$ are proposed,
     and further study directions are also included.
-    We introduce a new construction can expand calculus theory to heterogeneous accumulation process.
 \end{abstract}
 
 \keywords{hyperbolic surface \and addition-multiplication tree \and infinitesimal calculation \and Suan system \and geometry of computation}
@@ -153,38 +152,40 @@ Below are several geometric facts about the hyperbolic plane which we are intere
 
 \subsubsection{tiling}
 
-\subsection{Poincaré disk model}
+\subsection{Models of hyperbolic plane}
 
-\subsection{Poincaré upper half plane model}
+\subsubsection{Poincaré disk model}
 
 Considering a unit disk $D$ on Euclid plane, $\partial D$ is the boundary and $D^o$ is the interior,
 
-\subsection{Order-4 apeirogonal tiling}\label{sec:tiling}
+\subsubsection{Poincaré upper half plane model}
+
+\section{Order-4 apeirogonal tiling}\label{sec:tiling}
 
 \section{Arithmetical expressions}\label{sec:expressions}
 
-We consider the arithmetical expression set $A$ which is freely generated from
+We consider the arithmetical expression set $A(a, b)$ which is freely generated from
 \begin{itemize}
     \item initial operand: $0$
-    \item operator: $\oplus_n: x \mapsto x + 2^{-n}$
-    \item operator: $\ominus_n: x \mapsto x - 2^{-n}$
-    \item operator: $\otimes_n: x \mapsto x \cdot e^{2^{-n}}$
-    \item operator: $\oslash_n: x \mapsto x / e^{2^{-n}}$
+    \item operator: $\oplus_a: x \mapsto x + a$
+    \item operator: $\ominus_a: x \mapsto x - a$
+    \item operator: $\otimes_b: x \mapsto x \cdot b$
+    \item operator: $\oslash_b: x \mapsto x / b$
 \end{itemize}
-where e is the Euler's number.
+where $a$ and $b$ is two positive real number, $a$ is the additional generator and $b$ is the multiplicative generator.
 
-With $A_n$ defined as above, we have a chain of inclusion
-\begin{lemma}
-\label{lemma:chainofinclusion1}
-We have
-$$ A_0 \subset A_1 \subset A_2 \subset \ldots \subset A_n \subset \ldots $$
-hold for all $n$.
-\end{lemma}
+With different equality we adopt on A, we will get different structures:
+\begin{itemize}
+    \item literal structure: under the literal equality which leads to paths on a tree structure
+    \item syntactical structure: under the syntactical equality which embrace a path group
+    \item semantical structure: under the equality of real when we compare the two side after evaluate both expressions
+\end{itemize}
 
-\subsection{Literial structure}\label{sec:literial}
+\subsection{Literal structure}\label{subsec:literial}
 
+paths on a tree
 
-\subsection{Syntactical structure}\label{sec:syntactical}
+\subsection{Syntactical structure}\label{subsec:syntactical}
 
 In this section, we discus the conclusions that is drawn only from the syntactical side of the definition of $A_n$ and
 do not borrow any semantic properties from the calculation result of the expressions.
@@ -227,7 +228,7 @@ $$\alpha = \beta a_n^{-1} a_{n-1}^{-1} ... a_2^{-1} a_1^{-1}$$
 \qedhere
 \end{proof}
 
-After intruduce of a zero operator $\odot$ which is its own inverse:
+After introduce of a zero operator $\odot$ which is its own inverse:
 \begin{itemize}
     \item $\odot: x \mapsto x$
     \item $\odot^{-1} = \odot$
@@ -538,56 +539,6 @@ $A_0$ can be embedded into Hyperbolic plane $H_2$ as a regular tree which is an 
 \end{figure}
 
 \subsection{On geometrical structure}\label{sec:geostructure}
-
-\begin{figure}[ht]
-\centering
-\includegraphics[scale=1.6]{../images/hilbertsq0.eps}
-\includegraphics[scale=0.8]{../images/hilbertsq1.eps}
-\includegraphics[scale=0.4]{../images/hilbertsq2.eps}
-\includegraphics[scale=0.2]{../images/hilbertsq3.eps}
-\includegraphics[scale=0.1]{../images/hilbertsq4.eps}
-\caption{Hilbert curves}
-\end{figure}
-
-\newpage
-
-\begin{figure}[ht]
-\centering
-\includegraphics[scale=16.0]{../images/hilbertcc0.eps}
-\caption{Conformally mapping Hilbert curves into unit disk}
-\end{figure}
-
-\newpage
-
-\begin{figure}[ht]
-\centering
-\includegraphics[scale=4.0]{../images/hilbertcc1.eps}
-\caption{Conformally mapping Hilbert curves into unit disk}
-\end{figure}
-
-\newpage
-
-\begin{figure}[ht]
-\centering
-\includegraphics[scale=0.50]{../images/hilbertcc2.eps}
-\caption{Conformally mapping Hilbert curves into unit disk}
-\end{figure}
-
-\newpage
-
-\begin{figure}[ht]
-\centering
-\includegraphics[scale=0.125]{../images/hilbertcc3.eps}
-\caption{Conformally mapping Hilbert curves into unit disk}
-\end{figure}
-
-\newpage
-
-\begin{figure}[ht]
-\centering
-\includegraphics[scale=0.03125]{../images/hilbertcc4.eps}
-\caption{Conformally mapping Hilbert curves into unit disk}
-\end{figure}
 
 \newpage
 
