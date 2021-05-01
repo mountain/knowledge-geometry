@@ -18,6 +18,7 @@
 \usepackage{tikz}
 \usetikzlibrary{shapes,arrows,shadows}
 
+
 % 字体设置
 \setmainfont{Times New Roman}
 \setsansfont[Scale=MatchLowercase,Mapping=tex-text]{PT Sans}
@@ -25,26 +26,37 @@
 \setCJKmainfont[ItalicFont={Kaiti SC}, BoldFont={Heiti SC}]{Songti SC}
 \setCJKsansfont{Heiti SC}
 \setCJKmonofont{Songti SC}
-% \setCJKmainfont[BoldFont={FZXiaoBiaoSong-B05S}]{Songti SC}
-% \setCJKfamilyfont{kai}[BoldFont=Heiti SC]{Kaiti SC}
-% \setCJKfamilyfont{song}[BoldFont=Heiti SC]{Songti SC}
-% \setCJKfamilyfont{hei}[BoldFont=Heiti SC]{Heiti SC}
-% \setCJKfamilyfont{fsong}[BoldFont=Heiti SC]{Songti SC}
-% \newcommand{\kai}[1]{{\CJKfamily{kai}#1}}
-% \newcommand{\hei}[1]{{\CJKfamily{hei}#1}}
-% \setromanfont[Mapping=tex-text]{TeXGyrePagella}
-% \setsansfont[Scale=MatchLowercase,Mapping=tex-text]{TeXGyrePagella}
-% \setmonofont[Scale=MatchLowercase]{Courier New}
+
+\newcommand{\song}{\CJKfamily{song}} % 宋体
+\newcommand{\fs}{\CJKfamily{fs}} % 仿宋体
+\newcommand{\kai}{\CJKfamily{kai}} % 楷体
+\newcommand{\hei}{\CJKfamily{hei}} % 黑体
+\newcommand{\li}{\CJKfamily{li}} % 隶书
+\newcommand{\you}{\CJKfamily{you}} % 幼圆
+\def\songti{\song}
+\def\fangsong{\fs}
+\def\kaishu{\kai}
+\def\heiti{\hei}
+\def\lishu{\li}
+\def\youyuan{\you}
+
 %%设置常用中文字号，方便调用
+\newcommand{\chuhao}{\fontsize{42pt}{\baselineskip}\selectfont}
+\newcommand{\xiaochu}{\fontsize{36pt}{\baselineskip}\selectfont}
+\newcommand{\yihao}{\fontsize{26pt}{\baselineskip}\selectfont}
+\newcommand{\xiaoyi}{\fontsize{24pt}{\baselineskip}\selectfont}
 \newcommand{\erhao}{\fontsize{22pt}{\baselineskip}\selectfont}
-\newcommand{\xiaoerhao}{\fontsize{18pt}{\baselineskip}\selectfont}
+\newcommand{\xiaoer}{\fontsize{18pt}{\baselineskip}\selectfont}
 \newcommand{\sanhao}{\fontsize{16pt}{\baselineskip}\selectfont}
-\newcommand{\xiaosanhao}{\fontsize{15pt}{\baselineskip}\selectfont}
+\newcommand{\xiaosan}{\fontsize{15pt}{\baselineskip}\selectfont}
 \newcommand{\sihao}{\fontsize{14pt}{\baselineskip}\selectfont}
-\newcommand{\xiaosihao}{\fontsize{12pt}{\baselineskip}\selectfont}
+\newcommand{\xiaosi}{\fontsize{12pt}{\baselineskip}\selectfont}
 \newcommand{\wuhao}{\fontsize{10.5pt}{\baselineskip}\selectfont}
-\newcommand{\xiaowuhao}{\fontsize{9pt}{\baselineskip}\selectfont}
+\newcommand{\xiaowu}{\fontsize{9pt}{\baselineskip}\selectfont}
 \newcommand{\liuhao}{\fontsize{7.5pt}{\baselineskip}\selectfont}
+\newcommand{\xiaoliu}{\fontsize{6.5pt}{\baselineskip}\selectfont}
+\newcommand{\qihao}{\fontsize{5.5pt}{\baselineskip}\selectfont}
+\newcommand{\bahao}{\fontsize{5pt}{\baselineskip}\selectfont}
 
 % 章节标题显示方式及页眉页脚设置
 % \item xCJKnumb是自己额外安装的包
@@ -52,14 +64,19 @@
 % \item titlespacing定义标题距左、上、下的距离
 \titleformat{\section}{\raggedright\large\bfseries}{\thesection}{1em}{}
 \titleformat{\subsection}{\raggedright\normalsize\bfseries}{\thesubsection}{1em}{}
-\titlespacing{\section}{0pt}{*0}{*2}
-\titlespacing{\subsection}{0pt}{*0}{*1}
+\titlespacing{\section}{0pt}{*2}{*0}
+\titlespacing{\subsection}{0pt}{*1}{*0}
+
 % 由于默认的2em缩进不够，所以我手动调整了，但是在windows下似乎2.2就差不多了，或者是article中没有这个问题
-\setlength{\parindent}{2.2em}
+\setlength{\parindent}{2em}
+\setlength{\parskip}{0.25em}
 
 % 设置表格标题前后间距
 \setlength{\abovecaptionskip}{0pt}
 \setlength{\belowcaptionskip}{0pt}
+
+% 设置列表项目前后间距
+\setlength\itemsep{0em}
 
 \renewcommand{\refname}{\bfseries{参~考~文~献}} %将Reference改为参考文献（用于 article）
 % \renewcommand{\bibname}{参~考~文~献} %将bibiography改为参考文献（用于 book）
