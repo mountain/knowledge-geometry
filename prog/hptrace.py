@@ -112,7 +112,6 @@ def verify_assignment(x, y):
             center = branches.shape[0] // 2 - 1
 
             index = center
-            branch = branches[index]
             assignment, op = trace0(scale)
             dirction = np.sign(_ - index)
             while index != _:
