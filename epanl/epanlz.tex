@@ -378,72 +378,52 @@ manifest behaviors which could not be predicted by any purely syntactic encoding
 semantic aspect.
 
 最后，我们已经提到，牛顿粒子力学，以及最近基于基本粒子的统一物理理论，本身就是一种试图用纯语法项来表达自然法则的尝试。
-由于任何物质系统都是由这些“无意义”(即无结构)的基本单元组成的，这些理论本质上断言，要理解任何这样的系统的任何行为，
+由于任何物质系统都是由这些“无意义”（即无结构）的基本单元组成的，这些理论本质上断言，要理解任何这样的系统的任何行为，
 就足以用这些子单元及其相互作用来描述它。如前所述，这就是还原论的本质。
 
 在这些术语中，熟悉的拉普拉斯的精灵是一个纯粹的语法概念: 如果他可以存在的话，就是邱奇论题的体现。
-事实上，由于我们已经指出的原因，他不可能存在(或者至少不可能作为一个由粒子构成的物质系统存在)。
+事实上，由于我们已经指出的原因，他不可能存在（或者至少不可能作为一个由粒子构成的物质系统存在）。
 但是即使他能够存在，他也是一个非常糟糕的生物学家，例如，有机体和一般的开放系统，都在不断地转动它们的组成粒子。
-因此，即使要找到一个有机体，更不用说及时跟踪它，他也需要用系统内不可形式化的其他(语义)信息来补充纯粹的语法信息。
+因此，即使要找到一个有机体，更不用说及时跟踪它，他也需要用系统内不可形式化的其他（语义）信息来补充纯粹的语法信息。
 
 因此，由于种种原因，我们有理由相信邱奇的命题作为一个物理命题是失败的。
 然而，正如我们已经看到的，在物质方面的陈述和分析命题涉及到理论科学的一些最深刻和最基本的方面。
 
 \section{模拟的角色}
 
-We have already alluded above to the use of the Turing machines both
-as metaphors for the material world and as effective descriptions of that
-world.  In both cases, though in different ways, we seek to draw conclusions
-about material processes from a purely syntactic formalism. In this final section,
-I will very briefly consider one well-known example of this:
-the "self-reproducing automata" of von Neumann (Burks 1966; Arbib, this volume).
+我们已经在上面提到了图灵机的使用，它既是对物质世界的隐喻，也是对那个世界的有效描述。
+在这两种情况下，虽然以不同的方式，我们试图从纯粹的语法形式中得出关于物质过程的结论。
+在最后一节中，我将非常简要地考虑一个著名的例子: 冯·诺依曼的“自复制自动机”（Burks 1966; Arbib，本卷）。
 
-The basis of von Neumann's argument was the inference of the existence of a "universal constructor" from Turing's
-argument for a universal simulator (computer).  On the purely formal side, von Neumann constructed
-a universe ("cellular space") of intercommunicating Turing machines arranged along some regular geometric array,
-like the cells in a multicellular organism, or ,the neurons in a brain, or atoms in a crystal. Each machine
-communicates with its nearest neighbors in the array. In the obvious fashion, the array as a whole changes "state" in time.
-The question was whether some sub-array ("tessellation automaton") could induce certain interesting behaviors in its complement,
-which could be interpreted as construction, replication, growth, development, evolution, and so on.
+冯·诺依曼论证的基础是根据图灵关于通用模拟器（计算机）的论证推断“通用构造器”的存在。
+在纯形式方面，冯·诺依曼构建了一个由互通图灵机组成的宇宙（“元胞空间”），这些机器排列成规则的几何阵列，就像多细胞生物中的细胞，或者大脑中的神经元，或者晶体中的原子。
+每台机器都与数组中最近的邻居通信。按照显而易见的方式，阵列作为一个整体在时间上改变“状态”。
+问题是一些子阵列（“铺嵌自动机”）能否在其补（its complement）上诱导出某些有趣的行为，这些行为可以解释为构造、复制、增长、发展、进化等等。
 
-At the same time, von Neumann clearly believed that a "universal constructor" could exist as hardware. He envisaged equipping a Turing machine
-with sensors, so that it could "read" a blueprint, and with effectors,
-so that it could extract physical components from its environment, and
-assemble them as instructed by the blueprint being read. (An "effector",
-in this context, is a transducer from numbers to things, i.e., an "inverse
-meter".) The idea was -that both computation and construction were algorithmic processes,
-and therefore whatever was true of the one must be true
-of the other.
+同时，冯·诺依曼清楚地相信“通用构造函数”可以作为硬件存在。
+他设想给图灵机配备传感器，这样它就可以“读取”蓝图，并配备效应器，这样它就可以从周围环境中提取物理组件，并按照被读取的蓝图的指示组装它们。
+(在这个上下文中，“效应器”是从数字到实物的转换器，例如，“反射计” — an "inverse meter")
+这里的想法是—计算和构造都是算法过程，因此任何对一个真实（true）的东西都必须对另一个真实。
 
-Von Neumann also felt that the cellular spaces were not merely formal constructs, but actually comprised models of real-world
-constructors and their activities. In this, he was tacitly assuming Church's Thesis in its strongest form.
+冯·诺依曼还认为元胞空间不仅仅是形式上的构造，实际上还包含了真实世界的构造器和它行为的模型。在这一点上，他默认了邱奇论题的最强形态。
 
-We have argued elsewhere (cf. Rosen 1985), on grounds of causality, that
-any inference regarding a material universal constructor from the existence
-of a formal universal computer is unjustified.  In that argument, we essentially
-showed that there was no intrinsic way of distinguishing between
-those input strings which encode "real-world information" and those which
-do not. Thus there was no way to distinguish between a computation which
-could be claimed to simulate a "real-world" process, and one which has no
-such realization.
+我们已经在其他地方(参见 Rosen 1985) 论证，根据因果关系，从一个形式的通用计算机的存在导出一个物质的普遍构造器的任何推论都是没有根据的。
+在这个论证中，我们基本上表明，没有内在的方法可以区分那些编码了“真实世界信息”的输入字符串和那些没能编码的输入字符串。
+因此，没有办法区分可以声称模拟“真实世界”进程的计算和没有实现这种模拟的计算。
 
-Conversely, we can also see that the falsity of Church's Thesis means that there are aspects of material processes which cannot be formalized with any given encoding.
-Thus there are (a) formal constructions without material counterpart, and conversely, (b) m material constructions without formal counterpart.
-Therefore, on both counts, von Neumann's argument is without material content, and merely involves the familiar equivocation on
-the terms "automaton" (or "machine") and "construction".
+反过来，我们也可以看到，邱奇论题的虚假性意味着物质过程的某些方面不能被任何给定的编码来形式化。
+因此，存在 (a) 没有物质对应物的形式结构，反之，(b) 没有形式对应物的物质构造。因此，在这两个方面，冯·诺依曼的论点都没有关于物质的内容（without material content），
+仅仅涉及到“自动机”（或“机器”）和“构造”这两个术语常见的模棱两可。
 
-These considerations show how dangerous it can be to extrapolate unrestrictedly from formal systems to material ones.
-The danger arises precisely from the fact that computation involves only simulation, which allows the establishment of
-no congruence between causal processes in material systems and inferential processes in the simulator. We therefore lack precisely
-those essential features of encoding and decoding which are required for such extrapolations. Thus, although formal simulators can be of
-great practical and heuristic value, their theoretical significance is very sharply circumscribed, and they must be used with the greatest caution.
+这些考虑表明，不受限制地从形式系统外推到物质系统是多么危险。
+危险恰恰产生于这样一个事实，即计算只涉及模拟，这使得在物质系统中的因果过程和模拟器中的推理过程之间不能建立一致性。
+因此，我们恰恰缺乏这种外推所需的编码和解码的基本特征。因此，尽管形式化模拟具有重要的实用价值和启发性价值，
+但它们的理论意义却受到严格限制，使用时必须格外谨慎。
 
-There are, of course, many other ramifications of Church's Thesis which we cannot touch on in this brief space. Its main role, as we have seen,
-is to separate out what is syntactic in a formal system from what is not; when the formal system is also a model of a material system,
-Church's Thesis does the same for causal relations. The Thesis in fact raises a host of deep questions about Natural Law, about causality,
-about modeling, and about the material realization of formalisms. Its central feature, the Turing machines, embody the essence of syntactics
-or string processing in a single, conceptually rich package. Even if (as I believe) Church's Thesis fails, it does so in a most instructive way.
-Its implications for the material sciences, and especially for biology, have barely begun to be explored.
+当然，在这个简短的篇幅里，我们无法触及邱奇论题的许多其他分支。正如我们已经看到的，它的主要作用是将形式系统中的语法部分和非语法部分区分开来；
+当形式系统也是物质系统的模型时，邱奇论题对因果关系也做了同样的事情。事实上，这篇论文提出了一系列关于自然法则、因果关系、建模以及形式系统的物质实现的深刻问题。
+它的中心特征是图灵机，将语法或字符串处理的本质体现在一个单一的、概念丰富的包中。即使（我相信）邱奇论题失败了，它也是以一种最富教育意义的方式失败的。
+它对物质科学，尤其是生物学的影响，还没有开始探索。
 
 \end{document}
 
