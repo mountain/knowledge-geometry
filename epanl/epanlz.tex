@@ -7,6 +7,7 @@
 \usepackage{wrapfig}
 \usepackage{pifont}
 \usepackage{appendix}
+\usepackage{caption}
 
 \usepackage{tikz}
 \usetikzlibrary{fit,arrows,calc}
@@ -429,7 +430,7 @@
 
 同时，冯·诺依曼清楚地相信“通用构造函数”可以作为\textbf{硬件}存在。
 他设想给图灵机配备传感器，这样它就可以“读取”蓝图，并配备效应器，这样它就可以从周围环境中提取物理组件，并按照被读取的蓝图的指示组装它们。
-（在这个上下文中，“效应器”是从数字到实物的转换器，例如，“倒数表”\footnote[1]{译注：原文为 inverse meter，猜测是一种量具}）
+（在这个上下文中，“效应器”是从数字到实物的转换器，也即，逆量具\footnote[1]{译注：原文为 inverse meter，因为量具为实物到数字的转换，故此作者生造了一个词，来表达数字到实物的转换}）
 这里的想法是—计算和构造都是算法过程，因此任何对其中一个真实的事物\textbf{都}必须对另一个真实。
 
 冯·诺依曼还认为元胞空间不仅仅是形式上的构造，实际上还包含了真实世界的构造器和它行为的\textbf{模型}。在这一点上，他默认了邱奇论题的最强形态。
@@ -475,9 +476,19 @@
 \end{figure}
 
 \newpage
+\section{图片引用说明}
+
+除了声明之外，本文正文里所有图片均引维基媒体共享资源计划。
+
+图\ref{fig:schema1} 引自原始论文里的图式一，图\ref{fig:schema2} 引自原始论文里的图式二，两图用汉语重新制作。
+
+皮茨和麦卡洛克的合照引自 Moreno-Díaz, R. and Arminda Moreno-Díaz. “On the legacy of W.S. McCulloch.” Bio Systems 88 3 (2007): 185-90 .
+
+
+\newpage
 \section{译后小记}
 
-大约八年前，在参与集智周末计算和物理的研读活动的时候，就发现了 Robert Rosen 的这篇《有效过程与自然法则》写得非常富有洞见，很特别。
+大约八年前，在参与集智周末计算和物理的研读活动的时候，就发现了 Robert Rosen 的这篇《有效过程与自然法则》写得很特别，非常富有洞见。
 但因为文章有些意思相对曲折，读起来也有些困难，于是就产生了通过翻译来学习这篇文章的想法。
 说这篇文章特别，是因为计算机科学从 1930 年代开始，已然长成参天大树，学科的各个分支枝繁叶茂，发表的文章不计其数，
 但少有深入到学科源头去探讨一番的文章。也正因为如此，这篇富有哲理的文章也常读常新。
@@ -494,18 +505,19 @@
 同时论文的分析方法和算法信息论（AIT）里 Chaitin 常数 $\Omega$ 的渐进可计算性似乎有更进一步的联系。
 我们或许可以沿着可学习性这条小径重新思考罗伯特·罗森的所思所想。
 
-\begin{figure}[ht]
-\centering
-\includegraphics[height=3.5in]{images/landscape.png}
-\caption{向下去探索}
-\end{figure}
-
 去年起，我利用零零散散的时间，开始了这个翻译。在朋友们的鼓励之下，今天终于把本文翻译完毕。
-在此，对集智和混沌巡洋舰几位小伙伴多年的支持，以及杨文波同学的校读，一并表示感谢。
+最后，对集智和混沌巡洋舰几位小伙伴多年的支持，以及杨文波同学的校读，在此一并表示感谢。
 
 \hfill \hfill 2021 年 5 月
 
 \hfill \hfill 明理
+
+\begin{figure}[ht]
+\centering
+\includegraphics[height=3.5in]{images/landscape.png}
+\captionsetup{labelformat=empty}
+\caption{向下去探索}
+\end{figure}
 
 \end{document}
 
