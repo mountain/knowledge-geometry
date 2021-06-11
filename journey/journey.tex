@@ -17,13 +17,6 @@
 
 \newdateformat{nianyueri}{ \THEYEAR 年 \THEMONTH 月 \THEDAY 日 }
 
-\usepackage{xstring}
-\usepackage{catchfile}
-\CatchFileDef{\HEAD}{../.git/refs/heads/master}{}
-\newcommand{\gitrevision}{%
-  \StrLeft{\HEAD}{7}%
-}
-
 \usepackage{data/circledsteps}
 \input{data/style}
 
@@ -32,19 +25,13 @@
 
 \xeCJKsetwidth{‘’“”}{1em}
 
-\usepackage[acronym,xindy]{glossaries}
-\renewcommand*{\glossaryname}{术~语~列~表}
-\makeglossaries
-
-\usepackage[xindy]{imakeidx}
-\makeindex
-
-\loadglsentries[main]{glossary}
-
-\title{从词向量到算术表达式的几何}
+\title{探索的过程\\
+\large 从词向量到算术表达式的几何}
 \date{2021 年 6 月}
 \author{苑明理}
 
+\begin{document}
+\maketitle{}
 \centerline{\rule{13cm}{0.4pt}}
 \renewcommand{\contentsname}{\hfill\bfseries 目录\hfill}
 \setcounter{tocdepth}{2}
@@ -53,6 +40,16 @@
 \newpage
 
 \section{引言}
+
+\section{词向量与数}
+
+\section{流方程}
+
+\section{管型构造}
+
+\section{新的实例}
+
+\section{可能的框架}
 
 \newpage
 \phantomsection
