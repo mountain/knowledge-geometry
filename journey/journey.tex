@@ -120,8 +120,6 @@ $$
     royalize(femalize(man)) - femalize(royalize(man)) = 0
 $$
 
-
-
 因为机器学习模型的统计特点，这里的组合性只是一种近似关系。机器学习界指出了组合性的存在，但并没有沿这个方向走太远。
 
 整数和整数之间存在很多关系，但是如果我们把 $\cdot + 1$ 和 $\cdot \times 2$ 视为基本关系，我们能得到什么？ 此时，我们发现：
@@ -133,6 +131,19 @@ $$
 这说明平行四边形永远无法存在。我们知道双曲空间是一种不存在平行四边形的空间，
 简单尝试就可以把$\cdot + 1$关系、 $\cdot \times 2$关系和所有整数安排到双曲空间的一个网格上。
 
+\begin{figure}[ht]
+\centering
+\includegraphics[width=4in]{images/assignment2.png}
+\caption{$\cdot + 1$关系、 $\cdot \times 2$关系的赋值网格}
+\end{figure}
+
+这个网格的构造规则如下
+\begin{enumerate}
+\item 加乘轴交替出现
+\item 加乘轴按右手系排布
+\end{enumerate}
+
+我们需要论证依照此程序，可以无矛盾的构造几何构形，直至无穷远。
 
 
 \section{流方程}
