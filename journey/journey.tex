@@ -80,8 +80,8 @@
 这里，我们把这种组合性归纳为：
 \begin{enumerate}
 \item 词和词之间的关系是有意义的
-\item 同类的关系是平行的
-\item 词和关系可以通过运算组合起来，形成一个格网
+\item 同义的关系是平行的
+\item 词和关系可以通过向量运算组合起来，形成一个格网
 \end{enumerate}
 
 \begin{figure}[ht]
@@ -101,10 +101,43 @@
 \draw[dashed, red] (q) -- (s);
 \end{tikzpicture}
 \caption{正则词嵌入的组合性}
-\label{fig:schema1}
+\label{fig:compositionality}
 \end{figure}
 
+上图的示例可以简述为：男人、国王、女人、女王四个词形成一个平行四边形，其中有两对同义的关系
+\begin{enumerate}
+\item femalize：女性化的维度，从男人到女人、从国王到女王
+\item royalize：皇帝职业的维度，从男人到国王、女人到女王
+\end{enumerate}
+
+而几何上的平行四边形也可以通过$royalize$与$femalize$两个运算的可交换性来表达：
+$$
+    royalize(femalize(man)) = femalize(royalize(man))
+$$
+
+或者下式为零
+$$
+    royalize(femalize(man)) - femalize(royalize(man)) = 0
+$$
+
+
+
+因为机器学习模型的统计特点，这里的组合性只是一种近似关系。机器学习界指出了组合性的存在，但并没有沿这个方向走太远。
+
+整数和整数之间存在很多关系，但是如果我们把 $\cdot + 1$ 和 $\cdot \times 2$ 视为基本关系，我们能得到什么？ 此时，我们发现：
+
+$$
+[(x + 1) \times 2] - (x \times 2 + 1) = 1
+$$
+
+这说明平行四边形永远无法存在。我们知道双曲空间是一种不存在平行四边形的空间，
+简单尝试就可以把$\cdot + 1$关系、 $\cdot \times 2$关系和所有整数安排到双曲空间的一个网格上。
+
+
+
 \section{流方程}
+
+
 
 \section{分析学的新可能}
 
