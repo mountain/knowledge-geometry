@@ -118,7 +118,7 @@
 上图的示例可以简述为：男人、国王、女人、女王四个词形成一个平行四边形，其中有两对同义的关系
 \begin{enumerate}
 \item femalize：女性化的维度，从男人到女人、从国王到女王
-\item royalize：皇帝职业的维度，从男人到国王、女人到女王
+\item royalize：皇权的维度，从男人到国王、女人到女王
 \end{enumerate}
 
 而几何上的平行四边形也可以通过$royalize$与$femalize$两个运算的可交换性来表达：
@@ -126,7 +126,7 @@ $$
     royalize(femalize(man)) = femalize(royalize(man))
 $$
 
-或者下式为零
+或者通过下面的交换子恒为零来表示
 $$
     royalize(femalize(man)) - femalize(royalize(man)) = 0
 $$
@@ -162,22 +162,27 @@ $$
 \end{theorem}
 
 \begin{proof}
-    对四阶无限边形铺嵌的节点、面染色
-    \begin{enumerate}
-        \item 节点可以在黑、白两种选择中交错染色，且可以无矛盾地拓广至无穷远处；
-        \item 面可以在红、蓝两种选择中交错染色，且可以无矛盾地拓广至无穷远处；
-    \end{enumerate}
-    在上述染色的基础上，我们对边可以依照下述规则形成右手系排布：
+对四阶无限边形铺嵌的节点、面染色
+\begin{enumerate}
+    \item 节点可以在黑、白两种选择中交错染色，且可以无矛盾地拓广至无穷远处；
+    \item 面可以在红、蓝两种选择中交错染色，且可以无矛盾地拓广至无穷远处；
+\end{enumerate}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=4in]{images/H2_tiling_24i-1.png}
+\caption{染色与定向}
+\end{figure}
+
+在上述染色的基础上，我们对边可以依照下述规则形成右手系排布：
 
 \end{proof}
 
+\section{路径群}
 
-
-
+最后，我们指出交换子的取值和空间的弯曲程度相关。
 
 \section{流方程}
-
-
 
 \section{分析学的新可能}
 
