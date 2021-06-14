@@ -8,6 +8,8 @@
 \usepackage{pifont}
 \usepackage{appendix}
 \usepackage{caption}
+\usepackage{amsmath, amsthm, amssymb}
+\usepackage{xcolor}
 
 \usepackage{tikz}
 \usetikzlibrary{fit,arrows,calc}
@@ -25,6 +27,15 @@
 \usepackage{stmaryrd}
 \usepackage{mathtools}
 \usepackage{wasysym}
+
+\newtheorem{definition}{定义}
+\newtheorem{lemma}{引理}
+\newtheorem{proposition}{命题}
+\newtheorem{theorem}{定理}
+\newtheorem{grammar}{文法}
+\newtheorem{program}{程序}
+\newtheorem{convention}{约定}
+\renewcommand*{\proofname}{证明}
 
 \xeCJKsetwidth{‘’“”}{1em}
 
@@ -139,11 +150,29 @@ $$
 
 这个网格的构造规则如下
 \begin{enumerate}
-\item 加乘轴交替出现
-\item 加乘轴按右手系排布
+    \item 网格呈现为四阶无限边形铺嵌
+    \item 加乘轴相互垂直、交替出现
+    \item 加轴、乘轴按右手系排布
 \end{enumerate}
 
-我们需要论证依照此程序，可以无矛盾的构造几何构形，直至无穷远。
+我们需要论证依照此程序，可以无矛盾的构造几何构形，直至无限边形的无穷远处。
+
+\begin{theorem}
+    加轴、乘轴赋予合适的增长方向，依照右手系（或左手系）可以排布满整个四阶无限边形铺嵌
+\end{theorem}
+
+\begin{proof}
+    对四阶无限边形铺嵌的节点、面染色
+    \begin{enumerate}
+        \item 节点可以在黑、白两种选择中交错染色，且可以无矛盾地拓广至无穷远处；
+        \item 面可以在红、蓝两种选择中交错染色，且可以无矛盾地拓广至无穷远处；
+    \end{enumerate}
+    在上述染色的基础上，我们对边可以依照下述规则形成右手系排布：
+
+\end{proof}
+
+
+
 
 
 \section{流方程}
