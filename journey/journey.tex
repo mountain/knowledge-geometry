@@ -186,7 +186,41 @@ $$
 
 \section{流方程}
 
+假设在一个无穷小范围内存在算术表达式生成结构的一种几何，它会是什么样呢？本节我们探讨这个话题。
 
+算术表达式空间中一点 $p$，$p$ 作为表达式有估值 $x$，假设在 $p$ 点存在加轴和乘轴构成的标架 $F_i$，
+$p$ 有一个运动，在标架 $F_i$ 中表现为速度 $u$ 和角度 $\theta$ ， 我们对 $p$ 的运动带来的估值 $x$ 的变化，
+通过下述推导，可以建立方程
+
+\begin{equation}
+    x_{\delta} = (x_0 + \mu \epsilon \cos \theta)e^{\lambda \epsilon \sin \theta}
+\end{equation}
+
+或者
+
+\begin{equation}
+    x_{\delta} = x_0 e^{\lambda \epsilon \sin \theta} + \mu \epsilon \cos \theta
+\end{equation}
+
+两者都可以简化为
+
+\begin{equation}
+    x_{\delta} = x_0 + \epsilon (x_0 \lambda \sin \theta + \mu \cos \theta)
+\end{equation}
+
+于是
+
+\begin{equation}
+    \frac{1}{\delta} (x_{\delta} - x_0) = \frac{\epsilon}{\delta} (\mu \cos \theta + x_0 \lambda \sin \theta)
+\end{equation}
+
+当 $\delta$ 和 $\epsilon$ 同时趋于零时，我们就得到了 $dx / dt$，即有
+
+\begin{equation}
+    \frac{dx}{dt} = u (\mu \cos \theta + x \lambda \sin \theta)
+\end{equation}
+
+最后，我们指出流方程的推导是抽象的，我们在推导过程中并没有用上前面章节里具体的几何结构。
 
 \section{管型构造}
 
