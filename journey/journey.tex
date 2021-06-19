@@ -8,8 +8,15 @@
 \usepackage{pifont}
 \usepackage{appendix}
 \usepackage{caption}
-\usepackage{amsmath, amsthm, amssymb}
 \usepackage{xcolor}
+
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{mathtools}
+
+\usepackage{qtree}
 
 \usepackage{tikz}
 \usetikzlibrary{fit,arrows,calc}
@@ -29,12 +36,21 @@
 \usepackage{wasysym}
 
 \newtheorem{definition}{定义}
+\numberwithin{definition}{section}
 \newtheorem{lemma}{引理}
+\numberwithin{lemma}{section}
 \newtheorem{proposition}{命题}
+\numberwithin{proposition}{section}
 \newtheorem{theorem}{定理}
+\numberwithin{theorem}{section}
 \newtheorem{grammar}{文法}
+\numberwithin{grammar}{section}
 \newtheorem{program}{程序}
+\numberwithin{program}{section}
 \newtheorem{convention}{约定}
+\numberwithin{convention}{section}
+\newtheorem{corollary}{推论}
+\numberwithin{corollary}{section}
 \renewcommand*{\proofname}{证明}
 
 \xeCJKsetwidth{‘’“”}{1em}
@@ -57,7 +73,7 @@
 
 几千年来，最基本的数学对象之一—算术表达式，一直都是以一种离散的方式存在。数通过四则运算连接在一起，构成了算术表达式，
 除了一些代数变形可以连接不同的表达式，两个表达式 $A$ 和 $B$ 之间没有好的、几何的连接方式。
-那么究竟有没有算术表达式的几何化方式呢？本文我们将会给出一个思路。
+那么究竟有没有算术表达式的几何化方式呢？在本文我们将会给出一个思路。
 
 事情可以追溯到 2015 年底，当时我在上海短居。在考虑用词向量技术表达整数的时候，我发现可以构造一种有趣的、双曲平面上的离散结构。
 当看到那些蜿蜒到无穷的折线和均匀的数值分布时，我意识到可能发现了一个有着丰富内涵的数学结构。其后的几年我一直在反复琢磨它。
@@ -184,6 +200,246 @@ $$
 
 从数的角度讲，加减乘除四则运算的代数结构是域；但是从算术表达式的角度讲，四则运算对应到的代数结构是群。
 由此引向算术表达式的路径群与典范形式的讨论。
+
+对数域 $\mathcal{F}$，取 $\mu, \lambda \in \mathcal{F}$，我们考虑表达式集合 $E(\mu, \lambda)$ 如下自由产生
+\begin{itemize}
+    \item 初始值: $0$
+    \item 运算符: $\odot: x \mapsto x$
+    \item 运算符: $\oplus_\mu: x \mapsto x + \mu$
+    \item 运算符: $\ominus_\mu: x \mapsto x - \mu$
+    \item 运算符: $\otimes_\lambda: x \mapsto x \cdot e^\lambda$
+    \item 运算符: $\oslash_\lambda: x \mapsto x / e^\lambda$
+\end{itemize}
+
+$\mu$ is the additional generator and $\lambda$ is the multiplicative generator.
+We may omit $\mu$ and $\lambda$ from the index notation when context is clear.
+
+With different equality we adopt on $E(\mu, \lambda)$, we will get different structures:
+\begin{itemize}
+    \item literal structure: under the literal equality which leads to paths on a generative tree structure
+    \item syntactical structure: under the syntactical equality which embrace a path group
+    \item semantical structure: under the equality of numbers after evaluating both sides of equality comparison into values
+\end{itemize}
+
+\subsection{Literal structure}\label{subsec:literial}
+
+When we adopt literal equality, we get a generative tree structure with degree 5.
+
+\begin{itemize}
+    \item root: initial operand $0$
+    \item edge: each node have $5$ edge with symbols $\odot$, $\oplus$, $\ominus$, $\otimes$ and $\oslash$ as children
+\end{itemize}
+
+The path from root to any node is an arithmetical expression. A different path is a different expression in literal equality.
+
+\begin{figure}[ht]
+\centering
+\Tree
+[.0
+    [.$\odot$   [.$\odot$ ] [.$\oplus$ ] [.$\ominus$ ] [.$\otimes$ ] [.$\oslash$ ] ]
+    [.$\oplus$  [.$\odot$ ] [.$\oplus$ ] [.$\ominus$ ] [.$\otimes$ ] [.$\oslash$ ] ]
+    [.$\ominus$ [.$\odot$ ] [.$\oplus$ ] [.$\ominus$ ] [.$\otimes$ ] [.$\oslash$ ] ]
+    [.$\otimes$ [.$\odot$ ] [.$\oplus$ ] [.$\ominus$ ] [.$\otimes$ ] [.$\oslash$ ] ]
+    [.$\oslash$ [.$\odot$ ] [.$\oplus$ ] [.$\ominus$ ] [.$\otimes$ ] [.$\oslash$ ] ]
+]
+\caption{Generative tree of literal structure}
+\end{figure}
+
+Suppose we have a series of operators $a_1, a_2, \cdots a_{n-1}, a_n$, we introduce a \emph{path notion}.
+
+\begin{definition}
+\label{definition:path}
+    a path of operators $a_1 a_2 \cdots a_{n-1} a_n$ is a function over $\mathcal{F}$ which apply operators on an operand in turn
+    $$a_1 a_2 \cdots a_{n-1} a_n (x) \coloneqq a_n( a_{n-1}( \cdots a_2( a_1(x) ) \cdots ) ), \forall x \in \mathcal{F}$$
+\end{definition}
+
+Any expressions in $E(\mu, \lambda)$ can be written as a path with operand $0$. And now we verify the operators is associative inside a path.
+
+\begin{lemma}
+\label{lemma:associative}
+    The operators inside a path is associative, i.e. $$x (y z) = (x y) z$$
+\end{lemma}
+
+\begin{proof}
+    Follow the definition, we have
+$$(x (y z)) [\alpha] = (y z) (x[\alpha]) = z(y(x[\alpha]))$$
+$$((x y) z) [\alpha] = z ((x y)[\alpha]) = z(y(x[\alpha]))$$
+\qedhere
+\end{proof}
+
+\begin{definition}
+\label{definition:concatenate}
+    Concatenate of paths $p_1 \cdot p_2$ is defined as the composite of functions
+    $$p_1 \cdot p_2 \coloneqq p_2 \circ p_1 $$
+\end{definition}
+
+\begin{theorem}
+\label{theorem:semigroup}
+the algebraic structure $\mathcal{P} = (E, \cdot)$ is a semigroup.
+\end{theorem}
+
+\subsection{Syntactical structure}\label{subsec:syntactical}
+
+We can introduce the inverse notion
+\begin{itemize}
+    \item $\oplus^{-1} = \ominus$
+    \item $\ominus^{-1} = \oplus$
+    \item $\otimes^{-1} = \oslash$
+    \item $\oslash^{-1} = \otimes$
+    \item $\odot^{-1} = \odot$
+\end{itemize}
+
+Then we have the calculation rule of inverse.
+
+\begin{lemma}
+\label{lemma:inverserule}
+If we have
+$$\beta = \alpha a_1 a_2 \cdots a_{n-1} a_n$$
+then
+$$\alpha = \beta a_n^{-1} a_{n-1}^{-1} \cdots a_2^{-1} a_1^{-1}$$
+\end{lemma}
+
+\begin{proof}
+Notice that $\oplus, \ominus, \otimes, \oslash$ are all bijections, we know that $\alpha a_1 a_2 \cdots a_{n-1} a_n$ is a composition of functions
+
+$$\beta = a_n( a_{n-1}( \cdots a_2( a_1(\alpha) ) \cdots ) )$$
+
+Considering the inverse of a composition, we have
+
+$$\alpha = a_1^{-1}( a_2^{-1}( \cdots a_{n-1}^{-1}( a_n^{-1}(\beta) ) \cdots ) )$$
+
+Or under the path notion
+
+$$\alpha = \beta a_n^{-1} a_{n-1}^{-1} \cdots a_2^{-1} a_1^{-1}$$
+
+\qedhere
+\end{proof}
+
+Informally we can divide a long calculation into pieces, or composite small pieces of calculations into a longer one,
+for example
+
+$$\gamma = 0 a_1 a_2 \cdots a_{n-1} a b_1 b2 \cdots b_{m-1} b_m$$
+
+can be rewritten as
+
+$$\gamma = 0 ((\odot a_1 a_2 \cdots a_{n-1} a) \circ (\odot b_1 b_2 \cdots b_{m-1} b_m))$$
+
+And if we treat $\odot$ and $0$ as the same, and we define
+
+$$\alpha = 0 a_1 a_2 \cdots a_{n-1} a$$
+$$\beta = 0 b_1 b2 \cdots b_{m-1} b_m$$
+
+We have
+
+$$\gamma = \alpha \circ \beta$$
+
+where $\alpha$, $\beta$ and $\gamma$ are all well defined in $E$.
+
+Under such definition, the algebraic structure $\mathcal{P} = (E, \circ)$ is a group, and we call it \emph{path group}.
+
+\begin{theorem}
+\label{theorem:pathgroup}
+the algebraic structure $\mathcal{P} = (E, \circ)$ is a group
+\end{theorem}
+
+\begin{proof}
+    Follow the definition of group, we have
+\qedhere
+\end{proof}
+
+The cayley tree of path group $\mathcal{P}$ is a tree structure as below
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=3in]{images/cayley}
+\caption{Cayley tree of syntactical structure}
+\end{figure}
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+
+\filldraw [black] (0,0) circle (2pt) node[align=center, below] {0};
+\filldraw [black] (4,1) circle (2pt) node[align=center, below] {$\alpha$};
+\filldraw [black] (2,3) circle (2pt) node[align=center, below] {$\beta$};
+\filldraw [black] (5,3) circle (2pt) node[align=center, below] {$\gamma$};
+\filldraw [black] (-2,2) circle (2pt) node[align=center, below] {$\psi$};
+\filldraw [black] (1,2) circle (2pt) node[align=center, below] {$\phi$};
+\filldraw [gray] (3,-0.4) circle (0pt) node[align=center, below] {$x$};
+\filldraw [gray] (3,1.8) circle (0pt) node[align=center, below] {$y$};
+\filldraw [gray] (4.7,2) circle (0pt) node[align=center, below] {$z$};
+\draw [gray] (0,0) to[out=300,in=240] (4,1);
+\draw [gray] (4,1) to[out=120,in=300] (2,3);
+\draw [gray] (4,1) to[out=60,in=240] (5,3);
+\draw [gray] (0,0) to[out=120,in=300] (-2,2);
+\draw [gray] (0,0) to[out=60,in=240] (1,2);
+\filldraw [gray] (-1,0.8) circle (0pt) node[align=center, below] {$y$};
+\filldraw [gray] (0.7,1) circle (0pt) node[align=center, below] {$z$};
+
+\end{tikzpicture}
+\caption{Factorization by greatest common divisor}
+\end{figure}
+
+The generating order is a partial order over $E$, we assume the later generated one is greater in generating.
+By the generating order, we can define the concept of greatest common divisor: for any $\beta, \gamma \in A$,
+the greatest common divisor $gcd(\beta, \gamma)$ is the greatest common ancestor in the generating tree.
+So coprime of $\psi, \phi \in A$ means $gcd(\psi, \phi) = 0$
+
+\begin{lemma}
+\label{lemma:coprimes}
+When $\alpha = gcd(\beta, \gamma)$, and $\beta = \alpha \circ \psi$, $\gamma = \alpha \circ \phi$ hold, then $\psi$ and $\phi$ are coprimes.
+\end{lemma}
+
+\subsection{Semantical structure}\label{sec:semantical}
+
+Now we study the evaluation result, and the structure under the evaluation equality.
+Giving an element of $E(\mu, \lambda)$ with a generating path $0 a_1 a_2 \cdots a_n$,
+and the evaluation can be expressed by a function $\nu: E(\mu, \lambda) \to R$,
+and we can proof by structure induction that all evaluation result keep the form
+
+$$
+\nu(0 a_1 a_2 \cdots a_n) = \sum_{i} k_i \mu e^{l_i \lambda} \in R
+$$
+where $k_i \in N, l_i \in N$, and obviously $\sum_{i} k_i \mu e^{l_i \lambda}$ is an evaluation of a polynomial over $\mathcal{F}$ at $e^{\lambda}$.
+Comparing with path notion, we call this an expanded notion, or evaluated notion if we emphasising on evaluated value.
+
+\begin{lemma}
+\label{lemma:arithmeticalalgebra}
+All arithmetical expressions $E(\mu, \lambda)$ is an algebra over numbers field $\mathcal{F}$, or $\mathcal{A} = (E, \mathcal{F}, \cdot)$.
+\end{lemma}
+
+\begin{proof}
+By using the expanded notion, it is easy to verify the three axioms of an algebra is hold:
+for any arithmetical expressions $x, y, z \in E$ and $a, b \in \mathcal{F}$, we have
+\begin{itemize}
+    \item right distributivity: $(x + y) \cdot z = x \cdot z + y \cdot z$
+    \item left distributivity: $z \cdot (x + y) = z \cdot x + z \cdot y$
+    \item compatibility with scalars: $(ax) \cdot (by) = (ab) (x \cdot y)$
+\end{itemize}
+\qedhere
+\end{proof}
+
+Since exponent appears in multiplication generators, we now study an equivalent formulation of Lindemann-Weierstrass theorem
+
+\begin{theorem}
+\label{theorem:LindemannWeierstrass}
+If $\alpha_1, \cdots, \alpha_m$ are distinct algebraic numbers, then $e^{\alpha_1}, \cdots, e^{\alpha_m}$ are linearly independent over the algebraic numbers.
+\end{theorem}
+
+This theorem gives the transcendental nature of $e$.
+Now we can verify path group $\mathcal{P}$ is non-abelian by calculating the result at point $0$ when the field $\mathcal{F}$ is algebraic.
+
+\begin{corollary}
+\label{corollary:nonabelian}
+The path group $\mathcal{P} = (E, \circ)$ is non-abelian when the field $\mathcal{F}$ is algebraic
+\end{corollary}
+
+\begin{proof}
+Because of Lindemann-Weierstrass theorem, $\mu$ have a covering structure and each layer of $\nu$ is a injectiion to the codomain.
+Notice that $(0 + \mu) \cdot e^\lambda \neq 0 \cdot e^\lambda + \mu$, then we have $0 \oplus \otimes \neq 0 \otimes \oplus$
+\qedhere
+\end{proof}
+
 
 最后，我们指出交换子的值和空间的弯曲程度相关。
 
