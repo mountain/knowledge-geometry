@@ -16,12 +16,10 @@
 \usepackage{amsmath}
 \usepackage{mathtools}
 
-\usepackage{qtree}
-
 \usepackage{tikz}
+\usepackage{qtree}
 \usetikzlibrary{fit,arrows,calc}
 \usepackage{pgfplots}
-\pgfplotsset{compat=1.8}
 
 \usepackage{csquotes}
 \renewcommand{\mkbegdispquote}[2]{\itshape}
@@ -211,26 +209,27 @@ $$
     \item 运算符: $\oslash_\lambda: x \mapsto x / e^\lambda$
 \end{itemize}
 
-$\mu$ is the additional generator and $\lambda$ is the multiplicative generator.
-We may omit $\mu$ and $\lambda$ from the index notation when context is clear.
+这里 $\mu$ 是加法生成元，而 $\lambda$ 是乘法生成元。在上下文清晰的地方，我们会从运算符的下标里省略 $\mu$ 和 $\lambda$。
 
-With different equality we adopt on $E(\mu, \lambda)$, we will get different structures:
+采纳了不同的 $E(\mu, \lambda)$ 上的等值关系，我们会得到不同的结构：
 \begin{itemize}
-    \item literal structure: under the literal equality which leads to paths on a generative tree structure
-    \item syntactical structure: under the syntactical equality which embrace a path group
-    \item semantical structure: under the equality of numbers after evaluating both sides of equality comparison into values
+    \item 字面结构：根据表达式字面上是否相等
+    \item 语法结构：根据表达式在特定公理下是否相等，比如加减互逆、乘除互逆、分配律等
+    \item 语义结构：根据表达式运算结果的值否相等
 \end{itemize}
 
-\subsection{Literal structure}\label{subsec:literial}
+最后，我们指出，引入态射后，这些不同的结构之间可以构成范畴，而字面结构是初始对象，语义结构是终止对象。
 
-When we adopt literal equality, we get a generative tree structure with degree 5.
+\subsection{字面结构}\label{subsec:literial}
+
+当我们采纳了字面上的等值关系，我们得到了一个出度为 5 的生成树。它对应一个六阶无限边形铺嵌，是否有对应右手系下的符号排布，是个有趣的问题。
 
 \begin{itemize}
-    \item root: initial operand $0$
-    \item edge: each node have $5$ edge with symbols $\odot$, $\oplus$, $\ominus$, $\otimes$ and $\oslash$ as children
+    \item 根：初始操作子 $0$
+    \item 边：每个节点通过对应的边 $\odot$、$\oplus$、$\ominus$、$\otimes$和$\oslash$，生成 $5$ 个子节点。
 \end{itemize}
 
-The path from root to any node is an arithmetical expression. A different path is a different expression in literal equality.
+从根节点到任意节点的一条路径对应一个算术表达式，不同的表达式对应不同的路径。
 
 \begin{figure}[ht]
 \centering
@@ -242,7 +241,7 @@ The path from root to any node is an arithmetical expression. A different path i
     [.$\otimes$ [.$\odot$ ] [.$\oplus$ ] [.$\ominus$ ] [.$\otimes$ ] [.$\oslash$ ] ]
     [.$\oslash$ [.$\odot$ ] [.$\oplus$ ] [.$\ominus$ ] [.$\otimes$ ] [.$\oslash$ ] ]
 ]
-\caption{Generative tree of literal structure}
+\caption{字面结构下的生成树}
 \end{figure}
 
 Suppose we have a series of operators $a_1, a_2, \cdots a_{n-1}, a_n$, we introduce a \emph{path notion}.
