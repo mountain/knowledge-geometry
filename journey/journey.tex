@@ -205,7 +205,7 @@ $$
 
 对数域 $\mathcal{F}$，取 $\mu, \lambda \in \mathcal{F}$，我们考虑表达式集合 $E(\mu, \lambda)$ 如下自由产生
 \begin{itemize}
-    \item 初始值: $0$
+    \item 操作数: $0$
     \item 运算符: $\odot: x \mapsto x$
     \item 运算符: $\oplus_\mu: x \mapsto x + \mu$
     \item 运算符: $\ominus_\mu: x \mapsto x - \mu$
@@ -214,6 +214,7 @@ $$
 \end{itemize}
 
 这里 $\mu$ 是加法生成元，而 $\lambda$ 是乘法生成元。在上下文清晰的地方，我们会从运算符的下标里省略 $\mu$ 和 $\lambda$。
+如果操作数引入对偶数的 $\epsilon$，可以由此在管状结构上定义多项式的导数。
 
 采纳了不同的 $E(\mu, \lambda)$ 上的等值关系，我们会得到不同的结构：
 \begin{itemize}
@@ -223,14 +224,14 @@ $$
 \end{itemize}
 
 最后，我们指出，引入态射后，这些不同的结构之间可以构成范畴，而字面结构是初始对象，语义结构是终止对象。
-数域进行代数扩域，对应到表达式有路径群的不断细化。
+数环进行扩张，对应到表达式有路径群的不断细化。
 
 \subsection{字面结构}\label{subsec:literial}
 
 当我们采纳了字面上的等值关系，我们得到了一个出度为 5 的生成树。它对应一个六阶无限边形铺嵌，是否有对应右手系下的符号排布，是个有趣的问题。
 
 \begin{itemize}
-    \item 根：初始操作子 $0$
+    \item 根：初始操作数 $0$
     \item 边：每个节点通过对应的边 $\odot$、$\oplus$、$\ominus$、$\otimes$和$\oslash$，生成 $5$ 个子节点。
 \end{itemize}
 
