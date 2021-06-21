@@ -99,6 +99,8 @@
 
 \section{词向量与数}
 
+\subsection{词向量}\label{subsec:wembeding}
+
 在计算语言学的研究中，从 1978 年 Salton 的 VSM 模型起 \cite{Almeida2019WordEA}，人们为了方便计算，
 常常把词汇表示成向量，并称这种表示为词嵌入。 2013 年 Mikolov 的论文 \cite{Mikolov2013EfficientEO} 发表后，
 人们开始认识到，一类称为正则的嵌入方式是特别值得关注的，它们拥有一种组合性\cite{Mikolov2013DistributedRO}。
@@ -146,6 +148,8 @@ $$
 $$
 
 因为机器学习模型的统计特点，这里的组合性只是一种近似关系。机器学习界指出了组合性的存在，但并没有沿这个方向走太远。
+
+\subsection{数的赋值网格}\label{subsec:assignment}
 
 整数和整数之间存在很多关系，但是如果我们把 $\cdot + 1$ 和 $\cdot \times 2$ 视为基本关系，我们能得到什么？ 此时，我们发现：
 
@@ -219,6 +223,7 @@ $$
 \end{itemize}
 
 最后，我们指出，引入态射后，这些不同的结构之间可以构成范畴，而字面结构是初始对象，语义结构是终止对象。
+数域进行代数扩域，对应到表达式有路径群的不断细化。
 
 \subsection{字面结构}\label{subsec:literial}
 
@@ -279,7 +284,7 @@ $$((x y) z) [\alpha] = z ((x y)[\alpha]) = z(y(x[\alpha]))$$
 the algebraic structure $\mathcal{P} = (E, \cdot)$ is a semigroup.
 \end{theorem}
 
-\subsection{Syntactical structure}\label{subsec:syntactical}
+\subsection{语法结构}\label{subsec:syntactical}
 
 We can introduce the inverse notion
 \begin{itemize}
@@ -391,7 +396,7 @@ So coprime of $\psi, \phi \in A$ means $gcd(\psi, \phi) = 0$
 When $\alpha = gcd(\beta, \gamma)$, and $\beta = \alpha \circ \psi$, $\gamma = \alpha \circ \phi$ hold, then $\psi$ and $\phi$ are coprimes.
 \end{lemma}
 
-\subsection{Semantical structure}\label{sec:semantical}
+\subsection{语义结构}\label{sec:semantical}
 
 Now we study the evaluation result, and the structure under the evaluation equality.
 Giving an element of $E(\mu, \lambda)$ with a generating path $0 a_1 a_2 \cdots a_n$,
