@@ -196,12 +196,12 @@ $$
     \item 运算符: $\oslash_\lambda: x \mapsto x / e^\lambda$
 \end{itemize}
 
-这里 $\mu$ 是加法生成元，而 $\lambda$ 是乘法生成元。在上下文清晰的地方，我们会从运算符的下标里省略 $\mu$ 和 $\lambda$。
+这里 $\mu$ 是\emph{加法生成元}，而 $\lambda$ 是\emph{乘法生成元}。在上下文清晰的地方，我们会从运算符的下标里省略 $\mu$ 和 $\lambda$。
 
 采纳了不同的 $E(\mu, \lambda)$ 上的等值关系，我们会得到不同的结构。随着等值关系的加粗，我们会得到一个结构的谱系
 
 $$
-  \mathcal{R}_0 \prec \mathcal{R}_i \prec \mathcal{R}_d \prec \mathcal{R}_\infty
+  \mathcal{I}^0 \prec \mathcal{I}^i \prec \mathcal{I}^d \prec \mathcal{I}^\infty
 $$
 $$
   \mathcal{S}^0 \to \mathcal{S}^i \to \mathcal{S}^d \to \mathcal{S}^\infty
@@ -210,30 +210,30 @@ $$
 具体如下
 
 \begin{itemize}
-    \item 字面结构 $\mathcal{S}^0$：根据表达式字面上是否相等 $\mathcal{R}_0$
+    \item 字面结构 $\mathcal{S}^0$：根据表达式字面上是否相等 $\mathcal{I}^0$
     \item 语法结构：根据表达式在特定公理下是否相等
-        \subitem 引入了加减互逆、乘除互逆会导致等值关系 $\mathcal{R}_i$，由此带来结构 $\mathcal{S}^i$
-        \subitem 在 $\mathcal{R}_i$ 基础上再引入分配律带来等值关系 $\mathcal{R}_d$，由此得到结构 $\mathcal{S}^d$
-    \item 语义结构 $\mathcal{S}^\infty$：根据表达式运算结果的值否相等$\mathcal{R}_\infty$
+        \subitem 引入了加减互逆、乘除互逆会导致等值关系 $\mathcal{I}^i$，由此带来结构 $\mathcal{S}^i$
+        \subitem 在 $\mathcal{I}^i$ 基础上再引入分配律带来等值关系 $\mathcal{I}^d$，由此得到结构 $\mathcal{S}^d$
+    \item 语义结构 $\mathcal{S}^\infty$：根据表达式运算结果的值否相等$\mathcal{I}^\infty$
 \end{itemize}
 
-引入态射后，这些不同的结构之间可以构成范畴，而字面结构是初始对象，语义结构是终止对象。
-同时也可以考虑某种扩张，对应到表达式，就有路径群的不断细化，直到最后完成完备化。
+引入态射后，这些不同的结构之间可以构成范畴，而字面结构 $\mathcal{S}^0$ 是初始对象，语义结构 $\mathcal{S}^\infty$ 是终止对象。
+在值相等的观点下 $\mathcal{S}^\infty$ 也是一个环。同时也可以考虑这一系列结构上的扩张或者细化，直到最后完成完备化。
 
-\subsection{路径记法}\label{subsec:pathnotion}
+\subsection{通路记法}\label{subsec:walknotion}
 
-假设我们有一串操作符 $a_1, a_2, \cdots a_{n-1}, a_n$，我们可以引入如下的 \emph{路径记法}.
+首先我们明确图论术语通路、轨迹、路径（英文中的 walk, trail, path）的区别。
+
+假设我们有一串运算符 $a_1, a_2, \cdots a_{n-1}, a_n$，我们可以引入如下的 \emph{通路记法}.
 
 \begin{definition}
 \label{definition:path}
-    一个路径 $a_1 a_2 \cdots a_{n-1} a_n$ 是 $\mathcal{F}$ 上的一个函数，它依次把操作符作用到操作数上
+    一个通路 $a_1 a_2 \cdots a_{n-1} a_n$ 是 $\mathcal{F}$ 上的一个函数，它依次把运算符作用到操作数上
     $$a_1 a_2 \cdots a_{n-1} a_n (x) \coloneqq a_n( a_{n-1}( \cdots a_2( a_1(x) ) \cdots ) ), \forall x \in \mathcal{F}$$
 \end{definition}
 
-于是 $E(\mu, \lambda)$ 中的表达式都可以写成作用在操作数 $0$ 的路径，并且我们可以验证一个路径内的操作符满足结合律。
-引入路径的拼合 $ \cdot $ 后，路径可以构成一个半群。
-
-我们可以把一个长的计算过程拆成小段，然后再组合小段回到原来的表达式，举例来说
+于是 $E(\mu, \lambda)$ 中的表达式都可以写成作用在操作数 $0$ 的通路，并且我们可以验证一个通路内的运算符满足结合律。
+同时，我们也可以把一个长的通路拆成小段，然后再组合小段回到原来的通路，举例来说
 
 $$\gamma = 0 a_1 a_2 \cdots a_{n-1} a b_1 b2 \cdots b_{m-1} b_m$$
 
@@ -250,18 +250,22 @@ $$\beta = 0 b_1 b2 \cdots b_{m-1} b_m$$
 
 $$\gamma = \alpha \circ \beta$$
 
-这里 $\alpha$, $\beta$ 和 $\gamma$ 全部都定义在 $E$ 里面。 我们可以论证 $\mathcal{P} = (E, \circ)$ 是一个群，我们称之为\emph{路径群}.
+这里 $\alpha$, $\beta$ 和 $\gamma$ 全部都定义在 $E$ 里面。 我们可以论证 $(E, \circ)$ 是一个半群，我们称之为\emph{通路半群}.
+
+\subsection{典范形式}\label{subsec:canonical}
+
+生成结构上的典范形式是生成图上的路径。
 
 \subsection{字面结构 $\mathcal{S}^0$}\label{subsec:literial}
 
-当我们采纳了字面上的等值关系，我们得到了一个出度为 5 的生成树。\footnote[2]{这个生成树对应一个六阶无限边形铺嵌，是否有对应右手系下的符号排布，是个有趣的问题。}
+当我们采纳了字面上的等值关系，我们得到了一个出度为 5 的生成树。\footnote[2]{这个生成树对应一个六阶无限边形铺嵌，可以更仔细地考察。}
 
 \begin{itemize}
     \item 根：初始操作数 $0$
     \item 边：每个节点通过对应的边 $\odot$、$\oplus$、$\ominus$、$\otimes$和$\oslash$，生成 $5$ 个子节点。
 \end{itemize}
 
-从根节点到任意节点的一条路径对应一个算术表达式，不同的表达式对应不同的路径。
+从根节点到任意节点的一条路径对应一个算术表达式，不同的表达式对应不同的路径。典范形式是生成树上的所有路径。
 
 \begin{figure}[ht]
 \centering
@@ -275,10 +279,8 @@ $$\gamma = \alpha \circ \beta$$
     [.$\oslash$ [.$\odot$ ] [.$\oplus$ ] [.$\ominus$ ] [.$\otimes$ ] [.$\oslash$ ] ]
 ]
 }
-\caption{字面结构下的生成树}
+\caption{$\mathcal{S}^0$的生成图}
 \end{figure}
-
-典范形式是生成树上的路径。
 
 \subsection{语法结构 $\mathcal{S}^i$}\label{subsec:syntactical}
 
@@ -291,36 +293,36 @@ $$\gamma = \alpha \circ \beta$$
     \item $\odot^{-1} = \odot$
 \end{itemize}
 
-路径群的凯莱树 $\mathcal{P}$ 如下
+\begin{figure}[ht]
+\centering
+\includegraphics[width=3in]{images/cayley}
+\caption{$\mathcal{S}^i$的生成图}
+\end{figure}
+
+生成图是四阶凯莱树，典范形式是其上的路径。
+
+\subsection{语法结构 $\mathcal{S}^d$}\label{subsec:syntactical}
 
 \begin{figure}[ht]
 \centering
 \includegraphics[width=3in]{images/cayley}
-\caption{路径群的凯莱树}
+\caption{$\mathcal{S}^d$的生成图}
 \end{figure}
 
-典范形式是生成树上的路径。
-
-\subsection{语法结构 $\mathcal{S}^d$}\label{subsec:syntactical}
-
-典范形式是生成图上的路径。
+生成图是如上，典范形式是其上的路径。
 
 \subsection{语义结构 $\mathcal{S}^\infty$}\label{subsec:semantical}
 
-Now we study the evaluation result, and the structure under the evaluation equality.
-Giving an element of $E(\mu, \lambda)$ with a generating path $0 a_1 a_2 \cdots a_n$,
-and the evaluation can be expressed by a function $\nu: E(\mu, \lambda) \to R$,
-and we can proof by structure induction that all evaluation result keep the form
-
+首先引入估值函数：
 $$
 \nu(0 a_1 a_2 \cdots a_n) = \sum_{i} k_i \mu e^{l_i \lambda} \in R
 $$
-where $k_i \in N, l_i \in N$, and obviously $\sum_{i} k_i \mu e^{l_i \lambda}$ is an evaluation of a polynomial over $\mathcal{F}$ at $e^{\lambda}$.
-Comparing with path notion, we call this an expanded notion, or evaluated notion if we emphasising on evaluated value.
 
+\subsection{完备化}\label{subsec:completeness}
 
-\subsection{加细与完备化}\label{subsec:completeness}
+我们数域 $\mathcal{F}$ 上的格点构成的环 $\mathcal{R}_i$
 
+在这种扩张下，终止对象的序列$\mathcal{S}^\infty_k$ 从环变成了域。
 
 \newpage
 
@@ -370,8 +372,9 @@ $p$ 有一个运动，在标架 $F_i$ 中表现为速度 $u$ 和角度 $\theta$ 
 
 \subsection{等值线与梯度}
 
-\subsection{Laplacian的特征值}
+\subsection{回路的估值}
 
+\subsection{Laplacian的特征值}
 
 \newpage
 
@@ -385,9 +388,18 @@ $p$ 有一个运动，在标架 $F_i$ 中表现为速度 $u$ 和角度 $\theta$ 
 
 \section{第一个实例}
 
+在本节我们会给出一个实例\footnote[1]{本实例由张乐给出，并用张怀公的表述方法予以表述}，
+我们会分别验证或者考察典范形式、完备性、流方程、回路估值、Laplacian的特征值、管型构造。
+
+\subsection{实例的给出}
+
 \subsection{典范形式}
 
+\subsection{完备性}
+
 \subsection{流方程}
+
+\subsection{回路估值}
 
 \subsection{Laplacian的特征值}
 
