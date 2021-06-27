@@ -32,6 +32,7 @@
 \usepackage{stmaryrd}
 \usepackage{mathtools}
 \usepackage{wasysym}
+\usepackage{subfiles}
 
 \newtheorem{definition}{定义}
 \numberwithin{definition}{section}
@@ -70,8 +71,8 @@
 \section{引言}
 
 几千年来，最基本的数学对象之一—算术表达式，一直都是以一种离散的方式存在。数通过四则运算连接在一起，构成了算术表达式，
-除了一些代数变形可以连接不同的表达式，两个表达式 $A$ 和 $B$ 之间没有好的、几何的连接方式。
-那么究竟有没有算术表达式的几何化方式呢？在本文我们将会给出一个思路。
+除了一些代数变形可以连接不同的表达式；但两个表达式 $A$ 和 $B$ 之间没有好的、几何的连接方式，从而整体上算术表达式也没有构成一个几何空间。
+那么，究竟有没有算术表达式的几何化方式呢？在本文我们将会给出一个思路。
 
 事情可以追溯到 2015 年底，当时我在上海短居。在考虑用词向量技术表达整数的时候，我发现可以构造一种有趣的、双曲平面上的离散结构。
 当看到那些蜿蜒到无穷的折线和均匀的数值分布时，我意识到可能发现了一个有着丰富内涵的数学结构。其后的几年我一直在反复琢磨它。
@@ -85,12 +86,13 @@
 
 2020 年底，在和英国的刘宇老师讨论后，他问了我几个特别好的问题，促使我重新思考，结果发现无穷小生成元的选择是自由的，
 这样就导出了一个非常深刻的管型构造，这个管型构造能和多项式联系起来，是一种纤维结构。
-但是这些几何构造还仅仅存在于设想中，它还欠缺一个严密的理论基础。
+但是这些几何构造还仅仅存在于设想中，它还欠缺一个严密的理论基础和经过证明的实例。
 
 于是，在2021 年初，我从公司（彩云科技）争取了三个月的时间，在实习生张乐和张怀公的帮助下，我们一起找到了第一个严格的、
 可以解算的实例（张乐的工作），也找到了一般情况下的表述方法（张怀公的工作）。
 
-本文会沿着真实思路发展的线索，陈述这个算术表达式几何化的想法。
+本文会沿着真实思路发展的线索，陈述这个算术表达式几何化的想法。在本文中，我们不给出证明细节，只是说明思路大意。
+我们还在另外撰写一篇英文文档，在那里会给出证明和各种技术细节。
 
 有一种理解，算术表达式的计算过程比它的计算结果包含了更为丰富的信息，简单说，就是“过程比结果更重要”。
 在此，我也想表达，如果我们的历程是数字丛林里的一次探险，那么探险的事业是永远没有止境的，它的过程远比一个探险报告有趣的多。
@@ -149,9 +151,10 @@ $$
 
 因为机器学习模型的统计特点，这里的组合性只是一种近似关系。机器学习界指出了组合性的存在，但并没有沿这个方向走太远。
 
-\subsection{数的赋值网格}\label{subsec:assignment}
+\subsection{赋值网格}\label{subsec:assignment}
 
-整数和整数之间存在很多关系，但是如果我们把 $\cdot + 1$ 和 $\cdot \times 2$ 视为基本关系，我们能得到什么？ 此时，我们发现：
+整数和整数之间存在很多关系，但是如果我们把 $\cdot + 1$ 和 $\cdot \times 2$ 视为基本关系，
+如果要求相同基本关系的连线彼此必须平行，我们能得到什么？ 此时，我们发现：
 
 $$
 [(x + 1) \times 2] - (x \times 2 + 1) = 1
@@ -173,28 +176,7 @@ $$
     \item 加轴、乘轴的增长方向按右手系排布
 \end{enumerate}
 
-我们需要论证依照此程序，可以无矛盾的构造几何构形，直至无限边形的无穷远处。
-
-\begin{theorem}
-    存在一组加轴、乘轴增长方向的右手系（或左手系）排布
-\end{theorem}
-
-\begin{proof}
-对四阶无限边形铺嵌的节点、面染色
-\begin{enumerate}
-    \item 节点可以在黑、白两种选择中交错染色，且可以无矛盾地拓广至无穷远处；
-    \item 面可以在红、蓝两种选择中交错染色，且可以无矛盾地拓广至无穷远处；
-\end{enumerate}
-
-\begin{figure}[ht]
-\centering
-\includegraphics[width=4in]{images/H2_tiling_24i-1.png}
-\caption{染色与定向}
-\end{figure}
-
-在上述染色的基础上，我们对边可以依照下述规则形成右手系排布：
-
-\end{proof}
+我们可以通过点线面的染色，来论证依照此程序，可以无矛盾的构造几何构形，直至无限边形的无穷远处。
 
 \newpage
 
@@ -205,7 +187,7 @@ $$
 
 对数域 $\mathcal{F}$，取 $\mu, \lambda \in \mathcal{F}$，我们考虑表达式集合 $E(\mu, \lambda)$ 如下自由产生
 \begin{itemize}
-    \item 操作数: $0$
+    \item 操作数: $0$ \footnote[1]{初始操作数还可以引入别的元素，比如引入对偶数的 $\epsilon$ 作为一个小扰动，将会得到和导数有关的构造，对此我们会另行讨论。}
     \item 运算符: $\odot: x \mapsto x$
     \item 运算符: $\oplus_\mu: x \mapsto x + \mu$
     \item 运算符: $\ominus_\mu: x \mapsto x - \mu$
@@ -214,7 +196,6 @@ $$
 \end{itemize}
 
 这里 $\mu$ 是加法生成元，而 $\lambda$ 是乘法生成元。在上下文清晰的地方，我们会从运算符的下标里省略 $\mu$ 和 $\lambda$。
-如果操作数引入对偶数的 $\epsilon$，可以由此在管状结构上定义多项式的导数。
 
 采纳了不同的 $E(\mu, \lambda)$ 上的等值关系，我们会得到不同的结构：
 \begin{itemize}
@@ -224,11 +205,11 @@ $$
 \end{itemize}
 
 最后，我们指出，引入态射后，这些不同的结构之间可以构成范畴，而字面结构是初始对象，语义结构是终止对象。
-数环进行扩张，对应到表达式有路径群的不断细化。
+可以进行某种扩张，对应到表达式，就有路径群的不断细化，直到最后完成完备化。
 
 \subsection{字面结构}\label{subsec:literial}
 
-当我们采纳了字面上的等值关系，我们得到了一个出度为 5 的生成树。它对应一个六阶无限边形铺嵌，是否有对应右手系下的符号排布，是个有趣的问题。
+当我们采纳了字面上的等值关系，我们得到了一个出度为 5 的生成树。\footnote[2]{这个生成树对应一个六阶无限边形铺嵌，是否有对应右手系下的符号排布，是个有趣的问题。}
 
 \begin{itemize}
     \item 根：初始操作数 $0$
@@ -252,42 +233,25 @@ $$
 \caption{字面结构下的生成树}
 \end{figure}
 
-Suppose we have a series of operators $a_1, a_2, \cdots a_{n-1}, a_n$, we introduce a \emph{path notion}.
+假设我们有一串操作符 $a_1, a_2, \cdots a_{n-1}, a_n$，我们可以引入如下的 \emph{路径记法}.
 
 \begin{definition}
 \label{definition:path}
-    a path of operators $a_1 a_2 \cdots a_{n-1} a_n$ is a function over $\mathcal{F}$ which apply operators on an operand in turn
+    一个路径 $a_1 a_2 \cdots a_{n-1} a_n$ 是 $\mathcal{F}$ 上的一个函数，它依次把操作符作用到操作数上
     $$a_1 a_2 \cdots a_{n-1} a_n (x) \coloneqq a_n( a_{n-1}( \cdots a_2( a_1(x) ) \cdots ) ), \forall x \in \mathcal{F}$$
 \end{definition}
 
-Any expressions in $E(\mu, \lambda)$ can be written as a path with operand $0$. And now we verify the operators is associative inside a path.
-
-\begin{lemma}
-\label{lemma:associative}
-    The operators inside a path is associative, i.e. $$x (y z) = (x y) z$$
-\end{lemma}
-
-\begin{proof}
-    Follow the definition, we have
-$$(x (y z)) [\alpha] = (y z) (x[\alpha]) = z(y(x[\alpha]))$$
-$$((x y) z) [\alpha] = z ((x y)[\alpha]) = z(y(x[\alpha]))$$
-\qedhere
-\end{proof}
-
-\begin{definition}
-\label{definition:concatenate}
-    Concatenate of paths $p_1 \cdot p_2$ is defined as the composite of functions
-    $$p_1 \cdot p_2 \coloneqq p_2 \circ p_1 $$
-\end{definition}
+于是 $E(\mu, \lambda)$ 中的表达式都可以写成作用在操作数 $0$ 的路径，并且我们可以验证一个路径内的操作符满足结合律。
+引入路径的拼合 $ \cdot $ 后，路径可以构成一个半群。
 
 \begin{theorem}
 \label{theorem:semigroup}
-the algebraic structure $\mathcal{P} = (E, \cdot)$ is a semigroup.
+代数结构 $\mathcal{P} = (E, \cdot)$ 是一个半群。
 \end{theorem}
 
 \subsection{语法结构}\label{subsec:syntactical}
 
-We can introduce the inverse notion
+显然，在 $\mathcal{F}$ 上加减是互逆的，乘除也是互逆的，由此我们引入操作符的逆
 \begin{itemize}
     \item $\oplus^{-1} = \ominus$
     \item $\ominus^{-1} = \oplus$
@@ -296,108 +260,34 @@ We can introduce the inverse notion
     \item $\odot^{-1} = \odot$
 \end{itemize}
 
-Then we have the calculation rule of inverse.
-
-\begin{lemma}
-\label{lemma:inverserule}
-If we have
-$$\beta = \alpha a_1 a_2 \cdots a_{n-1} a_n$$
-then
-$$\alpha = \beta a_n^{-1} a_{n-1}^{-1} \cdots a_2^{-1} a_1^{-1}$$
-\end{lemma}
-
-\begin{proof}
-Notice that $\oplus, \ominus, \otimes, \oslash$ are all bijections, we know that $\alpha a_1 a_2 \cdots a_{n-1} a_n$ is a composition of functions
-
-$$\beta = a_n( a_{n-1}( \cdots a_2( a_1(\alpha) ) \cdots ) )$$
-
-Considering the inverse of a composition, we have
-
-$$\alpha = a_1^{-1}( a_2^{-1}( \cdots a_{n-1}^{-1}( a_n^{-1}(\beta) ) \cdots ) )$$
-
-Or under the path notion
-
-$$\alpha = \beta a_n^{-1} a_{n-1}^{-1} \cdots a_2^{-1} a_1^{-1}$$
-
-\qedhere
-\end{proof}
-
-Informally we can divide a long calculation into pieces, or composite small pieces of calculations into a longer one,
-for example
+我们可以把一个长的计算过程拆成小段，然后再组合小段回到原来的表达式，举例来说
 
 $$\gamma = 0 a_1 a_2 \cdots a_{n-1} a b_1 b2 \cdots b_{m-1} b_m$$
 
-can be rewritten as
+可以重新写成
 
 $$\gamma = 0 ((\odot a_1 a_2 \cdots a_{n-1} a) \circ (\odot b_1 b_2 \cdots b_{m-1} b_m))$$
 
-And if we treat $\odot$ and $0$ as the same, and we define
+这里 $\circ$ 是函数复合。如果我们把 $\odot$ 和 $0$ 理解成一样的，可以定义
 
 $$\alpha = 0 a_1 a_2 \cdots a_{n-1} a$$
 $$\beta = 0 b_1 b2 \cdots b_{m-1} b_m$$
 
-We have
+于是
 
 $$\gamma = \alpha \circ \beta$$
 
-where $\alpha$, $\beta$ and $\gamma$ are all well defined in $E$.
+这里 $\alpha$, $\beta$ 和 $\gamma$ 全部都定义在 $E$ 里面。 我们可以论证 $\mathcal{P} = (E, \circ)$ 是一个群，我们称之为\emph{路径群}.
 
-Under such definition, the algebraic structure $\mathcal{P} = (E, \circ)$ is a group, and we call it \emph{path group}.
-
-\begin{theorem}
-\label{theorem:pathgroup}
-the algebraic structure $\mathcal{P} = (E, \circ)$ is a group
-\end{theorem}
-
-\begin{proof}
-    Follow the definition of group, we have
-\qedhere
-\end{proof}
-
-The cayley tree of path group $\mathcal{P}$ is a tree structure as below
+路径群的凯莱树 $\mathcal{P}$ 如下
 
 \begin{figure}[ht]
 \centering
 \includegraphics[width=3in]{images/cayley}
-\caption{Cayley tree of syntactical structure}
+\caption{路径群的凯莱树}
 \end{figure}
 
-\begin{figure}[ht]
-\centering
-\begin{tikzpicture}
-
-\filldraw [black] (0,0) circle (2pt) node[align=center, below] {0};
-\filldraw [black] (4,1) circle (2pt) node[align=center, below] {$\alpha$};
-\filldraw [black] (2,3) circle (2pt) node[align=center, below] {$\beta$};
-\filldraw [black] (5,3) circle (2pt) node[align=center, below] {$\gamma$};
-\filldraw [black] (-2,2) circle (2pt) node[align=center, below] {$\psi$};
-\filldraw [black] (1,2) circle (2pt) node[align=center, below] {$\phi$};
-\filldraw [gray] (3,-0.4) circle (0pt) node[align=center, below] {$x$};
-\filldraw [gray] (3,1.8) circle (0pt) node[align=center, below] {$y$};
-\filldraw [gray] (4.7,2) circle (0pt) node[align=center, below] {$z$};
-\draw [gray] (0,0) to[out=300,in=240] (4,1);
-\draw [gray] (4,1) to[out=120,in=300] (2,3);
-\draw [gray] (4,1) to[out=60,in=240] (5,3);
-\draw [gray] (0,0) to[out=120,in=300] (-2,2);
-\draw [gray] (0,0) to[out=60,in=240] (1,2);
-\filldraw [gray] (-1,0.8) circle (0pt) node[align=center, below] {$y$};
-\filldraw [gray] (0.7,1) circle (0pt) node[align=center, below] {$z$};
-
-\end{tikzpicture}
-\caption{Factorization by greatest common divisor}
-\end{figure}
-
-The generating order is a partial order over $E$, we assume the later generated one is greater in generating.
-By the generating order, we can define the concept of greatest common divisor: for any $\beta, \gamma \in A$,
-the greatest common divisor $gcd(\beta, \gamma)$ is the greatest common ancestor in the generating tree.
-So coprime of $\psi, \phi \in A$ means $gcd(\psi, \phi) = 0$
-
-\begin{lemma}
-\label{lemma:coprimes}
-When $\alpha = gcd(\beta, \gamma)$, and $\beta = \alpha \circ \psi$, $\gamma = \alpha \circ \phi$ hold, then $\psi$ and $\phi$ are coprimes.
-\end{lemma}
-
-\subsection{语义结构}\label{sec:semantical}
+\subsection{语义结构}\label{subsec:semantical}
 
 Now we study the evaluation result, and the structure under the evaluation equality.
 Giving an element of $E(\mu, \lambda)$ with a generating path $0 a_1 a_2 \cdots a_n$,
@@ -410,49 +300,19 @@ $$
 where $k_i \in N, l_i \in N$, and obviously $\sum_{i} k_i \mu e^{l_i \lambda}$ is an evaluation of a polynomial over $\mathcal{F}$ at $e^{\lambda}$.
 Comparing with path notion, we call this an expanded notion, or evaluated notion if we emphasising on evaluated value.
 
-\begin{lemma}
-\label{lemma:arithmeticalalgebra}
-All arithmetical expressions $E(\mu, \lambda)$ is an algebra over numbers field $\mathcal{F}$, or $\mathcal{A} = (E, \mathcal{F}, \cdot)$.
-\end{lemma}
-
-\begin{proof}
-By using the expanded notion, it is easy to verify the three axioms of an algebra is hold:
-for any arithmetical expressions $x, y, z \in E$ and $a, b \in \mathcal{F}$, we have
-\begin{itemize}
-    \item right distributivity: $(x + y) \cdot z = x \cdot z + y \cdot z$
-    \item left distributivity: $z \cdot (x + y) = z \cdot x + z \cdot y$
-    \item compatibility with scalars: $(ax) \cdot (by) = (ab) (x \cdot y)$
-\end{itemize}
-\qedhere
-\end{proof}
-
-Since exponent appears in multiplication generators, we now study an equivalent formulation of Lindemann-Weierstrass theorem
-
-\begin{theorem}
-\label{theorem:LindemannWeierstrass}
-If $\alpha_1, \cdots, \alpha_m$ are distinct algebraic numbers, then $e^{\alpha_1}, \cdots, e^{\alpha_m}$ are linearly independent over the algebraic numbers.
-\end{theorem}
-
-This theorem gives the transcendental nature of $e$.
-Now we can verify path group $\mathcal{P}$ is non-abelian by calculating the result at point $0$ when the field $\mathcal{F}$ is algebraic.
-
-\begin{corollary}
-\label{corollary:nonabelian}
-The path group $\mathcal{P} = (E, \circ)$ is non-abelian when the field $\mathcal{F}$ is algebraic
-\end{corollary}
-
-\begin{proof}
-Because of Lindemann-Weierstrass theorem, $\mu$ have a covering structure and each layer of $\nu$ is a injectiion to the codomain.
-Notice that $(0 + \mu) \cdot e^\lambda \neq 0 \cdot e^\lambda + \mu$, then we have $0 \oplus \otimes \neq 0 \otimes \oplus$
-\qedhere
-\end{proof}
+\subsection{典范形式}\label{subsec:canonical}
 
 
-最后，我们指出交换子的值和空间的弯曲程度相关。
+\subsection{加细与完备化}\label{subsec:completeness}
+
+
+\newpage
 
 \section{流方程}
 
 假设在一个无穷小范围内存在算术表达式生成结构的一种几何，它会是什么样呢？本节我们探讨这个话题。
+
+\subsection{流方程的引入}
 
 算术表达式空间中一点 $p$，$p$ 作为表达式有估值 $x$，假设在 $p$ 点存在加轴和乘轴构成的标架 $F_i$，
 $p$ 有一个运动，在标架 $F_i$ 中表现为速度 $u$ 和角度 $\theta$ ， 我们对 $p$ 的运动带来的估值 $x$ 的变化，
@@ -488,13 +348,22 @@ $p$ 有一个运动，在标架 $F_i$ 中表现为速度 $u$ 和角度 $\theta$ 
 
 最后，我们指出流方程的推导是抽象的，我们在推导过程中并没有用上前面章节里具体的几何结构。
 
+\subsection{局部坐标系}
+
+
+\subsection{等值线与梯度}
+
+
+\subsection{Laplacian的特征值}
+
+
 \newpage
 
 \section{管型构造}
 
 \newpage
 
-\section{新的实例}
+\section{第一个实例}
 
 \newpage
 
