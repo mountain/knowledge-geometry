@@ -304,20 +304,20 @@ $$  c(x_1) = c(x_2) \iff x_1 = x_2  $$
 \caption{$\mu=1$ 时的 $\mathcal{S}^i$的凯莱图}
 \end{figure}
 
-生成图是四阶凯莱树，典范形式是其上的路径。
+生成图是四阶凯莱树，典范形式是其上从某一个零点出发的所有路径。
 
 \subsection{语法结构 $\mathcal{S}^d$}\label{subsec:syntactical}
-
 
 \begin{figure}[ht]
 \centering
 \resizebox{0.9\textwidth}{!}{
 \begin{tikzpicture}
-\draw [black, line width=0.6pt, ->] (0,0) to[out=90,in=270] (0,8.25);
+\draw [black, line width=0.6pt, ->] (0,0) to[out=90,in=270] (0,8.3);
 \node [anchor=south] at (0,8.5) {y};
-\draw [black, line width=0.6pt, ->] (-8.2,0) to[out=0,in=180] (8.25,0);
+\draw [black, line width=0.6pt, ->] (-8.3,0) to[out=0,in=180] (8.3,0);
 \node [anchor=west] at (8.5,0) {x};
 
+\draw [blue, line width=0.6pt] (-8.25,0.25) to[out=0,in=180] (8.25,0.25);
 \draw [blue, line width=0.6pt] (-8.25,0.5) to[out=0,in=180] (8.25,0.5);
 \draw [blue, line width=0.6pt] (-8.25,1) to[out=0,in=180] (8.25,1);
 \draw [blue, line width=0.6pt] (-8.25,2) to[out=0,in=180] (8.25,2);
@@ -388,12 +388,30 @@ $$  c(x_1) = c(x_2) \iff x_1 = x_2  $$
 \draw [green, line width=0.6pt] (7.75,0) to[out=90,in=270] (7.75,0.50);
 \draw [green, line width=0.6pt] (8,0) to[out=90,in=270] (8,8.00);
 
+\node [circle, ,draw=black, fill=black, inner sep=0pt,minimum size=5pt] at (4,8) {};
+\node [circle, ,draw=black, fill=black, inner sep=0pt,minimum size=5pt] at (8,1) {};
+\node [anchor=south east] at (4,8) {$\frac{1}{2}$};
+\node [anchor=south west] at (8,1) {$8$};
+
 \end{tikzpicture}
 }
-\caption{ $\lambda=\ln2$ 和 $\mu=1$ 时的$\mathcal{S}^d$ 凯莱图}\label{fig:grid0}
+\caption{ $\lambda=\ln2$ 和 $\mu=\frac{1}{2}$ 时的$\mathcal{S}^d$ 凯莱图}\label{fig:grid0}
 \end{figure}
 
-生成图是如上，典范形式是其上的路径。
+生成图是如上，典范形式是其上从某一个零点出发的所有路径。由于分配律的存在，任何两点之间的通路，均可拆解成先加后乘或者先乘后加，由此导致两条标准的路径。
+
+如图所示，我们仅举一例来说明，给定如下通路：
+
+$$
+8 = ((\frac{1}{2} \times 2 + \frac{1}{2}) \times 2  + \frac{1}{2}) \times 2 + \frac{1}{2} + \frac{1}{2}
+$$
+
+利用分配律，我们可以重新整理上式为：
+
+$$
+8 = \frac{1}{2}  \times 2 \times 2 \times 2  + \frac{1}{2} \times 2 \times 2 + \frac{1}{2} \times 2 + \frac{1}{2} + \frac{1}{2}
+$$
+
 
 \subsection{语义结构 $\mathcal{S}^\infty$}\label{subsec:semantical}
 
