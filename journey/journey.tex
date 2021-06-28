@@ -155,7 +155,7 @@ $$
 \subsection{离散赋值网格}\label{subsec:assignment}
 
 整数和整数之间存在很多关系，但是如果我们把 $\cdot + 1$ 和 $\cdot \times 2$ 视为基本关系，
-如果要求相同基本关系的连线彼此必须平行，我们能得到什么？ 此时，我们发现：
+并要求相同基本关系的连线彼此必须平行，我们能得到什么？ 此时，我们发现：
 
 $$
 [(x + 1) \times 2] - (x \times 2 + 1) = 1
@@ -210,15 +210,15 @@ $$
 具体如下
 
 \begin{itemize}
-    \item 字面结构 $\mathcal{S}^0$：根据表达式字面上是否相等 $\mathcal{I}^0$
+    \item 字面结构 $\mathcal{S}^0$： $\mathcal{I}^0$ 是根据表达式字面上是否相等来确定的等值关系
     \item 语法结构：根据表达式在特定公理下是否相等
         \subitem 引入了加减互逆、乘除互逆会导致等值关系 $\mathcal{I}^i$，由此带来结构 $\mathcal{S}^i$
         \subitem 在 $\mathcal{I}^i$ 基础上再引入分配律带来等值关系 $\mathcal{I}^d$，由此得到结构 $\mathcal{S}^d$
-    \item 语义结构 $\mathcal{S}^\infty$：根据表达式运算结果的值否相等$\mathcal{I}^\infty$
+    \item 语义结构 $\mathcal{S}^\infty$：$\mathcal{I}^\infty$ 是根据表达式运算结果的值否相等来确定的等值关系
 \end{itemize}
 
 引入态射后，这些不同的结构之间可以构成范畴，而字面结构 $\mathcal{S}^0$ 是初始对象，语义结构 $\mathcal{S}^\infty$ 是终止对象。
-在值相等的观点下 $\mathcal{S}^\infty$ 也是一个环。同时也可以考虑这一系列结构上的扩张或者细化，直到最后完成完备化。
+同时也可以考虑这一系列结构上的扩张或者细化，直到最后完成完备化。
 
 \subsection{通路记法}\label{subsec:walknotion}
 
@@ -284,7 +284,7 @@ $$\gamma = \alpha \circ \beta$$
 
 \subsection{语法结构 $\mathcal{S}^i$}\label{subsec:syntactical}
 
-显然，在 $\mathcal{F}$ 上加减是互逆的，乘除也是互逆的，由此我们引入操作符的逆
+显然，在 $\mathcal{F}$ 上加减是互逆的，乘除也是互逆的，由此我们引入运算符的逆
 \begin{itemize}
     \item $\oplus^{-1} = \ominus$
     \item $\ominus^{-1} = \oplus$
