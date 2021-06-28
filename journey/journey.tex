@@ -254,7 +254,12 @@ $$\gamma = \alpha \circ \beta$$
 
 \subsection{典范形式}\label{subsec:canonical}
 
-生成结构上的典范形式是生成图上的路径。
+典范形式是一种选出方法$c$，它从相等关系的每一类中选出一个代表，且满足如下条件
+
+$$  c(x) = c(c(x))$$
+$$  c(x_1) = c(x_2) \iff x_1 = x_2  $$
+
+生成结构上的典范形式是凯莱图上的路径。
 
 \subsection{字面结构 $\mathcal{S}^0$}\label{subsec:literial}
 
@@ -295,18 +300,97 @@ $$\gamma = \alpha \circ \beta$$
 
 \begin{figure}[ht]
 \centering
-\includegraphics[width=3in]{images/cayley}
-\caption{$\mathcal{S}^i$的生成图}
+\includegraphics[width=4in]{images/cayley_i}
+\caption{$\mu=1$ 时的 $\mathcal{S}^i$的凯莱图}
 \end{figure}
 
 生成图是四阶凯莱树，典范形式是其上的路径。
 
 \subsection{语法结构 $\mathcal{S}^d$}\label{subsec:syntactical}
 
+
 \begin{figure}[ht]
 \centering
-\includegraphics[width=3in]{images/cayley}
-\caption{$\mathcal{S}^d$的生成图}
+\resizebox{0.9\textwidth}{!}{
+\begin{tikzpicture}
+\draw [black, line width=0.6pt, ->] (0,0) to[out=90,in=270] (0,8.25);
+\node [anchor=south] at (0,8.5) {y};
+\draw [black, line width=0.6pt, ->] (-8.2,0) to[out=0,in=180] (8.25,0);
+\node [anchor=west] at (8.5,0) {x};
+
+\draw [blue, line width=0.6pt] (-8.25,0.5) to[out=0,in=180] (8.25,0.5);
+\draw [blue, line width=0.6pt] (-8.25,1) to[out=0,in=180] (8.25,1);
+\draw [blue, line width=0.6pt] (-8.25,2) to[out=0,in=180] (8.25,2);
+\draw [blue, line width=0.6pt] (-8.25,4) to[out=0,in=180] (8.25,4);
+\draw [blue, line width=0.6pt] (-8.25,8) to[out=0,in=180] (8.25,8);
+\draw [green, line width=0.6pt] (-8,0) to[out=90,in=270] (-8,8.00);
+\draw [green, line width=0.6pt] (-7.75,0) to[out=90,in=270] (-7.75,0.50);
+\draw [green, line width=0.6pt] (-7.5,0) to[out=90,in=270] (-7.5,1.00);
+\draw [green, line width=0.6pt] (-7.25,0) to[out=90,in=270] (-7.25,0.50);
+\draw [green, line width=0.6pt] (-7,0) to[out=90,in=270] (-7,2.00);
+\draw [green, line width=0.6pt] (-6.75,0) to[out=90,in=270] (-6.75,0.50);
+\draw [green, line width=0.6pt] (-6.5,0) to[out=90,in=270] (-6.5,1.00);
+\draw [green, line width=0.6pt] (-6.25,0) to[out=90,in=270] (-6.25,0.50);
+\draw [green, line width=0.6pt] (-6,0) to[out=90,in=270] (-6,4.00);
+\draw [green, line width=0.6pt] (-5.75,0) to[out=90,in=270] (-5.75,0.50);
+\draw [green, line width=0.6pt] (-5.5,0) to[out=90,in=270] (-5.5,1.00);
+\draw [green, line width=0.6pt] (-5.25,0) to[out=90,in=270] (-5.25,0.50);
+\draw [green, line width=0.6pt] (-5,0) to[out=90,in=270] (-5,2.00);
+\draw [green, line width=0.6pt] (-4.75,0) to[out=90,in=270] (-4.75,0.50);
+\draw [green, line width=0.6pt] (-4.5,0) to[out=90,in=270] (-4.5,1.00);
+\draw [green, line width=0.6pt] (-4.25,0) to[out=90,in=270] (-4.25,0.50);
+\draw [green, line width=0.6pt] (-4,0) to[out=90,in=270] (-4,8.00);
+\draw [green, line width=0.6pt] (-3.75,0) to[out=90,in=270] (-3.75,0.50);
+\draw [green, line width=0.6pt] (-3.5,0) to[out=90,in=270] (-3.5,1.00);
+\draw [green, line width=0.6pt] (-3.25,0) to[out=90,in=270] (-3.25,0.50);
+\draw [green, line width=0.6pt] (-3,0) to[out=90,in=270] (-3,2.00);
+\draw [green, line width=0.6pt] (-2.75,0) to[out=90,in=270] (-2.75,0.50);
+\draw [green, line width=0.6pt] (-2.5,0) to[out=90,in=270] (-2.5,1.00);
+\draw [green, line width=0.6pt] (-2.25,0) to[out=90,in=270] (-2.25,0.50);
+\draw [green, line width=0.6pt] (-2,0) to[out=90,in=270] (-2,4.00);
+\draw [green, line width=0.6pt] (-1.75,0) to[out=90,in=270] (-1.75,0.50);
+\draw [green, line width=0.6pt] (-1.5,0) to[out=90,in=270] (-1.5,1.00);
+\draw [green, line width=0.6pt] (-1.25,0) to[out=90,in=270] (-1.25,0.50);
+\draw [green, line width=0.6pt] (-1,0) to[out=90,in=270] (-1,2.00);
+\draw [green, line width=0.6pt] (-0.75,0) to[out=90,in=270] (-0.75,0.50);
+\draw [green, line width=0.6pt] (-0.5,0) to[out=90,in=270] (-0.5,1.00);
+\draw [green, line width=0.6pt] (-0.25,0) to[out=90,in=270] (-0.25,0.50);
+\draw [green, line width=0.6pt] (0.25,0) to[out=90,in=270] (0.25,0.50);
+\draw [green, line width=0.6pt] (0.5,0) to[out=90,in=270] (0.5,1.00);
+\draw [green, line width=0.6pt] (0.75,0) to[out=90,in=270] (0.75,0.50);
+\draw [green, line width=0.6pt] (1,0) to[out=90,in=270] (1,2.00);
+\draw [green, line width=0.6pt] (1.25,0) to[out=90,in=270] (1.25,0.50);
+\draw [green, line width=0.6pt] (1.5,0) to[out=90,in=270] (1.5,1.00);
+\draw [green, line width=0.6pt] (1.75,0) to[out=90,in=270] (1.75,0.50);
+\draw [green, line width=0.6pt] (2,0) to[out=90,in=270] (2,4.00);
+\draw [green, line width=0.6pt] (2.25,0) to[out=90,in=270] (2.25,0.50);
+\draw [green, line width=0.6pt] (2.5,0) to[out=90,in=270] (2.5,1.00);
+\draw [green, line width=0.6pt] (2.75,0) to[out=90,in=270] (2.75,0.50);
+\draw [green, line width=0.6pt] (3,0) to[out=90,in=270] (3,2.00);
+\draw [green, line width=0.6pt] (3.25,0) to[out=90,in=270] (3.25,0.50);
+\draw [green, line width=0.6pt] (3.5,0) to[out=90,in=270] (3.5,1.00);
+\draw [green, line width=0.6pt] (3.75,0) to[out=90,in=270] (3.75,0.50);
+\draw [green, line width=0.6pt] (4,0) to[out=90,in=270] (4,8.00);
+\draw [green, line width=0.6pt] (4.25,0) to[out=90,in=270] (4.25,0.50);
+\draw [green, line width=0.6pt] (4.5,0) to[out=90,in=270] (4.5,1.00);
+\draw [green, line width=0.6pt] (4.75,0) to[out=90,in=270] (4.75,0.50);
+\draw [green, line width=0.6pt] (5,0) to[out=90,in=270] (5,2.00);
+\draw [green, line width=0.6pt] (5.25,0) to[out=90,in=270] (5.25,0.50);
+\draw [green, line width=0.6pt] (5.5,0) to[out=90,in=270] (5.5,1.00);
+\draw [green, line width=0.6pt] (5.75,0) to[out=90,in=270] (5.75,0.50);
+\draw [green, line width=0.6pt] (6,0) to[out=90,in=270] (6,4.00);
+\draw [green, line width=0.6pt] (6.25,0) to[out=90,in=270] (6.25,0.50);
+\draw [green, line width=0.6pt] (6.5,0) to[out=90,in=270] (6.5,1.00);
+\draw [green, line width=0.6pt] (6.75,0) to[out=90,in=270] (6.75,0.50);
+\draw [green, line width=0.6pt] (7,0) to[out=90,in=270] (7,2.00);
+\draw [green, line width=0.6pt] (7.25,0) to[out=90,in=270] (7.25,0.50);
+\draw [green, line width=0.6pt] (7.5,0) to[out=90,in=270] (7.5,1.00);
+\draw [green, line width=0.6pt] (7.75,0) to[out=90,in=270] (7.75,0.50);
+\draw [green, line width=0.6pt] (8,0) to[out=90,in=270] (8,8.00);
+
+\end{tikzpicture}
+}
+\caption{ $\lambda=\ln2$ 和 $\mu=1$ 时的$\mathcal{S}^d$ 凯莱图}\label{fig:grid0}
 \end{figure}
 
 生成图是如上，典范形式是其上的路径。
