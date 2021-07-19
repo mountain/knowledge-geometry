@@ -317,13 +317,13 @@ $$  c(x_1) = c(x_2) \iff x_1 = x_2  $$
 
 第一种典范形式，是利用分配律，先加后乘或者先乘后加。
 $$
-0 a_1 a_2 \cdots a_n = \prod_{i} p_i \sum_{j} q_j
+0 a_1 a_2 \cdots a_n = \prod_{i} p_i \cdot \sum_{j} q_j
 $$
 
 或者
 
 $$
-0 a_1 a_2 \cdots a_n = \sum_{i} q_i \prod_{j} p_j
+0 a_1 a_2 \cdots a_n = \sum_{i} q_i + \prod_{j} p_j
 $$
 
 
@@ -439,6 +439,17 @@ $$
 我们数域 $\mathcal{F}$ 上的格点构成的环 $\mathcal{R}_i$
 
 在这种扩张下，终止对象的序列$\mathcal{S}^\infty_k$ 从环变成了域。
+
+赋值的完备性。
+https://en.wikipedia.org/wiki/Complete_metric_space
+
+赋值 A 是从加乘表达式 E 映射到双曲圆盘 H，加乘表达式的细密意味着 E = E_0 ∪ E_1 ∪ E_2 ∪ ... E_n 是一种按照细密程度的分层
+从每个 E_i 中取点 x_i 使得 A(x_i) 在双曲圆盘 H 上构成柯西序列（ https://en.wikipedia.org/wiki/Cauchy_sequence ），
+在此条件下，我们必须证明 x_i 在代数上的收敛性。如果度量上的收敛性蕴涵代数上的收敛性，我们称赋值 A 是完备的。
+
+怎么来推进呢？需要借助双曲圆盘上的希尔伯特曲线。欧式空间上的希尔伯特曲线是一个逐层细密的迭代结构。
+给定任意一个 H 上的柯西序列，可以在希尔伯特曲线族的逐层网格上，选取一个点列出来和原本的柯西序列收敛于同一个点。
+而希尔伯特曲线族上每一个点，在赋值 A 下都可以有的代数表达式上的定义。由此就可以讨论代数上的收敛性。
 
 \newpage
 
