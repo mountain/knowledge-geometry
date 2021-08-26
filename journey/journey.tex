@@ -182,7 +182,7 @@ $$
 
 \newpage
 
-\section{代数的观点}
+\section{代数观点看网格}
 
 从数的角度讲，加减乘除四则运算的代数结构是域；但是从算术表达式的角度讲，四则运算对应到的代数结构是半群或者群；
 由此引向算术表达式的通路群与典范形式的讨论。
@@ -305,7 +305,7 @@ $$  c(x_1) = c(x_2) \iff x_1 = x_2  $$
 \begin{figure}[ht]
 \centering
 \includegraphics[width=4in]{images/cayley_i}
-\caption{$\mu=1$ 时的 $\mathcal{S}^i$的凯莱图}
+\caption{$\mu=1$ 时的 $\mathcal{S}^i$的生成图}
 \end{figure}
 
 生成图是四阶凯莱树，典范形式是其上从某一个零点出发的所有路径。
@@ -415,7 +415,7 @@ $$
 
 \end{tikzpicture}
 }
-\caption{ $\lambda=\ln2$ 和 $\mu=\frac{1}{2}$ 时的$\mathcal{S}^d$ 凯莱图}\label{fig:grid0}
+\caption{ $\lambda=\ln2$ 和 $\mu=\frac{1}{2}$ 时的$\mathcal{S}^d$ 的图示}\label{fig:grid0}
 \end{figure}
 
 第二种典范形式，是利用分配律，把等幂的乘法项归并起来，得到一个 $\lambda$ 的多项式的形态。
@@ -440,16 +440,11 @@ $$
 
 在这种扩张下，终止对象的序列$\mathcal{S}^\infty_k$ 从环变成了域。
 
-赋值的完备性。
-https://en.wikipedia.org/wiki/Complete_metric_space
+赋值的完备性
 
-赋值 A 是从加乘表达式 E 映射到双曲圆盘 H，加乘表达式的细密意味着 E = E_0 ∪ E_1 ∪ E_2 ∪ ... E_n 是一种按照细密程度的分层
-从每个 E_i 中取点 x_i 使得 A(x_i) 在双曲圆盘 H 上构成柯西序列（ https://en.wikipedia.org/wiki/Cauchy_sequence ），
-在此条件下，我们必须证明 x_i 在代数上的收敛性。如果度量上的收敛性蕴涵代数上的收敛性，我们称赋值 A 是完备的。
-
-怎么来推进呢？需要借助双曲圆盘上的希尔伯特曲线。欧式空间上的希尔伯特曲线是一个逐层细密的迭代结构。
-给定任意一个 H 上的柯西序列，可以在希尔伯特曲线族的逐层网格上，选取一个点列出来和原本的柯西序列收敛于同一个点。
-而希尔伯特曲线族上每一个点，在赋值 A 下都可以有的代数表达式上的定义。由此就可以讨论代数上的收敛性。
+赋值 $A$ 是从加乘表达式 $E$ 映射到双曲圆盘 $H$，加乘表达式的细密意味着 $E = E_0 ∪ E_1 ∪ E_2 ∪ ... E_n$ 是一种按照细密程度的分层
+从每个 $E_i$ 中取点 $x_i$ 使得 $A(x_i)$ 在双曲圆盘 $H$ 上构成柯西序列，在此条件下，我们必须证明 $x_i$ 在代数上的收敛性。
+如果度量上的收敛性蕴涵代数上的收敛性，我们称赋值 A 是完备的。
 
 \newpage
 
@@ -495,13 +490,27 @@ $p$ 有一个运动，在标架 $F_i$ 中表现为速度 $u$ 和角度 $\theta$ 
 
 \subsection{拉回}
 
+
+
 \subsection{局部坐标系}
 
 \subsection{等值线与梯度}
 
+从流方程很容易导出局部坐标系下的等值线方程
+
+\begin{equation}
+    u (\mu \cos \theta + x \lambda \sin \theta) = 0
+\end{equation}
+
+等值线和赋值场的梯度是联系在一起的
+
 \subsection{回路的估值}
 
 \subsection{Laplacian的特征值}
+
+\subsection{几个问题}
+
+在一种典范形式的几何上，能否表示所有的表达式？在一种典范形式的几何上，其他典范形式体现为什么？
 
 \newpage
 
