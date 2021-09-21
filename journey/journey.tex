@@ -500,17 +500,17 @@ $p$ 有一个运动，在标架 $F_i$ 中表现为速度 $u$ 和角度 $\theta$ 
 我们可以改写为其他几种形式
 
 \begin{equation}
-    \frac{da}{ds} = \mu \cos \theta + a \lambda \sin \theta
+    \frac{da}{dt} = \mu dx + a \lambda dy
 \end{equation}
 
 或者
 
 \begin{equation}
-    \frac{da}{dt} = \mu dx + a \lambda dy
+    \frac{da}{ds} = \mu \cos \theta + a \lambda \sin \theta\label{eq:flow}
 \end{equation}
 
 最后，我们指出流方程的推导是抽象的，我们在推导过程中并没有用上前面章节里具体的几何结构。
-
+但从式\eqref{eq:flow} 我们能够看到赋值场 $A$ 在度量和角度上的关系。
 
 \subsection{拉回}
 
@@ -543,9 +543,8 @@ $p$ 有一个运动，在标架 $F_i$ 中表现为速度 $u$ 和角度 $\theta$ 
 \end{equation}
 
 \begin{equation}
-    \frac{da}{ds} = \pm \sqrt {a^2 \lambda^2 + \mu^2}
+    \frac{da}{ds} = \pm \sqrt {\mu^2 + a^2 \lambda^2}
 \end{equation}
-
 
 等值线-梯度坐标
 
@@ -560,6 +559,8 @@ $p$ 有一个运动，在标架 $F_i$ 中表现为速度 $u$ 和角度 $\theta$ 
 \subsection{几个问题}
 
 在一种典范形式的几何上，能否表示所有的表达式？在一种典范形式的几何上，其他典范形式体现为什么？
+
+调和映照、狄利克莱能量、最小曲面
 
 \newpage
 
