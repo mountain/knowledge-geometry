@@ -516,6 +516,36 @@ $p$ 有一个运动，在标架 $F_i$ 中表现为速度 $u$ 和角度 $\theta$ 
 
 \subsection{拉回}
 
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+
+\filldraw [black] (4,1) circle (2pt) node[align=center, below] {$\alpha$};
+\filldraw [black] (2,3) circle (0pt) node[align=center, above] {$\nu^{-1}(f^1)$};
+\filldraw [black] (7,3) circle (0pt) node[align=center, above] {$\nu^{-1}(f^2)$};
+\draw [gray] (0,0) to[out=300,in=240] (4,1);
+\draw [->] (4,1) to[out=120,in=300] (2,3);
+\draw [->] (4,1) to[out=30,in=240] (7,3);
+
+\draw [->] (3.5,-0.5) to[out=270,in=90] (3.5,-5);
+\filldraw [gray] (3.8,-3) circle (0pt) node[align=center, below] {$\nu$};
+
+\filldraw [gray] (3.5,-5.5) circle (2pt) node[align=center, below] {$x_0 = \nu(\alpha)$};
+\filldraw [gray] (3.5,-6.5) circle (2pt) node[align=center, below] {$x_0$};
+\filldraw [gray] (3.5,-7.5) circle (2pt) node[align=center, below] {$x_0$};
+\draw [gray] (0,-5.5) to[out=0,in=180] (7,-5.5);
+\draw [->] (3.5,-6.5) to[out=0,in=180] (4.5,-6.5);
+\draw [->] (3.5,-7.5) to[out=0,in=180] (5.5,-7.5);
+\filldraw [gray] (1.0,-6.2) circle (0pt) node[align=center, below] {$f^1 = x_0 + \mu t$};
+\filldraw [gray] (1.0,-7.2) circle (0pt) node[align=center, below] {$f^2 = x_0 e^{\lambda t}$};
+\filldraw [gray] (7.0,-6.2) circle (0pt) node[align=center, below] {$\dot{f}^1 = \mu$};
+\filldraw [gray] (7.0,-7.2) circle (0pt) node[align=center, below] {$\dot{f}^2 = \lambda x_0$};
+
+\end{tikzpicture}
+\caption{拉回}
+\end{figure}
+
+
 \subsection{局部坐标系}
 
 \subsection{等值线与梯度}
