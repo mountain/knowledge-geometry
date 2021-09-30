@@ -9,6 +9,7 @@
 \usepackage{appendix}
 \usepackage{caption}
 \usepackage{xcolor}
+\usepackage[stable]{footmisc}
 
 \usepackage{amsthm}
 \usepackage{amssymb}
@@ -191,6 +192,162 @@ $$
 
 \subsection{流方程}\label{subsec:flow}
 
+假设在一个无穷小范围内存在算术表达式生成结构，它会是什么样呢？本节我们探讨这个话题。
+我们假设在赋值 $a_0$ 附近的局部极坐标系下，沿着角度 $\theta$ 有一个运动，经过小时间 $\delta$ 这个运动
+在几何上移动了 $\epsilon$，折合到加乘上的变化量，就能导出如下关系
+
+\begin{equation}
+    a_{\delta} = (a_0 + \epsilon \cos \theta)e^{\epsilon \sin \theta}
+\end{equation}
+
+或者
+
+\begin{equation}
+    a_{\delta} = a_0 e^{\epsilon \sin \theta} + \epsilon \cos \theta
+\end{equation}
+
+两者都可以简化为
+
+$$
+    a_{\delta} = a_0 + \epsilon (a_0 \sin \theta + \cos \theta)
+$$
+
+于是
+
+$$
+    \frac{1}{\delta} (a_{\delta} - a_0) = \frac{\epsilon}{\delta} (\cos \theta + a_0 \sin \theta)
+$$
+
+当 $\delta$ 和 $\epsilon$ 同时趋于零时，我们就得到了 $da / dt$，即有
+
+$$
+    \frac{da}{dt} = u (\cos \theta + a \sin \theta)
+$$
+
+我们可以改写为其他几种形式
+
+\begin{equation}
+    \frac{da}{dt} = dx + a dy
+\end{equation}
+
+或者
+
+\begin{equation}
+    \frac{da}{ds} = \cos \theta + a \sin \theta \label{eq:flow_1e}
+\end{equation}
+
+当 $\theta$ 相对于 $s$ 取常数时，式 \eqref{eq:flow_1e} 对应的微分方程是可解的，我们在附录里给出推导的过程，这里仅仅给出解本身。
+
+\begin{equation}
+   a = a_0 e^{s \sin \theta} + (e^{s \sin \theta} - 1) \cot \theta
+\end{equation}
+
+上式可以变形为
+
+$$
+   a =  a_0 e^{s \sin \theta} + [1 + s \sin \theta + \frac{1}{2!} s\sin^2 \theta  + \frac{1}{3!} s \sin^3 \theta + ... - 1] \cot \theta
+$$
+
+进一步有
+
+\begin{equation}
+   a =  a_0 e^{s \sin \theta} + s \cos \theta + \frac{1}{2} \sin 2\theta (\frac{s^2}{2!} + \frac{s^3}{3!} \sin \theta + \frac{s^4}{4!} \sin^2 \theta + ...)
+   \label{eq:conformance}
+\end{equation}
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+    \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
+    \draw (-4.40, +4.60) node[inner sep=1pt] (s) {$0 - 1$};
+    \draw (-2.00, +2.80) node[inner sep=1pt] (z) {$0$};
+    \draw (+2.90, +1.60) node[inner sep=1pt] (a) {$0 + 1$};
+    \draw (+6.00, +1.60) node[inner sep=1pt] (aa) {$0 + 1 + 1$};
+    \draw (+3.00, +5.00) node[inner sep=1pt] (am) {$(0 + 1) \cdot e$};
+    \draw (+4.00, -2.00) node[inner sep=1pt] (ad) {$(0 + 1) / e$};
+    \draw (-0.80, +6.20) node[inner sep=1pt] (m) {$0 \cdot e$};
+    \draw (-4.90, +0.40) node[inner sep=1pt] (d) {$0 / e$};
+\end{tikzpicture}
+\caption{加乘生成元为 $(1, e)$ 的离散网格}
+\label{fig:grid_1e}
+\end{figure}
+
+我们把 $ \theta=0, \theta=\pi/2, \theta=\pi, \theta=3\pi/2 $ 代入 \eqref{eq:conformance} 会发现离散网格\ref{fig:grid_1e}和这个解析解是彼此一致的。
+即有如下四种情况，
+
+当$ \theta=0, s=1 $ 时：
+$$
+a =  a_0 + 1
+$$
+
+当$ \theta=\pi/2, s=1 $ 时：
+$$
+a =  a_0 \times e
+$$
+
+当$ \theta=\pi, s=1 $ 时：
+$$
+a =  a_0 - 1
+$$
+
+当$ \theta=3\pi/2, s=1 $ 时：
+$$
+a = a_0 / e
+$$
+
+\subsection{更一般的流方程}
+
+我们考察更一般情况下的流方程，假设加法生成元是 $\mu$，乘法生成元是 $\lambda$， 我们可以建立方程
+
+\begin{equation}
+    a_{\delta} = (a_0 + \mu \epsilon \cos \theta)e^{\lambda \epsilon \sin \theta}
+\end{equation}
+
+或者
+
+\begin{equation}
+    a_{\delta} = a_0 e^{\lambda \epsilon \sin \theta} + \mu \epsilon \cos \theta
+\end{equation}
+
+两者都可以简化为
+
+\begin{equation}
+    a_{\delta} = a_0 + \epsilon (a_0 \lambda \sin \theta + \mu \cos \theta)
+\end{equation}
+
+于是
+
+\begin{equation}
+    \frac{1}{\delta} (a_{\delta} - a_0) = \frac{\epsilon}{\delta} (\mu \cos \theta + x_0 \lambda \sin \theta)
+\end{equation}
+
+当 $\delta$ 和 $\epsilon$ 同时趋于零时，我们就得到了 $da / dt$，即有
+
+\begin{equation}
+    \frac{da}{dt} = u (\mu \cos \theta + a \lambda \sin \theta)
+\end{equation}
+
+我们可以改写为其他几种形式
+
+\begin{equation}
+    \frac{da}{dt} = \mu dx + a \lambda dy
+\end{equation}
+
+或者
+
+\begin{equation}
+    \frac{da}{ds} = \mu \cos \theta + a \lambda \sin \theta\label{eq:flow}
+\end{equation}
+
+最后，从式\eqref{eq:flow} 我们能够看到赋值场 $A$ 在度量和角度上的关系，于是得到定理
+
+\begin{theorem}
+保距变换保持流方程不变
+\end{theorem}
+
+但是，保持流方程不变的充分必要条件仍然是可以探讨。
+
+
 \newpage
 
 \section{四个简单实例}
@@ -218,7 +375,7 @@ $$
 $Q$ 作为数可以完备化得到实数全体 $(-\infty, +\infty)$，而类似的完备化过程也可以把有限长度的典范算术表达式
 扩展到无限长度的典范算术表达式。
 
-\subsection{上半平面模型下的例子}
+\subsection{上半平面模型下的例子\footnote{本例子的解析解由张乐给出，几何和典范形式的解释由笔者给出。}}
 
 考虑上半平面
 \[
@@ -358,14 +515,17 @@ $$
 
 也就是先累加再累乘，或者先累乘再累加。
 
+下面我们验证赋值 $A$ 满足流方程的通解
+
 最后，我们可以验证 $A$ 是 Laplacian 的特征向量。
 
 $$
 \Delta A = - y^2 (\frac{\partial^2}{\partial x^2} A + \frac{\partial^2}{\partial y^2} A) = y^2 (\frac{1}{\partial y} (\frac{1}{\partial y} \frac{x}{y})) = 2 A
 $$
 
+\subsection{伪圆坐标系下的两个例子\footnote{本例子的解析解由张乐给出，几何和典范形式的解释由笔者给出。}}
 
-\subsection{伪圆坐标系下的两个例子}
+
 
 \subsection{严密化的思路}
 
@@ -637,57 +797,7 @@ $$
 
 \section{流方程}
 
-假设在一个无穷小范围内存在算术表达式生成结构的一种几何，它会是什么样呢？本节我们探讨这个话题。
 
-\subsection{流方程的引入}
-
-算术表达式空间中一点 $p$，$p$ 作为表达式有估值 $a$，假设在 $p$ 点存在加轴和乘轴构成的标架 $F_i$，
-$p$ 有一个运动，在标架 $F_i$ 中表现为速度 $u$ 和角度 $\theta$ ， 我们对 $p$ 的运动带来的估值 $a$ 的变化，
-通过下述推导，可以建立方程
-
-\begin{equation}
-    a_{\delta} = (a_0 + \mu \epsilon \cos \theta)e^{\lambda \epsilon \sin \theta}
-\end{equation}
-
-或者
-
-\begin{equation}
-    a_{\delta} = a_0 e^{\lambda \epsilon \sin \theta} + \mu \epsilon \cos \theta
-\end{equation}
-
-两者都可以简化为
-
-\begin{equation}
-    a_{\delta} = a_0 + \epsilon (a_0 \lambda \sin \theta + \mu \cos \theta)
-\end{equation}
-
-于是
-
-\begin{equation}
-    \frac{1}{\delta} (a_{\delta} - a_0) = \frac{\epsilon}{\delta} (\mu \cos \theta + x_0 \lambda \sin \theta)
-\end{equation}
-
-当 $\delta$ 和 $\epsilon$ 同时趋于零时，我们就得到了 $da / dt$，即有
-
-\begin{equation}
-    \frac{da}{dt} = u (\mu \cos \theta + a \lambda \sin \theta)
-\end{equation}
-
-我们可以改写为其他几种形式
-
-\begin{equation}
-    \frac{da}{dt} = \mu dx + a \lambda dy
-\end{equation}
-
-或者
-
-\begin{equation}
-    \frac{da}{ds} = \mu \cos \theta + a \lambda \sin \theta\label{eq:flow}
-\end{equation}
-
-最后，从式\eqref{eq:flow} 我们能够看到赋值场 $A$ 在度量和角度上的关系，并且保距变换保持流方程不变。
-
-问题：保持流方程不变的变换集是什么？
 
 \subsection{拉回}
 
@@ -748,7 +858,14 @@ $p$ 有一个运动，在标架 $F_i$ 中表现为速度 $u$ 和角度 $\theta$ 
 \end{equation}
 
 \begin{equation}
-    \frac{da}{ds} = \pm \sqrt {\mu^2 + a^2 \lambda^2}
+    \frac{da}{ds} = \pm \sqrt {\mu^2 + a^2 \lambda^2} \label{eq:gradient}
+\end{equation}
+
+
+方程 \eqref{eq:gradient} 可解，得出 $a$ 和 $s$ 的关系如下：
+
+\begin{equation}
+    s = \frac{1}{\lambda} \ln \frac{\mu}{a + \sqrt{\mu^2 + \lambda^2 a^2}}
 \end{equation}
 
 问题：等值线-梯度坐标系和其下的流方程
