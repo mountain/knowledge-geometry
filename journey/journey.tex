@@ -58,7 +58,7 @@
 
 \title{数字丛林里的远足\\
 \large 从词向量到算术表达式的几何}
-\date{2021 年 9 月}
+\date{2021 年 10 月}
 \author{苑明理}
 
 \begin{document}
@@ -190,7 +190,7 @@ $$
 
 我们可以通过点线面的染色，来论证依照此程序，可以无矛盾的构造几何构形，直至无限边形的无穷远处。
 
-\subsection{流方程}\label{subsec:flow}
+\subsection{流方程的引入}\label{subsec:flow}
 
 假设在一个无穷小范围内存在算术表达式生成结构，它会是什么样呢？本节我们探讨这个话题。
 我们假设在赋值 $a_0$ 附近的局部极坐标系下，沿着角度 $\theta$ 有一个运动，经过小时间 $\delta$ 这个运动
@@ -236,7 +236,7 @@ $$
     \frac{da}{ds} = \cos \theta + a \sin \theta \label{eq:flow_1e}
 \end{equation}
 
-当 $\theta$ 相对于 $s$ 取常数时，式 \eqref{eq:flow_1e} 对应的微分方程是可解的，我们在附录里给出推导的过程，这里仅仅给出解本身。
+当 $\theta$ 相对于 $s$ 取常数时，式 \eqref{eq:flow_1e} 对应的微分方程是可解。
 
 \begin{equation}
    a = a_0 e^{s \sin \theta} + (e^{s \sin \theta} - 1) \cot \theta
@@ -345,8 +345,17 @@ $$
 保距变换保持流方程不变
 \end{theorem}
 
-但是，保持流方程不变的充分必要条件仍然是可以探讨。
+和上一节一样，流方程形式上是可以解出来，如下：
 
+\begin{equation}
+   a =  a_0 e^{\lambda t \sin \theta} + \frac{\mu}{\lambda} (e^{\lambda t \sin \theta} - 1) \cot \theta
+\end{equation}
+
+它和离散网格的协调一致性同样可以验证。
+
+\subsection{问题：保方程的变换}
+
+保持流方程不变的充分必要条件仍然还不清晰，可以继续探讨。
 
 \newpage
 
@@ -355,7 +364,7 @@ $$
 本节我们讨论四个例子，这些例子都可以理解成算术表达式的某种几何表达。
 \begin{itemize}
     \item 在几何上，这些例子表现为流形
-    \item 在代数上，流形的点都对应算术表达式的某种典范形态
+    \item 在算术上，流形的点都对应算术表达式的某种典范形态
     \item 从表达力的角度讲，任何算术表达式都对应到流形上的一条路径
 \end{itemize}
 
@@ -365,6 +374,8 @@ $$
 \subsection{实数轴的例子}
 
 给定实数轴 $\mathcal{R}$ 和上面的坐标$\phi: \mathcal{R} \to (-\infty, +\infty)$。
+
+\subsubsection{例子一}
 
 $\mathcal{R}$ 上 $\phi$ 取值为有理数的全体点构成集合 $Q$，而 $Q$ 中的每个点都有$b$-进数位制下的表示，
 从而 $Q$ 也可以理解成有限长度的典范算术表达式的集合，这些表达式均具如下形式：
@@ -393,13 +404,17 @@ ds^2 = \frac{dx^2 + dy^2}{y^2}
 \Delta = - y^2 (\frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2})
 \]
 
+\subsubsection{例子二}
+
 给定一个赋值函数
 
-$$
-A = \{
-  a | a = - \frac{x}{y}
-\}
-$$
+\begin{equation}
+A = - \frac{x}{y}
+\end{equation}
+
+我们可以导出如上的网格。在网格里，蓝线代表 $+ 1$ 关系，绿线代表 $\times 2$ 关系，它们是彼此垂直的伪圆族。
+我们用 $A$ 计算每个网格点上的取值，并在图上用红色的数字标出。$A$ 不但给出了网格点上的赋值，也给上半平面上的每个点赋值。
+
 
 \begin{figure}[ht]
 \centering
@@ -495,27 +510,22 @@ $$
 \caption{网格$\mathbf{G}$，$\lambda=\ln2$ 和 $\mu=1$}\label{fig:grid0}
 \end{figure}
 
-我们可以导出如上的网格。在网格里，蓝线代表 $+ 1$ 关系，绿线代表 $\times 2$ 关系，它们是彼此垂直的伪圆族。
-我们用 $A$ 计算每个网格点上的取值，并在图上用红色的数字标出。$A$ 不但给出了网格点上的赋值，也给上半平面上的每个点赋值。
-
 我们可以通过调整 $+ 1$、$\times 2$ 等关系的步长，改成$+ \frac{1}{2}$、$\times \sqrt {2}$来细化网格，一步步细化下去之后，
 在这些细密网格的叠加之上，实现某种完备化。
 
 对于这个例子，表达式的典范形态取如下形式：
 
 $$
-0 a_1 a_2 \cdots a_n = \prod_{i} p_i \cdot \sum_{j} q_j
+\prod_{i} p_i \cdot \sum_{j} q_j
 $$
 
 或者
 
 $$
-0 a_1 a_2 \cdots a_n = \sum_{i} q_i + \prod_{j} p_j
+\sum_{i} q_i + \prod_{j} p_j
 $$
 
 也就是先累加再累乘，或者先累乘再累加。
-
-下面我们验证赋值 $A$ 满足流方程的通解
 
 最后，我们可以验证 $A$ 是 Laplacian 的特征向量。
 
@@ -525,16 +535,107 @@ $$
 
 \subsection{伪圆坐标系下的两个例子\footnote{本例子的解析解由张乐给出，几何和典范形式的解释由笔者给出。}}
 
+首先介绍双曲空间的伪圆坐标系。伪圆坐标系是利用一族伪圆和与之正交的测地线族来定位的全局坐标系统。
+如图所示，在红色的庞加莱圆盘上，蓝色的伪圆相切于理想点 $\Omega$，绿线是与之正交的测地线。
+那么点 $P$ 的坐标由 $QP$ 和 $OQ$ 的有向长度给出，点 $O$ 为坐标原点，有向长度都是双曲空间内的长度。
+在测地线族上有向长度的正负号，根据点 $P$ 是否在 $\Omega$ 点一侧来确定，在 $\Omega$ 点一侧为正，否则为负。
+在伪圆族上有向长度的正负号，按照右手螺旋为增加的方向来确定，也即右手螺旋过点 $O$ 相继给出了负半轴和正半轴。
+依照如上规则，点 $P$ 的坐标为 $(x,y)$。
 
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+    \node[anchor=225] at (4,2) {$\Omega$};
+    \draw[red,fill=red] (0,2) circle[radius=4];
+    \draw[blue] (1, 2) circle[radius=3];
+    \draw[black] (-4,2) -- (4,2);
+    \draw[green] (4,2) arc (-90:-180:4);
+    \draw[blue] (2, 2) circle[radius=2];
+    \node[fill,circle,inner sep=1pt] at (-2,2) {};
+    \node[anchor=225] at (-2,2) {$O$};
+    \node[fill,circle,inner sep=1pt] at (0.175,4.9) {};
+    \node[anchor=225] at (0.175,4.9) {$Q$};
+    \node[fill,circle,inner sep=1pt] at (0.8,3.6) {};
+    \node[anchor=90] at (0.8,3.5) {$P$};
+    \node[anchor=225] at (0.49,4.1) {$y$};
+    \node[anchor=225] at (-1.6,3.9) {$x$};
+\end{tikzpicture}
+\caption{伪圆坐标系}\label{fig:horocyclecoord}
+\end{figure}
 
-\subsection{严密化的思路}
+我们有
+
+$$
+ds^2 = e^{-2y} dx^2 + dy^2
+$$
+
+和
+
+$$
+\Delta = e^{2y} \frac{\partial^2}{{\partial x}^2} + \frac{\partial^2}{{\partial y}^2} - \frac{\partial}{\partial y}
+$$
+
+\subsubsection{例子三}
+
+伪圆坐标系下的第一个例子是
+
+\begin{equation}
+A = x e^{-y}
+\end{equation}
+
+此时，有
+
+$$
+\Delta A = e^{2y} \frac{\partial^2(x e^{-y})}{{\partial x}^2} + \frac{\partial^2(x e^{-y})}{{\partial y}^2} - \frac{\partial(x e^{-y})}{\partial y} = 2A
+$$
+
+\subsubsection{例子四}
+
+伪圆坐标系下的第二个例子是
+
+\begin{equation}
+A = x e^y
+\end{equation}
+
+注意到此时 $A$ 在边界上趋于 $0$ 值，同时有
+
+$$
+\Delta A = e^{2y} \frac{\partial^2(x e^y)}{{\partial x}^2} + \frac{\partial^2(x e^y)}{{\partial y}^2} - \frac{\partial(x e^y)}{\partial y} = 0
+$$
+
+\subsection{例子间的关系}
+
+仔细观察，例子二和例子三实际上可以通过共形变换的，可以由如下的 Mobius 映射联系起来
+
+$$
+z \mapsto \frac{z-i}{z+i}
+$$
+
+例子三和例子四也可以通过共形变联系起来，由如下映射给出
+
+$$
+(x, y) \mapsto (x, -y)
+$$
+
+故此，这三个例子在网格上是等价，而典范形式是一样的。
+
+\subsection{几个问题}
+
+\subsubsection{典范形态的义涵}
+
+典范形态还需要给出严格的定义。典范形态间如何的相互表示？典范形态以及相互表示如何借助几何来显现？
+
+\subsubsection{例子和方程解的融洽}
+
+以上四个例子都是给定的全局坐标系，而流方程的形式解是在局部坐标系下给出的，两者是否融洽，是一个可以考察的问题。
+这里面可能不只是涉及坐标变换，也可能还有几何上的黏合与复叠。
 
 \newpage
 
-\section{代数观点看网格}
+\section{代数角度考察网格}
 
 从数的角度讲，加减乘除四则运算的代数结构是域；但是从算术表达式的角度讲，四则运算对应到的代数结构是半群或者群；
-由此引向算术表达式的通路群与典范形式的讨论。
+由此引向算术表达式的通路半群的讨论。
 
 对数域 $\mathcal{F}$，取 $\mu, \lambda \in \mathcal{F}$，我们考虑表达式集合 $E(\mu, \lambda)$ 如下自由产生
 \begin{itemize}
@@ -567,8 +668,7 @@ $$
     \item 语义结构 $\mathcal{S}^\infty$：$\mathcal{I}^\infty$ 是根据表达式运算结果的值否相等来确定的等值关系
 \end{itemize}
 
-引入态射后，这些不同的结构之间可以构成范畴，而字面结构 $\mathcal{S}^0$ 是初始对象，语义结构 $\mathcal{S}^\infty$ 是终止对象。
-同时也可以考虑这一系列结构上的扩张或者细化，直到最后完成完备化。
+问题：能否引入合适的态射以便形成范畴？
 
 \subsection{通路记法}\label{subsec:walknotion}
 
@@ -601,17 +701,6 @@ $$\beta = 0 b_1 b2 \cdots b_{m-1} b_m$$
 $$\gamma = \alpha \circ \beta$$
 
 这里 $\alpha$, $\beta$ 和 $\gamma$ 全部都定义在 $E$ 里面。 我们可以论证 $(E, \circ)$ 是一个半群，我们称之为\emph{通路半群}.
-
-\subsection{典范形式}\label{subsec:canonical}
-
-典范形式是一种选出方法$c$，它从相等关系的每一类中选出一个代表，且满足如下条件
-
-$$  c(x) = c(c(x)) $$
-$$  c(x_1) = c(x_2) \iff x_1 = x_2  $$
-
-任意给定两个表达式 $e_1, e_2$，也即生成结构上的两个顶点，这两个顶点间存在多个路径。
-但我们同样可以给出一种\emph{典范路径}，把两个表达式连接起来。
-在后面我们会看到，完备化之后的这种典范路径可以和几何上的\emph{标架}联系起来。
 
 \subsection{字面结构 $\mathcal{S}^0$}\label{subsec:literial}
 
@@ -656,13 +745,13 @@ $$  c(x_1) = c(x_2) \iff x_1 = x_2  $$
 \caption{$\mu=1$ 时的 $\mathcal{S}^i$的生成图}
 \end{figure}
 
-生成图是四阶凯莱树，典范形式是其上从某一个零点出发的所有路径。
+生成图是四阶凯莱树。
 
 \subsection{语法结构 $\mathcal{S}^d$}\label{subsec:syntactical}
 
 如果我们可以引入加乘的分配律，我们可以考虑另外一种语法构造。
 
-第一种典范形式，是利用分配律，先加后乘或者先乘后加。
+可以有多种典范形式。第一种典范形式是利用分配律，先加后乘或者先乘后加。
 $$
 0 a_1 a_2 \cdots a_n = \prod_{i} p_i \cdot \sum_{j} q_j
 $$
@@ -672,8 +761,6 @@ $$
 $$
 0 a_1 a_2 \cdots a_n = \sum_{i} q_i + \prod_{j} p_j
 $$
-
-
 
 \begin{figure}[ht]
 \centering
@@ -781,23 +868,47 @@ $$
 
 我们说两个表达式相等，当且仅当，它们的估值相等。在估值相等作为代数结构的相等关系，我们就得到语义构造。
 
-\subsection{完备化}\label{subsec:completeness}
+\section{典范形式}\label{sec:canonical}
 
-我们数域 $\mathcal{F}$ 上的格点构成的环 $\mathcal{R}_i$
+一般而言，给定集合 $U$ 和相等关系 $=$， 典范形式是从商集 $U/=$ 上的一种选出方法 $c: U/= \to U$，它从相等关系的每一类中选出一个代表，且满足如下条件
 
-在这种扩张下，终止对象的序列$\mathcal{S}^\infty_k$ 从环变成了域。
+\begin{itemize}
+    \item 对合 $  c(x) = c(c(x)) $
+    \item 确定 $  c(x_1) = c(x_2) \iff x_1 = x_2  $
+\end{itemize}
 
-赋值的完备性
+在算术表达式的上下文里，我们需要给出典范形式的清晰定义。
 
-赋值 $A$ 是从加乘表达式 $E$ 映射到双曲圆盘 $H$，加乘表达式的细密意味着 $E = E_0 ∪ E_1 ∪ E_2 ∪ ... E_n$ 是一种按照细密程度的分层
-从每个 $E_i$ 中取点 $x_i$ 使得 $A(x_i)$ 在双曲圆盘 $H$ 上构成柯西序列，在此条件下，我们必须证明 $x_i$ 在代数上的收敛性。
-如果度量上的收敛性蕴涵代数上的收敛性，我们称赋值 A 是完备的。
+\subsection{表达式树与线索}
+
+\subsection{表达式族的刻画}
+
+\subsection{表达式的典范形式}
+
+典范形式必须能够覆盖所有的自由生成
+
 
 \newpage
 
-\section{流方程}
+\section{网格细化与完备化}\label{subsec:completeness}
 
+\subsection{网格和加细}
 
+\subsection{完备化}
+
+赋值 $A$ 是从 $R$ 映射到流形 $M$，加乘表达式的细密意味着 $E = E_0 \cup E_1 \cup E_2 \cup \cdots E_n$ 是一种按照细密程度的分层
+从每个 $E_i$ 中取点 $x_i$ 使得 $A(x_i)$ 在流形 $M$ 上构成柯西序列，在此条件下，我们必须证明 $x_i$ 在代数上的收敛性。
+也即，如果度量上的收敛性蕴涵代数上的收敛性，我们称赋值 A 是完备的。
+
+\subsection{赋值、网格和典范形式}
+
+如何从一个合适的流形赋值得到网格和典范形式
+
+什么是合适的赋值
+
+\newpage
+
+\section{深入流方程}
 
 \subsection{拉回}
 
@@ -830,7 +941,6 @@ $$
 \caption{拉回}
 \end{figure}
 
-
 \subsection{等值线与梯度}
 
 从流方程很容易导出局部坐标系下的等值线方程
@@ -861,20 +971,23 @@ $$
     \frac{da}{ds} = \pm \sqrt {\mu^2 + a^2 \lambda^2} \label{eq:gradient}
 \end{equation}
 
-
-方程 \eqref{eq:gradient} 可解，得出 $a$ 和 $s$ 的关系如下：
+方程 \eqref{eq:gradient} 可解，得出沿着梯度流线 $a$ 和 $s$ 的关系如下：
 
 \begin{equation}
-    s = \frac{1}{\lambda} \ln \frac{\mu}{a + \sqrt{\mu^2 + \lambda^2 a^2}}
+    \pm s = \frac{1}{\lambda} \ln \frac{\mu}{a + \sqrt{\mu^2 + \lambda^2 a^2}} + c
+\end{equation}
+
+如果约定 $\mu > 0, \lambda >0, s >= 0$ 且 $s = 0$ 时有 $a = 0$ 公式还可以进一步变形，得到
+
+\begin{equation}
+    a = \frac{\mu}{\lambda^2 - 1} (- e^{\lambda s} + \sqrt{\lambda^2  e^{2 \lambda s} - \lambda^2 + 1})
 \end{equation}
 
 问题：等值线-梯度坐标系和其下的流方程
 
-
 \subsection{回路的估值}
 
 \subsection{Laplacian的特征值}
-
 
 $A$ 和 $A^*$：彼此共轭，互为流和势。于是：
 
@@ -897,19 +1010,31 @@ $A$ 和 $A^*$：彼此共轭，互为流和势。于是：
 
 关系的视角：逻辑、复杂性都来源于极小曲面，极小曲面间的映照
 
-几何化纲领
-
 \newpage
 
-\section{更一般的表述}
+\section{赋值与流形}
 
-\subsection{数是表达式}
+\subsection{给定赋值的情形}
+
+\subsection{给定流形的情形}
+
+\section{紧化的算术意义}
+
+欧拉的著名等式
+
+\subsection{几何上的紧化}
+
+\subsection{紧化与算术}
+
+\subsection{不停机程序}
+
+\section{走向更一般的表示}
+
+\subsection{抛弃数的特殊性}
 
 拥抱表达式，摆脱数
 
 \subsection{函数的表示}
-
-\subsection{在边缘的和与差}
 
 \newpage
 
@@ -933,11 +1058,11 @@ $A$ 和 $A^*$：彼此共轭，互为流和势。于是：
 
 关系的视角：逻辑、复杂性都来源于极小曲面和极小曲面间的共形映照
 
-\subsection{微分的计算程序}
+\subsection{分析的新语言}
 
-\subsection{数学史的考察}
+\subsection{科学史的考察}
 
-溯源一下计算机科学的由来，我们会发现它的源头来自非欧几何的发现和数学分析的严密化。在这
+追寻计算机科学的由来，我们会发现它的源头来自非欧几何的发现和数学分析的严密化。在这
 个过程中，人们追寻数学的基础。经过几代数学家的努力，在十九世纪末，人们认为数学可以通过
 算术化和形式化，得到一个完美的基础;很快这个思路被哥德尔的工作否定了。在此基础上，诞生
 了计算机科学。 哥德尔的思想里，其实蕴涵着开放世界的丰富，和这个世纪里火热的学习这个话题遥遥相对。但在
@@ -968,11 +1093,74 @@ $A$ 和 $A^*$：彼此共轭，互为流和势。于是：
 
 我们有理由相信，算术表达式的几何化是一个新变革的开端。
 
+\subsection{无尽的遐想}
+
 \newpage
 \phantomsection
 \addcontentsline{toc}{section}{参考文献}
 \bibliographystyle{ieeetr}
 \bibliography{biblio/article}
+
+\newpage
+\appendix
+
+\section{推导}
+
+\begin{equation}
+    \pm s = \frac{1}{\lambda} \ln \frac{\mu}{a + \sqrt{\mu^2 + \lambda^2 a^2}} + c
+\end{equation}
+
+或者进一步变形，得到
+
+\begin{equation}
+    \mu e^{c \mp \lambda s} = a + \sqrt{\mu^2 + \lambda^2 a^2}
+\end{equation}
+
+进一步得到
+
+\begin{equation}
+    a^2 + \mu^2 e^{2 c \mp 2 \lambda s} - 2 a \mu e^{c \mp \lambda s} = \mu^2 + \lambda^2 a^2
+\end{equation}
+
+\begin{equation}
+    (\lambda^2 - 1)a^2 + 2 a \mu e^{c \mp \lambda s} - \mu^2 (e^{2 c \mp 2 \lambda s} - 1) = 0
+\end{equation}
+
+\begin{equation}
+     4 \mu^2 e^{2c \mp 2 \lambda s} + 4 (\lambda^2 - 1) \mu^2 (e^{2 c \mp 2 \lambda s} - 1)
+\end{equation}
+
+\begin{equation}
+     4 \mu^2 e^{2c \mp 2 \lambda s} + 4 (\lambda^2 - 1) \mu^2 e^{2 c \mp 2 \lambda s} - 4 (\lambda^2 - 1) \mu^2
+\end{equation}
+
+\begin{equation}
+     4 \lambda^2 \mu^2 e^{2 c \mp 2 \lambda s} - 4 \lambda^2 \mu^2 + 4 \mu^2
+\end{equation}
+
+\begin{equation}
+     4 \mu^2 (\lambda^2  e^{2 c \mp 2 \lambda s} - \lambda^2 + 1)
+\end{equation}
+
+\begin{equation}
+    (\lambda^2 - 1)a^2 + 2 \mu e^{c \mp \lambda s} a - \mu^2 (e^{2 c \mp 2 \lambda s} - 1) = 0
+\end{equation}
+
+\begin{equation}
+    a = \frac{- 2 \mu e^{c \mp \lambda s} \pm 2 \mu \sqrt{\lambda^2  e^{2 c \mp 2 \lambda s} - \lambda^2 + 1}}{2(\lambda^2 - 1)}
+\end{equation}
+
+\begin{equation}
+    a = \frac{- \mu e^{c \mp \lambda s} \pm \mu \sqrt{\lambda^2  e^{2 c \mp 2 \lambda s} - \lambda^2 + 1}}{\lambda^2 - 1}
+\end{equation}
+
+\begin{equation}
+    a = \frac{\mu }{\lambda^2 - 1} (- e^{c \mp \lambda s} \pm \sqrt{\lambda^2  e^{2 c \mp 2 \lambda s} - \lambda^2 + 1})
+\end{equation}
+
+\begin{equation}
+    a = \frac{\mu }{\lambda^2 - 1} (- e^{\lambda s} + \sqrt{\lambda^2  e^{2 \lambda s} - \lambda^2 + 1})
+\end{equation}
 
 \end{document}
 
