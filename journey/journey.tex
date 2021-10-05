@@ -347,7 +347,7 @@ $$
 
 \newpage
 
-\section{四个简单实例}
+\section{几个简单实例}
 
 本节我们讨论四个例子，这些例子都可以理解成算术表达式的某种几何表达。
 \begin{itemize}
@@ -381,7 +381,14 @@ $Q$ 作为数可以完备化得到实数全体 $(-\infty, +\infty)$，而类似�
 \[
 \{\mathcal{B}: (x, y) | y > 0 \}
 \]
-配有如下的度规
+
+配有如下的内积
+
+\[
+\mathbf{a} \cdot \mathbf{b} = \begin{bmatrix} a_1 & a_2 \end{bmatrix} \begin{bmatrix} \frac{1}{y^2} & 0 \\ 0 & \frac{1}{y^2} \end{bmatrix} \begin{bmatrix} b_1 \\ b_2 \end{bmatrix}
+\]
+
+以及度规
 
 \[
 ds^2 = \frac{dx^2 + dy^2}{y^2}
@@ -403,7 +410,7 @@ A = - \frac{x}{y}
 
 首先，我们可以验证，在每个局域，$A$ 满足流方程。
 
-\begin{theorem}
+\begin{theorem}\footnote{本证明思路由张乐给出，略作改动。}
 如上定义的 $A$ 满足流方程
 \end{theorem}
 
@@ -424,16 +431,205 @@ $$
 \frac{da}{ds} = - \frac{dx + ady}{y} \frac{y}{\sqrt{dx^2 + dy^2}} = - \frac{dx + ady}{\sqrt{dx^2 + dy^2}}
 $$
 
+考虑到局部坐标由 $(-1, 0)$ 和 $(0, -1)$ 依照右手螺旋给出，就有
+
+$$
+\cos \theta = \frac{\begin{bmatrix} dx & dy \end{bmatrix} \begin{bmatrix} \frac{1}{y^2} & 0 \\ 0 & \frac{1}{y^2} \end{bmatrix} \begin{bmatrix} -1 \\ 0 \end{bmatrix}}{\sqrt{\begin{bmatrix} dx & dy \end{bmatrix} \begin{bmatrix} \frac{1}{y^2} & 0 \\ 0 & \frac{1}{y^2} \end{bmatrix} \begin{bmatrix} dx \\ dy \end{bmatrix}}\sqrt{\begin{bmatrix} -1 & 0 \end{bmatrix} \begin{bmatrix} \frac{1}{y^2} & 0 \\ 0 & \frac{1}{y^2} \end{bmatrix} \begin{bmatrix} -1 \\ 0 \end{bmatrix}}}
+$$
+
 即有
+
+$$
+\cos \theta = \frac{-dx}{\sqrt{dx^2 + dy^2}}
+$$
+
+类似有
+
+$$
+\sin \theta = \frac{-dy}{\sqrt{dx^2 + dy^2}}
+$$
+
+于是有
 
 $$
 \frac{da}{ds} = \cos \theta + a \sin \theta
 $$
 
-其中 $\theta = \pi + \arctan \frac{dy}{\sqrt{dx^2 + dy^2}}$ 。
 \end{proof}
 
-我们可以导出如上的网格。在网格里，蓝线代表 $+ 1$ 关系，绿线代表 $\times 2$ 关系，它们是彼此垂直的伪圆族。
+\subsubsection{Laplacian 的特征向量}
+
+我们可以验证 $A$ 是 Laplacian 的特征向量。
+
+$$
+\Delta A = - y^2 (\frac{\partial^2}{\partial x^2} A + \frac{\partial^2}{\partial y^2} A) = y^2 (\frac{1}{\partial y} (\frac{1}{\partial y} \frac{x}{y})) = 2 A
+$$
+
+\subsection{伪圆坐标系下的两个例子\footnote{本例子的解析解由张乐给出，几何和典范形式的解释由笔者给出。}}
+
+首先介绍双曲空间的伪圆坐标系。伪圆坐标系是利用一族伪圆和与之正交的测地线族来定位的全局坐标系统。
+如图所示，在红色的庞加莱圆盘上，蓝色的伪圆相切于理想点 $\Omega$，绿线是与之正交的测地线。
+那么点 $P$ 的坐标由 $QP$ 和 $OQ$ 的有向长度给出，点 $O$ 为坐标原点，有向长度都是双曲空间内的长度。
+在测地线族上有向长度的正负号，根据点 $P$ 是否在 $\Omega$ 点一侧来确定，在 $\Omega$ 点一侧为正，否则为负。
+在伪圆族上有向长度的正负号，按照右手螺旋为增加的方向来确定，也即右手螺旋过点 $O$ 相继给出了负半轴和正半轴。
+依照如上规则，点 $P$ 的坐标为 $(x,y)$。
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+    \node[anchor=225] at (4,2) {$\Omega$};
+    \draw[red,fill=red] (0,2) circle[radius=4];
+    \draw[blue] (1, 2) circle[radius=3];
+    \draw[black] (-4,2) -- (4,2);
+    \draw[green] (4,2) arc (-90:-180:4);
+    \draw[blue] (2, 2) circle[radius=2];
+    \node[fill,circle,inner sep=1pt] at (-2,2) {};
+    \node[anchor=225] at (-2,2) {$O$};
+    \node[fill,circle,inner sep=1pt] at (0.175,4.9) {};
+    \node[anchor=225] at (0.175,4.9) {$Q$};
+    \node[fill,circle,inner sep=1pt] at (0.8,3.6) {};
+    \node[anchor=90] at (0.8,3.5) {$P$};
+    \node[anchor=225] at (0.49,4.1) {$y$};
+    \node[anchor=225] at (-1.6,3.9) {$x$};
+\end{tikzpicture}
+\caption{伪圆坐标系}\label{fig:horocyclecoord}
+\end{figure}
+
+我们有
+
+$$
+ds^2 = e^{-2y} dx^2 + dy^2
+$$
+
+和
+
+$$
+\Delta = e^{2y} \frac{\partial^2}{{\partial x}^2} + \frac{\partial^2}{{\partial y}^2} - \frac{\partial}{\partial y}
+$$
+
+\subsubsection{例子三}
+
+伪圆坐标系下的第一个例子是
+
+\begin{equation}
+A = x e^{-y}
+\end{equation}
+
+此时，有
+
+$$
+\Delta A = e^{2y} \frac{\partial^2(x e^{-y})}{{\partial x}^2} + \frac{\partial^2(x e^{-y})}{{\partial y}^2} - \frac{\partial(x e^{-y})}{\partial y} = 2A
+$$
+
+\subsubsection{例子四}
+
+伪圆坐标系下的第二个例子是
+
+\begin{equation}
+A = x e^y
+\end{equation}
+
+注意到此时 $A$ 在边界上趋于 $0$ 值，同时有
+
+$$
+\Delta A = e^{2y} \frac{\partial^2(x e^y)}{{\partial x}^2} + \frac{\partial^2(x e^y)}{{\partial y}^2} - \frac{\partial(x e^y)}{\partial y} = 0
+$$
+
+\subsection{几个例子间的关系}
+
+仔细观察，例子二和例子三实际上可以通过共形变换联系起来，即如下的 Mobius 映射
+
+$$
+z \mapsto \frac{z-i}{z+i}
+$$
+
+例子三和例子四也可以通过共形变联系起来，由如下映射给出
+
+$$
+(x, y) \mapsto (x, -y)
+$$
+
+\section{任意生成元的例子}
+
+考虑上半平面
+\[
+\{\mathcal{B}: (x, y) | y > 0 \}
+\]
+
+配有如下的内积
+
+\[
+\mathbf{a} \cdot \mathbf{b} = \begin{bmatrix} a_1 & a_2 \end{bmatrix} \begin{bmatrix} \frac{1}{\mu^2 y^2} & 0 \\ 0 & \frac{1}{\lambda^2 y^2} \end{bmatrix} \begin{bmatrix} b_1 \\ b_2 \end{bmatrix}
+\]
+
+以及度规
+
+\[
+ds^2 = \frac{1}{y^2}(\frac{dx^2}{\mu^2} + \frac{dy^2}{\lambda^2})
+\]
+
+\subsection{例子五}
+
+给定一个赋值函数
+
+\begin{equation}
+A = - \frac{x}{y}
+\end{equation}
+
+我们可以验证，在每个局域，$A$ 满足流方程。
+
+\begin{theorem}
+如上定义的 $A$ 满足流方程
+\end{theorem}
+
+\begin{proof}
+$$
+da = d(-\frac{x}{y}) = \frac{xdy - ydx}{y^2} = -\frac{dx + a dy}{y}
+$$
+
+注意到
+
+$$
+ds = \frac{1}{y}\sqrt{\frac{dx^2}{\mu^2} + \frac{dy^2}{\lambda^2}}
+$$
+
+便有
+
+$$
+\frac{da}{ds} = - \frac{dx + a dy}{y} \frac{y}{\sqrt{\frac{dx^2}{\mu^2} + \frac{dy^2}{\lambda^2}}} = \frac{dx + a dy}{\sqrt{\frac{dx^2}{\mu^2} + \frac{dy^2}{\lambda^2}}}
+$$
+
+考虑到局部坐标由 $(-1, 0)$ 和 $(0, -1)$ 依照右手螺旋给出，就有
+
+$$
+\cos \theta = \frac{\begin{bmatrix} dx & dy \end{bmatrix} \begin{bmatrix} \frac{1}{\mu^2 y^2} & 0 \\ 0 & \frac{1}{\lambda^2 y^2} \end{bmatrix} \begin{bmatrix} -1 \\ 0 \end{bmatrix}}{\sqrt{\begin{bmatrix} dx & dy \end{bmatrix} \begin{bmatrix} \frac{1}{\mu^2 y^2} & 0 \\ 0 & \frac{1}{\lambda^2 y^2} \end{bmatrix} \begin{bmatrix} dx \\ dy \end{bmatrix}}\sqrt{\begin{bmatrix} -1 & 0 \end{bmatrix} \begin{bmatrix} \frac{1}{\mu^2 y^2} & 0 \\ 0 & \frac{1}{\lambda^2 y^2} \end{bmatrix} \begin{bmatrix} -1 \\ 0 \end{bmatrix}}}
+$$
+
+即有
+
+$$
+\cos \theta = \frac{-\frac{dx}{\mu}}{\sqrt{\frac{dx^2}{\mu^2} + \frac{dy^2}{\lambda^2}}}
+$$
+
+类似有
+
+$$
+\sin \theta = \frac{-\frac{dy}{\lambda}}{\sqrt{\frac{dx^2}{\mu^2} + \frac{dy^2}{\lambda^2}}}
+$$
+
+于是有
+
+$$
+\frac{da}{ds} = \mu \cos \theta + a \lambda \sin \theta
+$$
+
+\end{proof}
+
+\subsection{网格例一}
+
+我们注意到例五的赋值 $A$ 与生成元的具体取值无关。我们也注意到在同一个空间和同一个赋值 $A$ 下，能够画出来一些很匀称的网格，这些网格采用了不同的生成元设定。
+
+在网格例一里，蓝线代表 $+ 1$ 关系，绿线代表 $\times 2$ 关系，它们是彼此垂直的伪圆族。
 我们用 $A$ 计算每个网格点上的取值，并在图上用红色的数字标出。$A$ 不但给出了网格点上的赋值，也给上半平面上的每个点赋值。
 
 \begin{figure}[ht]
@@ -527,13 +723,16 @@ $$
 \node [anchor=225, red] at (8,8) {-1};
 
 \end{tikzpicture}
-\caption{网格$\mathbf{G}$，$\lambda=\ln2$ 和 $\mu=1$}\label{fig:grid0}
+\caption{网格例一$\mathbf{G}$，$\lambda=\ln2$ 和 $\mu=1$}\label{fig:grid0}
 \end{figure}
 
-我们可以通过调整 $+ 1$、$\times 2$ 等关系的步长，改成$+ \frac{1}{2}$、$\times \sqrt {2}$来细化网格，一步步细化下去之后，
-在这些细密网格的叠加之上，实现某种完备化。
+\subsection{网格例二}
 
-对于这个例子，表达式的典范形态取如下形式：
+\subsection{网格的相容性}
+
+\subsection{典范形态}
+
+对于这几个例子，表达式的典范形态取如下形式：
 
 $$
 \prod_{i} p_i \cdot \sum_{j} q_j
@@ -546,98 +745,6 @@ $$
 $$
 
 也就是先累加再累乘，或者先累乘再累加。
-
-最后，我们还可以验证 $A$ 是 Laplacian 的特征向量。
-
-$$
-\Delta A = - y^2 (\frac{\partial^2}{\partial x^2} A + \frac{\partial^2}{\partial y^2} A) = y^2 (\frac{1}{\partial y} (\frac{1}{\partial y} \frac{x}{y})) = 2 A
-$$
-
-\subsection{伪圆坐标系下的两个例子\footnote{本例子的解析解由张乐给出，几何和典范形式的解释由笔者给出。}}
-
-首先介绍双曲空间的伪圆坐标系。伪圆坐标系是利用一族伪圆和与之正交的测地线族来定位的全局坐标系统。
-如图所示，在红色的庞加莱圆盘上，蓝色的伪圆相切于理想点 $\Omega$，绿线是与之正交的测地线。
-那么点 $P$ 的坐标由 $QP$ 和 $OQ$ 的有向长度给出，点 $O$ 为坐标原点，有向长度都是双曲空间内的长度。
-在测地线族上有向长度的正负号，根据点 $P$ 是否在 $\Omega$ 点一侧来确定，在 $\Omega$ 点一侧为正，否则为负。
-在伪圆族上有向长度的正负号，按照右手螺旋为增加的方向来确定，也即右手螺旋过点 $O$ 相继给出了负半轴和正半轴。
-依照如上规则，点 $P$ 的坐标为 $(x,y)$。
-
-\begin{figure}[ht]
-\centering
-\begin{tikzpicture}
-    \node[anchor=225] at (4,2) {$\Omega$};
-    \draw[red,fill=red] (0,2) circle[radius=4];
-    \draw[blue] (1, 2) circle[radius=3];
-    \draw[black] (-4,2) -- (4,2);
-    \draw[green] (4,2) arc (-90:-180:4);
-    \draw[blue] (2, 2) circle[radius=2];
-    \node[fill,circle,inner sep=1pt] at (-2,2) {};
-    \node[anchor=225] at (-2,2) {$O$};
-    \node[fill,circle,inner sep=1pt] at (0.175,4.9) {};
-    \node[anchor=225] at (0.175,4.9) {$Q$};
-    \node[fill,circle,inner sep=1pt] at (0.8,3.6) {};
-    \node[anchor=90] at (0.8,3.5) {$P$};
-    \node[anchor=225] at (0.49,4.1) {$y$};
-    \node[anchor=225] at (-1.6,3.9) {$x$};
-\end{tikzpicture}
-\caption{伪圆坐标系}\label{fig:horocyclecoord}
-\end{figure}
-
-我们有
-
-$$
-ds^2 = e^{-2y} dx^2 + dy^2
-$$
-
-和
-
-$$
-\Delta = e^{2y} \frac{\partial^2}{{\partial x}^2} + \frac{\partial^2}{{\partial y}^2} - \frac{\partial}{\partial y}
-$$
-
-\subsubsection{例子三}
-
-伪圆坐标系下的第一个例子是
-
-\begin{equation}
-A = x e^{-y}
-\end{equation}
-
-此时，有
-
-$$
-\Delta A = e^{2y} \frac{\partial^2(x e^{-y})}{{\partial x}^2} + \frac{\partial^2(x e^{-y})}{{\partial y}^2} - \frac{\partial(x e^{-y})}{\partial y} = 2A
-$$
-
-\subsubsection{例子四}
-
-伪圆坐标系下的第二个例子是
-
-\begin{equation}
-A = x e^y
-\end{equation}
-
-注意到此时 $A$ 在边界上趋于 $0$ 值，同时有
-
-$$
-\Delta A = e^{2y} \frac{\partial^2(x e^y)}{{\partial x}^2} + \frac{\partial^2(x e^y)}{{\partial y}^2} - \frac{\partial(x e^y)}{\partial y} = 0
-$$
-
-\subsection{例子间的关系}
-
-仔细观察，例子二和例子三实际上可以通过共形变换的，可以由如下的 Mobius 映射联系起来
-
-$$
-z \mapsto \frac{z-i}{z+i}
-$$
-
-例子三和例子四也可以通过共形变联系起来，由如下映射给出
-
-$$
-(x, y) \mapsto (x, -y)
-$$
-
-故此，这三个例子在网格上是等价，而典范形式是一样的。
 
 \subsection{几个问题}
 
