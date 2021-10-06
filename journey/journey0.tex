@@ -1132,326 +1132,77 @@ $$
 
 \newpage
 
-\section{典范形式}\label{sec:canonical}
-
-一般而言，给定集合 $U$ 和相等关系 $=$， 典范形式是商集 $U/=$ 上的一种选出方法 $c: U/= \to U$，它从相等关系的每一类中选出一个代表，且满足如下条件
-
-\begin{itemize}
-    \item 对合 $  c(x) = c(c(x)) $
-    \item 确定 $  c(x_1) = c(x_2) \iff x_1 = x_2  $
-\end{itemize}
-
-在算术表达式的上下文里，我们需要给出典范形式的清晰定义。
-
-\subsection{表达式树与线索}
-
-\subsection{表达式族的刻画}
-
-\subsection{表达式的典范形式}
-
-典范形式必须能够覆盖所有的自由生成
-
-\newpage
-
-\section{网格细化与完备化}\label{subsec:completeness}
-
-\subsection{可伸缩和数位制}
-
-先让我们做一段有启发性的思考—我们是如何理解和表达实数的呢？我们是通过比较容易把握的有理数来实现的。
-
-有理数是对单位一的有限叠加与有限平分。如果我们改变单位一的长度，我们会发现有理结构是不变的，这种结构可伸缩的特性给数位制奠定了几何基础。
-
-考虑一个位置测量的过程：为了测量一个未知位置，我们在某一个单位长度的基础上，用数刻画了一个大约的位置。
-同一个有理结构的可伸缩性意味着，在不同长度测量单位的基础上，我们有可能可以组合不同长度单位的测量结果，用不同的数字的组合，来实现精细的测量。
-假设我们的第一次测量结果是 $l_1$，第二次测量时单位一缩小了整数 $k$ 倍，那么第二次测量在 $kl$ 时，两个测试的长度是重合的。
-这样的话，我们就能构造一个非常清晰的逼近测量的过程，不断把单位一缩小 $k$ 倍，获得更多的精细级别上的测量数字，然后组合不同剩余段上的测量数字，
-最终获得一个数位表示。
-
-综合以上，数位制可以被理解成为一个逼近测量的过程。下面，我们形式化地定义这个逼近测量的过程。
-
-假设符号表为$\Sigma = \{s_i | i = 0 \cdots n\}$，针对基准点 $o$、任一点 $y$ 和某一个测量精度 $\rho$，我们有
-刻度映射 $T_o^\rho: s_i \mapsto x_i$ 和某个点的辨识区域 $D^\rho: z \mapsto S_z$。
-于是，我们有全体符号的辨识区域 $S_o^\rho = \bigcap_{i=0}^n (D^\rho \circ T_o^\rho)(s_i)$
-
-首先，我们定义测量精度 $\rho$ 上的测量过程$M_o^\rho: y \mapsto s_k$，它是如下的算法过程：
-\begin{itemize}
-    \item 参量：基准点 $o$ 和精度 $\rho$
-    \item 输入：点 $y$
-    \item 输出：符号 $s_k$
-    \item 过程：遍历所有的 $\{0 \cdots n\}$ 以确定 $k$ 使得$y \in (D_\rho \circ T_\rho)(s_k)$
-\end{itemize}
-
-最后需要指出，我们仍然有空间可以去思考：无限符号情况下逼近测量过程和并行算法过程的几何含义。
-
-\subsection{网格和加细}
-
-\subsection{完备化}
-
-赋值 $A$ 是从 $R$ 映射到流形 $M$，加乘表达式的细密意味着 $E = E_0 \cup E_1 \cup E_2 \cup \cdots E_n$ 是一种按照细密程度的分层
-从每个 $E_i$ 中取点 $x_i$ 使得 $A(x_i)$ 在流形 $M$ 上构成柯西序列，在此条件下，我们必须证明 $x_i$ 在代数上的收敛性。
-也即，如果度量上的收敛性蕴涵代数上的收敛性，我们称赋值 A 是完备的。
-
-\subsection{赋值、网格和典范形式}
-
-如何从一个合适的流形赋值得到网格和典范形式
-
-什么是合适的赋值
-
-\newpage
-
-\section{深入流方程}
-
-\subsection{拉回}
-
-\begin{figure}[ht]
-\centering
-\begin{tikzpicture}
-
-\filldraw [black] (4,1) circle (2pt) node[align=center, below] {$\alpha$};
-\filldraw [black] (2,3) circle (0pt) node[align=center, above] {$\nu^{-1}(f^1)$};
-\filldraw [black] (7,3) circle (0pt) node[align=center, above] {$\nu^{-1}(f^2)$};
-\draw [gray] (0,0) to[out=300,in=240] (4,1);
-\draw [->] (4,1) to[out=120,in=300] (2,3);
-\draw [->] (4,1) to[out=30,in=240] (7,3);
-
-\draw [->] (3.5,-0.5) to[out=270,in=90] (3.5,-5);
-\filldraw [gray] (3.8,-3) circle (0pt) node[align=center, below] {$\nu$};
-
-\filldraw [gray] (3.5,-5.5) circle (2pt) node[align=center, below] {$x_0 = \nu(\alpha)$};
-\filldraw [gray] (3.5,-6.5) circle (2pt) node[align=center, below] {$x_0$};
-\filldraw [gray] (3.5,-7.5) circle (2pt) node[align=center, below] {$x_0$};
-\draw [gray] (0,-5.5) to[out=0,in=180] (7,-5.5);
-\draw [->] (3.5,-6.5) to[out=0,in=180] (4.5,-6.5);
-\draw [->] (3.5,-7.5) to[out=0,in=180] (5.5,-7.5);
-\filldraw [gray] (1.0,-6.2) circle (0pt) node[align=center, below] {$f^1 = x_0 + \mu t$};
-\filldraw [gray] (1.0,-7.2) circle (0pt) node[align=center, below] {$f^2 = x_0 e^{\lambda t}$};
-\filldraw [gray] (7.0,-6.2) circle (0pt) node[align=center, below] {$\dot{f}^1 = \mu$};
-\filldraw [gray] (7.0,-7.2) circle (0pt) node[align=center, below] {$\dot{f}^2 = \lambda x_0$};
-
-\end{tikzpicture}
-\caption{拉回}
-\end{figure}
-
-\subsection{等值线与梯度}
-
-从流方程很容易导出局部坐标系下的等值线方程
-
-\begin{equation}
-    \mu \cos \theta_c + a \lambda \sin \theta_c = 0
-\end{equation}
-
-于是有
-
-\begin{equation}
-    \theta_c = - \arctan \frac{\mu}{a \lambda}
-\end{equation}
-
-等值线和梯度是联系在一起的，两者彼此垂直
-
-\begin{equation}
-    \theta_g = \pm \frac{\pi}{2} - \arctan \frac{\mu}{a \lambda}
-\end{equation}
-
-于是沿着 $\theta_g$ 我们可以取到
-
-\begin{equation}
-    \frac{da}{ds} = \mu \cos (\pm \frac{\pi}{2} - \arctan \frac{\mu}{a \lambda}) + a \lambda \sin (\pm \frac{\pi}{2} - \arctan \frac{\mu}{a \lambda})
-\end{equation}
-
-\begin{equation}
-    \frac{da}{ds} = \pm \sqrt {\mu^2 + a^2 \lambda^2} \label{eq:gradient}
-\end{equation}
-
-方程 \eqref{eq:gradient} 可解，得出沿着梯度流线 $a$ 和 $s$ 的关系如下：
-
-\begin{equation}
-    \pm s = \frac{1}{\lambda} \ln \frac{\mu}{a + \sqrt{\mu^2 + \lambda^2 a^2}} + c
-\end{equation}
-
-如果约定 $\mu > 0, \lambda >0, s >= 0$ 且 $s = 0$ 时有 $a = 0$ 公式还可以进一步变形，得到
-
-\begin{equation}
-    a = \frac{\mu}{\lambda^2 - 1} (- e^{\lambda s} + \sqrt{\lambda^2  e^{2 \lambda s} - \lambda^2 + 1})
-\end{equation}
-
-问题：等值线-梯度坐标系和其下的流方程
-
-\subsection{变换与管型构造}
-
-\subsection{几个问题}
-
-在一种典范形式的几何上，能否表示所有的表达式？在一种典范形式的几何上，其他典范形式体现为什么？
-
-调和映照、狄利克莱能量、极小曲面
-
-关系的视角：逻辑、复杂性都来源于极小曲面，极小曲面间的映照
-
-\newpage
-
-\section{赋值与流形}
-
-\subsection{给定赋值的情形}
-
-\subsection{给定流形的情形}
-
-\newpage
-
-\section{紧化的算术意义}
-
-欧拉的著名等式
-
-\subsection{几何上的紧化}
-
-\subsection{紧化与算术}
-
-\subsection{不停机程序}
-
-\newpage
-
-\section{走向更一般的表示}
-
-\subsection{抛弃数的特殊性}
-
-拥抱表达式，摆脱数
-
-\subsection{函数的表示}
-
-\newpage
-
-\section{回到黎曼}
-
-\subsection{有何不同}
-
-\subsection{四阶无限边形镶嵌}
-
-\subsection{黏合零线}
-
-\subsection{管型构造}
-
-\newpage
-
 \section{最后的陈词}
 
-\subsection{乘法的复杂性}
+本节给出我们的一些观察和遐想。
 
-$A$ 和 $A^*$：彼此共轭，互为流和势。于是：
+\subsection{引向复杂性？}
 
-\begin{itemize}
-    \item $A$ 的点是表达式的典范形态
-    \item $A^*$ 的点是？的典范形态
-    \item $A$ 的等值线是逻辑上的等值关系或者等值命题的几何表达
-    \item $A$ 的梯度流给出逻辑上的连接两个点的最短关系？
-    \item $A^*$ 的梯度流是 $A$ 上的等值推理的算法
-    \item $A^*$ 的等值线就是 $A$ 上的某种最快算法？
-\end{itemize}
+我们已经验算了一些例子，这些例子的赋值是 Laplace 算子的特征向量，为什么会这样呢？
+我们还没有解决这个问题，但有一些有趣的观察。我们知道，大数乘法的快速算法需要用 FFT 做变换。
+而 FFT 是调和分析的一种技术，它天然和 Laplace 算子的特征向量有关系。
 
-调和映照、狄利克莱能量、极小曲面
-
-关系的视角：逻辑、复杂性都来源于极小曲面和极小曲面间的共形映照
+有没有可能 Laplace 算子出现在这里，是因为表达式的几何空间和两种复杂性有内在的联系？
+在计算的时间复杂度和表征的空间复杂度的相互作用下，算术表达式的典范形式类似一张缓缓展开的极小曲面。
 
 \subsection{分析的新语言}
 
+我们有两种方式使用一个计算机程序。一种是使用它的最终效果，一种是使用它的计算过程。
+前者的例子是程序库的各种标准例程，比如 $\sin$、$\cos$ 等等，我们不在乎它的实现细节和计算的中间状态，只在乎最终结果。
+后者的例子是打游戏，游戏程序循环的每一步，都导致我们用户在音视频上的某种体验，整个计算过程都是我们需要的。
+
+以上两种机制也同样出现在算术表达式的空间里，可以帮助我们定义函数。计算过程是空间里的一条路径，这条路径本身定义了一个演化函数。
+而路径头尾两端的值的差异，就是这个计算过程的效果。如果我们改变头部的输入值，不改变相对的计算路径，那么可以预期输出也会改变。
+这样基于计算路径头尾两端的差异，我们也可以定义函数。
+
+经典的分析学是建立在函数的语言上的，但我们仍然能看到它和算术的对应关系。微分是局部的差，而积分对应的是累加。如果累加对应经典的积分，
+那么累积加和乘得到的是什么呢？
+
+更有趣的是，计算路径头尾两端差异的思路，其实暗含了微积分基本定理、Stokes公式、Gauss-Bonnet定理这一条发展线索。
+有可能我们可以发展新的分析学的语言，来重写古典的结论。
+
 \subsection{科学史的考察}
 
-追寻计算机科学的由来，我们会发现它的源头来自非欧几何的发现和数学分析的严密化。在这
-个过程中，人们追寻数学的基础。经过几代数学家的努力，在十九世纪末，人们认为数学可以通过
-算术化和形式化，得到一个完美的基础;很快这个思路被哥德尔的工作否定了。在此基础上，诞生
-了计算机科学。 哥德尔的思想里，其实蕴涵着开放世界的丰富，和这个世纪里火热的学习这个话题遥遥相对。但在
-这里，我想问另外一个问题，从几何和分析里衍生出来的计算机科学，现在离几何、分析那么远是
-科学史上正确的一个状态吗?
+追寻计算机科学的由来，我们会发现它的源头来自 19 世纪非欧几何的发现和数学分析的严密化。
+当时人们想弄清楚这些新数学的基础，经过几代数学家不断努力，在 19 世纪末，人们认为数学基础可以通过算术化和形式化，得到一个完美解决。
+但这个思路很快被哥德尔的工作否定了。并在此基础上，诞生了计算机科学。
+
+哥德尔的思想蕴涵着开放世界的丰富，和这个世纪火热的学习话题遥遥相对。
+但在这里，我想问另外一个问题，从几何和分析里衍生出来的计算机科学，现在离几何、分析那么遥远，这在科学史上是正确的一种状态吗?
 
 人们常说，数和形是数学的基本主题。让我们看一下数的早期历史。
-从石器时代非洲的 Ishango ⻣刻，我们可以看到数的概念表征和计算过程是浑然一体的，但也是高
-度繁琐，能力也非常有限。其后，经过古埃及的不成熟形态，到达了古巴比伦的数位制。
+从石器时代非洲的骨刻，我们可以看到数的概念表征和计算过程是浑然一体的，这种表征非常繁琐，计算的能力也非常有限。
+其后，数的表征，经过古埃及的不成熟形态，到达了古巴比伦的数位制。
 
-人们其实在这个历史过程里遗忘了一个隐藏的巨大世界—那就是表达式，或者说计算过程。数本来是计算过程的凝聚物，
-可一旦符号化后，就成为我们追求的目标。于是，我们往往关注计算过程的 结果，而忽视了过程本身蕴含的众多信息。
-过程比结果更重要。类似于计算过程通过符号表征凝聚为数，如果我们能找到计算过程的另外一种
-表征，它会极大的提升我们的能力。这也就是算术表达式几何化的意义所在。它有潜力可以把分离的几何、分析和计算这三个学科重新黏合在一起。
+在这个历史过程里，人们遗忘了一个隐藏的巨大世界—那就是表达式，或者说计算过程。
+数作为一种表征，本来就是计算过程的高度凝练的表达，但它一旦符号化后，就成为我们追求的目标。
+于是，我们往往关注计算过程的结果，而忽视了过程本身蕴含的众多信息。
+
+过程比结果更重要。我们找到了计算过程的另外一种几何表征，它会极大的提升我们的能力。
+它有潜力可以把分离的几何、分析和计算这三个学科重新黏合在一起。
 
 \begin{itemize}
     \item 几何：算术表达式的几何化得到一个流形
     \item 分析：流形上的路径本质上是一种特殊的积分
-    \item 计算：赋值的 Laplacian 有一种潜在的计算复杂性的解释
+    \item 计算：Laplacian 的出现有一种潜在的计算复杂性的解释
 \end{itemize}
 
-同时，它能从另一个⻆度回应当下的学习问题。
+虽然这个几何化本身不涉及学习问题，但它能为当下的学习问题开辟一些新的分析视角。
 
-在目前的计算机科学里，人们大多讨论停机的程序。停机程序，我们可以清晰定义它的作用，从而分析这一类程序的性质。
-从“过程比结果更重要”的观点来看，我们需要扩展视⻆到程序每时每刻的 执行状态，不论它是否停机。在 ICML 1996 上，
-有一篇文章论述了停机问题的可学习性。这意味 着，围绕学习和过程，背后还有丰富的内涵可供研究。在算术表达式几何化的框架里，
-我们也能看 到函数会以效果和过程两种形态呈现，恰巧就就对应了这里的停机程序的效果和程序的执行过程。
+在目前的计算机科学里，人们大多讨论停机的程序。停机程序，我们可以清晰定义它的作用，从而容易分析这一类程序的性质。
+然而 1996 年有论文论述了停机问题的可学习性。这意味着，学习过程的背后还有丰富的内涵可供研究。
+
+在算术表达式几何化的框架里，函数会以效果和过程两种形态呈现，效果的考察方式就对应了停机程序，
+而过程的考察方式可以包括不停机程序。比如，我们可以分析计算路径在几何的无穷边界处的性态；
+也可以通过随机游走的方式，重新把 Chaitin 的 AIT 理论引入。
 
 我们有理由相信，算术表达式的几何化是一个新变革的开端。
-
-\subsection{无尽的遐想}
 
 \newpage
 \phantomsection
 \addcontentsline{toc}{section}{参考文献}
 \bibliographystyle{ieeetr}
 \bibliography{biblio/article}
-
-\newpage
-\appendix
-
-\section{推导}
-
-\begin{equation}
-    \pm s = \frac{1}{\lambda} \ln \frac{\mu}{a + \sqrt{\mu^2 + \lambda^2 a^2}} + c
-\end{equation}
-
-或者进一步变形，得到
-
-\begin{equation}
-    \mu e^{c \mp \lambda s} = a + \sqrt{\mu^2 + \lambda^2 a^2}
-\end{equation}
-
-进一步得到
-
-\begin{equation}
-    a^2 + \mu^2 e^{2 c \mp 2 \lambda s} - 2 a \mu e^{c \mp \lambda s} = \mu^2 + \lambda^2 a^2
-\end{equation}
-
-\begin{equation}
-    (\lambda^2 - 1)a^2 + 2 a \mu e^{c \mp \lambda s} - \mu^2 (e^{2 c \mp 2 \lambda s} - 1) = 0
-\end{equation}
-
-\begin{equation}
-     4 \mu^2 e^{2c \mp 2 \lambda s} + 4 (\lambda^2 - 1) \mu^2 (e^{2 c \mp 2 \lambda s} - 1)
-\end{equation}
-
-\begin{equation}
-     4 \mu^2 e^{2c \mp 2 \lambda s} + 4 (\lambda^2 - 1) \mu^2 e^{2 c \mp 2 \lambda s} - 4 (\lambda^2 - 1) \mu^2
-\end{equation}
-
-\begin{equation}
-     4 \lambda^2 \mu^2 e^{2 c \mp 2 \lambda s} - 4 \lambda^2 \mu^2 + 4 \mu^2
-\end{equation}
-
-\begin{equation}
-     4 \mu^2 (\lambda^2  e^{2 c \mp 2 \lambda s} - \lambda^2 + 1)
-\end{equation}
-
-\begin{equation}
-    (\lambda^2 - 1)a^2 + 2 \mu e^{c \mp \lambda s} a - \mu^2 (e^{2 c \mp 2 \lambda s} - 1) = 0
-\end{equation}
-
-\begin{equation}
-    a = \frac{- 2 \mu e^{c \mp \lambda s} \pm 2 \mu \sqrt{\lambda^2  e^{2 c \mp 2 \lambda s} - \lambda^2 + 1}}{2(\lambda^2 - 1)}
-\end{equation}
-
-\begin{equation}
-    a = \frac{- \mu e^{c \mp \lambda s} \pm \mu \sqrt{\lambda^2  e^{2 c \mp 2 \lambda s} - \lambda^2 + 1}}{\lambda^2 - 1}
-\end{equation}
-
-\begin{equation}
-    a = \frac{\mu }{\lambda^2 - 1} (- e^{c \mp \lambda s} \pm \sqrt{\lambda^2  e^{2 c \mp 2 \lambda s} - \lambda^2 + 1})
-\end{equation}
-
-\begin{equation}
-    a = \frac{\mu }{\lambda^2 - 1} (- e^{\lambda s} + \sqrt{\lambda^2  e^{2 \lambda s} - \lambda^2 + 1})
-\end{equation}
 
 \end{document}
 
