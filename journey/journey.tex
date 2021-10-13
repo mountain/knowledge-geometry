@@ -19,6 +19,7 @@
 
 \usepackage{tikz}
 \usepackage{pgf}
+\usepackage{tkz-euclide}
 \usepgflibrary{fpu}
 \usepackage{qtree}
 \usetikzlibrary{fit,arrows,calc,math}
@@ -1362,7 +1363,29 @@ $$
 
 也就是梯度-等值线坐标系下的流方程。
 
-\subsection{变换与管型构造}
+\subsection{火烧法}
+
+\subsubsection{赋值例六}\label{subsec:exmp6}
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+    \tkzDefPoint(-4,0){O1}
+    \tkzDefPoint(0,0){O}
+    \tkzDefPoint(4,0){O2}
+
+    % with K=2 we search some points like I such as IA=2 IB
+    \tkzDefCircle[apollonius,K=2](O1,O2) \tkzGetPoint{K1}
+    % K1 is the center of the circle
+    \tkzGetLength{rAp} % we get also the radius
+
+    draw [name path=O1--O2] ($\Omega_1$) -- ($\Omega_2$);
+
+\end{tikzpicture}
+\caption{伪圆坐标系}\label{fig:horocyclecoord}
+\end{figure}
+
+
 
 \subsection{几个问题}
 
@@ -1372,6 +1395,9 @@ $$
 
 关系的视角：逻辑、复杂性都来源于极小曲面，极小曲面间的映照
 
+\newpage
+
+\subsection{变换与管型构造}
 \newpage
 
 \section{赋值与流形}
