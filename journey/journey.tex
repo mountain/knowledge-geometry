@@ -1274,7 +1274,21 @@ $$
     a = \frac{\mu}{\lambda^2 - 1} (- e^{\lambda s} + \sqrt{\lambda^2  e^{2 \lambda s} - \lambda^2 + 1})
 \end{equation}
 
-问题：等值线-梯度坐标系和其下的流方程
+\subsection{梯度-等值线坐标系}
+
+在梯度方向的基础上按右手螺旋引入转角 $\phi$，我们建立梯度-等值线为参照的局部极坐标系，有沿转角 $\phi$ 移动时 $a$ 的增长率为
+
+\begin{equation}
+    \frac{da}{ds} = \mu \cos (\frac{\pi}{2} - \arctan \frac{\mu}{a \lambda} + \phi) + a \lambda \sin (\frac{\pi}{2} - \arctan \frac{\mu}{a \lambda} + \phi)
+\end{equation}
+
+化简得到
+
+\begin{equation}
+    \frac{da}{ds} = \sqrt {\mu^2 + a^2 \lambda^2} \cos \phi\label{eq:contourgradient}
+\end{equation}
+
+也就是梯度-等值线坐标系下的流方程。
 
 \subsection{变换与管型构造}
 
