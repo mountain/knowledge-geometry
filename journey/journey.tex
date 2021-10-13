@@ -19,11 +19,11 @@
 
 \usepackage{tikz}
 \usepackage{pgf}
-\usepackage{tkz-euclide}
 \usepgflibrary{fpu}
 \usepackage{qtree}
-\usetikzlibrary{fit,arrows,calc,math}
+\usetikzlibrary{fit,arrows,calc,math,intersections,through,backgrounds}
 \usepackage{pgfplots}
+\usepackage{tkz-euclide}
 
 \usepackage{csquotes}
 \renewcommand{\mkbegdispquote}[2]{\itshape}
@@ -1370,19 +1370,23 @@ $$
 \begin{figure}[ht]
 \centering
 \begin{tikzpicture}
-    \tkzDefPoint(-4,0){O1}
     \tkzDefPoint(0,0){O}
+    \tkzDefPoint(-4,0){O1}
     \tkzDefPoint(4,0){O2}
+    \tkzDefPoint(0,-4){V1}
+    \tkzDefPoint(0,4){V2}
 
-    % with K=2 we search some points like I such as IA=2 IB
-    \tkzDefCircle[apollonius,K=2](O1,O2) \tkzGetPoint{K1}
-    % K1 is the center of the circle
-    \tkzGetLength{rAp} % we get also the radius
+    \tkzDefCircle[apollonius,K=2](O1,O2) \tkzGetPoint{K1} \tkzGetPoints{A}{B} \tkzGetLength{rAp}
+    \tkzInterCC(O,O2)(K1,A) \tkzGetPoints{C}{D}
 
-    draw [name path=O1--O2] ($\Omega_1$) -- ($\Omega_2$);
+    \tkzDrawCircle[color=red,fill=red](O,O1)
+    \tkzDrawArc[R with nodes,color=green](K1,\rAp pt)(C,D)
+
+    \tkzDrawSegment[color=blue](O1,O2)
+    \tkzDrawSegment[color=green](V1,V2)
 
 \end{tikzpicture}
-\caption{伪圆坐标系}\label{fig:horocyclecoord}
+\caption{伪圆坐标系}\label{fig:appolo}
 \end{figure}
 
 
@@ -1397,7 +1401,7 @@ $$
 
 \newpage
 
-\subsection{变换与管型构造}
+\section{变换与管型构造}
 \newpage
 
 \section{赋值与流形}
