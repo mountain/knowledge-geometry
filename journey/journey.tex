@@ -1380,16 +1380,34 @@ $$
     \tkzInterCC(O,O2)(K1,A) \tkzGetPoints{C}{D}
 
     \tkzDrawCircle[color=red,fill=red](O,O1)
-    \tkzDrawArc[R with nodes,color=green](K1,\rAp pt)(C,D)
+    \tkzDrawCircle[R,color=green](K1,\rAp pt)
 
-    \tkzDrawSegment[color=blue](O1,O2)
+    \tkzDefMidPoint(O,V2) \tkzGetPoint{M}
+    \tkzInterLC(M,O2)(K1,A) \tkzGetPoints{L}{N}
+
+    \tkzDrawSegment[color=blue](O1,K1)
     \tkzDrawSegment[color=green](V1,V2)
+    \tkzDrawCircle[R,fill=black](N,1 pt)
+    \tkzDrawCircle[R,fill=black](K1,1 pt)
+    \tkzDrawSegment[color=blue](N,K1)
+
+    \tkzLabelPoint[below left](O1){$\Omega_{-}$}
+    \tkzLabelPoint[below right](O2){$\Omega_{+}$}
+    \tkzLabelLine[blue,above](O,A){$x$}
+    \tkzLabelLine[blue,left](A,N){$s$}
+    \tkzLabelPoint[right](K1){$K$}
+    \tkzLabelAngle[pos=1.5](N,K1,O2){$\alpha$}
 
 \end{tikzpicture}
-\caption{伪圆坐标系}\label{fig:appolo}
+\caption{从零线开始火烧}\label{fig:appolo}
 \end{figure}
 
-
+$$
+    s = \operatorname{arcosh} \left(1 + \frac{2 (R \alpha)^2}{(1-x^2)R^2 \sin^2\alpha} \right)
+$$
+$$
+    s = \operatorname{arcosh} \left(1 + \frac{2 \alpha^2}{(1-x^2) \sin^2\alpha} \right)
+$$
 
 \subsection{几个问题}
 
