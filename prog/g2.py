@@ -16,7 +16,8 @@ width = 4097
 coord = linspace(-1, 1, num=width)
 
 
-def refl(vector, mir): return vector - 2 * dot(vector, mir) * mir
+def refl(vector, mir):
+    return vector - 2 * dot(vector, mir) * mir
 
 
 def unit(vector):
@@ -24,31 +25,12 @@ def unit(vector):
     return vector / magnitude
 
 
-#pqr = [eval(s) for s in sys.argv[1:]]
-#if len(pqr) > 3:
-#    print("too many numbers; dropping last")
-#    pqr = pqr[:3]
-#if sum([Fraction(1, x) for x in pqr]) >= 1:
-#    print("the reciprocals of the numbers must add to less than 1")
-#    while sum([Fraction(1, x) for x in pqr]) >= 1:
-#        pqr.pop()
 
 pqr = [4, 4]
-
-
 filestem = "i44"
-#for n in pqr: filestem += repr(n)
-#while len(filestem) < 3:
-#    filestem += "i"
 
-# make a list of mirror planes
 
-if not pqr:  # all pairs are asymptotic
-    ir3 = 1 / sqrt(3)
-    mirror = [array([1j * ir3, 2 * ir3, 0]),
-              array([1j * ir3, -ir3, -1]),
-              array([1j * ir3, -ir3, 1])]
-else:
+def mk_mirror(pqr):
     p = pqr.pop(0)
     pangle = pi / p
     cosqr = [-cos(pi / u) for u in pqr]
@@ -73,13 +55,13 @@ else:
         if v[0].imag < 0: v = -v
         mirror[j] = v
 
-for u in mirror: print("mirror", u)
-v0, v1, v2 = mirror
 
+mirror = mk_mirror(pqr)
+print("mirror", mirror)
 
-# The meat!
 
 def thecolor(x0, x1):
+    v0, v1, v2 = mirror
     r2 = x0 ** 2 + x1 ** 2
     if r2 >= 1: return (255, 255, 255, 0)
 
@@ -98,31 +80,6 @@ def thecolor(x0, x1):
                     # 1:
                     if abs(dot(p, v0)) < 0.02: return (0, 0, 255, 255)
                     return (255, 0, 0, 255)
-
-                    # 3:
-                    # if dot(p,critplane) < 0: return (255,0,0,255)
-                    # if abs(dot(p,v0)) < 0.01: return (0,0,255,255)
-                    # return (255,255,0,255)
-
-                    #4:
-                    #if abs(dot(p,v1)) < 0.02: return (0,0,255,255)
-                    #return (255,255,0,255)
-
-                    # 6:
-                    # if dot(p,critplane) < 0: return (255,255,0,255)
-                    # if abs(dot(p,v1)) < 0.01: return (0,0,255,255)
-                    # return (255,0,0,255)
-
-
-# 3:
-#vertex = solve(array(mirror), array([0,1,1]))
-
-# 6:
-#vertex = solve(array(mirror), array([1,0,1]))
-
-#vertex = solve(array(mirror), array([0, 0, 0]))
-
-#critplane = 1j*cross(vertex, v2)
 
 
 im = Image.new("RGBA", (width, width))
