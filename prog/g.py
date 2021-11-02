@@ -12,7 +12,7 @@ seterr(all='raise')
 
 # utility functions
 
-width = 4097
+width = 8193
 coord = linspace(-1, 1, num=width)
 
 

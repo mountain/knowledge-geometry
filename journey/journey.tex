@@ -1345,8 +1345,10 @@ $$
 如果约定 $\mu > 0, \lambda >0$ 且 $s = 0$ 时有 $a = 0$，公式还可以进一步变形：
 
 \begin{equation}
-  a = \frac{\mu}{\lambda} \sinh(\lambda s)
+  a = \pm \frac{\mu}{\lambda} \sinh(\lambda s)
 \end{equation}
+
+下面我们对
 
 \subsection{梯度-等值线坐标系}
 
@@ -1413,35 +1415,36 @@ $$
 \centering
 
 \begin{tikzpicture}
-    \draw (0, 0) node[inner sep=0] {\includegraphics[width=3.15in]{images/t4097.png}};
+\begin{scope}[line width=0.3pt]
+
+    \draw (0, 0) node[inner sep=0] {\includegraphics[width=3.142in]{images/t4097.png}};
     \tkzDefPoint(0,0){O}
     \tkzDefPoint(-4,0){O1}
     \tkzDefPoint(4,0){O2}
     \tkzDefPoint(0,-4){V1}
     \tkzDefPoint(0,4){V2}
-    \tkzDefPoint(0,-5){K2}
+    \tkzDefPoint(-5, 0){K2}
 
-    \tkzDefCircle[apollonius,K=2](O1,O2) \tkzGetPoint{K1} \tkzGetPoints{A}{B} \tkzGetLength{rAp}
-    \tkzInterCC(O,O2)(K1,A) \tkzGetPoints{C}{D}
+    \tkzDefCircle[apollonius,K=2.415](V1,V2) \tkzGetPoint{K1} \tkzGetPoints{A}{B} \tkzGetLength{rAp}
+    \tkzInterCC(O,V2)(K1,A) \tkzGetPoints{C}{D}
+    \tkzInterCC(K2,V2)(K1,A) \tkzGetPoints{L}{N}
 
-    \tkzDrawCircle[color=red](O,O1)
-    \tkzDrawArc[R with nodes,color=green](K1,\rAp pt)(C,D)
-    \tkzDrawArc[R with nodes,color=blue](K2,183 pt)(O2,O1)
+    \tkzDrawCircle[color=black](O,V1)
+    \tkzDrawArc[R with nodes,color=gray](K1,\rAp pt)(C,D)
+    \tkzDrawArc[R with nodes,color=yellow](K2,183 pt)(V1,V2)
 
-    \tkzDefMidPoint(O,V2) \tkzGetPoint{M}
-    \tkzInterLC(M,O2)(K1,A) \tkzGetPoints{L}{N}
-
-    \tkzDrawSegment[color=yellow](O1,O2)
-    \tkzDrawSegment[color=green](V1,V2)
+    \tkzDrawSegment[color=blue](O1,O2)
+    \tkzDrawSegment[color=blue](V1,V2)
     \tkzDrawCircle[R,fill=black](N,1 pt)
 
-    \tkzLabelPoint[below left](O1){$\Omega_{-}$}
-    \tkzLabelPoint[below right](O2){$\Omega_{+}$}
-    \tkzLabelLine[blue,above](O,A){$x$}
-    \tkzLabelLine[blue,left](A,N){$s$}
+    \tkzLabelPoint[below](V1){$\Omega_{-}$}
+    \tkzLabelPoint[above](V2){$\Omega_{+}$}
+    \tkzLabelLine[blue,left](O,A){$y$}
+    \tkzLabelLine[blue,above](A,N){$s$}
 
+\end{scope}
 \end{tikzpicture}
-\caption{从零线开始火烧}\label{fig:appolo}
+\caption{从零线开始火烧}\label{fig:merged}
 \end{figure}
 
 
