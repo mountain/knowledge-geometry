@@ -475,7 +475,7 @@ $$
 那么点 $P$ 的坐标由 $QP$ 和 $OQ$ 的有向长度给出，点 $O$ 为坐标原点，有向长度都是双曲空间内的长度。
 在测地线族上有向长度的正负号，根据点 $P$ 是否在 $\Omega$ 点一侧来确定，在 $\Omega$ 点一侧为正，否则为负。
 在伪圆族上有向长度的正负号，按照右手螺旋为增加的方向来确定，也即右手螺旋过点 $O$ 相继给出了负半轴和正半轴。
-依照如上规则，点 $P$ 的坐标为 $(x,y)$。
+依照如上规则，点 $P$ 的坐标为 $(u,v)$。
 
 \begin{figure}[ht]
 \centering
@@ -501,13 +501,13 @@ $$
 我们有
 
 $$
-ds^2 = e^{-2y} dx^2 + dy^2
+ds^2 = e^{-2v} du^2 + dv^2
 $$
 
 和
 
 $$
-\Delta = e^{2y} \frac{\partial^2}{{\partial x}^2} + \frac{\partial^2}{{\partial y}^2} - \frac{\partial}{\partial y}
+\Delta = e^{2v} \frac{\partial^2}{{\partial u}^2} + \frac{\partial^2}{{\partial v}^2} - \frac{\partial}{\partial v}
 $$
 
 \subsubsection{赋值例三}\label{subsec:exmp3}
@@ -515,7 +515,7 @@ $$
 伪圆坐标系下的第一个例子是
 
 \begin{equation}
-A = x e^{-y}
+A = u e^{-v}
 \end{equation}
 
 \begin{figure}[ht]
@@ -562,7 +562,7 @@ A = x e^{-y}
 针对上一个例子里的设定 \ref{subsec:exmp2}，我们引入复数
 
 $$
-z = x + y i
+z = u + v i
 $$
 
 而如下的 Möbius 变换
@@ -598,7 +598,7 @@ $$
 此时，有
 
 $$
-\Delta A = e^{2y} \frac{\partial^2(x e^{-y})}{{\partial x}^2} + \frac{\partial^2(x e^{-y})}{{\partial y}^2} - \frac{\partial(x e^{-y})}{\partial y} = 2A
+\Delta A = e^{2v} \frac{\partial^2(u e^{-v})}{{\partial u}^2} + \frac{\partial^2(u e^{-v})}{{\partial v}^2} - \frac{\partial(u e^{-v})}{\partial v} = 2A
 $$
 
 \subsubsection{赋值例四}\label{subsec:exmp4}
@@ -606,13 +606,13 @@ $$
 伪圆坐标系下的第二个例子是
 
 \begin{equation}
-A = x e^y
+A = u e^v
 \end{equation}
 
 注意到例子三和例子四也可以通过共形变联系起来，由如下映射给出
 
 $$
-(x, y) \mapsto (x, -y)
+(u, v) \mapsto (u, -v)
 $$
 
 因此例子四也满足流方程。
@@ -620,7 +620,7 @@ $$
 注意到此时 $A$ 在边界上趋于 $0$ 值，同时有
 
 $$
-\Delta A = e^{2y} \frac{\partial^2(x e^y)}{{\partial x}^2} + \frac{\partial^2(x e^y)}{{\partial y}^2} - \frac{\partial(x e^y)}{\partial y} = 0
+\Delta A = e^{2v} \frac{\partial^2(u e^v)}{{\partial u}^2} + \frac{\partial^2(u e^v)}{{\partial v}^2} - \frac{\partial(u e^v)}{\partial v} = 0
 $$
 
 \subsection{几个问题}
@@ -1416,7 +1416,6 @@ $$
 
 \begin{tikzpicture}
 \begin{scope}[line width=0.3pt]
-
     \draw (0, 0) node[inner sep=0] {\includegraphics[width=3.142in]{images/t4097.png}};
     \tkzDefPoint(0,0){O}
     \tkzDefPoint(-4,0){O1}
@@ -1447,6 +1446,40 @@ $$
 \caption{从零线开始火烧}\label{fig:merged}
 \end{figure}
 
+\begin{figure}[ht]
+\centering
+
+\begin{tikzpicture}
+\begin{scope}[line width=0.3pt]
+    \draw (0, 0) node[inner sep=0] {\includegraphics[width=3.41in]{images/horocycles.png}};
+    \tkzDefPoint(0,0){O}
+
+    \tkzDefPoint(-4,0){O1}
+    \tkzDefPoint(4,0){O2}
+    \tkzDefPoint(0,-4){V1}
+    \tkzDefPoint(0,4){V2}
+    \tkzDefPoint(-5, 0){K2}
+
+    \tkzDefCircle[apollonius,K=2.415](V1,V2) \tkzGetPoint{K1} \tkzGetPoints{A}{B} \tkzGetLength{rAp}
+    \tkzInterCC(O,V2)(K1,A) \tkzGetPoints{C}{D}
+    \tkzInterCC(K2,V2)(K1,A) \tkzGetPoints{L}{N}
+
+    \tkzDrawCircle[color=black](O,V1)
+    \tkzDrawArc[R with nodes,color=red](K1,\rAp pt)(C,D)
+    \tkzDrawArc[R with nodes,color=green](K2,183 pt)(V1,V2)
+
+    \tkzDrawSegment[color=blue](O1,O2)
+    \tkzDrawSegment[color=brown](V1,V2)
+    \tkzDrawCircle[R,fill=black](N,1 pt)
+
+    \tkzLabelPoint[below](V1){$\Omega_{-}$}
+    \tkzLabelPoint[above](V2){$\Omega_{+}$}
+
+\end{scope}
+\end{tikzpicture}
+\caption{从零线开始火烧}\label{fig:merged2}
+\end{figure}
+
 
 
 
@@ -1457,6 +1490,19 @@ $$
 调和映照、狄利克莱能量、极小曲面
 
 关系的视角：逻辑、复杂性都来源于极小曲面，极小曲面间的映照
+
+\begin{equation}
+   B  = \ln (x^2+ y^2)
+\end{equation}
+
+\begin{equation}
+\Delta B = - y^2 (\frac{\partial^2}{\partial x^2} \ln (x^2+ y^2) + \frac{\partial^2}{\partial y^2} \ln (x^2+ y^2)) = 0
+\end{equation}
+
+
+\begin{equation}
+   B  = \ln (u^2+ e^{2v})
+\end{equation}
 
 \newpage
 
@@ -1583,6 +1629,10 @@ $$
 \appendix
 
 \section{推导}
+
+\begin{equation}
+(\cdots ((x * a_0 + b_0) * a_1 + b_1) \cdots) * a_n + b_n
+\end{equation}
 
 \begin{equation}
     \pm s = \frac{1}{\lambda} \ln \frac{\mu}{a + \sqrt{\mu^2 + \lambda^2 a^2}} + c
