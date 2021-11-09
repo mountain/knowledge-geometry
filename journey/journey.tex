@@ -254,17 +254,19 @@ $$
 
 \begin{figure}[ht]
 \centering
-\begin{tikzpicture}
-    \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
-    \draw (-4.40, +4.60) node[inner sep=1pt] (s) {$0 - 1$};
-    \draw (-2.00, +2.80) node[inner sep=1pt] (z) {$0$};
-    \draw (+2.90, +1.60) node[inner sep=1pt] (a) {$0 + 1$};
-    \draw (+6.00, +1.60) node[inner sep=1pt] (aa) {$0 + 1 + 1$};
-    \draw (+3.00, +5.00) node[inner sep=1pt] (am) {$(0 + 1) \cdot e$};
-    \draw (+4.00, -2.00) node[inner sep=1pt] (ad) {$(0 + 1) / e$};
-    \draw (-0.80, +6.20) node[inner sep=1pt] (m) {$0 \cdot e$};
-    \draw (-4.90, +0.40) node[inner sep=1pt] (d) {$0 / e$};
-\end{tikzpicture}
+\resizebox{4in}{4in}{
+    \begin{tikzpicture}
+        \draw (0, 0) node[inner sep=0] {\includegraphics[width=6in]{images/t4096.png}};
+        \draw (-4.40, +4.60) node[inner sep=1pt] (s) {$0 - 1$};
+        \draw (-2.00, +2.80) node[inner sep=1pt] (z) {$0$};
+        \draw (+2.90, +1.60) node[inner sep=1pt] (a) {$0 + 1$};
+        \draw (+6.00, +1.60) node[inner sep=1pt] (aa) {$0 + 1 + 1$};
+        \draw (+3.00, +5.00) node[inner sep=1pt] (am) {$(0 + 1) \cdot e$};
+        \draw (+4.00, -2.00) node[inner sep=1pt] (ad) {$(0 + 1) / e$};
+        \draw (-0.80, +6.20) node[inner sep=1pt] (m) {$0 \cdot e$};
+        \draw (-4.90, +0.40) node[inner sep=1pt] (d) {$0 / e$};
+    \end{tikzpicture}
+}
 \caption{加乘生成元为 $(1, e)$ 的离散网格}
 \label{fig:grid_1e}
 \end{figure}
@@ -362,6 +364,8 @@ $$
 任何算术表达式都可以写成一个二叉表达式树，叶节点是数，其他节点是运算符。
 给定了一个算术表达式，它的求值顺序可以有多种选择。所谓算术表达式线索化，就是按照某一种线索化的求值顺序去恰当重新组织表达式，
 并按标准的先序遍历顺序来估值表达式。我们在后面的章节会给出算术表达式的严格定义以及算术表达式线索化的严格定义。
+
+对这四个例子，因为第二个例子形式比较简单，我们会着重解释它的赋值、表达式如何体现为几何上的路径以及典范形式。
 
 但仍然需要声明，本节的陈述还是不严密的，“流形的点对应到算术表达式的典范形态”的这个命题仍然需要进一步的严密化。
 对第一节实数轴来说，针对实数的严密化手段早已经被戴德金等人发展出来，我们还需要进一步把以往的工作改造成表达式的情形。
@@ -471,6 +475,13 @@ $$
 $$
 \Delta A = - y^2 (\frac{\partial^2}{\partial x^2} A + \frac{\partial^2}{\partial y^2} A) = y^2 (\frac{1}{\partial y} (\frac{1}{\partial y} \frac{x}{y})) = 2 A
 $$
+
+\subsubsection{赋值和网格}
+
+\subsubsection{表达式和路径}
+
+\subsubsection{典范形式}
+
 
 \subsection{伪圆坐标系下的两个例子\footnote{本例子的解析解由张乐给出，几何和典范形式的解释由笔者给出。}}
 
