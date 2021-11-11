@@ -362,19 +362,13 @@ $$
 配有如下的内积
 
 \[
-\mathbf{a} \cdot \mathbf{b} = \begin{bmatrix} a_x & a_y \end{bmatrix} \begin{bmatrix} \frac{1}{y^2} & 0 \\ 0 & \frac{1}{\ln^2{2} y^2} \end{bmatrix} \begin{bmatrix} b_x \\ b_y \end{bmatrix}
+\mathbf{a} \cdot \mathbf{b} = \begin{bmatrix} a_x & a_y \end{bmatrix} \begin{bmatrix} \frac{1}{y^2} & 0 \\ 0 & \frac{1}{y^2\ln^2{2}} \end{bmatrix} \begin{bmatrix} b_x \\ b_y \end{bmatrix}
 \]
 
 以及度规
 
 \[
-ds^2 = \frac{dx^2 + dy^2}{y^2}
-\]
-
-这个流形的高斯曲率是 $-1$，并有 Laplacian 为
-
-\[
-\Delta = - y^2 (\frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2})
+ds^2 = \frac{1}{y^2}(dx^2 + \frac{dy^2}{\ln^2 2})
 \]
 
 \subsection{赋值和网格}
@@ -382,12 +376,10 @@ ds^2 = \frac{dx^2 + dy^2}{y^2}
 让我们考虑如下的一个标量场 $A$，我们称之为一个赋值。
 
 \begin{equation}
-   A  = \ln (x^2+ y^2)
+   A  = - \frac{x}{y}
 \end{equation}
 
-容易看到，这个赋值有半圆形的等值线，而它的梯度场是从原点出发的射线。
-
-在网格例一里，蓝线代表 $+ 1$ 关系，绿线代表 $\times 2$ 关系，它们是彼此垂直的线族。
+我们给出一个如图 \ref{fig:gridex0} 的加乘网格。
 
 \begin{figure}[ht]
 \centering
@@ -498,8 +490,11 @@ ds^2 = \frac{dx^2 + dy^2}{y^2}
 \node [anchor=225, red] at (8,8) {-1};
 
 \end{tikzpicture}
-\caption{网格例一，$\lambda=\ln2$ 和 $\mu=1$}\label{fig:gridex1}
+\caption{加乘网格，$\lambda=\ln2$ 和 $\mu=1$}\label{fig:gridex0}
 \end{figure}
+
+网格里蓝线代表赋值上的 $+ 1$ 关系，绿线代表赋值上的 $\times 2$ 关系，它们是彼此垂直的线族。蓝线之间是等间隔为长度 1 的。
+网格里的红色数值是赋值的大小。容易看到，这个赋值有半圆形的梯度场，而它的等值线是从原点出发的射线。
 
 \subsection{表达式与路径}
 
