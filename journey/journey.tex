@@ -352,7 +352,162 @@ $$
 
 \newpage
 
-\section{几个简单实例}
+\section{第一个简单的例子}
+
+考虑上半平面
+\[
+\{\mathcal{H}: (x, y) | y > 0 \}
+\]
+
+配有如下的内积
+
+\[
+\mathbf{a} \cdot \mathbf{b} = \begin{bmatrix} a_x & a_y \end{bmatrix} \begin{bmatrix} \frac{1}{y^2} & 0 \\ 0 & \frac{1}{\ln^2{2} y^2} \end{bmatrix} \begin{bmatrix} b_x \\ b_y \end{bmatrix}
+\]
+
+以及度规
+
+\[
+ds^2 = \frac{dx^2 + dy^2}{y^2}
+\]
+
+这个流形的高斯曲率是 $-1$，并有 Laplacian 为
+
+\[
+\Delta = - y^2 (\frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2})
+\]
+
+\subsection{赋值和网格}
+
+让我们考虑如下的一个标量场 $A$，我们称之为一个赋值。
+
+\begin{equation}
+   A  = \ln (x^2+ y^2)
+\end{equation}
+
+容易看到，这个赋值有半圆形的等值线，而它的梯度场是从原点出发的射线。
+
+在网格例一里，蓝线代表 $+ 1$ 关系，绿线代表 $\times 2$ 关系，它们是彼此垂直的线族。
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+\draw [black, line width=0.6pt, ->] (0,0) to[out=90,in=270] (0,8.25);
+\node [anchor=south] at (0,8.5) {y};
+\draw [black, line width=0.6pt, ->] (-8.2,0) to[out=0,in=180] (8.25,0);
+\node [anchor=west] at (8.5,0) {x};
+\foreach \x in {-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7,8}
+  \node [anchor=north] at (\x,0) {\x};
+\foreach \y in {1,2,3,4,5,6,7,8}
+  \node [anchor=45] at (0,\y) {\y};
+
+\draw [blue, line width=0.6pt] (-8.25,0.5) to[out=0,in=180] (8.25,0.5);
+\draw [blue, line width=0.6pt] (-8.25,1) to[out=0,in=180] (8.25,1);
+\draw [blue, line width=0.6pt] (-8.25,2) to[out=0,in=180] (8.25,2);
+\draw [blue, line width=0.6pt] (-8.25,4) to[out=0,in=180] (8.25,4);
+\draw [blue, line width=0.6pt] (-8.25,8) to[out=0,in=180] (8.25,8);
+
+\draw [green, line width=0.6pt] (-8,0) to[out=90,in=270] (-8,1);
+\draw [green, line width=0.6pt] (-7,0) to[out=90,in=270] (-7,1);
+\draw [green, line width=0.6pt] (-6,0) to[out=90,in=270] (-6,1);
+\draw [green, line width=0.6pt] (-5,0) to[out=90,in=270] (-5,1);
+\draw [green, line width=0.6pt] (-4,0) to[out=90,in=270] (-4,1);
+\draw [green, line width=0.6pt] (-3,0) to[out=90,in=270] (-3,1);
+\draw [green, line width=0.6pt] (-2,0) to[out=90,in=270] (-2,1);
+\draw [green, line width=0.6pt] (-1,0) to[out=90,in=270] (-1,1);
+\draw [green, line width=0.6pt] (1,0) to[out=90,in=270] (1,1);
+\draw [green, line width=0.6pt] (2,0) to[out=90,in=270] (2,1);
+\draw [green, line width=0.6pt] (3,0) to[out=90,in=270] (3,1);
+\draw [green, line width=0.6pt] (4,0) to[out=90,in=270] (4,1);
+\draw [green, line width=0.6pt] (5,0) to[out=90,in=270] (5,1);
+\draw [green, line width=0.6pt] (6,0) to[out=90,in=270] (6,1);
+\draw [green, line width=0.6pt] (7,0) to[out=90,in=270] (7,1);
+\draw [green, line width=0.6pt] (8,0) to[out=90,in=270] (8,1);
+
+\draw [green, line width=0.6pt] (-8,1) to[out=90,in=270] (-8,2);
+\draw [green, line width=0.6pt] (-6,1) to[out=90,in=270] (-6,2);
+\draw [green, line width=0.6pt] (-4,1) to[out=90,in=270] (-4,2);
+\draw [green, line width=0.6pt] (-2,1) to[out=90,in=270] (-2,2);
+\draw [green, line width=0.6pt] (2,1) to[out=90,in=270] (2,2);
+\draw [green, line width=0.6pt] (4,1) to[out=90,in=270] (4,2);
+\draw [green, line width=0.6pt] (6,1) to[out=90,in=270] (6,2);
+\draw [green, line width=0.6pt] (8,1) to[out=90,in=270] (8,2);
+
+\draw [green, line width=0.6pt] (-8,2) to[out=90,in=270] (-8,4);
+\draw [green, line width=0.6pt] (-4,2) to[out=90,in=270] (-4,4);
+\draw [green, line width=0.6pt] (4,2) to[out=90,in=270] (4,4);
+\draw [green, line width=0.6pt] (8,2) to[out=90,in=270] (8,4);
+
+\draw [green, line width=0.6pt] (-8,4) to[out=90,in=270] (-8,8);
+\draw [green, line width=0.6pt] (8,4) to[out=90,in=270] (8,8);
+
+\node [anchor=225, red] at (-8,0.5) {16};
+\node [anchor=225, red] at (-7,0.5) {14};
+\node [anchor=225, red] at (-6,0.5) {12};
+\node [anchor=225, red] at (-5,0.5) {10};
+\node [anchor=225, red] at (-4,0.5) {8};
+\node [anchor=225, red] at (-3,0.5) {6};
+\node [anchor=225, red] at (-2,0.5) {4};
+\node [anchor=225, red] at (-1,0.5) {2};
+\node [anchor=225, red] at (0,0.5) {0};
+\node [anchor=225, red] at (1,0.5) {-2};
+\node [anchor=225, red] at (2,0.5) {-4};
+\node [anchor=225, red] at (3,0.5) {-6};
+\node [anchor=225, red] at (4,0.5) {-8};
+\node [anchor=225, red] at (5,0.5) {-10};
+\node [anchor=225, red] at (6,0.5) {-12};
+\node [anchor=225, red] at (7,0.5) {-14};
+\node [anchor=225, red] at (8,0.5) {-16};
+
+\node [anchor=225, red] at (-8,1) {8};
+\node [anchor=225, red] at (-7,1) {7};
+\node [anchor=225, red] at (-6,1) {6};
+\node [anchor=225, red] at (-5,1) {5};
+\node [anchor=225, red] at (-4,1) {4};
+\node [anchor=225, red] at (-3,1) {3};
+\node [anchor=225, red] at (-2,1) {2};
+\node [anchor=225, red] at (-1,1) {1};
+\node [anchor=225, red] at (0,1) {0};
+\node [anchor=225, red] at (1,1) {-1};
+\node [anchor=225, red] at (2,1) {-2};
+\node [anchor=225, red] at (3,1) {-3};
+\node [anchor=225, red] at (4,1) {-4};
+\node [anchor=225, red] at (5,1) {-5};
+\node [anchor=225, red] at (6,1) {-6};
+\node [anchor=225, red] at (7,1) {-7};
+\node [anchor=225, red] at (8,1) {-8};
+
+\node [anchor=225, red] at (-8,2) {4};
+\node [anchor=225, red] at (-6,2) {3};
+\node [anchor=225, red] at (-4,2) {2};
+\node [anchor=225, red] at (-2,2) {1};
+\node [anchor=225, red] at (0,2) {0};
+\node [anchor=225, red] at (2,2) {-1};
+\node [anchor=225, red] at (4,2) {-2};
+\node [anchor=225, red] at (6,2) {-3};
+\node [anchor=225, red] at (8,2) {-4};
+
+\node [anchor=225, red] at (-8,4) {2};
+\node [anchor=225, red] at (-4,4) {1};
+\node [anchor=225, red] at (0,4) {0};
+\node [anchor=225, red] at (4,4) {-1};
+\node [anchor=225, red] at (8,4) {-2};
+
+\node [anchor=225, red] at (-8,8) {1};
+\node [anchor=225, red] at (0,8) {0};
+\node [anchor=225, red] at (8,8) {-1};
+
+\end{tikzpicture}
+\caption{网格例一，$\lambda=\ln2$ 和 $\mu=1$}\label{fig:gridex1}
+\end{figure}
+
+\subsection{表达式与路径}
+
+\subsection{典范形态}
+
+\newpage
+
+\section{更多的简单实例}
 
 本节我们讨论四个例子，这些例子都可以理解成算术表达式的某种几何表达。
 \begin{itemize}
@@ -476,13 +631,6 @@ $$
 \Delta A = - y^2 (\frac{\partial^2}{\partial x^2} A + \frac{\partial^2}{\partial y^2} A) = y^2 (\frac{1}{\partial y} (\frac{1}{\partial y} \frac{x}{y})) = 2 A
 $$
 
-\subsubsection{赋值和网格}
-
-\subsubsection{表达式和路径}
-
-\subsubsection{典范形式}
-
-
 \subsection{伪圆坐标系下的两个例子\footnote{本例子的解析解由张乐给出，几何和典范形式的解释由笔者给出。}}
 
 首先介绍双曲空间的伪圆坐标系。伪圆坐标系是利用一族伪圆和与之正交的测地线族来定位的全局坐标系统。
@@ -577,7 +725,7 @@ A = u e^{-v}
 针对上一个例子里的设定 \ref{subsec:exmp2}，我们引入复数
 
 $$
-z = u + v i
+z = x + y i
 $$
 
 而如下的 Möbius 变换
@@ -736,121 +884,6 @@ $$
     \item 基础的乘线: $x = 0$，整条线是一条零线
 \end{itemize}
 
-\subsubsection{网格例一}
-
-在网格例一里，蓝线代表 $+ 1$ 关系，绿线代表 $\times 2$ 关系，它们是彼此垂直的线族。
-
-\begin{figure}[ht]
-\centering
-\begin{tikzpicture}
-\draw [black, line width=0.6pt, ->] (0,0) to[out=90,in=270] (0,8.25);
-\node [anchor=south] at (0,8.5) {y};
-\draw [black, line width=0.6pt, ->] (-8.2,0) to[out=0,in=180] (8.25,0);
-\node [anchor=west] at (8.5,0) {x};
-\foreach \x in {-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7,8}
-  \node [anchor=north] at (\x,0) {\x};
-\foreach \y in {1,2,3,4,5,6,7,8}
-  \node [anchor=45] at (0,\y) {\y};
-
-\draw [blue, line width=0.6pt] (-8.25,0.5) to[out=0,in=180] (8.25,0.5);
-\draw [blue, line width=0.6pt] (-8.25,1) to[out=0,in=180] (8.25,1);
-\draw [blue, line width=0.6pt] (-8.25,2) to[out=0,in=180] (8.25,2);
-\draw [blue, line width=0.6pt] (-8.25,4) to[out=0,in=180] (8.25,4);
-\draw [blue, line width=0.6pt] (-8.25,8) to[out=0,in=180] (8.25,8);
-
-\draw [green, line width=0.6pt] (-8,0) to[out=90,in=270] (-8,1);
-\draw [green, line width=0.6pt] (-7,0) to[out=90,in=270] (-7,1);
-\draw [green, line width=0.6pt] (-6,0) to[out=90,in=270] (-6,1);
-\draw [green, line width=0.6pt] (-5,0) to[out=90,in=270] (-5,1);
-\draw [green, line width=0.6pt] (-4,0) to[out=90,in=270] (-4,1);
-\draw [green, line width=0.6pt] (-3,0) to[out=90,in=270] (-3,1);
-\draw [green, line width=0.6pt] (-2,0) to[out=90,in=270] (-2,1);
-\draw [green, line width=0.6pt] (-1,0) to[out=90,in=270] (-1,1);
-\draw [green, line width=0.6pt] (1,0) to[out=90,in=270] (1,1);
-\draw [green, line width=0.6pt] (2,0) to[out=90,in=270] (2,1);
-\draw [green, line width=0.6pt] (3,0) to[out=90,in=270] (3,1);
-\draw [green, line width=0.6pt] (4,0) to[out=90,in=270] (4,1);
-\draw [green, line width=0.6pt] (5,0) to[out=90,in=270] (5,1);
-\draw [green, line width=0.6pt] (6,0) to[out=90,in=270] (6,1);
-\draw [green, line width=0.6pt] (7,0) to[out=90,in=270] (7,1);
-\draw [green, line width=0.6pt] (8,0) to[out=90,in=270] (8,1);
-
-\draw [green, line width=0.6pt] (-8,1) to[out=90,in=270] (-8,2);
-\draw [green, line width=0.6pt] (-6,1) to[out=90,in=270] (-6,2);
-\draw [green, line width=0.6pt] (-4,1) to[out=90,in=270] (-4,2);
-\draw [green, line width=0.6pt] (-2,1) to[out=90,in=270] (-2,2);
-\draw [green, line width=0.6pt] (2,1) to[out=90,in=270] (2,2);
-\draw [green, line width=0.6pt] (4,1) to[out=90,in=270] (4,2);
-\draw [green, line width=0.6pt] (6,1) to[out=90,in=270] (6,2);
-\draw [green, line width=0.6pt] (8,1) to[out=90,in=270] (8,2);
-
-\draw [green, line width=0.6pt] (-8,2) to[out=90,in=270] (-8,4);
-\draw [green, line width=0.6pt] (-4,2) to[out=90,in=270] (-4,4);
-\draw [green, line width=0.6pt] (4,2) to[out=90,in=270] (4,4);
-\draw [green, line width=0.6pt] (8,2) to[out=90,in=270] (8,4);
-
-\draw [green, line width=0.6pt] (-8,4) to[out=90,in=270] (-8,8);
-\draw [green, line width=0.6pt] (8,4) to[out=90,in=270] (8,8);
-
-\node [anchor=225, red] at (-8,0.5) {16};
-\node [anchor=225, red] at (-7,0.5) {14};
-\node [anchor=225, red] at (-6,0.5) {12};
-\node [anchor=225, red] at (-5,0.5) {10};
-\node [anchor=225, red] at (-4,0.5) {8};
-\node [anchor=225, red] at (-3,0.5) {6};
-\node [anchor=225, red] at (-2,0.5) {4};
-\node [anchor=225, red] at (-1,0.5) {2};
-\node [anchor=225, red] at (0,0.5) {0};
-\node [anchor=225, red] at (1,0.5) {-2};
-\node [anchor=225, red] at (2,0.5) {-4};
-\node [anchor=225, red] at (3,0.5) {-6};
-\node [anchor=225, red] at (4,0.5) {-8};
-\node [anchor=225, red] at (5,0.5) {-10};
-\node [anchor=225, red] at (6,0.5) {-12};
-\node [anchor=225, red] at (7,0.5) {-14};
-\node [anchor=225, red] at (8,0.5) {-16};
-
-\node [anchor=225, red] at (-8,1) {8};
-\node [anchor=225, red] at (-7,1) {7};
-\node [anchor=225, red] at (-6,1) {6};
-\node [anchor=225, red] at (-5,1) {5};
-\node [anchor=225, red] at (-4,1) {4};
-\node [anchor=225, red] at (-3,1) {3};
-\node [anchor=225, red] at (-2,1) {2};
-\node [anchor=225, red] at (-1,1) {1};
-\node [anchor=225, red] at (0,1) {0};
-\node [anchor=225, red] at (1,1) {-1};
-\node [anchor=225, red] at (2,1) {-2};
-\node [anchor=225, red] at (3,1) {-3};
-\node [anchor=225, red] at (4,1) {-4};
-\node [anchor=225, red] at (5,1) {-5};
-\node [anchor=225, red] at (6,1) {-6};
-\node [anchor=225, red] at (7,1) {-7};
-\node [anchor=225, red] at (8,1) {-8};
-
-\node [anchor=225, red] at (-8,2) {4};
-\node [anchor=225, red] at (-6,2) {3};
-\node [anchor=225, red] at (-4,2) {2};
-\node [anchor=225, red] at (-2,2) {1};
-\node [anchor=225, red] at (0,2) {0};
-\node [anchor=225, red] at (2,2) {-1};
-\node [anchor=225, red] at (4,2) {-2};
-\node [anchor=225, red] at (6,2) {-3};
-\node [anchor=225, red] at (8,2) {-4};
-
-\node [anchor=225, red] at (-8,4) {2};
-\node [anchor=225, red] at (-4,4) {1};
-\node [anchor=225, red] at (0,4) {0};
-\node [anchor=225, red] at (4,4) {-1};
-\node [anchor=225, red] at (8,4) {-2};
-
-\node [anchor=225, red] at (-8,8) {1};
-\node [anchor=225, red] at (0,8) {0};
-\node [anchor=225, red] at (8,8) {-1};
-
-\end{tikzpicture}
-\caption{网格例一，$\lambda=\ln2$ 和 $\mu=1$}\label{fig:gridex1}
-\end{figure}
 
 \subsubsection{网格例二}
 
