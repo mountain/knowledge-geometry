@@ -10,6 +10,7 @@
 \usepackage{caption}
 \usepackage{xcolor}
 \usepackage[stable]{footmisc}
+\usepackage{multicol}
 
 \usepackage{amsthm}
 \usepackage{amssymb}
@@ -346,9 +347,12 @@ $$
 
 它和离散网格的协调一致性同样可以验证。
 
-\subsection{问题：保方程的变换}
-
 保持流方程不变的充分必要条件仍然还不清晰，可以继续探讨。
+
+\subsection{最初的问题}
+
+我们在上面几节里已经得到了一个离散网格上的赋值，还得到了一个无穷小的赋值构造，
+它们能否容洽导致一个填充满整个庞加莱圆盘的合理赋值呢？这就是我们最初的问题。
 
 \newpage
 
@@ -357,9 +361,8 @@ $$
 在本节，我们给出一个形式非常简单的算术表达式几何空间的例子，并着重解释它的赋值和网格，给出表达式如何体现为几何上路径的说明，
 并导出典范形式。在本节结束时，我们将会得到
 \begin{itemize}
-    \item 几何上，例子是一个流形
-    \item 算术上，流形上的点都对应算术表达式的某种典范形态
-    \item 任何可线索化的算术表达式，都对应到流形上的一条路径
+    \item 几何上，例子是一个流形，流形上的点都对应算术表达式的某种典范形态
+    \item 算术上，任何可线索化的算术表达式，都对应到流形上的一条路径
 \end{itemize}
 
 \subsection{流形的设定}
@@ -383,7 +386,121 @@ ds^2 = \frac{1}{y^2}(dx^2 + \frac{dy^2}{\ln^2 2})
 
 \subsection{赋值和网格}
 
-让我们考虑如下的一个标量场 $A$，我们称之为一个赋值。
+\begin{figure}[ht]
+\centering
+\resizebox{0.9\textwidth}{!}{
+\begin{tikzpicture}
+\draw [black, line width=0.6pt, ->] (0,0) to[out=90,in=270] (0,8.25);
+\node [anchor=south] at (0,8.5) {y};
+\draw [black, line width=0.6pt, ->] (-8.2,0) to[out=0,in=180] (8.25,0);
+\node [anchor=west] at (8.5,0) {x};
+\foreach \x in {-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7,8}
+  \node [anchor=north] at (\x,0) {\x};
+\foreach \y in {1,2,3,4,5,6,7,8}
+  \node [anchor=45] at (0,\y) {\y};
+
+\draw [blue, line width=0.6pt] (-8.25,0.5) to[out=0,in=180] (8.25,0.5);
+\draw [blue, line width=0.6pt] (-8.25,1) to[out=0,in=180] (8.25,1);
+\draw [blue, line width=0.6pt] (-8.25,2) to[out=0,in=180] (8.25,2);
+\draw [blue, line width=0.6pt] (-8.25,4) to[out=0,in=180] (8.25,4);
+\draw [blue, line width=0.6pt] (-8.25,8) to[out=0,in=180] (8.25,8);
+
+\draw [green, line width=0.6pt] (-8,0) to[out=90,in=270] (-8,1);
+\draw [green, line width=0.6pt] (-7,0) to[out=90,in=270] (-7,1);
+\draw [green, line width=0.6pt] (-6,0) to[out=90,in=270] (-6,1);
+\draw [green, line width=0.6pt] (-5,0) to[out=90,in=270] (-5,1);
+\draw [green, line width=0.6pt] (-4,0) to[out=90,in=270] (-4,1);
+\draw [green, line width=0.6pt] (-3,0) to[out=90,in=270] (-3,1);
+\draw [green, line width=0.6pt] (-2,0) to[out=90,in=270] (-2,1);
+\draw [green, line width=0.6pt] (-1,0) to[out=90,in=270] (-1,1);
+\draw [green, line width=0.6pt] (1,0) to[out=90,in=270] (1,1);
+\draw [green, line width=0.6pt] (2,0) to[out=90,in=270] (2,1);
+\draw [green, line width=0.6pt] (3,0) to[out=90,in=270] (3,1);
+\draw [green, line width=0.6pt] (4,0) to[out=90,in=270] (4,1);
+\draw [green, line width=0.6pt] (5,0) to[out=90,in=270] (5,1);
+\draw [green, line width=0.6pt] (6,0) to[out=90,in=270] (6,1);
+\draw [green, line width=0.6pt] (7,0) to[out=90,in=270] (7,1);
+\draw [green, line width=0.6pt] (8,0) to[out=90,in=270] (8,1);
+
+\draw [green, line width=0.6pt] (-8,1) to[out=90,in=270] (-8,2);
+\draw [green, line width=0.6pt] (-6,1) to[out=90,in=270] (-6,2);
+\draw [green, line width=0.6pt] (-4,1) to[out=90,in=270] (-4,2);
+\draw [green, line width=0.6pt] (-2,1) to[out=90,in=270] (-2,2);
+\draw [green, line width=0.6pt] (2,1) to[out=90,in=270] (2,2);
+\draw [green, line width=0.6pt] (4,1) to[out=90,in=270] (4,2);
+\draw [green, line width=0.6pt] (6,1) to[out=90,in=270] (6,2);
+\draw [green, line width=0.6pt] (8,1) to[out=90,in=270] (8,2);
+
+\draw [green, line width=0.6pt] (-8,2) to[out=90,in=270] (-8,4);
+\draw [green, line width=0.6pt] (-4,2) to[out=90,in=270] (-4,4);
+\draw [green, line width=0.6pt] (4,2) to[out=90,in=270] (4,4);
+\draw [green, line width=0.6pt] (8,2) to[out=90,in=270] (8,4);
+
+\draw [green, line width=0.6pt] (-8,4) to[out=90,in=270] (-8,8);
+\draw [green, line width=0.6pt] (8,4) to[out=90,in=270] (8,8);
+
+\node [anchor=225, red] at (-8,0.5) {16};
+\node [anchor=225, red] at (-7,0.5) {14};
+\node [anchor=225, red] at (-6,0.5) {12};
+\node [anchor=225, red] at (-5,0.5) {10};
+\node [anchor=225, red] at (-4,0.5) {8};
+\node [anchor=225, red] at (-3,0.5) {6};
+\node [anchor=225, red] at (-2,0.5) {4};
+\node [anchor=225, red] at (-1,0.5) {2};
+\node [anchor=225, red] at (0,0.5) {0};
+\node [anchor=225, red] at (1,0.5) {-2};
+\node [anchor=225, red] at (2,0.5) {-4};
+\node [anchor=225, red] at (3,0.5) {-6};
+\node [anchor=225, red] at (4,0.5) {-8};
+\node [anchor=225, red] at (5,0.5) {-10};
+\node [anchor=225, red] at (6,0.5) {-12};
+\node [anchor=225, red] at (7,0.5) {-14};
+\node [anchor=225, red] at (8,0.5) {-16};
+
+\node [anchor=225, red] at (-8,1) {8};
+\node [anchor=225, red] at (-7,1) {7};
+\node [anchor=225, red] at (-6,1) {6};
+\node [anchor=225, red] at (-5,1) {5};
+\node [anchor=225, red] at (-4,1) {4};
+\node [anchor=225, red] at (-3,1) {3};
+\node [anchor=225, red] at (-2,1) {2};
+\node [anchor=225, red] at (-1,1) {1};
+\node [anchor=225, red] at (0,1) {0};
+\node [anchor=225, red] at (1,1) {-1};
+\node [anchor=225, red] at (2,1) {-2};
+\node [anchor=225, red] at (3,1) {-3};
+\node [anchor=225, red] at (4,1) {-4};
+\node [anchor=225, red] at (5,1) {-5};
+\node [anchor=225, red] at (6,1) {-6};
+\node [anchor=225, red] at (7,1) {-7};
+\node [anchor=225, red] at (8,1) {-8};
+
+\node [anchor=225, red] at (-8,2) {4};
+\node [anchor=225, red] at (-6,2) {3};
+\node [anchor=225, red] at (-4,2) {2};
+\node [anchor=225, red] at (-2,2) {1};
+\node [anchor=225, red] at (0,2) {0};
+\node [anchor=225, red] at (2,2) {-1};
+\node [anchor=225, red] at (4,2) {-2};
+\node [anchor=225, red] at (6,2) {-3};
+\node [anchor=225, red] at (8,2) {-4};
+
+\node [anchor=225, red] at (-8,4) {2};
+\node [anchor=225, red] at (-4,4) {1};
+\node [anchor=225, red] at (0,4) {0};
+\node [anchor=225, red] at (4,4) {-1};
+\node [anchor=225, red] at (8,4) {-2};
+
+\node [anchor=225, red] at (-8,8) {1};
+\node [anchor=225, red] at (0,8) {0};
+\node [anchor=225, red] at (8,8) {-1};
+
+\end{tikzpicture}
+}
+\caption{加乘网格，$\lambda=\ln2$ 和 $\mu=1$}\label{fig:gridex0}
+\end{figure}
+
+让我们考虑 $\mathcal{H}$ 上面如下的一个标量场 $A$，我们称之为一个赋值。
 
 \begin{equation}
    A  = - \frac{x}{y}
@@ -391,138 +508,47 @@ ds^2 = \frac{1}{y^2}(dx^2 + \frac{dy^2}{\ln^2 2})
 
 从这个赋值和度规，我们可以导出一个如图 \ref{fig:gridex0} 的加乘网格。
 
-\begin{figure}[ht]
-\centering
-\begin{tikzpicture}
-\draw [black, line width=0.6pt, ->] (0,0) to[out=90,in=270] (0,8.25);
-\node [anchor=south] at (0,8.5) {y};
-\draw [black, line width=0.6pt, ->] (-8.2,0) to[out=0,in=180] (8.25,0);
-\node [anchor=west] at (8.5,0) {x};
-\foreach \x in {-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7,8}
-  \node [anchor=north] at (\x,0) {\x};
-\foreach \y in {1,2,3,4,5,6,7,8}
-  \node [anchor=45] at (0,\y) {\y};
-
-\draw [blue, line width=0.6pt] (-8.25,0.5) to[out=0,in=180] (8.25,0.5);
-\draw [blue, line width=0.6pt] (-8.25,1) to[out=0,in=180] (8.25,1);
-\draw [blue, line width=0.6pt] (-8.25,2) to[out=0,in=180] (8.25,2);
-\draw [blue, line width=0.6pt] (-8.25,4) to[out=0,in=180] (8.25,4);
-\draw [blue, line width=0.6pt] (-8.25,8) to[out=0,in=180] (8.25,8);
-
-\draw [green, line width=0.6pt] (-8,0) to[out=90,in=270] (-8,1);
-\draw [green, line width=0.6pt] (-7,0) to[out=90,in=270] (-7,1);
-\draw [green, line width=0.6pt] (-6,0) to[out=90,in=270] (-6,1);
-\draw [green, line width=0.6pt] (-5,0) to[out=90,in=270] (-5,1);
-\draw [green, line width=0.6pt] (-4,0) to[out=90,in=270] (-4,1);
-\draw [green, line width=0.6pt] (-3,0) to[out=90,in=270] (-3,1);
-\draw [green, line width=0.6pt] (-2,0) to[out=90,in=270] (-2,1);
-\draw [green, line width=0.6pt] (-1,0) to[out=90,in=270] (-1,1);
-\draw [green, line width=0.6pt] (1,0) to[out=90,in=270] (1,1);
-\draw [green, line width=0.6pt] (2,0) to[out=90,in=270] (2,1);
-\draw [green, line width=0.6pt] (3,0) to[out=90,in=270] (3,1);
-\draw [green, line width=0.6pt] (4,0) to[out=90,in=270] (4,1);
-\draw [green, line width=0.6pt] (5,0) to[out=90,in=270] (5,1);
-\draw [green, line width=0.6pt] (6,0) to[out=90,in=270] (6,1);
-\draw [green, line width=0.6pt] (7,0) to[out=90,in=270] (7,1);
-\draw [green, line width=0.6pt] (8,0) to[out=90,in=270] (8,1);
-
-\draw [green, line width=0.6pt] (-8,1) to[out=90,in=270] (-8,2);
-\draw [green, line width=0.6pt] (-6,1) to[out=90,in=270] (-6,2);
-\draw [green, line width=0.6pt] (-4,1) to[out=90,in=270] (-4,2);
-\draw [green, line width=0.6pt] (-2,1) to[out=90,in=270] (-2,2);
-\draw [green, line width=0.6pt] (2,1) to[out=90,in=270] (2,2);
-\draw [green, line width=0.6pt] (4,1) to[out=90,in=270] (4,2);
-\draw [green, line width=0.6pt] (6,1) to[out=90,in=270] (6,2);
-\draw [green, line width=0.6pt] (8,1) to[out=90,in=270] (8,2);
-
-\draw [green, line width=0.6pt] (-8,2) to[out=90,in=270] (-8,4);
-\draw [green, line width=0.6pt] (-4,2) to[out=90,in=270] (-4,4);
-\draw [green, line width=0.6pt] (4,2) to[out=90,in=270] (4,4);
-\draw [green, line width=0.6pt] (8,2) to[out=90,in=270] (8,4);
-
-\draw [green, line width=0.6pt] (-8,4) to[out=90,in=270] (-8,8);
-\draw [green, line width=0.6pt] (8,4) to[out=90,in=270] (8,8);
-
-\node [anchor=225, red] at (-8,0.5) {16};
-\node [anchor=225, red] at (-7,0.5) {14};
-\node [anchor=225, red] at (-6,0.5) {12};
-\node [anchor=225, red] at (-5,0.5) {10};
-\node [anchor=225, red] at (-4,0.5) {8};
-\node [anchor=225, red] at (-3,0.5) {6};
-\node [anchor=225, red] at (-2,0.5) {4};
-\node [anchor=225, red] at (-1,0.5) {2};
-\node [anchor=225, red] at (0,0.5) {0};
-\node [anchor=225, red] at (1,0.5) {-2};
-\node [anchor=225, red] at (2,0.5) {-4};
-\node [anchor=225, red] at (3,0.5) {-6};
-\node [anchor=225, red] at (4,0.5) {-8};
-\node [anchor=225, red] at (5,0.5) {-10};
-\node [anchor=225, red] at (6,0.5) {-12};
-\node [anchor=225, red] at (7,0.5) {-14};
-\node [anchor=225, red] at (8,0.5) {-16};
-
-\node [anchor=225, red] at (-8,1) {8};
-\node [anchor=225, red] at (-7,1) {7};
-\node [anchor=225, red] at (-6,1) {6};
-\node [anchor=225, red] at (-5,1) {5};
-\node [anchor=225, red] at (-4,1) {4};
-\node [anchor=225, red] at (-3,1) {3};
-\node [anchor=225, red] at (-2,1) {2};
-\node [anchor=225, red] at (-1,1) {1};
-\node [anchor=225, red] at (0,1) {0};
-\node [anchor=225, red] at (1,1) {-1};
-\node [anchor=225, red] at (2,1) {-2};
-\node [anchor=225, red] at (3,1) {-3};
-\node [anchor=225, red] at (4,1) {-4};
-\node [anchor=225, red] at (5,1) {-5};
-\node [anchor=225, red] at (6,1) {-6};
-\node [anchor=225, red] at (7,1) {-7};
-\node [anchor=225, red] at (8,1) {-8};
-
-\node [anchor=225, red] at (-8,2) {4};
-\node [anchor=225, red] at (-6,2) {3};
-\node [anchor=225, red] at (-4,2) {2};
-\node [anchor=225, red] at (-2,2) {1};
-\node [anchor=225, red] at (0,2) {0};
-\node [anchor=225, red] at (2,2) {-1};
-\node [anchor=225, red] at (4,2) {-2};
-\node [anchor=225, red] at (6,2) {-3};
-\node [anchor=225, red] at (8,2) {-4};
-
-\node [anchor=225, red] at (-8,4) {2};
-\node [anchor=225, red] at (-4,4) {1};
-\node [anchor=225, red] at (0,4) {0};
-\node [anchor=225, red] at (4,4) {-1};
-\node [anchor=225, red] at (8,4) {-2};
-
-\node [anchor=225, red] at (-8,8) {1};
-\node [anchor=225, red] at (0,8) {0};
-\node [anchor=225, red] at (8,8) {-1};
-
-\end{tikzpicture}
-\caption{加乘网格，$\lambda=\ln2$ 和 $\mu=1$}\label{fig:gridex0}
-\end{figure}
-
 在这个加乘网格里，蓝线代表赋值上的 $+ 1$ 关系，绿线代表赋值上的 $\times 2$ 关系，它们是彼此垂直的线族。
-蓝线之间是等间隔为长度 1 的。网格里的红色数值是赋值的大小。还容易看到，这个赋值有半圆形的梯度场，而它的等值线是从原点出发的射线。
+蓝线之间是等间隔为长度 1 的。网格里的红色数值是赋值的大小。
+
+\subsection{可线索化表达式}
+
+下面我们在这个加乘网格上通过几何的方式表示一类特殊的、可以线索化的算术表达式。
+首先我们说明，可以线索化的算术表达式是指，其所有右枝的深度都为一的表达式，它可以组织成为一个线索，按照线索顺序来估值。
+
+例如，给定一个表达式，
+
+$$
+(1 \times 2 \times 2 - 1) \times (2 + 1) - 6
+$$
+
+它的表达式解析树如下，
+
+\Tree [.$\ominus$ [.$\odot$ [.$\ominus$ [.$\odot$ [.$\odot$ 1 2 ] 2 ] 1 ] [.$\oplus$ 2 1 ] ] 6 ]
+
+因为项 $(2 + 1)$ 的存在，使得表达式树有一个右枝深度为二，所以它不是可线索化的算术表达式。
+
+再给定一个表达式，
+
+$$
+(1 \times 2 \times 2 - 1) \times 2 - 3
+$$
+
+它的表达式解析树如下，
+
+\Tree [.$\ominus$ [.$\odot$ [.$\ominus$ [.$\odot$ [.$\odot$ 1 2 ] 2 ] 1 ] 2 ] 3 ]
+
+表达式树所有右枝深度都为一，所以上式是可线索化的算术表达式。
 
 \subsection{表达式与路径}
 
-下面我们在这个加乘网格上通过几何的方式表示一类特殊的、可以线索化的算术表达式。
-首先，我们说明可以线索化的算术表达式是指其表达式树的左枝深度为一的表达式，它可以组织成一个线索，按照顺序来估值。
-
-例如，下式因为项 $(2 + 1)$ 的存在，使得表达式树有一个左枝深度为二，所以它不是可线索化的算术表达式。
-$$
-(1 * 2 * 2 - 1) * (2 + 1) - 6
-$$
-
-利用分配律和项的合并，稍微变形一下，就可以得到和上式等值的可线索化的算术表达式。
+注意到蓝线代表赋值上的 $+ 1$ 关系，绿线代表赋值上的 $\times 2$ 关系，它们编码了加乘运算，于是对表达式
 
 $$
-(1 * 2 * 2 - 1) * 2 + 3 - 6
+(1 \times 2 \times 2 - 1) \times 2 - 3
 $$
 
-注意到蓝线代表赋值上的 $+ 1$ 关系，绿线代表赋值上的 $\times 2$ 关系，我们就能得到如下图的路径
+我们就能得到如下图的一条路径
 
 \begin{figure}[ht]
 \centering
@@ -632,36 +658,168 @@ $$
 \node [anchor=225, red] at (0,8) {0};
 \node [anchor=225, red] at (8,8) {-1};
 
+\node[circle,fill=black,inner sep=1pt,minimum size=3pt] (a) at (-8,8) {};
+\node[circle,fill=black,inner sep=1pt,minimum size=3pt] (b) at (-3,1) {};
 \draw [black, line width=1.2pt] (-8,7.7) to[out=90,in=270] (-8,2.3);
 \draw [black, line width=1.2pt] (-8,2) to[out=0,in=180] (-6,2);
-
+\draw [black, line width=1.2pt] (-6,1.95) to[out=90,in=270] (-6,1.05);
+\draw [black, line width=1.2pt] (-6,1) to[out=0,in=180] (-3,1);
 \end{tikzpicture}
-\caption{加乘网格上的一条路径（浓黑色），$\lambda=\ln2$ 和 $\mu=1$}\label{fig:pathex0}
+\caption{加乘网格上的一条路径（黑色粗线）}\label{fig:pathex0}
 \end{figure}
 
-
 \subsection{典范形态}
+
+首先我们讨论连接两个点之间的典范形式。如图 \ref{fig:pathex1} 我们有如下几个路径和对应的表达式
+\begin{itemize}
+    \item 黑色路径：$1 \times 8 - 5 = 3$
+    \item 紫色路径：$(1 - \frac{5}{8}) \times 8 = 3$
+    \item 棕色路径：$(((1 - \frac{1}{8}) \times 2 - \frac{1}{2}) \times 2 - 1) \times 2 = 3$
+    \item 桔色路径：代表无限多个加乘式的累积，可以理解成一种特殊的积分形态的例子
+\end{itemize}
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+\draw [black, line width=0.6pt, ->] (0,0) to[out=90,in=270] (0,8.25);
+\node [anchor=south] at (0,8.5) {y};
+\draw [black, line width=0.6pt, ->] (-8.2,0) to[out=0,in=180] (8.25,0);
+\node [anchor=west] at (8.5,0) {x};
+\foreach \x in {-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7,8}
+  \node [anchor=north] at (\x,0) {\x};
+\foreach \y in {1,2,3,4,5,6,7,8}
+  \node [anchor=45] at (0,\y) {\y};
+
+\draw [blue, line width=0.6pt] (-8.25,0.5) to[out=0,in=180] (8.25,0.5);
+\draw [blue, line width=0.6pt] (-8.25,1) to[out=0,in=180] (8.25,1);
+\draw [blue, line width=0.6pt] (-8.25,2) to[out=0,in=180] (8.25,2);
+\draw [blue, line width=0.6pt] (-8.25,4) to[out=0,in=180] (8.25,4);
+\draw [blue, line width=0.6pt] (-8.25,8) to[out=0,in=180] (8.25,8);
+
+\draw [green, line width=0.6pt] (-8,0) to[out=90,in=270] (-8,1);
+\draw [green, line width=0.6pt] (-7,0) to[out=90,in=270] (-7,1);
+\draw [green, line width=0.6pt] (-6,0) to[out=90,in=270] (-6,1);
+\draw [green, line width=0.6pt] (-5,0) to[out=90,in=270] (-5,1);
+\draw [green, line width=0.6pt] (-4,0) to[out=90,in=270] (-4,1);
+\draw [green, line width=0.6pt] (-3,0) to[out=90,in=270] (-3,1);
+\draw [green, line width=0.6pt] (-2,0) to[out=90,in=270] (-2,1);
+\draw [green, line width=0.6pt] (-1,0) to[out=90,in=270] (-1,1);
+\draw [green, line width=0.6pt] (1,0) to[out=90,in=270] (1,1);
+\draw [green, line width=0.6pt] (2,0) to[out=90,in=270] (2,1);
+\draw [green, line width=0.6pt] (3,0) to[out=90,in=270] (3,1);
+\draw [green, line width=0.6pt] (4,0) to[out=90,in=270] (4,1);
+\draw [green, line width=0.6pt] (5,0) to[out=90,in=270] (5,1);
+\draw [green, line width=0.6pt] (6,0) to[out=90,in=270] (6,1);
+\draw [green, line width=0.6pt] (7,0) to[out=90,in=270] (7,1);
+\draw [green, line width=0.6pt] (8,0) to[out=90,in=270] (8,1);
+
+\draw [green, line width=0.6pt] (-8,1) to[out=90,in=270] (-8,2);
+\draw [green, line width=0.6pt] (-6,1) to[out=90,in=270] (-6,2);
+\draw [green, line width=0.6pt] (-4,1) to[out=90,in=270] (-4,2);
+\draw [green, line width=0.6pt] (-2,1) to[out=90,in=270] (-2,2);
+\draw [green, line width=0.6pt] (2,1) to[out=90,in=270] (2,2);
+\draw [green, line width=0.6pt] (4,1) to[out=90,in=270] (4,2);
+\draw [green, line width=0.6pt] (6,1) to[out=90,in=270] (6,2);
+\draw [green, line width=0.6pt] (8,1) to[out=90,in=270] (8,2);
+
+\draw [green, line width=0.6pt] (-8,2) to[out=90,in=270] (-8,4);
+\draw [green, line width=0.6pt] (-4,2) to[out=90,in=270] (-4,4);
+\draw [green, line width=0.6pt] (4,2) to[out=90,in=270] (4,4);
+\draw [green, line width=0.6pt] (8,2) to[out=90,in=270] (8,4);
+
+\draw [green, line width=0.6pt] (-8,4) to[out=90,in=270] (-8,8);
+\draw [green, line width=0.6pt] (8,4) to[out=90,in=270] (8,8);
+
+\node [anchor=225, red] at (-8,0.5) {16};
+\node [anchor=225, red] at (-7,0.5) {14};
+\node [anchor=225, red] at (-6,0.5) {12};
+\node [anchor=225, red] at (-5,0.5) {10};
+\node [anchor=225, red] at (-4,0.5) {8};
+\node [anchor=225, red] at (-3,0.5) {6};
+\node [anchor=225, red] at (-2,0.5) {4};
+\node [anchor=225, red] at (-1,0.5) {2};
+\node [anchor=225, red] at (0,0.5) {0};
+\node [anchor=225, red] at (1,0.5) {-2};
+\node [anchor=225, red] at (2,0.5) {-4};
+\node [anchor=225, red] at (3,0.5) {-6};
+\node [anchor=225, red] at (4,0.5) {-8};
+\node [anchor=225, red] at (5,0.5) {-10};
+\node [anchor=225, red] at (6,0.5) {-12};
+\node [anchor=225, red] at (7,0.5) {-14};
+\node [anchor=225, red] at (8,0.5) {-16};
+
+\node [anchor=225, red] at (-8,1) {8};
+\node [anchor=225, red] at (-7,1) {7};
+\node [anchor=225, red] at (-6,1) {6};
+\node [anchor=225, red] at (-5,1) {5};
+\node [anchor=225, red] at (-4,1) {4};
+\node [anchor=225, red] at (-3,1) {3};
+\node [anchor=225, red] at (-2,1) {2};
+\node [anchor=225, red] at (-1,1) {1};
+\node [anchor=225, red] at (0,1) {0};
+\node [anchor=225, red] at (1,1) {-1};
+\node [anchor=225, red] at (2,1) {-2};
+\node [anchor=225, red] at (3,1) {-3};
+\node [anchor=225, red] at (4,1) {-4};
+\node [anchor=225, red] at (5,1) {-5};
+\node [anchor=225, red] at (6,1) {-6};
+\node [anchor=225, red] at (7,1) {-7};
+\node [anchor=225, red] at (8,1) {-8};
+
+\node [anchor=225, red] at (-8,2) {4};
+\node [anchor=225, red] at (-6,2) {3};
+\node [anchor=225, red] at (-4,2) {2};
+\node [anchor=225, red] at (-2,2) {1};
+\node [anchor=225, red] at (0,2) {0};
+\node [anchor=225, red] at (2,2) {-1};
+\node [anchor=225, red] at (4,2) {-2};
+\node [anchor=225, red] at (6,2) {-3};
+\node [anchor=225, red] at (8,2) {-4};
+
+\node [anchor=225, red] at (-8,4) {2};
+\node [anchor=225, red] at (-4,4) {1};
+\node [anchor=225, red] at (0,4) {0};
+\node [anchor=225, red] at (4,4) {-1};
+\node [anchor=225, red] at (8,4) {-2};
+
+\node [anchor=225, red] at (-8,8) {1};
+\node [anchor=225, red] at (0,8) {0};
+\node [anchor=225, red] at (8,8) {-1};
+
+\node[circle,fill=black,inner sep=1pt,minimum size=3pt] (a) at (-8,8) {};
+\node[circle,fill=black,inner sep=1pt,minimum size=3pt] (b) at (-3,1) {};
+
+\draw [black, line width=1.2pt] (-8,7.7) to[out=90,in=270] (-8,1.33);
+\draw [black, line width=1.2pt] (-8,1) to[out=0,in=180] (-3,1);
+
+\draw [purple, line width=1.2pt] (-8,8) to[out=0,in=180] (-3,8);
+\draw [purple, line width=1.2pt] (-3,7.67) to[out=90,in=270] (-3,1.33);
+
+\draw [brown, line width=1.2pt] (-8,8) to[out=0,in=180] (-7,8);
+\draw [brown, line width=1.2pt] (-7,7.8) to[out=90,in=270] (-7,4.2);
+\draw [brown, line width=1.2pt] (-7,4) to[out=0,in=180] (-5,4);
+\draw [brown, line width=1.2pt] (-5,3.9) to[out=90,in=270] (-5,2.1);
+\draw [brown, line width=1.2pt] (-5,2) to[out=0,in=180] (-3,2);
+\draw [brown, line width=1.2pt] (-3,2) to[out=90,in=270] (-3,1);
+
+\draw [orange, line width=1.2pt] (-8,8) to[out=45,in=105] (-3,1);
+
+\end{tikzpicture}
+\caption{连接两点的多条路径}\label{fig:pathex1}
+\end{figure}
+
+很容易理解，在乘法分配律和一些项的合并与拆散后，上述几个表达式可以互相转化。
+我们可以规定黑色和紫色的路径是一对对偶的典范路径，那么所有连接如上图的赋值 $1$ 和 $3$ 之间的路径，
+它们对应的表达式，都可以转换到这对典范路径的表达式上。我们称如上的典范的路径和表达式为典范形式。
+
+有了连接两点的典范表达式和典范路径，那么再任意给定一个空间里的原点$O$，对空间里的任一点$P$，
+连接$O$、$P$的典范形式就给出了相对于$O$点的全空间的典范形式。
 
 \newpage
 
 \section{更多的简单实例}
 
-本节我们讨论四个例子，这些例子都可以理解成算术表达式的某种几何表达。
-
-\begin{itemize}
-    \item 在几何上，这些例子表现为流形
-    \item 在算术上，流形的点都对应算术表达式的某种典范形态
-    \item 任何算术表达式线索化后都对应到流形上的一条路径
-\end{itemize}
-
-任何算术表达式都可以写成一个二叉表达式树，叶节点是数，其他节点是运算符。
-给定了一个算术表达式，它的求值顺序可以有多种选择。所谓算术表达式线索化，就是按照某一种线索化的求值顺序去恰当重新组织表达式，
-并按标准的先序遍历顺序来估值表达式。我们在后面的章节会给出算术表达式的严格定义以及算术表达式线索化的严格定义。
-
-对这四个例子，因为第二个例子形式比较简单，我们会着重解释它的赋值、表达式如何体现为几何上的路径以及典范形式。
-
-但仍然需要声明，本节的陈述还是不严密的，“流形的点对应到算术表达式的典范形态”的这个命题仍然需要进一步的严密化。
-对第一节实数轴来说，针对实数的严密化手段早已经被戴德金等人发展出来，我们还需要进一步把以往的工作改造成表达式的情形。
+本着和上节同样的精神，我们给出更多的例子，这些例子都可以理解成算术表达式的某种几何表达。
 
 \subsection{实数轴的例子}
 
@@ -675,11 +833,7 @@ $$
 \sum_{i} k_i b^{l_i}, k_i < b, k_i \in N, l_i \in N
 $$
 
-（工作中）$Q$ 作为数可以完备化得到实数全体 $(-\infty, +\infty)$，而类似的完备化过程也可以应用到算术表达式的几何空间上。
-我们可以研究典范算术表达式的序列，如果这些序列在几何上对应的点列是收敛的，这个前提条件能够蕴含这些算术表达式的值的序列也是收敛的。
-我们就称这个典范算术表达式的几何空间是完备的。
-
-\subsection{上半平面模型下的例子\footnote{本例子的解析解由张乐给出，几何和典范形式的解释由笔者给出。}}
+\subsection{上半平面模型下的第一个例子\footnote{本例子的解析解由张乐给出，几何和典范形式的解释由笔者给出。}}
 
 考虑上半平面
 \[
@@ -879,12 +1033,13 @@ $$
 
 不难得到如下的坐标变换公式：
 
-$$
+\begin{equation}
 \begin{cases}
 x = u\\
 y = e^v \\
 \end{cases}
-$$
+\label{eq:transform}
+\end{equation}
 
 因此有
 
@@ -924,9 +1079,23 @@ $$
 \Delta A = e^{2v} \frac{\partial^2(u e^v)}{{\partial u}^2} + \frac{\partial^2(u e^v)}{{\partial v}^2} - \frac{\partial(u e^v)}{\partial v} = 0
 $$
 
-\subsection{几个问题}
+\subsection{上半平面模型下的第二个例子}
 
-\subsubsection{例子和方程解的融洽}
+\subsubsection{赋值例五}\label{subsec:exmp5}
+
+注意到赋值例四，还可以通过变换式\ref{eq:transform}变换回上半平面模型，我们就得到了上半平面模型的第二个例子。
+
+\begin{equation}
+A = xy
+\end{equation}
+
+此时 $A$ 在边界上趋于 $0$ 值，同时有 $\Delta A = 0$。
+
+\subsection{小结与问题}
+
+\subsubsection{例子的总结}
+
+\subsubsection{一些问题}
 
 以上四个例子都是给定的全局坐标系，而流方程的形式解是在局部坐标系下给出的，两者是否融洽，是一个可以考察的问题。
 这里面可能不只是涉及坐标变换，也可能还有几何上的黏合与复叠。
@@ -935,7 +1104,7 @@ $$
 
 \section{任意生成元的例子}
 
-本节我们将会给出赋值的第五个例子。在这个例子里，我们会看到赋值和生成元的具体取值无关；同时，我们在同一个底图上采用了不同的生成元，
+本节我们将会给出赋值的第六个例子。在这个例子里，我们会看到赋值和生成元的具体取值无关；同时，我们在同一个底图上采用了不同的生成元，
 都能够画出来一些很匀称的网格。我们将研究这些网格的几何含义，并在赋值和网格的基础上，导出第五个例子中的算术表达式的典范形态。
 
 考虑上半平面
@@ -955,7 +1124,7 @@ $$
 ds^2 = \frac{1}{y^2}(\frac{dx^2}{\mu^2} + \frac{dy^2}{\lambda^2})
 \]
 
-\subsection{赋值例五}\label{subsec:exmp5}
+\subsection{赋值例六}\label{subsec:exmp6}
 
 给定一个赋值函数
 
@@ -1021,7 +1190,6 @@ $$
     \item 基础的加线: $y = 1$
     \item 基础的乘线: $x = 0$，整条线是一条零线
 \end{itemize}
-
 
 \subsubsection{网格例二}
 
@@ -1238,8 +1406,8 @@ $$\gamma = \alpha \circ \beta$$
 \resizebox{0.9\textwidth}{!}{
 \Tree
 [.0
-    [.$\odot$   [.$\odot$ ] [.$\oplus$ ] [.$\ominus$ ] [.$\otimes$ ] [.$\oslash$ ] ]
-    [.$\oplus$  [.$\odot$ ] [.$\oplus$ ] [.$\ominus$ ] [.$\otimes$ ] [.$\oslash$ ] ]
+    [.$\odot$ [.$\odot$ ] [.$\oplus$ ] [.$\ominus$ ] [.$\otimes$ ] [.$\oslash$ ] ]
+    [.$\oplus$ [.$\odot$ ] [.$\oplus$ ] [.$\ominus$ ] [.$\otimes$ ] [.$\oslash$ ] ]
     [.$\ominus$ [.$\odot$ ] [.$\oplus$ ] [.$\ominus$ ] [.$\otimes$ ] [.$\oslash$ ] ]
     [.$\otimes$ [.$\odot$ ] [.$\oplus$ ] [.$\ominus$ ] [.$\otimes$ ] [.$\oslash$ ] ]
     [.$\oslash$ [.$\odot$ ] [.$\oplus$ ] [.$\ominus$ ] [.$\otimes$ ] [.$\oslash$ ] ]
@@ -1666,9 +1834,6 @@ $$
 \caption{从零线开始火烧}\label{fig:merged2}
 \end{figure}
 
-
-
-
 \subsection{几个问题}
 
 在一种典范形式的几何上，能否表示所有的表达式？在一种典范形式的几何上，其他典范形式体现为什么？
@@ -1692,48 +1857,19 @@ $$
 
 \newpage
 
-\section{变换与管型构造}
-\newpage
+\section{四阶无限边形镶嵌}
 
-\section{赋值与流形}
+\section{最初问题的解答}
 
-\subsection{给定赋值的情形}
+\section{管型构造}
 
-\subsection{给定流形的情形}
+\section{更完整的解答}
 
-\newpage
-
-\section{紧化的算术意义}
-
-欧拉的著名等式
-
-\subsection{几何上的紧化}
-
-\subsection{紧化与算术}
-
-\subsection{不停机程序}
-
-\newpage
-
-\section{走向更一般的表示}
+\section{走向更一般的情形}
 
 \subsection{抛弃数的特殊性}
 
 拥抱表达式，摆脱数
-
-\subsection{函数的表示}
-
-\newpage
-
-\section{回到黎曼}
-
-\subsection{有何不同}
-
-\subsection{四阶无限边形镶嵌}
-
-\subsection{黏合零线}
-
-\subsection{管型构造}
 
 \newpage
 
@@ -1803,8 +1939,6 @@ $$
 
 我们有理由相信，算术表达式的几何化是一个新变革的开端。
 
-\subsection{无尽的遐想}
-
 \newpage
 \phantomsection
 \addcontentsline{toc}{section}{参考文献}
@@ -1814,67 +1948,7 @@ $$
 \newpage
 \appendix
 
-\section{推导}
-
-\begin{equation}
-(\cdots ((x * a_0 + b_0) * a_1 + b_1) \cdots) * a_n + b_n
-\end{equation}
-
-\begin{equation}
-    \pm s = \frac{1}{\lambda} \ln \frac{\mu}{a + \sqrt{\mu^2 + \lambda^2 a^2}} + c
-\end{equation}
-
-或者进一步变形，得到
-
-\begin{equation}
-    \mu e^{c \mp \lambda s} = a + \sqrt{\mu^2 + \lambda^2 a^2}
-\end{equation}
-
-进一步得到
-
-\begin{equation}
-    a^2 + \mu^2 e^{2 c \mp 2 \lambda s} - 2 a \mu e^{c \mp \lambda s} = \mu^2 + \lambda^2 a^2
-\end{equation}
-
-\begin{equation}
-    (\lambda^2 - 1)a^2 + 2 a \mu e^{c \mp \lambda s} - \mu^2 (e^{2 c \mp 2 \lambda s} - 1) = 0
-\end{equation}
-
-\begin{equation}
-     4 \mu^2 e^{2c \mp 2 \lambda s} + 4 (\lambda^2 - 1) \mu^2 (e^{2 c \mp 2 \lambda s} - 1)
-\end{equation}
-
-\begin{equation}
-     4 \mu^2 e^{2c \mp 2 \lambda s} + 4 (\lambda^2 - 1) \mu^2 e^{2 c \mp 2 \lambda s} - 4 (\lambda^2 - 1) \mu^2
-\end{equation}
-
-\begin{equation}
-     4 \lambda^2 \mu^2 e^{2 c \mp 2 \lambda s} - 4 \lambda^2 \mu^2 + 4 \mu^2
-\end{equation}
-
-\begin{equation}
-     4 \mu^2 (\lambda^2  e^{2 c \mp 2 \lambda s} - \lambda^2 + 1)
-\end{equation}
-
-\begin{equation}
-    (\lambda^2 - 1)a^2 + 2 \mu e^{c \mp \lambda s} a - \mu^2 (e^{2 c \mp 2 \lambda s} - 1) = 0
-\end{equation}
-
-\begin{equation}
-    a = \frac{- 2 \mu e^{c \mp \lambda s} \pm 2 \mu \sqrt{\lambda^2  e^{2 c \mp 2 \lambda s} - \lambda^2 + 1}}{2(\lambda^2 - 1)}
-\end{equation}
-
-\begin{equation}
-    a = \frac{- \mu e^{c \mp \lambda s} \pm \mu \sqrt{\lambda^2  e^{2 c \mp 2 \lambda s} - \lambda^2 + 1}}{\lambda^2 - 1}
-\end{equation}
-
-\begin{equation}
-    a = \frac{\mu }{\lambda^2 - 1} (- e^{c \mp \lambda s} \pm \sqrt{\lambda^2  e^{2 c \mp 2 \lambda s} - \lambda^2 + 1})
-\end{equation}
-
-\begin{equation}
-    a = \frac{\mu }{\lambda^2 - 1} (- e^{\lambda s} + \sqrt{\lambda^2  e^{2 \lambda s} - \lambda^2 + 1})
-\end{equation}
+\section{公式草稿箱}
 
 \end{document}
 
