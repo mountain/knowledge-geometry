@@ -22,7 +22,7 @@
 \usepackage{pgf}
 \usepgflibrary{fpu}
 \usepackage{qtree}
-\usetikzlibrary{fit,arrows,calc,math,intersections,through,backgrounds}
+\usetikzlibrary{angles,fit,arrows,calc,math,intersections,through,backgrounds}
 \usepackage{pgfplots}
 \usepackage{tkz-euclide}
 
@@ -1949,6 +1949,59 @@ $$
 \appendix
 
 \section{公式草稿箱}
+
+\newcommand{\assgn}[1]{
+  \foreach \t in {#1}{
+    \pgfmathsetmacro{\cnt}{\base^(4 - \t)}
+    \pgfmathsetmacro{\step}{\base^\t}
+    \foreach \idx [evaluate=\idx as \lbl using int(-\idx)] in {-\cnt,...,0}{
+      \node [anchor=225, red] at (\step * \idx + \offset, \step) {$\lbl$};
+    }
+  }
+}
+
+\begin{figure}[ht]
+\centering
+
+\tikzmath{
+  \one = 1;
+  \base = 2;
+  \offset = 8;
+  \valofpi = 3.1415926;
+  \anglei = 3.1415926;
+  \angleo = 3.1415926;
+}
+
+\begin{tikzpicture}
+
+\draw [black, line width=0.6pt, ->] (8,0) to[out=90,in=270] (8,8.25);
+\node [anchor=south] at (8,8.5) {y};
+\draw [black, line width=0.6pt, ->] (-8.25,0) to[out=0,in=180] (8.25,0);
+\node [anchor=west] at (8.5,0) {x};
+
+\foreach \x in {-16,...,0}
+  \node [anchor=north] at (\x + \offset,0) {\x};
+\foreach \y in {1,2,3,4,5,6,7,8}
+  \node [anchor=45] at (8,\y) {\y};
+
+\foreach \t in {-1, ..., 3}
+  \draw [blue, line width=0.6pt] (-8.25, \base^\t) to[out=0,in=180] (8.25, \base^\t);
+
+\foreach \t in {-16, ..., -1}
+  \draw [green, line width=0.6pt] (\t + \offset, 0) to[out=90,in=270] (\t + \offset, 8.25);
+
+\assgn{0,...,3}
+
+\foreach \idx[evaluate=\idx as \lbl using int(-2 * \idx)] in {-16, ..., 0}{
+  \node [anchor=225, red] at (\idx + \offset, 0.5) {$\lbl$};
+}
+
+\draw [purple, line width=0.6pt] (8,0) -- (-8, 16 / \valofpi);
+\draw [orange, line width=0.6pt] (0,8) -- (-8 / \valofpi, 0);
+
+\end{tikzpicture}
+\caption{加乘网格与$\pi$}\label{fig:picalc}
+\end{figure}
 
 \end{document}
 
