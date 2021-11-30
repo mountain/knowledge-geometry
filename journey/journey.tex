@@ -2054,7 +2054,51 @@ $$
 \end{scope}
 
 \end{tikzpicture}
-\caption{加乘网格与复杂性}\label{fig:picalc}
+\caption{加乘网格与时间复杂性}\label{fig:tcomplex}
+\end{figure}
+
+
+\begin{figure}[ht]
+\centering
+
+\tikzmath{
+  \one = 1;
+  \base = 2;
+  \offset = 8;
+  \valofpi = 3.1415926;
+  \anglei = 3.1415926;
+  \angleo = 3.1415926;
+}
+
+\begin{tikzpicture}
+
+\draw [black, line width=0.6pt, ->] (8,0) to[out=90,in=270] (8,16.25);
+\node [anchor=south] at (8,16.5) {y};
+\draw [black, line width=0.6pt, ->] (-8.25,0) to[out=0,in=180] (8.25,0);
+\node [anchor=west] at (8.5,0) {x};
+
+\foreach \x in {-16,...,0}
+  \node [anchor=north] at (\x + \offset,0) {\x};
+\foreach \y in {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16}
+  \node [anchor=45] at (8,\y) {\y};
+
+\foreach \t in {16, ..., 1}
+  \draw [blue, line width=0.6pt] (-8.25, \t) to[out=0,in=180] (8.25, \t);
+
+\foreach \t in {-16, ..., -1}
+  \draw [green, line width=0.6pt] (\t + \offset, 0) to[out=90,in=270] (\t + \offset, 16.25);
+
+\begin{scope}
+    \clip (-8,0) rectangle (8,16);
+    \draw[scale=1.0,samples=150,domain=-16:-0.05,variable=\t] plot ({\t + 8},{-1 / \t});
+    \draw[scale=1.0,samples=150,domain=-16:-0.05,variable=\t] plot ({\t + 8},{-2 / \t});
+    \draw[scale=1.0,samples=150,domain=-16:-0.05,variable=\t] plot ({\t + 8},{-4 / \t});
+    \draw[scale=1.0,samples=150,domain=-16:-0.05,variable=\t] plot ({\t + 8},{-8 / \t});
+    \draw[scale=1.0,samples=150,domain=-16:-0.05,variable=\t] plot ({\t + 8},{-16 / \t});
+\end{scope}
+
+\end{tikzpicture}
+\caption{加乘网格与空间复杂性}\label{fig:scomplex}
 \end{figure}
 
 \end{document}
