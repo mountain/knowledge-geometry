@@ -2,33 +2,93 @@
 \documentclass[a4paper,12pt]{article}
 \usepackage{hieroglf} % 添加古埃及象形文字
 \usepackage{pifont} % 添加 Dingbat
-\usepackage{tikz} % 添加绘图
+\usepackage{tikz}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{subfiles} % 添加绘图
 
 \input{data/style}
+\setlength{\parindent}{0em}
 
 \newcommand{\specialcell}[2][c]{%
   \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
 
 \pmhgfamily
 
-\title{进化游戏}
+\title{蒯恩与进化}
 \author{苑明理}
-\date{2021年11月}
+\date{2021年12月}
 
 \begin{document}
 
 \maketitle{}
 
+\section{记法约定}
+
+\subsection{数}
+
+我们约定小写的希腊字母是实数，也即 $\alpha, \beta, \gamma, \cdots \in R$。
+
+\subsection{函数}
+
+我们大写的斜体希腊字母是函数，也即 $\varGamma , \varPhi , \cdots$ 是函数。
+
+\subsection{向量}
+
+星上标代表多个的意思，可以用来表达向量或者张量，于是 $\alpha^*$ 是一个向量或者张量。
+同样有下标会把向量下降为实数，例如 $\alpha^*_i$ 代表一个向量 $\alpha^*$ 的第 $i$ 分量，它是一个实数。
+
+\subsection{空间}
+
+我们用大写拉丁字母代表某种空间，也即 $X, Y, Z \cdots$，用小写拉丁字母代表空间里的一个点，也即有 $a, b, c, \cdots \in X$。
+
+\subsection{机制}
+
+我们用花体字代表各种更复杂的机制，即 $\mathcal{A}, \mathcal{B}, \mathcal{C} \cdots$ 都是机制。
+
+\section{符号约定}
+
+我们共有两个空间和四种机制，约定如下：
+\begin{itemize}
+  \item 实数空间 $R$
+  \item 一般的空间 $X$
+  \item 演化动力学：空间 $X$ 上的演化动力学 $\mathcal{U}: X \to X$
+  \item 赋值机制： $\mathcal{A}: X \to R$
+  \item 赋形机制： $\mathcal{A}^{-1}: R \to X$
+  \item 神经网络机制：$\mathcal{N}: R^l \times R \to R$，写法上我们采用柯里化的记法，用 $\mathcal{N}(\alpha^*)$ 表示加载了参数$\alpha^*$的神经网络，而$\mathcal{N}(\alpha^*)(\beta)$表示神经网络作用在输入$\beta$上，而$\mathcal{N}(\alpha^*)(\gamma^*)$表示神经网络成批作用在输入$\gamma^*$上。
+\end{itemize}
+
 \section{自打印网络}
 
-张彦博给出的网络可以概括如下：
+张彦博给出的网络可以概括如下，给定任意函数 $\varPhi$，可以训练并得到一组参数 $\theta^*$ 和两组编码 $\eta^*, \zeta^*$ ，使得
+
+$$
+\mathcal{N}(\theta^*)(\eta^*) = \theta^*
+$$
+
+和
+
+$$
+\mathcal{N}(\theta^*)(\zeta^*) = \eta^*
+$$
+
+同时有对任意的实数 $\alpha$
+$$
+\mathcal{N}(\theta^*)(\alpha) = \varPhi(\alpha)
+$$
+
+\section{问题}
+
+给定一个初值 $\eta^*_0$，求得
+
+$$\eta^*_k=(\mathcal{A} \circ \mathcal{U} \circ \mathcal{A}^{-1})^k (\eta^*_0)$$
+
+同时有对任意的实数 $\alpha$ 有
+
+$$
+\mathcal{N}(\theta^*)(\alpha) = \mathcal{A} \circ \mathcal{U} \circ \mathcal{A}^{-1} (\alpha)
+$$
 
 
-
-\section{对抗机制}
-
-\subsection{语言现象}
-
-\subsection{语言模型}
 
 \end{document}
