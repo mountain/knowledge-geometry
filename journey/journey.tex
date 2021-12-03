@@ -1416,7 +1416,7 @@ $$\gamma = \alpha \circ \beta$$
 \caption{$\mathcal{S}^0$的生成图}
 \end{figure}
 
-\subsection{语法结构 $\mathcal{S}^i$}\label{subsec:syntactical}
+\subsection{语法结构 $\mathcal{S}^i$}\label{subsec:syntactical1}
 
 显然，在 $\mathcal{F}$ 上加减是互逆的，乘除也是互逆的，由此我们引入运算符的逆
 \begin{itemize}
@@ -1435,7 +1435,7 @@ $$\gamma = \alpha \circ \beta$$
 
 生成图是四阶凯莱树。
 
-\subsection{语法结构 $\mathcal{S}^d$}\label{subsec:syntactical}
+\subsection{语法结构 $\mathcal{S}^d$}\label{subsec:syntactical2}
 
 如果我们可以引入加乘的分配律，我们可以考虑另外一种语法构造。
 
@@ -1555,75 +1555,6 @@ $$
 $$
 
 我们说两个表达式相等，当且仅当，它们的估值相等。在估值相等作为代数结构的相等关系，我们就得到语义构造。
-
-\newpage
-
-\section{典范形式}\label{sec:canonical}
-
-一般而言，给定集合 $U$ 和相等关系 $=$， 典范形式是商集 $U/=$ 上的一种选出方法 $c: U/= \to U$，它从相等关系的每一类中选出一个代表，且满足如下条件
-
-\begin{itemize}
-    \item 对合 $  c(x) = c(c(x)) $
-    \item 确定 $  c(x_1) = c(x_2) \iff x_1 = x_2  $
-\end{itemize}
-
-在算术表达式的上下文里，我们需要给出典范形式的清晰定义。
-
-\subsection{表达式树与线索}
-
-
-
-\subsection{表达式族的刻画}
-
-\subsection{表达式的典范形式}
-
-典范形式必须能够覆盖所有的自由生成
-
-\newpage
-
-\section{网格细化与完备化}\label{subsec:completeness}
-
-\subsection{可伸缩和数位制}
-
-先让我们做一段有启发性的思考—我们是如何理解和表达实数的呢？我们是通过比较容易把握的有理数来实现的。
-
-有理数是对单位一的有限叠加与有限平分。如果我们改变单位一的长度，我们会发现有理结构是不变的，这种结构可伸缩的特性给数位制奠定了几何基础。
-
-考虑一个位置测量的过程：为了测量一个未知位置，我们在某一个单位长度的基础上，用数刻画了一个大约的位置。
-同一个有理结构的可伸缩性意味着，在不同长度测量单位的基础上，我们有可能可以组合不同长度单位的测量结果，用不同的数字的组合，来实现精细的测量。
-假设我们的第一次测量结果是 $l_1$，第二次测量时单位一缩小了整数 $k$ 倍，那么第二次测量在 $kl$ 时，两个测试的长度是重合的。
-这样的话，我们就能构造一个非常清晰的逼近测量的过程，不断把单位一缩小 $k$ 倍，获得更多的精细级别上的测量数字，然后组合不同剩余段上的测量数字，
-最终获得一个数位表示。
-
-综合以上，数位制可以被理解成为一个逼近测量的过程。下面，我们形式化地定义这个逼近测量的过程。
-
-假设符号表为$\Sigma = \{s_i | i = 0 \cdots n\}$，针对基准点 $o$、任一点 $y$ 和某一个测量精度 $\rho$，我们有
-刻度映射 $T_o^\rho: s_i \mapsto x_i$ 和某个点的辨识区域 $D^\rho: z \mapsto S_z$。
-于是，我们有全体符号的辨识区域 $S_o^\rho = \bigcap_{i=0}^n (D^\rho \circ T_o^\rho)(s_i)$
-
-首先，我们定义测量精度 $\rho$ 上的测量过程$M_o^\rho: y \mapsto s_k$，它是如下的算法过程：
-\begin{itemize}
-    \item 参量：基准点 $o$ 和精度 $\rho$
-    \item 输入：点 $y$
-    \item 输出：符号 $s_k$
-    \item 过程：遍历所有的 $\{0 \cdots n\}$ 以确定 $k$ 使得$y \in (D_\rho \circ T_\rho)(s_k)$
-\end{itemize}
-
-最后需要指出，我们仍然有空间可以去思考：无限符号情况下逼近测量过程和并行算法过程的几何含义。
-
-\subsection{网格和加细}
-
-\subsection{完备化}
-
-赋值 $A$ 是从 $R$ 映射到流形 $M$，加乘表达式的细密意味着 $E = E_0 \cup E_1 \cup E_2 \cup \cdots E_n$ 是一种按照细密程度的分层
-从每个 $E_i$ 中取点 $x_i$ 使得 $A(x_i)$ 在流形 $M$ 上构成柯西序列，在此条件下，我们必须证明 $x_i$ 在代数上的收敛性。
-也即，如果度量上的收敛性蕴涵代数上的收敛性，我们称赋值 A 是完备的。
-
-\subsection{赋值、网格和典范形式}
-
-如何从一个合适的流形赋值得到网格和典范形式
-
-什么是合适的赋值
 
 \newpage
 
@@ -1764,7 +1695,6 @@ $$
     s = \operatorname{arcosh} \left(1 + \frac{2 \alpha^2}{(1-x^2) \sin^2\alpha} \right)
 $$
 
-
 \begin{figure}[ht]
 \centering
 
@@ -1850,26 +1780,124 @@ $$
 \Delta B = - y^2 (\frac{\partial^2}{\partial x^2} \ln (x^2+ y^2) + \frac{\partial^2}{\partial y^2} \ln (x^2+ y^2)) = 0
 \end{equation}
 
-
 \begin{equation}
    B  = \ln (u^2+ e^{2v})
 \end{equation}
 
 \newpage
 
+\section{典范形式}\label{sec:canonical}
+
+一般而言，给定集合 $U$ 和相等关系 $=$， 典范形式是商集 $U/=$ 上的一种选出方法 $c: U/= \to U$，它从相等关系的每一类中选出一个代表，且满足如下条件
+
+\begin{itemize}
+    \item 对合 $  c(x) = c(c(x)) $
+    \item 确定 $  c(x_1) = c(x_2) \iff x_1 = x_2  $
+\end{itemize}
+
+在算术表达式的上下文里，我们需要给出典范形式的清晰定义。
+
+\subsection{表达式树与线索}
+
+\subsection{表达式树的线索化}
+
+\subsection{表达式族的刻画}
+
+\subsection{表达式的典范形式}
+
+典范形式必须能够覆盖所有的自由生成
+
+\newpage
+
+\section{网格细化与完备化}\label{subsec:completeness}
+
+\subsection{可伸缩和数位制}
+
+先让我们做一段有启发性的思考—我们是如何理解和表达实数的呢？我们是通过比较容易把握的有理数来实现的。
+
+有理数是对单位一的有限叠加与有限平分。如果我们改变单位一的长度，我们会发现有理结构是不变的，这种结构可伸缩的特性给数位制奠定了几何基础。
+
+考虑一个位置测量的过程：为了测量一个未知位置，我们在某一个单位长度的基础上，用数刻画了一个大约的位置。
+同一个有理结构的可伸缩性意味着，在不同长度测量单位的基础上，我们有可能可以组合不同长度单位的测量结果，用不同的数字的组合，来实现精细的测量。
+假设我们的第一次测量结果是 $l_1$，第二次测量时单位一缩小了整数 $k$ 倍，那么第二次测量在 $kl$ 时，两个测试的长度是重合的。
+这样的话，我们就能构造一个非常清晰的逼近测量的过程，不断把单位一缩小 $k$ 倍，获得更多的精细级别上的测量数字，然后组合不同剩余段上的测量数字，
+最终获得一个数位表示。
+
+综合以上，数位制可以被理解成为一个逼近测量的过程。下面，我们形式化地定义这个逼近测量的过程。
+
+假设符号表为$\Sigma = \{s_i | i = 0 \cdots n\}$，针对基准点 $o$、任一点 $y$ 和某一个测量精度 $\rho$，我们有
+刻度映射 $T_o^\rho: s_i \mapsto x_i$ 和某个点的辨识区域 $D^\rho: z \mapsto S_z$。
+于是，我们有全体符号的辨识区域 $S_o^\rho = \bigcap_{i=0}^n (D^\rho \circ T_o^\rho)(s_i)$
+
+首先，我们定义测量精度 $\rho$ 上的测量过程$M_o^\rho: y \mapsto s_k$，它是如下的算法过程：
+\begin{itemize}
+    \item 参量：基准点 $o$ 和精度 $\rho$
+    \item 输入：点 $y$
+    \item 输出：符号 $s_k$
+    \item 过程：遍历所有的 $\{0 \cdots n\}$ 以确定 $k$ 使得$y \in (D_\rho \circ T_\rho)(s_k)$
+\end{itemize}
+
+最后需要指出，我们仍然有空间可以去思考：无限符号情况下逼近测量过程和并行算法过程的几何含义。
+
+\subsection{网格和加细}
+
+\subsection{完备化}
+
+赋值 $A$ 是从 $R$ 映射到流形 $M$，加乘表达式的细密意味着 $E = E_0 \cup E_1 \cup E_2 \cup \cdots E_n$ 是一种按照细密程度的分层
+从每个 $E_i$ 中取点 $x_i$ 使得 $A(x_i)$ 在流形 $M$ 上构成柯西序列，在此条件下，我们必须证明 $x_i$ 在代数上的收敛性。
+也即，如果度量上的收敛性蕴涵代数上的收敛性，我们称赋值 A 是完备的。
+
+\subsection{赋值、网格和典范形式}
+
+如何从一个合适的流形赋值得到网格和典范形式
+
+什么是合适的赋值
+
+\newpage
+
 \section{四阶无限边形镶嵌}
 
-\section{最初问题的解答}
+\section{最初问题的解}
+
+\section{更完整的解集}
+
+\section{解之间的关系}
+
+在开篇的例子里，我们能看到当赋值取
+
+$$
+A = - \frac{x}{y}
+$$
+
+的时候，我们有它的一种典范形态，实际上这个典范形态可以用下式来概括：
+
+$$
+B = - xy
+$$
+
+从上节的解集里，我们发现它也是满足流方程的一个解。怎么看待例子里的这个现象？
+
+\subsection{从调和共轭开始}\label{subsec:conjugates}
+
+\subsection{单值化下的几何观点}\label{subsec:uniformation}
+
+\subsection{群论下的观点}\label{subsec:group}
+
+群的结构
+
+\subsection{更一般的讨论}\label{subsec:general}
+
+某个流形可以单值化到双曲圆盘，它的基本域在双曲圆盘形成一种铺嵌结构，这个铺嵌结构有它的对偶，而这个对偶也会对应一个流形，这一对流形应该放到一起来讨论。
+
+\newpage
 
 \section{管型构造}
 
-\section{更完整的解答}
+\section{更广的领域}
 
-\section{走向更一般的情形}
+\subsection{可计算性}
 
-\subsection{抛弃数的特殊性}
-
-拥抱表达式，摆脱数
+$S_{mn}$ 定理时空可以相互交换
 
 \newpage
 
