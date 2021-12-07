@@ -12,7 +12,7 @@ seterr(all='raise')
 
 # utility functions
 
-width = 8193
+width = 512
 coord = linspace(-1, 1, num=width)
 
 
@@ -33,13 +33,12 @@ def unit(vector):
 #    while sum([Fraction(1, x) for x in pqr]) >= 1:
 #        pqr.pop()
 
-pqr = [4, 4]
+pqr = [4, 4, 'i']
 
-
-filestem = "i44"
-#for n in pqr: filestem += repr(n)
-#while len(filestem) < 3:
-#    filestem += "i"
+filestem = ""
+for n in pqr: filestem += str(n)
+while len(filestem) < 3:
+    filestem += "i"
 
 # make a list of mirror planes
 
@@ -51,8 +50,7 @@ if not pqr:  # all pairs are asymptotic
 else:
     p = pqr.pop(0)
     pangle = pi / p
-    cosqr = [-cos(pi / u) for u in pqr]
-    while len(cosqr) < 2: cosqr.append(-1)
+    cosqr = [-cos(pi / u) if type(u) == int else -1  for u in pqr]
 
     v0 = [0, 1, 0]
     v11 = -cos(pangle)
@@ -96,33 +94,47 @@ def thecolor(x0, x1):
                 clean += 1
                 if clean >= 3:
                     # 1:
-                    if abs(dot(p, v0)) < 0.02: return (0, 0, 255, 255)
-                    return (255, 0, 0, 255)
+                    #if abs(dot(p, v0)) < 0.02: return (0, 0, 255, 255)
+                    #return (255, 0, 0, 255)
+
+                    # 2:
+                    d0 = dot(p, v0)
+                    d1 = dot(p, v1)
+                    d2 = dot(p, v2)
+                    if abs(d0) < 0.02:
+                        return (0, 0, 255, 255)
+                    elif d1 > d2:
+                        return (255, 0, 0, 255)
+                    elif d1 < d2:
+                        return (255, 255, 0, 255)
 
                     # 3:
-                    # if dot(p,critplane) < 0: return (255,0,0,255)
-                    # if abs(dot(p,v0)) < 0.01: return (0,0,255,255)
-                    # return (255,255,0,255)
+                    #if dot(p,critplane) < 0: return (255,0,0,255)
+                    #if abs(dot(p,v0)) < 0.01: return (0,0,255,255)
+                    #return (255,255,0,255)
 
                     #4:
                     #if abs(dot(p,v1)) < 0.02: return (0,0,255,255)
                     #return (255,255,0,255)
 
                     # 6:
-                    # if dot(p,critplane) < 0: return (255,255,0,255)
-                    # if abs(dot(p,v1)) < 0.01: return (0,0,255,255)
-                    # return (255,0,0,255)
+                    #if dot(p,critplane) < 0: return (255,255,0,255)
+                    #if abs(dot(p,v1)) < 0.01: return (0,0,255,255)
+                    #return (255,0,0,255)
 
 
 # 3:
-#vertex = solve(array(mirror), array([0,1,1]))
+# vertex = solve(array(mirror), array([0,1,1]))
 
 # 6:
-#vertex = solve(array(mirror), array([1,0,1]))
+# vertex = solve(array(mirror), array([1,0,1]))
 
 #vertex = solve(array(mirror), array([0, 0, 0]))
 
-#critplane = 1j*cross(vertex, v2)
+# 4
+vertex = solve(array(mirror), array([0, 1, 1]))
+
+critplane = 1j * cross(vertex, v0)
 
 
 im = Image.new("RGBA", (width, width))
