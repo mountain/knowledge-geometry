@@ -1663,7 +1663,7 @@ $$
 
 \subsection{零线火烧法}
 
-因为式\ref{eq:gradevo} 可以给到 $a$ 和 $s$ 的关系，启发我们下面用火烧法去研究与零线等距的超圆族（hypercycle family）。
+因为式\ref{eq:gradevo} 可以给到 $a$ 和 $s$ 的关系，启发我们下面用火烧法去研究与零线等距的超圆族。
 
 \begin{figure}[ht]
 \centering
@@ -1674,6 +1674,7 @@ $$
     \tkzDefPoint(0,-4){V1}
     \tkzDefPoint(0,4){V2}
     \tkzDefPoint(0,-5){K2}
+    \tkzDefPoint(0,1.44){X}
 
     \tkzDefCircle[apollonius,K=2](O1,O2) \tkzGetPoint{K1} \tkzGetPoints{A}{B} \tkzGetLength{rAp}
     \tkzInterCC(O,O2)(K1,A) \tkzGetPoints{C}{D}
@@ -1688,16 +1689,29 @@ $$
     \tkzDrawSegment[color=blue](O1,O2)
     \tkzDrawSegment[color=green](V1,V2)
     \tkzDrawCircle[R,fill=black](N,1 pt)
+    \tkzDrawCircle[R,fill=black](A,1 pt)
+    \tkzDrawCircle[R,fill=black](O,1 pt)
+    \tkzDrawCircle[R,fill=black](X,1 pt)
 
-    \tkzLabelPoint[below left](O1){$\Omega_{-}$}
-    \tkzLabelPoint[below right](O2){$\Omega_{+}$}
-    \tkzLabelLine[blue,above](O,A){$x$}
+    \tkzLabelPoint[below right](A){$P$}
+    \tkzLabelPoint[above right](N){$Q$}
+    \tkzLabelPoint[below left](O1){$\Omega_r$}
+    \tkzLabelPoint[below right](O2){$\Omega_l$}
+    \tkzLabelPoint[below](V1){$\Omega_b$}
+    \tkzLabelPoint[above](V2){$\Omega_a$}
+    \tkzLabelPoint[below left](O){$O$}
+    \tkzLabelPoint[above left](X){$R$}
     \tkzLabelLine[blue,left](A,N){$s$}
+    \tkzLabelLine[blue,left](O,X){$s$}
 
 \end{tikzpicture}
-\caption{超圆}\label{fig:appolo}
+\caption{沿着超圆的对称性}\label{fig:appolo}
 \end{figure}
 
+如图\ref{fig:appolo}，火从零线 $\Omega_r O \Omega_l$ 开始燃烧，超圆$\Omega_r R \Omega_l$ 是各处距离零线都为 $s$ 的线。
+所以，当我们沿着超圆从 $R$ 移动到 $Q$，同时零线上的 $O$ 移动到 $P$，这个过程中距离 $s$ 是不变的，这反映了一种平移运动中的对称性。
+
+如图\ref{fig:merged}，当我们把这种对称性和四阶无限边形铺嵌结合在一起的时候，我们就会发现这个平移对称性适当离散化之后可以保持四阶无限边形铺嵌不变。
 
 \begin{figure}[ht]
 \centering
@@ -1724,15 +1738,38 @@ $$
     \tkzDrawSegment[color=blue](V1,V2)
     \tkzDrawCircle[R,fill=black](N,1 pt)
 
-    \tkzLabelPoint[below](V1){$\Omega_{-}$}
-    \tkzLabelPoint[above](V2){$\Omega_{+}$}
-    \tkzLabelLine[blue,left](O,A){$y$}
+    \tkzLabelPoint[below](V1){$\Omega_{0}$}
+    \tkzLabelPoint[above](V2){$\Omega_{1}$}
     \tkzLabelLine[blue,above](A,N){$s$}
+
+    \tkzDefPoint(2.82,0){P}
+    \tkzDefPoint(3.36,1.13){Q}
+    \tkzDefPoint(4,0){R}
+    \tkzDefPoint(3.773,1.32){S}
+    \tkzDrawCircle[R,fill=black](O,1 pt)
+    \tkzDrawCircle[R,fill=black](P,1 pt)
+    \tkzDrawCircle[R,fill=black](Q,1 pt)
+    \tkzDrawCircle[R,fill=black](R,1 pt)
+    \tkzDrawCircle[R,fill=black](S,1 pt)
+    \tkzLabelPoint[below left](O){$O$}
+    \tkzLabelPoint[below left](P){$P$}
+    \tkzLabelPoint[left](Q){$Q$}
+    \tkzLabelPoint[right](R){$\Omega_{1}$}
+    \tkzLabelPoint[right](S){$\Omega_{2}$}
 
 \end{scope}
 \end{tikzpicture}
-\caption{从零线开始火烧}\label{fig:merged}
+\caption{四阶无限边形铺嵌里的对称性}\label{fig:merged}
 \end{figure}
+
+另一方面，当火线离开零线推进的时候，我们观察火线的梯度方向和四阶无限边形的搭配关系，可以容易的获得如下的几何直观：
+
+\begin{itemize}
+    \item
+    \item
+\end{itemize}
+
+这个观察导致了另外一种对称性，它和刚才沿着超圆的平移对称性一起刻画了四阶无限边形铺嵌的一种对称。
 
 \begin{figure}[ht]
 \centering
