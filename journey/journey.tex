@@ -1633,7 +1633,7 @@ $$
   a = \pm \frac{\mu}{\lambda} \sinh(c \pm \lambda s)\label{eq:gradevo}
 \end{equation}
 
-下面我们对
+下面我们对式 \ref{eq:grad} 和式 \ref{eq:gradevo} 里的正负符号搭配做一下讨论，为下面小节里的染色做准备。
 
 \subsection{梯度-等值线坐标系}
 
@@ -1711,7 +1711,8 @@ $$
 如图\ref{fig:appolo}，火从零线 $\Omega_r O \Omega_l$ 开始燃烧，超圆$\Omega_r R \Omega_l$ 是各处距离零线都为 $s$ 的线。
 所以，当我们沿着超圆从 $R$ 移动到 $Q$，同时零线上的 $O$ 移动到 $P$，这个过程中距离 $s$ 是不变的，这反映了一种平移运动中的对称性。
 
-如图\ref{fig:merged}，当我们把这种对称性和四阶无限边形铺嵌结合在一起的时候，我们就会发现这个平移对称性适当离散化之后可以保持四阶无限边形铺嵌不变。
+如图\ref{fig:merged}，当我们把这种对称性和四阶无限边形铺嵌结合在一起的时候，
+我们就会发现这个平移对称性适当离散化之后可以保持四阶无限边形铺嵌不变。
 
 \begin{figure}[ht]
 \centering
@@ -1765,45 +1766,16 @@ $$
 另一方面，当火线离开零线推进的时候，我们观察火线的梯度方向和四阶无限边形的搭配关系，可以容易的获得如下的几何直观：
 
 \begin{itemize}
-    \item
-    \item
+    \item 火线沿着 $O\Omega_{1}$ 向前传播的过程中，梯度方向始终和 $O\Omega_{1}$ 一致。
+    \item 当火线到达 $P$ 点，$PQ$ 上每个点的切线方向与火线到达时的梯度方向的夹角会均匀地从 $\frac{\pi}{2}$ 变化到 $0$。
+    \item 于是，火线沿着 $Q\Omega_{2}$ 向前传播，梯度方向始终和 $Q\Omega_{2}$ 一致。
+    \item 类似的情况反复出现……
 \end{itemize}
 
-这个观察导致了另外一种对称性，它和刚才沿着超圆的平移对称性一起刻画了四阶无限边形铺嵌的一种对称。
+上面这些直观的观察都是在讨论四阶无限边形铺嵌的某种对称性。
 
-\begin{figure}[ht]
-\centering
-
-\begin{tikzpicture}
-\begin{scope}[line width=0.3pt]
-    \draw (0, 0) node[inner sep=0] {\includegraphics[width=3.41in]{images/horocycles.png}};
-    \tkzDefPoint(0,0){O}
-
-    \tkzDefPoint(-4,0){O1}
-    \tkzDefPoint(4,0){O2}
-    \tkzDefPoint(0,-4){V1}
-    \tkzDefPoint(0,4){V2}
-    \tkzDefPoint(-5, 0){K2}
-
-    \tkzDefCircle[apollonius,K=2.415](V1,V2) \tkzGetPoint{K1} \tkzGetPoints{A}{B} \tkzGetLength{rAp}
-    \tkzInterCC(O,V2)(K1,A) \tkzGetPoints{C}{D}
-    \tkzInterCC(K2,V2)(K1,A) \tkzGetPoints{L}{N}
-
-    \tkzDrawCircle[color=black](O,V1)
-    \tkzDrawArc[R with nodes,color=red](K1,\rAp pt)(C,D)
-    \tkzDrawArc[R with nodes,color=green](K2,183 pt)(V1,V2)
-
-    \tkzDrawSegment[color=blue](O1,O2)
-    \tkzDrawSegment[color=brown](V1,V2)
-    \tkzDrawCircle[R,fill=black](N,1 pt)
-
-    \tkzLabelPoint[below](V1){$\Omega_{-}$}
-    \tkzLabelPoint[above](V2){$\Omega_{+}$}
-
-\end{scope}
-\end{tikzpicture}
-\caption{从零线开始火烧}\label{fig:merged2}
-\end{figure}
+围绕着这个对称性，结合前面的公式 \ref{eq:fourfold} ，
+我们就可以对无限边形进行染色，每种颜色代表前述公式里一种符号的选择。
 
 \subsection{几个问题}
 
@@ -2168,6 +2140,41 @@ $S_{mn}$ 定理时空可以相互交换
 
 \end{tikzpicture}
 \caption{加乘网格与空间复杂性}\label{fig:scomplex}
+\end{figure}
+
+
+\begin{figure}[ht]
+    \centering
+
+    \begin{tikzpicture}
+        \begin{scope}[line width=0.3pt]
+            \draw (0, 0) node[inner sep=0] {\includegraphics[width=3.41in]{images/horocycles.png}};
+            \tkzDefPoint(0,0){O}
+
+            \tkzDefPoint(-4,0){O1}
+            \tkzDefPoint(4,0){O2}
+            \tkzDefPoint(0,-4){V1}
+            \tkzDefPoint(0,4){V2}
+            \tkzDefPoint(-5, 0){K2}
+
+            \tkzDefCircle[apollonius,K=2.415](V1,V2) \tkzGetPoint{K1} \tkzGetPoints{A}{B} \tkzGetLength{rAp}
+            \tkzInterCC(O,V2)(K1,A) \tkzGetPoints{C}{D}
+            \tkzInterCC(K2,V2)(K1,A) \tkzGetPoints{L}{N}
+
+            \tkzDrawCircle[color=black](O,V1)
+            \tkzDrawArc[R with nodes,color=red](K1,\rAp pt)(C,D)
+            \tkzDrawArc[R with nodes,color=green](K2,183 pt)(V1,V2)
+
+            \tkzDrawSegment[color=blue](O1,O2)
+            \tkzDrawSegment[color=brown](V1,V2)
+            \tkzDrawCircle[R,fill=black](N,1 pt)
+
+            \tkzLabelPoint[below](V1){$\Omega_{-}$}
+            \tkzLabelPoint[above](V2){$\Omega_{+}$}
+
+        \end{scope}
+    \end{tikzpicture}
+    \caption{从零线开始火烧}\label{fig:merged2}
 \end{figure}
 
 \end{document}
