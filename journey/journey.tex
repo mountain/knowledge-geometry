@@ -31,6 +31,7 @@
 
 \newdateformat{nianyueri}{ \THEYEAR 年 \THEMONTH 月 \THEDAY 日 }
 
+\usepackage{data/quiver}
 \usepackage{data/circledsteps}
 \input{data/style}
 
@@ -1958,6 +1959,15 @@ $$
 * 映射
 
 与赋值兼容的映射可以实现为算术表达式空间上的流
+
+\begin{tikzcd}
+    H && H \\
+    F && F
+    \arrow["l", from=1-1, to=1-3]
+    \arrow["\nu"', from=1-1, to=2-1]
+    \arrow["\nu", from=1-3, to=2-3]
+    \arrow["k"', from=2-1, to=2-3]
+\end{tikzcd}
 
 \subsection{路径群是李群}
 
