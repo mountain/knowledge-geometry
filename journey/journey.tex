@@ -541,6 +541,11 @@ $$
 
 表达式树所有右枝深度都为一，所以上式是可线索化的算术表达式。
 
+它的表达式解析树如下，
+
+\Tree [.$\ominus$ 3 [.$\odot$ 2 [.$\ominus$ 1 [.$\odot$ 2 [.$\odot$ 1 2 ] ] ] ] ]
+
+
 \subsection{表达式与路径}
 
 注意到蓝线代表赋值上的 $+ 1$ 关系，绿线代表赋值上的 $\times 2$ 关系，它们编码了加乘运算，于是对表达式
@@ -1646,6 +1651,7 @@ $$
 
 \begin{equation}
     \frac{da}{ds} = \mu \cos (\frac{\pi}{2} - \arctan \frac{\mu}{a \lambda} + \phi) + a \lambda \sin (\frac{\pi}{2} - \arctan \frac{\mu}{a \lambda} + \phi)
+    \label{eq:fourfold}
 \end{equation}
 
 化简得到
@@ -1879,18 +1885,22 @@ $$
     \centering
     \begin{tikzpicture}
         \begin{scope}[line width=0.3pt]
-            \draw (0, 0) node[inner sep=0] {\includegraphics[width=3.142in]{images/apeirogon.png}};
+            \draw (0, 0) node[inner sep=0] {\includegraphics[width=6.284in]{images/apeirogon.png}};
         \end{scope}
     \end{tikzpicture}
     \caption{四阶无限边形铺嵌}\label{fig:apeirogon}
 \end{figure}
 
+需证明上图的设置中存在一个二等分角的序列，从而得到四阶无限边形镶嵌的确切构造方式。
+
+\newpage
 
 \section{最初问题的解}
 
-\section{更完整的解集}
 
-\section{解之间的关系}
+\newpage
+
+\section{解集和其关系}
 
 在开篇的例子里，我们能看到当赋值取
 
@@ -1904,19 +1914,12 @@ $$
 B = - xy
 $$
 
-从上节的解集里，我们发现它也是满足流方程的一个解。怎么看待例子里的这个现象？
 
-\subsection{从调和共轭开始}\label{subsec:conjugates}
-
-\subsection{单值化下的几何观点}\label{subsec:uniformation}
-
-\subsection{群论下的观点}\label{subsec:group}
-
-群的结构
-
-\subsection{更一般的讨论}\label{subsec:general}
+$A$、$B$ 是镜像对称。
 
 某个流形可以单值化到双曲圆盘，它的基本域在双曲圆盘形成一种铺嵌结构，这个铺嵌结构有它的对偶，而这个对偶也会对应一个流形，这一对流形应该放到一起来讨论。
+
+是同调与上同调的关系吗？流方程的加乘坐标的对角线上刚好是梯度-等值线坐标，如果加乘线和梯度-等值线互换是否就是同调与上同调的关系呢？
 
 \newpage
 
@@ -1926,7 +1929,7 @@ $$
     \centering
     \begin{tikzpicture}
         \begin{scope}[line width=0.3pt]
-            \draw (0, 0) node[inner sep=0] {\includegraphics[width=3.142in]{images/tube.png}};
+            \draw (0, 0) node[inner sep=0] {\includegraphics[width=6.284in]{images/tube.png}};
         \end{scope}
     \end{tikzpicture}
     \caption{管型构造}\label{fig:tube}
@@ -1976,12 +1979,13 @@ $$
 
 问题：是否每个从效果角度考察的函数都有基于某种计算路径的实现？
 
-\subsection{路径群}
+\subsection{通路群和李群}
 
+通路群在某些情况下是李群
 
 \subsection{演化过程与对称性}
 
-\subsection{新的图景}
+一个演化过程有它内在的对称性，这个对称性在通路群上也会有体现？这个思路能否打开对一大类非线性函数的研究？
 
 \newpage
 
@@ -1991,7 +1995,17 @@ $$
 
 \subsection{邱奇编码}
 
+通过邱奇编码，我们直接可以把算术表达式空间变成组合子的几何空间，可以理解成无数的程序组成的几何空间。
+
 \subsection{组合子空间}
+
+我们还可以更进一步。在 SKI 组合子逻辑中，我们有下式
+
+$$
+I^n x = x
+$$
+
+这意味着我们可以给算术表达式空间的每个点添加一个尾巴。注意到 $I^n$ 构成一个简单的群，我们可以用类似的方法，把算术表达式空间的每个点变成一个简单的群。
 
 \subsection{可计算性}
 
@@ -2005,7 +2019,6 @@ $S_{mn}$ 定理时空可以相互交换
 
 有没有可能 Laplace 算子出现在这里，是因为表达式的几何空间和两种复杂性有内在的联系？
 在计算的时间复杂度和表征的空间复杂度的相互作用下，算术表达式的典范形式类似一张缓缓展开的极小曲面。
-
 
 \newpage
 
