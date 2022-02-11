@@ -1,0 +1,89 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{datetime}
+\usepackage{amsmath, amsthm, amssymb}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{enumitem}
+\usepackage{fancyref}
+
+\input{../data/style}
+
+\setlength{\parindent}{0em}
+
+\newcommand{\specialcell}[2][c]{%
+  \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
+
+\newtheorem{definition}{定义}
+\newtheorem{lemma}{引理}
+\newtheorem{proposition}{命题}
+\newtheorem{theorem}{定理}
+\newtheorem{grammar}{文法}
+\newtheorem{program}{程序}
+\newtheorem{convention}{约定}
+\renewcommand*{\proofname}{证明}
+
+\usetikzlibrary{shapes.geometric}
+\tikzset{
+    turtle/.style={
+        draw,
+        shape border rotate=270,
+        regular polygon,
+        regular polygon sides=3,
+        fill=gray,
+        node distance=2cm,
+        minimum height=4em
+    }
+}
+
+\newdateformat{monthyeardate}{\THEYEAR 年 \THEMONTH 月}
+
+\title{循环推证与知识流形}
+\author{苑明理}
+\date{\monthyeardate\today}
+
+\begin{document}
+\begingroup
+\let\newpage\relax
+\maketitle
+\endgroup
+
+\renewcommand\contentsname{目录}
+\setcounter{tocdepth}{2}
+\tableofcontents
+
+\newpage
+
+\section{从实数的完备性说起}
+
+\subsection{实数的完备性刻画}
+
+\begin{theorem}
+  任何有上界的非空子集都有上确界
+\end{theorem}
+
+\begin{theorem}
+  有理数上的戴德金分割和实数等价
+\end{theorem}
+
+\begin{theorem}
+  柯西序列收敛
+\end{theorem}
+
+\begin{theorem}
+  闭区间套的交非空
+\end{theorem}
+
+\begin{theorem}
+  单调有界序列收敛
+\end{theorem}
+
+\begin{theorem}
+  有界序列存在子列收敛
+\end{theorem}
+
+\begin{theorem}
+  连续函数一侧小于零，一侧大于零，则必有介值为根
+\end{theorem}
+
+\section{思考与总结}
+
+\end{document}
