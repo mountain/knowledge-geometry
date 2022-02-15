@@ -54,35 +54,189 @@
 
 \section{从实数的完备性说起}
 
-\subsection{实数的完备性刻画}
+\subsection{实数的完备性}
 
-\begin{theorem}
-  任何有上界的非空子集都有上确界
-\end{theorem}
+经典的教科书上，往往有如下几个定理的彼此推证，下面我们从知识体系的角度系统的研究这些推证。
 
-\begin{theorem}
-  有理数上的戴德金分割和实数等价
-\end{theorem}
+\begin{proposition}[Sup]
+  任何有上界的非空子集都有上确界。
+\end{proposition}
 
-\begin{theorem}
-  柯西序列收敛
-\end{theorem}
+\begin{proposition}[Cau]
+  柯西序列收敛。
+\end{proposition}
 
-\begin{theorem}
-  闭区间套的交非空
-\end{theorem}
+\begin{proposition}[Nes]
+  闭区间套的交非空。
+\end{proposition}
 
-\begin{theorem}
-  单调有界序列收敛
-\end{theorem}
+\begin{proposition}[Mon]
+  单调有界序列收敛。
+\end{proposition}
 
-\begin{theorem}
-  有界序列存在子列收敛
-\end{theorem}
+\begin{proposition}[Bol]
+  有界序列存在子列收敛。
+\end{proposition}
 
-\begin{theorem}
-  连续函数一侧小于零，一侧大于零，则必有介值为根
+\begin{proposition}[Int]
+  连续函数一侧小于零，一侧大于零，则必有介值为根。
+\end{proposition}
+
+\subsection{彼此推证}
+
+于是两两搭配得到 30 对推证，既有如下 30 个定理。
+
+\subsubsection{以确界性为起点}
+
+\begin{theorem}[Sup => Cau]
+  如果任何有上界的非空子集都有上确界，则柯西序列收敛。
 \end{theorem}
+\begin{proof}
+    得证。
+\end{proof}
+
+\begin{theorem}[Sup => Nes]
+  如果任何有上界的非空子集都有上确界，则闭区间套的交非空。
+\end{theorem}
+\begin{proof}
+    得证。
+\end{proof}
+
+\begin{theorem}[Sup => Mon]
+  如果任何有上界的非空子集都有上确界，则有界单调序列收敛。
+\end{theorem}
+\begin{proof}
+    得证。
+\end{proof}
+
+\begin{theorem}[Sup => Bol]
+  如果任何有上界的非空子集都有上确界，则有界序列存在子列收敛。
+\end{theorem}
+\begin{proof}
+    得证。
+\end{proof}
+
+\begin{theorem}[Sup => Int]
+  如果任何有上界的非空子集都有上确界，同时连续函数一侧小于零，一侧大于零，则必有介值为根。
+\end{theorem}
+\begin{proof}
+    得证。
+\end{proof}
+
+\subsubsection{以柯西序列为起点}
+
+\begin{theorem}[Cau => Sup]
+  如果柯西序列收敛，则任何有上界的非空子集都有上确界。
+\end{theorem}
+\begin{proof}
+    得证。
+\end{proof}
+
+\begin{theorem}[Cau => Nes]
+  如果柯西序列收敛，则闭区间套的交非空。
+\end{theorem}
+\begin{proof}
+    得证。
+\end{proof}
+
+\begin{theorem}[Cau => Mon]
+  如果柯西序列收敛，则有界单调序列收敛。
+\end{theorem}
+\begin{proof}
+    得证。
+\end{proof}
+
+\begin{theorem}[Cau => Bol]
+  如果柯西序列收敛，则有界序列存在子列收敛。
+\end{theorem}
+\begin{proof}
+    得证。
+\end{proof}
+
+\begin{theorem}[Cau => Int]
+  如果柯西序列收敛，同时连续函数一侧小于零，一侧大于零，则必有介值为根。
+\end{theorem}
+\begin{proof}
+    得证。
+\end{proof}
+
+\subsubsection{以闭区间套为起点}
+
+\begin{theorem}[Nes => Sup]
+  如果柯西序列收敛，则任何有上界的非空子集都有上确界。
+\end{theorem}
+\begin{proof}
+    得证。
+\end{proof}
+
+\begin{theorem}[Nes => Cau]
+  如果柯西序列收敛，则闭区间套的交非空。
+\end{theorem}
+\begin{proof}
+    得证。
+\end{proof}
+
+\begin{theorem}[Nes => Mon]
+  如果柯西序列收敛，则有界单调序列收敛。
+\end{theorem}
+\begin{proof}
+    得证。
+\end{proof}
+
+\begin{theorem}[Nes => Bol]
+  如果柯西序列收敛，则有界序列存在子列收敛。
+\end{theorem}
+\begin{proof}
+    得证。
+\end{proof}
+
+\begin{theorem}[Nes => Int]
+  如果柯西序列收敛，同时连续函数一侧小于零，一侧大于零，则必有介值为根。
+\end{theorem}
+\begin{proof}
+    得证。
+\end{proof}
+
+\subsubsection{以单调序列为起点}
+
+\begin{theorem}[Nes => Sup]
+  如果柯西序列收敛，则任何有上界的非空子集都有上确界。
+\end{theorem}
+\begin{proof}
+    得证。
+\end{proof}
+
+\begin{theorem}[Nes => Cau]
+  如果柯西序列收敛，则闭区间套的交非空。
+\end{theorem}
+\begin{proof}
+    得证。
+\end{proof}
+
+\begin{theorem}[Nes => Mon]
+  如果柯西序列收敛，则有界单调序列收敛。
+\end{theorem}
+\begin{proof}
+    得证。
+\end{proof}
+
+\begin{theorem}[Nes => Bol]
+  如果柯西序列收敛，则有界序列存在子列收敛。
+\end{theorem}
+\begin{proof}
+    得证。
+\end{proof}
+
+\begin{theorem}[Nes => Int]
+  如果柯西序列收敛，同时连续函数一侧小于零，一侧大于零，则必有介值为根。
+\end{theorem}
+\begin{proof}
+    得证。
+\end{proof}
+
+\section{实数的构造}
+
+\section{解析函数}
 
 \section{思考与总结}
 
