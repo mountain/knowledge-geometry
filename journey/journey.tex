@@ -31,6 +31,13 @@
 
 \newdateformat{nianyueri}{ \THEYEAR 年 \THEMONTH 月 \THEDAY 日 }
 
+\usepackage{xstring}
+\usepackage{catchfile}
+\CatchFileDef{\HEAD}{../.git/refs/heads/master}{}
+\newcommand{\gitrevision}{%
+  \StrLeft{\HEAD}{7}%
+}
+
 \usepackage{data/quiver}
 \usepackage{data/circledsteps}
 \input{data/style}
@@ -63,7 +70,7 @@
 
 \title{数字丛林里的远足\\
 \large 从词向量到算术表达式的几何}
-\date{2021 年 10 月}
+\date{\nianyueri\today}
 \author{苑明理}
 
 \begin{document}
@@ -75,6 +82,7 @@
 \begingroup
 \let\newpage\relax
 \maketitle
+\centerline{ 版本号：\gitrevision }
 \endgroup
 
 \centerline{\rule{13cm}{0.4pt}}
@@ -1050,7 +1058,7 @@ $$
 这个变换把 $\mathcal{H}$ 里的每一条横线变成 $\mathcal{P}$ 里过理想点 $\Omega = 1$的伪圆。
 把 $\mathcal{H}$ 里的每一条竖测地线变成 $\mathcal{P}$ 里和上述伪圆族垂直的测地线。
 
-考虑到右手法则，不难得到如下的坐标变换公式：
+考虑到右手法则和坐标值增长的方向，不难得到如下的坐标变换公式：
 
 \begin{equation}
 \begin{cases}
@@ -1085,27 +1093,27 @@ $$
 
 \section{任意生成元的例子}
 
-本节我们将会给出赋值的第六个例子。在这个例子里，我们会看到赋值和生成元的具体取值无关；同时，我们在同一个底图上采用了不同的生成元，
-都能够画出来一些很匀称的网格。我们将研究这些网格的几何含义，并在赋值和网格的基础上，导出第五个例子中的算术表达式的典范形态。
+本节我们将会给出任意生成元赋值的例子。在这个例子里，我们会看到赋值和生成元的具体取值无关；同时，我们可以在同一个底图上，采用了不同的生成元，
+都能够画出来一些很匀称的网格。
 
 考虑上半平面
-\[
+$$
 \{\mathcal{B}: (x, y) | y > 0 \}
-\]
+$$
 
 配有如下的内积
 
-\[
+$$
 \mathbf{a} \cdot \mathbf{b} = \begin{bmatrix} a_x & a_y \end{bmatrix} \begin{bmatrix} \frac{1}{\mu^2 y^2} & 0 \\ 0 & \frac{1}{\lambda^2 y^2} \end{bmatrix} \begin{bmatrix} b_x \\ b_y \end{bmatrix}
-\]
+$$
 
 以及度规
 
-\[
+$$
 ds^2 = \frac{1}{y^2}(\frac{dx^2}{\mu^2} + \frac{dy^2}{\lambda^2})
-\]
+$$
 
-\subsection{赋值例六}\label{subsec:exmp6}
+\subsection{生成元无关的赋值}\label{subsec:exmp6}
 
 给定一个赋值函数
 
@@ -1113,7 +1121,7 @@ ds^2 = \frac{1}{y^2}(\frac{dx^2}{\mu^2} + \frac{dy^2}{\lambda^2})
 A = - \frac{x}{y}
 \end{equation}
 
-我们可以验证，在每个局域，$A$ 满足流方程。
+我们可以验证，在每个局域，$A$ 满足流方程。同时，赋值 $A$ 与生成元的具体取值无关。
 
 \begin{theorem}
 如上定义的 $A$ 满足流方程
@@ -1162,19 +1170,20 @@ $$
 
 \end{proof}
 
-例五的赋值 $A$ 与生成元的具体取值无关。
+\subsection{整点网格的构造}
 
-\subsection{网格的构造}
+传统上，在讨论黎曼可积条件时，我们就是借助于一个离散化网格，通过不断细化网格上的加法求和，来给出黎曼可积的定义。
+可以想象，针对加乘混合的算术表达式，应该有另外的网格构造方式和加细方式。在本节，我们考虑和上一节赋值彼此匹配的一种整点网格的构造。
 
-对不同的生成元，它们都共享一条基础的加线和一条基础的乘线。
+针对给定的生成元参数$\mu$和$\lambda$，现在我们在$\mathcal{B}$上，依照如下程序给出网格构造：
 \begin{itemize}
-    \item 基础的加线: $y = 1$
-    \item 基础的乘线: $x = 0$，整条线是一条零线
+    \item 加线: $y = e^{k\lambda}, k \in \mathbb{Z}$
+    \item 加线上的整点: $(- l e^{k\lambda} , e^{k\lambda}), k, l \in \mathbb{Z}$
+    \item 乘线: 从加线上的每个整点向下延伸出与加线垂直的一条乘线
 \end{itemize}
 
-\subsubsection{网格例二}
-
-在网格例二里，蓝线代表 $+ 1$ 关系，绿线代表 $\times 3$ 关系，它们是彼此垂直的线族。
+如下图\ref{fig:gridex2}给出了 $\mu = 1$ 和 $\lambda = \ln 3$ 时的网格构造
+其中蓝线代表 $+ 1$ 关系，绿线代表 $\times 3$ 关系，它们是彼此垂直的线族。
 
 \begin{figure}[ht]
 \centering
@@ -1182,7 +1191,7 @@ $$
 \begin{tikzpicture}
 \draw [black, line width=0.6pt, ->] (0,0) to[out=90,in=270] (0,9.25);
 \node [anchor=south] at (0,9.5) {y};
-\draw [black, line width=0.6pt, ->] (-8.2,0) to[out=0,in=180] (9.25,0);
+\draw [black, line width=0.6pt, ->] (-9.2,0) to[out=0,in=180] (9.25,0);
 \node [anchor=west] at (9.5,0) {x};
 \foreach \x in {-9,-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7,8,9}
   \node [anchor=north] at (\x,0) {\x};
@@ -1277,31 +1286,13 @@ $$
 
 \end{tikzpicture}
 }
-\caption{网格例二，$\lambda=\ln3$ 和 $\mu=1$}\label{fig:gridex2}
+\caption{$\lambda=\ln 3$ 和 $\mu=1$ 时的网格}\label{fig:gridex2}
 \end{figure}
 
-\subsection{从赋值到表达式}
+\subsection{整点网格的伸缩不变性}
 
-借助于网格，我们可以清楚地看到，赋值是如何同表达式联系起来的。
-从网格上任意选择两个点，所有连接这两个点的网格上的路径都编码了一个由加法生成元 $\mu$ 和乘法生成元 $e^\lambda$ 组合而成的表达式。
+不难发现整点网格在如下的伸缩变换下，保持赋值的不变性
 
-表达式的典范形态也可以清楚的呈现。对于这几个例子，表达式的典范形态取如下形式：
-
-$$
-\prod_{i} p_i \cdot \sum_{j} q_j
-$$
-
-或者
-
-$$
-\sum_{i} q_i + \prod_{j} p_j
-$$
-
-也就是先累加再累乘，或者先累乘再累加。
-
-\subsection{网格的作用}
-
-网格在未来的论证中还会发挥更多的作用。在分析学的视角中，它的作用如同黎曼可积条件里借助离散化求和来实现连续可积。
 
 \newpage
 
