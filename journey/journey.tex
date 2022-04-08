@@ -1301,6 +1301,8 @@ y' = y e^{k\lambda} \\
 \label{eq:scale}
 \end{equation}
 
+这个伸缩变换和它的进一步的拓广将在后面讨论。
+
 \newpage
 
 \section{代数角度考察网格}
@@ -1420,7 +1422,7 @@ $$\gamma = \alpha \circ \beta$$
 
 \subsection{语法结构 $\mathcal{S}^d$}\label{subsec:syntactical2}
 
-如果我们可以引入加乘的分配律，我们可以考虑另外一种语法构造。
+如果我们可以引入加乘的分配律，我们可以考虑另外的语法构造。
 
 可以有多种典范形式。第一种典范形式是利用分配律，先加后乘或者先乘后加。
 $$
@@ -1526,7 +1528,7 @@ $$
 第二种典范形式，是利用分配律，把等幂的乘法项归并起来，得到一个 $\lambda$ 的多项式的形态。
 
 $$
-0 a_1 a_2 \cdots a_n = \sum_{i} k_i \mu e^{l_i \lambda} \in R
+0 a_1 a_2 \cdots a_n = \sum_{i} k_i \mu^{l_i} e^{m_i \lambda} \in R
 $$
 
 \subsection{语义结构 $\mathcal{S}^\infty$}\label{subsec:semantical}
@@ -2238,6 +2240,130 @@ $S_{mn}$ 定理时空可以相互交换
     \caption{从零线开始火烧}\label{fig:merged2}
 \end{figure}
 
+\begin{figure}[ht]
+\centering
+\resizebox{0.9\textwidth}{!}{
+\begin{tikzpicture}
+\draw [black, line width=0.6pt, ->] (0,0) to[out=90,in=270] (0,8.25);
+\node [anchor=south] at (0,8.5) {y};
+\draw [black, line width=0.6pt, ->] (-8.2,0) to[out=0,in=180] (8.25,0);
+\node [anchor=west] at (8.5,0) {x};
+\foreach \x in {-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7,8}
+  \node [anchor=north] at (\x,0) {\x};
+\foreach \y in {1,2,3,4,5,6,7,8}
+  \node [anchor=45] at (0,\y) {\y};
+
+\draw [blue, line width=0.6pt] (-8.25,0.5) to[out=0,in=180] (8.25,0.5);
+\draw [blue, line width=0.6pt] (-8.25,1) to[out=0,in=180] (8.25,1);
+\draw [blue, line width=0.6pt] (-8.25,2) to[out=0,in=180] (8.25,2);
+\draw [blue, line width=0.6pt] (-8.25,4) to[out=0,in=180] (8.25,4);
+\draw [blue, line width=0.6pt] (-8.25,8) to[out=0,in=180] (8.25,8);
+
+\draw [green, line width=0.6pt] (-7.5,0) to[out=90,in=270] (-7.5,0.5);
+\draw [green, line width=0.6pt] (-6.5,0) to[out=90,in=270] (-6.5,0.5);
+\draw [green, line width=0.6pt] (-5.5,0) to[out=90,in=270] (-5.5,0.5);
+\draw [green, line width=0.6pt] (-4.5,0) to[out=90,in=270] (-4.5,0.5);
+\draw [green, line width=0.6pt] (-3.5,0) to[out=90,in=270] (-3.5,0.5);
+\draw [green, line width=0.6pt] (-2.5,0) to[out=90,in=270] (-2.5,0.5);
+\draw [green, line width=0.6pt] (-1.5,0) to[out=90,in=270] (-1.5,0.5);
+\draw [green, line width=0.6pt] (-0.5,0) to[out=90,in=270] (-0.5,0.5);
+\draw [green, line width=0.6pt] (0.5,0) to[out=90,in=270] (0.5,0.5);
+\draw [green, line width=0.6pt] (1.5,0) to[out=90,in=270] (1.5,0.5);
+\draw [green, line width=0.6pt] (2.5,0) to[out=90,in=270] (2.5,0.5);
+\draw [green, line width=0.6pt] (3.5,0) to[out=90,in=270] (3.5,0.5);
+\draw [green, line width=0.6pt] (4.5,0) to[out=90,in=270] (4.5,0.5);
+\draw [green, line width=0.6pt] (5.5,0) to[out=90,in=270] (5.5,0.5);
+\draw [green, line width=0.6pt] (6.5,0) to[out=90,in=270] (6.5,0.5);
+\draw [green, line width=0.6pt] (7.5,0) to[out=90,in=270] (7.5,0.5);
+
+\draw [green, line width=0.6pt] (-8,0) to[out=90,in=270] (-8,1);
+\draw [green, line width=0.6pt] (-7,0) to[out=90,in=270] (-7,1);
+\draw [green, line width=0.6pt] (-6,0) to[out=90,in=270] (-6,1);
+\draw [green, line width=0.6pt] (-5,0) to[out=90,in=270] (-5,1);
+\draw [green, line width=0.6pt] (-4,0) to[out=90,in=270] (-4,1);
+\draw [green, line width=0.6pt] (-3,0) to[out=90,in=270] (-3,1);
+\draw [green, line width=0.6pt] (-2,0) to[out=90,in=270] (-2,1);
+\draw [green, line width=0.6pt] (-1,0) to[out=90,in=270] (-1,1);
+\draw [green, line width=0.6pt] (1,0) to[out=90,in=270] (1,1);
+\draw [green, line width=0.6pt] (2,0) to[out=90,in=270] (2,1);
+\draw [green, line width=0.6pt] (3,0) to[out=90,in=270] (3,1);
+\draw [green, line width=0.6pt] (4,0) to[out=90,in=270] (4,1);
+\draw [green, line width=0.6pt] (5,0) to[out=90,in=270] (5,1);
+\draw [green, line width=0.6pt] (6,0) to[out=90,in=270] (6,1);
+\draw [green, line width=0.6pt] (7,0) to[out=90,in=270] (7,1);
+\draw [green, line width=0.6pt] (8,0) to[out=90,in=270] (8,1);
+
+\draw [green, line width=0.6pt] (-8,1) to[out=90,in=270] (-8,2);
+\draw [green, line width=0.6pt] (-6,1) to[out=90,in=270] (-6,2);
+\draw [green, line width=0.6pt] (-4,1) to[out=90,in=270] (-4,2);
+\draw [green, line width=0.6pt] (-2,1) to[out=90,in=270] (-2,2);
+\draw [green, line width=0.6pt] (2,1) to[out=90,in=270] (2,2);
+\draw [green, line width=0.6pt] (4,1) to[out=90,in=270] (4,2);
+\draw [green, line width=0.6pt] (6,1) to[out=90,in=270] (6,2);
+\draw [green, line width=0.6pt] (8,1) to[out=90,in=270] (8,2);
+
+\draw [green, line width=0.6pt] (-8,2) to[out=90,in=270] (-8,4);
+\draw [green, line width=0.6pt] (-4,2) to[out=90,in=270] (-4,4);
+\draw [green, line width=0.6pt] (4,2) to[out=90,in=270] (4,4);
+\draw [green, line width=0.6pt] (8,2) to[out=90,in=270] (8,4);
+
+\draw [green, line width=0.6pt] (-8,4) to[out=90,in=270] (-8,8);
+\draw [green, line width=0.6pt] (8,4) to[out=90,in=270] (8,8);
+\end{tikzpicture}
+}
+\caption{scalable grid with factor 2}
+\end{figure}
+
+
+\begin{figure}[ht]
+\centering
+\resizebox{\columnwidth}{!}{%
+\begin{tikzpicture}
+\draw [black, line width=0.6pt, ->] (0,0) to[out=90,in=270] (0,9.25);
+\node [anchor=south] at (0,9.5) {y};
+\draw [black, line width=0.6pt, ->] (-9.2,0) to[out=0,in=180] (9.25,0);
+\node [anchor=west] at (9.5,0) {x};
+\foreach \x in {-9,-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7,8,9}
+  \node [anchor=north] at (\x,0) {\x};
+\foreach \y in {1,2,3,4,5,6,7,8,9}
+  \node [anchor=45] at (0,\y) {\y};
+
+\draw [blue, line width=0.6pt] (-9.25,1) to[out=0,in=180] (9.25,1);
+\draw [blue, line width=0.6pt] (-9.25,3) to[out=0,in=180] (9.25,3);
+\draw [blue, line width=0.6pt] (-9.25,9) to[out=0,in=180] (9.25,9);
+
+\draw [green, line width=0.6pt] (-9,0) to[out=90,in=270] (-9,1);
+\draw [green, line width=0.6pt] (-8,0) to[out=90,in=270] (-8,1);
+\draw [green, line width=0.6pt] (-7,0) to[out=90,in=270] (-7,1);
+\draw [green, line width=0.6pt] (-6,0) to[out=90,in=270] (-6,1);
+\draw [green, line width=0.6pt] (-5,0) to[out=90,in=270] (-5,1);
+\draw [green, line width=0.6pt] (-4,0) to[out=90,in=270] (-4,1);
+\draw [green, line width=0.6pt] (-3,0) to[out=90,in=270] (-3,1);
+\draw [green, line width=0.6pt] (-2,0) to[out=90,in=270] (-2,1);
+\draw [green, line width=0.6pt] (-1,0) to[out=90,in=270] (-1,1);
+\draw [green, line width=0.6pt] (1,0) to[out=90,in=270] (1,1);
+\draw [green, line width=0.6pt] (2,0) to[out=90,in=270] (2,1);
+\draw [green, line width=0.6pt] (3,0) to[out=90,in=270] (3,1);
+\draw [green, line width=0.6pt] (4,0) to[out=90,in=270] (4,1);
+\draw [green, line width=0.6pt] (5,0) to[out=90,in=270] (5,1);
+\draw [green, line width=0.6pt] (6,0) to[out=90,in=270] (6,1);
+\draw [green, line width=0.6pt] (7,0) to[out=90,in=270] (7,1);
+\draw [green, line width=0.6pt] (8,0) to[out=90,in=270] (8,1);
+\draw [green, line width=0.6pt] (9,0) to[out=90,in=270] (9,1);
+
+\draw [green, line width=0.6pt] (-9,1) to[out=90,in=270] (-9,3);
+\draw [green, line width=0.6pt] (-6,1) to[out=90,in=270] (-6,3);
+\draw [green, line width=0.6pt] (-3,1) to[out=90,in=270] (-3,3);
+\draw [green, line width=0.6pt] (3,1) to[out=90,in=270] (3,3);
+\draw [green, line width=0.6pt] (6,1) to[out=90,in=270] (6,3);
+\draw [green, line width=0.6pt] (9,1) to[out=90,in=270] (9,3);
+
+\draw [green, line width=0.6pt] (-9,3) to[out=90,in=270] (-9,9);
+\draw [green, line width=0.6pt] (9,3) to[out=90,in=270] (9,9);
+\end{tikzpicture}
+}
+\caption{scalable grid with factor 3}
+\end{figure}
 \end{document}
 
 
