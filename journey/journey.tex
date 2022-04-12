@@ -1422,7 +1422,44 @@ $$\gamma = \alpha \circ \beta$$
 
 \subsection{语法结构 $\mathcal{S}^d$}\label{subsec:syntactical2}
 
-如果我们可以引入加乘的分配律，我们可以考虑另外的语法构造。
+本节我们考虑引入加乘的分配律之后得到的语法构造。
+
+\subsubsection{交错式与扰动商}
+
+首先，我们指出任何通路对应的表达式都可以写成一种乘加交错出现的形式，
+也即任何通路 $\alpha$ 都可以写成如下形式：
+
+\begin{equation}
+    \alpha = a_1 b_1 a_2 b_2 \cdots a_l b_l, a_i = \otimes_\lambda^{n_i}, b_i = \oplus_\mu^{m_i},  n, m \in \mathbb{Z}
+    \label{alternative}
+\end{equation}
+
+如果我们把 $n_i$ 的累和写成 $k_i$，也就是说
+$$
+k_i = \sum_{j=1}^i n_j, k_0 = 0
+$$
+
+同时，对任意给定的起点 $w$，我们令
+$$
+m_0 = \frac{w}{\mu}
+$$
+
+此时，我们把式\ref{alternative}按照分配律完全展开，得到
+\begin{align}
+\alpha(w) & = e^{n_l \lambda}(\cdots (e^{n_2 \lambda} (e^{n_1 \lambda} w + m_1 \mu) + m_2 \mu) \cdots) + m_l \mu \\
+& = e^{n_l \lambda}(\cdots (e^{n_2 \lambda} (e^{n_1 \lambda} m_0 \mu + m_1 \mu) + m_2 \mu) \cdots) + m_l \mu \\
+& = \mu (e^{\lambda k_l} m_0 + e^{\lambda k_{l - 1}} m_1  + e^{\lambda k_{l - 1}} m_2 + \cdots + e^{\lambda k_1} m_{l-1} + e^{\lambda k_0} m_l)
+\end{align}
+
+下面，我们在起点 $w$ 处引入一个扰动 $e^{\eta \lambda} w + \epsilon \mu$，其中 $\eta$ 和 $\epsilon$ 分别是加和乘上的扰动项，此时我们有
+\begin{align}
+\alpha(e^{\eta \lambda} w + \epsilon \mu) & = \mu (e^{\lambda k_l} (e^{\eta \lambda} m_0 + \epsilon) + e^{\lambda k_{i - 1}} m_1 + \cdots + e^{\lambda k_0} m_l)
+\end{align}
+
+于是，我们可以纯粹从算术的角度，无需通过极限，就可以得到一个有意义的商
+$$
+\frac{\alpha(e^{\eta \lambda} w + \epsilon \mu) - \alpha(w)}{e^{\eta \lambda} w + \epsilon \mu - w} = e^{\lambda k_l}
+$$
 
 可以有多种典范形式。第一种典范形式是利用分配律，先加后乘或者先乘后加。
 $$
