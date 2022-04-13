@@ -1448,7 +1448,7 @@ $$
 \begin{align}
 \alpha(w_0) & = e^{n_l \lambda}(\cdots (e^{n_2 \lambda} (e^{n_1 \lambda} w_0 + m_1 \mu) + m_2 \mu) \cdots) + m_l \mu \\
 & = e^{n_l \lambda}(\cdots (e^{n_2 \lambda} (e^{n_1 \lambda} m_0 \mu + m_1 \mu) + m_2 \mu) \cdots) + m_l \mu \\
-& = \mu (e^{\lambda k_l} m_0 + e^{\lambda k_{l - 1}} m_1  + e^{\lambda k_{l - 1}} m_2 + \cdots + e^{\lambda k_1} m_{l-1} + e^{\lambda k_0} m_l)
+& = \mu (e^{\lambda k_l} m_0 + e^{\lambda k_{l - 1}} m_1  + e^{\lambda k_{l - 2}} m_2 + \cdots + e^{\lambda k_1} m_{l-1} + e^{\lambda k_0} m_l)
 \end{align}
 
 下面，我们在起点 $w_0$ 处引入一个扰动 $\tilde{w_0} = e^{\eta_0 \lambda} w_0 + \epsilon_0 \mu$，其中 $\eta_0$ 和 $\epsilon_0$ 分别是在 $w_0$ 处加和乘上的扰动项，此时我们有
@@ -1477,31 +1477,43 @@ $$
 
 在上节我们得到公式，
 \begin{equation}
-\alpha(w_0) = \mu (e^{\lambda k_l} m_0 + e^{\lambda k_{l - 1}} m_1  + e^{\lambda k_{l - 1}} m_2 + \cdots + e^{\lambda k_1} m_{l-1} + e^{\lambda k_0} m_l)
+\alpha(w_0) = \mu (e^{\lambda k_l} m_0 + e^{\lambda k_{l - 1}} m_1  + e^{\lambda k_{l - 2}} m_2 + \cdots + e^{\lambda k_1} m_{l-1} + e^{\lambda k_0} m_l)
 \end{equation}
 
 于是有
 \begin{equation}
-\alpha(w_0) = \mu e^{\lambda k_l} m_0 + \mu (e^{\lambda k_{l - 1}} m_1  + e^{\lambda k_{l - 1}} m_2 + \cdots + e^{\lambda k_1} m_{l-1} + e^{\lambda k_0} m_l)
+\alpha(w_0) = e^{\lambda k_l} \mu m_0 + (e^{\lambda k_{l - 1}} \mu m_1  + e^{\lambda k_{l - 2}} \mu m_2 + \cdots + e^{\lambda k_1} \mu m_{l-1} + e^{\lambda k_0} \mu m_l)
 \end{equation}
 
-我们还可以对它变形
+即有
+
 \begin{equation}
-\alpha(w_0) = e^{\lambda k_l} ( \mu m_0 + \mu m_1 e^{\lambda (k_{l - 1} - k_l)} + \mu m_2 e^{\lambda (k_{l - 1} - k_l)}+ \cdots + \mu m_{l-1} e^{\lambda (k_1 - k_l)}  + \mu m_l e^{\lambda (k_0 - k_l)})
+w_l = a w_0 + b
 \end{equation}
 
-如何从这些标准的形式里得到几何？这是要仔细考察的问题。
+或者我们还可以对它变形
+\begin{equation}
+\alpha(w_0) = e^{\lambda k_l} (\mu m_0 + \mu m_1 e^{\lambda (k_{l - 1} - k_l)} + \mu m_2 e^{\lambda (k_{l - 2} - k_l)}+ \cdots + \mu m_{l-1} e^{\lambda (k_1 - k_l)}  + \mu m_l e^{\lambda (k_0 - k_l)})
+\end{equation}
 
-可以有多种典范形式。第一种典范形式是利用分配律，先加后乘或者先乘后加。
-$$
-0 a_1 a_2 \cdots a_n = \prod_{i} p_i \cdot \sum_{j} q_j
-$$
+得到
+\begin{equation}
+w_l = a (w_0 + c)
+\end{equation}
 
-或者
+如何从这些标准的形式里得到几何？这是要仔细考察的问题。我们从考察交换子入手
 
-$$
-0 a_1 a_2 \cdots a_n = \sum_{i} q_i + \prod_{j} p_j
-$$
+\begin{equation}
+a (w_0 + c) - (a w_0 + c) = b - c
+\end{equation}
+
+\begin{equation}
+b - c = (1 - \frac{1}{e^{\lambda k_l}}) \mu (e^{\lambda k_{l - 1}} m_1  + e^{\lambda k_{l - 2}} m_2 + \cdots + e^{\lambda k_1} m_{l-1} + e^{\lambda k_0} m_l)
+\end{equation}
+
+\begin{equation}
+b - c = (1 - \frac{1}{a}) b
+\end{equation}
 
 \begin{figure}[ht]
 \centering
