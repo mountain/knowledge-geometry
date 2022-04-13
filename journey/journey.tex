@@ -1424,7 +1424,7 @@ $$\gamma = \alpha \circ \beta$$
 
 本节我们考虑引入加乘的分配律之后得到的语法构造。
 
-\subsubsection{交错式与扰动商}
+\subsubsection{交错式与扰动分析}
 
 首先，我们指出任何通路对应的表达式都可以写成一种乘加交错出现的形式，
 也即任何通路 $\alpha$ 都可以写成如下形式：
@@ -1439,27 +1439,58 @@ $$
 k_i = \sum_{j=1}^i n_j, k_0 = 0
 $$
 
-同时，对任意给定的起点 $w$，我们令
+同时，对任意给定的起点 $w_0$，我们令
 $$
-m_0 = \frac{w}{\mu}
+m_0 = \frac{w_0}{\mu}
 $$
 
 此时，我们把式\ref{alternative}按照分配律完全展开，得到
 \begin{align}
-\alpha(w) & = e^{n_l \lambda}(\cdots (e^{n_2 \lambda} (e^{n_1 \lambda} w + m_1 \mu) + m_2 \mu) \cdots) + m_l \mu \\
+\alpha(w_0) & = e^{n_l \lambda}(\cdots (e^{n_2 \lambda} (e^{n_1 \lambda} w_0 + m_1 \mu) + m_2 \mu) \cdots) + m_l \mu \\
 & = e^{n_l \lambda}(\cdots (e^{n_2 \lambda} (e^{n_1 \lambda} m_0 \mu + m_1 \mu) + m_2 \mu) \cdots) + m_l \mu \\
 & = \mu (e^{\lambda k_l} m_0 + e^{\lambda k_{l - 1}} m_1  + e^{\lambda k_{l - 1}} m_2 + \cdots + e^{\lambda k_1} m_{l-1} + e^{\lambda k_0} m_l)
 \end{align}
 
-下面，我们在起点 $w$ 处引入一个扰动 $e^{\eta \lambda} w + \epsilon \mu$，其中 $\eta$ 和 $\epsilon$ 分别是加和乘上的扰动项，此时我们有
+下面，我们在起点 $w_0$ 处引入一个扰动 $\tilde{w_0} = e^{\eta_0 \lambda} w_0 + \epsilon_0 \mu$，其中 $\eta_0$ 和 $\epsilon_0$ 分别是在 $w_0$ 处加和乘上的扰动项，此时我们有
 \begin{align}
-\alpha(e^{\eta \lambda} w + \epsilon \mu) & = \mu (e^{\lambda k_l} (e^{\eta \lambda} m_0 + \epsilon) + e^{\lambda k_{i - 1}} m_1 + \cdots + e^{\lambda k_0} m_l)
+\alpha(e^{\eta_0 \lambda} w_0 + \epsilon_0 \mu) & = \mu (e^{\lambda k_l} (e^{\eta \lambda} m_0 + \epsilon) + e^{\lambda k_{i - 1}} m_1 + \cdots + e^{\lambda k_0} m_l)
 \end{align}
 
 于是，我们可以纯粹从算术的角度，无需通过极限，就可以得到一个有意义的商
+\begin{equation}
+\frac{\alpha(e^{\eta_0 \lambda} w_0 + \epsilon_0 \mu) - \alpha(w_0)}{e^{\eta_0 \lambda} w_0 + \epsilon_0 \mu - w_0} = e^{\lambda k_l}
+\end{equation}
+
+我们把这个关系从起点 $w_0$ 处延伸到整个过程的 $w_i$ 和相应的扰动 $\tilde{w_i} = e^{\eta_i \lambda} w_i + \epsilon_i \mu$ 里，此处有
+
 $$
-\frac{\alpha(e^{\eta \lambda} w + \epsilon \mu) - \alpha(w)}{e^{\eta \lambda} w + \epsilon \mu - w} = e^{\lambda k_l}
+w_i = e^{n_i \lambda} w_{i-1} + m_i \mu
 $$
+
+于是
+
+\begin{equation}
+\tilde{\alpha} - \alpha = \sum_{i=0}^l e^{\lambda k_{l - i}} (\tilde{w_i} - w_i)
+\end{equation}
+
+\subsubsection{典范形式}
+
+在上节我们得到公式，
+\begin{equation}
+\alpha(w_0) = \mu (e^{\lambda k_l} m_0 + e^{\lambda k_{l - 1}} m_1  + e^{\lambda k_{l - 1}} m_2 + \cdots + e^{\lambda k_1} m_{l-1} + e^{\lambda k_0} m_l)
+\end{equation}
+
+于是有
+\begin{equation}
+\alpha(w_0) = \mu e^{\lambda k_l} m_0 + \mu (e^{\lambda k_{l - 1}} m_1  + e^{\lambda k_{l - 1}} m_2 + \cdots + e^{\lambda k_1} m_{l-1} + e^{\lambda k_0} m_l)
+\end{equation}
+
+我们还可以对它变形
+\begin{equation}
+\alpha(w_0) = e^{\lambda k_l} ( \mu m_0 + \mu m_1 e^{\lambda (k_{l - 1} - k_l)} + \mu m_2 e^{\lambda (k_{l - 1} - k_l)}+ \cdots + \mu m_{l-1} e^{\lambda (k_1 - k_l)}  + \mu m_l e^{\lambda (k_0 - k_l)})
+\end{equation}
+
+如何从这些标准的形式里得到几何？这是要仔细考察的问题。
 
 可以有多种典范形式。第一种典范形式是利用分配律，先加后乘或者先乘后加。
 $$
