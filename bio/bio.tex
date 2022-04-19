@@ -27,6 +27,16 @@
 \usepackage{pgfplots}
 \usepackage{tkz-euclide}
 
+\usepackage{listings}
+\lstset{
+  basicstyle=\itshape,
+  xleftmargin=3em,
+  literate={->}{$\rightarrow$}{2}
+           {α}{$\alpha$}{1}
+           {δ}{$\delta$}{1}
+}
+
+
 \usepackage{csquotes}
 \renewcommand{\mkbegdispquote}[2]{\itshape}
 
@@ -49,6 +59,8 @@
 \usepackage{textcomp}
 \usepackage{subfiles}
 
+\newtheorem{problem}{问题}
+\numberwithin{problem}{section}
 \newtheorem{definition}{定义}
 \numberwithin{definition}{section}
 \newtheorem{lemma}{引理}
@@ -221,8 +233,45 @@
 
 \subsection{研究题目}
 
-为了清晰的陈述一个复杂问题，势必引入一定的表述形式，但目前我思考的这个领域还在早期，下面的表述只是一种尝试。
-在未完成的附件一中，我给出了更多的思考过程的描述。
+为了清晰的陈述一个复杂问题，势必引入一定的表述形式，但目前我思考的这个领域还在早期，下面的表述只是一种尝试。这个尝试会尽量采用演绎的方式来进行。
+在未完成的附件一中，我给出了更多的思考过程的描述，在那里很多思考是归纳的方式。
+
+\subsubsection{最一般的问题陈述}
+
+\begin{problem}
+    算术表达式构成的几何空间是什么样子的？这里的几何空间可以是拓扑空间、度量空间，也可以是各种流形。
+\end{problem}
+
+
+
+\begin{definition}
+    实数域$\mathbb{R}$的算术表达式$a$由如下的生成式给出：
+    \begin{lstlisting}
+    a -> x
+    a -> ( a + a )
+    a -> ( a - a )
+    a -> ( a × a )
+    a -> ( a / a )
+    \end{lstlisting}
+    其中 $x \in \mathbb{R}$。
+\end{definition}
+
+估值$\nu$是对上面算术表达式 $a$ 的计算，它只在上面计算中出现除零时无定义。
+
+\begin{definition}
+    良定义的算术表达式是指可以估值的算术表达式
+\end{definition}
+
+我们记实数域$\mathbb{R}$上的全体良定义的算术表达式为$\mathbb{A}$，此时$\nu$ 是从$\mathbb{A}$到$\mathbb{R}$的函数。
+
+\begin{definition}
+    拓扑空间$\mathcal{A}$上有稠密集 $G \subseteq \mathbb{A}$ ，对任意一点 $x \in \mathcal{A}$，任意一个点列$x_i$，
+    如果对 $x$ 的任意开邻域 $U$，存在 $n$ 使得任意的 $j > n$ 都有 $x_j \in U$，此时我们有
+    我们称拓扑空间$\mathcal{A}$ 为一个拓扑算术表达式空间。
+\end{definition}
+
+\subsubsection{一个启发性的例子}
+
 
 
 
@@ -359,8 +408,6 @@
 更进一步，希尔伯特把几何算术化，所以我们能把希尔伯特的思路反过来吗？给出一个几何式的元数学？
 
 \subsection{向下去思考}
-
-
 
 \newpage
 
