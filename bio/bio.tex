@@ -314,7 +314,7 @@
 过程比结果更重要。
 \end{displayquote}
 
-算术表达式的几何提供了一种可能，在这里一部分计算过程可以被实现为一个几何上的轨迹。
+算术表达式的几何提供了一种可能，在这里一部分计算过程可以被实现为一个几何上的流。
 
 \subsection{机器能否数数的思考}
 
@@ -381,6 +381,8 @@
 \end{enumerate}
 
 那么就迈出这一步。
+
+\newpage
 
 \appendix
 
@@ -936,23 +938,222 @@ $$
 
 \subsection{梯度-等值线坐标系}
 
+易导出局部坐标系下的等值线方程
 
-\subsection{梯度-等值线互易}
+\begin{equation}
+    \mu \cos \theta_c + a \lambda \sin \theta_c = 0
+\end{equation}
+
+故有
+
+\begin{equation}
+    \theta_c = - \arctan \frac{\mu}{a \lambda}
+\end{equation}
+
+等值线和梯度两者彼此垂直
+
+\begin{equation}
+    \theta_g = \pm \frac{\pi}{2} - \arctan \frac{\mu}{a \lambda}
+\end{equation}
+
+故沿 $\theta_g$ 我们有
+
+\begin{equation}
+    \frac{da}{ds} = \mu \cos (\pm \frac{\pi}{2} - \arctan \frac{\mu}{a \lambda}) + a \lambda \sin (\pm \frac{\pi}{2} - \arctan \frac{\mu}{a \lambda})
+\end{equation}
+
+\begin{equation}
+    \frac{da}{ds} = \pm \sqrt{\mu^2 + \lambda^2 a^2}\label{eq:grad}
+\end{equation}
+
+方程 \eqref{eq:grad} 可解，得到了沿梯度流线 $a$ 和 $s$ 的关系：
+
+\begin{equation}
+    \pm \tanh(\lambda s + c) = \frac{\lambda a}{\sqrt{\mu^2 + \lambda^2 a^2}}
+\end{equation}
+
+如约定 $\mu > 0$，可进一步变形：
+
+\begin{equation}
+  a = \pm \frac{\mu}{\lambda} \sinh(c \pm \lambda s)\label{eq:gradevo}
+\end{equation}
+
+在梯度方向的基础上按右手螺旋引入转角 $\phi$，建立梯度-等值线为参照的局部极坐标系，则沿角 $\phi$ 移动时 $a$ 的增长率为
+
+\begin{equation}
+    \frac{da}{ds} = \mu \cos (\frac{\pi}{2} - \arctan \frac{\mu}{a \lambda} + \phi) + a \lambda \sin (\frac{\pi}{2} - \arctan \frac{\mu}{a \lambda} + \phi)
+    \label{eq:fourfold}
+\end{equation}
+
+化简得
+
+\begin{equation}
+    \frac{da}{ds} = \sqrt {\mu^2 + a^2 \lambda^2} \cos \phi\label{eq:contourgradient}
+\end{equation}
+
+此即梯度-等值线坐标系下的流方程。
+
+在这个坐标系下，加线和乘线分别为：
+
+\begin{equation}
+    \phi = \arccos \frac{\mu}{\sqrt {\mu^2 + a^2 \lambda^2}} \label{eq:additionalline}
+\end{equation}
+
+\begin{equation}
+    \phi = \arccos \frac{a \lambda}{\sqrt {\mu^2 + a^2 \lambda^2}}\label {eq:mulitiplcativeline}
+\end{equation}
+
+\subsection{第二个例子的构造大意}
+
+式\ref{eq:gradevo} 给到了 $a$ 和 $s$ 的关系，启发我们用火烧法去研究与零线等距的超圆族。
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+    \tkzDefPoint(0,0){O}
+    \tkzDefPoint(-4,0){O1}
+    \tkzDefPoint(4,0){O2}
+    \tkzDefPoint(0,-4){V1}
+    \tkzDefPoint(0,4){V2}
+    \tkzDefPoint(0,-5){K2}
+    \tkzDefPoint(0,1.44){X}
+
+    \tkzDefCircle[apollonius,K=2](O1,O2) \tkzGetPoint{K1} \tkzGetPoints{A}{B} \tkzGetLength{rAp}
+    \tkzInterCC(O,O2)(K1,A) \tkzGetPoints{C}{D}
+
+    \tkzDrawCircle[color=red,fill=red](O,O1)
+    \tkzDrawArc[R with nodes,color=green](K1,\rAp pt)(C,D)
+    \tkzDrawArc[R with nodes,color=blue](K2,183 pt)(O2,O1)
+
+    \tkzDefMidPoint(O,V2) \tkzGetPoint{M}
+    \tkzInterLC(M,O2)(K1,A) \tkzGetPoints{L}{N}
+
+    \tkzDrawSegment[color=blue](O1,O2)
+    \tkzDrawSegment[color=green](V1,V2)
+    \tkzDrawCircle[R,fill=black](N,1 pt)
+    \tkzDrawCircle[R,fill=black](A,1 pt)
+    \tkzDrawCircle[R,fill=black](O,1 pt)
+    \tkzDrawCircle[R,fill=black](X,1 pt)
+
+    \tkzLabelPoint[below right](A){$P$}
+    \tkzLabelPoint[above right](N){$Q$}
+    \tkzLabelPoint[below left](O1){$\Omega_r$}
+    \tkzLabelPoint[below right](O2){$\Omega_l$}
+    \tkzLabelPoint[below](V1){$\Omega_b$}
+    \tkzLabelPoint[above](V2){$\Omega_a$}
+    \tkzLabelPoint[below left](O){$O$}
+    \tkzLabelPoint[above left](X){$R$}
+    \tkzLabelLine[blue,left](A,N){$s$}
+    \tkzLabelLine[blue,left](O,X){$s$}
+
+\end{tikzpicture}
+\caption{沿着超圆的对称性}\label{fig:appolo}
+\end{figure}
+
+如图\ref{fig:appolo}，我们从零线 $\Omega_r O \Omega_l$ 开始燃烧，超圆$\Omega_r R \Omega_l$ 各处距离零线都为 $s$ 。
+所以，当我们沿超圆从 $R$ 移动到 $Q$ ，同时零线上的 $O$ 移动到了 $P$，在这个过程中，距离 $s$ 保持不变，反映了一种平移运动中的对称性。
+
+如图\ref{fig:merged}，当我们把这种对称性和四阶无限边形铺嵌结合在一起观察的时候，
+我们会发现，平移对称性适当离散化后，可以保持四阶无限边形铺嵌不变。
+
+\begin{figure}[ht]
+\centering
+
+\begin{tikzpicture}
+\begin{scope}[line width=0.3pt]
+    \draw (0, 0) node[inner sep=0] {\includegraphics[width=3.142in]{images/t4097.png}};
+    \tkzDefPoint(0,0){O}
+    \tkzDefPoint(-4,0){O1}
+    \tkzDefPoint(4,0){O2}
+    \tkzDefPoint(0,-4){V1}
+    \tkzDefPoint(0,4){V2}
+    \tkzDefPoint(-5, 0){K2}
+
+    \tkzDefCircle[apollonius,K=2.415](V1,V2) \tkzGetPoint{K1} \tkzGetPoints{A}{B} \tkzGetLength{rAp}
+    \tkzInterCC(O,V2)(K1,A) \tkzGetPoints{C}{D}
+    \tkzInterCC(K2,V2)(K1,A) \tkzGetPoints{L}{N}
+
+    \tkzDrawCircle[color=black](O,V1)
+    \tkzDrawArc[R with nodes,color=gray](K1,\rAp pt)(C,D)
+    \tkzDrawArc[R with nodes,color=yellow](K2,183 pt)(V1,V2)
+
+    \tkzDrawSegment[color=blue](O1,O2)
+    \tkzDrawSegment[color=blue](V1,V2)
+    \tkzDrawCircle[R,fill=black](N,1 pt)
+
+    \tkzLabelPoint[below](V1){$\Omega_{s}$}
+    \tkzLabelPoint[above](V2){$\Omega_{n}$}
+    \tkzLabelLine[blue,above](A,N){$s$}
+
+    \tkzDefPoint(2.82,0){P}
+    \tkzDefPoint(3.36,1.13){Q}
+    \tkzDefPoint(4,0){R}
+    \tkzDefPoint(3.773,1.32){S}
+    \tkzDrawCircle[R,fill=black](O,1 pt)
+    \tkzDrawCircle[R,fill=black](P,1 pt)
+    \tkzDrawCircle[R,fill=black](Q,1 pt)
+    \tkzDrawCircle[R,fill=black](R,1 pt)
+    \tkzDrawCircle[R,fill=black](S,1 pt)
+    \tkzLabelPoint[below left](O){$O$}
+    \tkzLabelPoint[below left](P){$P$}
+    \tkzLabelPoint[left](Q){$Q$}
+    \tkzLabelPoint[right](R){$\Omega_{1}$}
+    \tkzLabelPoint[right](S){$\Omega_{2}$}
+
+\end{scope}
+\end{tikzpicture}
+\caption{四阶无限边形铺嵌里的对称性}\label{fig:merged}
+\end{figure}
+
+另一方面，当火线离开零线推进的时候，我们可以观察到，火线的梯度方向和四阶无限边形存在如下的搭配关系：
+
+\begin{itemize}
+    \item 火线沿 $O\Omega_{1}$ 向前传播，梯度方向始终和 $O\Omega_{1}$ 一致。
+    \item 火线到达 $P$ 点，$PQ$ 上每点的切线都与火线到达时的梯度，它们的夹角会均匀地从 $\frac{\pi}{2}$ 变化到 $0$。
+    \item 于是进一步，火线沿 $Q\Omega_{2}$ 向前传播，梯度方向始终和 $Q\Omega_{2}$ 一致。
+    \item 上述情况反复出现……
+\end{itemize}
+
+这些直观的观察是在讨论四阶无限边形铺嵌的某种对称性。围绕这个对称性，结合公式 \ref{eq:fourfold} ，
+就可以对无限边形染色，其中的每种颜色代表前述公式里一种符号的选择。
+
+\subsection{四阶无限边形铺嵌里的问题}
+
+第二个例子目前还没能严格化，是因为四阶无限边形铺嵌的详细构造还没有严格给出。
+但我们通过数值计算已经得到一些有用的思路。
+
+\begin{figure}[ht]
+    \centering
+    \begin{tikzpicture}
+        \begin{scope}[line width=0.3pt]
+            \draw (0, 0) node[inner sep=0] {\includegraphics[width=6.284in]{images/apeirogon.png}};
+        \end{scope}
+    \end{tikzpicture}
+    \caption{四阶无限边形铺嵌}\label{fig:apeirogon}
+\end{figure}
+
+需证明图中存在一个二等分角的序列。
+
+\subsection{梯度-等值线互易、赋值的复化和时空对偶的想法}
+
+经过一段时间的思考和探索，产生了几个想法，但还没有经受足够多例子的验算与严格证明的支持。
+
+梯度-等值线坐标给出以后，下一个重要的步骤是在一定边界条件下，把梯度和等值线的地位互易，从一个赋值里导出共轭的另一个赋值。
+设一个赋值是 $f$，将梯度和等值线地位互易得到共轭赋值是 $g$，然后我们研究这一对彼此共轭的赋值复化以后的函数 $f+ ig$。
+
+这个想法的基本动机是这样：我们已经观察到赋值是 Laplace 算子的特征向量，同时共形变换保持流方程不变，但特征值不是共形不变量，
+特征值的模平方是共形不变量。这就引导我们去想把问题适当的复化，同时还要保持原始问题里的信息。
+
+另外还有一个基于几何直观的猜测，在每个局部，我们都有梯度-等值线坐标系和加乘坐标系存在一个交角，这可能会导致一个有趣的事情。
+给定庞加莱圆盘上的一个基本域，它延展开可以得到一个以该基本域为基础的铺嵌，那么这个镶嵌作为图，它有一个对偶图，也是一个铺嵌，
+这个对偶铺嵌的基本域和原来的基本域，彼此形成对偶。总有一种几何上的感觉，这一对儿基本域，一个和原来的加乘坐标系联系，
+是刻画空间。另一个和原来的梯度-等值线坐标系联系，是刻画时间。空间可以沿着时间的线可以折叠起来，刚好就是两个坐标系的夹角。
+
+但我还缺乏足够的能力去验证这些想法。
+
+\subsection{可能的管形构造的给出}
 
 
-\subsection{第二个例子的给出}
-
-
-\subsection{问题的复化}
-
-
-\subsection{时空对偶}
-
-
-\subsection{解集结构}
-
-
-\subsection{管形构造的给出}
 
 
 \end{document}
