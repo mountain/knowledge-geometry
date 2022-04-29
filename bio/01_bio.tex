@@ -1,0 +1,145 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{amsmath, amsthm}
+\usepackage{datetime}
+\usepackage{framed}
+\usepackage{enumitem}
+\usepackage{fancyref}
+\usepackage{wrapfig}
+\usepackage{pifont}
+\usepackage{appendix}
+\usepackage{caption}
+\usepackage{xcolor}
+\usepackage[stable]{footmisc}
+\usepackage{multicol}
+\usepackage{csquotes}
+
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{mathtools}
+
+\usepackage{tikz}
+\usepackage{pgf}
+\usepgflibrary{fpu}
+\usepackage{qtree}
+\usetikzlibrary{angles,fit,arrows,calc,math,intersections,through,backgrounds}
+\usepackage{pgfplots}
+\usepackage{tkz-euclide}
+
+\usepackage{listings}
+\lstset{
+  basicstyle=\itshape,
+  xleftmargin=3em,
+  literate={->}{$\rightarrow$}{2}
+           {α}{$\alpha$}{1}
+           {δ}{$\delta$}{1}
+}
+
+
+\usepackage{csquotes}
+\renewcommand{\mkbegdispquote}[2]{\itshape}
+
+\newdateformat{nianyueri}{ \THEYEAR 年 \THEMONTH 月 \THEDAY 日 }
+
+\usepackage{xstring}
+\usepackage{catchfile}
+\CatchFileDef{\HEAD}{../.git/refs/heads/master}{}
+\newcommand{\gitrevision}{%
+  \StrLeft{\HEAD}{7}%
+}
+
+\usepackage{data/quiver}
+\usepackage{data/circledsteps}
+\input{data/style}
+
+\usepackage{stmaryrd}
+\usepackage{mathtools}
+\usepackage{wasysym}
+\usepackage{textcomp}
+\usepackage{subfiles}
+
+\newtheorem{problem}{问题}
+\numberwithin{problem}{section}
+\newtheorem{definition}{定义}
+\numberwithin{definition}{section}
+\newtheorem{lemma}{引理}
+\numberwithin{lemma}{section}
+\newtheorem{proposition}{命题}
+\numberwithin{proposition}{section}
+\newtheorem{theorem}{定理}
+\numberwithin{theorem}{section}
+\newtheorem{grammar}{文法}
+\numberwithin{grammar}{section}
+\newtheorem{program}{程序}
+\numberwithin{program}{section}
+\newtheorem{convention}{约定}
+\numberwithin{convention}{section}
+\newtheorem{corollary}{推论}
+\numberwithin{corollary}{section}
+\renewcommand*{\proofname}{证明}
+
+\xeCJKsetwidth{‘’“”}{1em}
+
+\title{本人自述}
+\date{\nianyueri\today}
+\author{苑明理}
+
+\begin{document}
+
+\begingroup
+\let\newpage\relax
+\maketitle
+\endgroup
+
+1994年我就读于山东工业大学计算数学专业（后并入山东大学），1998年获得学士学位。其后短暂工作了两年，用了三个月的准备考入了北京大学数学学院，
+2001年9月入校学习。2002年10月份，我和新加坡的友人一起汉化了维基百科，所以我是中文维基百科的发起人之一。此后多年也致力于跨越地域的分歧，
+共同创造一个属于中文的互联网百科全书。2005年 1 月我获得应用数学专业的硕士学位，离开北大到了上海，先后在 HP、eBay 任职，
+从事工程技术工作；2010年，人生低谷中困惑的我，开始了一个浪漫的尝试—瓦克星计划，用计算机去模拟一个虚拟星球。2012 年我回到北京，成家立业。
+经过一年的中转，在 2014 年和朋友一起创立了彩云科技，把最新的深度学习和天气预报结合起来，是国内最早把短临预报大规模推向公众的单位。
+我也是公司的联合创始人，先后任 CTO 和数据科学家。
+
+或许可以这样一直走下去，但内心敏感的我常有困惑，2016年 40 岁时我曾留下一段文字
+
+\begin{displayquote}
+“十余年程序员生涯，游走于工程、语言、知识、智能、数学这些关键词之间，内心对世界充满很多好奇和困惑，尝听友人讲大刘《山》的故事，
+也期自己可凭蛮力，凿空厚壁，得见星空。”
+\end{displayquote}
+
+大刘《山》的故事是小说家刘慈欣的一篇短篇小说，是一个现代版的望洋兴叹的故事。当时的我已经开始和一个数学问题结缘了，
+那个时候认识还不深。我在尚未完成的附件一里有段文字写前后的经历：
+
+\begin{displayquote}
+    事情可以追溯到 2015 年底，当时我在上海短居。在考虑用词向量技术表达整数的时候，
+    我发现可以构造一种有趣的、双曲平面上的离散结构。当看到那些蜿蜒到无穷的折线和
+    均匀的数值分布时，我意识到可能发现了一个有着丰富内涵的数学结构。
+
+    其后的几年我一直在反复琢磨它。 2019 年 10 月底我去美国出差，11 月初在回国的飞机上，
+    我偶然发现了这种构造方式可以推广到无穷小。一两天后，我得到了双曲平面上无穷小生成
+    结构的流方程。和中山大学的蒋文峰老师讨论后，他给到我很多好的建议，鼓励我一步步走
+    下去。
+
+    2019 年底到 2020 年夏，我在努力把这个结果应用到一种重要的神经网络上—残差网络，
+    可以得到一类特殊的网络架构来解决演化问题。几个月的努力，逐步得到了一些有趣的神
+    经网络架构，虽然在一些演化问题上它还没有达到工业界的最佳水平，但也有着良好的性能，
+    至少可以说明这种几何化的想法在实践中是可行的。这些应用角度的努力，也可以从理论角
+    度给予解读，是在探索另外一种微积分的可能性。
+
+    2020 年底，在和英国的刘宇老师讨论后，他问了我几个特别好的问题，促使我重新思考，
+    结果发现无穷小生成元的选择是自由的，这样就导出了一个非常深刻的管型构造， 这个
+    管型构造能和多项式联系起来，是一种纤维结构。但是这些几何构造还仅仅存在于设想中，
+    它还欠缺一个严密的理论基础和经过证明的实例。
+
+    于是，在 2021 年初，我从公司(彩云科技)争取了三个月的时间，在实习生张乐和张怀公的
+    帮助下，我们一起找到了第一个严格的、可以解算的实例(张乐的工作)，也找到了一般情况
+    下的表述方法(张怀公的工作)。
+\end{displayquote}
+
+经过六、七年的探索，我觉得要做一个不容易的人生选择，我的选择是回到数学。人要对事情有判断和基于判断的胆识。
+基于我个人的理解，我认为这个选择值得。
+
+\end{document}
+
+
+
+

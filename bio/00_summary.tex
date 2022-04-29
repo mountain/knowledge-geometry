@@ -1,0 +1,123 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{amsmath, amsthm}
+\usepackage{datetime}
+\usepackage{framed}
+\usepackage{enumitem}
+\usepackage{fancyref}
+\usepackage{wrapfig}
+\usepackage{pifont}
+\usepackage{appendix}
+\usepackage{caption}
+\usepackage{xcolor}
+\usepackage[stable]{footmisc}
+\usepackage{multicol}
+\usepackage{csquotes}
+
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{mathtools}
+
+\usepackage{tikz}
+\usepackage{pgf}
+\usepgflibrary{fpu}
+\usepackage{qtree}
+\usetikzlibrary{angles,fit,arrows,calc,math,intersections,through,backgrounds}
+\usepackage{pgfplots}
+\usepackage{tkz-euclide}
+
+\usepackage{listings}
+\lstset{
+  basicstyle=\itshape,
+  xleftmargin=3em,
+  literate={->}{$\rightarrow$}{2}
+           {α}{$\alpha$}{1}
+           {δ}{$\delta$}{1}
+}
+
+
+\usepackage{csquotes}
+\renewcommand{\mkbegdispquote}[2]{\itshape}
+
+\newdateformat{nianyueri}{ \THEYEAR 年 \THEMONTH 月 \THEDAY 日 }
+
+\usepackage{xstring}
+\usepackage{catchfile}
+\CatchFileDef{\HEAD}{../.git/refs/heads/master}{}
+\newcommand{\gitrevision}{%
+  \StrLeft{\HEAD}{7}%
+}
+
+\usepackage{data/quiver}
+\usepackage{data/circledsteps}
+\input{data/style}
+
+\usepackage{stmaryrd}
+\usepackage{mathtools}
+\usepackage{wasysym}
+\usepackage{textcomp}
+\usepackage{subfiles}
+
+\newtheorem{problem}{问题}
+\numberwithin{problem}{section}
+\newtheorem{definition}{定义}
+\numberwithin{definition}{section}
+\newtheorem{lemma}{引理}
+\numberwithin{lemma}{section}
+\newtheorem{proposition}{命题}
+\numberwithin{proposition}{section}
+\newtheorem{theorem}{定理}
+\numberwithin{theorem}{section}
+\newtheorem{grammar}{文法}
+\numberwithin{grammar}{section}
+\newtheorem{program}{程序}
+\numberwithin{program}{section}
+\newtheorem{convention}{约定}
+\numberwithin{convention}{section}
+\newtheorem{corollary}{推论}
+\numberwithin{corollary}{section}
+\renewcommand*{\proofname}{证明}
+
+\xeCJKsetwidth{‘’“”}{1em}
+
+\title{文档总览}
+\date{\nianyueri\today}
+\author{苑明理}
+
+\begin{document}
+
+\begingroup
+\let\newpage\relax
+\maketitle
+\endgroup
+
+本人苑明理，蜗居于北京的一位求学者。古人论学，有生而知之、学而知之和困而知之的分别，我大概属于困而知之的这一类。
+不过，我认为古人的顺序说反了，并不符合知识创造的规律。学问发端于问，万事创制艰难，筚路蓝缕才能写成文章；
+等到一种学问有了体系和沿承，学而知之的比例才会越来越大；但学问万古常新，不因循旧论而有新意的地方，还又会不断从新的困惑中产生。
+我今年四十六岁，在这番年纪，始有志于学，原因在哪里？我会在下面逐一解释。
+
+\begin{itemize}
+    \item 01：个人经历：简述个人的学习和工作经历，着重写和一个数学问题结缘的过程
+    \item 02：教育背景：本科、硕士、工作各个阶段的学习情况和一些心得
+    \item 03：研究概述：当前研究的进展、研究的意义和一些思考
+    \item 04：学习计划：结合关键问题与思路，尽快补齐知识上的短板
+    \item 05：研究计划：主要问题、解决思路
+    \item 06：附件一：数字丛林的远足—记录了想法发展的过程
+    \item 07：附件二：翻译的经典文献《有效过程与自然法则》
+\end{itemize}
+
+尽管有很大的可能会失败，但我仍然愿意去试试，不是去小心掩盖那些真正让人激动的想法，而是大声勇敢说出来，所有的这一切，说到底都是基于如下的原因：
+\begin{itemize}
+    \item 我好奇这个问题为什么会这样？有没有别的可能性？
+    \item 我知道我的局限，无法独立解决这些问题，需要学习和老师的指导。
+    \item 我相信这些问题背后的原理一定有价值。如果失败了，也不会是简单的失败。
+\end{itemize}
+
+那么就迈出这一步。
+
+\end{document}
+
+
+
+

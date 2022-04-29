@@ -1,0 +1,115 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{amsmath, amsthm}
+\usepackage{datetime}
+\usepackage{framed}
+\usepackage{enumitem}
+\usepackage{fancyref}
+\usepackage{wrapfig}
+\usepackage{pifont}
+\usepackage{appendix}
+\usepackage{caption}
+\usepackage{xcolor}
+\usepackage[stable]{footmisc}
+\usepackage{multicol}
+\usepackage{csquotes}
+
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{mathtools}
+
+\usepackage{tikz}
+\usepackage{pgf}
+\usepgflibrary{fpu}
+\usepackage{qtree}
+\usetikzlibrary{angles,fit,arrows,calc,math,intersections,through,backgrounds}
+\usepackage{pgfplots}
+\usepackage{tkz-euclide}
+
+\usepackage{listings}
+\lstset{
+  basicstyle=\itshape,
+  xleftmargin=3em,
+  literate={->}{$\rightarrow$}{2}
+           {α}{$\alpha$}{1}
+           {δ}{$\delta$}{1}
+}
+
+
+\usepackage{csquotes}
+\renewcommand{\mkbegdispquote}[2]{\itshape}
+
+\newdateformat{nianyueri}{ \THEYEAR 年 \THEMONTH 月 \THEDAY 日 }
+
+\usepackage{xstring}
+\usepackage{catchfile}
+\CatchFileDef{\HEAD}{../.git/refs/heads/master}{}
+\newcommand{\gitrevision}{%
+  \StrLeft{\HEAD}{7}%
+}
+
+\usepackage{data/quiver}
+\usepackage{data/circledsteps}
+\input{data/style}
+
+\usepackage{stmaryrd}
+\usepackage{mathtools}
+\usepackage{wasysym}
+\usepackage{textcomp}
+\usepackage{subfiles}
+
+\newtheorem{problem}{问题}
+\numberwithin{problem}{section}
+\newtheorem{definition}{定义}
+\numberwithin{definition}{section}
+\newtheorem{lemma}{引理}
+\numberwithin{lemma}{section}
+\newtheorem{proposition}{命题}
+\numberwithin{proposition}{section}
+\newtheorem{theorem}{定理}
+\numberwithin{theorem}{section}
+\newtheorem{grammar}{文法}
+\numberwithin{grammar}{section}
+\newtheorem{program}{程序}
+\numberwithin{program}{section}
+\newtheorem{convention}{约定}
+\numberwithin{convention}{section}
+\newtheorem{corollary}{推论}
+\numberwithin{corollary}{section}
+\renewcommand*{\proofname}{证明}
+
+\xeCJKsetwidth{‘’“”}{1em}
+
+\title{研究计划}
+\date{\nianyueri\today}
+\author{苑明理}
+
+\begin{document}
+
+\begingroup
+\let\newpage\relax
+\maketitle
+\endgroup
+
+总的来说，我们的研究包括如下四个方面：
+\begin{itemize}
+    \item 基础：研究什么情况下算术表达式可以构成几何体
+    \item 几何：研究算术表达式构成的几何体的性质和此类几何体之间的关系
+    \item 分析：通过算术表达式的几何来扩展我们的分析学能力
+    \item 计算：通过算术表达式的几何来扩展我们的计算能力
+\end{itemize}
+
+它会是一个很广的研究，但在目前阶段，我给自己设立如下的目标，期望能在几年内完成
+\begin{itemize}
+    \item 例子构造：需要完成四阶无限边形的确切构造、严格给出第二个例子、探讨例子和四阶无限边形染色的关系，在此基础上能够明确无疑的给出管型构造
+    \item 基础部分：可见文献已经有关于拓扑群生成元的研究，在此基础上，把通路群、可线索化表达式、典范形式、完备化、如何引入拓扑、交换子的作用、流方程的作用研究清楚，夯实研究基础
+    \item 几何部分：围绕 Laplacian 为什么出现在这个地方，做深入探讨，这将会是非常有趣的部分
+    \item 其他扩展：能够清晰地、合乎逻辑地指出和数学其他分支的联系，可以彰显本研究的价值，但在目前不求对那些问题进行深入的研究
+\end{itemize}
+
+\end{document}
+
+
+
+

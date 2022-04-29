@@ -1,0 +1,133 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{amsmath, amsthm}
+\usepackage{datetime}
+\usepackage{framed}
+\usepackage{enumitem}
+\usepackage{fancyref}
+\usepackage{wrapfig}
+\usepackage{pifont}
+\usepackage{appendix}
+\usepackage{caption}
+\usepackage{xcolor}
+\usepackage[stable]{footmisc}
+\usepackage{multicol}
+\usepackage{csquotes}
+
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{mathtools}
+
+\usepackage{tikz}
+\usepackage{pgf}
+\usepgflibrary{fpu}
+\usepackage{qtree}
+\usetikzlibrary{angles,fit,arrows,calc,math,intersections,through,backgrounds}
+\usepackage{pgfplots}
+\usepackage{tkz-euclide}
+
+\usepackage{listings}
+\lstset{
+  basicstyle=\itshape,
+  xleftmargin=3em,
+  literate={->}{$\rightarrow$}{2}
+           {α}{$\alpha$}{1}
+           {δ}{$\delta$}{1}
+}
+
+
+\usepackage{csquotes}
+\renewcommand{\mkbegdispquote}[2]{\itshape}
+
+\newdateformat{nianyueri}{ \THEYEAR 年 \THEMONTH 月 \THEDAY 日 }
+
+\usepackage{xstring}
+\usepackage{catchfile}
+\CatchFileDef{\HEAD}{../.git/refs/heads/master}{}
+\newcommand{\gitrevision}{%
+  \StrLeft{\HEAD}{7}%
+}
+
+\usepackage{data/quiver}
+\usepackage{data/circledsteps}
+\input{data/style}
+
+\usepackage{stmaryrd}
+\usepackage{mathtools}
+\usepackage{wasysym}
+\usepackage{textcomp}
+\usepackage{subfiles}
+
+\newtheorem{problem}{问题}
+\numberwithin{problem}{section}
+\newtheorem{definition}{定义}
+\numberwithin{definition}{section}
+\newtheorem{lemma}{引理}
+\numberwithin{lemma}{section}
+\newtheorem{proposition}{命题}
+\numberwithin{proposition}{section}
+\newtheorem{theorem}{定理}
+\numberwithin{theorem}{section}
+\newtheorem{grammar}{文法}
+\numberwithin{grammar}{section}
+\newtheorem{program}{程序}
+\numberwithin{program}{section}
+\newtheorem{convention}{约定}
+\numberwithin{convention}{section}
+\newtheorem{corollary}{推论}
+\numberwithin{corollary}{section}
+\renewcommand*{\proofname}{证明}
+
+\xeCJKsetwidth{‘’“”}{1em}
+
+\title{学习计划}
+\date{\nianyueri\today}
+\author{苑明理}
+
+\begin{document}
+
+\begingroup
+\let\newpage\relax
+\maketitle
+\endgroup
+
+\centerline{\rule{13cm}{0.4pt}}
+\renewcommand{\contentsname}{\hfill\bfseries 目录\hfill}
+\setcounter{tocdepth}{2}
+\tableofcontents
+\centerline{\rule{13cm}{0.4pt}}
+
+如果能申请上博士，我理解这次学习机会对我个人是极端珍贵的，必须思虑清楚，妥当安排。原则是：限定在一定的时间范围，同时兼顾短期的研究与长远的发展。
+
+我计划在博士期间能够补齐自己知识的短板，拓扑群、李群、SL(2)是研究需要里直接可见的必须工具。
+虽然还没有直接的证据严格证明典范形式与流同几何的极小曲面相关，但变分法看起来也是需要的工具。
+
+\section{Laplace算子、极小曲面}
+
+
+
+\section{黎曼的两个重要定理}
+
+我特别想去学习黎曼的两个重要定理—黎曼映射定理和黎曼单值化定理。短期看，似乎这两个定理和我目前的研究还有一定的距离，
+但这两个定理的深刻是非同一般的，是一个创造的潜在源泉。为长远计，需要仔细学习。
+
+\begin{itemize}
+    \item 黎曼映射定理：我有个想法可以探索，利用双曲空间上类似希尔伯特曲线的构造去证明这个定理。
+    \item 黎曼单值化定理：单值化能用算术表达式几何来计算吗？
+\end{itemize}
+
+\section{超算子和超现实数}
+
+J. H. Conway 的超算子和超现实数的理论：超算子会和高维的表达式空间联系起来，而超现实数的生成方法和加乘结构的生成非常像。
+
+\section{物理？}
+
+表达式的典范形式和空间联系，表达式的计算和时间联系，这里的时空和物理的时空有何关系？这是可以讨论的。
+但知识的储备、学问的探讨，绝非一日，怎么安排研究和学习，需要和老师探讨。
+
+\end{document}
+
+
+
+
