@@ -31,6 +31,13 @@
 
 \newdateformat{nianyueri}{ \THEYEAR 年 \THEMONTH 月 \THEDAY 日 }
 
+\usepackage{xstring}
+\usepackage{catchfile}
+\CatchFileDef{\HEAD}{../.git/refs/heads/master}{}
+\newcommand{\gitrevision}{%
+  \StrLeft{\HEAD}{7}%
+}
+
 \usepackage{data/quiver}
 \usepackage{data/circledsteps}
 \input{data/style}
@@ -63,7 +70,7 @@
 
 \title{数字丛林里的远足\\
 \large 从词向量到算术表达式的几何}
-\date{2021 年 10 月}
+\date{\nianyueri\today}
 \author{苑明理}
 
 \begin{document}
@@ -75,6 +82,7 @@
 \begingroup
 \let\newpage\relax
 \maketitle
+\centerline{ 版本号：\gitrevision }
 \endgroup
 
 \centerline{\rule{13cm}{0.4pt}}
@@ -357,12 +365,12 @@ $$
 
 \newpage
 
-\section{第一个简单的例子}
+\section{简单的例子}
 
-在本节，我们给出一个形式非常简单的算术表达式几何空间的例子，并着重解释它的赋值和网格，给出表达式如何体现为几何上路径的说明，
+在本节，我们给出一个形式非常简单的算术表达式几何空间的例子，并着重解释它的赋值和网格，然后给出表达式如何体现为几何上路径的说明，
 并导出典范形式。在本节结束时，我们将会得到
 \begin{itemize}
-    \item 几何上，例子是一个流形，流形上的点都对应算术表达式的某种典范形态
+    \item 几何上，存在一个黎曼流形，流形上的点都对应算术表达式的某种典范形态
     \item 算术上，任何可线索化的算术表达式，都对应到流形上的一条路径
 \end{itemize}
 
@@ -554,7 +562,7 @@ $$
 (1 \times 2 \times 2 - 1) \times 2 - 3
 $$
 
-我们就能得到如下图的一条路径
+我们就能得到如下图\ref{fig:pathex0}的一条路径。
 
 \begin{figure}[ht]
 \centering
@@ -814,8 +822,25 @@ $$
 \caption{连接两点的多条路径}\label{fig:pathex1}
 \end{figure}
 
-很容易理解，在乘法分配律和一些项的合并与拆散后，上述几个表达式可以互相转化。
-我们可以规定黑色和紫色的路径是一对对偶的典范路径，那么所有连接如上图的赋值 $1$ 和 $3$ 之间的路径，
+很容易理解，在乘法分配律和一些项的合并与拆解后，上述几个表达式可以互相转化。
+
+从棕色路径等值变形到黑色路径
+\begin{align}
+3 & = (((1 - \frac{1}{8}) \times 2 - \frac{1}{2}) \times 2 - 1) \times 2 \\
+& = 1 \times 8 -  \frac{1}{8} \times 8 - \frac{1}{2} \times 4 - 1 \times 2 \\
+& = 1 \times 8 - 5
+\end{align}
+
+从棕色路径等值变形到紫色路径
+\begin{align}
+3 & = (((1 - \frac{1}{8}) \times 2 - \frac{1}{2}) \times 2 - 1) \times 2 \\
+& = (1 - \frac{1}{8}) \times 8 - \frac{1}{2} \times 4 -  1 \times 2 \\
+& = (1 - \frac{1}{8}) \times 8 - \frac{1}{4} \times 8 -  \frac{1}{4} \times 8 \\
+& = (1 - \frac{1}{8} - \frac{1}{4} - \frac{1}{4}) \times 8 \\
+& = (1 - \frac{5}{8}) \times 8 \\
+\end{align}
+
+于是，我们可以规定黑色和紫色的路径是一对对偶的典范路径，那么所有连接如上图的赋值 $1$ 和 $3$ 之间的路径，
 它们对应的表达式，都可以转换到这对典范路径的表达式上。我们称如上的典范的路径和表达式为典范形式。
 
 有了连接两点的典范表达式和典范路径，那么再任意给定一个空间里的原点$O$，对空间里的任一点$P$，
@@ -823,7 +848,7 @@ $$
 
 \newpage
 
-\section{更多的简单实例}
+\section{更多的实例}
 
 本着和上节同样的精神，我们给出更多的例子，这些例子都可以理解成算术表达式的某种几何表达。
 
@@ -831,15 +856,16 @@ $$
 
 给定实数轴 $\mathcal{R}$ 和上面的坐标$\phi: \mathcal{R} \to (-\infty, +\infty)$。
 
-\subsubsection{赋值例一}\label{subsec:exmp1}
-
 $\mathcal{R}$ 上 $\phi$ 取值为有理数的全体点构成集合 $Q$，而 $Q$ 中的每个点都有$b$-进数位制下的表示，
 从而 $Q$ 也可以理解成可列长度的典范算术表达式的集合，这些表达式均具如下形式：
 $$
 \sum_{i} k_i b^{l_i}, k_i < b, k_i \in N, l_i \in N
 $$
 
-\subsection{上半平面模型下的第一个例子\footnote{本例子的解析解由张乐给出，几何和典范形式的解释由笔者给出。}}
+（如果通过有理数集来定义典范形式，势必得通过完备化来扩充才能得到实数，这会影响我们如何严格定义典范形式，还得再思考）
+
+\subsection{上半平面模型下的例子\footnote{本例子的解析解由张乐给出，几何和典范形式的解释由笔者给出。}}
+\label{subsec:uhp}
 
 考虑上半平面
 \[
@@ -863,8 +889,6 @@ ds^2 = \frac{dx^2 + dy^2}{y^2}
 \[
 \Delta = - y^2 (\frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2})
 \]
-
-\subsubsection{赋值例二}\label{subsec:exmp2}
 
 给定一个赋值函数
 
@@ -921,15 +945,14 @@ $$
 
 \end{proof}
 
-\subsubsection{Laplacian 的特征向量}
-
 我们可以验证 $A$ 是 Laplacian 的特征向量。
 
 $$
 \Delta A = - y^2 (\frac{\partial^2}{\partial x^2} A + \frac{\partial^2}{\partial y^2} A) = y^2 (\frac{1}{\partial y} (\frac{1}{\partial y} \frac{x}{y})) = 2 A
 $$
 
-\subsection{伪圆坐标系下的两个例子\footnote{本例子的解析解由张乐给出，几何和典范形式的解释由笔者给出。}}
+\subsection{伪圆坐标系下的例子\footnote{本例子的解析解由张乐给出，几何和典范形式的解释由笔者给出。}}
+\label{subsec:hc}
 
 首先介绍双曲空间的伪圆坐标系。伪圆坐标系是利用一族伪圆和与之正交的测地线族来定位的全局坐标系统。
 如图所示，在红色的庞加莱圆盘$\mathcal{P}$上，蓝色的伪圆相切于理想点 $\Omega$，绿线是与之正交的测地线。
@@ -971,9 +994,7 @@ $$
 \Delta = e^{2v} \frac{\partial^2}{{\partial u}^2} + \frac{\partial^2}{{\partial v}^2} - \frac{\partial}{\partial v}
 $$
 
-\subsubsection{赋值例三}\label{subsec:exmp3}
-
-伪圆坐标系下的第一个例子是
+伪圆坐标系下例子的赋值如下
 
 \begin{equation}
 A = u e^{-v}
@@ -994,8 +1015,8 @@ A = u e^{-v}
 \node[anchor=45] at (0.0,4.0) {$O$};
 \node[anchor=45] at (-3.5,4.0) {$Q$};
 \node[anchor=45] at (-3.5,2.0) {$P$};
-\node[anchor=225] at (-2.0,4.1) {$x = u$};
-\node[anchor=225] at (-3.0,1.0) {$y = e^v$};
+\node[anchor=225] at (-2.0,4.1) {$x = -u$};
+\node[anchor=225] at (-3.0,1.0) {$y = e^{-v}$};
 
 \end{tikzpicture}
 
@@ -1020,7 +1041,7 @@ A = u e^{-v}
 
 \begin{proof}
 
-针对上一个例子里的设定 \ref{subsec:exmp2}，我们引入复数
+针对上一个例子 \ref{subsec:uhp} 里的设定，我们引入复数
 
 $$
 z = x + y i
@@ -1032,17 +1053,17 @@ $$
 z \mapsto \frac{z-i}{z+i}
 $$
 
-可以把前例 \ref{subsec:exmp2} 里的上半平面模型变到当前的伪圆坐标系。
+可以把前例里的上半平面模型变到当前的伪圆坐标系。
 
 这个变换把 $\mathcal{H}$ 里的每一条横线变成 $\mathcal{P}$ 里过理想点 $\Omega = 1$的伪圆。
 把 $\mathcal{H}$ 里的每一条竖测地线变成 $\mathcal{P}$ 里和上述伪圆族垂直的测地线。
 
-不难得到如下的坐标变换公式：
+考虑到右手法则和坐标值增长的方向，不难得到如下的坐标变换公式：
 
 \begin{equation}
 \begin{cases}
-x = u\\
-y = e^v \\
+x = - u\\
+y = e^{-v} \\
 \end{cases}
 \label{eq:transform}
 \end{equation}
@@ -1063,45 +1084,7 @@ $$
 \Delta A = e^{2v} \frac{\partial^2(u e^{-v})}{{\partial u}^2} + \frac{\partial^2(u e^{-v})}{{\partial v}^2} - \frac{\partial(u e^{-v})}{\partial v} = 2A
 $$
 
-\subsubsection{赋值例四}\label{subsec:exmp4}
-
-伪圆坐标系下的第二个例子是
-
-\begin{equation}
-A = u e^v
-\end{equation}
-
-注意到例子三和例子四也可以通过共形变联系起来，由如下映射给出
-
-$$
-(u, v) \mapsto (u, -v)
-$$
-
-因此例子四也满足流方程。
-
-注意到此时 $A$ 在边界上趋于 $0$ 值，同时有
-
-$$
-\Delta A = e^{2v} \frac{\partial^2(u e^v)}{{\partial u}^2} + \frac{\partial^2(u e^v)}{{\partial v}^2} - \frac{\partial(u e^v)}{\partial v} = 0
-$$
-
-\subsection{上半平面模型下的第二个例子}
-
-\subsubsection{赋值例五}\label{subsec:exmp5}
-
-注意到赋值例四，还可以通过变换式\ref{eq:transform}变换回上半平面模型，我们就得到了上半平面模型的第二个例子。
-
-\begin{equation}
-A = xy
-\end{equation}
-
-此时 $A$ 在边界上趋于 $0$ 值，同时有 $\Delta A = 0$。
-
-\subsection{小结与问题}
-
-\subsubsection{例子的总结}
-
-\subsubsection{一些问题}
+\subsection{遗留的问题}
 
 以上四个例子都是给定的全局坐标系，而流方程的形式解是在局部坐标系下给出的，两者是否融洽，是一个可以考察的问题。
 这里面可能不只是涉及坐标变换，也可能还有几何上的黏合与复叠。
@@ -1110,27 +1093,27 @@ A = xy
 
 \section{任意生成元的例子}
 
-本节我们将会给出赋值的第六个例子。在这个例子里，我们会看到赋值和生成元的具体取值无关；同时，我们在同一个底图上采用了不同的生成元，
-都能够画出来一些很匀称的网格。我们将研究这些网格的几何含义，并在赋值和网格的基础上，导出第五个例子中的算术表达式的典范形态。
+本节我们将会给出任意生成元赋值的例子。在这个例子里，我们会看到赋值和生成元的具体取值无关；同时，我们可以在同一个底图上，采用了不同的生成元，
+都能够画出来一些很匀称的网格。
 
 考虑上半平面
-\[
+$$
 \{\mathcal{B}: (x, y) | y > 0 \}
-\]
+$$
 
 配有如下的内积
 
-\[
+$$
 \mathbf{a} \cdot \mathbf{b} = \begin{bmatrix} a_x & a_y \end{bmatrix} \begin{bmatrix} \frac{1}{\mu^2 y^2} & 0 \\ 0 & \frac{1}{\lambda^2 y^2} \end{bmatrix} \begin{bmatrix} b_x \\ b_y \end{bmatrix}
-\]
+$$
 
 以及度规
 
-\[
+$$
 ds^2 = \frac{1}{y^2}(\frac{dx^2}{\mu^2} + \frac{dy^2}{\lambda^2})
-\]
+$$
 
-\subsection{赋值例六}\label{subsec:exmp6}
+\subsection{生成元无关的赋值}\label{subsec:exmp6}
 
 给定一个赋值函数
 
@@ -1138,7 +1121,7 @@ ds^2 = \frac{1}{y^2}(\frac{dx^2}{\mu^2} + \frac{dy^2}{\lambda^2})
 A = - \frac{x}{y}
 \end{equation}
 
-我们可以验证，在每个局域，$A$ 满足流方程。
+我们可以验证，在每个局域，$A$ 满足流方程。同时，赋值 $A$ 与生成元的具体取值无关。
 
 \begin{theorem}
 如上定义的 $A$ 满足流方程
@@ -1187,19 +1170,20 @@ $$
 
 \end{proof}
 
-例五的赋值 $A$ 与生成元的具体取值无关。
+\subsection{整点网格的构造}
 
-\subsection{网格的构造}
+传统上，在讨论黎曼可积条件时，我们就是借助于一个离散化网格，通过不断细化网格上的加法求和，来给出黎曼可积的定义。
+可以想象，针对加乘混合的算术表达式，应该有另外的网格构造方式和加细方式。在本节，我们考虑和上一节赋值彼此匹配的一种整点网格的构造。
 
-对不同的生成元，它们都共享一条基础的加线和一条基础的乘线。
+针对给定的生成元参数$\mu$和$\lambda$，现在我们在$\mathcal{B}$上，依照如下程序给出网格构造：
 \begin{itemize}
-    \item 基础的加线: $y = 1$
-    \item 基础的乘线: $x = 0$，整条线是一条零线
+    \item 加线: $y = e^{k\lambda}, k \in \mathbb{Z}$
+    \item 加线上的整点: $(- l e^{k\lambda} , e^{k\lambda}), k, l \in \mathbb{Z}$
+    \item 乘线: 从加线上的每个整点向下延伸出与加线垂直的一条乘线
 \end{itemize}
 
-\subsubsection{网格例二}
-
-在网格例二里，蓝线代表 $+ 1$ 关系，绿线代表 $\times 3$ 关系，它们是彼此垂直的线族。
+如下图\ref{fig:gridex2}给出了 $\mu = 1$ 和 $\lambda = \ln 3$ 时的网格构造
+其中蓝线代表 $+ 1$ 关系，绿线代表 $\times 3$ 关系，它们是彼此垂直的线族。
 
 \begin{figure}[ht]
 \centering
@@ -1207,7 +1191,7 @@ $$
 \begin{tikzpicture}
 \draw [black, line width=0.6pt, ->] (0,0) to[out=90,in=270] (0,9.25);
 \node [anchor=south] at (0,9.5) {y};
-\draw [black, line width=0.6pt, ->] (-8.2,0) to[out=0,in=180] (9.25,0);
+\draw [black, line width=0.6pt, ->] (-9.2,0) to[out=0,in=180] (9.25,0);
 \node [anchor=west] at (9.5,0) {x};
 \foreach \x in {-9,-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7,8,9}
   \node [anchor=north] at (\x,0) {\x};
@@ -1302,31 +1286,22 @@ $$
 
 \end{tikzpicture}
 }
-\caption{网格例二，$\lambda=\ln3$ 和 $\mu=1$}\label{fig:gridex2}
+\caption{$\lambda=\ln 3$ 和 $\mu=1$ 时的整点网格}\label{fig:gridex2}
 \end{figure}
 
-\subsection{从赋值到表达式}
+\subsection{整点网格的伸缩不变性}
 
-借助于网格，我们可以清楚地看到，赋值是如何同表达式联系起来的。
-从网格上任意选择两个点，所有连接这两个点的网格上的路径都编码了一个由加法生成元 $\mu$ 和乘法生成元 $e^\lambda$ 组合而成的表达式。
+不难发现整点网格在如下的伸缩变换下，保持赋值的不变性
 
-表达式的典范形态也可以清楚的呈现。对于这几个例子，表达式的典范形态取如下形式：
+\begin{equation}
+\begin{cases}
+x' = x e^{k\lambda} \\
+y' = y e^{k\lambda} \\
+\end{cases}
+\label{eq:scale}
+\end{equation}
 
-$$
-\prod_{i} p_i \cdot \sum_{j} q_j
-$$
-
-或者
-
-$$
-\sum_{i} q_i + \prod_{j} p_j
-$$
-
-也就是先累加再累乘，或者先累乘再累加。
-
-\subsection{网格的作用}
-
-网格在未来的论证中还会发挥更多的作用。在分析学的视角中，它的作用如同黎曼可积条件里借助离散化求和来实现连续可积。
+这个伸缩变换和它的进一步的拓广将在后面讨论。
 
 \newpage
 
@@ -1447,18 +1422,98 @@ $$\gamma = \alpha \circ \beta$$
 
 \subsection{语法结构 $\mathcal{S}^d$}\label{subsec:syntactical2}
 
-如果我们可以引入加乘的分配律，我们可以考虑另外一种语法构造。
+本节我们考虑引入加乘的分配律之后得到的语法构造。
 
-可以有多种典范形式。第一种典范形式是利用分配律，先加后乘或者先乘后加。
+\subsubsection{交错式与扰动分析}
+
+首先，我们指出任何通路对应的表达式都可以写成一种乘加交错出现的形式，
+也即任何通路 $\alpha$ 都可以写成如下形式：
+
+\begin{equation}
+    \alpha = a_1 b_1 a_2 b_2 \cdots a_l b_l, a_i = \otimes_\lambda^{n_i}, b_i = \oplus_\mu^{m_i},  n, m \in \mathbb{Z}
+    \label{alternative}
+\end{equation}
+
+如果我们把 $n_i$ 的累和写成 $k_i$，也就是说
 $$
-0 a_1 a_2 \cdots a_n = \prod_{i} p_i \cdot \sum_{j} q_j
+k_i = \sum_{j=1}^i n_j, k_0 = 0
 $$
 
-或者
+同时，对任意给定的起点 $w_0$，我们令
+$$
+m_0 = \frac{w_0}{\mu}
+$$
+
+此时，我们把式\ref{alternative}按照分配律完全展开，得到
+\begin{align}
+\alpha(w_0) & = e^{n_l \lambda}(\cdots (e^{n_2 \lambda} (e^{n_1 \lambda} w_0 + m_1 \mu) + m_2 \mu) \cdots) + m_l \mu \\
+& = e^{n_l \lambda}(\cdots (e^{n_2 \lambda} (e^{n_1 \lambda} m_0 \mu + m_1 \mu) + m_2 \mu) \cdots) + m_l \mu \\
+& = \mu (e^{\lambda k_l} m_0 + e^{\lambda k_{l - 1}} m_1  + e^{\lambda k_{l - 2}} m_2 + \cdots + e^{\lambda k_1} m_{l-1} + e^{\lambda k_0} m_l)
+\end{align}
+
+下面，我们在起点 $w_0$ 处引入一个扰动 $\tilde{w_0} = e^{\eta_0 \lambda} w_0 + \epsilon_0 \mu$，其中 $\eta_0$ 和 $\epsilon_0$ 分别是在 $w_0$ 处加和乘上的扰动项，此时我们有
+\begin{align}
+\alpha(e^{\eta_0 \lambda} w_0 + \epsilon_0 \mu) & = \mu (e^{\lambda k_l} (e^{\eta \lambda} m_0 + \epsilon) + e^{\lambda k_{i - 1}} m_1 + \cdots + e^{\lambda k_0} m_l)
+\end{align}
+
+于是，我们可以纯粹从算术的角度，无需通过极限，就可以得到一个有意义的商
+\begin{equation}
+\frac{\alpha(e^{\eta_0 \lambda} w_0 + \epsilon_0 \mu) - \alpha(w_0)}{e^{\eta_0 \lambda} w_0 + \epsilon_0 \mu - w_0} = e^{\lambda k_l}
+\end{equation}
+
+我们把这个关系从起点 $w_0$ 处延伸到整个过程的 $w_i$ 和相应的扰动 $\tilde{w_i} = e^{\eta_i \lambda} w_i + \epsilon_i \mu$ 里，此处有
 
 $$
-0 a_1 a_2 \cdots a_n = \sum_{i} q_i + \prod_{j} p_j
+w_i = e^{n_i \lambda} w_{i-1} + m_i \mu
 $$
+
+于是
+
+\begin{equation}
+\tilde{\alpha} - \alpha = \sum_{i=0}^l e^{\lambda k_{l - i}} (\tilde{w_i} - w_i)
+\end{equation}
+
+\subsubsection{典范形式}
+
+在上节我们得到公式，
+\begin{equation}
+\alpha(w_0) = \mu (e^{\lambda k_l} m_0 + e^{\lambda k_{l - 1}} m_1  + e^{\lambda k_{l - 2}} m_2 + \cdots + e^{\lambda k_1} m_{l-1} + e^{\lambda k_0} m_l)
+\end{equation}
+
+于是有
+\begin{equation}
+\alpha(w_0) = e^{\lambda k_l} \mu m_0 + (e^{\lambda k_{l - 1}} \mu m_1  + e^{\lambda k_{l - 2}} \mu m_2 + \cdots + e^{\lambda k_1} \mu m_{l-1} + e^{\lambda k_0} \mu m_l)
+\end{equation}
+
+即有
+
+\begin{equation}
+w_l = a w_0 + b
+\end{equation}
+
+或者我们还可以对它变形
+\begin{equation}
+\alpha(w_0) = e^{\lambda k_l} (\mu m_0 + \mu m_1 e^{\lambda (k_{l - 1} - k_l)} + \mu m_2 e^{\lambda (k_{l - 2} - k_l)}+ \cdots + \mu m_{l-1} e^{\lambda (k_1 - k_l)}  + \mu m_l e^{\lambda (k_0 - k_l)})
+\end{equation}
+
+得到
+\begin{equation}
+w_l = a (w_0 + c)
+\end{equation}
+
+如何从这些标准的形式里得到几何？这是要仔细考察的问题。我们从考察交换子入手
+
+\begin{equation}
+a (w_0 + c) - (a w_0 + c) = b - c
+\end{equation}
+
+\begin{equation}
+b - c = (1 - \frac{1}{e^{\lambda k_l}}) \mu (e^{\lambda k_{l - 1}} m_1  + e^{\lambda k_{l - 2}} m_2 + \cdots + e^{\lambda k_1} m_{l-1} + e^{\lambda k_0} m_l)
+\end{equation}
+
+\begin{equation}
+b - c = (1 - \frac{1}{a}) b
+\end{equation}
 
 \begin{figure}[ht]
 \centering
@@ -1553,7 +1608,7 @@ $$
 第二种典范形式，是利用分配律，把等幂的乘法项归并起来，得到一个 $\lambda$ 的多项式的形态。
 
 $$
-0 a_1 a_2 \cdots a_n = \sum_{i} k_i \mu e^{l_i \lambda} \in R
+0 a_1 a_2 \cdots a_n = \sum_{i} k_i \mu^{l_i} e^{m_i \lambda} \in R
 $$
 
 \subsection{语义结构 $\mathcal{S}^\infty$}\label{subsec:semantical}
@@ -2265,6 +2320,130 @@ $S_{mn}$ 定理时空可以相互交换
     \caption{从零线开始火烧}\label{fig:merged2}
 \end{figure}
 
+\begin{figure}[ht]
+\centering
+\resizebox{0.9\textwidth}{!}{
+\begin{tikzpicture}
+\draw [black, line width=0.6pt, ->] (0,0) to[out=90,in=270] (0,8.25);
+\node [anchor=south] at (0,8.5) {y};
+\draw [black, line width=0.6pt, ->] (-8.2,0) to[out=0,in=180] (8.25,0);
+\node [anchor=west] at (8.5,0) {x};
+\foreach \x in {-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7,8}
+  \node [anchor=north] at (\x,0) {\x};
+\foreach \y in {1,2,3,4,5,6,7,8}
+  \node [anchor=45] at (0,\y) {\y};
+
+\draw [blue, line width=0.6pt] (-8.25,0.5) to[out=0,in=180] (8.25,0.5);
+\draw [blue, line width=0.6pt] (-8.25,1) to[out=0,in=180] (8.25,1);
+\draw [blue, line width=0.6pt] (-8.25,2) to[out=0,in=180] (8.25,2);
+\draw [blue, line width=0.6pt] (-8.25,4) to[out=0,in=180] (8.25,4);
+\draw [blue, line width=0.6pt] (-8.25,8) to[out=0,in=180] (8.25,8);
+
+\draw [green, line width=0.6pt] (-7.5,0) to[out=90,in=270] (-7.5,0.5);
+\draw [green, line width=0.6pt] (-6.5,0) to[out=90,in=270] (-6.5,0.5);
+\draw [green, line width=0.6pt] (-5.5,0) to[out=90,in=270] (-5.5,0.5);
+\draw [green, line width=0.6pt] (-4.5,0) to[out=90,in=270] (-4.5,0.5);
+\draw [green, line width=0.6pt] (-3.5,0) to[out=90,in=270] (-3.5,0.5);
+\draw [green, line width=0.6pt] (-2.5,0) to[out=90,in=270] (-2.5,0.5);
+\draw [green, line width=0.6pt] (-1.5,0) to[out=90,in=270] (-1.5,0.5);
+\draw [green, line width=0.6pt] (-0.5,0) to[out=90,in=270] (-0.5,0.5);
+\draw [green, line width=0.6pt] (0.5,0) to[out=90,in=270] (0.5,0.5);
+\draw [green, line width=0.6pt] (1.5,0) to[out=90,in=270] (1.5,0.5);
+\draw [green, line width=0.6pt] (2.5,0) to[out=90,in=270] (2.5,0.5);
+\draw [green, line width=0.6pt] (3.5,0) to[out=90,in=270] (3.5,0.5);
+\draw [green, line width=0.6pt] (4.5,0) to[out=90,in=270] (4.5,0.5);
+\draw [green, line width=0.6pt] (5.5,0) to[out=90,in=270] (5.5,0.5);
+\draw [green, line width=0.6pt] (6.5,0) to[out=90,in=270] (6.5,0.5);
+\draw [green, line width=0.6pt] (7.5,0) to[out=90,in=270] (7.5,0.5);
+
+\draw [green, line width=0.6pt] (-8,0) to[out=90,in=270] (-8,1);
+\draw [green, line width=0.6pt] (-7,0) to[out=90,in=270] (-7,1);
+\draw [green, line width=0.6pt] (-6,0) to[out=90,in=270] (-6,1);
+\draw [green, line width=0.6pt] (-5,0) to[out=90,in=270] (-5,1);
+\draw [green, line width=0.6pt] (-4,0) to[out=90,in=270] (-4,1);
+\draw [green, line width=0.6pt] (-3,0) to[out=90,in=270] (-3,1);
+\draw [green, line width=0.6pt] (-2,0) to[out=90,in=270] (-2,1);
+\draw [green, line width=0.6pt] (-1,0) to[out=90,in=270] (-1,1);
+\draw [green, line width=0.6pt] (1,0) to[out=90,in=270] (1,1);
+\draw [green, line width=0.6pt] (2,0) to[out=90,in=270] (2,1);
+\draw [green, line width=0.6pt] (3,0) to[out=90,in=270] (3,1);
+\draw [green, line width=0.6pt] (4,0) to[out=90,in=270] (4,1);
+\draw [green, line width=0.6pt] (5,0) to[out=90,in=270] (5,1);
+\draw [green, line width=0.6pt] (6,0) to[out=90,in=270] (6,1);
+\draw [green, line width=0.6pt] (7,0) to[out=90,in=270] (7,1);
+\draw [green, line width=0.6pt] (8,0) to[out=90,in=270] (8,1);
+
+\draw [green, line width=0.6pt] (-8,1) to[out=90,in=270] (-8,2);
+\draw [green, line width=0.6pt] (-6,1) to[out=90,in=270] (-6,2);
+\draw [green, line width=0.6pt] (-4,1) to[out=90,in=270] (-4,2);
+\draw [green, line width=0.6pt] (-2,1) to[out=90,in=270] (-2,2);
+\draw [green, line width=0.6pt] (2,1) to[out=90,in=270] (2,2);
+\draw [green, line width=0.6pt] (4,1) to[out=90,in=270] (4,2);
+\draw [green, line width=0.6pt] (6,1) to[out=90,in=270] (6,2);
+\draw [green, line width=0.6pt] (8,1) to[out=90,in=270] (8,2);
+
+\draw [green, line width=0.6pt] (-8,2) to[out=90,in=270] (-8,4);
+\draw [green, line width=0.6pt] (-4,2) to[out=90,in=270] (-4,4);
+\draw [green, line width=0.6pt] (4,2) to[out=90,in=270] (4,4);
+\draw [green, line width=0.6pt] (8,2) to[out=90,in=270] (8,4);
+
+\draw [green, line width=0.6pt] (-8,4) to[out=90,in=270] (-8,8);
+\draw [green, line width=0.6pt] (8,4) to[out=90,in=270] (8,8);
+\end{tikzpicture}
+}
+\caption{scalable grid with factor 2}
+\end{figure}
+
+
+\begin{figure}[ht]
+\centering
+\resizebox{\columnwidth}{!}{%
+\begin{tikzpicture}
+\draw [black, line width=0.6pt, ->] (0,0) to[out=90,in=270] (0,9.25);
+\node [anchor=south] at (0,9.5) {y};
+\draw [black, line width=0.6pt, ->] (-9.2,0) to[out=0,in=180] (9.25,0);
+\node [anchor=west] at (9.5,0) {x};
+\foreach \x in {-9,-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6,7,8,9}
+  \node [anchor=north] at (\x,0) {\x};
+\foreach \y in {1,2,3,4,5,6,7,8,9}
+  \node [anchor=45] at (0,\y) {\y};
+
+\draw [blue, line width=0.6pt] (-9.25,1) to[out=0,in=180] (9.25,1);
+\draw [blue, line width=0.6pt] (-9.25,3) to[out=0,in=180] (9.25,3);
+\draw [blue, line width=0.6pt] (-9.25,9) to[out=0,in=180] (9.25,9);
+
+\draw [green, line width=0.6pt] (-9,0) to[out=90,in=270] (-9,1);
+\draw [green, line width=0.6pt] (-8,0) to[out=90,in=270] (-8,1);
+\draw [green, line width=0.6pt] (-7,0) to[out=90,in=270] (-7,1);
+\draw [green, line width=0.6pt] (-6,0) to[out=90,in=270] (-6,1);
+\draw [green, line width=0.6pt] (-5,0) to[out=90,in=270] (-5,1);
+\draw [green, line width=0.6pt] (-4,0) to[out=90,in=270] (-4,1);
+\draw [green, line width=0.6pt] (-3,0) to[out=90,in=270] (-3,1);
+\draw [green, line width=0.6pt] (-2,0) to[out=90,in=270] (-2,1);
+\draw [green, line width=0.6pt] (-1,0) to[out=90,in=270] (-1,1);
+\draw [green, line width=0.6pt] (1,0) to[out=90,in=270] (1,1);
+\draw [green, line width=0.6pt] (2,0) to[out=90,in=270] (2,1);
+\draw [green, line width=0.6pt] (3,0) to[out=90,in=270] (3,1);
+\draw [green, line width=0.6pt] (4,0) to[out=90,in=270] (4,1);
+\draw [green, line width=0.6pt] (5,0) to[out=90,in=270] (5,1);
+\draw [green, line width=0.6pt] (6,0) to[out=90,in=270] (6,1);
+\draw [green, line width=0.6pt] (7,0) to[out=90,in=270] (7,1);
+\draw [green, line width=0.6pt] (8,0) to[out=90,in=270] (8,1);
+\draw [green, line width=0.6pt] (9,0) to[out=90,in=270] (9,1);
+
+\draw [green, line width=0.6pt] (-9,1) to[out=90,in=270] (-9,3);
+\draw [green, line width=0.6pt] (-6,1) to[out=90,in=270] (-6,3);
+\draw [green, line width=0.6pt] (-3,1) to[out=90,in=270] (-3,3);
+\draw [green, line width=0.6pt] (3,1) to[out=90,in=270] (3,3);
+\draw [green, line width=0.6pt] (6,1) to[out=90,in=270] (6,3);
+\draw [green, line width=0.6pt] (9,1) to[out=90,in=270] (9,3);
+
+\draw [green, line width=0.6pt] (-9,3) to[out=90,in=270] (-9,9);
+\draw [green, line width=0.6pt] (9,3) to[out=90,in=270] (9,9);
+\end{tikzpicture}
+}
+\caption{scalable grid with factor 3}
+\end{figure}
 \end{document}
 
 
