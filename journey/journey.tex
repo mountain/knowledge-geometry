@@ -2457,30 +2457,57 @@ $S_{mn}$ 定理时空可以相互交换
   \angleo = 3.1415926;
 }
 
+\resizebox{\columnwidth}{!}{%
 \begin{tikzpicture}
-
-\draw [black, line width=0.6pt, ->] (8,0) to[out=90,in=270] (8,20.25);
-\node [anchor=south] at (8,20.5) {y};
+\draw [black, line width=0.6pt, ->] (8,0) to[out=90,in=270] (8,16.25);
+\node [anchor=south] at (8,16.5) {y};
 \draw [black, line width=0.6pt, ->] (-8.25,0) to[out=0,in=180] (8.25,0);
 \node [anchor=west] at (8.5,0) {x};
 
-\foreach \x in {-20,...,0}
-  \node [anchor=north] at (\x + \offset,0) {\x};
-\foreach \y in {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20}
-  \node [anchor=45] at (8,\y) {\y};
+\foreach \x in {-18,...,0}
+  \node [anchor=north] at (\x / 9 * 8 + \offset,0) {\x};
+\foreach \y in {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18}
+  \node [anchor=-135] at (8,\y / 9 * 8) {\y};
 
-\foreach \t in {20, ..., 1}
-  \draw [blue, line width=0.6pt] (-8.25, \t) to[out=0,in=180] (8.25, \t);
+\foreach \t in {18, ..., 1}
+  \draw [lightgray, line width=0.6pt] (-8.25, \t / 9 * 8) to[out=0,in=180] (8.25, \t / 9 * 8);
 
-\foreach \t in {-20, ..., -1}
-  \draw [green, line width=0.6pt] (\t + \offset, 0) to[out=90,in=270] (\t + \offset, 20.25);
+\foreach \t in {-18, ..., -1}
+  \draw [lightgray, line width=0.6pt] (\t / 9 * 8 + \offset, 0) to[out=90,in=270] (\t / 9 * 8 + \offset, 16.25);
+
+\draw [green, line width=1.0pt] (-18 / 9 * 8 + \offset, 0) to[out=90,in=270] (-18 / 9 * 8 + \offset, 2 / 9 * 8);
+\draw [green, line width=1.0pt] (-17 / 9 * 8 + \offset, 0) to[out=90,in=270] (-17 / 9 * 8 + \offset, 1 / 9 * 8);
+\draw [green, line width=1.0pt] (-16 / 9 * 8 + \offset, 0) to[out=90,in=270] (-16 / 9 * 8 + \offset, 16 / 9 * 8);
+\draw [green, line width=1.0pt] (-15 / 9 * 8 + \offset, 0) to[out=90,in=270] (-15 / 9 * 8 + \offset, 1 / 9 * 8);
+\draw [green, line width=1.0pt] (-14 / 9 * 8 + \offset, 0) to[out=90,in=270] (-14 / 9 * 8 + \offset, 2 / 9 * 8);
+\draw [green, line width=1.0pt] (-13 / 9 * 8 + \offset, 0) to[out=90,in=270] (-13 / 9 * 8 + \offset, 1 / 9 * 8);
+\draw [green, line width=1.0pt] (-12 / 9 * 8 + \offset, 0) to[out=90,in=270] (-12 / 9 * 8 + \offset, 4 / 9 * 8);
+\draw [green, line width=1.0pt] (-11 / 9 * 8 + \offset, 0) to[out=90,in=270] (-11 / 9 * 8 + \offset, 1 / 9 * 8);
+\draw [green, line width=1.0pt] (-10 / 9 * 8 + \offset, 0) to[out=90,in=270] (-10 / 9 * 8 + \offset, 2 / 9 * 8);
+\draw [green, line width=1.0pt] (-9 / 9 * 8 + \offset, 0) to[out=90,in=270] (-9 / 9 * 8 + \offset, 1 / 9 * 8);
+\draw [green, line width=1.0pt] (-8 / 9 * 8 + \offset, 0) to[out=90,in=270] (-8 / 9 * 8 + \offset, 8 / 9 * 8);
+\draw [green, line width=1.0pt] (-7 / 9 * 8 + \offset, 0) to[out=90,in=270] (-7 / 9 * 8 + \offset, 1 / 9 * 8);
+\draw [green, line width=1.0pt] (-6 / 9 * 8 + \offset, 0) to[out=90,in=270] (-6 / 9 * 8 + \offset, 2 / 9 * 8);
+\draw [green, line width=1.0pt] (-5 / 9 * 8 + \offset, 0) to[out=90,in=270] (-5 / 9 * 8 + \offset, 1 / 9 * 8);
+\draw [green, line width=1.0pt] (-4 / 9 * 8 + \offset, 0) to[out=90,in=270] (-4 / 9 * 8 + \offset, 4 / 9 * 8);
+\draw [green, line width=1.0pt] (-3 / 9 * 8 + \offset, 0) to[out=90,in=270] (-3 / 9 * 8 + \offset, 1 / 9 * 8);
+\draw [green, line width=1.0pt] (-2 / 9 * 8 + \offset, 0) to[out=90,in=270] (-2 / 9 * 8 + \offset, 2 / 9 * 8);
+\draw [green, line width=1.0pt] (-1 / 9 * 8 + \offset, 0) to[out=90,in=270] (-1 / 9 * 8 + \offset, 1 / 9 * 8);
+
+\draw [blue, line width=0.6pt] (-8.25, 16 / 9 * 8) to[out=0,in=180] (8.25, 16 / 9 * 8);
+\draw [blue, line width=0.6pt] (-8.25, 8 / 9 * 8) to[out=0,in=180] (8.25, 8 / 9 * 8);
+\draw [blue, line width=0.6pt] (-8.25, 4 / 9 * 8) to[out=0,in=180] (8.25, 4 / 9 * 8);
+\draw [blue, line width=0.6pt] (-8.25, 2 / 9 * 8) to[out=0,in=180] (8.25, 2 / 9 * 8);
+\draw [blue, line width=0.6pt] (-8.25, 1 / 9 * 8) to[out=0,in=180] (8.25, 1 / 9 * 8);
 
 \begin{scope}
-    \clip (-8,0) rectangle (8,20);
-    \draw[scale=1.0,samples=150,domain=-16:-0.05,variable=\t] plot ({\t + 8},{-1 / \t});
+    \clip (-8,0) rectangle (8,16.25);
+    \draw[scale=1.0,samples=150,domain=-18.25:-0.05,variable=\t] plot ({\t / 9 * 8 + 8},{-1 / \t / 8 * 9});
 \end{scope}
 
+
 \end{tikzpicture}
+}
 \caption{square and irrationality}\label{fig:irrationality}
 \end{figure}
 
