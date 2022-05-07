@@ -2500,6 +2500,40 @@ $S_{mn}$ 定理时空可以相互交换
 \draw [blue, line width=0.6pt] (-8.25, 2 / 9 * 8) to[out=0,in=180] (8.25, 2 / 9 * 8);
 \draw [blue, line width=0.6pt] (-8.25, 1 / 9 * 8) to[out=0,in=180] (8.25, 1 / 9 * 8);
 
+\node[circle,fill=black,inner sep=1pt,minimum size=3pt] (a) at (-16 / 9 * 8 + \offset, 16 / 9 * 8) {};
+\node [anchor=315, red] at (-16 / 9 * 8 + \offset, 16 / 9 * 8) {1};
+
+\node[circle,fill=black,inner sep=1pt,minimum size=3pt] (b) at (-8 / 9 * 8 + \offset, 8 / 9 * 8) {};
+\node [anchor=315, red] at (-8 / 9 * 8 + \offset, 8 / 9 * 8) {1};
+\node[circle,fill=black,inner sep=1pt,minimum size=3pt] (b) at (-16 / 9 * 8 + \offset, 8 / 9 * 8) {};
+\node [anchor=315, red] at (-16 / 9 * 8 + \offset, 8 / 9 * 8) {2};
+
+\node[circle,fill=black,inner sep=1pt,minimum size=3pt] (b) at (-4 / 9 * 8 + \offset, 4 / 9 * 8) {};
+\node [anchor=315, red] at (-4 / 9 * 8 + \offset, 4 / 9 * 8) {1};
+\node[circle,fill=black,inner sep=1pt,minimum size=3pt] (b) at (-8 / 9 * 8 + \offset, 4 / 9 * 8) {};
+\node [anchor=315, red] at (-8 / 9 * 8 + \offset, 4 / 9 * 8) {2};
+\node[circle,fill=black,inner sep=1pt,minimum size=3pt] (b) at (-12 / 9 * 8 + \offset, 4 / 9 * 8) {};
+\node [anchor=315, red] at (-12 / 9 * 8 + \offset, 4 / 9 * 8) {3};
+\node[circle,fill=black,inner sep=1pt,minimum size=3pt] (b) at (-16 / 9 * 8 + \offset, 4 / 9 * 8) {};
+\node [anchor=315, red] at (-16 / 9 * 8 + \offset, 4 / 9 * 8) {4};
+
+\node[circle,fill=black,inner sep=1pt,minimum size=3pt] (b) at (-2 / 9 * 8 + \offset, 2 / 9 * 8) {};
+\node [anchor=315, red] at (-2 / 9 * 8 + \offset, 2 / 9 * 8) {1};
+\node[circle,fill=black,inner sep=1pt,minimum size=3pt] (b) at (-4 / 9 * 8 + \offset, 2 / 9 * 8) {};
+\node [anchor=315, red] at (-4 / 9 * 8 + \offset, 2 / 9 * 8) {2};
+\node[circle,fill=black,inner sep=1pt,minimum size=3pt] (b) at (-6 / 9 * 8 + \offset, 2 / 9 * 8) {};
+\node [anchor=315, red] at (-6 / 9 * 8 + \offset, 2 / 9 * 8) {3};
+\node[circle,fill=black,inner sep=1pt,minimum size=3pt] (b) at (-8 / 9 * 8 + \offset, 2 / 9 * 8) {};
+\node [anchor=315, red] at (-8 / 9 * 8 + \offset, 2 / 9 * 8) {4};
+\node[circle,fill=black,inner sep=1pt,minimum size=3pt] (b) at (-10 / 9 * 8 + \offset, 2 / 9 * 8) {};
+\node [anchor=315, red] at (-10 / 9 * 8 + \offset, 2 / 9 * 8) {5};
+\node[circle,fill=black,inner sep=1pt,minimum size=3pt] (b) at (-12 / 9 * 8 + \offset, 2 / 9 * 8) {};
+\node [anchor=315, red] at (-12 / 9 * 8 + \offset, 2 / 9 * 8) {6};
+\node[circle,fill=black,inner sep=1pt,minimum size=3pt] (b) at (-14 / 9 * 8 + \offset, 2 / 9 * 8) {};
+\node [anchor=315, red] at (-14 / 9 * 8 + \offset, 2 / 9 * 8) {7};
+\node[circle,fill=black,inner sep=1pt,minimum size=3pt] (b) at (-16 / 9 * 8 + \offset, 2 / 9 * 8) {};
+\node [anchor=315, red] at (-16 / 9 * 8 + \offset, 2 / 9 * 8) {8};
+
 \begin{scope}
     \clip (-8,0) rectangle (8,16.25);
     \draw[scale=1.0,samples=150,domain=-18.25:-0.05,variable=\t] plot ({\t / 9 * 8 + 8},{-1 / \t / 8 * 9});
