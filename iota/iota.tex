@@ -64,6 +64,8 @@
 \numberwithin{convention}{section}
 \newtheorem{corollary}{推论}
 \numberwithin{corollary}{section}
+\newtheorem{principle}{原理}
+\numberwithin{principle}{section}
 \renewcommand*{\proofname}{证明}
 
 \xeCJKsetwidth{‘’“”}{1em}
@@ -101,16 +103,6 @@
 
 \section{封闭集的 6 维结构}
 
-$$
-P_{\pi_1^1} = \begin{bmatrix} 1 & 0 & 0 & 0 & 0 & 0 & 0\\ 0 & 0 & 0 & 0 & 0 & 0 & 0\\ 0 & 0 & 0 & 0 & 0 & 0 & 0\\ 0 & 0 & 0 & 0 & 0 & 0 & 0\\ 0 & 0 & 0 & 0 & 0 & 0 & 0\\ 0 & 0 & 0 & 0 & 0 & 0 & 0\end{bmatrix}
-$$
-$$
-P_{\pi_2^2} = \begin{bmatrix} 1 & 0 & 0 & 0 & 0 & 0 & 0\\ 0 & 1 & 0 & 0 & 0 & 0 & 0\\ 0 & 0 & 0 & 0 & 0 & 0 & 0\\ 0 & 0 & 0 & 0 & 0 & 0 & 0\\ 0 & 0 & 0 & 0 & 0 & 0 & 0\\ 0 & 0 & 0 & 0 & 0 & 0 & 0\end{bmatrix}
-$$
-$$
-P_{\pi_1^2} = \begin{bmatrix} 0 & 1 & 0 & 0 & 0 & 0 & 0\\ 1 & 0 & 0 & 0 & 0 & 0 & 0\\ 0 & 0 & 0 & 0 & 0 & 0 & 0\\ 0 & 0 & 0 & 0 & 0 & 0 & 0\\ 0 & 0 & 0 & 0 & 0 & 0 & 0\\ 0 & 0 & 0 & 0 & 0 & 0 & 0\end{bmatrix}
-$$
-
 \newpage
 
 \section{一种新表示法}
@@ -118,7 +110,17 @@ $$
 \subsection{SKI的几何解读}
 
 二叉树的叶节点上是操作的是几何体，$(a b)$ 读作把 $a$、$b$ 相应位置匹配黏在一起，于是 $Sxyz$ 解读为通过 $z$ 把 $x$、$y$黏在一起。
-$Kxy$ 解读为遗忘掉时空里的历史，只取到最后的结果，其实就是蕴含或者因果关系。
+$Kxy$ 解读为遗忘掉时空里的历史，只取到最后的结果，其实就是蕴含或者因果关系，如果 $K$ 单置，可以解读为时间。
+
+\begin{principle}
+恒者恒在
+\end{principle}
+
+$$I = \iota \iota = \iota S K$$
+
+$\iota S K$ 是一个有 10 个叶节点的二叉树。
+
+\Tree [.$\ominus$ [.$\odot$ [.$\ominus$ [.$\odot$ [.$\odot$ $\iota$ $\iota$ ] $\iota$ ] $\iota$ ] [.$\oplus$ $\iota$ $\iota$ ] ] 6 ]
 
 \end{document}
 
