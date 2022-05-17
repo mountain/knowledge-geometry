@@ -208,4 +208,189 @@ $\iota S K$ 是一个有 10 个 $\iota$ 为叶节点的二叉树。
 \section{从如一到逻辑}
 
 
+
+\newpage
+
+\appendix
+\newpage
+
+\section{数量关系表}
+
+我们有如下数量关系表
+
+\begin{table}[]
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+ n & elm &  cat     & leaf & perm & struct \\ \hline
+   1 &  0  &    $1$     &  1   &  1 & 不封闭   \\ \hline
+   2 &  1  &    $1$     &  2   &  2 & 群 \\ \hline
+   2 &  2  &    $2$     &  3   &  6 & 不封闭 \\ \hline
+   3 &  3  &    $5$     &  4   &  24 & 不封闭 \\ \hline
+   3 &  4  &   $14 = 2 \cdot 7$ &  5   &  120 & 。  \\ \hline
+   4 &  5  &   $42 = 2 \cdot 3 \cdot 7$ &  6   &  720 & 。   \\ \hline
+   4 &  6  &  $132 = 2^2 \cdot 3 \cdot 11$ &  7   &  5040 & 。   \\ \hline
+   5 &  7  &  $429 = 3 \cdot 11 \cdot 13$ &  8   &  40320 & 。   \\ \hline
+   5 &  8  & $1430 = 2 \cdot 5 \cdot 11 \cdot 13$ &  9   &  362880 & 。   \\ \hline
+   6 &  9  & $4862 = 2 \cdot 11 \cdot 13 \cdot 17$ &  10  & 3628800 & 。   \\ \hline
+   6 & 10  &$16796 = 2^2 \cdot 13 \cdot 17 \cdot 19$ &  11  & 39916800 & 。   \\ \hline
+   7 & 11  &$58786 = 2 \cdot 7 \cdot 13 \cdot 17 \cdot 19$ &  12  & 479001600 & 。   \\ \hline
+\end{tabular}
+\end{table}
+
+\section{$K_1$}
+
+\textbf{树表示}
+
+\Tree []
+
+\textbf{$\iota$ 核}
+
+单独的 $\iota$，不封闭
+
+\section{$K_2$}
+
+\textbf{树表示}
+
+\Tree [. $a$ $b$ ]
+
+\textbf{$\iota$ 核}
+
+\Tree [. $\iota$ $\iota$ ]
+
+也即有
+
+$$\iota \iota = I$$
+
+\textbf{结构}
+
+成群
+
+\section{$K_3$}
+
+\textbf{树表示}
+
+\Tree [. [. $a$ $b$ ] $c$ ]
+
+\Tree [. $a$ [. $b$ $c$ ] ]
+
+\textbf{$\iota$ 核}
+
+\Tree [. [. $\iota$ $\iota$ ] $\iota$ ]
+
+$$\iota \iota \iota = \iota$$
+
+\Tree [. $\iota$ [. $\iota$ $\iota$ ] ]
+
+$$\iota (\iota \iota) = \iota I = SK$$
+
+\section{$K_4$}
+
+\textbf{树表示}
+
+\Tree [. [. [. $a$ $b$ ] $c$ ] $d$ ]
+
+\Tree [. [. $a$ $b$ ] [. $c$ $d$ ] ]
+
+\Tree [. [. $a$ [. $b$ $c$ ] ] $d$ ]
+
+\Tree [. $a$ [. [. $b$ $c$ ] $d$ ] ]
+
+\Tree [. $a$ [. $b$ [. $c$ $d$ ] ] ]
+
+\textbf{$\iota$ 核}
+
+\Tree [. [. [. $\iota$ $\iota$ ] $\iota$ ] $\iota$ ]
+
+$$\iota \iota \iota \iota = I \iota \iota = \iota \iota = I$$
+
+\Tree [. [. $\iota$ $\iota$ ] [. $\iota$ $\iota$ ] ]
+
+$$(\iota \iota) (\iota \iota) = II = I$$
+
+\Tree [. [. $\iota$ [. $\iota$ $\iota$ ] ] $\iota$ ]
+
+$$(\iota (\iota \iota)) \iota = (\iota I) \iota = S K \iota$$
+
+\Tree [. $\iota$ [. [. $\iota$ $\iota$ ] $\iota$ ] ]
+
+$$(\iota (\iota \iota) \iota) = (\iota (I \iota)) = \iota \iota = I$$
+
+\Tree [. $\iota$ [. $\iota$ [. $\iota$ $\iota$ ] ] ]
+
+$$(\iota (\iota (\iota \iota))) = (\iota (\iota I)) = (\iota I) S K = (I S K) S K = (S K) S K = S K S K = K$$
+
+\section{$K_5$}
+
+\textbf{树表示}
+
+\Tree [. [. [. [. $a$ $b$ ] $c$ ] $d$ ] $e$ ]
+
+\Tree [. [. [. $a$ [. $b$ $c$ ] ] $d$ ] $e$ ]
+
+\Tree [. [. [. $a$ $b$ ] [. $c$ $d$ ] ] $e$ ]
+
+\Tree [. [. [. $a$ $b$ ] $c$ ] [. $d$ $e$ ] ]
+
+\Tree [. [. $a$ [. $b$ $c$ ] ] [. $d$ $e$ ] ]
+
+\Tree [. [. $a$ [. $b$ [. $c$ $d$ ] ] ] $e$ ]
+
+\Tree [. [. $a$ $b$ ] [. [. $c$ $d$ ] $e$ ] ]
+
+\Tree [. [. $a$ $b$ ] [. $c$ [. $d$ $e$ ] ] ]
+
+\Tree [. [. $a$ $b$ ] [. [. $c$ $d$ ] $e$ ] ]
+
+\Tree [. $a$ [. [. [. $b$ $c$ ] $d$ ] $e$ ] ]
+
+\Tree [. $a$ [. [. $b$ [. $c$ $d$ ] ] $e$ ] ]
+
+\Tree [. $a$ [. [. $b$ $c$ ] [. $d$ $e$ ] ] ]
+
+\Tree [. $a$ [. $b$ [. [. $c$ $d$ ] $e$ ] ] ]
+
+\Tree [. $a$ [. $b$ [. $c$ [. $d$ $e$ ] ] ] ]
+
+\textbf{$\iota$ 核}
+
+\Tree [. [. [. [. $\iota$ $\iota$ ] $\iota$ ] $\iota$ ] $\iota$ ]
+
+$$\iota \iota \iota \iota \iota = I \iota \iota \iota = \iota $$
+
+\Tree [. [. [. $\iota$ [. $\iota$ $\iota$ ] ] $\iota$ ] $\iota$ ]
+
+$$(\iota (\iota \iota)) \iota \iota = \iota I \iota \iota = S K \iota \iota = K \iota I = \iota$$
+
+\Tree [. [. [. $\iota$ $\iota$ ] [. $\iota$ $\iota$ ] ] $\iota$ ]
+
+$$ ((\iota \iota) (\iota \iota)) \iota = \iota$$
+
+\Tree [. [. [. $\iota$ $\iota$ ] $\iota$ ] [. $\iota$ $\iota$ ] ]
+
+$$ ((\iota \iota) \iota)) (\iota \iota) = \iota I = S K$$
+
+\Tree [. [. $\iota$ [. $\iota$ $\iota$ ] ] [. $\iota$ $\iota$ ] ]
+
+$$ (\iota (\iota \iota)) (\iota \iota) = (\iota I) I = S K I$$
+
+\Tree [. [. $\iota$ [. $\iota$ [. $\iota$ $\iota$ ] ] ] $\iota$ ]
+
+$$ (\iota (\iota (\iota \iota))) \iota  = (\iota (\iota I)) \iota = (\iota I) S K \iota = S K S K \iota = K \iota$$
+
+\Tree [. [. $\iota$ $\iota$ ] [. [. $\iota$ $\iota$ ] $\iota$ ] ]
+
+\Tree [. [. $\iota$ $\iota$ ] [. $\iota$ [. $\iota$ $\iota$ ] ] ]
+
+\Tree [. [. $\iota$ $\iota$ ] [. [. $\iota$ $\iota$ ] $\iota$ ] ]
+
+\Tree [. $\iota$ [. [. [. $\iota$ $\iota$ ] $\iota$ ] $\iota$ ] ]
+
+\Tree [. $\iota$ [. [. $\iota$ [. $\iota$ $\iota$ ] ] $\iota$ ] ]
+
+\Tree [. $\iota$ [. [. $\iota$ $\iota$ ] [. $\iota$ $\iota$ ] ] ]
+
+\Tree [. $\iota$ [. $\iota$ [. [. $\iota$ $\iota$ ] $\iota$ ] ] ]
+
+\Tree [. $\iota$ [. $\iota$ [. $\iota$ [. $\iota$ $\iota$ ] ] ] ]
+
 \end{document}
