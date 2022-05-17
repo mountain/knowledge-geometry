@@ -271,7 +271,7 @@ $$\iota \iota = I$$
 
 \textbf{路径表示}
 
-$$p_1 = I$$
+$$p_1 = p_0 p_0 = I$$
 
 \section{$K_3$}
 
@@ -293,9 +293,9 @@ $$\iota (\iota \iota) = \iota I = SK$$
 
 \textbf{路径表示}
 
-$$p_2 = p_0 p_1 + p_1 p_0 = p_0 p_1 + p0$$
+$$p_2 = p_0 p_1 + p_1 p_0$$
 
-$$p_2 = p_0 p_1 + p0$$
+$$p_2 = p_0 p_1 + p_0$$
 
 $$p_0 p_1 = SK$$
 
@@ -339,9 +339,11 @@ $$(\iota (\iota (\iota \iota))) = (\iota (\iota I)) = (\iota I) S K = (I S K) S 
 
 $$p_3 = p_0 p_2 + p_1 p_1 + p_2 p_0$$
 
-$$p_3 = p_0 (p_0 p_1 + p0) + p_1 p_1 + (p_0 p_1 + p0) p_0$$
+$$p_3 = p_0 (p_0 p_1 + p_1 p0) + p_1 p_1 + (p_0 p_1 + p_1 p0) p_0$$
 
-$$p_3 = p_1 + p_0 p_1 p_0 $$
+$$p_3 = p_0 p_0 p_1 + p_1 + p_0 p_1 p_0$$
+
+$$p_0 p_0 p_1 = K $$
 
 \section{$K_5$}
 
@@ -426,5 +428,15 @@ $$ \iota (\iota ((\iota \iota) \iota)) = \iota I = S K $$
 \Tree [. $\iota$ [. $\iota$ [. $\iota$ [. $\iota$ $\iota$ ] ] ] ]
 
 $$ \iota (\iota (\iota (\iota \iota))) = \iota (\iota (\iota I)) = (S K S K) S K = K S K = S $$
+
+\textbf{路径表示}
+
+$$p_4 = p_0 p_3 + p_1 p_2 + p_2 p_1 + p_3 p_0$$
+
+$$p_4 = p_0 (p_0 p_0 p_1 + p_1 + p_0 p_1 p_0) + p_1 (p_0 p_1 + p_0) + (p_0 p_1 + p_0) p_1 + (p_0 p_0 p_1 + p_1 + p_0 p_1 p_0) p_0$$
+
+$$p_4 = p_0 (p_0 p_0 p_1 + p_1 + p_0 p_1 p_0) + p_1 (p_0 p_1 + p_0) + (p_0 p_1 + p_0) p_1 + (p_0 p_0 p_1 + p_1 + p_0 p_1 p_0) p_0$$
+
+$$p_4 = p_0 (p_0 p_0 p_1 + p_1 + p_0 p_1 p_0) + p_1 (p_0 p_1 + p_0) + (p_0 p_1 + p_0) p_1 + (p_0 p_0 p_1 + p_1 + p_0 p_1 p_0) p_0$$
 
 \end{document}
