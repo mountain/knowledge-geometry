@@ -247,6 +247,10 @@ $\iota S K$ 是一个有 10 个 $\iota$ 为叶节点的二叉树。
 
 单独的 $\iota$，不封闭
 
+\textbf{路径表示}
+
+$$p_0 = \iota$$
+
 \section{$K_2$}
 
 \textbf{树表示}
@@ -265,6 +269,10 @@ $$\iota \iota = I$$
 
 成群
 
+\textbf{路径表示}
+
+$$p_1 = I$$
+
 \section{$K_3$}
 
 \textbf{树表示}
@@ -282,6 +290,14 @@ $$\iota \iota \iota = \iota$$
 \Tree [. $\iota$ [. $\iota$ $\iota$ ] ]
 
 $$\iota (\iota \iota) = \iota I = SK$$
+
+\textbf{路径表示}
+
+$$p_2 = p_0 p_1 + p_1 p_0 = p_0 p_1 + p0$$
+
+$$p_2 = p_0 p_1 + p0$$
+
+$$p_0 p_1 = SK$$
 
 \section{$K_4$}
 
@@ -319,6 +335,14 @@ $$(\iota (\iota \iota) \iota) = (\iota (I \iota)) = \iota \iota = I$$
 
 $$(\iota (\iota (\iota \iota))) = (\iota (\iota I)) = (\iota I) S K = (I S K) S K = (S K) S K = S K S K = K$$
 
+\textbf{路径表示}
+
+$$p_3 = p_0 p_2 + p_1 p_1 + p_2 p_0$$
+
+$$p_3 = p_0 (p_0 p_1 + p0) + p_1 p_1 + (p_0 p_1 + p0) p_0$$
+
+$$p_3 = p_1 + p_0 p_1 p_0 $$
+
 \section{$K_5$}
 
 \textbf{树表示}
@@ -338,8 +362,6 @@ $$(\iota (\iota (\iota \iota))) = (\iota (\iota I)) = (\iota I) S K = (I S K) S 
 \Tree [. [. $a$ $b$ ] [. [. $c$ $d$ ] $e$ ] ]
 
 \Tree [. [. $a$ $b$ ] [. $c$ [. $d$ $e$ ] ] ]
-
-\Tree [. [. $a$ $b$ ] [. [. $c$ $d$ ] $e$ ] ]
 
 \Tree [. $a$ [. [. [. $b$ $c$ ] $d$ ] $e$ ] ]
 
@@ -379,18 +401,30 @@ $$ (\iota (\iota (\iota \iota))) \iota  = (\iota (\iota I)) \iota = (\iota I) S 
 
 \Tree [. [. $\iota$ $\iota$ ] [. [. $\iota$ $\iota$ ] $\iota$ ] ]
 
+$$ (\iota \iota) ((\iota \iota) \iota) = \iota $$
+
 \Tree [. [. $\iota$ $\iota$ ] [. $\iota$ [. $\iota$ $\iota$ ] ] ]
 
-\Tree [. [. $\iota$ $\iota$ ] [. [. $\iota$ $\iota$ ] $\iota$ ] ]
+$$ (\iota \iota) (\iota (\iota \iota)) = S K $$
 
 \Tree [. $\iota$ [. [. [. $\iota$ $\iota$ ] $\iota$ ] $\iota$ ] ]
 
+$$ (\iota \iota) (\iota (\iota \iota)) = S K $$
+
 \Tree [. $\iota$ [. [. $\iota$ [. $\iota$ $\iota$ ] ] $\iota$ ] ]
+
+$$ \iota (\iota (\iota \iota) \iota) = (\iota I \iota) S K = (S K \iota) S K $$
 
 \Tree [. $\iota$ [. [. $\iota$ $\iota$ ] [. $\iota$ $\iota$ ] ] ]
 
+$$ \iota ((\iota \iota) (\iota \iota)) = \iota $$
+
 \Tree [. $\iota$ [. $\iota$ [. [. $\iota$ $\iota$ ] $\iota$ ] ] ]
 
+$$ \iota (\iota ((\iota \iota) \iota)) = \iota I = S K $$
+
 \Tree [. $\iota$ [. $\iota$ [. $\iota$ [. $\iota$ $\iota$ ] ] ] ]
+
+$$ \iota (\iota (\iota (\iota \iota))) = \iota (\iota (\iota I)) = (S K S K) S K = K S K = S $$
 
 \end{document}
