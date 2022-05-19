@@ -510,15 +510,99 @@ $$p_0 p_4 = p_1 + p_0^2 p_1 + p_0^4 p_1 + p_0^3 p_1 p_0 + p_0^2 p_1^2 + p_0^2 p_
 
 $$p_4 p_0 = p_1 + p_0 p_1 p_0 + p_0^3 p_1 p_0 + p_0^2 p_1 p_0^2 + p_0 p_1^2 p_0 + p_0 p_1 p_0^3$$
 
+\textbf{计算汇总}
 
 $$p_2 p_3 = p_0 p_1 + p_0 p_1^2 + p_0^3 p_1 + p_0^2 p_1 p_0 + p_0 p_1 p_0^2 p_1 + (p_0 p_1)^2 p_0$$
-$$p_3 p_2 = p_1 p_0 + p_0^2 p_1 p_0 + p_0 p_1 p_0^2 + p_1 p_0 p_1 + p_0^2 p_1 p_0 p_1 + p_0 p_1 p_0^2 p_1 $$
+$$p_3 p_2 = p_0 + p_0^2 p_1 p_0 + p_0 p_1 p_0^2 + p_0 p_1 + p_0 p_1 + p_0 p_1 p_0^2 p_1 $$
 $$p_4 p_1 = p_0 + p_0 p_1 p_0^2 + p_0^3 p_1 p_0^2 + p_0^2 p_1 p_0^3 + p_0 p_1 p_0^4 + p_0 p_1^2 p_0^2$$
 $$p_1 p_4 = p_0 + p_0 p_1 + p_0^3 p_1 + p_0^2 p_1 p_0 + p_0 p_1^2 + p_0 p_1 p_0^2$$
 $$p_0 p_4 = p_1 + p_0^2 p_1 + p_0^4 p_1 + p_0^3 p_1 p_0 + p_0^2 p_1^2 + p_0^2 p_1 p_0^2 $$
 $$p_4 p_0 = p_1 + p_0 p_1 p_0 + p_0^3 p_1 p_0 + p_0^2 p_1 p_0^2 + p_0 p_1^2 p_0 + p_0 p_1 p_0^3$$
 
-$$p_5 = $$
+$$
+p_5 = \begin{Bmatrix}
+    p_0 + p_1 \\
+    p_0 p_1 \\
+    p_0 p_1 p_0 + p_0 p_1^2 \\
+    p_0^3 p_1 + p_0^2 p_1 p_0 + p_0 p_1 p_0^2\\
+    p_0^4 p_1 + p_0^3 p_1 p_0 +
+\end{Bmatrix}
+$$
 
+\section{路径计算-随时间遗忘的版本}
+
+计算规则
+
+$$p_0 p_0 = I$$
+$$p_0^2 p_1 = K$$
+$$p_0^3 p_1 = S$$
+$$p_1 X = X$$
+
+$$p_0 = \begin{Bmatrix} p_0 \end{Bmatrix}$$
+
+$$p_1 = \begin{Bmatrix} p_1 \end{Bmatrix}$$
+
+$$p_2 = \begin{Bmatrix}  p_0 \\  p_0 p_1 \end{Bmatrix}$$
+
+$$\begin{array}{lcl}
+p_3 & = & \begin{Bmatrix} p_0 \end{Bmatrix} \begin{Bmatrix}  p_0 \\  p_0 p_1 \end{Bmatrix} +
+          \begin{Bmatrix} p_1 \end{Bmatrix}\begin{Bmatrix} p_1 \end{Bmatrix} +
+          \begin{Bmatrix} p_0 \\  p_0 p_1 \end{Bmatrix} \begin{Bmatrix} p_0 \end{Bmatrix}\\
+    & = & \begin{Bmatrix} p_1 \\ \cdot \\ p_0^2 p_1 \end{Bmatrix} +
+          \begin{Bmatrix} p_1 \\ \cdot \\ \cdot \end{Bmatrix} +
+          \begin{Bmatrix} p_1 \\ \cdot \\ p_0 p_1 p_0 \end{Bmatrix} \\
+    & = & \begin{Bmatrix} 3 p_1 \\ \cdot \\ p_0^2 p_1 + p_0 p_1 p_0 \end{Bmatrix}
+\end{array}
+$$
+
+$$\begin{array}{lcl}
+p_4 & = & \begin{Bmatrix} p_0 \end{Bmatrix} \begin{Bmatrix} 3 p_1 \\ \cdot \\ p_0^2 p_1 + p_0 p_1 p_0  \end{Bmatrix} +
+          \begin{Bmatrix} p_1 \end{Bmatrix} \begin{Bmatrix}  p_0 \\  p_0 p_1 \end{Bmatrix} +
+          \begin{Bmatrix}  p_0 \\  p_0 p_1 \end{Bmatrix} \begin{Bmatrix} p_1 \end{Bmatrix} +
+          \begin{Bmatrix} 3 p_1 \\ \cdot \\ p_0^2 p_1 + p_0 p_1 p_0 \end{Bmatrix}\begin{Bmatrix} p_0 \end{Bmatrix}\\
+    & = & \begin{Bmatrix} \cdot \\ 3 p_0 p_1 \\ \cdot \\ p_0^3 p_1 + p_0^2 p_1 p_0 \end{Bmatrix} +
+          \begin{Bmatrix} p_0 \\  p_0 p_1 \\ \cdot \\ \cdot \end{Bmatrix} +
+          \begin{Bmatrix} \cdot \\ p_0 p_1 \\  p_0 p_1^2 \\ \cdot \end{Bmatrix} +
+          \begin{Bmatrix} 3 p_0 \\ \cdot \\ \cdot \\ p_0^2 p_1 p_0 + p_0 p_1 p_0^2 \end{Bmatrix} \\
+    & = & \begin{Bmatrix} 4 p_0 \\ 5 p_0 p_1 \\ p_0 p_1^2 \\ p_0^3 p_1 + 2 p_0^2 p_1 p_0 + p_0 p_1 p_0^2 \end{Bmatrix}
+\end{array}
+$$
+
+$$\begin{array}{lcl}
+p_5 & = & \begin{Bmatrix} p_0 \end{Bmatrix} \begin{Bmatrix} 4 p_0 \\ 5 p_0 p_1 \\ p_0 p_1^2 \\ p_0^3 p_1 + 2 p_0^2 p_1 p_0 + p_0 p_1 p_0^2 \end{Bmatrix} +
+          \begin{Bmatrix} p_1 \end{Bmatrix} \begin{Bmatrix}  3 p_1 \\ \cdot \\ p_0^2 p_1 + p_0 p_1 p_0 \end{Bmatrix} +
+          \begin{Bmatrix} p_0 \\  p_0 p_1 \end{Bmatrix} \begin{Bmatrix} p_0 \\  p_0 p_1 \end{Bmatrix} \\
+    & + & \begin{Bmatrix} 3 p_1 \\ \cdot \\ p_0^2 p_1 + p_0 p_1 p_0 \end{Bmatrix} \begin{Bmatrix} p_1 \end{Bmatrix} +
+          \begin{Bmatrix} 4 p_0 \\ 5 p_0 p_1 \\ p_0 p_1^2 \\ p_0^3 p_1 + 2 p_0^2 p_1 p_0 + p_0 p_1 p_0^2 \end{Bmatrix}\begin{Bmatrix} p_0 \end{Bmatrix}\\
+    & = & \begin{Bmatrix} 4 p_1 + p_0\\ \cdot \\ 5 p_0^2 p_1 \\ p_0^2 p_1^2 \\ p_0^4 p_1 + 2 p_0^3 p_1 p_0 \end{Bmatrix} +
+          \begin{Bmatrix} 3 p_1 \\ \cdot \\ p_0^2 p_1 + p_0 p_1 p_0 \\ \cdot \\ \cdot \end{Bmatrix} +
+          \begin{Bmatrix} p_1 \\ \cdot \\  p_0^2 p_1  + p_0 p_1 p_0 \\  p_0 p_1 p_0 p_1 \\ \cdot \end{Bmatrix}
+          \\
+    & + & \begin{Bmatrix} 3 p_1 \\ \cdot \\ \cdot \\ p_0^2 p_1^2 + p_0 p_1 p_0 p_1 \\ \cdot \end{Bmatrix} +
+          \begin{Bmatrix} 2 p_0 + 4 p_1 \\ \cdot \\ 5 p_0 p_1 p_0 \\ p_0 p_1^2 p_0 \\ p_0^3 p_1 p_0 + p_0 p_1 p_0^3 \end{Bmatrix}
+          \\
+    & = & \begin{Bmatrix} 3 p_0 + 15 p_1 \\ \cdot \\ 7 p_0 p_1 p_0 + \\ p_0 p_1^2 p_0 \\ p_0^3 p_1 p_0 + 2 p_0^2 p_1 p_0^2 + p_0 p_1 p_0^3\end{Bmatrix}
+\end{array}
+$$
+
+\section{路径计算-不随时间遗忘的版本}
+
+$$p_0 = \begin{Bmatrix} p_0 \end{Bmatrix}$$
+
+$$p_1 = \begin{Bmatrix} \cdot \\  p_0 p_0 \end{Bmatrix}$$
+
+
+
+\section{路径计算-复化的版本}
+
+计算规则
+
+$$p_0 = \frac{1 + i}{\sqrt{2}} \iota$$
+$$q_0 = \frac{1 - i}{\sqrt{2}} \iota$$
+
+$$\begin{array}{lcl}
+[p_0 q_0] & = & \begin{Bmatrix} p_0 q_0 \end{Bmatrix} \\
+          & = &
+\end{array}$$
 
 \end{document}
