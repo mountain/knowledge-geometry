@@ -18,6 +18,13 @@
 \usepackage{amsmath}
 \usepackage{mathtools}
 
+\usepackage{stmaryrd}
+\usepackage{mathtools}
+\usepackage{wasysym}
+\usepackage{textcomp}
+\usepackage{latexsymb}
+\usepackage{subfiles}
+
 \usepackage{tikz}
 \usepackage{pgf}
 \usepgflibrary{fpu}
@@ -41,12 +48,6 @@
 \usepackage{data/quiver}
 \usepackage{data/circledsteps}
 \input{data/style}
-
-\usepackage{stmaryrd}
-\usepackage{mathtools}
-\usepackage{wasysym}
-\usepackage{textcomp}
-\usepackage{subfiles}
 
 \newtheorem{definition}{定义}
 \numberwithin{definition}{section}
@@ -143,13 +144,21 @@ C_{n+1} & = \sum_{i=0}^n C_i C_{n-i}
 
 $I$ 组合子
 
+\begin{tabular}{lcl}
+\Tree [. $I$ $x$ ] & $\leadsto$ & $x$
+\end{tabular}
 
 $K$ 组合子
 
+\Tree [. [. $K$ $x$ ] $y$  ]  $\to$ $x$
 
 $S$ 组合子
 
+\Tree [. [. [. $S$ $x$ ] $y$ ] $z$ ]  $\to$ \Tree [. [. $x$ $z$ ] [. $y$ $z$ ] ]
 
+\section{共轭的引入}
+
+\section{从$CP^1$到扭结}
 
 \section{Catalan 群与$\iota$组合子}
 
