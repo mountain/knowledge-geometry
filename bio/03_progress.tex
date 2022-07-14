@@ -157,18 +157,19 @@
 估值$\nu$是对上面算术表达式 $a$ 的计算，该计算仅在出现除零时无定义。
 
 \begin{definition}
-    良定义的算术表达式是指可以估值的算术表达式\footnote{良定义的问题还可以有更多几何上的讨论，除零类似于复变里给出的极点和本性奇点。}
+    良定义的算术表达式是指可以估值的算术表达式\footnote{良定义的问题还可以有更多几何上的讨论，对除零可以有类似于复变里给出的极点和本性奇点一样的讨论。}
 \end{definition}
 
 我们记有理数域$\mathbb{Q}$上的全体良定义的算术表达式为$\mathbb{A}$，此时 $\nu$ 是从 $\mathbb{A}$ 到 $\mathbb{Q}$ 的函数。
 
 \begin{definition}
-    拓扑空间 $\mathcal{A}$ 上有一个可列的稠密集 $G$，如果该稠密集到良定义的算术表达式之间存在一个单射 $\kappa: G \to \mathbb{A}$，
-    对任意一点 $x \in \mathcal{A}$， 任意两个点列 $y_i \in G$ 和 $w_j \in G$， 当 $y_i$ 趋于 $x$ 且 $w_j$ 也趋于 $x$ 时，
+    拓扑空间 $\mathcal{A}$ 上有一个可列的稠密集 $G$，该稠密集到良定义的算术表达式之间存在一个单射 $\kappa: G \to \mathbb{A}$，
+    我们记这映射的像 $\kappa(G)$ 为 $\kappa(G) = \mathbb{K}$，如果对任意一点 $x \in \mathcal{A}$，
+    任意两个点列 $y_i \in G$ 和 $w_j \in G$， 当 $y_i$ 趋于 $x$ 且 $w_j$ 也趋于 $x$ 时，
     我们有有理数上的点列 $\nu(\kappa(y_i))$ 和 $\nu(\kappa(w_j))$ 都收敛到同一个实数；此时，我们可以自然地做一个扩展：
     \begin{itemize}
-        \item 把 $\mathbb{A}$ 扩张成 $\bar{\mathbb{A}}$；
-        \item 把 $\nu$ 扩张成从 $\bar{\mathbb{A}}$ 到 $\mathbb{R}$ 上的映射 $\bar{\nu}$；
+        \item 把 $G$ 扩张成 $\mathcal{A}$ 上的闭集 $\bar{G}$；
+        \item 把 $\nu$ 扩张成从 $\bar{\mathbb{K}}$ 到 $\mathbb{R}$ 上的映射 $\bar{\nu}$；
     \end{itemize}
     如果这个扩展后的估值函数 $\bar{\nu}$ 是一个连续函数，则我们称拓扑空间 $\mathcal{A}$ 为一个拓扑算术表达式空间。 $G$ 称为
     $\mathcal{A}$ 上的网格。
@@ -847,18 +848,18 @@ $$
     \tkzInterCC(O,O2)(K1,A) \tkzGetPoints{C}{D}
 
     \tkzDrawCircle[color=red,fill=red](O,O1)
-    \tkzDrawArc[R with nodes,color=green](K1,\rAp pt)(C,D)
-    \tkzDrawArc[R with nodes,color=blue](K2,183 pt)(O2,O1)
+    \tkzDrawArc[R with nodes,color=green](K1,\rAp)(C,D)
+    \tkzDrawArc[R with nodes,color=blue](K2,1.8)(O2,O1)
 
     \tkzDefMidPoint(O,V2) \tkzGetPoint{M}
     \tkzInterLC(M,O2)(K1,A) \tkzGetPoints{L}{N}
 
     \tkzDrawSegment[color=blue](O1,O2)
     \tkzDrawSegment[color=green](V1,V2)
-    \tkzDrawCircle[R,fill=black](N,1 pt)
-    \tkzDrawCircle[R,fill=black](A,1 pt)
-    \tkzDrawCircle[R,fill=black](O,1 pt)
-    \tkzDrawCircle[R,fill=black](X,1 pt)
+    \tkzDrawCircle[R,fill=black](N,0.02)
+    \tkzDrawCircle[R,fill=black](A,0.02)
+    \tkzDrawCircle[R,fill=black](O,0.02)
+    \tkzDrawCircle[R,fill=black](X,0.02)
 
     \tkzLabelPoint[below right](A){$P$}
     \tkzLabelPoint[above right](N){$Q$}
@@ -899,12 +900,12 @@ $$
     \tkzInterCC(K2,V2)(K1,A) \tkzGetPoints{L}{N}
 
     \tkzDrawCircle[color=black](O,V1)
-    \tkzDrawArc[R with nodes,color=gray](K1,\rAp pt)(C,D)
-    \tkzDrawArc[R with nodes,color=yellow](K2,183 pt)(V1,V2)
+    \tkzDrawArc[R with nodes,color=gray](K1,\rAp)(C,D)
+    \tkzDrawArc[R with nodes,color=yellow](K2,1.8)(V1,V2)
 
     \tkzDrawSegment[color=blue](O1,O2)
     \tkzDrawSegment[color=blue](V1,V2)
-    \tkzDrawCircle[R,fill=black](N,1 pt)
+    \tkzDrawCircle[R,fill=black](N,0.02)
 
     \tkzLabelPoint[below](V1){$\Omega_{s}$}
     \tkzLabelPoint[above](V2){$\Omega_{n}$}
@@ -914,11 +915,11 @@ $$
     \tkzDefPoint(3.36,1.13){Q}
     \tkzDefPoint(4,0){R}
     \tkzDefPoint(3.773,1.32){S}
-    \tkzDrawCircle[R,fill=black](O,1 pt)
-    \tkzDrawCircle[R,fill=black](P,1 pt)
-    \tkzDrawCircle[R,fill=black](Q,1 pt)
-    \tkzDrawCircle[R,fill=black](R,1 pt)
-    \tkzDrawCircle[R,fill=black](S,1 pt)
+    \tkzDrawCircle[R,fill=black](O,0.02)
+    \tkzDrawCircle[R,fill=black](P,0.02)
+    \tkzDrawCircle[R,fill=black](Q,0.02)
+    \tkzDrawCircle[R,fill=black](R,0.02)
+    \tkzDrawCircle[R,fill=black](S,0.02)
     \tkzLabelPoint[below left](O){$O$}
     \tkzLabelPoint[below left](P){$P$}
     \tkzLabelPoint[left](Q){$Q$}

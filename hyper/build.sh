@@ -1,0 +1,23 @@
+rm *.acn
+rm *.alg
+rm *.bbl
+rm *.glg
+rm *.gls
+rm *.log
+rm *.pdf
+rm *.toc
+rm *.acr
+rm *.aux
+rm *.blg
+rm *.glo
+rm *.idx
+rm *.out
+rm *.xdy
+
+xelatex hyper
+xelatex hyper
+bibtex hyper
+xelatex hyper
+xelatex hyper
+makeglossaries hyper
+xelatex hyper
