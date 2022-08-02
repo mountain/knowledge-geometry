@@ -1,5 +1,6 @@
 import sys
 
+import numpy as np
 from PIL import Image
 from numpy import array, dot, cross, inf, linspace
 from numpy.linalg import solve
@@ -33,12 +34,13 @@ def unit(vector):
 #    while sum([Fraction(1, x) for x in pqr]) >= 1:
 #        pqr.pop()
 
-pqr = [3, 3, 3]
+pqr = [2, 3, 8]
 
 filestem = ""
 for n in pqr: filestem += str(n)
 while len(filestem) < 3:
     filestem += "i"
+    pqr.append(inf)
 
 # make a list of mirror planes
 
@@ -50,7 +52,7 @@ if not pqr:  # all pairs are asymptotic
 else:
     p = pqr.pop(0)
     pangle = pi / p
-    cosqr = [-cos(pi / u) if type(u) == int else -1  for u in pqr]
+    cosqr = [-cos(pi / u) if type(u) == int else -1 for u in pqr]
 
     v0 = [0, 1, 0]
     v11 = -cos(pangle)
@@ -62,8 +64,7 @@ else:
     mirror = [array(v0), array(v1), array(v2)]
 
     # Move everything so that the origin is equidistant from the mirror.
-
-    omnipoint = unit(solve(array(mirror), array([-0, -64, -0])))
+    omnipoint = unit(solve(array(mirror), array([-10, -5, -1])))
     if omnipoint[0].imag < 0: omnipoint = -omnipoint
     tempmirror = unit(omnipoint - array([1j, 0, 0]))
     for j, u in enumerate(mirror):
@@ -94,19 +95,19 @@ def thecolor(x0, x1):
                 clean += 1
                 if clean >= 3:
                     # 1:
-                    #if abs(dot(p, v0)) < 0.02: return (0, 0, 255, 255)
-                    #return (255, 0, 0, 255)
+                    if abs(dot(p, v0)) < 0.015: return (34,139,34, 255)
+                    return (188, 143, 143, 255)
 
                     # 2:
-                    d0 = dot(p, v0)
-                    d1 = dot(p, v1)
-                    d2 = dot(p, v2)
-                    if abs(d0) < 0.02:
-                        return (0, 0, 255, 255)
-                    elif d1 > d2:
-                        return (255, 0, 0, 255)
-                    elif d1 < d2:
-                        return (255, 255, 0, 255)
+                    #d0 = dot(p, v0)
+                    #d1 = dot(p, v1)
+                    #d2 = dot(p, v2)
+                    #if abs(d0) < 0.02:
+                    #    return (0, 0, 255, 255)
+                    #elif d1 > d2:
+                    #    return (255, 0, 0, 255)
+                    #elif d1 < d2:
+                    #    return (255, 255, 0, 255)
 
                     # 3:
                     #if dot(p,critplane) < 0: return (255,0,0,255)
@@ -132,14 +133,20 @@ def thecolor(x0, x1):
 #vertex = solve(array(mirror), array([0, 0, 0]))
 
 # 4
-vertex = solve(array(mirror), array([0, 1, 1]))
+#vertex = solve(array(mirror), array([0, 1, 1]))
+#print(vertex)
 
-critplane = 1j * cross(vertex, v0)
+#critplane = 1j * cross(vertex, v0)
+#print(critplane, np.abs(vertex))
 
 
+import time
+
+start = time.time()
 im = Image.new("RGBA", (width, width))
 im.putdata([thecolor(x, y)
             for y in coord
             for x in coord
             ])
 im.save("%s.png" % (filestem))
+print("time:", time.time() - start)

@@ -26,7 +26,7 @@ def unit(vector):
 
 
 
-pqr = [4, 4]
+pqr = [8, 3, inf]
 filestem = "i44"
 
 
