@@ -14,7 +14,8 @@ def eval_path(path):
             if op > 0:
                 result = (result * op) % modulo
             else:
-                result = Fraction(result, -op) % modulo
+                result = result - (result // op) * op
+                result = Fraction(result, -op)
     return result
 
 
