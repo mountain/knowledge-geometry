@@ -1,0 +1,84 @@
+%! Author = mingli
+%! Date = 8/9/22
+
+% Preamble
+\documentclass[11pt]{article}
+
+% Packages
+\usepackage{amsmath}
+\usepackage{datetime}
+\usepackage{framed}
+\usepackage{enumitem}
+\usepackage{fancyref}
+\usepackage{wrapfig}
+\usepackage{pifont}
+\usepackage{appendix}
+\usepackage{caption}
+\usepackage{xcolor}
+\usepackage[stable]{footmisc}
+\usepackage{multicol}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{qtree}
+
+\usepackage{pgf}
+\usepgflibrary{fpu}
+\usepackage{pgfplots}
+\usepackage{tikz}
+\usetikzlibrary{angles,fit,arrows,calc,math,intersections,through,backgrounds}
+\usepackage{tkz-euclide}
+
+\usepackage{csquotes}
+\usepackage{xstring}
+\usepackage{data/quiver}
+\usepackage{data/circledsteps}
+\input{data/style}
+\newdateformat{nianyueri}{ \THEYEAR 年 \THEMONTH 月 \THEDAY 日 }
+
+\usepackage{stmaryrd}
+\usepackage{mathtools}
+\usepackage{wasysym}
+\usepackage{textcomp}
+\usepackage{subfiles}
+
+\title{一个六维理论}
+\date{\nianyueri 2026年}
+\author{苑明理}
+
+\begin{document}
+
+\begin{center}
+  \sihao \em 过程比结果更重要
+\end{center}
+
+\maketitle
+
+\centerline{\rule{13cm}{0.4pt}}
+\renewcommand{\contentsname}{\hfill\bfseries 目录 \hfill}
+\setcounter{tocdepth}{2}
+\tableofcontents
+\centerline{\rule{13cm}{0.4pt}}
+\newpage
+
+\section{八元算术表达式几何}
+
+\begin{figure}[ht]
+\centering
+\resizebox{\columnwidth}{!}{%
+
+\begin{tikzpicture}[thick,scale=1]
+    \draw (0, 0) node[inner sep=0] {\includegraphics[width=2.0in]{images/H2_tiling_246-1.png}};
+    \draw (6, 0) node[inner sep=0] {\includegraphics[width=2.0in]{images/H2_tiling_246-1.png}};
+    \draw (12, 0) node[inner sep=0] {\includegraphics[width=2.0in]{images/H2_tiling_246-1.png}};
+    \draw (-0.9, 0.1) node[inner sep=1pt, font=\tiny] (s) {$0$};
+\end{tikzpicture}
+
+}
+\caption{八元算术表达式几何的六维表示}\label{fig:dim6}
+\end{figure}
+
+
+\end{document}

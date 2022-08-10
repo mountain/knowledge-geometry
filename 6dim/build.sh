@@ -1,0 +1,21 @@
+rm *.acn
+rm *.alg
+rm *.bbl
+rm *.glg
+rm *.gls
+rm *.log
+rm *.pdf
+rm *.toc
+rm *.acr
+rm *.aux
+rm *.blg
+rm *.glo
+rm *.idx
+rm *.out
+rm *.xdy
+
+xelatex 6dim
+xelatex 6dim
+bibtex 6dim
+xelatex 6dim
+xelatex 6dim
