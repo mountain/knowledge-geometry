@@ -1069,8 +1069,69 @@ $$
 如图\ref{fig:appolo}，我们从零线 $\Omega_r O \Omega_l$ 开始燃烧，超圆$\Omega_r R \Omega_l$ 各处距离零线都为 $s$ 。
 所以，当我们沿超圆从 $R$ 移动到 $Q$ ，同时零线上的 $O$ 移动到了 $P$，在这个过程中，距离 $s$ 保持不变，反映了一种平移运动中的对称性。
 
-如图\ref{fig:merged}，当我们把这种对称性和四阶无限边形铺嵌结合在一起观察的时候，
+如图\ref{fig:merged1}，当我们把这种对称性和四阶无限边形铺嵌结合在一起观察的时候，
 我们会发现，平移对称性适当离散化后，可以保持四阶无限边形铺嵌不变。
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+\begin{scope}[line width=0.3pt]
+    \draw (0, 0) node[inner sep=0] {\includegraphics[width=3.142in]{images/t4097.png}};
+    \tkzDefPoint(0,0){O}
+    \tkzDefPoint(-4,0){O1}
+    \tkzDefPoint(4,0){O2}
+    \tkzDefPoint(0,-4){V1}
+    \tkzDefPoint(0,4){V2}
+    \tkzDefPoint(-5, 0){K2}
+
+    \tkzDefCircle[apollonius,K=2.415](V1,V2) \tkzGetPoint{K1} \tkzGetPoints{A}{B} \tkzGetLength{rAp}
+    \tkzInterCC(O,V2)(K1,A) \tkzGetPoints{C}{D}
+    \tkzInterCC(K2,V2)(K1,A) \tkzGetPoints{L}{N}
+
+    \tkzDrawCircle[color=black](O,V1)
+    \tkzDrawArc[R with nodes,color=gray](K1,\rAp pt)(C,D)
+    \tkzDrawArc[R with nodes,color=yellow](K2,183 pt)(V1,V2)
+
+    \tkzDrawSegment[color=blue](O1,O2)
+    \tkzDrawSegment[color=blue](V1,V2)
+    \tkzDrawCircle[R,fill=black](N,0.05 pt)
+
+    \tkzLabelPoint[below](V1){$\Omega_{0}$}
+    \tkzLabelPoint[above](V2){$\Omega_{1}$}
+    \tkzLabelLine[blue,above](A,N){$s$}
+
+    \tkzDefPoint(2.82,0){P}
+    \tkzDefPoint(3.36,1.13){Q}
+    \tkzDefPoint(4,0){R}
+    \tkzDefPoint(3.773,1.32){S}
+    \tkzDrawCircle[R,fill=black](O,0.05 pt)
+    \tkzDrawCircle[R,fill=black](P,0.05 pt)
+    \tkzDrawCircle[R,fill=black](Q,0.05 pt)
+    \tkzDrawCircle[R,fill=black](R,0.05 pt)
+    \tkzDrawCircle[R,fill=black](S,0.05 pt)
+    \tkzLabelPoint[below left](O){$O$}
+    \tkzLabelPoint[below left](P){$P$}
+    \tkzLabelPoint[left](Q){$Q$}
+    \tkzLabelPoint[right](R){$\Omega_{1}$}
+    \tkzLabelPoint[right](S){$\Omega_{2}$}
+\end{scope}
+\end{tikzpicture}
+\caption{四阶无限边形铺嵌里的第一种对称性}\label{fig:merged1}
+\end{figure}
+
+另一方面，当火线离开零线推进的时候，我们可以观察到，火线的梯度方向和四阶无限边形存在如下的搭配关系：
+
+\begin{itemize}
+    \item 火线沿 $O\Omega_{1}$ 向前传播，梯度方向始终和 $O\Omega_{1}$ 一致。
+    \item 火线到达 $P$ 点，$PQ$ 上每点的切线都与火线到达时的梯度，它们的夹角会均匀地从 $\frac{\pi}{2}$ 变化到 $0$。
+    \item 于是进一步，火线沿 $Q\Omega_{2}$ 向前传播，梯度方向始终和 $Q\Omega_{2}$ 一致。
+    \item 上述情况反复出现……
+\end{itemize}
+
+这些直观的观察是在讨论四阶无限边形铺嵌的某种对称性。围绕这个对称性，结合公式 \ref{eq:fourfold} ，
+就可以对无限边形染色，其中的每种颜色代表前述公式里一种符号的选择。
+
+\subsection{第三个例子的构造大意}
 
 \begin{figure}[ht]
 \centering
@@ -1118,20 +1179,8 @@ $$
 
 \end{scope}
 \end{tikzpicture}
-\caption{四阶无限边形铺嵌里的对称性}\label{fig:merged}
+\caption{四阶无限边形铺嵌里的第二种对称性}\label{fig:merged2}
 \end{figure}
-
-另一方面，当火线离开零线推进的时候，我们可以观察到，火线的梯度方向和四阶无限边形存在如下的搭配关系：
-
-\begin{itemize}
-    \item 火线沿 $O\Omega_{1}$ 向前传播，梯度方向始终和 $O\Omega_{1}$ 一致。
-    \item 火线到达 $P$ 点，$PQ$ 上每点的切线都与火线到达时的梯度，它们的夹角会均匀地从 $\frac{\pi}{2}$ 变化到 $0$。
-    \item 于是进一步，火线沿 $Q\Omega_{2}$ 向前传播，梯度方向始终和 $Q\Omega_{2}$ 一致。
-    \item 上述情况反复出现……
-\end{itemize}
-
-这些直观的观察是在讨论四阶无限边形铺嵌的某种对称性。围绕这个对称性，结合公式 \ref{eq:fourfold} ，
-就可以对无限边形染色，其中的每种颜色代表前述公式里一种符号的选择。
 
 \subsection{四阶无限边形铺嵌里的问题}
 
