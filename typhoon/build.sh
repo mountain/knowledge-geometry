@@ -1,0 +1,21 @@
+rm *.acn
+rm *.alg
+rm *.bbl
+rm *.glg
+rm *.gls
+rm *.log
+rm *.pdf
+rm *.toc
+rm *.acr
+rm *.aux
+rm *.blg
+rm *.glo
+rm *.idx
+rm *.out
+rm *.xdy
+
+xelatex typhoon
+xelatex typhoon
+bibtex typhoon
+xelatex typhoon
+xelatex typhoon
