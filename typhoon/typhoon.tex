@@ -30,6 +30,8 @@
 \usepackage{tikz}
 \usetikzlibrary{angles,fit,arrows,calc,math,intersections,through,backgrounds}
 \usepackage{tkz-euclide}
+\usepackage[most]{tcolorbox}
+
 
 \usepackage{csquotes}
 \usepackage{xstring}
@@ -44,7 +46,7 @@
 \usepackage{textcomp}
 \usepackage{subfiles}
 
-\title{奇点动力学与台风路径预报}
+\title{研究计划：机器学习、奇点动力学与台风路径预报}
 \date{\nianyueri 2022 年 11 月}
 \author{苑明理}
 
@@ -59,21 +61,77 @@
 \centerline{\rule{13cm}{0.4pt}}
 \newpage
 
-\section{研究动机}
+\section{动机与背景}
 
-尝试 GAN 与集合预报的结合
-把粗糙路径理论应用于台风路径预报
-探索奇点的动力学
+我们将在研究中探索如下的几个方面
+\begin{itemize}
+\item 尝试 GAN 与集合预报的结合
+\item 把粗糙路径理论应用于台风路径预报
+\item 探索奇点的动力学
+\end{itemize}
 
+\subsection{GAN 与集合预报}
 
-\section{背景陈述}
+在可查的文献中，我们只找到文献\cite{AlexanderGAN2020}把 GAN 同集合预报联系起来，此篇文章也表达了刻画预报的不确定性和集合预报的关系，
+但它不确定性估计是通过引入 Monte-Carlo dropout 来实现的。我们的一个想法，GAN 的架构里内置了随机种子，这个随机种子本身可以用来
+生成不同的预报集合。这个随机种子是由正态分布产生，使得学习器可以无偏地学习到样本的概率分布，于是就能解决预报集合中代表的无偏产生问题。
+能够无偏产生集合代表才是 GAN 与集合预报结合的精髓所在。
+
+\subsection{粗糙路径理论}
+
+1977 年，陈国才（Kuo-Tsai Chen）在文献\cite{Chen1977IteratedPI}中考虑了迭代路径积分的理论；1998 年，Terry Lyons
+在研究受控随机微分方程的过程中，发展了粗糙路径理论\cite{Lyons1998}。这个理论用一组路径积分的集合来刻画一个带有随机扰动的时序变化过程，
+这组路径积分理论上是无穷维的，但在实践中可以截断，它们称为原来时序变化过程的签名（Signature）。
+
+这个理论已经被应用在手写体识别和量化投资的领域中\cite{Lyons2014RoughPS}，它与深度学习的结合也已经逐渐起步。
+在最近的 ICML 2021 上，有两篇论文\cite{Morrill2021NeuralRD} \cite{Min2021SignaturedDF}与此有关。
+在 NeurIPS 2022 上 Terry Lyons 所在的团队也有\href{https://datasig.ac.uk/article/neurips-2022}{多篇论文}发表，
+其中一些论文和粗糙路径理论有明显地延续关系，这些文章理论上的意义还需更进一步的解读。
+
+\subsection{奇点动力学}
+
+Michael Atiyah 在著名演讲\href{https://mp.weixin.qq.com/s/Kr6jKMdHxyAdXaLPiqifvw}{《二十世纪的数学》}中，有部分内容陈述了数学史
+上整体和局部观点的发展，指出整体上对奇点的研究可以给出局部的信息\cite{Atiyah2002-ATIMIT}。
+
+如下图，我们观察一个涡产生过程的数值模拟\cite{Eggl2022MixingBS}，非常容易有一种几何直观，整体的流场和涡旋的分布有着强烈的相关性。
+这启发我们能否通过机器学习来唯象地建立一种涡旋之上的动力学呢？涡旋也就是流场中的奇点，每个点上都有一种旋转强弱的刻画；反过来，如果给到了
+不同强弱旋转的奇点分布，我们是否也能重建流场呢？如果这个想法成立，我们就能和 Michael Atiyah 的观点呼应起来。
+
+\begin{tcbraster}[raster columns=4, halign title=center, flip title={boxsep=1mm}, blank, colbacktitle=white, coltitle=black]
+\foreach \i in {000000,001000,002000,003000,004000,005000,006000,007000,008000,009000,010000,011000}{
+\tcbincludegraphics[title=\thetcbrasternum s]{images/vortex/\i.png}}
+\end{tcbraster}
+
+我们有大量的卫星影像资料，在现有 CV 技术的基础上，学习到不同强弱的奇点分布是有可能的，并可以进一步研究奇点演化的规律，这是否会给到我们
+一种看待流场的新的观点呢？台风的路径预报是与这个观点彼此一致的。
+
+\section{数据集}
+
+我们已经知道 850
+
+\section{评测指标}
+
 
 \section{网络架构}
 
-\section{更多讨论}
+\subsection{Signatory 包的 API}
 
-\section{奇点动力学}
+用于粗糙路径理论计算的\href{https://github.com/patrick-kidger/signatory}{开源包 Signatory} 也已经发布，它与 pyTorch 兼容。
 
+Signatory 开源包的基本 API 可以概括如下：
+\begin{itemize}
+\item \href{https://signatory.readthedocs.io/en/latest/pages/examples/neuralnetworks.html}{路径转成签名再转张量的过程}
+\item \href{https://signatory.readthedocs.io/en/latest/pages/examples/translation.html}{相似的路径，它们的签名也非常接近}
+\item \href{https://signatory.readthedocs.io/en/latest/pages/examples/inversion.html}{从签名恢复出来路径}
+\end{itemize}
+
+本质上，粗糙路径理论是提供了一个表征变换的工具，它将一般的演化路径转换成签名，并可以在这个新的表征上做各种各样的后继任务。
+
+\newpage
+\phantomsection
+\addcontentsline{toc}{section}{参考文献}
+\bibliographystyle{ieeetr}
+\bibliography{biblio/article}
 
 
 \end{document}
