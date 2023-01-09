@@ -1180,32 +1180,32 @@ y' = y e^{k\lambda} \\
 
 \begin{figure}[ht]
 \centering
-\begin{tikzpicture}
+\begin{tikzpicture}[scale=0.1]
     \tkzDefPoint(0,0){O}
     \tkzDefPoint(-4,0){O1}
     \tkzDefPoint(4,0){O2}
     \tkzDefPoint(0,-4){V1}
     \tkzDefPoint(0,4){V2}
+
     \tkzDefPoint(0,-5){K2}
     \tkzDefPoint(0,1.44){X}
 
-    \tkzDefCircle[apollonius,K=2](O1,O2) \tkzGetPoint{K1} \tkzGetPoints{A}{B} \tkzGetLength{rAB}
+    \tkzDefCircle[apollonius,K=2](O1,O2) \tkzGetPoint{K1} \tkzGetPoints{A}{B} \tkzGetLength{rAp}
     \tkzInterCC(O,O2)(K1,A) \tkzGetPoints{C}{D}
 
     \tkzDrawCircle[color=red,fill=red](O,O1)
-    \tkzDrawArc[R with nodes,color=green](K1,\rAB)(C,D)
-    \tkzDrawArc[R with nodes,color=blue](K2,183 pt)(O2,O1)
+    \tkzDrawArc[R with nodes,color=green](K1,\rAp)(C,D)
+    \tkzDrawArc[R with nodes,color=blue](K2,1.8)(O2,O1)
 
     \tkzDefMidPoint(O,V2) \tkzGetPoint{M}
-    \tkzInterLC(M,O2)(K1,A) \tkzGetPoints{N}{L}
-    \tkzDrawArc[R with nodes,color=green](K1, \rAB)(N,A)
+    \tkzInterLC(M,O2)(K1,A) \tkzGetPoints{L}{N}
 
     \tkzDrawSegment[color=blue](O1,O2)
     \tkzDrawSegment[color=green](V1,V2)
-    \tkzDrawCircle[R,fill=black](N,0.05 pt)
-    \tkzDrawCircle[R,fill=black](A,0.05 pt)
-    \tkzDrawCircle[R,fill=black](O,0.05 pt)
-    \tkzDrawCircle[R,fill=black](X,0.05 pt)
+    \tkzDrawCircle[R,fill=black](N,0.02)
+    \tkzDrawCircle[R,fill=black](A,0.02)
+    \tkzDrawCircle[R,fill=black](O,0.02)
+    \tkzDrawCircle[R,fill=black](X,0.02)
 
     \tkzLabelPoint[below right](A){$P$}
     \tkzLabelPoint[above right](N){$Q$}
@@ -1229,6 +1229,7 @@ y' = y e^{k\lambda} \\
 
 \begin{figure}[ht]
 \centering
+\resizebox{0.6\textwidth}{!}{%
 \begin{tikzpicture}
 \begin{scope}[line width=0.3pt]
     \draw (0, 0) node[inner sep=0] {\includegraphics[width=3.142in]{images/t4097.png}};
@@ -1271,6 +1272,7 @@ y' = y e^{k\lambda} \\
     \tkzLabelPoint[right](S){$\Omega_{2}$}
 \end{scope}
 \end{tikzpicture}
+}
 \caption{第二类例子：四阶无限边形铺嵌里的第一种对称性}\label{fig:merged1}
 \end{figure}
 
@@ -1290,7 +1292,7 @@ y' = y e^{k\lambda} \\
 
 \begin{figure}[ht]
 \centering
-
+\resizebox{0.6\textwidth}{!}{%
 \begin{tikzpicture}
 \begin{scope}[line width=0.3pt]
     \draw (0, 0) node[inner sep=0] {\includegraphics[width=3.142in]{images/t4097.png}};
@@ -1336,6 +1338,7 @@ y' = y e^{k\lambda} \\
 
 \end{scope}
 \end{tikzpicture}
+}
 \caption{第三类例子：四阶无限边形铺嵌里的第二种对称性}\label{fig:merged2}
 \end{figure}
 

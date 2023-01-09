@@ -14,10 +14,10 @@ rm *.idx
 rm *.out
 rm *.xdy
 
-xelatex appl
-xelatex appl
-bibtex appl
-xelatex appl
-xelatex appl
-makeglossaries appl
-xelatex appl
+xelatex appl-mingli
+xelatex appl-mingli
+bibtex appl-mingli
+xelatex appl-mingli
+xelatex appl-mingli
+makeglossaries appl-mingli
+xelatex appl-mingli
