@@ -1180,7 +1180,7 @@ y' = y e^{k\lambda} \\
 
 \begin{figure}[ht]
 \centering
-\begin{tikzpicture}[scale=0.1]
+\begin{tikzpicture}
     \tkzDefPoint(0,0){O}
     \tkzDefPoint(-4,0){O1}
     \tkzDefPoint(4,0){O2}
@@ -1195,10 +1195,10 @@ y' = y e^{k\lambda} \\
 
     \tkzDrawCircle[color=red,fill=red](O,O1)
     \tkzDrawArc[R with nodes,color=green](K1,\rAp)(C,D)
-    \tkzDrawArc[R with nodes,color=blue](K2,1.8)(O2,O1)
+    \tkzDrawArc[R with nodes,color=blue](K1,1.8)(O1,O2)
 
     \tkzDefMidPoint(O,V2) \tkzGetPoint{M}
-    \tkzInterLC(M,O2)(K1,A) \tkzGetPoints{L}{N}
+    \tkzInterLC(M,O2)(K1,A) \tkzGetPoints{N}{L}
 
     \tkzDrawSegment[color=blue](O1,O2)
     \tkzDrawSegment[color=green](V1,V2)

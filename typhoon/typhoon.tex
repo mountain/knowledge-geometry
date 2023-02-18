@@ -81,7 +81,7 @@
 
 1977 年，陈国才（Kuo-Tsai Chen）在文献\cite{Chen1977IteratedPI}中考虑了迭代路径积分的理论；1998 年，Terry Lyons
 在研究受控随机微分方程的过程中，发展了粗糙路径理论\cite{Lyons1998}。这个理论用一组路径积分的集合来刻画一个带有随机扰动的时序变化过程，
-这组路径积分理论上是无穷维的，但在实践中可以截断，它们称为原来时序变化过程的签名（Signature）。
+这组路径积分在理论上是无穷维的，但在实践中可以截断，它们称为原来时序变化过程的签名（Signature）。
 
 这个理论已经被应用在手写体识别和量化投资的领域中\cite{Lyons2014RoughPS}，它与深度学习的结合也已经逐渐起步。
 在最近的 ICML 2021 上，有两篇论文\cite{Morrill2021NeuralRD} \cite{Min2021SignaturedDF}与此有关。
@@ -93,9 +93,9 @@
 Michael Atiyah 在著名演讲\href{https://mp.weixin.qq.com/s/Kr6jKMdHxyAdXaLPiqifvw}{《二十世纪的数学》}中，有部分内容陈述了数学史
 上整体和局部观点的发展，指出整体上对奇点的研究可以给出局部的信息\cite{Atiyah2002-ATIMIT}。
 
-如下图，我们观察一个涡产生过程的数值模拟\cite{Eggl2022MixingBS}，非常容易有一种几何直观，整体的流场和涡旋的分布有着强烈的相关性。
-这启发我们能否通过机器学习来唯象地建立一种涡旋之上的动力学呢？涡旋也就是流场中的奇点，每个点上都有一种旋转强弱的刻画；反过来，如果给到了
-不同强弱旋转的奇点分布，我们是否也能重建流场呢？如果这个想法成立，我们就能和 Michael Atiyah 的观点呼应起来。
+如下图，我们观察涡产生过程的一个数值模拟\cite{Eggl2022MixingBS}，非常容易有一种几何直观，整体的流场和涡旋中心点的分布有着强烈的相关性。
+这启发我们能否通过机器学习来唯象地建立一种涡旋之上的动力学呢？涡旋的中心点是流场中的奇点，每个点上都有一种旋转强弱的刻画；反过来，如果给
+到了不同旋转强弱的奇点的分布，我们是否也能重建流场呢？如果这个想法成立，我们就能和 Michael Atiyah 的观点呼应起来。
 
 \begin{tcbraster}[raster columns=4, halign title=center, flip title={boxsep=1mm}, blank, colbacktitle=white, coltitle=black]
 \foreach \i in {000000,001000,002000,003000,004000,005000,006000,007000,008000,009000,010000,011000}{
@@ -105,12 +105,45 @@ Michael Atiyah 在著名演讲\href{https://mp.weixin.qq.com/s/Kr6jKMdHxyAdXaLPi
 我们有大量的卫星影像资料，在现有 CV 技术的基础上，学习到不同强弱的奇点分布是有可能的，并可以进一步研究奇点演化的规律，这是否会给到我们
 一种看待流场的新的观点呢？台风的路径预报是与这个观点彼此一致的。
 
-\section{数据集}
+和上面数值模拟不同的是，真实大气运动是三维的，这时候如何恰当地刻画大的气旋，并给出一个球面上的表示，是需要仔细考虑的一个问题。
+相对于地球，大气的对流层非常薄，因此我们用二维方式来描述大气的大范围运动，这样的理论探讨空间是存在的。
 
-我们已经知道 850
+最后，我们引入两个术语，一个是大气的\emph{场域}刻画，另一个是大气的\emph{奇点}刻画，前者由大气运动的基本方程组控制，后者我们希望能够
+建立一个唯象动力学来控制。
+
+\newpage
+
+\section{球面涡度场的分析}
+
+\subsection{一组正交基}
+
+\subsection{奇点计算方法}
+
+球面涡谱
+
+\newpage
+
+\section{数据集构建}
+
+我们已经知道位势 Z850 线和台风路径高度相关，海温 SST 也是台风预报的重要因素。在短临预报的领域，为了刻画大气运动，我们往往需要两个相邻帧
+的影像资料；但是新近的研究表明\cite{Bi2022Pangu}，只需要一帧含有温、压、湿、风四要素的资料和界面上的温、压、风资料，就可以充分刻画大气
+运动，给出未来的预报。这些是我们在构造数据集的时候需要考虑的。
+
+\begin{itemize}
+    \item 气旋的判定
+    \item 气旋的位置提取
+    \item 气旋的强弱刻画
+    \item 气旋的移动信息
+\end{itemize}
+
+
+\subsection{气旋编目}
+
+\newpage
 
 \section{评测指标}
 
+\newpage
 
 \section{网络架构}
 
@@ -122,7 +155,7 @@ Signatory 开源包的基本 API 可以概括如下：
 \begin{itemize}
 \item \href{https://signatory.readthedocs.io/en/latest/pages/examples/neuralnetworks.html}{路径转成签名再转张量的过程}
 \item \href{https://signatory.readthedocs.io/en/latest/pages/examples/translation.html}{相似的路径，它们的签名也非常接近}
-\item \href{https://signatory.readthedocs.io/en/latest/pages/examples/inversion.html}{从签名恢复出来路径}
+\item \href{https://signatory.readthedocs.io/en/latest/pages/examples/inversion.html}{从签名恢复出路径}
 \end{itemize}
 
 本质上，粗糙路径理论是提供了一个表征变换的工具，它将一般的演化路径转换成签名，并可以在这个新的表征上做各种各样的后继任务。
