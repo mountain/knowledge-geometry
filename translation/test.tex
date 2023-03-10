@@ -1,0 +1,137 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{amsmath, amsthm}
+\usepackage{datetime}
+\usepackage{framed}
+\usepackage{enumitem}
+\usepackage{fancyref}
+\usepackage{wrapfig}
+\usepackage{pifont}
+\usepackage{appendix}
+\usepackage{caption}
+\usepackage{xcolor}
+\usepackage[stable]{footmisc}
+\usepackage{multicol}
+\usepackage{csquotes}
+
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{mathtools}
+
+\usepackage{tikz}
+\usepackage{pgf}
+\usepgflibrary{fpu}
+\usepackage{qtree}
+\usetikzlibrary{angles,fit,arrows,calc,math,intersections,through,backgrounds}
+\usepackage{pgfplots}
+\usepackage{tkz-euclide}
+
+\usepackage{listings}
+\lstset{
+  basicstyle=\itshape,
+  xleftmargin=3em,
+  literate={->}{$\rightarrow$}{2}
+           {α}{$\alpha$}{1}
+           {δ}{$\delta$}{1}
+}
+
+
+\usepackage{csquotes}
+\renewcommand{\mkbegdispquote}[2]{\itshape}
+
+\newdateformat{nianyueri}{ \THEYEAR 年 \THEMONTH 月 \THEDAY 日 }
+
+\usepackage{xstring}
+\usepackage{catchfile}
+\CatchFileDef{\HEAD}{../.git/refs/heads/master}{}
+\newcommand{\gitrevision}{%
+  \StrLeft{\HEAD}{7}%
+}
+
+\usepackage{data/quiver}
+\usepackage{data/circledsteps}
+\input{data/style}
+
+\usepackage{stmaryrd}
+\usepackage{mathtools}
+\usepackage{wasysym}
+\usepackage{textcomp}
+\usepackage{blindtext}
+\usepackage{subfiles}
+
+\newtheorem{problem}{问题}
+\numberwithin{problem}{section}
+\newtheorem{definition}{定义}
+\numberwithin{definition}{section}
+\newtheorem{lemma}{引理}
+\numberwithin{lemma}{section}
+\newtheorem{proposition}{命题}
+\numberwithin{proposition}{section}
+\newtheorem{theorem}{定理}
+\numberwithin{theorem}{section}
+\newtheorem{grammar}{文法}
+\numberwithin{grammar}{section}
+\newtheorem{program}{程序}
+\numberwithin{program}{section}
+\newtheorem{convention}{约定}
+\numberwithin{convention}{section}
+\newtheorem{corollary}{推论}
+\numberwithin{corollary}{section}
+\renewcommand*{\proofname}{证明}
+
+\xeCJKsetwidth{‘’“”}{1em}
+
+\title{欧拉作品试译}
+\date{\nianyueri\today}
+\author{苑明理}
+
+\begin{document}
+
+\begingroup
+\let\newpage\relax
+\maketitle
+\endgroup
+
+拉丁原文\footnote{出自 Euler 的论文 De Sono 的第一章《关于声音的性质和传播》}
+\begin{displayquote}
+Obscura admodum atque confusa fuit vererum Philosophorum soni explicatio,
+quantum ex scriptis eorum nobis relictis intelligi potest. Alii, cum Epicuro sonum,
+istar fluminis ex corporibus sonoris pulsatis emanare statuerunt.
+Alii autem \& præprimis interpretes ARISTOTLIS latini cum illo naturam soni posuerunt in fractione æris,
+quæ oritur ex collisione vehementior corporum. Inter recentiores HONORATUS FABRI atque CARTESIUS invenerunt sonum
+consistere in æris tremore, de isto autem tremore pariter confuse sentiebant. Acutissimus NEUTONUS,
+hanc rem accuratius expendere atque exponere aggressus est, præcipue soni propagationem explicando,
+verum parum feliciori successu. Arduam ergo hanc de sone materiam, istac in dissertatione tractare,
+atque pro viribus dilucidare constitui, duobus capitibus eam comprehenendo.
+Priore hoc capite scilicet perpendetur, quare sonus consistat, \& quomodo ab uno loco ad alium propagetur.
+In posteriore autem, tres sonum producendi : considerabuntur.
+\end{displayquote}
+
+英语译文\footnote{出自 Ian Bruce 的翻译}
+\begin{displayquote}
+The explanation of sound by the old philosophers was very obscure and confused, so much can be understood from their
+writings that have come down to us. Some were of the opinion, like Epicures [341 - 270 B. C.], that sound emanated from
+a pulsating body rather like the flow of a river; while others with the foremost of the Latin writers, believed with
+Aristotle, [384 - 322 B. C.] that sounds were formed from the breaking of the air which arose from the more violent
+collisions of bodies. Among the more recent commentaries, Honoré Fabri [1608 - 1688], and Descartes [1596 - 1650],
+discovered that sound consisted of tremors or vibrations of the air, but their reasoning concerning these vibrations
+were equally confused. Newton [1643 - 1727], with the sharpest of minds, considered the matter with more care,
+and undertook to set forth an explanation especially for the propagation of sound, truly with much more success.
+A determined effort has been made [by me] to grasp the difficult matters involved in an understanding of the nature of
+sound, which are set out in the two chapters of this dissertation. In the first chapter it becomes apparent, after some
+careful thought, what the nature of sound really is, and how it is propagated from one place to another. Moreover,
+in the following chapter, three sources of sound are to be considered.
+\end{displayquote}
+
+汉语译文\footnote{在彩云小译帮助下，有 ChatGPT 第一边逐句校读，苑明理第二遍逐句校读，整理后成文}
+\begin{displayquote}
+古代哲学家对声音的解释非常晦涩难懂，从他们留传下来的著作中能够理解的并不多。有些人，例如伊壁鸠鲁（公元前341年-270年），
+认为声音是由发出有规律的振动的物体产生的，就像河水的流动一样；而另一些人，尤其是拉丁作家中最著名的，相信与亚里士多德（公元前384年-322年）在一起，
+认为声音是由更强烈的物体碰撞所产生的气体震动而形成的。在更近期的评论中，Honoré Fabri（1608年-1688年）和笛卡尔（1596年-1650年）
+发现声音由空气的震颤或振动组成，但是他们关于这些振动的推理同样很混乱。牛顿（1643年-1727年）拥有极其敏锐的思维，对这个问题进行了更加仔细的探究，
+尤其是关于声音的传播，他承诺提出更为成功的解释。我决心努力理解涉及声音本质的困难问题，并在本论文的两个章节中对其进行了阐述。
+在第一章中，经过深思熟虑，我们将了解到声音的本质究竟是什么，以及它是如何从一个地方传播到另一个地方的。此外，在随后的章节中，我们还将探讨三种声音的来源。
+\end{displayquote}
+
+\end{document}

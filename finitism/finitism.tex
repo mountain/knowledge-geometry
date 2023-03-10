@@ -1,0 +1,270 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{amsmath, amsthm}
+\usepackage{datetime}
+\usepackage{framed}
+\usepackage{enumitem}
+\usepackage{fancyref}
+\usepackage{wrapfig}
+\usepackage{pifont}
+\usepackage{appendix}
+\usepackage{caption}
+\usepackage{xcolor}
+\usepackage[stable]{footmisc}
+\usepackage{multicol}
+\usepackage{csquotes}
+\usepackage{pdfpages}
+
+\usepackage{amsthm}
+
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{mathtools}
+
+\usepackage{tikz}
+\usepackage{pgf}
+\usepgflibrary{fpu}
+\usepackage{qtree}
+\usetikzlibrary{angles,fit,arrows,calc,math,intersections,through,backgrounds,cd}
+\usepackage{pgfplots}
+\usepackage{tkz-euclide}
+
+\usepackage{listings}
+\lstset{
+  basicstyle=\itshape,
+  xleftmargin=3em,
+  literate={->}{$\rightarrow$}{2}
+           {α}{$\alpha$}{1}
+           {δ}{$\delta$}{1}
+}
+
+
+\usepackage{csquotes}
+\renewcommand{\mkbegdispquote}[2]{\itshape}
+
+\newdateformat{nianyueri}{修订于 \THEYEAR 年 \THEMONTH 月 \THEDAY 日 }
+
+\usepackage{xstring}
+\usepackage{catchfile}
+\CatchFileDef{\HEAD}{../.git/refs/heads/master}{}
+\newcommand{\gitrevision}{%
+  \StrLeft{\HEAD}{7}%
+}
+
+\usepackage{data/quiver}
+\usepackage{data/circledsteps}
+\input{data/style}
+
+\usepackage{stmaryrd}
+\usepackage{mathtools}
+\usepackage{wasysym}
+\usepackage{textcomp}
+\usepackage{blindtext}
+\usepackage{subfiles}
+
+\newtheorem{problem}{问题}
+\numberwithin{problem}{section}
+\newtheorem{definition}{定义}
+\numberwithin{definition}{section}
+\newtheorem{lemma}{引理}
+\numberwithin{lemma}{section}
+\newtheorem{proposition}{命题}
+\numberwithin{proposition}{section}
+\newtheorem{theorem}{定理}
+\numberwithin{theorem}{section}
+\newtheorem{grammar}{文法}
+\numberwithin{grammar}{section}
+\newtheorem{program}{程序}
+\numberwithin{program}{section}
+\newtheorem{convention}{约定}
+\numberwithin{convention}{section}
+\newtheorem{corollary}{推论}
+\numberwithin{corollary}{section}
+\renewcommand*{\proofname}{证明}
+
+\xeCJKsetwidth{‘’“”}{1em}
+
+\title{有限、无限与想象力}
+\date{\nianyueri\today}
+\author{苑明理}
+
+\begin{document}
+
+\begingroup
+\let\newpage\relax
+\maketitle
+\endgroup
+
+\centerline{\rule{13cm}{0.4pt}}
+\renewcommand{\contentsname}{\hfill\bfseries 目录\hfill}
+\setcounter{tocdepth}{2}
+\tableofcontents
+\centerline{\rule{13cm}{0.4pt}}
+
+\newpage
+
+\section{语言模型的补全}
+
+随着 OpenAI 的 ChatGPT 发布，大语言模型（Large Language Model，LLM）释放出来的潜力引起了人们的普遍关注。
+
+语言模型（LM）从安德烈·马尔科夫的探索开始，至今已经有一百多年的历史了；1948 年克劳德·申农发表了信息论的奠基论文 “A Mathematical Theory of Communication”，
+随后于 1951 年，香农又发表了 "Prediction and Entropy of Printed English"，提出了极限熵的一种计算方法，这种方法就是后来的语言模型。
+
+从最基本的形态上看，语言模型体现为一个概率分布，可以用来计算一个句子出现的概率，也可以用来生成一个句子。
+这种生成能力可以体现在句子补全上，即给定一个句子的前半部分，语言模型给出后半部分的一个补全。
+
+下面给出了语言模型补全能力的一个演示。
+
+输入前文：\newline
+\begin{displayquote}
+艾达：你好，我是艾达，竭诚为您服务？有什么可以帮到你的吗？\newline
+麦克：我们一起玩一个游戏可以吗？\newline
+艾达：当然可以！你有什么想玩的游戏？\newline
+麦克：我们一起猜谜语好吗？\newline
+\end{displayquote}
+输出补全：\newline
+\begin{displayquote}
+艾达：好啊！那我先来一个：“头上有角，身上有毛，叫声响亮，叫声可爱”。你猜是什么？\newline
+\end{displayquote}
+
+通过上面的补全操作，我们可以一步步地生成一个完整的对话。
+
+\begin{displayquote}
+艾达：你好，我是艾达，竭诚为您服务？有什么可以帮到你的吗？\newline
+麦克：我们一起玩一个游戏可以吗？\newline
+艾达：当然可以！你有什么想玩的游戏？\newline
+麦克：我们一起猜谜语好吗？\newline
+艾达：好啊！那我先来一个：“头上有角，身上有毛，叫声响亮，叫声可爱”。你猜是什么？\newline
+麦克：犀牛！\newline
+艾达：没错！你来一个吧！\newline
+麦克：有翅膀会飞但不是鸟。\newline
+艾达：是蝴蝶！\newline
+麦克：不对！\newline
+艾达：那是飞机！\newline
+麦克：你答对了，真棒！\newline
+\end{displayquote}
+
+\section{补全是否图灵完备}
+
+在上面的例子中，我们可以看到，语言模型的补全能力是非常强大的，它可以生成一个完整的对话。一个问题是，这个补全能力是否是图灵完备的呢？
+
+图灵完备性是指一个系统是否可以模拟任何一个图灵机，它是可计算性里的一个基本概念。首先，我们来明确这是一个合理的问题。
+我们指出存在一种语言，这个语言上有图灵完备的函数集。
+
+\begin{theorem}\label{thm:tm}
+给定符号集合 $\Sigma = \{(, ), S, K\}$，存在一个函数集 $\{S, K\}$ 在语言 $T \subset \Sigma^*$ 上是图灵完备的。
+$T$ 递归定义如下：
+\begin{itemize}
+    \item T $\leftarrow$ S | K | (T T)
+\end{itemize}
+函数 $K, S$ 的定义如下：
+\begin{itemize}
+    \item $((K x) y) = x$
+    \item $(((S x) y) z) = ((x z) (y z))$
+\end{itemize}
+\end{theorem}
+
+这个定理的证明可见任何介绍组合子逻辑的教程。而且，我们还知道组合子 $\iota$ 自己就已经图灵完全了。
+
+$$
+(\iota x) = ((x S) K)
+$$
+
+这样的单基组合子（one-basis combinator）有无穷多个，它们都是图灵完备的。
+
+因此，我们知道存在一种语言，它上面有一个图灵完备的函数。从这些例子，我们知道讨论 LLM 的补全能力是否图灵完备，这是一个完全合理的问题。
+
+再进一步讨论前，让我们复习一下索绪尔的言语、语言、历时和共时的概念。
+
+\begin{definition}
+\begin{itemize}
+    \item 语言：……
+    \item 言语：……
+    \item 历时：……
+    \item 共时：……
+\end{itemize}
+\end{definition}
+
+经过澄清，我们会发现，我们所说的语言模型仅仅是言语的统计模型，它不一定就是索绪尔所说的语言背后的模型。
+那么，我们的问题就变成：
+\begin{itemize}
+    \item 澄清言语的统计模型和索绪尔所说的语言背后的模型之间的关系。
+    \item 言语模型能否做到图灵完备？如果言语模型不能图灵完备，如何改造言语模型可以使得它图灵完备？
+    \item 索绪尔意义上的语言的模型应该如何定义？它是否可以图灵完备？它能否学习得到呢？它的补全函数能否学习得到呢？
+\end{itemize}
+
+不一定能把言语与语言的关系转化成频率和概率的关系，需要更加细致的考察。
+以自然数为例，随着位数的增加，基数指数型增加，这个时候语法性的统计子字串的分布，能否形成概率空间还需要仔细考察。
+
+在这些问题被澄清之前，其实我们还有另外一个观察：当前计算架构下，浮点数计算上的神经网络，它的浮点精度有限，所以它的总状态数有限。
+从而 LLM 的任何一个有限精度上的实现方案，都不可能是图灵完全的。
+
+\section{通用图灵机可否实现？}
+
+
+
+\section{机器能否数数？}
+
+2021 年 1 月集智年会上我做了一个小的分享，去探讨机器能不能数数的问题。
+
+表面上看似乎不是问题，机器本来不就是高级版本的计算器嘛！实则不然，我其实在这里提了
+一个不同于图灵测试的智能体的创造性测试问题。图灵测试是以人类智能为标准的，而这里的
+机器数数的测试问题则是以一种超出了人类智能的方式来设问的。
+
+在演示文档中，我有一层层的剥开这个问题，先考察生物和认知里的数，继而从目前人类的形
+式定义去考察，发现想把这个问题定义清楚都比较困难。 困难在于，无法简单的排除掉智能体
+可以创造出和人类不同的数的形式，但这种情况下，你无法给出一个数的标准定义，从而也很
+难给出能不能数数问题的测试标准。 最后一段，我尝试用强化学习的思路，创造一个生存环境，
+智能体必须通过计数的方法来获得更优的选择，然后不限定智能体的策略的制定，如此从侧面
+去考察数的创造。
+
+这种强化学习的思路，最终还是通过报酬或者激励的量化来驱动策略的搜索，也就是把数的创造
+问题化归为一个势能面上的寻优。这背后是一种\textbf{几何式的元数学}观点。
+
+扩展开来，这里面其实有个很深的智能体之间彼此理解的问题。
+我对沙漠蚁计步的能力就很好奇：沙漠蚁在觅食时可以走很复杂的路线，但是它们一旦归巢，
+就会直奔巢穴的位置。 沙漠蚁在这里展现出来的空间路径积分的能力，其实不比人类最开始掰
+手指头数那么几百个数要低。我想的是数学能力其实是一种具身性的能力，而数学形式也受具
+身性的影响。 想要隔着物种或者其他的隔阂去理解的话，必须得深入到那个具身环境里去理
+解。但我倒不是否定柏拉图理念式的数学，我是想探索这些不同具身环境下的数学形态的某种
+公约数。当生物逐渐从昆虫演化到了哺乳动物，它们在海马体里出现了导航神经细胞，这些细
+胞有六边形的活跃模式。那么这种神经层面上六边形活跃模式对应的几何， 怎么和我们心理
+层面的几何挂上钩的呢？从数学角度如何理解呢？所以还可以跨越神经、认知和数学，去思考
+更多。
+
+上面提到的公约数可能也是理解人类符号化知识的一个有趣切入的方向。考察这种异与同背后，
+其实还有一个问题是什么是真实？有没有这种真实？ 如果没有这种真实，智能体之间能互相理
+解吗？这背后的指涉，远不止在具身性数学的探讨，如今混乱的人类世界或许也需要深刻反思
+这个问题。
+
+\section{"所有"指的是什么？}
+
+\section{有限、无限与想象力}
+
+\section{命题逻辑的蕴含}
+
+\section{指称的秘密}
+
+\section{一维的语言？}
+
+\section{知识的极小曲面猜测}
+
+Benacerraf 困境的一种表述
+
+\begin{figure}[ht]
+\centering
+\begin{tikzpicture}
+\draw (6, 2) node[inner sep=0] {\includegraphics[width=4in]{images/ennepers.png}};
+\node [anchor=225, black] at (9,6) {几何};
+\node [anchor=225, black] at (9,-3) {分析};
+\node [anchor=225, black] at (2,6) {计算};
+\node [anchor=225, black] at (0,0) {学习};
+\node [anchor=225, black] at (6,2) {算术表达式几何};
+\end{tikzpicture}
+\caption{知识的极小曲面}
+\end{figure}
+
+康德有论述“先天综合判断”，几何作为命题都呈现为“综合命题”，肥皂泡的几何式知识观有可能会暗合康德的理论。
+这个知识观可以形式化为上面说的“过程与形式”的数学，而算术表达式几何就是这个“过程与形式”的数学的第一个例子。
+
+\end{document}
