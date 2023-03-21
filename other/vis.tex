@@ -1,0 +1,86 @@
+%! Author = mingli
+%! Date = 3/21/23
+
+% Preamble
+\documentclass[11pt]{article}
+
+% Packages
+\usepackage{amsmath}
+\usepackage{tikz}
+
+% Document
+\begin{document}
+\begin{figure}
+\centering
+\begin{tikzpicture}[scale=0.03125]
+  \draw          (  0, 256)
+              -- (512, 256);
+  \draw[fill]    ( 16, 256) circle [radius=1] node [above] {$L^4$};
+  \draw[fill]    ( 32, 256) circle [radius=1] node [above right] {$L^3$};
+  \draw[fill]    ( 64, 256) circle [radius=1] node [above right] {$L^2$};
+  \draw[fill]    (128, 256) circle [radius=1] node [above right] {$L$};
+  \draw[fill]    (256, 256) circle [radius=1] node [above right] {$O$};
+  \draw[fill]    (384, 256) circle [radius=1] node [above left] {$R$};
+  \draw[fill]    (448, 256) circle [radius=1] node [above left] {$R^2$};
+  \draw[fill]    (480, 256) circle [radius=1] node [above left] {$R^3$};
+  \draw[fill]    (496, 256) circle [radius=1] node [above] {$R^4$};
+
+  \draw          (256,   0)
+              -- (256, 512);
+  \draw[fill]    (256,  16) circle [radius=1] node [above right] {$D^4$};
+  \draw[fill]    (256,  32) circle [radius=1] node [above right] {$D^3$};
+  \draw[fill]    (256,  64) circle [radius=1] node [above right] {$D^2$};
+  \draw[fill]    (256, 128) circle [radius=1] node [above right] {$D$};
+  \draw[fill]    (256, 384) circle [radius=1] node [above right] {$U$};
+  \draw[fill]    (256, 448) circle [radius=1] node [above right] {$U^2$};
+  \draw[fill]    (256, 480) circle [radius=1] node [above right] {$U^3$};
+  \draw[fill]    (256, 496) circle [radius=1] node [above right] {$U^4$};
+
+  \draw          (128, 128)
+              -- (384, 128);
+  \draw[fill]    (144, 128) circle [radius=1] node [above] {$DL^3$};
+  \draw[fill]    (160, 128) circle [radius=1] node [above right] {$DL^2$};
+  \draw[fill]    (192, 128) circle [radius=1] node [above right] {$DL$};
+  \draw[fill]    (320, 128) circle [radius=1] node [above left] {$DR$};
+  \draw[fill]    (352, 128) circle [radius=1] node [above left] {$DR^2$};
+  \draw[fill]    (368, 128) circle [radius=1] node [above] {$DR^3$};
+
+  \draw    (128, 384)
+        -- (384, 384);
+  \draw[fill]    (144, 384) circle [radius=1] node [below] {$UL^3$};
+  \draw[fill]    (160, 384) circle [radius=1] node [below right] {$UL^2$};
+  \draw[fill]    (192, 384) circle [radius=1] node [below right] {$UL^1$};
+  \draw[fill]    (320, 384) circle [radius=1] node [below left] {$UR^1$};
+  \draw[fill]    (352, 384) circle [radius=1] node [below left] {$UR^2$};
+  \draw[fill]    (368, 384) circle [radius=1] node [below] {$UR^3$};
+
+  \draw          (128, 128)
+              -- (128, 384);
+  \draw[fill]    (128, 144) circle [radius=1] node [left] {$LD^3$};
+  \draw[fill]    (128, 160) circle [radius=1] node [above left] {$LD^2$};
+  \draw[fill]    (128, 192) circle [radius=1] node [above left] {$LD$};
+  \draw[fill]    (128, 256) circle [radius=1];
+  \draw[fill]    (128, 320) circle [radius=1] node [below left] {$LU$};
+  \draw[fill]    (128, 352) circle [radius=1] node [below left] {$LU^2$};
+  \draw[fill]    (128, 368) circle [radius=1] node [left] {$LU^3$};
+
+  \draw          (384, 128)
+              -- (384, 384);
+  \draw[fill]    (384, 144) circle [radius=1] node [right] {$RD^3$};
+  \draw[fill]    (384, 160) circle [radius=1] node [above right] {$RD^2$};
+  \draw[fill]    (384, 192) circle [radius=1] node [above right] {$RD$};
+  \draw[fill]    (384, 320) circle [radius=1] node [below right] {$RU$};
+  \draw[fill]    (384, 352) circle [radius=1] node [below right] {$RU^2$};
+  \draw[fill]    (384, 368) circle [radius=1] node [right] {$RU^3$};
+
+  \draw [red, dashed, very thick]
+           (  0, 256)
+        -- (256,   0)
+        -- (512, 256)
+        -- (256, 512)
+        -- cycle;
+
+\end{tikzpicture}
+\end{figure}
+
+\end{document}
