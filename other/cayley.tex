@@ -7,7 +7,7 @@
       % the parameters of the tree
       % --------------------------
       \power=2; % the scale base factor
-      \deviation=90; % the angle between the 3 child edges
+      \deviation=72; % the angle between the 3 child edges
       \numsteps=7; % number of levels
       let \startcolor=magenta; % the start color
       let \endcolor=black; % the end color
@@ -34,7 +34,7 @@
       % ----------------------
       % draw the four branches
       % ----------------------
-      for \angle in {0,90,180,-90}{
+      for \angle in {0,72,144,216,288}{
         Branch(0,0,\angle,\numsteps);
       };
     }
