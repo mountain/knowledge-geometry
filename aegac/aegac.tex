@@ -1,15 +1,138 @@
-%! Author = mingli
-%! Date = 14/4/2023
+\documentclass[a4paper,12pt]{article}
+\usepackage{datetime}
+\usepackage{framed}
+\usepackage{enumitem}
+\usepackage{fancyref}
+\usepackage{wrapfig}
+\usepackage{pifont}
+\usepackage{appendix}
+\usepackage{caption}
+\usepackage{xcolor}
+\usepackage[stable]{footmisc}
+\usepackage{multicol}
+\usepackage{csquotes}
+\usepackage{pdfpages}
 
-% Preamble
-\documentclass[11pt]{article}
-
-% Packages
 \usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{mathtools}
 
-% Document
+\usepackage{tikz}
+\usepackage{pgf}
+\usepgflibrary{fpu}
+\usetikzlibrary{angles,fit,arrows,calc,math,intersections,through,backgrounds,cd}
+\usepackage{pgfplots}
+\usepackage{tkz-euclide}
+
+\usepackage{qtree}
+
+\usepackage{listings}
+\lstset{
+  basicstyle=\itshape,
+  xleftmargin=3em,
+  literate={->}{$\rightarrow$}{2}
+           {α}{$\alpha$}{1}
+           {δ}{$\delta$}{1}
+}
+
+\usepackage{csquotes}
+\renewcommand{\mkbegdispquote}[2]{\itshape}
+
+\newdateformat{nianyueri}{修订于 \THEYEAR 年 \THEMONTH 月 \THEDAY 日 }
+
+\usepackage{xstring}
+\usepackage{catchfile}
+\CatchFileDef{\HEAD}{../.git/refs/heads/master}{}
+\newcommand{\gitrevision}{%
+  \StrLeft{\HEAD}{7}%
+}
+
+\usepackage{stmaryrd}
+\usepackage{mathtools}
+\usepackage{wasysym}
+\usepackage{textcomp}
+\usepackage{blindtext}
+\usepackage{subfiles}
+
+\usepackage{data/quiver}
+\usepackage{data/circledsteps}
+\input{data/style}
+
+\newtheorem{problem}{问题}
+\numberwithin{problem}{section}
+\newtheorem{definition}{定义}
+\numberwithin{definition}{section}
+\newtheorem{lemma}{引理}
+\numberwithin{lemma}{section}
+\newtheorem{proposition}{命题}
+\numberwithin{proposition}{section}
+\newtheorem{theorem}{定理}
+\numberwithin{theorem}{section}
+\newtheorem{grammar}{文法}
+\numberwithin{grammar}{section}
+\newtheorem{program}{程序}
+\numberwithin{program}{section}
+\newtheorem{convention}{约定}
+\numberwithin{convention}{section}
+\newtheorem{corollary}{推论}
+\numberwithin{corollary}{section}
+\renewcommand*{\proofname}{证明}
+
+\xeCJKsetwidth{‘’“”}{1em}
+
+\title{算术表达式几何与计算}
+\date{\nianyueri\today}
+\author{苑明理}
+
 \begin{document}
 
+\begin{center}
+  \sihao \em 过程比结果更重要
+\end{center}
 
+\begingroup
+\let\newpage\relax
+\maketitle
+\endgroup
+
+\centerline{\rule{13cm}{0.4pt}}
+\renewcommand{\contentsname}{\hfill\bfseries 目录\hfill}
+\setcounter{tocdepth}{2}
+\tableofcontents
+\centerline{\rule{13cm}{0.4pt}}
+
+\newpage
+\begin{displayquote}
+在这个（数制发明的）历史过程里，人们遗忘了一个隐藏的巨大世界—那就是表达式，或者说计算过程。
+数作为一种表征，本来就是计算过程的高度凝练的表达，但它一旦符号化后，就成为我们追求的目标。
+于是，我们往往关注计算过程的结果，而忽视了过程本身蕴含的众多信息。过程比结果更重要。
+\end{displayquote}
+\newpage
+
+\subsection{缘起的故事}
+
+\section{算术表达式几何}
+
+\subsection{算术表达式}
+
+\section{超越算术表达式几何}
+
+\subsection{管型构造}
+
+\subsection{六维复构造}
+
+\subsection{程序几何}
+
+\section{几何化离散算法}
+
+\subsection{路径几何空间}
+
+\section{几何化命题系统}
+
+\section{对停机问题的理解}
+
+\subsection{停机问题}
 
 \end{document}
