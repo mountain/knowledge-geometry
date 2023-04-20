@@ -29,6 +29,7 @@
 \usepackage{qtree}
 
 \usepackage{listings}
+\usepackage{subfiles}
 \lstset{
   basicstyle=\itshape,
   xleftmargin=3em,
@@ -98,18 +99,80 @@
 \setcounter{tocdepth}{2}
 \tableofcontents
 \centerline{\rule{13cm}{0.4pt}}
+\newpage
 
-\section{停机问题的表述}
+\section{什么是停机}
 
-\section{停机问题的不可解性}
+Church-Turing 论题的理论地位尚未明确，我们不能断言任何一种计算机制是否和图灵机等价。面对一种新的计算机制，
+我们仍然需要论证它和图灵机的等价性。停机问题在图灵计算里的地位毋庸置疑，它给出了一种能力的边界。
+那么考察图灵计算里的停机在其他计算机制里的对应，就是一个有意义的问题。
 
+为什么我们要讨论停机？只有停机我们才能取出计算机构终止时的状态，才能把整个过程理解成为一个函数，进而做更加细致的分析。
+但本质上，不停机的过程本身也依然是一种计算，它也是有意义的。
+
+\subsection{图灵机}
+
+\textbf{定义}：图灵机是一个七元组 $(\Gamma, b, \Sigma, q_0, F, Q, \delta)$，其中 $\Sigma$ 是输入符号集，$b$ 是空字符，
+$\Gamma$ 是带符号集，$Q$ 是状态集，$q_0$ 是初始状态，$F$ 是终止状态集，$\delta$ 是转移函数。
+
+停机的定义是易见的，指计算中 $Q$ 进入 $F$ 中的某个具体状态。
+
+\subsection{递归函数}
+
+
+
+\subsection{$\lambda$-演算}
+
+\subsection{组合子逻辑}
+
+\subsection{零型文法}
+
+\subsection{递归可枚举语言}
+
+\subsection{弹子球游戏}
+
+\subsection{编程语言}
+
+\newpage
+
+\section{不可解性}
+
+\newpage
+
+\section{谱系的调查}
+
+谱系的考察，同可学习性、演化、涌现有关系。这里的思考题是：通用性（universality）沿着谱系出现是否必然伴随停机问题不可解性的出现呢？
+
+\subsection{自动机}
+
+\subsection{文法}
+
+\subsection{语言}
+
+\subsection{重写系统}
+
+\newpage
 
 \section{Chaitin 常数 $\Omega$}
 
-\section{程序的停机行为分析}
+\subsection{$\Omega$ 可渐进计算}
 
-\section{停机问题的可学习性}
+\newpage
 
-\section{停机问题的几何化理解}
+\section{程序的停机行为}
+
+\newpage
+
+\section{可学习性}
+
+\subsection{Gold 与 PAC 可学习性}
+
+\subsection{停机问题可学习}
+
+\newpage
+
+\section{几何化理解}
+
+\newpage
 
 \end{document}
