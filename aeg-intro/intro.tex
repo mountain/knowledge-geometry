@@ -1,4 +1,4 @@
-\documentclass{beamer}
+\documentclass[aspectratio=169]{beamer}
 \usepackage{amsmath}
 \usepackage{pgf}
 \usepgflibrary{fpu}
@@ -86,8 +86,8 @@ The famous example of word2vec
 \draw[dashed, red] (q) -- (s);
 \end{tikzpicture}
 }
-\caption{contradicition of numbers in Euclidean space}
-\label{fig:contradicition-of-numbers}
+\caption{contradiction of numbers in Euclidean space}
+\label{fig:contradiction-of-numbers}
 \end{figure}
 
 \end{frame}
@@ -101,9 +101,14 @@ The famous example of word2vec
 
 \begin{frame}
 \frametitle{Another arrangement in hyperbolic space}
+
+\[
+    a = - \frac{y}{x}
+\]
+
 \begin{figure}[ht]
 \centering
-\resizebox{0.9\textwidth}{!}{
+\resizebox{0.7\textwidth}{!}{
 \begin{tikzpicture}
 \draw [black, line width=0.6pt, ->] (0,0) to[out=90,in=270] (0,8.25);
 \node [anchor=south] at (0,8.5) {y};
@@ -220,15 +225,12 @@ The famous example of word2vec
 \frametitle{Encoding threadlike expressions as paths}
 
 \begin{itemize}
-    \item black $1 \times 8 - 5 = 3$
-    \item purple $(1 - \frac{5}{8}) \times 8 = 3$
-    \item brown $(((1 - \frac{1}{8}) \times 2 - \frac{1}{2}) \times 2 - 1) \times 2 = 3$
-    \item orange is a special integral
+    \item black line $1 \times 8 - 5 = 3$
 \end{itemize}
 
 \begin{figure}[ht]
 \centering
-\resizebox{0.8\textwidth}{!}{
+\resizebox{0.7\textwidth}{!}{
 \begin{tikzpicture}
 \draw [black, line width=0.6pt, ->] (0,0) to[out=90,in=270] (0,8.25);
 \node [anchor=south] at (0,8.5) {y};
@@ -403,13 +405,36 @@ Or, we can change it to another form
 \end{frame}
 
 
-\section{The efficiency of gradient learning}
+\section{On the efficiency of gradient learning}
 
 \begin{frame}
-\frametitle{The efficiency of gradient learning}
-\begin{itemize}
-    \item The efficiency of gradient learning
-\end{itemize}
+\frametitle{On the efficiency of gradient learning}
+\begin{figure}[ht]\centering
+\resizebox{0.7\textwidth}{!}{\includegraphics{images/param_curve}}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+\frametitle{Brachistochrone problem}
+\begin{figure}[ht]\centering
+\resizebox{0.6\textwidth}{!}{\includegraphics{images/brachistochrone}}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+\frametitle{The first experiment}
+\end{frame}
+
+\begin{frame}
+\frametitle{An improvement}
+\end{frame}
+
+\begin{frame}
+\frametitle{How about relaxing...}
+\end{frame}
+
+\begin{frame}
+\frametitle{Dive into details}
 \end{frame}
 
 \section{A learnable non-linearity}
