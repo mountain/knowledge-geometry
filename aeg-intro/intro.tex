@@ -489,25 +489,46 @@ Or, we can change it to another form
 \end{frame}
 
 \begin{frame}
-\frametitle{Eigenvalue 2}
+\frametitle{Eigenfunction of Laplacian}
+
+On the hyperbolic plane
+\[
+ds^2 = \frac{dx^2 + dy^2}{y^2}
+\]
+
+the Laplacian is
+\[
+\Delta = - y^2 (\frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2})
+\]
+
+Given
+
+\begin{equation}
+A = - \frac{x}{y}
+\end{equation}
+
+We have
+
+$$
+\Delta A = - y^2 (\frac{\partial^2}{\partial x^2} A + \frac{\partial^2}{\partial y^2} A) = y^2 (\frac{1}{\partial y} (\frac{1}{\partial y} \frac{x}{y})) = 2 A
+$$
+
 \end{frame}
 
 \begin{frame}
-\frametitle{Trick of Riemann mapping}
+\frametitle{A jigsaw by Riemann mapping}
+\begin{figure}[ht]\centering
+\resizebox{0.7\textwidth}{!}{\includegraphics{images/jigsaw-riemann}}
+\end{figure}
 \end{frame}
 
 \begin{frame}
 \frametitle{Tube structure}
+\begin{figure}[ht]\centering
+\resizebox{0.7\textwidth}{!}{\includegraphics{images/tube}}
+\end{figure}
 \end{frame}
 
 \section{Perspcetives, future work, and unsolved problems}
-
-\begin{frame}
-\frametitle{Perspcetives, future work, and unsolved problems}
-\begin{itemize}
-    \item The efficiency of gradient learning
-\end{itemize}
-
-\end{frame}
 
 \end{document}
