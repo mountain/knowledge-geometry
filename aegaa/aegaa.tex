@@ -82,6 +82,38 @@
 
 \xeCJKsetwidth{‘’“”}{1em}
 
+\makeatletter
+\DeclareRobustCommand{\Hyp}[1]{\mathpunct{{\LeftP}{#1}{\RightP}}}
+\newcommand{\LeftP}{%
+  \setlength{\unitlength}{\fontcharht\font`T}%
+  \begin{picture}(1,1)
+  \Line(1,1)(0.8,1)(0.8,0)(1,0)
+  \end{picture}%
+}
+\newcommand{\RightP}{%
+  \setlength{\unitlength}{\fontcharht\font`T}%
+  \begin{picture}(1,1)
+  \Line(0,1)(0.2,1)(0.2,0)(0,0)
+  \end{picture}%
+}
+\makeatother
+
+\makeatletter
+\DeclareRobustCommand{\Intg}[1]{\mathbin{{\UpperP}{#1}{\LowerP}}}
+\newcommand{\UpperP}{%
+  \setlength{\unitlength}{\fontcharht\font`T}%
+  \begin{picture}(1,1)
+  \Line(0.8,1)(0.8,1.2)(1.8,1.2)(1.8,1)
+  \end{picture}%
+}
+\newcommand{\LowerP}{%
+  \setlength{\unitlength}{\fontcharht\font`T}%
+  \begin{picture}(1,1)
+  \Line(-0.9,0)(-0.9,-0.2)(0.1,-0.2)(0.1,0)
+  \end{picture}%
+}
+\makeatother
+
 \title{算术表达式几何与分析}
 \date{\nianyueri\today}
 \author{苑明理}
@@ -110,6 +142,97 @@
 于是，我们往往关注计算过程的结果，而忽视了过程本身蕴含的众多信息。过程比结果更重要。
 \end{displayquote}
 \newpage
+
+\section{超算子的引入}
+
+\subsection{一阶运算}
+
+\begin{itemize}
+  \item 一阶单位：$0$
+  \item 左顺：$a \Hyp{+^1} b = a + b$，即左加
+  \item 右顺：$a \Hyp{{}^1+} b = b + a$，即右加
+  \item 左违：$a \Hyp{-^1} b = a - b$，即左减
+  \item 右违：$a \Hyp{{}^1-} b = b - a$，即右减
+  \item 左正：$\Hyp{+^1} b = + b$，零元在左
+  \item 右正：$a \Hyp{{}^1+} = + a$，零元在右
+  \item 左负：$\Hyp{-^1} b = - b$，零元在左
+  \item 右负：$a \Hyp{{}^1-} = - a$，零元在右
+\end{itemize}
+
+顺违相抵
+$$a \Hyp{+^1} b \Hyp{-^1} b = a$$
+$$a \Hyp{{}^1+} b \Hyp{{}^1-} b = a$$
+
+正负相消
+$$\Hyp{-^1} b \Hyp{+^1} \Hyp{+^1} b = 0$$
+$$b \Hyp{{}^1+} \Hyp{{}^1+}  b \Hyp{{}^1-} = 0$$
+
+左右（违）互逆
+
+$$ \Hyp{-^1} ( a \Hyp{-^1} b ) = a \Hyp{{}^1-} b $$
+$$ ( a \Hyp{{}^1-} b ) \Hyp{{}^1-} = a \Hyp{-^1} b $$
+$$ \Hyp{-^1} ( a \Hyp{{}^1-} b ) = a \Hyp{-^1} b $$
+$$ ( a \Hyp{-^1} b ) \Hyp{{}^1-} = a \Hyp{{}^1-} b $$
+
+\subsection{二阶运算}
+
+\begin{itemize}
+  \item 二阶单位：$1$
+  \item 左顺：$a \Hyp{+^2} b = ab$，即左乘
+  \item 右顺：$a \Hyp{{}^2+} b = ba$，即右乘
+  \item 左违：$a \Hyp{-^2} b = a / b$，即左除
+  \item 右违：$a \Hyp{{}^2-} b = b / a$，即右除
+  \item 左正：$\Hyp{+^2} b = b$，幺元在左
+  \item 右正：$a \Hyp{{}^2+} = a$，幺元在右
+  \item 左负：$\Hyp{-^2} b = - b$，幺元在左，右侧数的倒数
+  \item 右负：$a \Hyp{{}^2-} = - a$，幺元在右，左侧数的倒数
+\end{itemize}
+
+顺违相抵、正负相消、左右互逆依然成立
+
+\subsection{三阶运算}
+
+\begin{itemize}
+  \item 三阶单位：左幺 $1$，右幺 $?$，
+  \item 左顺：$a \Hyp{+^3} b = a^b$，即左侧乘方
+  \item 右顺：$a \Hyp{{}^3+} b = b^a$，即右侧乘方
+  \item 左违：$a \Hyp{-^3} b = \sqrt[b]{a}$，即开方
+  \item 右违：$a \Hyp{{}^3-} b = \log_b a$，即对数
+  \item 左正：$\Hyp{+^3} b = - b$，幺元在左，右侧数的倒数
+  \item 右正：$a \Hyp{{}^3+} = - a$，幺元在右，左侧数的倒数
+  \item 左负：$\Hyp{-^3} b = - b$，幺元在左，右侧数的倒数
+  \item 右负：$a \Hyp{{}^3-} = - a$，幺元在右，左侧数的倒数
+\end{itemize}
+
+顺违相抵依然成立
+
+\subsection{恒等式}
+
+\subsubsection{分配律}
+
+同底的乘方相乘，等价于该底上的指数相加
+
+$$a \Hyp{+^3} b \Hyp{+^2} a \Hyp{+^3} c = a \Hyp{+^3} (b \Hyp{+^1} c)$$
+
+本质上和加乘的分配律是一样的
+
+$$a \Hyp{+^2} b \Hyp{+^1} a \Hyp{+^2} c = a \Hyp{+^2} (b \Hyp{+^1} c)$$
+
+所以猜测有一般化的分配律
+
+$$a \Hyp{+^{k+1}} b \Hyp{+^k} a \Hyp{+^{k+1}} c = a \Hyp{+^{k+1}} (b \Hyp{+^1} c)$$
+
+\subsubsection{简化律}
+
+对数把乘法化加减
+
+$$(a \Hyp{{}^2+} b) \Hyp{{}^3-} c = a \Hyp{{}^3-} c \Hyp{{}^1+} b \Hyp{{}^3-} c$$
+
+所以猜测有一般化的简化律
+
+$$(a \Hyp{{}^{k+1}+} b) \Hyp{{}^{k+2}-} c = a \Hyp{{}^{k+2}-} c \Hyp{{}^1+} b \Hyp{{}^{k+2}-} c$$
+
+\section{超算子的算术}
 
 \section{不定式与微积分}
 
