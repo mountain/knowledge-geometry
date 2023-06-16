@@ -1,0 +1,123 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{datetime}
+\usepackage{framed}
+\usepackage{enumitem}
+\usepackage{fancyref}
+\usepackage{wrapfig}
+\usepackage{pifont}
+\usepackage{appendix}
+\usepackage{caption}
+\usepackage{xcolor}
+\usepackage[stable]{footmisc}
+\usepackage{multicol}
+\usepackage{csquotes}
+\usepackage{pdfpages}
+
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{mathtools}
+
+\usepackage{tikz}
+\usepackage{pgf}
+\usepgflibrary{fpu}
+\usetikzlibrary{angles,fit,arrows,calc,math,intersections,through,backgrounds,cd}
+\usepackage{pgfplots}
+\usepackage{tkz-euclide}
+
+\usepackage{qtree}
+
+\usepackage{listings}
+\lstset{
+  basicstyle=\itshape,
+  xleftmargin=3em,
+  literate={->}{$\rightarrow$}{2}
+           {α}{$\alpha$}{1}
+           {δ}{$\delta$}{1}
+}
+
+\usepackage{csquotes}
+\renewcommand{\mkbegdispquote}[2]{\itshape}
+
+\newdateformat{nianyueri}{
+发表于 2022 年 8 月\\
+翻译于 \THEYEAR 年 \THEMONTH 月
+}
+
+\usepackage{xstring}
+\usepackage{catchfile}
+\CatchFileDef{\HEAD}{../.git/refs/heads/master}{}
+\newcommand{\gitrevision}{%
+  \StrLeft{\HEAD}{7}%
+}
+
+\usepackage{stmaryrd}
+\usepackage{mathtools}
+\usepackage{wasysym}
+\usepackage{textcomp}
+\usepackage{blindtext}
+\usepackage{subfiles}
+
+\usepackage{data/quiver}
+\usepackage{data/circledsteps}
+\input{data/style}
+
+\newtheorem{problem}{问题}
+\numberwithin{problem}{section}
+\newtheorem{definition}{定义}
+\numberwithin{definition}{section}
+\newtheorem{lemma}{引理}
+\numberwithin{lemma}{section}
+\newtheorem{proposition}{命题}
+\numberwithin{proposition}{section}
+\newtheorem{theorem}{定理}
+\numberwithin{theorem}{section}
+\newtheorem{grammar}{文法}
+\numberwithin{grammar}{section}
+\newtheorem{program}{程序}
+\numberwithin{program}{section}
+\newtheorem{convention}{约定}
+\numberwithin{convention}{section}
+\newtheorem{corollary}{推论}
+\numberwithin{corollary}{section}
+\renewcommand*{\proofname}{证明}
+
+\xeCJKsetwidth{‘’“”}{1em}
+
+\title{康威身后的数学}
+\date{\nianyueri\today}
+\author{Alex Ryba \\\ Philip Ehrlich \\\ Richard Kenyon, Jeffrey Lagarias, James Propp \\\ Louis H. Kauffman}
+
+\begin{document}
+
+\begingroup
+\let\newpage\relax
+\maketitle
+\endgroup
+
+\centerline{\rule{13cm}{0.4pt}}
+\renewcommand{\contentsname}{\hfill\bfseries 目录\hfill}
+\setcounter{tocdepth}{2}
+\tableofcontents
+\centerline{\rule{13cm}{0.4pt}}
+
+数学家们常趋之若鹜，聚听约翰·康威的演讲，深究其著述。他们期待在优美的数学中寻得娱心悦目之感，深信自己会从中领悟宝贵的智慧。康威乐见此景，深以为己任，让自己的数学研究别具匠心。然而，令其数学工作真正显赫一时的，乃是他丰富深邃的洞见。康威的学术之路，无论走到何方，皆为我们拓展了探索的大道。
+
+约翰以多种方式激励并启发我们。他的“生命游戏”广为钻研，成千上万的人对其进行探索；而他的“河流法”为经典主题二次型提供了一种崭新的途径。他与比尔·瑟斯顿合作创制的“双曲面符号法”，赋予了一种全新的方式来描述对称图案，如上文开头所示的图像。这些图像摘自由约翰、海蒂·布吉尔以及海姆·古德曼-斯特劳斯合著的一本精美之作《物之对称》。作为群论学者，如我者，被约翰与其友西蒙·诺顿所著的“怪兽月光”一文深深吸引。约翰和西蒙在论文中填满了当时被视为离经叛道的例子以及关于怪兽群的激进猜想。数学家立刻意识到，这个群不仅仅是一个尚未建构的零星奇观。理查德·博彻兹为证明约翰论文中的猜想，创立了顶点代数的新理论。麦凯和塞巴尔恰如其分地称月光为“20世纪的21世纪数学”[15]。约翰的影响贯穿于数学的诸多领域，对其作出完整的记述足以填满浩瀚篇章，并将永无止境地扩展开去。接下来的三篇论文展示了现代方法在约翰奠定的基础上，如何应用于数学的截然不同的部分。
+
+早于七十年代初，约翰初创超现实数理论。他深信此为己最具影响力之创见，且坚信此理论将长久不息地展开演变。菲利普·厄尔利希阐述此理论自问世以来半个世纪的进展。
+
+约翰针对某些铺砖问题所采用的代数方法，由理查德·肯尼恩、杰弗里·拉加里亚斯和詹姆斯·普罗普作以解说。此等铺砖问题，乃数学之探询。然而，往昔人们视之为游戏，以为每题须用独门之巧计。约翰以新颖而普适的方法，揭示此类问题实属组合群论之范畴。约翰遥瞩数学的广袤领域，使其能够在不同学科间建立诸多出人意料的联系。
+
+约翰对数学的首次研究兴趣便是结论。他还在读高中时就开始着手发展他的纱线理论。路易斯·考夫曼阐释道，沃恩·琼斯于1983年发表的一篇开创性的论文显示，琼斯多项式满足康威型纱线关系。一众数学家由此受到启发，纷纷拓展康威的纱线理念，发展出Homflypt多项式和Kauffman多项式。这直接催生了现代结论学科的瞬间腾飞。
+
+约翰将自己视为一环扣在漫长的链条上，这链条穿越那些塑造他所钻研和游戏领域的数学家们。他特别崇敬格奥尔格·康托尔，当他研究超现实数时，康托尔的序数总是在他的脑海中占据着至高无上的地位。反过来，约翰也为后人铺就了新的疆域，供他们耕耘。他播下的种子，将由那些数学家们继续收获，他的丰碑将由他们继承和传承。
+
+\section{超现实数及其后}
+
+\section{康威的铺嵌群}
+
+\section{Skein 理论与更多}
+
+\end{document}
