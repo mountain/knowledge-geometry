@@ -11,7 +11,7 @@
 原文：Studies serve for delight, for ornament, and for ability. Their chief use for delight is in privateness and retiring; for ornament, is in discourse; and for ability, is in the judgment and disposition of business. For expert men can execute, and perhaps judge of particulars, one by one; but the general counsels, and the plots and marshalling of affairs, come best from those that are learned. To spend too much time in studies is sloth; to use them too much for ornament, is affectation; to make judgment wholly by their rules, is the humor of a scholar. They perfect nature, and are perfected by experience: for natural abilities are like natural plants, that need pruning, by study; and studies themselves do give forth directions too much at large, except they be bounded in by experience. Crafty men condemn studies, simple men admire them, and wise men use them; for they teach not their own use; but that is a wisdom without them, and above them, won by observation.
 中译：读书足以怡情，足以博彩，足以长才。其怡情也，最见于独处幽居之时；其博彩也，最见于高谈阔论之中；其长才也，最见于处世判事之际。练达之士虽能分别处理细事或一一判别枝节，然纵观统筹，全局策划，则舍好学深思者莫属。读书费时过多易惰，文采藻饰太盛则矫，全凭条文断事乃学究故态。读书补天然之不足，经验又补读书之不足，盖天生才干犹如自然花草，读书然后知如何修剪移接，而书中所示，如不以经验范之，则又大而无当。有一技之长者鄙读书，无知者羡读书，唯明智之士用读书，然书并不以用处告人，用书之智不在书中，而在书外，全凭观察得之。
 
-专名翻译须全文统一，对人名我们采用汉语译名，译文中的法布里、笛卡尔和牛顿都遵循此例：
+专名翻译须全文统一，对人名我们采用汉语译名，如下译文中的法布里、笛卡尔和牛顿都遵循此例：
 
 原文：Inter recentiores HONORATUS FABRI atque CARTESIUS invenerunt sonum consistere in æris tremore, de isto autem tremore pariter confuse sentiebant. Acutissimus NEUTONUS, hanc rem accuratius expendere atque exponere aggressus est, præcipue soni propagationem explicando, verum parum feliciori successu.
 中译：近代的荣誉法布里和笛卡尔发现声音实际上源于空气的震动，但他们对于这种震动的理解仍然相当混乱。睿智的牛顿尝试更加精确地权衡和解释这个问题，特别是通过阐述声音的传播，但成功却甚微。
@@ -19,9 +19,9 @@
 对于文中的每个数学符号、公式，包括行文中的符号、公式和独立的公式，都分别用 LaTex 的 $ 或者 $$ 来包裹。
 
 原文：For example, a ray of light proceeds from A at A-time tA towards B, arrives and is reflected from B at B-time tB, and returns to A at A-time t'A. According to the definition, both clocks are synchronous, if t_B - t_A = t'_A - t_B
-译文：例如，让一束光在“$A$-时间”启程从 $A$ 往 $B$，在“$B$-时间”它在 $B$ 反射回向 $A$，并在“$A$-时间” $t'_A$ 再次回到 $A$。按照定义，这两个钟对好了时，若 $$t_{B}-t_{A}=t'_{A}-t_{B}}$$
+中译：例如，让一束光在“$A$-时间”启程从 $A$ 往 $B$，在“$B$-时间”它在 $B$ 反射回向 $A$，并在“$A$-时间” $t'_A$ 再次回到 $A$。按照定义，这两个钟对好了时，若 $$t_{B}-t_{A}=t'_{A}-t_{B}}$$
 
-考虑到前面我们所建立的背景知识的上下文和术语的译法，请用典雅、凝练的风格，翻译如下英语文章，可略微有一点文白夹杂，但整体上仍然是现代白话文。
+考虑到前面我们所建立的背景知识的上下文和术语的译法，请用典雅、凝练的风格，翻译如下英语文章，可略微文白夹杂，但整体上仍然是现代白话文。
 
 原文：John saw himself as a link in a chain that stretched back through the mathematicians who created the fields where he worked and played. He particularly admired Georg Cantor, whose ordinals were uppermost in his mind when he worked on the surreal numbers. John, in turn, laid out new areas for others to cultivate after him. His legacy will be owned and continued by the mathematicians for whom he sowed so many seeds.
 中译：
