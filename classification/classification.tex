@@ -1,0 +1,134 @@
+\documentclass[
+    fontsize=24pt, % Base font size
+	twoside=false, % Use different layouts for even and odd pages (in particular, if twoside=true, the margin column will be always on the outside)
+	%open=any, % If twoside=true, uncomment this to force new chapters to start on any page, not only on right (odd) pages
+	secnumdepth=0, % How deep to number headings. Defaults to 1 (sections)
+    paper=b5paper, % Paper size
+]{kaobook}
+
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{hobby}
+\usetikzlibrary{lindenmayersystems}
+\usetikzlibrary[shadings]
+\usepackage{ctex}
+
+\graphicspath{{images/}{./}} % Paths where images are looked for
+
+\makeindex[columns=3, title=Alphabetical Index, intoc] % Make LaTeX produce the files required to compile the index
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	BOOK INFORMATION
+%----------------------------------------------------------------------------------------
+
+\titlehead{暑期探索项目}
+\title[Template for the {\normalfont\texttt{kaobook}} Class]{关于闭曲面分类定理的对话}
+\author{ChatGPT、苑明理}
+\date{2023 年 07 月 20 日}
+\publishers{暑期探索项目}
+
+%----------------------------------------------------------------------------------------
+%	COVER PAGE
+%----------------------------------------------------------------------------------------
+
+% \pagecolor{black}\afterpage{\nopagecolor}
+% \includepdf{earth.png}
+
+\frontmatter % Denotes the start of the pre-document content, uses roman numerals
+
+%----------------------------------------------------------------------------------------
+%	DEDICATION
+%----------------------------------------------------------------------------------------
+
+\dedication{
+	想象力是灵魂的眼睛。 \flushright —— 约瑟夫 · 朱伯特
+}
+
+%----------------------------------------------------------------------------------------
+%	OUTPUT TITLE PAGE AND PREVIOUS
+%----------------------------------------------------------------------------------------
+
+% Note that \maketitle outputs the pages before here
+\maketitle
+
+%----------------------------------------------------------------------------------------
+%	PREFACE
+%----------------------------------------------------------------------------------------
+
+% \chapter*{导读说明}
+
+%----------------------------------------------------------------------------------------
+%	TABLE OF CONTENTS & LIST OF FIGURES/TABLES
+%----------------------------------------------------------------------------------------
+
+\begingroup % Local scope for the following commands
+
+% Define the style for the TOC, LOF, and LOT
+%\setstretch{1} % Uncomment to modify line spacing in the ToC
+%\hypersetup{linkcolor=blue} % Uncomment to set the colour of links in the ToC
+\setlength{\textheight}{230\vscale} % Manually adjust the height of the ToC pages
+
+% Turn on compatibility mode for the etoc package
+\etocstandarddisplaystyle % "toc display" as if etoc was not loaded
+\etocstandardlines % "toc lines as if etoc was not loaded
+
+\renewcommand\contentsname{目录}
+\tableofcontents % Output the table of contents
+
+% \listoffigures % Output the list of figures
+
+% Comment both of the following lines to have the LOF and the LOT on different pages
+% \let\cleardoublepage\bigskip
+% \let\clearpage\bigskip
+
+% \listoftables % Output the list of tables
+
+\endgroup
+
+%----------------------------------------------------------------------------------------
+%	MAIN BODY
+%----------------------------------------------------------------------------------------
+
+\mainmatter % Denotes the start of the main document content, resets page numbering and uses arabic numbers
+\setchapterstyle{kao} % Choose the default chapter heading style
+
+\chapter{序幕}
+
+\section{出场人物}
+
+艾萨克·牛顿爵士是一位英国数学家、物理学家、天文学家、炼金术士、神学家和作者，他在他的时代被描述为自然哲学家。他是科学革命和随后的启蒙时代的关键人物。他的开创性著作《自然哲学的数学原理》，首次出版于1687年，巩固了许多先前的成果，并建立了经典力学。牛顿还对光学做出了开创性的贡献，并与德国数学家戈特弗里德·威廉·莱布尼茨共享开发微积分的荣誉。
+
+莱昂哈德·欧拉是一位瑞士数学家、物理学家、天文学家、地理学家、逻辑学家和工程师，他创立了图论和拓扑学的研究，并在许多其他数学分支，如解析数论、复分析和微积分等领域做出了开创性和有影响力的发现。他引入了许多现代数学术语和符号，包括数学函数的概念。他也以他在力学、流体动力学、光学、天文学和音乐理论的工作而闻名。
+
+约翰·卡尔·弗里德里希·高斯是一位德国数学家、大地测量学家和物理学家，他在数学和科学的许多领域做出了重要的贡献。高斯在许多数学和科学领域有着非凡的影响力，被列为历史上最有影响力的数学家之一。
+
+格奥尔格·弗里德里希·伯恩哈德·黎曼是一位德国数学家，他对分析、数论和微分几何做出了深远的贡献。在实分析领域，他最为人所知的是对积分的第一次严格表述，即黎曼积分，以及他在傅立叶级数上的工作。他对复分析的贡献主要包括黎曼曲面的引入，为复分析的自然、几何处理开辟了新的领域。他在1859年关于素数计数函数的论文，包含了黎曼猜想的原始陈述，被视为解析数论的基础论文。通过他对微分几何的开创性贡献，黎曼奠定了广义相对论数学的基础。他被许多人认为是有史以来最伟大的数学家之一。
+
+斯里尼瓦萨·拉马努金是一位印度数学家。尽管他几乎没有接受过纯数学的正规训练，但他对数学分析、数论、无穷级数和连续分数做出了重要的贡献，包括对当时被认为无法解决的数学问题的解决方案。
+
+学生是一位正在求学的年轻人，对数学有热情和好奇心。
+
+\section{剧情规则}
+
+我们假设这些数学巨人和学生之间进行了一场对话。对话是根据以下规则生成的：
+\begin{itemize}
+\item 每位数学家都有机会发言，系统角色负责切换数学家的发言顺序。
+\item 我们需要遵循那位数学家的风格和专长。在对话中不要重复同样的内容与词语。
+\item 我们可以使用 "@NAME" 来提及数学家的名字，系统会将发言权切换到那位数学家。
+\item 我们可以使用 "..." 来放弃发言权，这给了系统机会切换发言权。
+\item 当我们以恰当格式提及助手时，助手可以总结对话并给出结论。
+\item 当我们以恰当格式提及助手时，助手可以搜索对话历史并给出参考。
+\item 我们可以使用一个单独的 "！" 来终止对话。
+\end{itemize}
+
+\chapter{第一幕}
+
+【学生】
+
+尊敬的大师们，让我们用中文来讨论。想必你们一定知道火烧法来得到基本域的方法。我在思考一个闭曲面上扩散圆的自缠绕过程，希望能从一个新的角度来重述闭曲面分类定理这个经典结果。让我先来解释一下这个想法吧。火烧法中是从曲面的一个点源开始放火，然后火扩散成为一个火圈，火圈越变越大，最后会自我相交，相交处就是火燃尽的地方，而燃尽的线是一条复杂的割线，这个“燃尽”的割线（cut locus）给出了基本域。我的“扩散圆”设想和火烧法类似，是从一个点源丢下一块石头，想象曲面是一个平静的水面，然后浪花会扩散开，形成一个扩散圆。和火烧法不同的是，它没有燃尽点，波浪可以相互穿越。这个穿越点就是一种“缠绕点”。想象一个大圆不断变大，然后开始相交、缠绕。我想搞明白这个过程究竟应该怎么来刻画？我的直觉是它和闭曲面分类定理之间有关系。
+
+
+\backmatter
+\end{document}
