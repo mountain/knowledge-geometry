@@ -82,15 +82,42 @@
 
 \xeCJKsetwidth{‘’“”}{1em}
 
-\title{算术表达式几何的几何应用}
+\makeatletter
+\DeclareRobustCommand{\Hyp}[1]{\mathpunct{{\LeftP}{#1}{\RightP}}}
+\newcommand{\LeftP}{%
+  \setlength{\unitlength}{\fontcharht\font`T}%
+  \begin{picture}(1,1)
+  \Line(1,1)(0.8,1)(0.8,0)(1,0)
+  \end{picture}%
+}
+\newcommand{\RightP}{%
+  \setlength{\unitlength}{\fontcharht\font`T}%
+  \begin{picture}(1,1)
+  \Line(0,1)(0.2,1)(0.2,0)(0,0)
+  \end{picture}%
+}
+\makeatother
+
+\makeatletter
+\DeclareRobustCommand{\Intg}[1]{\mathbin{{\UpperP}{#1}{\LowerP}}}
+\newcommand{\UpperP}{%
+  \setlength{\unitlength}{\fontcharht\font`T}%
+  \begin{picture}(1,1)
+  \Line(0.8,1)(0.8,1.2)(1.8,1.2)(1.8,1)
+  \end{picture}%
+}
+\newcommand{\LowerP}{%
+  \setlength{\unitlength}{\fontcharht\font`T}%
+  \begin{picture}(1,1)
+  \Line(-0.9,0)(-0.9,-0.2)(0.1,-0.2)(0.1,0)
+  \end{picture}%
+}
+\makeatother
+
+\title{《天才基本法》的解读}
 \date{\nianyueri\today}
-\author{苑明理}
 
 \begin{document}
-
-\begin{center}
-  \sihao \em 过程比结果更重要
-\end{center}
 
 \begingroup
 \let\newpage\relax
@@ -104,33 +131,8 @@
 \centerline{\rule{13cm}{0.4pt}}
 
 \newpage
-\begin{displayquote}
-在这个（数制发明的）历史过程里，人们遗忘了一个隐藏的巨大世界—那就是表达式，或者说计算过程。
-数作为一种表征，本来就是计算过程的高度凝练的表达，但它一旦符号化后，就成为我们追求的目标。
-于是，我们往往关注计算过程的结果，而忽视了过程本身蕴含的众多信息。过程比结果更重要。
-\end{displayquote}
-\newpage
 
-\section{点火烧法}
+\section{超算子的引入}
 
-从扩散圆的自缠绕的角度重述闭曲面的分类定理。
-
-球面：一条有限长割线，扩散圆、缠绕点、割线、缠绕点、缠绕后圆、Skein 关系、演化序列
-
-单值化定理
-
-\section{线火烧法}
-
-把火烧法的起点改成一条线，得到线火烧法。
-
-\section{流方程}
-
-\section{算术表达式几何}
-
-\subsection{算术表达式}
-
-\section{超越算术表达式几何}
-
-\subsection{路径几何空间}
 
 \end{document}
