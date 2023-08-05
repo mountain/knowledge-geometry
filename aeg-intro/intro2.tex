@@ -1,13 +1,20 @@
 \documentclass[aspectratio=169]{beamer}
+
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{amsfonts}
 \usepackage{amsmath}
+\usepackage{mathtools}
+
 \usepackage{pgf}
 \usepgflibrary{fpu}
 \usepackage{pgfplots}
 \usepackage{tikz}
-\usetikzlibrary{angles,fit,arrows,calc,math,intersections,through,backgrounds}
+\usetikzlibrary{angles,fit,arrows,calc,math,matrix,intersections,through,backgrounds,cd}
 \usepackage{tkz-euclide}
 \usepackage{tkz-graph}
 \usepackage{graphicx}
+\pgfplotsset{compat=1.18}
 
 \usetheme{Pittsburgh}
 \usecolortheme{seahorse}
@@ -537,63 +544,152 @@ $$
 
 \end{frame}
 
+\section{Further topics}
+
 \begin{frame}
-\frametitle{A jigsaw by Riemann mapping}
+\frametitle{Further topics}
+\begin{figure}[ht]\centering
+\resizebox{0.5\textwidth}{!}{\includegraphics{images/cayley4}}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+\frametitle{A jigsaw by Riemann mapping?}
 \begin{figure}[ht]\centering
 \resizebox{0.7\textwidth}{!}{\includegraphics{images/jigsaw-riemann}}
 \end{figure}
 \end{frame}
 
-\section{Further topics}
-
 \begin{frame}
-\frametitle{Further topics}
-\end{frame}
-
-\begin{frame}
-\frametitle{Tube structure}
+\frametitle{Tube structure?}
 \begin{figure}[ht]\centering
 \resizebox{0.8\textwidth}{!}{\includegraphics{images/tube}}
 \end{figure}
-
 \end{frame}
 
-\begin{frame}
+\begin{frame}[fragile]
 \frametitle{Function as flow}
-\begin{figure}[ht]\centering
-\resizebox{0.7\textwidth}{!}{\includegraphics{images/flow}}
-\end{figure}
+\begin{columns}
+\begin{column}{0.5\textwidth}
+\begin{center}
+    \begin{tikzcd}
+        H && H \\
+        R && R
+        \arrow["l", from=1-1, to=1-3]
+        \arrow["\nu"', from=1-1, to=2-1]
+        \arrow["\nu", from=1-3, to=2-3]
+        \arrow["k"', from=2-1, to=2-3]
+    \end{tikzcd}
+\end{center}
+\end{column}
+\begin{column}{0.5\textwidth}
+    \begin{figure}[ht]\centering
+    \resizebox{\textwidth}{!}{\includegraphics{images/flow}}
+    \end{figure}
+\end{column}
+\end{columns}
 \end{frame}
 
 \begin{frame}
-\frametitle{Calculus as a boundary algebra}
-Infinitely small values and large values are appeared at the boundary
+\frametitle{Extend calculus by mixing addition and multiplication?}
+    Riemann sum is purely additional.
+    Can we extend it by mixing addition and multiplication?
+\end{frame}
+
+\begin{frame}
+\frametitle{Calculus as a boundary algebra?}
+    Infinitely small values and large values are appeared at the boundary.
+    Limitation process can be treated as flow to the boundary.
 \begin{figure}[ht]\centering
-\resizebox{0.5\textwidth}{!}{\includegraphics{images/assignment2}}
+\resizebox{0.4\textwidth}{!}{\includegraphics{images/assignment2}}
 \end{figure}
 \end{frame}
 
 \begin{frame}
 \frametitle{Other analysis systems?}
-    Formulate systems as
+    Formulate our systems as a tuple of
     \begin{itemize}
-        \item E(F), (H, a), (Path, Integ)
+        \item $E(F), (H, a), (Path, Integ)$
     \end{itemize}
-    A category?
+    Here we have
+    \begin{itemize}
+        \item $E(F)$: Expressions over a field $F$
+        \item $(H, a)$: A scalar field "assignment" $a$ on a space $H$
+        \item $(Path, Integ)$: all paths can be interpreted as an integral
+    \end{itemize}
+    Can we form a category? and complex analysis is an example?
 \end{frame}
 
 \section{Adventure in a wonderland}
 
 \begin{frame}
 \frametitle{Adventure in a wonderland}
-    \begin{itemize}
-        \item SKI combinator as a space
-        \item Logic system as a space
-    \end{itemize}
+\begin{figure}[ht]\centering
+\resizebox{0.5\textwidth}{!}{\includegraphics{images/fibonacci_spiral.png}}
+\end{figure}
 \end{frame}
 
 \begin{frame}
-\frametitle{Logic system as a space}
+\frametitle{SKI combinator calculus}
+\begin{columns}
+\begin{column}{0.5\textwidth}
+    \begin{figure}[ht]\centering
+    \resizebox{0.8\textwidth}{!}{\includegraphics{images/ski-rules.png}}
+    \end{figure}
+\end{column}
+\begin{column}{0.5\textwidth}
+    \begin{figure}[ht]\centering
+    \resizebox{0.8\textwidth}{!}{\includegraphics{images/ski-reverse.png}}
+    \end{figure}
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}
+\frametitle{A space of SKI combinators}
+    Any arithmetic expression can be represented by SKI combinators via Church numerals.
+    So any arithmetic expression space can be encoded by SKI combinators.
+
+    Program space!
+\end{frame}
+
+\begin{frame}
+\frametitle{Ancient Egyptian multiplication}
+    \begin{figure}[ht]\centering
+    \resizebox{0.8\textwidth}{!}{\includegraphics{images/egyptian.png}}
+    \end{figure}
+\end{frame}
+
+\begin{frame}
+\frametitle{A story of square root of 17}
+A story from Plato's Theaetetus: Theodorus of Cyrene, a young mathematician, was able to prove that $\sqrt{3}$, $\sqrt{5}$... are irrational, but not $\sqrt{17}$.
+
+\begin{columns}
+\begin{column}{0.5\textwidth}
+    \begin{figure}[ht]\centering
+    \resizebox{0.6\textwidth}{!}{\includegraphics{images/Plato.jpeg}}
+    \end{figure}
+\end{column}
+\begin{column}{0.5\textwidth}
+    \begin{figure}[ht]\centering
+    \resizebox{0.8\textwidth}{!}{\includegraphics{images/escargot_pythagore.png}}
+    \end{figure}
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}
+\frametitle{A logic system as a space?}
+The axioms by Victor Pambuccian and Celia Schacht are also fit into expressions,
+and then some terms of the system can be embedded into the expression space.
+Can we migrate the problem of irrationality of $\sqrt{17}$ from proof theory into a problem in group theory?
+\begin{columns}
+\begin{column}{0.4\textwidth}
+    \begin{figure}[ht]\centering
+    \resizebox{0.8\textwidth}{!}{\includegraphics{images/axioms.png}}
+    \end{figure}
+\end{column}
+\begin{column}{0.4\textwidth}
 \begin{figure}[ht]
 \centering
 
@@ -606,7 +702,7 @@ Infinitely small values and large values are appeared at the boundary
   \angleo = 3.1415926;
 }
 
-\resizebox{0.4\columnwidth}{!}{%
+\resizebox{0.8\columnwidth}{!}{%
 \begin{tikzpicture}
 \draw [black, line width=0.6pt, ->] (15.875,0) to[out=90,in=270] (15.875,33);
 \node [anchor=south] at (16,33) {y};
@@ -823,8 +919,49 @@ Infinitely small values and large values are appeared at the boundary
 
 \end{tikzpicture}
 }
-\caption{square and irrationality}\label{fig:irrationality3}
+\end{figure}
+\end{column}
+\end{columns}
+
+\end{frame}
+
+\section{Final remarks}
+
+\begin{frame}
+\frametitle{Final remarks}
+\begin{figure}[ht]\centering
+\resizebox{0.5\textwidth}{!}{\includegraphics{images/hexabar}}
 \end{figure}
 \end{frame}
+
+\begin{frame}
+\frametitle{The unreasonable effectiveness of math}
+Math and even all human knowledge is also a geometrical object, just the same as the universe.
+\begin{figure}[ht]\centering
+\resizebox{0.4\textwidth}{!}{\includegraphics{images/gasket}}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+\frametitle{Knowledge geometry}
+A minimal surface of knowledge, every concept is a point, every relation is a line.
+\begin{figure}[ht]
+\centering
+\resizebox{0.5\textwidth}{!}{
+\begin{tikzpicture}
+\draw (6, 2) node[inner sep=0] {\includegraphics[width=4in]{images/ennepers.png}};
+\node [anchor=225, black] at (9,6) {Geometry};
+\node [anchor=225, black] at (9,-3) {Analysis};
+\node [anchor=225, black] at (2,6) {Computer Science};
+\node [anchor=225, black] at (0,0) {Machine Learning};
+\end{tikzpicture}
+}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+Thank you!
+\end{frame}
+
 
 \end{document}

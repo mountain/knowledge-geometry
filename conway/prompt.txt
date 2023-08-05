@@ -21,7 +21,18 @@
 原文：For example, a ray of light proceeds from A at A-time tA towards B, arrives and is reflected from B at B-time tB, and returns to A at A-time t'A. According to the definition, both clocks are synchronous, if t_B - t_A = t'_A - t_B
 译文：例如，让一束光在“$A$-时间”启程从 $A$ 往 $B$，在“$B$-时间”它在 $B$ 反射回向 $A$，并在“$A$-时间” $t'_A$ 再次回到 $A$。按照定义，这两个钟对好了时，若 $$t_{B}-t_{A}=t'_{A}-t_{B}}$$
 
+以下是我们采用的术语翻译对照表：
+orbifold：轨形
+surreal number：超现实数
+tiling: 铺嵌
+
 考虑到前面我们所建立的背景知识的上下文和术语的译法，请用典雅、凝练的风格，翻译如下英语文章，可略微有一点文白夹杂，但整体上仍然是现代白话文。
 
-原文：John saw himself as a link in a chain that stretched back through the mathematicians who created the fields where he worked and played. He particularly admired Georg Cantor, whose ordinals were uppermost in his mind when he worked on the surreal numbers. John, in turn, laid out new areas for others to cultivate after him. His legacy will be owned and continued by the mathematicians for whom he sowed so many seeds.
+原文：One of the most remarkable confluences of ideas in modern scientific history occurred in the few short years between the publication of Godel's
+original papers on formal undecidability in 1931, and the work of McCulloch and Pitts on neural networks, which appeared in 1943.
+During these twelve years, fundamental interrelationships were established between logic, mathematics, the theory of the brain,
+and the possibilities of digital computation, which still literally takes one's breath away to contemplate in their full scope.
+It was believed at that time, and still is today, over half a century later, that these ideas presage a revolution as fundamental
+as that achieved by Newton three centuries earlier.
+
 中译：

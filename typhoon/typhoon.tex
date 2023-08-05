@@ -161,6 +161,36 @@ Signatory 开源包的基本 API 可以概括如下：
 本质上，粗糙路径理论是提供了一个表征变换的工具，它将一般的演化路径转换成签名，并可以在这个新的表征上做各种各样的后继任务。
 
 \newpage
+
+Let's assume the sphere has a radius $R$ and is rotating with an angular velocity $\omega$ (in radians per second) around an axis.
+
+Let's say a point on the sphere has coordinates $(x, y, z)$ in a 3D Cartesian coordinate system, and the axis of rotation is defined by the unit vector $\vec{a} = (a_x, a_y, a_z)$, where $a_x^2 + a_y^2 + a_z^2 = 1$.
+
+The position vector of the point $P$ in Cartesian coordinates is:
+\begin{equation}
+\vec{r} = (x, y, z).
+\end{equation}
+
+The angular velocity vector is in the direction of the axis of rotation and has magnitude $\omega$:
+\begin{equation}
+\vec{\omega} = \omega \cdot (a_x, a_y, a_z).
+\end{equation}
+
+The linear velocity $\vec{v}$ of the point $P$ is the cross product of the angular velocity vector and the position vector:
+\begin{equation}
+\vec{v} = \vec{\omega} \times \vec{r}.
+\end{equation}
+
+Using the cross product, this can be expanded to:
+\begin{equation}
+\vec{v} = \omega \cdot (a_y \cdot z - a_z \cdot y, a_z \cdot x - a_x \cdot z, a_x \cdot y - a_y \cdot x).
+\end{equation}
+
+The magnitude of the linear velocity vector $|\vec{v}|$ is the rotation speed of the point $P$, and is given by:
+\begin{equation}
+|\vec{v}| = \omega \cdot \sqrt{(a_y \cdot z - a_z \cdot y)^2 + (a_z \cdot x - a_x \cdot z)^2 + (a_x \cdot y - a_y \cdot x)^2}.
+\end{equation}
+
 \phantomsection
 \addcontentsline{toc}{section}{参考文献}
 \bibliographystyle{ieeetr}
