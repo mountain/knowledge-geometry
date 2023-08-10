@@ -7,7 +7,6 @@ set xtics
 set ytics
 
 set contour
-set surface
 set cntrparam levels increment 0,100,10
 # set cntrparam bspline levels 64
 set samples 1024
