@@ -1,5 +1,5 @@
 set term png size 1280, 1024
-set output "plot/sine2d.png"
+set output "sine2d.png"
 
 set key right top outside title "velocity" noautotitle
 unset surface
@@ -7,7 +7,7 @@ set xtics
 set ytics
 
 set contour
-set cntrparam bspline levels 32
+set cntrparam bspline levels 64
 set samples 1024
 set logscale z 2
 set isosamples 1024
