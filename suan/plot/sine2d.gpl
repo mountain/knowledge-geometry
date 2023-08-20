@@ -7,7 +7,7 @@ set xtics
 set ytics
 
 set contour
-set cntrparam bspline levels 128
+set cntrparam bspline levels 48
 set samples 1024
 set logscale z 2
 set isosamples 1024

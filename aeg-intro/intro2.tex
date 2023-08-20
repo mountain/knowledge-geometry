@@ -911,9 +911,12 @@ Can we migrate the problem of irrationality of $\sqrt{17}$ from proof theory int
 
 \begin{scope}
     \clip (-36 / 9 * 8 + \offset,0) rectangle (2 / 9 * 8 + \offset, 36 / 9 * 8);
+    \draw[purple,scale=1.0,samples=360,domain=0.0:360,variable=\t] plot ({- 0 / 2 / 9 * 8 + \offset + 2 / 2 / 9 * 8 * cos(\t) },{2 / 2 / 9 * 8 * sin(\t)});
+    \draw[purple,scale=1.0,samples=360,domain=0.0:360,variable=\t] plot ({- 3 / 2 / 9 * 8 + \offset + 5 / 2 / 9 * 8 * cos(\t) },{5 / 2 / 9 * 8 * sin(\t)});
     \draw[purple,scale=1.0,samples=360,domain=0.0:360,variable=\t] plot ({- 8 / 2 / 9 * 8 + \offset + 10 / 2 / 9 * 8 * cos(\t) },{10 / 2 / 9 * 8 * sin(\t)});
-    \draw[purple,scale=1.0,samples=360,domain=0.0:360,variable=\t] plot ({- 17 / 2 / 9 * 8 + \offset + 19 / 2 / 9 * 8 * cos(\t) },{19 / 2 / 9 * 8 * sin(\t)});
-    \draw[purple,scale=1.0,samples=360,domain=0.0:360,variable=\t] plot ({- 26 / 2 / 9 * 8 + \offset + 28 / 2 / 9 * 8 * cos(\t) },{28 / 2 / 9 * 8 * sin(\t)});
+    \draw[purple,scale=1.0,samples=360,domain=0.0:360,variable=\t] plot ({- 15 / 2 / 9 * 8 + \offset + 17 / 2 / 9 * 8 * cos(\t) },{17 / 2 / 9 * 8 * sin(\t)});
+    \draw[purple,scale=1.0,samples=360,domain=0.0:360,variable=\t] plot ({- 16 / 2 / 9 * 8 + \offset + 18 / 2 / 9 * 8 * cos(\t) },{18 / 2 / 9 * 8 * sin(\t)});
+    \draw[purple,scale=1.0,samples=360,domain=0.0:360,variable=\t] plot ({- 24 / 2 / 9 * 8 + \offset + 26 / 2 / 9 * 8 * cos(\t) },{26 / 2 / 9 * 8 * sin(\t)});
     \draw[purple,scale=1.0,samples=360,domain=0.0:360,variable=\t] plot ({- 35 / 2 / 9 * 8 + \offset + 37 / 2 / 9 * 8 * cos(\t) },{37 / 2 / 9 * 8 * sin(\t)});
 \end{scope}
 

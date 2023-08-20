@@ -1,5 +1,5 @@
 set term png size 1024,1024
-set output "plot/sine3d.png"
+set output "sine3d.png"
 
 unset key
 set auto
@@ -10,10 +10,10 @@ set surface
 set zrange [-2.0:2.0]
 
 set contour
-set cntrparam bspline levels 36
+set cntrparam bspline levels 48
 set samples 1024
-set logscale z 1.0003
-set isosamples 48
+set logscale z 1.00005
+set isosamples 144
 set view 60, 30
 
 set xlabel "t"
