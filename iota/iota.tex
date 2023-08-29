@@ -141,17 +141,32 @@ C_{n+1} & = \sum_{i=0}^n C_i C_{n-i}
 下面我们不严格的引入组合子，简单来理解，可以认为组合子是一些特定的组合单元，每个组合单元可以实现一种二叉树上的简单映射；
 然后再把不同的组合单元组装起来，可以构造非常复杂的二叉树上的映射。
 
-$I$ 组合子
+\begin{center}
+\begin{tabular}{ |c|lll| }
+\hline
+\multicolumn{4}{|c|}{SKI 组合子} \\
+\hline
+\multicolumn{1}{|c}{组合子} & \multicolumn{3}{|c|}{定义} \\ [0.5ex]
+\hline
+$I$ & \Tree [. $I$ $x$ ] & $\to$ & $x$ \\ [0.5ex]
+$K$ & \Tree [. [. $K$ $x$ ] $y$ ] &  $\to$ & $x$ \\ [0.5ex]
+$S$ & \Tree [. [. [. $S$ $x$ ] $y$ ] $z$ ] & $\to$ & \Tree [. [. $x$ $z$ ] [. $y$ $z$ ] ] \\
+\hline
+\end{tabular}
+\end{center}
 
-\Tree [. $I$ $x$ ] $\leadsto$ $x$
+例子：
 
-$K$ 组合子
-
-\Tree [. [. $K$ $x$ ] $y$ ]  $\to$ $x$
-
-$S$ 组合子
-
-\Tree [. [. [. $S$ $x$ ] $y$ ] $z$ ]  $\to$ \Tree [. [. $x$ $z$ ] [. $y$ $z$ ] ]
+\begin{align}
+ (\iota (((\iota \iota) \iota) (((\iota \iota) \iota) \iota))) & = & (\iota ((I \iota) ((I \iota) \iota))) \\
+                               & = & (\iota (\iota (\iota \iota))) \\
+                               & = & (\iota (\iota I)) \\
+                               & = & (\iota ((I S) K)) \\
+                               & = & (\iota (S K)) \\
+                               & = & (((S K) S) K) \\
+                               & = & ((K K) (S K))) \\
+                               & = & K
+\end{align}
 
 \section{共轭的引入}
 
@@ -178,6 +193,22 @@ $$
 
 二叉树的叶节点上操作的是几何体，$(a b)$ 读作把 $a$、$b$ 在 $a$ 上寻找和 $b$ 匹配的位置并黏在一起，于是 $Sxyz$ 解读为通过 $z$ 把 $x$、$y$黏在一起。
 $Kxy$ 解读为遗忘掉时空里的历史$xy$，只取到最后的结果 $x$，其实就是从蕴含或者因果链条了取结果。如果 $K$ 单置，可以解读为时间。
+
+\begin{center}
+\begin{tabular}{ |c|ccc|c|c|l| }
+\hline
+\multicolumn{7}{|c|}{如一的组合子} \\
+\hline
+\multicolumn{1}{|c}{组合子} & \multicolumn{3}{|c|}{定义} & 左逆 & 右逆 & 解释 \\
+\hline
+$\iota$ & $\iota$ & $=$ & $\iota$ & $\iota$ & $\iota$ & 最基本的计算单元 \\ [0.5ex]
+$I$ & $I$ & $=$ & \Tree [. $\iota$ $\iota$ ] & $I$ & $I$ & 表达世界是纯态的运算单元 \\ [0.5ex]
+$R$ & $R$ & $=$ & \Tree [. $\iota$ [. $\iota$ $\iota$ ] ] $$  &  &  & 逆时间演化或者否 \\ [0.5ex]
+$K$ & $K$ & $=$ & \Tree [. $\iota$ [. $\iota$ [. $\iota$ $\iota$ ] ] ]  & $SK$ & $I$ & 顺时间演化或者真 \\ [0.5ex]
+$S$ & $S$ & $=$ & \Tree [. $\iota$ [. $\iota$ [. $\iota$ [. $\iota$ $\iota$ ] ] ] ] & & & \\
+\hline
+\end{tabular}
+\end{center}
 
 \begin{principle}
 恒者恒在
