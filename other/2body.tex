@@ -1,0 +1,31 @@
+\documentclass[tikz]{standalone}
+  \usetikzlibrary{arrows,calc}
+
+  \begin{document}
+
+  \begin{tikzpicture}[
+    dot/.style = {outer sep = +0pt, inner sep = +0pt, shape = circle, draw = black, label = {#1}},
+    small dot/.style = {minimum size = 1pt, dot = {#1}},
+    big dot/.style = {minimum size = 2pt, dot = {#1}},
+    line join = round, line cap = round, >=triangle 45
+    ]
+    \draw [black, line width=0.6pt, ->] (0,0) to[out=90,in=270] (0,3.7);
+    \node [anchor=south] at (0,3.9) {y};
+    \draw [black, line width=0.6pt, ->] (-7.3,0) to[out=0,in=180] (3.3,0);
+    \node [anchor=west] at (3.5,0) {x};
+    \foreach \x in {-6,-5,-4,-3,-2,-1,0,1,2,3}
+        \node [anchor=north east] at (\x,0) {\x};
+    \foreach \y in {1,2,3}
+        \node [anchor=-45] at (0,\y) {\y};
+
+    \node[ fill = black, big dot = {above left: \(S\)}] (F) at (0, 0) {};
+    \node[ fill = black, scale=0.1, small dot = {}] (P1)  at (2, 0) {};
+    \node[ fill = black, big dot = {below right: \(P\)}] (P2) at (-2, 2) {};
+
+    \draw let
+      \p0 = ($(P2)-(F)$),
+      \p1 = ($(P1)-(P2)$)
+    in  (P2|-P1) ++(\x1,0) arc (0:360:\x1 and \y0);
+
+  \end{tikzpicture}
+  \end{document}
