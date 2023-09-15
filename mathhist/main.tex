@@ -1,0 +1,134 @@
+\documentclass[a4paper,10.5pt]{book}
+
+\usepackage{babel}
+\usepackage{lipsum}
+\usepackage{hieroglf} % 添加古埃及象形文字
+\usepackage{starfont} % 添加天文符号
+\usepackage{pifont} % 添加 Dingbat
+\usepackage{ccicons} % 添加 CC 协议
+\usepackage{datetime}
+
+\usepackage{chapterbib}
+
+\usepackage[toc,page]{appendix}
+\renewcommand{\appendixname}{附录}
+\renewcommand{\appendixtocname}{附录}
+\renewcommand{\appendixpagename}{附录}
+
+\renewcommand\partname{}
+\renewcommand\thepart{第 \arabic{part} 篇}
+\renewcommand\bibname{参考文献}
+
+\input{style/style}
+
+\usetikzlibrary{shapes,arrows,positioning,decorations.pathreplacing,calc}
+
+\newdateformat{monthyeardate}{\THEYEAR 年 \THEMONTH 月}
+
+\makeatletter
+    \def\subtitle#1{\gdef\@subtitle{#1}}
+    \def\maketitle{
+    \begin{titlepage}
+        \begin{center}
+            \includegraphics[width=6.5in]{images/00_00-Cover.jpeg}\\[5ex]
+            {\yihao \bfseries  \@title }\\[10ex]
+            {\erhao \bfseries  \@subtitle }\\[10ex]
+            {\sanhao  \@author}\\[5ex]
+            {\sihao \monthyeardate\today}\\[1ex]
+        \end{center}
+    \end{titlepage}
+    }
+
+\makeatother
+
+\newcommand{\specialcell}[2][c]{%
+  \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
+
+\titleformat{\chapter}[display]
+  {\bfseries \sanhao}
+  {第 \thechapter 章}
+  {1ex}
+  {\titlerule\vspace{1ex}\filleft}
+  [\vspace{1ex}\titlerule]
+
+\titlespacing{\chapter}{0pt}{*1}{*1.5}
+
+\xeCJKsetwidth{‘’“”}{1em}
+
+\usepackage[acronym,xindy]{glossaries}
+\renewcommand*{\glossaryname}{索~引}
+\makeglossaries
+
+\usepackage[xindy]{imakeidx}
+\makeindex
+
+\loadglsentries[main]{glossary/glossary}
+
+\setcounter{tocdepth}{1}
+
+\pmhgfamily
+
+\title{数学历史资料}
+\subtitle{资料片段的整理}
+\author{苑明理}
+\date{}
+
+\begin{document}
+\thispagestyle{empty}
+\newpage
+%Add content for page two here (useful for two-sided printing)
+
+\newpage
+\thispagestyle{empty}
+\maketitle
+\begin{center}
+    \copyright
+\end{center}
+\thispagestyle{empty}
+
+\newpage
+
+\setlength{\parindent}{0em}
+\setlength{\parskip}{1.2em}
+
+\input{chapters/prelude}
+
+\newpage
+
+\setlength{\parindent}{0em}
+\setlength{\parskip}{0em}
+
+\renewcommand\contentsname{目录}
+\tableofcontents
+\thispagestyle{empty}
+
+\newpage
+
+\setcounter{page}{1} %Start the actually document on page 1
+
+\setlength{\parindent}{0em}
+\setlength{\parskip}{1.2em}
+
+\part{生物的数学能力}
+
+\input{chapters/chpt01}
+\input{chapters/chpt02}
+\input{chapters/chpt03}
+\input{chapters/chpt04}
+\input{chapters/chpt05}
+
+\part{符号数学的开端}
+
+\input{chapters/chpt06}
+\input{chapters/chpt07}
+\input{chapters/chpt08}
+
+\begin{appendices}
+\input{chapters/apdx01}
+\input{chapters/apdx02}
+\end{appendices}
+
+\input{chapters/glssry}
+\input{chapters/refern}
+
+\end{document}
