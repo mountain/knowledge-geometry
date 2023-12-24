@@ -1,0 +1,322 @@
+Abraham, R. H., & Shaw, C. D. (1985). Dynamics: The Geometry of Behavior, Vol. 2. Ariel Press. [aCAS]
+
+Ackley, D. H., Hinton, G. E., & Sejnowski, T. J. (1985). A learning algorithm for Boltzmann machines. Cognitive Science, 9, 147-169. [RR]
+
+Anderson, J. A., Silverstein, J. W., Ritz, S. A., & Jones, R. S. (1977). Distinctive features, categorical perception, and probability learning: Some applications of a neural model. Psychological Review, 84, 413-451. [aCAS]
+
+Arbib, M. A. (1972). The Metaphorical Brain. Wiley-Interscience. [DHP]
+
+Ashby, W. R. (1952). Design for a Brain. Chapman & Hall. [aCAS, DHP]
+
+Auslander, D., Guckenheimer, J., & Oster, G. (1978). Random evolutionarily stable strategies. Theoretical Population Biology, 13, 270-293. [AG]
+
+Babloyantz, A., & Destexhe, A. (1986). Low-dimensional chaos in an instance of epilepsy. Proceedings of the National Academy of Sciences of the United States of America, 83, 3513-3517. [aCAS, AB]
+
+Babloyantz, A. (In press). Strange attractors in the human cortex. In: Temporal Disorder in Human Oscillatory Systems, ed. L. Rensing, U. an der Heiden & M. C. Mackey. Springer. [AB]
+
+Babloyantz, A., & Salazar, M. (1981). Self-organization in biological systems with multiple cellular contacts. Bulletin of Mathematical Biology, 41, 193-201. [aCAS]
+
+Babloyantz, A., Nicolis, C., & Salazar, M. (1985). Evidence of chaotic dynamics of brain activity during the sleep cycle. Physics Letters A, 111A, 152. [AB]
+
+Boaird, B. (In press). Nonlinear dynamics of pattern formation and pattern recognition in the rabbit olfactory bulb. Physics D. [aCAS]
+
+Barlow, H. B. (1972). Single units and sensation: A neuron doctrine for perceptual psychology? Perception, 1, 371-394. [aCAS]
+
+Bonard, H. (1901). Les tourbillons cellulaires dans une nappe liquide. Revue Générale des Sciences Pures et Appliquées, 12, 1309-1328. [RT]
+
+Bressler, S. (1987a). Relation of olfactory bulb and cortex I: Spatial variation of multilaminar interdependence. Brain Research, 409, 285-293. [aCAS]
+
+Bressler, S. (1987b). Relation of olfactory bulb and cortex II: Model for driving of cortex by bulb. Brain Research, 409, 294-301. [aCAS]
+
+Brown, T. H., Perkel, D. H., & Feldman, M. W. (1976). Evoked neurotransmitter release: Statistical effects of nonuniformity and nonstationarity. Proceedings of the National Academy of Sciences of the United States of America, 73, 2913-2917. [DHP]
+
+Bullock, T. H., & Horridge, G. A. (1965). Structure and Function in the Nervous Systems of Invertebrates, Vol. 1. W. H. Freeman. [aCAS]
+
+Burns, B. D. (1958). The Mammalian Cerebral Cortex. Edward Arnold. [aCAS]
+
+Cain, W. S. (1980). Chemosensation and cognition. In: Olfaction and Taste VII, ed. H. van der Starre. IRL Press. [aCAS]
+
+Carpenter, G. A., & Grossberg, S. (1987). A massively parallel architecture for a self-organizing neural pattern recognition machine. Computer Vision, Graphics, and Image Processing, 37, 54-115. [SG]
+
+Chatrian, G. E., Bickford, R. G., & Uihlein, A. (1960). Depth electrographic study of a fast rhythm evoked from the human calcarine region by steady illumination. Electroencephalography and Clinical Neurophysiology, 12, 167-176. [aCAS]
+
+Chay, T. R., & Rinzel, J. (1985). Bursting, beating, and chaos in an excitable membrane model. Biophysical Journal, 47, 357-366. [DHP]
+
+Churchland, P. S. (1980). A perspective on mind-brain research. Journal of Philosophy, 77, 185-207. [IRB]
+Churchland, P. S. (1986). Neurophilosophy: Toward a Unified Understanding of the Mind-Brain. MIT/Bradford. [aCAS]
+
+Cohen, M. A., & Grossberg, S. (1983). Absolute stability of global pattern formation and parallel memory storage by competitive neural networks. IEEE Transactions on Systems, Man, and Cybernetics, 13, 815-826. [DSL]
+
+Cohen, M. A., & Grossberg, S. (1986). Neural dynamics of speech and language coding: Developmental programs, perceptual grouping, and competition for short term memory. Human Neurobiology, 5, 1-22. [SG]
+
+Conrad, M. (1986). What is the use of chaos? In: Chaos, ed. A. V. Holden. Manchester University Press. [aCAS]
+
+Cowan, J. D. (1968). Statistical mechanics of nerve nets. In: Neural Networks, ed. E. R. Caianiello. Springer-Verlag. [DHP]
+
+Craik, K. (1952). The Nature of Explanation. Cambridge University Press. [aCAS]
+
+Del Castillo, J., & Katz, B. (1964). Quantal components of the end-plate potential. Journal of Physiology (London), 124, 560-573. [DHP]
+
+DeMott, D. W. (1970). Toposcopic Studies of Learning. Charles C. Thomas. [aCAS, RMB]
+
+Dretske, F. (1986). Boston studies in the philosophy of science. Vol. 90: Minds, Machines, and Meaning, Philosophy and Technology II, ed. C. Mitcham & H. Huning. Reidel. [GW]
+
+Dreyfus, H. L. (1972). What Computers Can't Do. Harper & Row. [RB]
+
+Dreyfus, H., & Dreyfus, S. (1986). Mind Over Machine. Free Press. [aCAS]
+
+Elias, S. A., & Grossberg, S. (1975). Pattern formation, contrast control, and oscillations in the short-term memory of shunting on-center off-surround networks. Biological Cybernetics, 20, 69-98. [SG]
+
+Emery, J. D., & Freeman, W. J. (1969). Pattern analysis of cortical evoked potential parameters during attention changes. Physiology and Behavior, 4, 60-77. [aCAS]
+
+Ermentrout, B., Campbell, J., & Oster, G. (1986). A model for shell patterns based on neural activity. The Veliger, 28(4), 369-388. [aCAS]
+
+Farmer, D., Hart, J., & Weidman, P. (1982). A phase space analysis of baroclinic flow. Physics Letters A, 91A, 22-24. [AC]
+
+Feldman, J. A., & Ballard, D. H. (1982). Connectionist models and their properties. Cognitive Science, 6, 205-254. [aCAS]
+
+Feyerabend, P. (1978). Against Method. Verso. [CW]
+
+Fienberg, S. E. (1974). Stochastic models for single neuron firing trains: A survey. Biometrics, 30, 399-427. [DHP]
+
+Fodor, J. A. (1983). The Modularity of Mind: An Essay on Faculty Psychology. Bradford/MIT Press. [aCAS]
+
+Freeman, W. J. (1972). Waves, pulses and the theory of neural masses. Progress in Theoretical Biology, 2, 87-165. [aCAS]
+
+Freeman, W. J. (1975). Mass Action in the Nervous System. Academic Press. [aCAS]
+
+Freeman, W. J. (1978). Spatial properties of an EEG event in the olfactory bulb and cortex. Electroencephalography and Clinical Neurophysiology, 44, 586-605. [aCAS]
+
+Freeman, W. J. (1979a). Nonlinear gain mediating cortical stimulus-response relations. Biological Cybernetics, 33, 237-247. [aCAS]
+
+Freeman, W. J. (1979b). Nonlinear dynamics of paleocortex manifested in the olfactory EEG. Biological Cybernetics, 35, 21-54. [aCAS]
+
+Freeman, W. J. (1979c). EEG analysis gives model of neuronal template-matching mechanism for sensory search with olfactory bulb. Biological Cybernetics, 35, 221-234. [aCAS]
+
+Freeman, W. J. (1980). Use of spatial deconvolution to compensate for distortion of EEG by volume conduction. IEEE Transactions on Biomedical Engineering, 27, 421-429. [aCAS]
+
+Freeman, W. J. (1981). A physiological hypothesis of perception. Perspectives in Biology and Medicine, 24, 561-592. [aCAS]
+
+Freeman, W. J. (1983a). Physiological basis of mental images. Biological Psychiatry, 18, 1107-1125. [aCAS]
+
+Freeman, W. J. (1983b). Dynamics of image formation by nerve cell assemblies. In: Synergetics of the Brain, ed. E. Basar, H. Flohr, & A. Mandell. Springer-Verlag. [aCAS]
+
+Freeman, W. J. (1986). Petit mal seizure spikes in olfactory bulb and cortex caused by runaway inhibition after exhaustion of excitation. Brain Research Reviews, 11, 259-284. [aCAS]
+
+Freeman, W. J. (1987a). Simulation of chaotic EEG patterns with a dynamic model of the olfactory system. Biological Cybernetics, 56, 139-150. [aCAS]
+
+Freeman, W. J. (1987b). Techniques used in the search for the physiological basis of the EEG. In: Handbook of Electroencephalography and Clinical Neurophysiology, Vol. 3A, Part 2, Ch. 18, ed. A. Gevins & A. Remond. Elsevier. [aCAS]
+
+Freeman, W. J. & Ahn, S. M. (1976). Spatial and temporal characteristic frequencies of interactive neural masses. Proceedings, IEEE International Conference on Cybernetics and Society, 1-3, 279-284. [aCAS]
+
+Freeman, W. J. & Baird, B. (In press). Correlation of olfactory EEG with behavior: Spatial analysis. Behavioral Neuroscience. [aCAS]
+
+Freeman, W. J. & Grajski, K. A. (In press). Correlation of olfactory EEG with behavior: Factor analysis. Behavioral Neuroscience. [aCAS]
+
+Freeman, W. J. & Schneider, W. S. (1982). Changes in spatial patterns of rabbit olfactory EEG with conditioning to odors. Psychophysiology, 19, 44-56. [aCAS]
+
+Freeman, W. J. & Skarda, C. A. (1985). Spatial EEG patterns, nonlinear dynamics and perception: The neo-Sherringtonian view. Brain Research Reviews, 10, 147-175. [aCAS]
+
+Freeman, W. J. & van Dijk, B. (Submitted). Spatial patterns of visual cortical fast EEG during conditioned reflex in a rhesus monkey. [aCAS]
+
+Freeman, W. J. & Viana Di Prisco, G. (1986a). EEG spatial pattern differences with discriminated odors manifest chaotic and limit cycle attractors in olfactory bulb of rabbits. In: Brain Theory, ed. G. Palm. Springer-Verlag. [aCAS]
+
+Freeman, W. J. & Viana Di Prisco, G. (1986b). Correlation of olfactory EEG with behavior: Time series analysis. Behavioral Neuroscience, 100, 753-763. [aCAS]
+
+Froehling, H., Crutchfield, J., Farmer, D., Packard, N., & Shaw, R. (1981). On determining the dimension of chaotic flows. Physica D, 3D, 605-617. [AG]
+
+Garfinkel, A. (1983). A mathematics for physiology. American Journal of Physiology, 245 (Regulatory, Integrative and Comparative Physiology) 14: R406-R466. [aCAS]
+
+Gauld, A., & Shotter, J. (1977). Human Action and Its Psychological Investigation. Routledge & Kegan Paul. [HB]
+
+Gerstein, G. L., & Mandelbrot, B. (1964). Random walk models for the spike activity of a single neuron. Biophysical Journal, 4, 41-68. [DHP]
+
+Gibson, J. J. (1979). The Ecological Approach to Visual Perception. Houghton Mifflin. [aCAS]
+
+Glass, L., & Mackey, M. (1979). Pathological conditions resulting from instabilities in physiological control systems. Annals of the New York Academy of Sciences, 316, 214-235. [AG]
+
+Gonzalez-Estrada, M. T., & Freeman, W. J. (1980). Effects of carnosine on olfactory bulb EEG, evoked potential, and DC potentials. Brain Research, 202, 373-386. [aCAS]
+
+Goodman, N. (1968). Languages of Art: An Approach to a Theory of Symbols. Bobbs-Merrill. [JAB]
+
+Grajski, K., Breiman, L., Viana Di Prisco, G., & Freeman, W. J. (In press). Classification of EEG spatial patterns with a tree-structured methodology: CART [Classification and Regression Trees]. IEEE Transactions in Biomedical Engineering. [aCAS]
+
+Grassberger, P. (1986). Do climatic attractors exist? Nature, 323, 609-612. [AG]
+
+Grassberger, P., & Procaccia, I. (1983). Measuring the strangeness of strange attractors. Physica D, 9D, 189-208. [aCAS]
+
+Gray, C. M. (1986). Centrifugal regulation of olfactory coding and response plasticity in the olfactory bulb of the conscious rabbit. Ph.D. thesis, Baylor University. [aCAS]
+
+Gray, C. M., Freeman, W. J., & Skinner, J. E. (1986). Chemical dependencies of learning in the rabbit olfactory bulb: Acquisition of the transient spatial-pattern change depends on norepinephrine. Behavioral Neuroscience, 100, 96. [aCAS]
+
+Grossberg, S. (1975). A neural model of attention, reinforcement, and discrimination learning. International Review of Neurobiology, 18, 263-327. [DSL]
+
+Grossberg, S. (1976). Adaptive pattern classification and universal recoding: II. Feedback, expectation, olfaction, and illusions. Biological Cybernetics, 23, 187-202. [aCAS]
+
+Grossberg, S. (1980). How does the brain build a cognitive code? Psychological Review, 87, 1-51. [aCAS, DSL]
+
+Grossberg, S. (1981). Adaptive resonance in development, perception, and cognition. In: Mathematical Psychology and Psychophysiology, ed. S. Grossberg. American Mathematical Society. [aCAS, SC]
+
+Grossberg, S. (1982a). Studies of Mind and Brain: Neural Principles of Learning, Perception, Development, Cognition, and Motor Control. Reidel. [SG]
+
+Grossberg, S. (1982b). Processing of expected and unexpected events during conditioning and attention: A psychophysiological theory. Psychological Review, 89, 529-572. [DSL]
+
+Grossberg, S. (1983). Neural substrates of binocular form perception: Filtering, matching, diffusion, and resonance. In: Synergetics of the Brain, ed. E. Basar, H. Flohr, H. Haken, & A. J. Mandell. Springer-Verlag. [SG]
+
+Grossberg, S. (1987a). The Adaptive Brain I: Cognition, Learning, Reinforcement, and Rhythm. Elsevier/North-Holland. [SC]
+
+Grossberg, S. (1987b). The Adaptive Brain II: Vision, Speech, Language, and Motor Control. Elsevier/North-Holland. [SG]
+
+Grossberg, S., & Levine, D. S. (Submitted). Neural dynamics of attentionally modulated Pavlovian conditioning: Blocking, interstimulus interval, and secondary reinforcement. [DSL]
+
+Grossberg, S., & Stone, G. O. (1986). Neural dynamics of word recognition and recall: Attentional priming, learning, and resonance. Psychological Review, 93, 46-74. [SC]
+
+Guckenheimer, J., & Holmes, P. (1983). Dynamical Systems and Bifurcations of Vector Fields. Springer. [RT]
+
+Hebb, D. O. (1949). The Organization of Behavior. Wiley. [aCAS]
+
+Hinton, G. E. (1985). Learning in parallel networks. Byte, 10, 265. [aCAS]
+
+Hinton, G. E., & Anderson, J. A. (1981). Parallel Models of Associative Memory. Erlbaum. [aCAS]
+
+Holden, A. V. (Ed.). (1986). Chaos. Manchester University Press. [aCAS]
+
+Hopfield, J. J. (1982). Neural networks and physical systems with emergent collective computational abilities. Proceedings of the National Academy of Sciences of the United States of America. [aCAS, RR]
+
+Hopfield, J. J., & Tank, D. W. (1986). Computing with neural circuits: A model. Science, 233, 625-633. [aCAS, DSL, DHP]
+
+Julesz, B. (1984). A brief outline of the texton theory of human vision. Trends in Neuroscience, 7, 41-45. [aCAS]
+
+Kaczmarek, L. K., & Babloyantz, A. (1977). Spatiotemporal patterns in epileptic seizures. Biological Cybernetics, 26, 199. [AB]
+
+Kohonen, T. (1984). Self-Organization and Associative Memory. Springer-Verlag. [aCAS, JAB]
+
+Lancet, D., Greer, C. A., Kauer, J. S., & Shepherd, G. M. (1982). Mapping of odor-related neuronal activity in the olfactory bulb by high-resolution 2-deoxyglucose autoradiography. Proceedings of the National Academy of Sciences of the United States of America, 79, 670-674. [aCAS]
+
+Lashley, K. S. (1942). The problem of cerebral organization in vision. In: Biological Symposia VII, ed. J. Cattell. J. Cattell Press. [aCAS]
+
+Layne, S. P., Mayer-Kress, G., & Holzfuss, J. (1986). Problems associated with dimensional analysis of EEG data. In: Dimensions and Entropies in Chaotic Systems, ed. G. Mayer-Kress. Springer. [AB]
+
+Levine, D. S. (1986). A neural network model of temporal order effects in classical conditioning. In: Modeling of Biomedical Systems, ed. J. Eisenfeld & M. Witten. Elsevier. [DSL]
+
+Lilly, J. C., & Cherry, R. B. (1951). Traveling waves of action and of recovery during responses and spontaneous activity in the cerebral cortex. American Journal of Physiology, 167, 806. [RMB]
+
+Lilly, J. C., & Cherry, R. B. (1954). Surface movements of click responses from acoustical cerebral cortex of cat: Leading and trailing edges of a response figure. Journal of Neurophysiology, 17, 521-532. [RMB]
+
+Lilly, J. C., & Cherry, R. B. (1955). Surface movements of figures in spontaneous activity of anesthetized cortex: Leading and trailing edges. Journal of Neurophysiology, 18, 18-[aCAS]
+
+Livanov, M. N. (1977). Spatial Organization of Cerebral Processes. Wiley. [aCAS]
+
+Lorente de Nó, R. (1934). Studies in the structure of the cerebral cortex. I: The area entorhinalis. Journal für Psychologie und Neurologie, 45, 381-438. [aCAS y]
+
+Lorenz, E. (1963). Deterministic nonperiodic flow. Journal of Atmospheric Sciences, 20, 130-141. [AG]
+
+Mandell, A. J. (1986). Complexity versus disorder in the cardiac monitoring problem: A four-minute warning. Technical report, Mathematics Institute, University of Warwick, Coventry, England. [DHP]
+
+Marr, D. (1982). Vision. Freeman. [DCE]
+
+Marr, D., & Poggio, T. (1976). Cooperative computation of stereo disparity. Science, 194, 283-287. [DCE]
+
+Martinez, D. M., & Freeman, W. J. (1984). Periglomerular cell action on mitral cell in olfactory bulb shown by current source density analysis. Brain Research, 308, 223-233. [aCAS]
+
+Maturana, H. R., & Varela, F. J. (1980). Boston studies in the philosophy of science. Vol. 42: Autopoiesis and Cognition, ed. R. S. Cohen & M. W. Wartofsky. Reidel. [CW]
+
+May, R. M. (1976). Simple mathematical models with very complicated dynamics. Nature, 261, 459-467. [DHP]
+
+McClelland, J. L., & Rumelhart, D. E. (1981). An interactive activation model of context effects in letter perception: Part I. Psychological Review, 88, 375-407. [JAB]
+
+McCulloch, W. S., & Pitts, W. H. (1943). A logical calculus of the ideas immanent in nervous activity. Bulletin of Mathematical Biophysics, 5, 115-[DHP]
+
+Misgeld, U., Deisz, R., Dodt, H., & Lux, H. (1986). The role of chloride transport in postsynaptic inhibition of hippocampal neurons. Science, 232, 1413-1415. [aCAS]
+
+Moore, G. P., Perkel, D. H., & Segundo, J. P. (1966). Statistical analysis and functional interpretation of neuronal spike data. Annual Review of Physiology, 28, 493-522. [DHP]
+
+Moulton, D. G. (1976). Spatial patterning of response to odor in the peripheral olfactory system. Physiological Reviews, 56, 578-593. [aCAS]
+
+Mpitsos, G. J., & Cohan, C. S. (1986). Convergence in a distributed nervous system: Parallel processing and self-organization. Journal of Neurobiology, 17, 517-545. [DHP]
+
+Newberry, N. R., & Nicoll, R. A. (1985). Comparison of the action of baclofen with γ-aminobutyric acid on rat hippocampal pyramidal cells in vitro. Journal of Physiology, 360, 161-185. [aCAS]
+
+Nicolis, J. S. (1984a). Hierarchical systems. Symposium. [AB]
+
+Nicolis, J. S. (1984b). Chaotic dynamics of information processing: North relevance in cognitive brain functions. Kybernetes, 14, 167-173. [aCAS]
+
+Nicolis, J. S., & Tsuda, I. (1983). Chaotic dynamics of information processing: The “magic number seven plus-minus two” revisited. Bulletin of Mathematical Biology, 47, 343-365. [aCAS]
+
+Oono, Y., & Kohmoto, M. (1983). Discrete model of chemical turbulence. Physical Review Letters, 55, 2927-2931. [MAC]
+
+Pellionisz, A., & Llinas, R. (1979). Brain modeling by tensor network theory and computer simulation. The cerebellum: Distributed processor for predictive coordination. Neuroscience, 4, 323-348. [DHP]
+
+Perkel, D. H., & Bullock, T. H. (1968). Neural coding. Neurosciences Research Program Bulletin, 6, 221-348. [aCAS]
+
+Perkel, D. H., Gerstein, G. L., & Moore, G. P. (1967a). Neuronal spike trains and stochastic point processes. I. The single spike train. Biophysical Journal, 7, 391-418. [DHP]
+
+Perkel, D. H., Gerstein, G. L., & Moore, G. P. (1967b). Neuronal spike trains and stochastic point processes. II. Simultaneous spike trains. Biophysical Journal, 7, 419-440. [DHP]
+
+Pylyshyn, Z. W. (1984). Computation and Cognition: Toward a Foundation for Cognitive Science. Bradford Books/MIT Press. [aCAS]
+
+Rapp, P. E., Zimmerman, I. D., Albano, A. M., Deguzman, G. C., & Greenbaun, N. N. (1985). Dynamics of spontaneous neural activity in the simian motor cortex. Physics Letters A, 110A, 335. [AB]
+
+Rayleigh, Lord (John William Strutt) (1916). Philosophical Magazine, 32, 529-546. [RT]
+
+Riemann, B. (1902). Gesammelte Werke, Nachträge. Teubner. [RT]
+
+Roschke, J., & Basar, E. (In press). EEG is not a simple noise: Strange attractors in intracranial structures. In: Dynamics of Sensory and Cognitive Processing by the Brain, ed. E. Basar. Springer. [AB]
+
+Rosenblatt, F. (1962). Principles of Neurodynamics: Perceptrons and the Theory of Brain Mechanisms. Spartan. [aCAS, DHP]
+
+Rössler, O. E. (1983). The chaotic hierarchy. Zeitschrift für Naturforschung, 38A, 788-802. [aCAS]
+
+Ruelle, D., & Takens, F. (1971). On the nature of turbulence. Communications in Mathematical Physics, 20, 167. [RT]
+
+Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning representations by back-propagating errors. Nature, 323, 533-536. [DHP]
+
+Rumelhart, D., McClelland, J. L., & PDP Research Group (1986). Parallel Distributed Processing: Explorations in the Microstructure of Cognition, Vol. 1: Foundations. MIT/Bradford. [aCAS]
+
+Rumelhart, D., McClelland, J. L., & PDP Research Group (1986). Parallel Distributed Processing: Explorations in the Microstructures of Cognition, Vol. I: Foundations. MIT/Bradford. [aCAS]
+
+Sampath, G., & Srinivasan, S. K. (1977). Stochastic Models for Spike Trains of Single Neurons. Springer-Verlag. [DHP]
+
+Schuster, H. (1984). Deterministic Chaos: An Introduction. Physik-Verlag. [aCAS, RB]
+
+Searle, J. R. (1980). Minds, brains, and programs. Behavioral and Brain Sciences, 3, 417-457. [RB]
+
+Shaw, C. L., Silverman, D. J., & Pearson, J. C. (1985). Model of cortical organization embodying a basis for a theory of information processing and memory recall. Proceedings of the National Academy of Sciences of the United States of America, 82, 2364-2368. [DHP]
+
+Shaw, R. (1984). The Dripping Faucet as a Model Chaotic System. Ariel Press. [aCAS]
+
+Sheer, D. E. (1976). Focused arousal and 40 Hz EEG. In: The Neuropsychology of Learning Disorders: Theoretical Approaches, ed. R. M. Knights & D. J. Baker. University Park Press. [aCAS]
+
+Shepherd, G. M. (1972). Synaptic organization of the mammalian olfactory bulb. Physiological Reviews, 52, 864-917. [aCAS]
+
+Sherrington, C. (1934). The Integrative Action of the Nervous System. Yale University Press. [aCAS]
+
+Sherrington, C. (1940, rev. ed. 1953). Man on His Nature. Cambridge University Press. [DHP]
+
+Skarda, C. A. (1986). Explaining behavior: Bringing the brain back in. Inquiry, 29, 187-202. [aCAS]
+
+Thom, R. (1981). Morphologie du sémiotique, recherches sémiotiques. Semiotic Inquiry, 1, 301-310. [RT]
+
+Turner, J. S., Roux, J. C., McCormick, W. D., & Swinney, H. L. (1981). Alternating periodic and chaotic regimes in a chemical reaction - experiment and theory. Physics Letters A, 85A, 9-14. [AG]
+
+Viana Di Prisco, G. (1984). Hebb synaptic plasticity. Progress in Neurobiology, 22, 89-102. [aCAS]
+
+Viana Di Prisco, G., & Freeman, W. J. (1985). Odor-related bulbar EEG spatial pattern analysis during appetitive conditioning in rabbits. Behavioral Neuroscience, 99, 964-978. [aCAS]
+
+von Neumann, J. (1958). The Computer and the Brain. Yale University Press. [aCAS, DHP]
+
+Waddington, C. H. (1957). The Strategy of the Genes. Allen & Unwin. [RT]
+
+Walter, W. G. (1953). The Living Brain. Norton. [aCAS]
+
+Whitehead, A. N. (1960). Process and Reality. Harper & Row. [aCAS, RT]
+
+Willey, T. J. (1973). The ultrastructure of the cat olfactory bulb. Journal of Comparative Neurology, 152, 211-232. [aCAS]
+
+Wilson, D. A., Sullivan, R. M., & Leon, M. (1985). Odor familiarity alters mitral cell response in the olfactory bulb of neonatal rats. Developmental Brain Research, 22, 314-317. [aCAS, DHP]
+
+Winfree, A. T. (1980). The Geometry of Biological Time (Section 8D). Springer-Verlag. [MAC]
+
+Wolfram, S. (1984). Cellular automata as models of complexity. Nature, 311, 419-424. [DHP]
+
+Zucker, R. S. (1973). Changes in the statistics of transmitter release during facilitation. Journal of Physiology (London), 241, 69-89. [DHP]

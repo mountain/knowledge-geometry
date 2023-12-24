@@ -1,0 +1,25 @@
+rm *.acn
+rm *.acr
+rm *.aux
+rm *.alg
+rm *.bib
+rm *.bbl
+rm *.bcf
+rm *.blg
+rm *.glg
+rm *.gls
+rm *.log
+rm *.pdf
+rm *.toc
+rm *.glo
+rm *.idx
+rm *.out
+rm *.xdy
+rm *.xml
+
+xelatex skarda-freeman-1987
+xelatex skarda-freeman-1987
+bibtex skarda-freeman-1987
+xelatex skarda-freeman-1987
+xelatex skarda-freeman-1987
+xelatex skarda-freeman-1987
