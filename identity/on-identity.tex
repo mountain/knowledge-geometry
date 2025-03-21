@@ -1,0 +1,124 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{hyperref}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{xeCJK} % 支持中文
+\usepackage{url} % 推荐使用 url 包处理 URL
+
+\title{恒等组合子“I”在计算、信息论、学习和哲学中的应用}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\section{引言}
+
+恒等组合子 I 是一个简单而深刻的概念，出现在多个领域。在计算中，I 是返回其输入不变的组合子——看似微不足道，但在组合逻辑中却是基本的。在通用计算中，即使是“什么都不做”的操作也可以在图灵完备系统中发挥作用。在算法信息论（AIT）中，通用图灵机（UTM）上随机程序的概念导致了一种通用概率分布，该分布隐含地依赖于能够表示任何计算——一种类似于机器之间具有恒等映射的通用性。在形式学习理论中，“镜像”观察到的数据（本质上是对输入使用恒等函数）是一种基本的学习策略，说明了学习者如何形成最终镜像目标概念的假设。最后，在哲学和认知科学中，“我”（自我）的概念通常被视为最终的反射组合子——心灵代表自身和世界的能力（一种自然的镜子）。本报告探讨了关于“I”的每一种观点，重点介绍了连接这些领域的清晰示例和理论见解。
+
+\section{组合逻辑和通用计算中的 I}
+
+在组合逻辑中，恒等组合子 I 的定义非常简单：对于任何参数 \( x \)，\( (I \, x) = x \)（参见 \href{https://en.wikipedia.org/wiki/Combinatory_logic#The_I_combinator}{维基百科 - 组合逻辑中的 I 组合子}）。换句话说，I 返回其输入而不做任何更改。组合逻辑由 Schönfinkel 和 Curry 引入，通过使用组合子（高阶函数）消除了变量。除了 I 之外，通常还使用另外两个基本组合子：K（忽略其第二个参数，充当常数函数）和 S（组合函数，有效地将参数分发给两个函数）（参见 \href{https://en.wikipedia.org/wiki/Combinatory_logic}{维基百科 - 组合逻辑}）。值得注意的是，I 本身并非独立于 S 和 K 的——它可以由它们构建而成。例如，I 可以表示为 \( S \, K \, K \)，因为对于任何 \( x \)，\( ((S \, K \, K) \, x) \) 都归约为 \( x \)（参见 \href{https://en.wikipedia.org/wiki/Combinatory_logic#The_I_combinator}{维基百科 - 组合逻辑中的 I 组合子}）。这表明，虽然 I 在行为上是最简单的组合子，但如果需要，它可以从更原始的组合子中产生。
+
+\subsection{通用性}
+
+一个引人注目的事实是，仅使用 S 和 K（以及由此延伸的 I）的组合逻辑是图灵完备的。任何可计算函数或 lambda 演算表达式都可以使用 S 和 K 的组合进行编码（参见 \href{https://en.wikipedia.org/wiki/Combinatory_logic}{维基百科 - 组合逻辑}）。实际上，这意味着存在行为类似于任意算法的组合子表达式。Curry 和其他人证明，对于每个 lambda 项（或图灵机），都可以找到一个等效的组合子表达式（使用 S、K 等）（参见 \href{https://wolframscience.com/writings/combinators-and-the-story-of-computation/}{Wolfram Science - 组合子与计算的故事}）。恒等组合子 I 本身在 lambda 演算中是 \( \lambda x.x \)，其类型为 \( \alpha \to \alpha \)——它是最简单的非平凡函数。虽然 I 不增加计算能力（它不改变数据），但它在组合子表达式中充当一个中性元素，并且对于函数推理很有用（例如，I 在函数组合中充当单位元素）。
+
+\subsection{与通用图灵机（UTM）的关系}
+
+由于组合逻辑可以表达任何算法，因此可以构建一个通用组合子来编码通用图灵机的行为。UTM 是一种能够模拟任何其他图灵机的机器，前提是给定其描述作为输入。用组合逻辑术语来说，存在一个组合子 \( U \)，使得 \( U \langle M \rangle \langle w \rangle \) 的求值结果与机器 \( M \) 在输入 \( w \) 上的结果相同。恒等组合子在这里起着概念性的作用：UTM 的操作包括有效地复制数据或什么都不做的步骤（当程序的一部分只是移动磁头或不变地传递一个值时）。这种“无操作”步骤本质上是恒等操作。更抽象地说，UTM 和组合子基础实现的通用计算依赖于在需要时能够不变地传递值。恒等组合子（或等效机制）的存在确保了计算系统可以忠实地传播信息而不进行更改。
+
+总之，组合逻辑中的 I 表明，即使是对一块数据“什么都不做”的能力也是系统表达完备性的一部分。事实上，S-K 基础的完备性意味着 I（作为 \( S \, K \, K \)）是能够表示“任何可计算函数”的工具箱的一部分（参见 \href{https://en.wikipedia.org/wiki/Combinatory_logic}{维基百科 - 组合逻辑}），从而巩固了其与通用计算的关系。
+
+\section{算法信息论：UTM 概率和随机程序}
+
+算法信息论通过考虑通用机器上随机程序的输出分布将计算与概率联系起来。如果我们取一个通用图灵机 \( U \) 并向其输入一个随机二进制程序带，那么它输出特定字符串 \( x \) 的概率是多少？这被称为 \( x \) 的算法概率（或 Solomonoff 概率）。形式上，可以将通用离散半测度 \( m(x) \) 定义为：
+\[
+m(x) := \sum_{\substack{p: \, U(p)=x}} 2^{-|p|}
+\]
+其中对所有产生输出 \( x \)（并停止）的程序 \( p \) 求和（参见 \url{http://fon.hum.uva.nl/Leo/ozsvart/ait/szabo.pdf}）。换句话说，“算法概率衡量的是一个随机程序在通用图灵机上执行时产生特定输出的概率”（参见 \url{https://envisioning.io/glossary/algorithmic-probability/}）。每个程序 \( p \) 都被视为一系列公平的抛硬币（因此长度为 \( |p| \) 的程序的权重为 \( 2^{-|p|} \)），较短的程序贡献更多的权重。直观地说，简单/规则的输出（具有较短的描述）获得较高的概率，而复杂的输出（需要较长的程序）具有指数级小的概率。这个概念与柯尔莫哥洛夫复杂度密切相关：具有较低柯尔莫哥洛夫复杂度（简短描述）的输出具有较高的算法概率。
+
+\subsection{分布的通用性}
+
+重要的是，由 UTM 定义的这种概率分布在贝叶斯意义上是通用的。Solomonoff 的理论表明，如果你选择一个不同的通用机器 \( U' \) 或不同的编码，得到的分布 \( m_{U'}(x) \) 与 \( m_U(x) \) 的差异最多是一个常数乘法因子（这要归功于不变性定理）。换句话说，在归一化之前，通用分布之间存在一个隐含的恒等映射——确切的概率可能不同，但除了常数缩放之外，通过更改机器，没有字符串会从微不足道的概率变为高概率，反之亦然。此外，Solomonoff 的通用先验 \( M(x) \) 支配着所有可计算的概率测度。对于任何可计算过程可能赋予的有效概率分布 \( \mu(x) \)，都存在某个固定常数 \( c_{\mu} > 0 \)，使得对于所有 \( x \)，都有 \( M(x) \geq c_{\mu} \cdot \mu(x) \)（参见 \url{https://arxiv.org/pdf/cs/0007009.pdf}）。这种支配地位意味着通用半测度至少对任何可计算预测器可能赋予的任何结果都赋予了一定的基本概率——这反映了其真正的通用覆盖范围。
+
+\subsection{随机程序和通用性}
+
+恒等组合子在这里的作用更加抽象，但我们可以进行类比：通用机器必须能够模拟其他机器。模拟通常涉及将代码解释为数据，反之亦然，这实际上需要在元级别进行恒等变换（通用机器必须在某个时刻将其模拟机器描述的位视为字面数据）。如果通用机器在需要时无法不变地传递代码（恒等操作），它就无法正确地模拟任意程序。因此，从某种意义上说，算法概率的通用性取决于 UTM 忠实地表示任何其他机器程序的能力（描述及其解释含义之间的恒等对应关系）。由此产生的分布是所有可能输出的加权“混合”——通常称为通用分布——它是归纳推理（Solomonoff 归纳）的黄金标准。
+
+总之，算法信息论强调了通用机器的“恒等性”（其固定的计算参考表）如何使随机程序产生一个原则上涵盖所有可计算模式的分布。
+
+\section{形式学习理论中的恒等和镜像}
+
+形式学习理论（或极限中的归纳推理）关注的是在给定数据的情况下，有效的学习者如何最终收敛到正确的理论或函数。在这种背景下，一个简单但具有说明性的策略是通过镜像学习：学习者简单地假设目标概念恰好是迄今为止观察到的所有数据的集合（或恰好匹配所有观察到的输入-输出对的函数）。实际上，学习者对数据使用恒等函数——它死记硬背数据并将其作为当前的假设。这种策略可以描述为：在步骤 \( n \)，输出 \( H_n = \text{（迄今为止看到的所有数据）} \) 作为假设语言（或者类似地，输出与所有看到的输入-输出示例一致并在其他地方未定义的偏函数）。这种“迄今为止看到的所有字符串的并集”的方法确实是 Gold 模型中的一种学习算法（参见 \url{https://en.wikipedia.org/wiki/Language_identification_in_the_limit}）。
+
+如果目标语言 \( L \) 是有限的，那么总是猜测 \( L_n = \text{（迄今为止看到的字符串）} \) 的学习者最终会将其所有元素都包含在其猜测中。在看到有限语言的最后一个元素之后，猜测 \( L_n \) 变得正确（等于 \( L \)）并且此后保持正确。学习者已经在极限中识别出了 \( L \)：它可能不知道它有正确的答案，但它永远不会再改变它的答案，并且该答案在扩展意义上是正确的。这说明了通过镜像进行识别：最终的假设实际上是目标概念的镜像（它已经收敛为与 \( L \) 完全相同）。
+
+\subsection{学习的局限性}
+
+如果目标语言或函数是无限的，那么同样的幼稚的“镜像”策略将永远不会收敛（假设随着新数据的到来而不断增长）。学习者不断改变主意，在极限中接近目标，但永远不会确定最终的正确答案。在这些情况下，需要更复杂的策略来检测模式或最终停止添加额外的假设。然而，形式学习理论中任何成功的策略最终都必须在看到足够的数据后产生一个等效于目标的假设——换句话说，它必须从那时起输出一个在扩展意义上与目标相同的函数（参见 \url{https://en.wikipedia.org/wiki/Language_identification_in_the_limit}）。
+
+形式学习理论的结果既展示了这种识别的力量，也展示了它的局限性。Gold (1967) 证明，某些类，例如所有有限语言，在极限中是可学习的，而所有可计算语言（或函数）的类是任何算法都不可学习的（参见 \url{https://en.wikipedia.org/wiki/Language_identification_in_the_limit}）。
+
+总之，形式学习理论强调，在成功的学习过程结束时，学习者的输出函数和世界的函数是相同的（学习者已经有效地在世界和它的思想之间应用了恒等变换），并且它强调了忠实地镜像数据和进行真正的概括所需的飞跃之间的张力。
+
+\section{哲学和认知视角：“我”作为自我指涉和世界镜像}
+
+从哲学的角度来看，“我”这个符号作为经验的自我或主体，具有深刻的意义。在逻辑中，I（恒等组合子）对应于最基本的自蕴涵重言式：在逻辑和计算之间的 Curry-Howard 对应中，组合子 I 具有类型 \( \alpha \to \alpha \)，这是公式“\( \alpha \to \alpha \)”的证明（参见 \url{https://en.wikipedia.org/wiki/Curry–Howard_correspondence}）。这本质上是逻辑中的同一律——事物就是其自身。
+
+\subsection{心灵的镜子}
+
+许多哲学家和认知科学家将心灵视为一种自然的镜子——一种在理想情况下反映世界本来面目的表征。道格拉斯·霍夫施塔特在《我是个怪圈》中认为，意识和自我（我）的本质是一个围绕自身旋转的反馈回路——大脑的符号库包括对大脑（或人）自身的表征。这种奇特的循环使自我意识成为可能：心灵不仅镜像外部世界，而且还可以镜像自身（参见 \url{https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop}）。
+
+\subsection{镜像神经元}
+
+神经科学提供了一个引人注目的例子：镜像神经元的发现。这些神经元在动物执行某个动作时以及观察到另一个动物执行相同动作时都会放电。本质上，观察者的大脑正在运行观察到的动作和其自身动作表征之间的恒等映射（参见 \url{https://solportal.ibe-unesco.org/wp-content/uploads/2018/05/INSIGHTS-6.pdf}）。这种内置的镜像机制被认为构成了模仿学习和同理心的基础。
+
+\subsection{自我识别}
+
+自我（“我”）的概念在认知发展中也经历了一种镜像测试。大约在 18-24 个月大的时候，人类儿童开始在镜子中认出自己——他们意识到镜子里的影像就是他们自己，而不是另一个孩子。这种意识本质上是孩子理解了他们感知到的自我和实际自我之间的恒等关系。
+
+总之，在哲学和认知视角中，“我”是使心灵具有反思性和普遍性的能力——它可以指涉自身，将他人建模为自身，从而理解它所经历的任何事物。
+
+\section{联系和见解}
+
+在这些领域中，我们看到了一个统一的主题：恒等和自我指涉使通用性和学习成为可能。
+
+\begin{itemize}
+    \item \textbf{自我指涉和通用性}：许多通用系统通过某种形式的自我指涉来实现通用性。通用图灵机读取自身描述的能力或编程语言编译自身的能力都需要一种类似恒等的机制。
+    \item \textbf{恒等与变换}：恒等函数对其输入不做任何操作，但正是这种特性使其成为执行复杂操作的多功能组件。
+    \item \textbf{镜像和意义}：镜子本身是被动的，但当你把两面镜子面对面放置时，会得到无限的反射，这类似于在递归上下文中放置恒等组合子。
+\end{itemize}
+
+总之，不起眼的恒等组合子 I 是连接不同领域的概念纽带：它象征着反射、保真度和通用性。
+
+\section{参考文献}
+
+\begin{thebibliography}{10} % {10} 表示参考文献数量的上限，用于调整编号宽度
+
+\bibitem{stanfordlogic} 斯坦福哲学百科全书 – 组合逻辑. \url{https://plato.stanford.edu/entries/logic-combinatory/}
+
+\bibitem{wolframcombinators} Wolfram Science – 组合子与计算的故事. \url{https://wolframscience.com/writings/combinators-and-the-story-of-computation/}
+
+\bibitem{wikicombinatorylogic} 维基百科 – 组合逻辑. \url{https://en.wikipedia.org/wiki/Combinatory_logic}
+
+\bibitem{envisioningait} Envisioning.io – 算法概率. \url{https://envisioning.io/glossary/algorithmic-probability/}
+
+\bibitem{szaboait} Szabo – 算法信息论. \url{http://fon.hum.uva.nl/Leo/ozsvart/ait/szabo.pdf}
+
+\bibitem{arxivuniversal} arXiv – 通用分布. \url{https://arxiv.org/pdf/cs/0007009.pdf}
+
+\bibitem{wikiidentification} 维基百科 – 极限中的语言识别. \url{https://en.wikipedia.org/wiki/Language_identification_in_the_limit}
+
+\bibitem{wikicurryhoward} 维基百科 – Curry-Howard 对应. \url{https://en.wikipedia.org/wiki/Curry–Howard_correspondence}
+
+\bibitem{wikiimastrangeloop} 维基百科 – 我是个怪圈. \url{https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop}
+
+\bibitem{unescomirror} UNESCO – 镜像神经元. \url{https://solportal.ibe-unesco.org/wp-content/uploads/2018/05/INSIGHTS-6.pdf}
+
+\end{thebibliography}
+
+\end{document}
